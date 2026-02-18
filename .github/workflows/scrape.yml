@@ -1,0 +1,45 @@
+name: 📰 Telugu News Scraper
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'   # Every 5 minutes — FREE on public repo
+  workflow_dispatch:          # Manual trigger from GitHub UI
+
+permissions:
+  contents: write             # Required to commit JSON back to repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4        # Safety: kill if hangs before next run
+
+    steps:
+      - name: ⬇️ Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: ⚙️ Setup Node.js 18
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'npm'
+          cache-dependency-path: scraper/package-lock.json
+
+      - name: 📦 Install dependencies
+        run: cd scraper && npm install
+
+      - name: 🚀 Run scraper + translator
+        run: cd scraper && node index.js
+        env:
+          NODE_ENV: production
+
+      - name: 💾 Commit updated JSON data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet && echo "⏭️ No changes, skipping commit." || (
+            git commit -m "📰 వార్తలు అప్‌డేట్: $(TZ='Asia/Kolkata' date '+%d-%m-%Y %H:%M IST')"
+            git push
+          )

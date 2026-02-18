@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="te" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>తాజా వార్తలు — Telugu News</title>
+  <meta name="description" content="తెలుగులో తాజా వార్తలు — India, Telangana, Andhra Pradesh, Business, Sports, Tech" />
+
+  <!-- Google Fonts: Telugu + English -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@400;600;700&family=Noto+Sans+Telugu:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+
+  <style>
+    /* ── CSS Variables ── */
+    :root {
+      --saffron:   #FF6B00;
+      --saffron-d: #E55A00;
+      --green:     #138808;
+      --navy:      #000080;
+      --white:     #FFFFFF;
+      --bg:        #F5F3EE;
+      --surface:   #FFFFFF;
+      --border:    #E2DDD6;
+      --text:      #1A1A1A;
+      --text-muted:#6B6560;
+      --red:       #CC2200;
+      --shadow:    0 2px 12px rgba(0,0,0,0.08);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Noto Sans Telugu', 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: linear-gradient(135deg, var(--saffron) 0%, var(--saffron-d) 100%);
+      color: white;
+      padding: 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 3px 20px rgba(255,107,0,0.4);
+    }
+
+    .header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 14px 24px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: white;
+    }
+
+    .logo-icon {
+      width: 44px;
+      height: 44px;
+      background: rgba(255,255,255,0.2);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+    }
+
+    .logo-text h1 {
+      font-family: 'Noto Serif Telugu', serif;
+      font-size: 22px;
+      font-weight: 700;
+      line-height: 1.1;
+    }
+
+    .logo-text span {
+      font-size: 11px;
+      opacity: 0.85;
+      font-family: 'Inter', sans-serif;
+      letter-spacing: 0.5px;
+    }
+
+    .header-meta {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      font-size: 13px;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .live-badge {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(255,255,255,0.2);
+      padding: 5px 12px;
+      border-radius: 20px;
+    }
+
+    .live-dot {
+      width: 8px;
+      height: 8px;
+      background: #AAFFAA;
+      border-radius: 50%;
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0%, 100% { opacity: 1; transform: scale(1); }
+      50%       { opacity: 0.5; transform: scale(1.3); }
+    }
+
+    #last-updated {
+      opacity: 0.85;
+      font-size: 12px;
+    }
+
+    /* ── Nav Tabs ── */
+    nav {
+      background: rgba(0,0,0,0.15);
+      overflow-x: auto;
+      scrollbar-width: none;
+    }
+    nav::-webkit-scrollbar { display: none; }
+
+    .nav-tabs {
+      display: flex;
+      gap: 0;
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 16px;
+    }
+
+    .nav-tab {
+      padding: 10px 18px;
+      font-size: 14px;
+      font-family: 'Noto Sans Telugu', 'Inter', sans-serif;
+      font-weight: 500;
+      color: rgba(255,255,255,0.8);
+      background: none;
+      border: none;
+      cursor: pointer;
+      white-space: nowrap;
+      border-bottom: 3px solid transparent;
+      transition: all 0.2s;
+    }
+
+    .nav-tab:hover  { color: white; background: rgba(255,255,255,0.1); }
+    .nav-tab.active { color: white; border-bottom-color: white; font-weight: 600; }
+
+    /* ── Breaking News Ticker ── */
+    .ticker-wrap {
+      background: var(--red);
+      color: white;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+      height: 36px;
+    }
+
+    .ticker-label {
+      background: #990000;
+      padding: 0 16px;
+      font-size: 12px;
+      font-weight: 700;
+      font-family: 'Inter', sans-serif;
+      letter-spacing: 1px;
+      white-space: nowrap;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .ticker-content {
+      overflow: hidden;
+      flex: 1;
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+
+    .ticker-scroll {
+      display: flex;
+      gap: 60px;
+      animation: ticker 40s linear infinite;
+      white-space: nowrap;
+      font-size: 13px;
+      font-family: 'Noto Sans Telugu', sans-serif;
+    }
+
+    @keyframes ticker {
+      0%   { transform: translateX(100vw); }
+      100% { transform: translateX(-100%); }
+    }
+
+    /* ── Main Layout ── */
+    main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+
+    /* ── Search Bar ── */
+    .search-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 24px;
+    }
+
+    .search-input {
+      flex: 1;
+      padding: 12px 18px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      font-size: 15px;
+      font-family: 'Noto Sans Telugu', 'Inter', sans-serif;
+      background: var(--surface);
+      transition: border-color 0.2s;
+      outline: none;
+    }
+
+    .search-input:focus { border-color: var(--saffron); }
+
+    .search-btn {
+      padding: 12px 22px;
+      background: var(--saffron);
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 18px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .search-btn:hover { background: var(--saffron-d); }
+
+    /* ── Grid ── */
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 20px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      transition: transform 0.2s, box-shadow 0.2s;
+      display: flex;
+      flex-direction: column;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 30px rgba(0,0,0,0.13);
+    }
+
+    .card-img {
+      width: 100%;
+      height: 190px;
+      object-fit: cover;
+      background: linear-gradient(135deg, #f0ede8, #e8e3dc);
+      display: block;
+    }
+
+    .card-img-placeholder {
+      width: 100%;
+      height: 190px;
+      background: linear-gradient(135deg, var(--saffron) 0%, #FF9500 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 48px;
+    }
+
+    .card-body {
+      padding: 16px;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .source-badge {
+      font-size: 11px;
+      font-weight: 600;
+      padding: 3px 9px;
+      border-radius: 20px;
+      background: var(--saffron);
+      color: white;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .cat-badge {
+      font-size: 11px;
+      padding: 3px 9px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      font-family: 'Inter', sans-serif;
+    }
+
+    .time-ago {
+      font-size: 11px;
+      color: var(--text-muted);
+      font-family: 'Inter', sans-serif;
+    }
+
+    .card-title {
+      font-family: 'Noto Serif Telugu', serif;
+      font-size: 17px;
+      font-weight: 700;
+      line-height: 1.5;
+      color: var(--text);
+    }
+
+    .card-title-en {
+      font-size: 12px;
+      color: var(--text-muted);
+      font-family: 'Inter', sans-serif;
+      line-height: 1.4;
+      font-style: italic;
+    }
+
+    .card-summary {
+      font-size: 14px;
+      line-height: 1.7;
+      color: #4A4540;
+      font-family: 'Noto Sans Telugu', sans-serif;
+      flex: 1;
+    }
+
+    .card-footer {
+      padding: 10px 16px;
+      border-top: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .read-more {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--saffron);
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ── State screens ── */
+    .state-screen {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+    }
+
+    .state-screen .icon { font-size: 64px; margin-bottom: 16px; }
+    .state-screen h2 { font-size: 22px; margin-bottom: 8px; color: var(--text); }
+    .state-screen p  { font-size: 15px; }
+
+    .spinner {
+      width: 48px;
+      height: 48px;
+      border: 4px solid var(--border);
+      border-top-color: var(--saffron);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 20px;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    /* ── Load more ── */
+    .load-more-wrap { text-align: center; margin-top: 32px; }
+    .load-more-btn {
+      padding: 14px 40px;
+      background: var(--saffron);
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 15px;
+      font-family: 'Noto Sans Telugu', sans-serif;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .load-more-btn:hover { background: var(--saffron-d); }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 28px;
+      margin-top: 40px;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+      color: var(--text-muted);
+      font-family: 'Inter', sans-serif;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 600px) {
+      .header-top { padding: 12px 14px; }
+      .logo-text h1 { font-size: 18px; }
+      #last-updated { display: none; }
+      .news-grid { grid-template-columns: 1fr; gap: 14px; }
+      main { padding: 16px 12px; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── Header ── -->
+<header>
+  <div class="header-top">
+    <a href="#" class="logo">
+      <div class="logo-icon">📰</div>
+      <div class="logo-text">
+        <h1>తాజా వార్తలు</h1>
+        <span>LATEST INDIAN NEWS IN TELUGU</span>
+      </div>
+    </a>
+    <div class="header-meta">
+      <div class="live-badge">
+        <div class="live-dot"></div>
+        <span>LIVE</span>
+      </div>
+      <div id="last-updated">లోడ్ అవుతోంది...</div>
+    </div>
+  </div>
+
+  <!-- Category tabs -->
+  <nav>
+    <div class="nav-tabs">
+      <button class="nav-tab active" data-cat="all">🏠 అన్నీ</button>
+      <button class="nav-tab" data-cat="india">🇮🇳 భారతదేశం</button>
+      <button class="nav-tab" data-cat="telangana">🌟 తెలంగాణ</button>
+      <button class="nav-tab" data-cat="andhra">🌊 ఆంధ్రప్రదేశ్</button>
+      <button class="nav-tab" data-cat="business">💼 వ్యాపారం</button>
+      <button class="nav-tab" data-cat="sports">🏏 క్రీడలు</button>
+      <button class="nav-tab" data-cat="tech">💻 సాంకేతికత</button>
+      <button class="nav-tab" data-cat="politics">🗳️ రాజకీయాలు</button>
+    </div>
+  </nav>
+</header>
+
+<!-- ── Breaking News Ticker ── -->
+<div class="ticker-wrap">
+  <div class="ticker-label">⚡ తాజా వార్తలు</div>
+  <div class="ticker-content">
+    <div class="ticker-scroll" id="ticker">వార్తలు లోడ్ అవుతున్నాయి...</div>
+  </div>
+</div>
+
+<!-- ── Main Content ── -->
+<main>
+  <div class="search-bar">
+    <input
+      type="text"
+      class="search-input"
+      id="search-input"
+      placeholder="వార్తలు వెతకండి... (Search news)"
+    />
+    <button class="search-btn" id="search-btn">🔍</button>
+  </div>
+
+  <div id="news-container">
+    <div class="state-screen">
+      <div class="spinner"></div>
+      <h2>వార్తలు లోడ్ అవుతున్నాయి...</h2>
+      <p>Loading latest Telugu news</p>
+    </div>
+  </div>
+
+  <div class="load-more-wrap" id="load-more-wrap" style="display:none">
+    <button class="load-more-btn" id="load-more-btn">మరిన్ని వార్తలు చూడండి ↓</button>
+  </div>
+</main>
+
+<footer>
+  <p>📰 తాజా వార్తలు — ప్రతి 5 నిమిషాలకు అప్‌డేట్ అవుతుంది</p>
+  <p style="margin-top:6px">Sources: NDTV · Times of India · The Hindu · Eenadu · Sakshi · ET · Cricinfo &amp; more</p>
+</footer>
+
+<script>
+// ── CONFIG ──────────────────────────────────────────────────
+// UPDATE THIS with your actual GitHub Pages URL after deploying!
+const BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+  ? '.'          // Local: use relative path
+  : '.';         // GitHub Pages: also relative — works automatically!
+
+const CATEGORY_FILES = {
+  all:       'news',
+  india:     'india',
+  telangana: 'telangana',
+  andhra:    'andhra',
+  business:  'business',
+  sports:    'sports',
+  tech:      'tech',
+  politics:  'politics'
+};
+
+const CAT_EMOJI = {
+  india:     '🇮🇳',
+  telangana: '🌟',
+  andhra:    '🌊',
+  business:  '💼',
+  sports:    '🏏',
+  tech:      '💻',
+  politics:  '🗳️',
+  world:     '🌍'
+};
+
+// ── STATE ────────────────────────────────────────────────────
+let allArticles   = [];
+let filtered      = [];
+let currentCat    = 'all';
+let displayCount  = 20;
+let searchQuery   = '';
+let refreshTimer  = null;
+
+// ── TIME HELPERS ─────────────────────────────────────────────
+function timeAgo(dateStr) {
+  const diff = Date.now() - new Date(dateStr).getTime();
+  const mins  = Math.floor(diff / 60000);
+  const hours = Math.floor(mins / 60);
+  const days  = Math.floor(hours / 24);
+
+  if (mins  < 1)   return 'ఇప్పుడే';
+  if (mins  < 60)  return `${mins} నిమిషాల క్రితం`;
+  if (hours < 24)  return `${hours} గంటల క్రితం`;
+  return `${days} రోజుల క్రితం`;
+}
+
+function formatIST(dateStr) {
+  return new Date(dateStr).toLocaleString('te-IN', {
+    timeZone: 'Asia/Kolkata',
+    day: '2-digit', month: 'short', year: 'numeric',
+    hour: '2-digit', minute: '2-digit'
+  });
+}
+
+// ── FETCH DATA ────────────────────────────────────────────────
+async function fetchNews(category = 'all') {
+  const file = CATEGORY_FILES[category] || 'news';
+  const url  = `${BASE_URL}/data/${file}.json?t=${Date.now()}`;
+
+  try {
+    const res  = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    return data.articles || [];
+  } catch (err) {
+    // If category file doesn't exist yet, fall back to news.json
+    if (category !== 'all') {
+      const fallback = await fetch(`${BASE_URL}/data/news.json?t=${Date.now()}`);
+      const data = await fallback.json();
+      const articles = data.articles || [];
+      return articles.filter(a => a.category === category);
+    }
+    throw err;
+  }
+}
+
+async function fetchMeta() {
+  try {
+    const res  = await fetch(`${BASE_URL}/data/meta.json?t=${Date.now()}`);
+    const data = await res.json();
+    return data;
+  } catch { return null; }
+}
+
+// ── RENDER ────────────────────────────────────────────────────
+function renderCard(article) {
+  const title   = article.title_te || article.title || 'శీర్షిక అందుబాటులో లేదు';
+  const titleEn = (article.title_te && article.title_te !== article.title) ? article.title : '';
+  const summary = article.summary_te || article.summary || '';
+  const emoji   = CAT_EMOJI[article.category] || '📰';
+
+  const imgHtml = article.image
+    ? `<img class="card-img" src="${escHtml(article.image)}" alt="" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" /><div class="card-img-placeholder" style="display:none">${emoji}</div>`
+    : `<div class="card-img-placeholder">${emoji}</div>`;
+
+  return `
+    <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener noreferrer" class="card">
+      ${imgHtml}
+      <div class="card-body">
+        <div class="card-meta">
+          <span class="source-badge">${escHtml(article.source || '')}</span>
+          <span class="cat-badge">${emoji} ${escHtml(article.category || '')}</span>
+          <span class="time-ago">${timeAgo(article.published_at)}</span>
+        </div>
+        <div class="card-title">${escHtml(title)}</div>
+        ${titleEn ? `<div class="card-title-en">${escHtml(titleEn)}</div>` : ''}
+        ${summary ? `<div class="card-summary">${escHtml(summary.slice(0, 180))}${summary.length > 180 ? '...' : ''}</div>` : ''}
+      </div>
+      <div class="card-footer">
+        <span class="time-ago">🕐 ${formatIST(article.published_at)}</span>
+        <span class="read-more">మరింత చదవండి →</span>
+      </div>
+    </a>`;
+}
+
+function renderGrid() {
+  const container = document.getElementById('news-container');
+  const toShow    = filtered.slice(0, displayCount);
+  const loadWrap  = document.getElementById('load-more-wrap');
+
+  if (toShow.length === 0) {
+    container.innerHTML = `
+      <div class="state-screen">
+        <div class="icon">🔍</div>
+        <h2>వార్తలు దొరకలేదు</h2>
+        <p>No news found for this selection. Please try another category.</p>
+      </div>`;
+    loadWrap.style.display = 'none';
+    return;
+  }
+
+  container.innerHTML = `<div class="news-grid">${toShow.map(renderCard).join('')}</div>`;
+  loadWrap.style.display = filtered.length > displayCount ? 'block' : 'none';
+}
+
+function escHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// ── FILTER + SEARCH ───────────────────────────────────────────
+function applyFilters() {
+  let src = [...allArticles];
+
+  if (currentCat !== 'all') {
+    src = src.filter(a => a.category === currentCat);
+  }
+
+  if (searchQuery.trim()) {
+    const q = searchQuery.toLowerCase();
+    src = src.filter(a =>
+      (a.title_te    || '').toLowerCase().includes(q) ||
+      (a.title       || '').toLowerCase().includes(q) ||
+      (a.summary_te  || '').toLowerCase().includes(q) ||
+      (a.summary     || '').toLowerCase().includes(q) ||
+      (a.source      || '').toLowerCase().includes(q)
+    );
+  }
+
+  filtered = src;
+  displayCount = 20;
+  renderGrid();
+}
+
+// ── TICKER ────────────────────────────────────────────────────
+function updateTicker(articles) {
+  const ticker = document.getElementById('ticker');
+  const headlines = articles.slice(0, 10).map(a =>
+    `⚡ ${a.title_te || a.title}`
+  );
+  // Duplicate for seamless loop
+  ticker.textContent = [...headlines, ...headlines].join('   |   ');
+}
+
+// ── LOAD ALL ─────────────────────────────────────────────────
+async function loadNews(category) {
+  currentCat = category;
+  document.getElementById('news-container').innerHTML = `
+    <div class="state-screen">
+      <div class="spinner"></div>
+      <h2>వార్తలు లోడ్ అవుతున్నాయి...</h2>
+    </div>`;
+
+  try {
+    const [articles, meta] = await Promise.all([
+      fetchNews(category),
+      fetchMeta()
+    ]);
+
+    allArticles = articles;
+
+    // Update header time
+    if (meta?.last_updated_IST) {
+      document.getElementById('last-updated').textContent =
+        `అప్‌డేట్: ${meta.last_updated_IST}`;
+    }
+
+    // Ticker — always show all latest regardless of category filter
+    if (category === 'all') updateTicker(articles);
+
+    applyFilters();
+
+  } catch (err) {
+    document.getElementById('news-container').innerHTML = `
+      <div class="state-screen">
+        <div class="icon">⚠️</div>
+        <h2>లోడ్ కాలేదు</h2>
+        <p>వార్తలు తీసుకోవడంలో సమస్య వచ్చింది. తర్వాత మళ్ళీ ప్రయత్నించండి.</p>
+        <p style="margin-top:8px;font-size:12px;color:#999">${err.message}</p>
+      </div>`;
+  }
+}
+
+// ── AUTO REFRESH every 5 minutes ─────────────────────────────
+function startAutoRefresh() {
+  refreshTimer = setInterval(() => {
+    console.log('🔄 Auto-refreshing news...');
+    loadNews(currentCat);
+  }, 5 * 60 * 1000);
+}
+
+// ── EVENT LISTENERS ───────────────────────────────────────────
+document.querySelectorAll('.nav-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    searchQuery = '';
+    document.getElementById('search-input').value = '';
+    loadNews(tab.dataset.cat);
+  });
+});
+
+document.getElementById('search-btn').addEventListener('click', () => {
+  searchQuery = document.getElementById('search-input').value;
+  applyFilters();
+});
+
+document.getElementById('search-input').addEventListener('keyup', e => {
+  if (e.key === 'Enter') {
+    searchQuery = e.target.value;
+    applyFilters();
+  }
+  if (e.target.value === '') {
+    searchQuery = '';
+    applyFilters();
+  }
+});
+
+document.getElementById('load-more-btn').addEventListener('click', () => {
+  displayCount += 20;
+  renderGrid();
+});
+
+// ── INIT ──────────────────────────────────────────────────────
+loadNews('all');
+startAutoRefresh();
+</script>
+</body>
+</html>
