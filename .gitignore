@@ -1,7 +1,10 @@
 node_modules/
+functions/node_modules/
 scraper/node_modules/
+dist/
 .env
 .env.local
 *.log
 .DS_Store
 Thumbs.db
+.netlify/

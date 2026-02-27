@@ -1,168 +1,131 @@
-# 📰 తాజా వార్తలు — Telugu News Website
+# 📰 Telugu News App - Modern Stack
 
-> India news scraped every 5 minutes, translated to Telugu, served as a static website — **100% FREE**
+> News scraped every 5 minutes, translated to Telugu — **100% FREE**
 
 ---
 
 ## 🏗️ Architecture
 
 ```
-GitHub Actions (cron every 5 min — FREE on public repo)
+Netlify Scheduled Function (every 5 min — FREE)
        ↓
-scraper/index.js (fetches 17 Indian RSS feeds)
+scraper → fetches 18 Indian RSS feeds
        ↓
-translator.js (Google Translate → Telugu, no API key)
+translator → Google Translate → Telugu (free)
        ↓
-data/*.json (committed back to repo)
+Firebase Firestore (stores articles)
        ↓
-GitHub Pages (static website reads JSON)
+Svelte + Vite (frontend reads from Firestore)
+       ↓
+Netlify (hosting)
 ```
 
 ---
 
-## 📁 Folder Structure
+## 🚀 Setup (Step by Step)
 
-```
-news_website_and_app/
-├── .github/
-│   └── workflows/
-│       └── scrape.yml        ← Cron job (every 5 minutes)
-├── scraper/
-│   ├── index.js              ← Main scraper
-│   ├── sources.js            ← All RSS feed URLs
-│   ├── translator.js         ← Telugu translation (free)
-│   └── package.json
-├── data/                     ← AUTO-UPDATED by cron
-│   ├── news.json             ← All latest news
-│   ├── india.json
-│   ├── telangana.json
-│   ├── andhra.json
-│   ├── business.json
-│   ├── sports.json
-│   ├── tech.json
-│   ├── politics.json
-│   └── meta.json
-├── public/
-│   └── index.html            ← Telugu news website
-└── index.html                ← GitHub Pages entry point
-```
+### Step 1 — Create Firebase Project
+1. Go to https://console.firebase.google.com
+2. Create new project
+3. Enable **Firestore Database** (start in test mode)
+4. Go to Project Settings → Service Accounts
+5. Generate new private key → copy JSON
 
----
-
-## 🚀 Deployment (Step by Step)
-
-### Step 1 — Create GitHub Repo (PUBLIC)
-1. Go to https://github.com/new
-2. Name it: `telugu-news` (or anything)
-3. Set to **Public** ← IMPORTANT for free unlimited Actions
-4. Click "Create repository"
-
-### Step 2 — Push This Project
+### Step 2 — Create Netlify Site
 ```bash
-cd D:\news_website_and_app
-git init
-git add .
-git commit -m "🚀 Initial commit — Telugu News App"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/telugu-news.git
-git push -u origin main
+# Install Netlify CLI
+npm install -g netlify-cli
+
+# Login
+netlify login
+
+# Create site from this folder
+netlify init
 ```
 
-### Step 3 — Enable GitHub Pages
-1. Go to your repo on GitHub
-2. Settings → Pages
-3. Source: **Deploy from a branch**
-4. Branch: `main` → `/ (root)`
-5. Save
+### Step 3 — Set Environment Variables
+In Netlify Dashboard → Site settings → Environment variables:
 
-Your website will be live at:
 ```
-https://YOUR_USERNAME.github.io/telugu-news/
+VITE_FIREBASE_API_KEY=your_key
+VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your_project_id
+VITE_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=123456789
+VITE_FIREBASE_APP_ID=1:...:web:...
 ```
 
-### Step 4 — GitHub Actions will auto-run!
-- Go to **Actions** tab in your repo
-- You'll see "Telugu News Scraper" workflow
-- It runs automatically every 5 minutes
-- Each run: fetches news → translates to Telugu → commits to `/data/`
+Also add `FIREBASE_SERVICE_ACCOUNT` with the entire JSON from Step 1.
+
+### Step 4 — Deploy
+```bash
+# Push to GitHub, then connect to Netlify
+# OR deploy directly:
+netlify deploy --prod
+```
 
 ---
 
-## 📰 News Sources (Free RSS — No API Key)
+## 📁 New Project Structure
 
-| Source | Category | Language |
-|--------|----------|----------|
-| NDTV | India | English → Telugu |
-| Times of India | India | English → Telugu |
-| Hindustan Times | India | English → Telugu |
-| The Hindu | India, AP, Telangana | English → Telugu |
-| India Today | India | English → Telugu |
-| Eenadu | Telangana | Telugu ✅ |
-| Sakshi | Telangana | Telugu ✅ |
-| Andhra Jyothy | Andhra | Telugu ✅ |
-| Economic Times | Business | English → Telugu |
-| Moneycontrol | Business | English → Telugu |
-| LiveMint | Business | English → Telugu |
-| ESPNCricinfo | Sports | English → Telugu |
-| Sportstar | Sports | English → Telugu |
-| YourStory | Tech | English → Telugu |
-| Inc42 | Tech | English → Telugu |
-| NDTV Politics | Politics | English → Telugu |
-
----
-
-## 🔤 Translation
-
-- **Primary**: Google Translate unofficial API (free, no key needed)
-- **Fallback**: MyMemory API (free, 1000 words/day)
-- Telugu RSS sources (Eenadu, Sakshi, Andhra Jyothy) are **NOT translated** — used as-is
+```
+telugu-news-app/
+├── src/
+│   ├── components/
+│   │   ├── NewsCard.svelte
+│   │   ├── CategoryFilter.svelte
+│   │   ├── Header.svelte
+│   │   └── Loading.svelte
+│   ├── App.svelte
+│   ├── main.js
+│   └── firebase.js
+├── functions/
+│   ├── scrape.js         ← Main scraper logic
+│   ├── scheduled-scrape.js
+│   └── package.json
+├── netlify.toml
+├── package.json
+├── vite.config.js
+└── svelte.config.js
+```
 
 ---
 
 ## 💰 Cost
 
-| Service | Cost |
-|---------|------|
-| GitHub (public repo) | ₹0 |
-| GitHub Actions (public) | ₹0 (Unlimited) |
-| GitHub Pages | ₹0 |
-| Google Translate (unofficial) | ₹0 |
-| **Total** | **₹0/month** |
+| Service | Free Tier | Cost |
+|---------|-----------|------|
+| Firebase Firestore | 50K reads/day | ₹0 |
+| Netlify Functions | 125K req/month | ₹0 |
+| Netlify Hosting | 100GB/month | ₹0 |
+| Google Translate | 500K chars/month | ₹0 |
+| **Total** | | **₹0/month** |
 
 ---
 
-## 📊 JSON API Format
+## 🔧 Development
 
-Your data files are accessible at:
-```
-https://YOUR_USERNAME.github.io/telugu-news/data/news.json
-https://YOUR_USERNAME.github.io/telugu-news/data/india.json
-https://YOUR_USERNAME.github.io/telugu-news/data/telangana.json
-https://YOUR_USERNAME.github.io/telugu-news/data/meta.json
-```
+```bash
+# Install dependencies
+npm install
+cd functions && npm install && cd ..
 
-### Article Object:
-```json
-{
-  "id": "md5hash",
-  "title": "English headline",
-  "title_te": "తెలుగు శీర్షిక",
-  "summary": "English summary",
-  "summary_te": "తెలుగు సారాంశం",
-  "url": "https://source.com/article",
-  "image": "https://cdn.source.com/image.jpg",
-  "published_at": "2026-02-18T10:30:00.000Z",
-  "source": "NDTV",
-  "category": "india",
-  "translated": true
-}
+# Run locally
+netlify dev
 ```
 
 ---
 
-## ⚠️ Notes
+## 📱 Features
 
-- GitHub Actions minimum cron interval is **5 minutes** — perfectly matched
-- If GitHub Actions usage hits limits (unlikely on public repo), change cron to `*/10 * * * *`
-- The website auto-refreshes every 5 minutes in the browser too
-- Images are served directly from news sources (no storage needed)
+- Real-time news from 18 Indian sources
+- Automatic Telugu translation
+- Category filtering (India, Telangana, Andhra, Business, Sports, Tech, Politics)
+- Auto-refresh every 5 minutes
+- Mobile responsive design
+- Offline support (PWA ready)
+
+---
+
+## 📱 Features
+
