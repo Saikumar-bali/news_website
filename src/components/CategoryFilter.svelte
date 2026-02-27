@@ -29,8 +29,8 @@
     flex-wrap: wrap;
     gap: 0.5rem;
     margin: 1rem 0;
-    padding;
-    background:: 1rem white;
+    padding: 1rem;
+    background: white;
     border-radius: 12px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   }
