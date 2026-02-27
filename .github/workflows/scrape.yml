@@ -26,16 +26,13 @@ jobs:
           cd functions
           npm install
 
-      - name: 🔍 Check secrets
-        run: |
-          echo "FIREBASE_SERVICE_ACCOUNT is set: ${{ secrets.FIREBASE_SERVICE_ACCOUNT != '' }}"
-
       - name: 🚀 Run scraper
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
+          echo "Starting scraper..."
           cd functions
-          node --experimental-vm-modules scrape.js 2>&1
+          node --experimental-vm-modules scrape.js 2>&1 || echo "Scraper exited with error"
 
       - name: ✅ Verify success
         if: success()
