@@ -30,12 +30,13 @@ jobs:
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         shell: bash
-        continue-on-error: true
         run: |
-          echo "Starting scraper..."
+          pwd
+          ls -la functions/
           cd functions
+          npm list
+          echo "Running scraper..."
           node --experimental-vm-modules scrape.js
-        id: scrape
 
       - name: ✅ Verify success
         if: success()

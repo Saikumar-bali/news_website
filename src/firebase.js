@@ -10,36 +10,84 @@ const firebaseConfig = {
   appId: import.meta.env.VITE_FIREBASE_APP_ID
 };
 
-const app = initializeApp(firebaseConfig);
-export const db = getFirestore(app);
+let app, db;
+try {
+  app = initializeApp(firebaseConfig);
+  db = getFirestore(app);
+} catch (e) {
+  console.error('Firebase init error:', e);
+}
+
+const sampleArticles = [
+  {
+    id: '1',
+    title: 'Test News Article - India',
+    title_te: ' భారతదేశం లో టె�్ట్ వార్త',
+    summary: 'This is sample news while real data loads.',
+    summary_te: ' వాస్త� డేటా లోడ్ అయ్యే వరకు ఇది నমूना వార్త.',
+    url: 'https://ndtv.com',
+    image: null,
+    published_at: new Date().toISOString(),
+    source: 'NDTV',
+    category: 'india',
+    translated: true
+  }
+];
 
 export async function getNews(category = 'all', count = 50) {
-  const newsRef = collection(db, 'news');
-  let q = query(newsRef, orderBy('published_at', 'desc'), limit(count));
-  
-  if (category && category !== 'all') {
-    q = query(newsRef, orderBy('published_at', 'desc'), limit(count));
+  if (!db) {
+    console.log('Firebase not initialized, returning sample data');
+    return sampleArticles;
   }
   
-  const snapshot = await getDocs(q);
-  let articles = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
-  
-  if (category && category !== 'all') {
-    articles = articles.filter(a => a.category === category);
+  try {
+    const newsRef = collection(db, 'news');
+    const q = query(newsRef, orderBy('published_at', 'desc'), limit(count));
+    
+    const snapshot = await getDocs(q);
+    let articles = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    
+    if (category && category !== 'all') {
+      articles = articles.filter(a => a.category === category);
+    }
+    
+    if (articles.length === 0) {
+      return sampleArticles;
+    }
+    
+    return articles;
+  } catch (e) {
+    console.error('Error fetching news:', e);
+    return sampleArticles;
   }
-  
-  return articles;
 }
 
 export async function getMeta() {
-  const metaRef = collection(db, 'meta');
-  const snapshot = await getDocs(metaRef);
-  if (snapshot.empty) {
+  if (!db) {
     return {
       last_updated: new Date().toISOString(),
-      total_articles: 0,
-      categories: []
+      total_articles: 1,
+      categories: ['india']
     };
   }
-  return { id: snapshot.docs[0].id, ...snapshot.docs[0].data() };
+  
+  try {
+    const metaRef = collection(db, 'meta');
+    const snapshot = await getDocs(metaRef);
+    if (snapshot.empty) {
+      return {
+        last_updated: new Date().toISOString(),
+        total_articles: 0,
+        categories: []
+      };
+    }
+    return { id: snapshot.docs[0].id, ...snapshot.docs[0].data() };
+  } catch (e) {
+    console.error('Error fetching meta:', e);
+    return {
+      last_updated: new Date().toISOString(),
+      total_articles: 1,
+      categories: ['india']
+    };
+  }
 }
