@@ -16,7 +16,3 @@
   [headers.values]
     Cache-Control = "public, max-age=300"
 
-[[functions]]
-  name = "scheduled-scrape"
-  schedule = "*/5 * * * *"
-

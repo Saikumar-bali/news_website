@@ -1,3 +1,8 @@
+/*
+ * Every 5 minutes
+ * @name scheduled-scrape
+ */
+
 import { scrape } from './scrape.js';
 
 export async function handler(event, context) {
