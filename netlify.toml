@@ -10,6 +10,9 @@
 [functions]
   directory = "functions"
 
+[functions.scheduled-scrape]
+  schedule = "@hourly"
+
 [[redirects]]
   from = "/api/*"
   to = "/functions/:splat"

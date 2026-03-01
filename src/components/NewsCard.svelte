@@ -88,13 +88,11 @@
   }
 
   .summary {
-    font-size: 0.9rem;
-    color: #666;
-    margin-bottom: 0.75rem;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    font-size: 0.95rem;
+    color: #444;
+    margin-bottom: 1rem;
+    white-space: pre-wrap;
+    line-height: 1.6;
   }
 
   .meta {

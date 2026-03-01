@@ -1,5 +1,5 @@
 import { initializeApp } from 'firebase/app';
-import { getFirestore, collection, getDocs, query, orderBy, limit } from 'firebase/firestore';
+import { getDatabase, ref, onValue } from 'firebase/database';
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
@@ -7,24 +7,28 @@ const firebaseConfig = {
   projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
   storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
   messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_FIREBASE_APP_ID
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+  databaseURL: import.meta.env.VITE_FIREBASE_DATABASE_URL
 };
 
 let app, db;
 try {
   app = initializeApp(firebaseConfig);
-  db = getFirestore(app);
+  db = getDatabase(app);
+  console.log('Firebase initialized');
 } catch (e) {
   console.error('Firebase init error:', e);
 }
+
+export { db };
 
 const sampleArticles = [
   {
     id: '1',
     title: 'Test News Article - India',
-    title_te: ' భారతదేశం లో టె�్ట్ వార్త',
+    title_te: 'భారతదేశం లో టెస్ట్ వార్త',
     summary: 'This is sample news while real data loads.',
-    summary_te: ' వాస్త� డేటా లోడ్ అయ్యే వరకు ఇది నমूना వార్త.',
+    summary_te: ' వాస్తవ డేటా లోడ్ అయ్యే వరకు ఇది నమूना వార్త.',
     url: 'https://ndtv.com',
     image: null,
     published_at: new Date().toISOString(),
@@ -41,11 +45,32 @@ export async function getNews(category = 'all', count = 50) {
   }
   
   try {
-    const newsRef = collection(db, 'news');
-    const q = query(newsRef, orderBy('published_at', 'desc'), limit(count));
+    const newsRef = ref(db, 'news');
+    const snapshot = await new Promise((resolve, reject) => {
+      const timeout = setTimeout(() => {
+        console.warn('Firebase request timed out for news');
+        resolve({ val: () => null }); // Resolve with empty data
+      }, 10000); // 10s timeout
+      
+      onValue(newsRef, (snapshot) => {
+        clearTimeout(timeout);
+        resolve(snapshot);
+      }, { onlyOnce: true });
+    });
     
-    const snapshot = await getDocs(q);
-    let articles = snapshot.docs.map(doc => ({ id: doc.id, ...doc.data() }));
+    let data = snapshot.val();
+    if (!data) {
+      console.log('No data in Firebase, returning sample');
+      return sampleArticles;
+    }
+    
+    let articles = Object.entries(data).map(([id, value]) => ({
+      id,
+      ...value
+    }));
+    
+    articles.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+    articles = articles.slice(0, count);
     
     if (category && category !== 'all') {
       articles = articles.filter(a => a.category === category);
@@ -55,6 +80,7 @@ export async function getNews(category = 'all', count = 50) {
       return sampleArticles;
     }
     
+    console.log('Loaded', articles.length, 'articles from Firebase');
     return articles;
   } catch (e) {
     console.error('Error fetching news:', e);
@@ -72,16 +98,29 @@ export async function getMeta() {
   }
   
   try {
-    const metaRef = collection(db, 'meta');
-    const snapshot = await getDocs(metaRef);
-    if (snapshot.empty) {
+    const metaRef = ref(db, 'meta/info');
+    const snapshot = await new Promise((resolve) => {
+      const timeout = setTimeout(() => {
+        console.warn('Firebase request timed out for meta');
+        resolve({ val: () => null });
+      }, 10000);
+      
+      onValue(metaRef, (snapshot) => {
+        clearTimeout(timeout);
+        resolve(snapshot);
+      }, { onlyOnce: true });
+    });
+    
+    const data = snapshot.val();
+    if (!data) {
       return {
         last_updated: new Date().toISOString(),
         total_articles: 0,
         categories: []
       };
     }
-    return { id: snapshot.docs[0].id, ...snapshot.docs[0].data() };
+    
+    return data;
   } catch (e) {
     console.error('Error fetching meta:', e);
     return {

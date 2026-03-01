@@ -109,6 +109,42 @@ const FEEDS = [
     source: 'Inc42',
     language: 'en'
   },
+  {
+    url: 'https://techcrunch.com/feed/',
+    category: 'tech',
+    source: 'TechCrunch',
+    language: 'en'
+  },
+  {
+    url: 'https://www.theverge.com/rss/index.xml',
+    category: 'tech',
+    source: 'The Verge',
+    language: 'en'
+  },
+  {
+    url: 'https://wired.com/feed/rss',
+    category: 'tech',
+    source: 'Wired',
+    language: 'en'
+  },
+  {
+    url: 'https://feeds.feedburner.com/hackaday/LNRb',
+    category: 'tech',
+    source: 'Hackaday',
+    language: 'en'
+  },
+  {
+    url: 'https://dev.to/feed',
+    category: 'tech',
+    source: 'Dev.to',
+    language: 'en'
+  },
+  {
+    url: 'https://www.zdnet.com/news/rss.xml',
+    category: 'tech',
+    source: 'ZDNet',
+    language: 'en'
+  },
 
   // ── POLITICS ──────────────────────────────────────────────
   {

@@ -11,6 +11,7 @@
   let selectedCategory = 'all';
   let loading = true;
   let error = null;
+  let statusMsg = '';
 
   const categories = [
     { id: 'all', label: 'అన్నీ', labelEn: 'All' },
@@ -26,11 +27,18 @@
   async function loadNews() {
     loading = true;
     error = null;
+    statusMsg = 'Loading from Firebase...';
+    console.log('Loading news from Firebase...');
     try {
+      console.log('Fetching news for category:', selectedCategory);
       articles = await getNews(selectedCategory, 50);
+      console.log('Articles loaded:', articles.length);
+      statusMsg = `Loaded ${articles.length} articles`;
       meta = await getMeta();
+      console.log('Meta loaded:', meta);
     } catch (e) {
       error = e.message;
+      statusMsg = 'Error: ' + e.message;
       console.error('Error loading news:', e);
     } finally {
       loading = false;
@@ -43,6 +51,7 @@
   }
 
   onMount(() => {
+    console.log('App component mounted');
     loadNews();
     const interval = setInterval(loadNews, 300000);
     return () => clearInterval(interval);
@@ -50,6 +59,9 @@
 </script>
 
 <main>
+  {#if statusMsg}
+    <div class="status">{statusMsg}</div>
+  {/if}
   <Header {meta} />
   
   <CategoryFilter 
@@ -96,6 +108,15 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 1rem;
+  }
+
+  .status {
+    background: #2196F3;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    margin-bottom: 1rem;
+    text-align: center;
   }
 
   .news-grid {

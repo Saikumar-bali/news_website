@@ -22,7 +22,7 @@ async function translateToTelugu(text, from = 'en') {
   if (from === 'te') return text;
 
   // Clean and limit text (Google has ~5000 char limit per request)
-  const cleanText = text.trim().slice(0, 1000);
+  const cleanText = text.trim().slice(0, 4000);
 
   try {
     // ── PRIMARY: Google Translate unofficial API ──────────────
@@ -86,7 +86,7 @@ async function translateArticle(article, index = 0) {
   }
 
   // Small stagger delay to avoid hammering the API
-  await delay(index * 150);
+  await delay(index * 30);
 
   const [title_te, summary_te] = await Promise.all([
     translateToTelugu(article.title),

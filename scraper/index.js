@@ -11,9 +11,116 @@ const fs      = require('fs');
 const path    = require('path');
 const crypto  = require('crypto');
 const pLimit  = require('p-limit');
+const fetch   = require('node-fetch');
 
 const FEEDS              = require('./sources');
 const { translateArticle } = require('./translator');
+const { initFirebase, pushToFirebase, pushMeta } = require('./firebase');
+
+// ── Anti-blocking: Rotate User-Agents ───────────────────────────
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15'
+];
+
+function getRandomUA() {
+  return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+}
+
+// ── Anti-blocking: Rate limiter ───────────────────────────────
+const FETCH_LIMIT = pLimit(2); // Only 2 concurrent article fetches
+const fetchDelay = 2500; // 2.5 seconds between requests per domain
+
+const domainLastFetch = new Map();
+
+async function rateLimitForDomain(url) {
+  try {
+    const urlObj = new URL(url);
+    const domain = urlObj.hostname;
+    const now = Date.now();
+    const lastFetch = domainLastFetch.get(domain) || 0;
+    const waitTime = Math.max(0, fetchDelay - (now - lastFetch));
+    
+    if (waitTime > 0) {
+      console.log(`  ⏳ Waiting ${waitTime/1000}s for ${domain}...`);
+      await new Promise(r => setTimeout(r, waitTime));
+    }
+    domainLastFetch.set(domain, Date.now());
+  } catch (e) {}
+}
+
+// ── Fetch full article content ──────────────────────────────────
+async function fetchFullArticle(article) {
+  if (article.summary && article.summary.length > 50) {
+    return article; // Already has summary, skip
+  }
+  
+  try {
+    await rateLimitForDomain(article.url);
+    
+    const res = await fetch(article.url, {
+      headers: {
+        'User-Agent': getRandomUA(),
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Cache-Control': 'no-cache'
+      },
+      timeout: 15000
+    });
+    
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    
+    const html = await res.text();
+    
+    // Extract article content - try multiple selectors
+    const contentPatterns = [
+      /<article[^>]*>([\s\S]*?)<\/article>/i,
+      /<div[^>]*class="[^"]*article[-_]?body[^"]*"[^>]*>([\s\S]*?)<\/div>/i,
+      /<div[^>]*class="[^"]*story[-_]?content[^"]*"[^>]*>([\s\S]*?)<\/div>/i,
+      /<div[^>]*class="[^"]*content[-_]?body[^"]*"[^>]*>([\s\S]*?)<\/div>/i,
+      /<div[^>]*id="[^"]*article[-_]?body[^"]*"[^>]*>([\s\S]*?)<\/div>/i,
+      /<div[^>]*class="[^"]*entry-content[^"]*"[^>]*>([\s\S]*?)<\/div>/i,
+      /<div[^>]*class="[^"]*td-post-content[^"]*"[^>]*>([\s\S]*?)<\/div>/i
+    ];
+    
+    let content = '';
+    for (const pattern of contentPatterns) {
+      const match = html.match(pattern);
+      if (match) {
+        content = match[1];
+        break;
+      }
+    }
+    
+    if (!content) {
+      // Fallback: get all paragraphs
+      const paragraphs = html.match(/<p[^>]*>([\s\S]*?)<\/p>/gi) || [];
+      content = paragraphs.slice(0, 15).join(' '); // Increase to 15 paragraphs
+    }
+    
+    // Extract text from HTML
+    const extractedSummary = cleanText(content).slice(0, 3000); // Increase to 3000 chars for "complete" feel
+    
+    // Try to find image in meta tags if not already present
+    let image = article.image;
+    if (!image) {
+      const ogImageMatch = html.match(/<meta[^>]*property=["']og:image["'][^>]*content=["']([^"']+)["']/i);
+      const twitterImageMatch = html.match(/<meta[^>]*name=["']twitter:image["'][^>]*content=["']([^"']+)["']/i);
+      image = (ogImageMatch?.[1] || twitterImageMatch?.[1]) || null;
+    }
+
+    if (extractedSummary.length > 20) {
+      return { ...article, summary: extractedSummary, image: image || article.image };
+    }
+  } catch (err) {
+    console.warn(`  ⚠️ Failed to fetch full article: ${article.url.slice(0, 50)}... (${err.message})`);
+  }
+  
+  return article;
+}
 
 // ── RSS Parser setup ─────────────────────────────────────────
 const rssParser = new Parser({
@@ -30,10 +137,12 @@ const rssParser = new Parser({
 
 // ── Config ───────────────────────────────────────────────────
 const DATA_DIR         = path.join(__dirname, '..', 'data');
-const MAX_PER_FEED     = 15;    // articles per feed
-const MAX_TOTAL        = 100;   // articles in news.json
-const MAX_PER_CATEGORY = 50;    // articles per category file
+const MAX_PER_FEED     = 25;    // articles per feed
+const MAX_TOTAL        = 500;   // articles in news.json
+const MAX_PER_CATEGORY = 100;   // articles per category file
 const TRANSLATE_LIMIT  = pLimit(3); // 3 concurrent translations max
+const FETCH_FULL_ARTICLES = true; // Enable full article fetching
+const USE_FIREBASE     = true;  // Push to Firebase instead of local files
 
 // ── Helpers ──────────────────────────────────────────────────
 function makeId(url, title) {
@@ -213,11 +322,60 @@ async function main() {
   const unique = deduplicateArticles(raw);
   console.log(`🔁 After dedup:  ${unique.length} unique articles`);
 
-  // 3. Translate to Telugu
-  const translated = await translateAll(unique);
+  // 3. Fetch full articles for missing summaries
+  let articlesToTranslate = unique;
+  if (FETCH_FULL_ARTICLES) {
+    console.log(`\n📥 Fetching full articles for missing summaries...`);
+    const emptySummary = unique.filter(a => !a.summary || a.summary.length < 50);
+    console.log(`  Need to fetch: ${emptySummary.length} articles`);
+    
+    const withFullContent = await Promise.all(
+      emptySummary.map((article, i) => 
+        FETCH_LIMIT(() => fetchFullArticle(article))
+      )
+    );
+    
+    // Merge back
+    articlesToTranslate = unique.map(a => {
+      const filled = withFullContent.find(f => f.id === a.id);
+      return filled && filled.summary !== a.summary ? filled : a;
+    });
+    
+    const nowHasSummary = articlesToTranslate.filter(a => a.summary && a.summary.length > 50).length;
+    console.log(`  ✅ Full content fetched: ${nowHasSummary} articles now have summaries`);
+  }
 
-  // 4. Write JSON
-  writeJsonFiles(translated);
+  // 4. Translate to Telugu
+  const translated = await translateAll(articlesToTranslate);
+
+  // 5. Save data (Firebase or local)
+  if (USE_FIREBASE) {
+    console.log('\n🔥 Pushing to Firebase...');
+    initFirebase();
+    
+    // Sort and limit
+    translated.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+    const articles = translated.slice(0, MAX_TOTAL);
+    
+    await pushToFirebase(articles);
+    
+    // Push meta
+    const categories = [...new Set(articles.map(a => a.category))];
+    const sources = [...new Set(articles.map(a => a.source))];
+    const meta = {
+      last_updated: new Date().toISOString(),
+      last_updated_IST: istTime(),
+      total_articles: articles.length,
+      categories,
+      sources,
+      feeds_count: FEEDS.length
+    };
+    await pushMeta(meta);
+    
+    console.log('✅ Firebase push complete!');
+  } else {
+    writeJsonFiles(translated);
+  }
 
   console.log('\n═══════════════════════════════════════════════');
   console.log('✅  Scraper finished successfully!');

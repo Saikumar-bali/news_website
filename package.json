@@ -14,6 +14,7 @@
     "vite": "^5.2.0"
   },
   "dependencies": {
-    "firebase": "^10.11.0"
+    "firebase": "^10.11.0",
+    "rss-parser": "^3.13.0"
   }
 }

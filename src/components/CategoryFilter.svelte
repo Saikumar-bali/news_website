@@ -1,5 +1,5 @@
 <script>
-  import { createEventDispatcher } from 'svelte';
+  import { createEventDispatcher, onMount } from 'svelte';
   
   export let categories = [];
   export let selectedCategory = 'all';
@@ -7,8 +7,13 @@
   const dispatch = createEventDispatcher();
   
   function selectCategory(id) {
+    console.log('Category selected:', id);
     dispatch('change', id);
   }
+
+  onMount(() => {
+    console.log('CategoryFilter component mounted');
+  });
 </script>
 
 <div class="category-filter">
