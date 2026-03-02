@@ -3,7 +3,7 @@
 
 <div class="loading">
   <div class="spinner"></div>
-  <p>Loading news...</p>
+  <p>Loading latest news...</p>
 </div>
 
 <style>
@@ -12,17 +12,18 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 3rem;
-    gap: 1rem;
+    padding: 4rem 2rem;
+    gap: 1.5rem;
   }
 
   .spinner {
-    width: 40px;
-    height: 40px;
-    border: 4px solid #f3f3f3;
-    border-top: 4px solid #e63946;
+    width: 48px;
+    height: 48px;
+    border: 3px solid #333;
+    border-top: 3px solid #667eea;
+    border-right: 3px solid #764ba2;
     border-radius: 50%;
-    animation: spin 1s linear infinite;
+    animation: spin 0.8s linear infinite;
   }
 
   @keyframes spin {
@@ -33,5 +34,6 @@
   p {
     color: #666;
     font-size: 1rem;
+    font-weight: 500;
   }
 </style>

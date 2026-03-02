@@ -9,7 +9,6 @@ functions/news-webscrap.json
 .DS_Store
 Thumbs.db
 .netlify/
-data/*.json
 nul
 test_firebase.cjs
 package-lock.json

@@ -1,5 +1,5 @@
 <script>
-  import { createEventDispatcher, onMount } from 'svelte';
+  import { createEventDispatcher } from 'svelte';
   
   export let categories = [];
   export let selectedCategory = 'all';
@@ -7,13 +7,8 @@
   const dispatch = createEventDispatcher();
   
   function selectCategory(id) {
-    console.log('Category selected:', id);
     dispatch('change', id);
   }
-
-  onMount(() => {
-    console.log('CategoryFilter component mounted');
-  });
 </script>
 
 <div class="category-filter">
@@ -22,8 +17,7 @@
       class:active={selectedCategory === cat.id}
       on:click={() => selectCategory(cat.id)}
     >
-      <span class="telugu">{cat.label}</span>
-      <span class="english">{cat.labelEn}</span>
+      {cat.label}
     </button>
   {/each}
 </div>
@@ -32,61 +26,50 @@
   .category-filter {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.5rem;
-    margin: 1rem 0;
-    padding: 1rem;
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    gap: 0.75rem;
+    margin: 1.5rem 0;
+    padding: 1rem 1.25rem;
+    background: linear-gradient(145deg, #1a1a1a, #222222);
+    border-radius: 16px;
+    border: 1px solid #2a2a2a;
   }
 
   button {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    padding: 0.5rem 1rem;
-    border: 2px solid #eee;
-    background: white;
-    border-radius: 8px;
+    padding: 0.625rem 1.25rem;
+    border: 1px solid #333;
+    background: transparent;
+    color: #888;
+    border-radius: 25px;
     cursor: pointer;
-    transition: all 0.2s;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.25s ease;
+    font-family: 'DM Sans', sans-serif;
   }
 
   button:hover {
-    border-color: #e63946;
+    border-color: #667eea;
+    color: #aaa;
+    background: rgba(102, 126, 234, 0.1);
   }
 
   button.active {
-    background: #e63946;
-    border-color: #e63946;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    border-color: transparent;
     color: white;
+    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
   }
 
-  .telugu {
-    font-size: 1rem;
-    font-weight: 600;
-  }
-
-  .english {
-    font-size: 0.7rem;
-    opacity: 0.8;
-  }
-
-  button.active .english {
-    opacity: 0.9;
-  }
-
-  @media (max-width: 640px) {
+  @media (max-width: 768px) {
     .category-filter {
       justify-content: center;
+      padding: 0.875rem;
+      gap: 0.5rem;
     }
     
     button {
-      padding: 0.4rem 0.8rem;
-    }
-    
-    .telugu {
-      font-size: 0.9rem;
+      padding: 0.5rem 1rem;
+      font-size: 0.8rem;
     }
   }
 </style>

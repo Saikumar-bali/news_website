@@ -1,45 +1,44 @@
 <script>
   import { onMount } from 'svelte';
-  import { db, getNews, getMeta } from './firebase.js';
   import NewsCard from './components/NewsCard.svelte';
   import CategoryFilter from './components/CategoryFilter.svelte';
   import Header from './components/Header.svelte';
   import Loading from './components/Loading.svelte';
+  import ArticleModal from './components/ArticleModal.svelte';
 
   let articles = [];
   let meta = null;
   let selectedCategory = 'all';
   let loading = true;
   let error = null;
-  let statusMsg = '';
+  let selectedArticle = null;
 
   const categories = [
-    { id: 'all', label: 'అన్నీ', labelEn: 'All' },
-    { id: 'india', label: 'భారత్', labelEn: 'India' },
-    { id: 'telangana', label: 'తెలంగాణ', labelEn: 'Telangana' },
-    { id: 'andhra', label: 'ఆంధ్ర', labelEn: 'Andhra' },
-    { id: 'business', label: 'బిజ‌న‌స్', labelEn: 'Business' },
-    { id: 'sports', label: 'క్రీడ‌లు', labelEn: 'Sports' },
-    { id: 'tech', label: 'ట‌క్', labelEn: 'Tech' },
-    { id: 'politics', label: 'రాజ‌కీయ‌లు', labelEn: 'Politics' }
+    { id: 'all', label: 'All News', labelTe: 'అన్నీ' },
+    { id: 'india', label: 'India', labelTe: 'భారత్' },
+    { id: 'telangana', label: 'Telangana', labelTe: 'తెలంగాణ' },
+    { id: 'andhra', label: 'Andhra', labelTe: 'ఆంధ్ర' },
+    { id: 'business', label: 'Business', labelTe: 'బిజ‌న‌స్' },
+    { id: 'sports', label: 'Sports', labelTe: 'క్రీడ‌లు' },
+    { id: 'tech', label: 'Tech', labelTe: 'ట‌క్' },
+    { id: 'politics', label: 'Politics', labelTe: 'రాజ‌కీయ‌లు' }
   ];
 
   async function loadNews() {
     loading = true;
     error = null;
-    statusMsg = 'Loading from Firebase...';
-    console.log('Loading news from Firebase...');
     try {
-      console.log('Fetching news for category:', selectedCategory);
-      articles = await getNews(selectedCategory, 50);
-      console.log('Articles loaded:', articles.length);
-      statusMsg = `Loaded ${articles.length} articles`;
-      meta = await getMeta();
-      console.log('Meta loaded:', meta);
+      const categoryFile = selectedCategory === 'all' ? 'news' : selectedCategory;
+      const response = await fetch(`/data/${categoryFile}.json`);
+      if (!response.ok) throw new Error('Failed to load news');
+      const data = await response.json();
+      articles = data.articles || [];
+      meta = { 
+        last_updated: data.updated_at, 
+        total_articles: data.count 
+      };
     } catch (e) {
       error = e.message;
-      statusMsg = 'Error: ' + e.message;
-      console.error('Error loading news:', e);
     } finally {
       loading = false;
     }
@@ -50,18 +49,26 @@
     loadNews();
   }
 
+  function handleArticleClick(event) {
+    selectedArticle = event.detail;
+  }
+
+  function closeModal() {
+    selectedArticle = null;
+  }
+
   onMount(() => {
-    console.log('App component mounted');
     loadNews();
     const interval = setInterval(loadNews, 300000);
     return () => clearInterval(interval);
   });
 </script>
 
+<svelte:head>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+Telugu:wght@400;500;600;700&display=swap" rel="stylesheet">
+</svelte:head>
+
 <main>
-  {#if statusMsg}
-    <div class="status">{statusMsg}</div>
-  {/if}
   <Header {meta} />
   
   <CategoryFilter 
@@ -73,22 +80,27 @@
   {#if loading}
     <Loading />
   {:else if error}
-    <div class="error">
-      <p>Error: {error}</p>
+    <div class="error-card">
+      <div class="error-icon">⚠️</div>
+      <p>{error}</p>
       <button on:click={loadNews}>Retry</button>
     </div>
   {:else if articles.length === 0}
-    <div class="empty">
+    <div class="empty-card">
       <p>No news available</p>
     </div>
   {:else}
     <div class="news-grid">
       {#each articles as article (article.id)}
-        <NewsCard {article} />
+        <NewsCard {article} on:click={handleArticleClick} />
       {/each}
     </div>
   {/if}
 </main>
+
+{#if selectedArticle}
+  <ArticleModal article={selectedArticle} on:close={closeModal} />
+{/if}
 
 <style>
   :global(*) {
@@ -98,56 +110,65 @@
   }
 
   :global(body) {
-    font-family: 'Noto Sans Telugu', sans-serif;
-    background: #f5f5f5;
-    color: #333;
+    font-family: 'DM Sans', 'Noto Sans Telugu', sans-serif;
+    background: #0f0f0f;
+    color: #e0e0e0;
     line-height: 1.6;
+    min-height: 100vh;
   }
 
   main {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 1rem;
+    padding: 1.5rem;
   }
 
-  .status {
-    background: #2196F3;
-    color: white;
-    padding: 0.5rem 1rem;
-    border-radius: 6px;
-    margin-bottom: 1rem;
+  .error-card, .empty-card {
     text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(145deg, #1a1a1a, #252525);
+    border-radius: 20px;
+    margin-top: 2rem;
+    border: 1px solid #333;
+  }
+
+  .error-icon {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+  }
+
+  .error-card button {
+    margin-top: 1.5rem;
+    padding: 0.75rem 2rem;
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 600;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+
+  .error-card button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
   }
 
   .news-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
     gap: 1.5rem;
-    margin-top: 1rem;
+    margin-top: 2rem;
   }
 
-  .error, .empty {
-    text-align: center;
-    padding: 3rem;
-    background: white;
-    border-radius: 12px;
-    margin-top: 1rem;
-  }
-
-  .error button {
-    margin-top: 1rem;
-    padding: 0.5rem 1.5rem;
-    background: #e63946;
-    color: white;
-    border: none;
-    border-radius: 6px;
-    cursor: pointer;
-    font-size: 1rem;
-  }
-
-  @media (max-width: 640px) {
+  @media (max-width: 768px) {
     .news-grid {
       grid-template-columns: 1fr;
+    }
+    
+    main {
+      padding: 1rem;
     }
   }
 </style>
