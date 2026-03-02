@@ -13,26 +13,29 @@ function initFirebase() {
   }
 
   try {
-    // Load service account from JSON file
-    const serviceAccountPath = path.join(__dirname, '..', 'functions', 'news-webscrap.json');
+    let serviceAccount;
     
-    if (!fs.existsSync(serviceAccountPath)) {
-      console.warn('⚠️ Service account JSON not found');
-      return null;
+    // Check for Firebase service account JSON in env var (for GitHub Actions)
+    if (process.env.FIREBASE_SERVICE_ACCOUNT_JSON) {
+      serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT_JSON);
+    } else {
+      // Fallback: Load from local file
+      const serviceAccountPath = path.join(__dirname, '..', 'functions', 'news-webscrap.json');
+      
+      if (!fs.existsSync(serviceAccountPath)) {
+        console.warn('⚠️ Service account JSON not found');
+        return null;
+      }
+      
+      serviceAccount = JSON.parse(fs.readFileSync(serviceAccountPath, 'utf8'));
     }
-    
-    const serviceAccount = JSON.parse(fs.readFileSync(serviceAccountPath, 'utf8'));
 
     if (!serviceAccount.project_id) {
       console.warn('⚠️ Firebase credentials missing');
       return null;
     }
 
-    // Load database URL from .env
-    const dotenv = require('dotenv');
-    const envPath = path.join(__dirname, '..', '.env');
-    dotenv.config({ path: envPath });
-
+    // Load database URL from env
     const databaseURL = process.env.VITE_FIREBASE_DATABASE_URL || process.env.FIREBASE_DATABASE_URL || `https://${serviceAccount.project_id}-default-rtdb.firebaseio.com`;
 
     admin.initializeApp({

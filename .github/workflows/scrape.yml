@@ -2,13 +2,13 @@ name: 📰 Telugu News Scraper
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
+    - cron: '0 * * * *'  # Every hour
   workflow_dispatch:       # Manual trigger
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 15
 
     steps:
       - name: ⬇️ Checkout repository
@@ -18,25 +18,18 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: functions/package-lock.json
 
       - name: 📦 Install dependencies
         run: |
-          cd functions
+          cd scraper
           npm install
 
       - name: 🚀 Run scraper
+        working-directory: ./scraper
+        run: node index.js
         env:
-          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-        shell: bash
-        run: |
-          pwd
-          ls -la functions/
-          cd functions
-          npm list
-          echo "Running scraper..."
-          node --experimental-vm-modules scrape.js
+          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          FIREBASE_DATABASE_URL: ${{ secrets.FIREBASE_DATABASE_URL }}
 
       - name: ✅ Verify success
         if: success()
