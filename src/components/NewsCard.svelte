@@ -5,20 +5,12 @@
   
   const dispatch = createEventDispatcher();
   
-  let isTruncated = true;
-  
   function getContent() {
     return article.summary_te || article.summary || '';
   }
   
   function getTitle() {
     return article.title_te || article.title || '';
-  }
-  
-  function getTruncatedContent(content, maxLength = 120) {
-    if (!content) return '';
-    if (content.length <= maxLength) return content;
-    return content.slice(0, maxLength).trim() + '...';
   }
   
   function handleClick() {
@@ -56,8 +48,6 @@
   
   $: content = getContent();
   $: title = getTitle();
-  $: truncatedContent = getTruncatedContent(content);
-  $: hasMore = content.length > 120;
 </script>
 
 <article class="news-card" on:click={handleClick} on:keypress={handleClick} role="button" tabindex="0">
@@ -75,16 +65,7 @@
   <div class="content">
     <h2 class="title">{title}</h2>
     
-    <p class="summary">
-      {#if hasMore}
-        {truncatedContent}
-        <button class="read-more-btn" on:click|stopPropagation={handleClick}>
-          Read full article →
-        </button>
-      {:else}
-        {content}
-      {/if}
-    </p>
+    <p class="summary">{content}</p>
     
     <div class="meta">
       <div class="source-info">
@@ -165,7 +146,7 @@
     line-height: 1.4;
     color: #ffffff;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
@@ -176,22 +157,6 @@
     margin-bottom: 1rem;
     line-height: 1.6;
     flex: 1;
-  }
-
-  .read-more-btn {
-    background: none;
-    border: none;
-    color: #667eea;
-    font-size: 0.85rem;
-    font-weight: 600;
-    cursor: pointer;
-    padding: 0;
-    margin-left: 4px;
-    transition: color 0.2s;
-  }
-
-  .read-more-btn:hover {
-    color: #764ba2;
   }
 
   .meta {

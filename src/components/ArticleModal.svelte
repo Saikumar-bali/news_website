@@ -92,17 +92,6 @@
       <div class="modal-body">
         <p>{getSummary()}</p>
       </div>
-      
-      <div class="modal-actions">
-        <a href={article.url} target="_blank" rel="noopener noreferrer" class="read-original">
-          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-            <polyline points="15 3 21 3 21 9"></polyline>
-            <line x1="10" y1="14" x2="21" y2="3"></line>
-          </svg>
-          Read Full Article
-        </a>
-      </div>
     </div>
   </div>
 </div>
@@ -220,7 +209,7 @@
   }
 
   .modal-body {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
   }
 
   .modal-body p {
@@ -228,30 +217,6 @@
     line-height: 1.8;
     color: #c0c0c0;
     white-space: pre-wrap;
-  }
-
-  .modal-actions {
-    display: flex;
-    justify-content: flex-end;
-  }
-
-  .read-original {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.875rem 1.75rem;
-    background: linear-gradient(135deg, #667eea, #764ba2);
-    color: white;
-    text-decoration: none;
-    border-radius: 30px;
-    font-weight: 600;
-    font-size: 0.95rem;
-    transition: transform 0.2s, box-shadow 0.2s;
-  }
-
-  .read-original:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 25px rgba(102, 126, 234, 0.5);
   }
 
   @media (max-width: 640px) {
