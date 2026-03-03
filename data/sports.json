@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-03T20:33:00.930Z",
-  "updated_at_IST": "4/3/2026, 2:03:00 am",
+  "updated_at": "2026-03-03T21:35:30.606Z",
+  "updated_at_IST": "4/3/2026, 3:05:30 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "827c25bdc69e9deabe6697861e311675",
+      "title": "John Blain reinstated to Cricket Scotland Hall of Fame",
+      "summary": "Former seamer was suspended in July 2022 following racism allegations",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526714.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/382500/382553.jpg",
+      "published_at": "2026-03-03T21:04:43.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "జాన్ బ్లెయిన్ క్రికెట్ స్కాట్లాండ్ హాల్ ఆఫ్ ఫేమ్‌కు తిరిగి చేర్చబడ్డాడు",
+      "summary_te": "జాత్యహంకార ఆరోపణల కారణంగా మాజీ సీమర్ జూలై 2022లో సస్పెండ్ చేయబడ్డాడు",
+      "translated": true
+    },
     {
       "id": "eb47c09201489ed94e3d0b52a9f36903",
       "title": "England Lions return to UK after security situation causes cancellation of UAE tour",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సామ్సన్: నా జీవితంలో గొప్ప రోజులలో ఒకటి",
       "summary_te": "శాంసన్ 50 బంతుల్లో అజేయంగా 97 పరుగులు చేశాడు - పురుషుల T20 ప్రపంచ కప్‌లో భారత్‌కు రికార్డు స్కోరు",
-      "translated": true
-    },
-    {
-      "id": "8082572b4509e542ec8d395d7fdf800d",
-      "title": "Samson special leads India into the semi-finals",
-      "summary": "West Indies posted 195 in a must-win game but would rue their captain Hope's 32 off 33 balls",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526556.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414298.jpg",
-      "published_at": "2026-03-01T18:24:41.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "శాంసన్ స్పెషల్ ఇండియాను సెమీ-ఫైనల్‌లోకి నడిపించాడు",
-      "summary_te": "తప్పక గెలవాల్సిన మ్యాచ్‌లో వెస్టిండీస్ 195 పరుగులు చేసింది, అయితే వారి కెప్టెన్ హోప్ 33 బంతుల్లో 32 పరుగులు చేశాడు.",
       "translated": true
     }
   ]

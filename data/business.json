@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-03T20:33:00.930Z",
-  "updated_at_IST": "4/3/2026, 2:03:00 am",
+  "updated_at": "2026-03-03T21:35:30.606Z",
+  "updated_at_IST": "4/3/2026, 3:05:30 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "3f30989b1478d725cf1f4b979101741b",
+      "title": "Drone strike near US Consulate in Dubai | Watch video",
+      "summary": "A drone attack caused a fire near the US Consulate in Dubai on Tuesday, but authorities confirmed it was quickly contained with no injuries reported. US Secretary of State Marco Rubio said the drone hit a parking lot near the diplomatic facility amid rising regional tensions.",
+      "url": "https://www.livemint.com/news/world/drone-strike-near-us-consulate-in-dubai-watch-video-11772569760166.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/03/1600x900/logo/dubai_1772570460505_1772570466863.jpg",
+      "published_at": "2026-03-03T20:44:54.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "దుబాయ్‌లోని యుఎస్ కాన్సులేట్ దగ్గర డ్రోన్ స్ట్రైక్ | వీడియో చూడండి",
+      "summary_te": "మంగళవారం దుబాయ్‌లోని యుఎస్ కాన్సులేట్ సమీపంలో డ్రోన్ దాడి కారణంగా మంటలు చెలరేగాయి, అయితే ఎటువంటి గాయాలు సంభవించకుండా త్వరగా అదుపులోకి వచ్చినట్లు అధికారులు ధృవీకరించారు. ప్రాంతీయ ఉద్రిక్తతలు పెరుగుతున్న నేపథ్యంలో దౌత్య సదుపాయం సమీపంలోని పార్కింగ్ స్థలాన్ని డ్రోన్ ఢీకొట్టిందని అమెరికా విదేశాంగ మంత్రి మార్కో రూబియో తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "3d6a5e0430c043a480c5366b32fa0b7f",
       "title": "Air India, Air India Express extend Gulf flight suspensions amid Middle East crisis - Details here",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "హోలీకి ముందు, ఢిల్లీకి చెందిన కార్డియాలజిస్ట్ భాంగ్ యొక్క దాగి ఉన్న ప్రమాదాలను ఫ్లాగ్ చేశాడు, 'ఇది ప్రమాదకరం కాదు'",
       "summary_te": "రేపు హోలీని జరుపుకోవడానికి భారతదేశం సిద్ధమవుతున్న తరుణంలో, కార్డియాలజిస్ట్ డాక్టర్ అలోక్ చోప్రా భాంగ్‌ను హానిచేయనిదిగా పరిగణించకుండా హెచ్చరించారు, అధిక వినియోగం తీవ్ర భయాందోళనలకు దారితీస్తుందని, వేగవంతమైన హృదయ స్పందన రేటు మరియు అత్యవసర సందర్శనలను ప్రేరేపిస్తుందని హెచ్చరించారు.",
-      "translated": true
-    },
-    {
-      "id": "611812f5c14ed9ad8fbbe0c4cbf7639c",
-      "title": "Dubai, Abu Dhabi, Qatar, Kuwait and Bahrain News LIVE: Loud explosions heard in Abu Dhabi, Dubai and Doha",
-      "summary": "Dubai, Abu Dhabi, Qatar, Kuwait and Bahrain News LIVE: Loud bangs were heard in Abu Dhabi, Dubai and Doha, according to Reuters which cited witnesses. The cause of the explosions was not immediately confirmed.",
-      "url": "https://www.livemint.com/news/world/dubai-abu-dhabi-qatar-kuwait-and-bahrain-news-live-uae-burj-khalifa-us-israel-iran-war-missiles-flight-states-11772541971753.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/03/1600x900/logo/TOPSHOT-UAE-IRAN-US-ISRAEL-WAR-0_1772542977923_1772543010241.jpg",
-      "published_at": "2026-03-03T13:36:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "దుబాయ్, అబుదాబి, ఖతార్, కువైట్ మరియు బహ్రెయిన్ న్యూస్ లైవ్: అబుదాబి, దుబాయ్ మరియు దోహాలో భారీ పేలుళ్లు వినిపించాయి",
-      "summary_te": "దుబాయ్, అబుదాబి, ఖతార్, కువైట్ మరియు బహ్రెయిన్ న్యూస్ లైవ్: సాక్షులను ఉదహరించిన రాయిటర్స్ ప్రకారం, అబుదాబి, దుబాయ్ మరియు దోహాలలో పెద్ద శబ్దాలు వినిపించాయి. పేలుళ్లకు కారణం వెంటనే నిర్ధారించబడలేదు.",
       "translated": true
     },
     {
