@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-03-03T14:49:57.736Z",
-  "updated_at_IST": "3/3/2026, 8:19:57 pm",
+  "updated_at": "2026-03-03T15:50:02.819Z",
+  "updated_at_IST": "3/3/2026, 9:20:02 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
-      "id": "e12db941351928069faab6d1482da70e",
-      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
-      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
-      "published_at": "2026-03-03T14:22:15.000Z",
+      "id": "823df74e502cd6101393d446f963361d",
+      "title": "Santner: 'SA have a lot of power, but we back ourselves in a one-off game'",
+      "summary": "He expects a \"flat pitch\" in Kolkata, and aims to restrict SA to 180 if NZ bowl first",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526684.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414327.jpg",
+      "published_at": "2026-03-03T15:24:45.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
-      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
+      "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
+      "translated": true
+    },
+    {
+      "id": "eb165ff73ff03ab520d7909f2a37c874",
+      "title": "Renuka ruled out of Australia Test, Gautam called up as replacement",
+      "summary": "Renuka has been advised rest to \"better manager her workload\", the BCCI said",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526686.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/372600/372669.jpg",
+      "published_at": "2026-03-03T15:16:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
+      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
       "translated": true
     },
     {
@@ -24,12 +38,26 @@
       "summary": "RCB's two other home fixtures this season will be played in Raipur",
       "url": "https://www.espncricinfo.com/ci/content/story/1526674.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/400600/400679.jpg",
-      "published_at": "2026-03-03T12:23:34.000Z",
+      "published_at": "2026-03-03T15:11:28.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "చిన్నస్వామి స్టేడియం IPL 2026లో ఐదు RCB గేమ్‌లకు ఆతిథ్యం ఇవ్వనుంది",
       "summary_te": "ఈ సీజన్‌లో RCB యొక్క మరో రెండు హోమ్ మ్యాచ్‌లు రాయ్‌పూర్‌లో జరుగుతాయి",
+      "translated": true
+    },
+    {
+      "id": "e12db941351928069faab6d1482da70e",
+      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
+      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
+      "published_at": "2026-03-03T14:41:08.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
+      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "షామాస్, బౌలర్లు దక్షిణాఫ్రికాపై పాకిస్థాన్‌కు ఓదార్పునిచ్చారు",
       "summary_te": "ఇప్పటికే సిరీస్‌ను 2-0తో కోల్పోయిన పాకిస్థాన్ ఆల్ రౌండ్ ప్రదర్శనతో 119 పరుగుల తేడాతో విజయం సాధించింది.",
-      "translated": true
-    },
-    {
-      "id": "0be0d84036620c05fbe6efcaa5cbfa6d",
-      "title": "SA coach Conrad embracing 'favourites' tag heading into T20 World Cup semi-finals",
-      "summary": "After securing their seventh straight win at the T20 World Cup, the South Africa head coach feels confident heading into the semi-finals",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526539.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401888.jpg",
-      "published_at": "2026-03-01T16:21:05.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "SA కోచ్ కాన్రాడ్ T20 ప్రపంచ కప్ సెమీ-ఫైనల్‌లోకి వెళుతున్న 'ఫేవరెట్స్' ట్యాగ్‌ను స్వీకరించాడు",
-      "summary_te": "T20 ప్రపంచ కప్‌లో వారి వరుస ఏడవ విజయాన్ని సాధించిన తర్వాత, దక్షిణాఫ్రికా ప్రధాన కోచ్ సెమీ-ఫైనల్‌కు వెళ్లడంపై నమ్మకంతో ఉన్నాడు",
-      "translated": true
-    },
-    {
-      "id": "de369a5e103e1e162e409dce48f72eea",
-      "title": "South Africa go into semis unbeaten despite Raza's heroics",
-      "summary": "Raza first smashed 73 off 43 and then took 3 for 29 but it wasn't enough",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526513.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414269.jpg",
-      "published_at": "2026-03-01T14:01:09.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రజా వీరవిహారం చేసినప్పటికీ దక్షిణాఫ్రికా అజేయంగా సెమీస్‌కు చేరుకుంది",
-      "summary_te": "రజా మొదట 43 బంతుల్లో 73 పరుగులు చేసి ఆ తర్వాత 29 పరుగులకు 3 వికెట్లు తీసుకున్నాడు కానీ అది సరిపోలేదు.",
       "translated": true
     }
   ]
