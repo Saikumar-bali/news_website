@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-03T17:48:23.494Z",
-  "updated_at_IST": "3/3/2026, 11:18:23 pm",
+  "updated_at": "2026-03-03T18:44:06.981Z",
+  "updated_at_IST": "4/3/2026, 12:14:06 am",
   "category": "sports",
   "count": 25,
   "articles": [
@@ -10,12 +10,26 @@
       "summary": "Jonny Bairstow and family remain in Gulf as white-ball squad return home",
       "url": "https://www.espncricinfo.com/ci/content/story/1526634.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/324100/324115.jpg",
-      "published_at": "2026-03-03T17:31:27.000Z",
+      "published_at": "2026-03-03T18:16:42.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "భద్రతా పరిస్థితుల కారణంగా UAE పర్యటన రద్దు కావడంతో ఇంగ్లాండ్ లయన్స్ తిరిగి UKకి చేరుకుంది",
       "summary_te": "వైట్-బాల్ స్క్వాడ్ స్వదేశానికి తిరిగి రావడంతో జానీ బెయిర్‌స్టో మరియు కుటుంబం గల్ఫ్‌లో ఉన్నారు",
+      "translated": true
+    },
+    {
+      "id": "e12db941351928069faab6d1482da70e",
+      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
+      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
+      "published_at": "2026-03-03T17:42:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
+      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
       "translated": true
     },
     {
@@ -28,7 +42,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -72,20 +86,6 @@
       "language": "en",
       "title_te": "చిన్నస్వామి స్టేడియం IPL 2026లో ఐదు RCB గేమ్‌లకు ఆతిథ్యం ఇవ్వనుంది",
       "summary_te": "ఈ సీజన్‌లో RCB యొక్క మరో రెండు హోమ్ మ్యాచ్‌లు రాయ్‌పూర్‌లో జరుగుతాయి",
-      "translated": true
-    },
-    {
-      "id": "e12db941351928069faab6d1482da70e",
-      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
-      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
-      "published_at": "2026-03-03T14:41:08.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
-      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
       "translated": true
     },
     {
@@ -197,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పురుషుల హండ్రెడ్ వేలం కోసం మార్క్యూ పేర్లలో హరీస్ రౌఫ్",
-      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్‌లో ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
+      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్ కోసం ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
       "translated": true
     },
     {
@@ -211,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌లో పాక్‌ ఆటగాళ్లకు పీసీబీ జరిమానా విధించింది",
-      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాల్గవసారి సెమీ-ఫైనల్‌కు దూరమైన తర్వాత ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
+      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాలుగో సారి సెమీ-ఫైనల్స్‌లో తప్పిపోయిన ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
       "translated": true
     },
     {
