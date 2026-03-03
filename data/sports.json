@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-03-03T16:45:31.581Z",
-  "updated_at_IST": "3/3/2026, 10:15:31 pm",
+  "updated_at": "2026-03-03T17:48:23.494Z",
+  "updated_at_IST": "3/3/2026, 11:18:23 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
-      "id": "8d5f7f8196c8c673b970f3dd46612493",
-      "title": "South Africa strong favourites as quest for elusive silverware hots up",
-      "summary": "Serial semi-finalists meet at Eden Gardens in latest bid to land limited-overs crown",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526706.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413511.jpg",
-      "published_at": "2026-03-03T16:08:30.000Z",
+      "id": "eb47c09201489ed94e3d0b52a9f36903",
+      "title": "England Lions return to UK after security situation causes cancellation of UAE tour",
+      "summary": "Jonny Bairstow and family remain in Gulf as white-ball squad return home",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526634.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/324100/324115.jpg",
+      "published_at": "2026-03-03T17:31:27.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "అంతుచిక్కని వెండి సామాగ్రి కోసం వెతుకులాటలో దక్షిణాఫ్రికా బలమైన ఇష్టమైనవి",
-      "summary_te": "సీరియల్ సెమీ-ఫైనలిస్టులు ఈడెన్ గార్డెన్స్‌లో పరిమిత ఓవర్ల కిరీటం కోసం తాజా బిడ్‌లో కలుసుకున్నారు",
+      "title_te": "భద్రతా పరిస్థితుల కారణంగా UAE పర్యటన రద్దు కావడంతో ఇంగ్లాండ్ లయన్స్ తిరిగి UKకి చేరుకుంది",
+      "summary_te": "వైట్-బాల్ స్క్వాడ్ స్వదేశానికి తిరిగి రావడంతో జానీ బెయిర్‌స్టో మరియు కుటుంబం గల్ఫ్‌లో ఉన్నారు",
       "translated": true
     },
     {
@@ -24,12 +24,26 @@
       "summary": "He expects a \"flat pitch\" in Kolkata, and aims to restrict SA to 180 if NZ bowl first",
       "url": "https://www.espncricinfo.com/ci/content/story/1526684.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414190.jpg",
-      "published_at": "2026-03-03T15:43:30.000Z",
+      "published_at": "2026-03-03T17:03:05.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
+      "translated": true
+    },
+    {
+      "id": "8d5f7f8196c8c673b970f3dd46612493",
+      "title": "South Africa strong favourites as quest for elusive silverware hots up",
+      "summary": "Serial semi-finalists meet at Eden Gardens in latest bid to land limited-overs crown",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526706.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413511.jpg",
+      "published_at": "2026-03-03T16:41:40.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "అంతుచిక్కని వెండి సామాగ్రి కోసం వెతుకులాటలో దక్షిణాఫ్రికా బలమైన ఇష్టమైనవి",
+      "summary_te": "సీరియల్ సెమీ-ఫైనలిస్టులు ఈడెన్ గార్డెన్స్‌లో పరిమిత ఓవర్ల కిరీటం కోసం తాజా బిడ్‌లో కలుసుకున్నారు",
       "translated": true
     },
     {
@@ -173,20 +187,6 @@
       "translated": true
     },
     {
-      "id": "eb47c09201489ed94e3d0b52a9f36903",
-      "title": "Lions tour, England Women's training camp in UAE cancelled over security situation",
-      "summary": "ECB working on getting players and staff home from Abu Dhabi amid travel chaos",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526634.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/324100/324115.jpg",
-      "published_at": "2026-03-02T19:04:12.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "లయన్స్ పర్యటన, యుఎఇలో ఇంగ్లండ్ మహిళల శిక్షణా శిబిరం భద్రతా పరిస్థితుల కారణంగా రద్దు చేయబడింది",
-      "summary_te": "ప్రయాణ గందరగోళం మధ్య అబుదాబి నుండి ఆటగాళ్ళు మరియు సిబ్బందిని ఇంటికి చేర్చడానికి ECB పని చేస్తోంది",
-      "translated": true
-    },
-    {
       "id": "00114cee2611f723013f5365ba69dd05",
       "title": "Haris Rauf among marquee names for men's Hundred auction",
       "summary": "Rauf one of 14 Pakistan players to make trimmed longlist for next week's inaugural event",
@@ -197,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పురుషుల హండ్రెడ్ వేలం కోసం మార్క్యూ పేర్లలో హరీస్ రౌఫ్",
-      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్ కోసం ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
+      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్‌లో ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
       "translated": true
     },
     {
@@ -211,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌లో పాక్‌ ఆటగాళ్లకు పీసీబీ జరిమానా విధించింది",
-      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాలుగో సారి సెమీ-ఫైనల్స్‌లో తప్పిపోయిన ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
+      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాల్గవసారి సెమీ-ఫైనల్‌కు దూరమైన తర్వాత ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
       "translated": true
     },
     {
