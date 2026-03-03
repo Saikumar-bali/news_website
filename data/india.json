@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-03-03T21:35:30.606Z",
-  "updated_at_IST": "4/3/2026, 3:05:30 am",
+  "updated_at": "2026-03-03T22:28:55.887Z",
+  "updated_at_IST": "4/3/2026, 3:58:55 am",
   "category": "india",
   "count": 100,
   "articles": [
     {
+      "id": "1df2b08063a9a8669dbf0031ae1fb947",
+      "title": "Indian airlines plan to operate 58 flights to Middle East on March 4: Govt",
+      "summary": "Indian airlines plan to operate 58 flights to Middle East on March 4: Govt",
+      "url": " https://www.indiatoday.in/india/story/indian-airlines-plan-to-operate-58-flights-to-middle-east-on-march-4-government-2877223-2026-03-04?utm_source=rss ",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/flight-cancellations-at-delhi-igi-airport-rise-as-middle-east-airspace-closures-disrupt-global-route-013836708-16x9_1.jpg?VersionId=93h87ea8YPBmzwAtUZkKpN_L3Bre9ozn",
+      "published_at": "2026-03-03T21:53:56.000Z",
+      "source": "India Today",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారతీయ విమానయాన సంస్థలు మార్చి 4న మధ్యప్రాచ్యానికి 58 విమానాలను నడపాలని యోచిస్తున్నాయి: ప్రభుత్వం",
+      "summary_te": "భారతీయ విమానయాన సంస్థలు మార్చి 4న మధ్యప్రాచ్యానికి 58 విమానాలను నడపాలని యోచిస్తున్నాయి: ప్రభుత్వం",
+      "translated": true
+    },
+    {
+      "id": "664e22a7d3da0eaf66213c2e557cbead",
+      "title": "MoD signs inks Rs 2,182 crore deal with Russia for ship missiles",
+      "summary": "India's defence ministry has boosted naval and coast guard capabilities with two major deals worth over Rs 5,000 crore. The Indian Coast Guard will receive six advanced maritime helicopters from HAL, enhancing its security roles. Meanwhile, the Indian Navy is acquiring advanced Shtil surface-to-air missiles from Russia to bolster warship defence against aerial threats.",
+      "url": "https://timesofindia.indiatimes.com/defence/news/mod-signs-rs-2900-crore-contract-with-hal-for-6-alh-choppers-inks-rs-2182-crore-deal-with-russia-for-ship-missiles/articleshow/128992926.cms",
+      "image": "https://static.toiimg.com/photo/msid-128992989,imgsize-40830.cms",
+      "published_at": "2026-03-03T21:51:22.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "షిప్ క్షిపణుల కోసం రష్యాతో రూ. 2,182 కోట్ల ఒప్పందం కుదుర్చుకున్న MoD",
+      "summary_te": "5,000 కోట్లకు పైగా విలువైన రెండు ప్రధాన ఒప్పందాలతో భారత రక్షణ మంత్రిత్వ శాఖ నావికా మరియు కోస్ట్ గార్డ్ సామర్థ్యాలను పెంచింది. ఇండియన్ కోస్ట్ గార్డ్ హెచ్ ‌ ఎఎల్ నుండి ఆరు అధునాతన సముద్ర హెలికాప్టర్ ‌ లను అందుకుంటుంది, దాని భద్రతా పాత్రలను పెంచుతుంది. ఇంతలో, వైమానిక బెదిరింపులకు వ్యతిరేకంగా యుద్ధనౌక రక్షణను పెంచడానికి భారత నావికాదళం రష్యా నుండి అధునాతన షటిల్ ఉపరితలం నుండి గాలికి క్షిపణులను కొనుగోలు చేస్తోంది.",
+      "translated": true
+    },
+    {
+      "id": "4bd55eaf4654bf50c25703e7512e4fb4",
+      "title": "J&K Police lodge FIR against Kashmir MP Ruhullah, former Srinagar mayor Mattu",
+      "summary": "Junaid Azim Mattu said in a Kashmir today fellow mainstream leaders have “surrendered and sold their tongues to the BJP-led Government and chosen to sound shamefully diplomatic over the assassination of Khamenei and the brutal war on Iran and Palestine”.",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-lodge-fir-against-kashmir-mp-ruhullah-former-srinagar-mayor-mattu/article70700941.ece",
+      "image": "https://th-i.thgim.com/public/incoming/1eis2/article70701125.ece/alternates/LANDSCAPE_1200/30-RESTRICTIONS-SGR-03-03-2026.JPG",
+      "published_at": "2026-03-03T21:35:37.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కాశ్మీర్ ఎంపీ రుహుల్లా, శ్రీనగర్ మాజీ మేయర్ మట్టుపై J&K పోలీసులు FIR నమోదు చేశారు",
+      "summary_te": "ఈ రోజు కాశ్మీర్‌లో జునైద్ అజీమ్ మట్టు మాట్లాడుతూ, ప్రధాన స్రవంతి నాయకులు \"బిజెపి నేతృత్వంలోని ప్రభుత్వానికి లొంగిపోయారు మరియు వారి నాలుకలను అమ్ముకున్నారు మరియు ఖమేనీ హత్య మరియు ఇరాన్ మరియు పాలస్తీనాపై క్రూరమైన యుద్ధంపై సిగ్గుపడే దౌత్యాన్ని ఎంచుకున్నారు\".",
+      "translated": true
+    },
+    {
+      "id": "b35b337b7670c11b61d581e2a674730c",
+      "title": "Fire near U.S. consulate in Dubai after drone attack: govt statement",
+      "summary": "U.S. Secretary of State Marco Rubio confirmed the drone strike adjacent to the U.S. consulate in Dubai and said all personnel were safe",
+      "url": "https://www.thehindu.com/news/international/fire-near-us-consulate-in-dubai-after-drone-attack-govt-statement/article70701012.ece",
+      "image": "https://th-i.thgim.com/public/incoming/q2269c/article70701015.ece/alternates/LANDSCAPE_1200/HCg2-cOawAELqaO.jpg",
+      "published_at": "2026-03-03T21:16:49.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "డ్రోన్ దాడి తర్వాత దుబాయ్‌లోని యుఎస్ కాన్సులేట్ సమీపంలో అగ్నిప్రమాదం: ప్రభుత్వ ప్రకటన",
+      "summary_te": "దుబాయ్‌లోని యుఎస్ కాన్సులేట్ ప్రక్కనే డ్రోన్ దాడిని యుఎస్ స్టేట్ సెక్రటరీ మార్కో రూబియో ధృవీకరించారు మరియు సిబ్బంది అందరూ సురక్షితంగా ఉన్నారని చెప్పారు.",
+      "translated": true
+    },
+    {
       "id": "86f89b2d757bff41fc51d1fcc874f923",
       "title": "Watch: Flames, black smoke rise near US Consulate in Dubai after drone strike",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "summary": "Dubai authorities extinguished a fire near the US consulate following a drone strike. Emergency teams responded swiftly, and no injuries were reported. The UAE's air defense systems intercepted numerous missiles and drones. The nation maintains its right to self-defense amidst ongoing regional tensions. The UAE reiterates its neutral stance in the conflict.",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/flames-black-smoke-rise-near-us-consulate-in-dubai-after-drone-strike-no-injuries-reported-watch-video/articleshow/128991002.cms",
       "image": "https://static.toiimg.com/photo/msid-128991576,imgsize-11944.cms",
       "published_at": "2026-03-03T21:06:08.000Z",
@@ -15,7 +71,21 @@
       "category": "india",
       "language": "en",
       "title_te": "చూడండి: డ్రోన్ దాడి తర్వాత దుబాయ్‌లోని యుఎస్ కాన్సులేట్ సమీపంలో మంటలు, నల్లటి పొగలు ఎగసిపడుతున్నాయి",
-      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "summary_te": "డ్రోన్ దాడితో దుబాయ్ అధికారులు యుఎస్ కాన్సులేట్ సమీపంలో మంటలను ఆర్పివేశారు. అత్యవసర బృందాలు వేగంగా స్పందించాయి మరియు ఎటువంటి గాయాలు నివేదించబడలేదు. UAE యొక్క వైమానిక రక్షణ వ్యవస్థలు అనేక క్షిపణులు మరియు డ్రోన్‌లను అడ్డగించాయి. కొనసాగుతున్న ప్రాంతీయ ఉద్రిక్తతల మధ్య దేశం తన ఆత్మరక్షణ హక్కును కలిగి ఉంది. ఈ వివాదంలో యుఎఇ తన తటస్థ వైఖరిని పునరుద్ఘాటించింది.",
+      "translated": true
+    },
+    {
+      "id": "f2141fea3ed37d9f05ce7b7f9a23ff67",
+      "title": "'Not happy with UK either': Trump slams European nations, singles out Spain over Iran campaign",
+      "summary": "US President Trump has sharply criticized European nations, particularly Spain, for their stance on the US-Israel military campaign against Iran. While Germany is praised, Spain's refusal to allow base usage for operations against Iran has drawn Trump's ire. The conflict escalates with regional attacks and rising oil prices.",
+      "url": "https://timesofindia.indiatimes.com/world/us/not-happy-with-uk-either-donald-trump-slams-european-nations-singles-out-spain-over-iran-campaign/articleshow/128991385.cms",
+      "image": "https://static.toiimg.com/photo/msid-128991499,imgsize-792185.cms",
+      "published_at": "2026-03-03T21:05:37.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'యుకెతో సంతోషంగా లేదు': ట్రంప్ యూరోపియన్ దేశాలపై నిప్పులు చెరిగారు, ఇరాన్ ప్రచారంపై స్పెయిన్ ‌ ను ఒంటరి చేసింది",
+      "summary_te": "ఇరాన్‌కు వ్యతిరేకంగా అమెరికా-ఇజ్రాయెల్ సైనిక ప్రచారంపై తమ వైఖరిని అమెరికా అధ్యక్షుడు ట్రంప్ యూరోపియన్ దేశాలు, ముఖ్యంగా స్పెయిన్ తీవ్రంగా విమర్శించారు. While Germany is praised, Spain's refusal to allow base usage for operations against Iran has drawn Trump's ire. The conflict escalates with regional attacks and rising oil prices.",
       "translated": true
     },
     {
@@ -495,20 +565,6 @@
       "translated": true
     },
     {
-      "id": "a7e4f98c75f3e57a29e6a059d9c21c6c",
-      "title": "Japan’s ‘snow monsters’: The frozen giants of Zao that only appear for weeks",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/japans-snow-monsters-the-frozen-giants-of-zao-that-only-appear-for-weeks-and-locals-say-theyre-slowly-disappearing/articleshow/128986727.cms",
-      "image": "https://static.toiimg.com/photo/msid-128987087,imgsize-42158.cms",
-      "published_at": "2026-03-03T18:37:44.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "జపాన్ యొక్క 'మంచు రాక్షసులు': జావో యొక్క ఘనీభవించిన దిగ్గజాలు వారాలపాటు మాత్రమే కనిపిస్తాయి",
-      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
       "id": "69801486bc0e74e7f61c5cf16fcdf366",
       "title": "Ancient laterite rock-cut chamber unearthed at Panayal in Kasaragod",
       "summary": "A laterite rock-cut chamber, believed to be nearly 2,000 years old and linked to the Megalithic period, was unearthed on Sunday (March 1) during excavation work for the construction of a compound wall at Panayal in Kasaragod district.The structure was discovered on a property owned by M. Madhusoodanan Nambiar and M. Parvathi Amma at Panayal under Pallikkara grama panchayat.",
@@ -761,20 +817,6 @@
       "translated": true
     },
     {
-      "id": "ad1daa00101a0cbdba1fbc6360c5766f",
-      "title": "Karnataka HC directs State government to formulate policy for accurate content management on govt. websites",
-      "summary": "Justice Suraj Govindaraj has issued the directions while dismissing a petition filed in 2016 by Jain International Residential School raising certain disputes over correctness of levy of water charges",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-hc-directs-state-government-to-formulate-policy-for-accurate-content-management-on-govt-websites/article70700366.ece",
-      "image": "https://th-i.thgim.com/public/incoming/bj4nek/article70700897.ece/alternates/LANDSCAPE_1200/IMG_BG_HIGH_COURT_2020_1_1_8CFLE819.jpg",
-      "published_at": "2026-03-03T17:40:31.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ప్రభుత్వంపై కచ్చితమైన కంటెంట్ మేనేజ్‌మెంట్ కోసం విధానాన్ని రూపొందించాలని కర్ణాటక హైకోర్టు రాష్ట్ర ప్రభుత్వాన్ని ఆదేశించింది. వెబ్‌సైట్‌లు",
-      "summary_te": "జైన్ ఇంటర్నేషనల్ రెసిడెన్షియల్ స్కూల్ వాటర్ ఛార్జీల విధింపు సరైనదంటూ కొన్ని వివాదాలను లేవనెత్తుతూ 2016లో దాఖలు చేసిన పిటిషన్‌ను కొట్టివేస్తూ జస్టిస్ సూరజ్ గోవిందరాజ్ ఆదేశాలు జారీ చేశారు.",
-      "translated": true
-    },
-    {
       "id": "ae04273e756b87044d779692235636fa",
       "title": "Apple launches MacBook Pro With M5 Pro and M5 Max chips: Up to 4x faster AI, starts at Rs 2,49,900 in India",
       "summary": "Apple's new MacBook Pro with M5 Pro and M5 Max chips delivers up to 4x faster AI performance over the previous generation, with Neural Accelerators baked into every GPU core. Storage starts at 1TB for M5 Pro and 2TB for M5 Max, with SSD speeds doubling to 14.5GB/s. India pricing begins at Rs 2,49,900, with pre-orders opening March 4 and availability from March 11.",
@@ -786,20 +828,6 @@
       "language": "en",
       "title_te": "ఆపిల్ M5 ప్రో మరియు M5 మాక్స్ చిప్‌లతో మ్యాక్‌బుక్ ప్రోని ప్రారంభించింది: 4x వేగవంతమైన AI, భారతదేశంలో రూ. 2,49,900 నుండి ప్రారంభమవుతుంది",
       "summary_te": "M5 ప్రో మరియు M5 మ్యాక్స్ చిప్‌లతో కూడిన Apple యొక్క కొత్త మ్యాక్‌బుక్ ప్రో మునుపటి తరం కంటే 4x వేగవంతమైన AI పనితీరును అందిస్తుంది, ప్రతి GPU కోర్‌లో న్యూరల్ యాక్సిలరేటర్‌లు బేక్ చేయబడతాయి. M5 Pro కోసం 1TB మరియు M5 Max కోసం 2TB వద్ద నిల్వ ప్రారంభమవుతుంది, SSD వేగం 14.5GB/sకి రెట్టింపు అవుతుంది. భారతదేశం ధర రూ. 2,49,900 నుండి ప్రారంభమవుతుంది, ప్రీ-ఆర్డర్‌లు మార్చి 4 నుండి ప్రారంభమవుతాయి మరియు మార్చి 11 నుండి అందుబాటులో ఉంటాయి.",
-      "translated": true
-    },
-    {
-      "id": "94de8b01514b99289859b5c4a9d2e7a3",
-      "title": "IBC represents legislative choice to privilege speed over exhaustive judicial scrutiny: Supreme Court judgment",
-      "summary": "‘Courts need to remain vigilant against any temptation to expand the scope of review beyond the narrow boundaries prescribed by the Insolvency and Bankruptcy Code,’ the judgment says",
-      "url": "https://www.thehindu.com/news/national/ibc-represents-legislative-choice-to-privilege-speed-over-exhaustive-judicial-scrutiny-supreme-court-judgment/article70700619.ece",
-      "image": "https://th-i.thgim.com/public/incoming/fejvnx/article70685622.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-      "published_at": "2026-03-03T17:33:27.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "IBC సమగ్ర న్యాయ పరిశీలనపై అధికార వేగానికి శాసనపరమైన ఎంపికను సూచిస్తుంది: సుప్రీంకోర్టు తీర్పు",
-      "summary_te": "'దివాలా మరియు దివాలా కోడ్ సూచించిన ఇరుకైన సరిహద్దుల కంటే సమీక్ష పరిధిని విస్తరించడానికి ఏదైనా ప్రలోభాలకు వ్యతిరేకంగా కోర్టులు అప్రమత్తంగా ఉండాలి' అని తీర్పు పేర్కొంది.",
       "translated": true
     },
     {
@@ -1111,20 +1139,6 @@
       "translated": true
     },
     {
-      "id": "43497cce53f5f73cde4e53c0f3940034",
-      "title": "In a historic first, Indian women's cricket team nominated for Laureus honour",
-      "summary": "India’s women’s cricket team has been nominated for the 2026 Laureus World Team of the Year Award after winning their maiden World Cup title. They are the first women’s cricket team to earn this honour, highlighted by a record 339-run chase against Australia. The winners will be announced in Madrid on April 20 by the Laureus World Sports Academy jury.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-script-history-as-harmanpreet-kaur-led-side-becomes-first-ever-womens-cricket-team-nominated-for-laureus-honour/articleshow/128978397.cms",
-      "image": "https://static.toiimg.com/photo/msid-128979119,imgsize-155688.cms",
-      "published_at": "2026-03-03T15:22:33.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "చారిత్రాత్మకంగా, భారత మహిళా క్రికెట్ జట్టు లారస్ గౌరవానికి నామినేట్ చేయబడింది",
-      "summary_te": "భారత మహిళా క్రికెట్ జట్టు తమ తొలి ప్రపంచ కప్ టైటిల్‌ను గెలుచుకున్న తర్వాత 2026 లారెస్ వరల్డ్ టీమ్ ఆఫ్ ది ఇయర్ అవార్డుకు నామినేట్ చేయబడింది. ఆస్ట్రేలియాపై రికార్డు స్థాయిలో 339 పరుగుల ఛేజింగ్ ద్వారా ఈ ఘనత సాధించిన మొదటి మహిళా క్రికెట్ జట్టు వారు. విజేతలను ఏప్రిల్ 20న మాడ్రిడ్‌లో లారెస్ వరల్డ్ స్పోర్ట్స్ అకాడమీ జ్యూరీ ప్రకటిస్తుంది.",
-      "translated": true
-    },
-    {
       "id": "b0b0003c20348f481732713d2ffab456",
       "title": "How Mamata Banerjee's Schemes For Women Got Her A Massive Support Base",
       "summary": "Several targeted initiatives by the West Bengal government headed by Mamata Banerjee has carried women from the realm of welfare to political participation and economic self-reliance.",
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "మణిపూర్ ముఖ్యమంత్రి జాతీయ సమగ్రత పర్యటనను ఫ్లాగ్ చేసి, కుకీ విద్యార్థులతో సంభాషించారు",
       "summary_te": "మణిపూర్ ముఖ్యమంత్రి జాతీయ సమగ్రత పర్యటనను ఫ్లాగ్ చేసి, కుకీ విద్యార్థులతో సంభాషించారు",
-      "translated": true
-    },
-    {
-      "id": "c6cf93bb5fcb2da37c238bbd016f84f0",
-      "title": "Andhra Dy CM launches 'Hanuman' project to address human-wildlife conflict",
-      "summary": "Andhra Dy CM launches 'Hanuman' project to address human-wildlife conflict",
-      "url": "https://www.hindustantimes.com/india-news/andhra-dy-cm-launches-hanuman-project-to-address-human-wildlife-conflict-101772540638966.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india3_1751287297962_1751287304722.jpg",
-      "published_at": "2026-03-03T12:23:58.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "మానవ-వన్యప్రాణుల సంఘర్షణను పరిష్కరించడానికి 'హనుమాన్' ప్రాజెక్టును ప్రారంభించిన ఆంధ్రా ముఖ్యమంత్రి",
-      "summary_te": "మానవ-వన్యప్రాణుల సంఘర్షణను పరిష్కరించడానికి 'హనుమాన్' ప్రాజెక్టును ప్రారంభించిన ఆంధ్రా ముఖ్యమంత్రి",
       "translated": true
     }
   ]
