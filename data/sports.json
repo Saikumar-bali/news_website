@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-03T14:04:30.857Z",
-  "updated_at_IST": "3/3/2026, 7:34:30 pm",
+  "updated_at": "2026-03-03T14:49:57.736Z",
+  "updated_at_IST": "3/3/2026, 8:19:57 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e12db941351928069faab6d1482da70e",
+      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
+      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
+      "published_at": "2026-03-03T14:22:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
+      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
+      "translated": true
+    },
     {
       "id": "22fcf913886024efb21bc4689d2e0f08",
       "title": "Chinnaswamy Stadium set to host five RCB games in IPL 2026",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "రజా వీరవిహారం చేసినప్పటికీ దక్షిణాఫ్రికా అజేయంగా సెమీస్‌కు చేరుకుంది",
       "summary_te": "రజా మొదట 43 బంతుల్లో 73 పరుగులు చేసి ఆ తర్వాత 29 పరుగులకు 3 వికెట్లు తీసుకున్నాడు కానీ అది సరిపోలేదు.",
-      "translated": true
-    },
-    {
-      "id": "b79890e8745239d44be98ae15be50d45",
-      "title": "Unchanged India opt to bowl; Hosein replaces King for West Indies",
-      "summary": "West Indies have offspin of Chase, left-arm spin of Hosein and a mix of left-arm fingerspin and wristspin of Motie",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526514.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414014.jpg",
-      "published_at": "2026-03-01T13:34:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మార్పులేని భారత్ బౌలింగ్ ఎంచుకుంటుంది; వెస్టిండీస్‌కు కింగ్ స్థానంలో హోసేన్ వచ్చాడు",
-      "summary_te": "వెస్టిండీస్ ఆఫ్‌స్పిన్ ఆఫ్ ఛేజ్, లెఫ్ట్ ఆర్మ్ స్పిన్ ఆఫ్ హోసేన్ మరియు లెఫ్ట్ ఆర్మ్ ఫింగర్ స్పిన్ మరియు మోటీ యొక్క రిస్ట్ స్పిన్ మిక్స్‌ని కలిగి ఉంది.",
       "translated": true
     }
   ]
