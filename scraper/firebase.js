@@ -115,4 +115,11 @@ async function pushMeta(meta) {
   }
 }
 
-module.exports = { initFirebase, pushToFirebase, pushMeta };
+async function closeFirebase() {
+  if (admin.apps.length > 0) {
+    await admin.app().delete();
+    console.log('🔌 Firebase connection closed');
+  }
+}
+
+module.exports = { initFirebase, pushToFirebase, pushMeta, closeFirebase };

@@ -3,20 +3,27 @@
   import { fade, scale } from 'svelte/transition';
   
   export let article;
+  export let language = 'te';
   
   const dispatch = createEventDispatcher();
   
-  function getTitle() {
-    return article.title_te || article.title || '';
+  function getTitle(lang) {
+    if (lang === 'te') {
+      return article.title_te || article.title || '';
+    }
+    return article.title || article.title_te || '';
   }
   
-  function getSummary() {
-    return article.summary_te || article.summary || '';
+  function getSummary(lang) {
+    if (lang === 'te') {
+      return article.summary_te || article.summary || '';
+    }
+    return article.summary || article.summary_te || '';
   }
   
-  function formatDate(isoString) {
+  function formatDate(isoString, lang) {
     const date = new Date(isoString);
-    return date.toLocaleDateString('en-IN', {
+    return date.toLocaleString(lang === 'te' ? 'te-IN' : 'en-IN', {
       weekday: 'long',
       day: 'numeric',
       month: 'long',
@@ -57,6 +64,9 @@
       document.body.style.overflow = '';
     };
   });
+
+  $: title = getTitle(language);
+  $: summary = getSummary(language);
 </script>
 
 <svelte:window on:keydown={handleKeydown} />
@@ -72,7 +82,7 @@
     
     {#if article.image}
       <div class="modal-image">
-        <img src={article.image} alt={getTitle()} />
+        <img src={article.image} alt={title} />
       </div>
     {/if}
     
@@ -81,16 +91,16 @@
         {article.category}
       </div>
       
-      <h1 class="modal-title">{getTitle()}</h1>
+      <h1 class="modal-title">{title}</h1>
       
       <div class="modal-meta">
         <span class="source">{article.source}</span>
         <span class="divider">•</span>
-        <span class="date">{formatDate(article.published_at)}</span>
+        <span class="date">{formatDate(article.published_at, language)}</span>
       </div>
       
       <div class="modal-body">
-        <p>{getSummary()}</p>
+        <p>{summary}</p>
       </div>
     </div>
   </div>

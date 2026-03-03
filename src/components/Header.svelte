@@ -1,16 +1,44 @@
 <script>
+  import { createEventDispatcher } from 'svelte';
   export let meta = null;
+  export let language = 'te';
   
-  function formatLastUpdated(isoString) {
+  const dispatch = createEventDispatcher();
+
+  const labels = {
+    en: {
+      title: 'Latest News',
+      tagline: 'India Daily Update',
+      articles: 'Articles',
+      lastUpdated: 'Last Updated',
+      toggle: 'తెలుగు'
+    },
+    te: {
+      title: 'తాజా వార్తలు',
+      tagline: 'డైలీ అప్‌డేట్స్',
+      articles: 'వార్తలు',
+      lastUpdated: 'చివరి అప్‌డేట్',
+      toggle: 'English'
+    }
+  };
+
+  function toggleLanguage() {
+    const newLang = language === 'te' ? 'en' : 'te';
+    dispatch('languageChange', newLang);
+  }
+  
+  function formatLastUpdated(isoString, lang) {
     if (!isoString) return '';
     const date = new Date(isoString);
-    return date.toLocaleString('en-IN', {
+    return date.toLocaleString(lang === 'te' ? 'te-IN' : 'en-IN', {
       day: 'numeric',
       month: 'short',
       hour: '2-digit',
       minute: '2-digit'
     });
   }
+
+  $: t = labels[language];
 </script>
 
 <header>
@@ -22,23 +50,29 @@
         </svg>
       </div>
       <div class="logo-text">
-        <h1>తాజా వార్తలు</h1>
-        <p class="tagline">Telugu Daily News</p>
+        <h1>{t.title}</h1>
+        <p class="tagline">{t.tagline}</p>
       </div>
     </div>
     
-    {#if meta}
-      <div class="status-section">
-        <div class="article-count">
-          <span class="count">{meta.total_articles || 0}</span>
-          <span class="label">Articles</span>
+    <div class="actions">
+      <button class="lang-toggle" on:click={toggleLanguage}>
+        <span class="icon">🌐</span> {t.toggle}
+      </button>
+
+      {#if meta}
+        <div class="status-section">
+          <div class="article-count">
+            <span class="count">{meta.total_articles || 0}</span>
+            <span class="label">{t.articles}</span>
+          </div>
+          <div class="last-updated">
+            <span class="label">{t.lastUpdated}</span>
+            <span class="time">{formatLastUpdated(meta.last_updated, language)}</span>
+          </div>
         </div>
-        <div class="last-updated">
-          <span class="label">Last Updated</span>
-          <span class="time">{formatLastUpdated(meta.last_updated)}</span>
-        </div>
-      </div>
-    {/if}
+      {/if}
+    </div>
   </div>
 </header>
 
@@ -56,7 +90,7 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 1.5rem;
   }
 
   .logo-section {
@@ -93,6 +127,33 @@
     margin: 0;
     letter-spacing: 1px;
     text-transform: uppercase;
+  }
+
+  .actions {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+
+  .lang-toggle {
+    background: rgba(102, 126, 234, 0.1);
+    border: 1px solid rgba(102, 126, 234, 0.3);
+    color: #667eea;
+    padding: 0.6rem 1.2rem;
+    border-radius: 30px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .lang-toggle:hover {
+    background: rgba(102, 126, 234, 0.2);
+    transform: translateY(-2px);
   }
 
   .status-section {
@@ -139,14 +200,21 @@
     font-weight: 500;
   }
 
-  @media (max-width: 640px) {
-    header {
-      padding: 1rem;
-    }
-
+  @media (max-width: 800px) {
     .header-content {
       flex-direction: column;
       text-align: center;
+    }
+    
+    .actions {
+      justify-content: center;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 640px) {
+    header {
+      padding: 1rem;
     }
 
     .status-section {

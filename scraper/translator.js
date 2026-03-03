@@ -71,34 +71,67 @@ async function translateToTelugu(text, from = 'en') {
 }
 
 /**
+ * Translate text to English using Google Translate (free, no key)
+ */
+async function translateToEnglish(text, from = 'te') {
+  if (!text || text.trim() === '') return '';
+  if (from === 'en') return text;
+
+  const cleanText = text.trim().slice(0, 4000);
+
+  try {
+    const encoded = encodeURIComponent(cleanText);
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${from}&tl=en&dt=t&q=${encoded}`;
+
+    const res = await fetch(url, {
+      headers: { 'User-Agent': 'Mozilla/5.0' },
+      timeout: 8000
+    });
+
+    if (!res.ok) throw new Error(`Google Translate HTTP ${res.status}`);
+    const data = await res.json();
+    return data[0].map(part => part[0]).filter(Boolean).join('');
+  } catch (err) {
+    console.warn(`⚠️ Google Translate (EN) failed: ${err.message}`);
+    return cleanText; 
+  }
+}
+
+/**
  * Translate both title and summary of an article
- * Adds small delay between calls to respect rate limits
+ * Ensures both English and Telugu versions exist
  */
 async function translateArticle(article, index = 0) {
-  // Already Telugu — skip
-  if (article.language === 'te') {
-    return {
-      ...article,
-      title_te: article.title,
-      summary_te: article.summary,
-      translated: false
-    };
-  }
-
-  // Small stagger delay to avoid hammering the API
+  // Small stagger delay
   await delay(index * 30);
 
-  const [title_te, summary_te] = await Promise.all([
-    translateToTelugu(article.title),
-    translateToTelugu(article.summary)
-  ]);
+  let title_en = article.title;
+  let summary_en = article.summary;
+  let title_te = article.title_te || '';
+  let summary_te = article.summary_te || '';
+
+  if (article.language === 'te') {
+    // Native Telugu -> Translate to English
+    title_te = article.title;
+    summary_te = article.summary;
+    title_en = await translateToEnglish(article.title, 'te');
+    summary_en = await translateToEnglish(article.summary, 'te');
+  } else {
+    // Native English -> Translate to Telugu
+    title_en = article.title;
+    summary_en = article.summary;
+    title_te = await translateToTelugu(article.title, 'en');
+    summary_te = await translateToTelugu(article.summary, 'en');
+  }
 
   return {
     ...article,
+    title: title_en,      // Store English in main title/summary fields
+    summary: summary_en,
     title_te,
     summary_te,
     translated: true
   };
 }
 
-module.exports = { translateToTelugu, translateArticle };
+module.exports = { translateToTelugu, translateToEnglish, translateArticle };

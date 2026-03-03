@@ -10,6 +10,10 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@400;600;700&family=Noto+Sans+Telugu:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
+  <!-- Firebase SDK -->
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/10.8.0/firebase-database-compat.js"></script>
+
   <style>
     /* ── CSS Variables ── */
     :root {
@@ -335,14 +339,12 @@
       font-weight: 700;
       line-height: 1.5;
       color: var(--text);
-    }
-
-    .card-title-en {
-      font-size: 12px;
-      color: var(--text-muted);
-      font-family: 'Inter', sans-serif;
-      line-height: 1.4;
-      font-style: italic;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      height: 51px; /* 1.5 line-height * 17px * 2 */
+      margin-bottom: 8px;
     }
 
     .card-summary {
@@ -350,6 +352,11 @@
       line-height: 1.7;
       color: #4A4540;
       font-family: 'Noto Sans Telugu', sans-serif;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      height: 71px; /* 1.7 line-height * 14px * 3 */
       flex: 1;
     }
 
@@ -439,6 +446,7 @@
       </div>
     </a>
     <div class="header-meta">
+      <button id="lang-toggle" style="background: rgba(255,255,255,0.2); border: none; color: white; padding: 5px 12px; border-radius: 20px; cursor: pointer; font-size: 13px; font-weight: 600;">English</button>
       <div class="live-badge">
         <div class="live-dot"></div>
         <span>LIVE</span>
@@ -495,6 +503,90 @@
   </div>
 </main>
 
+<!-- ── Modal ── -->
+<div id="modal-backdrop" class="modal-backdrop" style="display:none">
+  <div class="modal-container">
+    <button class="close-btn" id="modal-close">&times;</button>
+    <div id="modal-content-area"></div>
+  </div>
+</div>
+
+<style>
+  /* ── Modal Styles ── */
+  .modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(8px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+    padding: 20px;
+  }
+
+  .modal-container {
+    background: var(--surface);
+    border-radius: 24px;
+    max-width: 800px;
+    width: 100%;
+    max-height: 90vh;
+    overflow-y: auto;
+    position: relative;
+    box-shadow: 0 25px 60px rgba(0, 0, 0, 0.5);
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+    font-size: 30px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 10;
+    color: var(--text-muted);
+  }
+
+  .modal-img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+  }
+
+  .modal-inner {
+    padding: 30px;
+  }
+
+  .modal-title {
+    font-family: 'Noto Serif Telugu', serif;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 15px;
+    line-height: 1.4;
+  }
+
+  .modal-meta-row {
+    display: flex;
+    gap: 15px;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .modal-body-text {
+    font-size: 16px;
+    line-height: 1.8;
+    color: #444;
+    white-space: pre-wrap;
+  }
+</style>
+
 <footer>
   <p>📰 తాజా వార్తలు — ప్రతి 5 నిమిషాలకు అప్‌డేట్ అవుతుంది</p>
   <p style="margin-top:6px">Sources: NDTV · Times of India · The Hindu · Eenadu · Sakshi · ET · Cricinfo &amp; more</p>
@@ -502,21 +594,20 @@
 
 <script>
 // ── CONFIG ──────────────────────────────────────────────────
-// UPDATE THIS with your actual GitHub Pages URL after deploying!
-const BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
-  ? '.'          // Local: use relative path
-  : '.';         // GitHub Pages: also relative — works automatically!
-
-const CATEGORY_FILES = {
-  all:       'news',
-  india:     'india',
-  telangana: 'telangana',
-  andhra:    'andhra',
-  business:  'business',
-  sports:    'sports',
-  tech:      'tech',
-  politics:  'politics'
+// Firebase Configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyBOxzYhTPfZzfJLfZfZLfZfZLfZfZLfZfZ",
+  authDomain: "news-webscrap.firebaseapp.com",
+  databaseURL: "https://news-webscrap-default-rtdb.firebaseio.com",
+  projectId: "news-webscrap",
+  storageBucket: "news-webscrap.appspot.com",
+  messagingSenderId: "115808173423677760777",
+  appId: "1:115808173423677760777:web:1234567890abcdef"
 };
+
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+const db = firebase.database();
 
 const CAT_EMOJI = {
   india:     '🇮🇳',
@@ -533,25 +624,74 @@ const CAT_EMOJI = {
 let allArticles   = [];
 let filtered      = [];
 let currentCat    = 'all';
+let language      = 'te'; // 'te' or 'en'
 let displayCount  = 20;
 let searchQuery   = '';
 let refreshTimer  = null;
 
+const LABELS = {
+  en: {
+    title: 'Latest News',
+    tagline: 'LATEST INDIAN NEWS',
+    all: '🏠 All News',
+    india: '🇮🇳 India',
+    telangana: '🌟 Telangana',
+    andhra: '🌊 Andhra',
+    business: '💼 Business',
+    sports: '🏏 Sports',
+    tech: '💻 Tech',
+    politics: '🗳️ Politics',
+    search: 'Search news...',
+    update: 'Updated: ',
+    more: 'Show more news ↓',
+    loading: 'Loading news...',
+    notFound: 'No news found',
+    retry: 'Retry',
+    ticker: '⚡ BREAKING'
+  },
+  te: {
+    title: 'తాజా వార్తలు',
+    tagline: 'LATEST INDIAN NEWS IN TELUGU',
+    all: '🏠 అన్నీ',
+    india: '🇮🇳 భారతదేశం',
+    telangana: '🌟 తెలంగాణ',
+    andhra: '🌊 ఆంధ్రప్రదేశ్',
+    business: '💼 వ్యాపారం',
+    sports: '🏏 క్రీడలు',
+    tech: '💻 సాంకేతికత',
+    politics: '🗳️ రాజకీయాలు',
+    search: 'వార్తలు వెతకండి...',
+    update: 'అప్‌డేట్: ',
+    more: 'మరిన్ని వార్తలు చూడండి ↓',
+    loading: 'వార్తలు లోడ్ అవుతున్నాయి...',
+    notFound: 'వార్తలు దొరకలేదు',
+    retry: 'మళ్ళీ ప్రయత్నించండి',
+    ticker: '⚡ తాజా వార్తలు'
+  }
+};
+
 // ── TIME HELPERS ─────────────────────────────────────────────
-function timeAgo(dateStr) {
+function timeAgo(dateStr, lang) {
   const diff = Date.now() - new Date(dateStr).getTime();
   const mins  = Math.floor(diff / 60000);
   const hours = Math.floor(mins / 60);
   const days  = Math.floor(hours / 24);
 
-  if (mins  < 1)   return 'ఇప్పుడే';
-  if (mins  < 60)  return `${mins} నిమిషాల క్రితం`;
-  if (hours < 24)  return `${hours} గంటల క్రితం`;
-  return `${days} రోజుల క్రితం`;
+  if (lang === 'te') {
+    if (mins  < 1)   return 'ఇప్పుడే';
+    if (mins  < 60)  return `${mins} నిమిషాల క్రితం`;
+    if (hours < 24)  return `${hours} గంటల క్రితం`;
+    return `${days} రోజుల క్రితం`;
+  } else {
+    if (mins  < 1)   return 'Just now';
+    if (mins  < 60)  return `${mins} mins ago`;
+    if (hours < 24)  return `${hours} hours ago`;
+    return `${days} days ago`;
+  }
 }
 
-function formatIST(dateStr) {
-  return new Date(dateStr).toLocaleString('te-IN', {
+function formatIST(dateStr, lang) {
+  return new Date(dateStr).toLocaleString(lang === 'te' ? 'te-IN' : 'en-IN', {
     timeZone: 'Asia/Kolkata',
     day: '2-digit', month: 'short', year: 'numeric',
     hour: '2-digit', minute: '2-digit'
@@ -560,76 +700,108 @@ function formatIST(dateStr) {
 
 // ── FETCH DATA ────────────────────────────────────────────────
 async function fetchNews(category = 'all') {
-  const file = CATEGORY_FILES[category] || 'news';
-  const url  = `${BASE_URL}/data/${file}.json?t=${Date.now()}`;
-
   try {
-    const res  = await fetch(url);
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    return data.articles || [];
-  } catch (err) {
-    // If category file doesn't exist yet, fall back to news.json
+    const snapshot = await db.ref('news').once('value');
+    const articlesMap = snapshot.val() || {};
+    let articles = Object.values(articlesMap);
+    
+    // Sort newest first
+    articles.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+    
     if (category !== 'all') {
-      const fallback = await fetch(`${BASE_URL}/data/news.json?t=${Date.now()}`);
-      const data = await fallback.json();
-      const articles = data.articles || [];
-      return articles.filter(a => a.category === category);
+      articles = articles.filter(a => a.category === category);
     }
+    
+    return articles;
+  } catch (err) {
+    console.error('Firebase fetch error:', err);
     throw err;
   }
 }
 
 async function fetchMeta() {
   try {
-    const res  = await fetch(`${BASE_URL}/data/meta.json?t=${Date.now()}`);
-    const data = await res.json();
-    return data;
-  } catch { return null; }
+    const snapshot = await db.ref('meta/info').once('value');
+    return snapshot.val();
+  } catch (err) { 
+    console.error('Firebase meta fetch error:', err);
+    return null; 
+  }
 }
 
 // ── RENDER ────────────────────────────────────────────────────
+function openArticle(id) {
+  const article = allArticles.find(a => a.id === id);
+  if (!article) return;
+
+  const isTe = language === 'te';
+  const title = isTe ? (article.title_te || article.title) : (article.title || article.title_te);
+  const summary = isTe ? (article.summary_te || article.summary) : (article.summary || article.summary_te);
+
+  const contentArea = document.getElementById('modal-content-area');
+  contentArea.innerHTML = `
+    ${article.image ? `<img src="${escHtml(article.image)}" class="modal-img" />` : ''}
+    <div class="modal-inner">
+      <div class="modal-title">${escHtml(title)}</div>
+      <div class="modal-meta-row">
+        <span>${escHtml(article.source)}</span>
+        <span>•</span>
+        <span>${formatIST(article.published_at, language)}</span>
+      </div>
+      <div class="modal-body-text">${escHtml(summary)}</div>
+      <a href="${escHtml(article.url)}" target="_blank" style="display:inline-block; margin-top:25px; color:var(--saffron); font-weight:600; text-decoration:none;">${isTe ? 'అసలు వార్తను చదవండి' : 'Read original article'} →</a>
+    </div>
+  `;
+
+  document.getElementById('modal-backdrop').style.display = 'flex';
+  document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+  document.getElementById('modal-backdrop').style.display = 'none';
+  document.body.style.overflow = 'auto';
+}
+
 function renderCard(article) {
-  const title   = article.title_te || article.title || 'శీర్షిక అందుబాటులో లేదు';
-  const titleEn = (article.title_te && article.title_te !== article.title) ? article.title : '';
-  const summary = article.summary_te || article.summary || '';
-  const emoji   = CAT_EMOJI[article.category] || '📰';
+  const isTe = language === 'te';
+  const title = isTe ? (article.title_te || article.title) : (article.title || article.title_te);
+  const summary = isTe ? (article.summary_te || article.summary) : (article.summary || article.summary_te);
+  const emoji = CAT_EMOJI[article.category] || '📰';
 
   const imgHtml = article.image
     ? `<img class="card-img" src="${escHtml(article.image)}" alt="" loading="lazy" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'" /><div class="card-img-placeholder" style="display:none">${emoji}</div>`
     : `<div class="card-img-placeholder">${emoji}</div>`;
 
   return `
-    <a href="${escHtml(article.url || '#')}" target="_blank" rel="noopener noreferrer" class="card">
+    <div onclick="openArticle('${article.id}')" class="card">
       ${imgHtml}
       <div class="card-body">
         <div class="card-meta">
           <span class="source-badge">${escHtml(article.source || '')}</span>
           <span class="cat-badge">${emoji} ${escHtml(article.category || '')}</span>
-          <span class="time-ago">${timeAgo(article.published_at)}</span>
+          <span class="time-ago">${timeAgo(article.published_at, language)}</span>
         </div>
         <div class="card-title">${escHtml(title)}</div>
-        ${titleEn ? `<div class="card-title-en">${escHtml(titleEn)}</div>` : ''}
-        ${summary ? `<div class="card-summary">${escHtml(summary.slice(0, 180))}${summary.length > 180 ? '...' : ''}</div>` : ''}
+        ${summary ? `<div class="card-summary">${escHtml(summary)}</div>` : ''}
       </div>
       <div class="card-footer">
-        <span class="time-ago">🕐 ${formatIST(article.published_at)}</span>
-        <span class="read-more">మరింత చదవండి →</span>
+        <span class="time-ago">🕐 ${formatIST(article.published_at, language)}</span>
+        <span class="read-more">${isTe ? 'మరింత చదవండి' : 'Read more'} →</span>
       </div>
-    </a>`;
+    </div>`;
 }
 
 function renderGrid() {
   const container = document.getElementById('news-container');
   const toShow    = filtered.slice(0, displayCount);
   const loadWrap  = document.getElementById('load-more-wrap');
+  const t = LABELS[language];
 
   if (toShow.length === 0) {
     container.innerHTML = `
       <div class="state-screen">
         <div class="icon">🔍</div>
-        <h2>వార్తలు దొరకలేదు</h2>
-        <p>No news found for this selection. Please try another category.</p>
+        <h2>${t.notFound}</h2>
       </div>`;
     loadWrap.style.display = 'none';
     return;
@@ -637,6 +809,24 @@ function renderGrid() {
 
   container.innerHTML = `<div class="news-grid">${toShow.map(renderCard).join('')}</div>`;
   loadWrap.style.display = filtered.length > displayCount ? 'block' : 'none';
+  document.getElementById('load-more-btn').textContent = t.more;
+}
+
+function updateUI() {
+  const t = LABELS[language];
+  document.querySelector('.logo-text h1').textContent = t.title;
+  document.querySelector('.logo-text span').textContent = t.tagline;
+  document.getElementById('search-input').placeholder = t.search;
+  document.getElementById('lang-toggle').textContent = language === 'te' ? 'English' : 'తెలుగు';
+  document.querySelector('.ticker-label').textContent = t.ticker;
+  
+  // Update nav tabs
+  document.querySelectorAll('.nav-tab').forEach(tab => {
+    const cat = tab.dataset.cat;
+    tab.textContent = t[cat];
+  });
+
+  applyFilters();
 }
 
 function escHtml(str) {
@@ -674,21 +864,29 @@ function applyFilters() {
 // ── TICKER ────────────────────────────────────────────────────
 function updateTicker(articles) {
   const ticker = document.getElementById('ticker');
+  const isTe = language === 'te';
   const headlines = articles.slice(0, 10).map(a =>
-    `⚡ ${a.title_te || a.title}`
+    `⚡ ${isTe ? (a.title_te || a.title) : (a.title || a.title_te)}`
   );
-  // Duplicate for seamless loop
   ticker.textContent = [...headlines, ...headlines].join('   |   ');
 }
 
 // ── LOAD ALL ─────────────────────────────────────────────────
-async function loadNews(category) {
+async function loadNews(category, isBackground = false) {
+  const t = LABELS[language];
+  const container = document.getElementById('news-container');
+  const isCategoryChange = currentCat !== category;
+  
   currentCat = category;
-  document.getElementById('news-container').innerHTML = `
-    <div class="state-screen">
-      <div class="spinner"></div>
-      <h2>వార్తలు లోడ్ అవుతున్నాయి...</h2>
-    </div>`;
+
+  // Only show spinner if we have no news or we're changing category
+  if (!isBackground && (allArticles.length === 0 || isCategoryChange)) {
+    container.innerHTML = `
+      <div class="state-screen">
+        <div class="spinner"></div>
+        <h2>${t.loading}</h2>
+      </div>`;
+  }
 
   try {
     const [articles, meta] = await Promise.all([
@@ -698,33 +896,33 @@ async function loadNews(category) {
 
     allArticles = articles;
 
-    // Update header time
     if (meta?.last_updated_IST) {
       document.getElementById('last-updated').textContent =
-        `అప్‌డేట్: ${meta.last_updated_IST}`;
+        `${t.update} ${meta.last_updated_IST}`;
     }
 
-    // Ticker — always show all latest regardless of category filter
     if (category === 'all') updateTicker(articles);
 
     applyFilters();
 
   } catch (err) {
-    document.getElementById('news-container').innerHTML = `
-      <div class="state-screen">
-        <div class="icon">⚠️</div>
-        <h2>లోడ్ కాలేదు</h2>
-        <p>వార్తలు తీసుకోవడంలో సమస్య వచ్చింది. తర్వాత మళ్ళీ ప్రయత్నించండి.</p>
-        <p style="margin-top:8px;font-size:12px;color:#999">${err.message}</p>
-      </div>`;
+    if (allArticles.length === 0) {
+      container.innerHTML = `
+        <div class="state-screen">
+          <div class="icon">⚠️</div>
+          <h2>Error</h2>
+          <p>${err.message}</p>
+        </div>`;
+    }
+    console.error('Refresh failed:', err);
   }
 }
 
 // ── AUTO REFRESH every 5 minutes ─────────────────────────────
 function startAutoRefresh() {
   refreshTimer = setInterval(() => {
-    console.log('🔄 Auto-refreshing news...');
-    loadNews(currentCat);
+    console.log('🔄 Background refreshing news...');
+    loadNews(currentCat, true);
   }, 5 * 60 * 1000);
 }
 
@@ -760,9 +958,20 @@ document.getElementById('load-more-btn').addEventListener('click', () => {
   renderGrid();
 });
 
+document.getElementById('lang-toggle').addEventListener('click', () => {
+  language = language === 'te' ? 'en' : 'te';
+  updateUI();
+});
+
+document.getElementById('modal-close').addEventListener('click', closeModal);
+document.getElementById('modal-backdrop').addEventListener('click', (e) => {
+  if (e.target.id === 'modal-backdrop') closeModal();
+});
+
 // ── INIT ──────────────────────────────────────────────────────
 loadNews('all');
 startAutoRefresh();
+updateUI();
 </script>
 </body>
 </html>

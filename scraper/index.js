@@ -15,7 +15,7 @@ const fetch   = require('node-fetch');
 
 const FEEDS              = require('./sources');
 const { translateArticle } = require('./translator');
-const { initFirebase, pushToFirebase, pushMeta } = require('./firebase');
+const { initFirebase, pushToFirebase, pushMeta, closeFirebase } = require('./firebase');
 
 // ── Anti-blocking: Rotate User-Agents ───────────────────────────
 const USER_AGENTS = [
@@ -348,7 +348,7 @@ async function main() {
   // 4. Translate to Telugu
   const translated = await translateAll(articlesToTranslate);
 
-  // 5. Save data (Firebase or local)
+  // 5. Save data (Firebase AND local)
   if (USE_FIREBASE) {
     console.log('\n🔥 Pushing to Firebase...');
     initFirebase();
@@ -373,16 +373,21 @@ async function main() {
     await pushMeta(meta);
     
     console.log('✅ Firebase push complete!');
-  } else {
-    writeJsonFiles(translated);
   }
+
+  // Always write local JSON files as well for the frontend
+  writeJsonFiles(translated);
 
   console.log('\n═══════════════════════════════════════════════');
   console.log('✅  Scraper finished successfully!');
   console.log('═══════════════════════════════════════════════');
+
+  await closeFirebase();
+  process.exit(0);
 }
 
-main().catch(err => {
+main().catch(async err => {
   console.error('💥 Fatal error:', err);
+  await closeFirebase();
   process.exit(1);
 });

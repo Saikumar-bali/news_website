@@ -1,46 +1,86 @@
 <script>
   import { onMount } from 'svelte';
+  import { initializeApp } from 'firebase/app';
+  import { getDatabase, ref, get, child } from 'firebase/database';
   import NewsCard from './components/NewsCard.svelte';
   import CategoryFilter from './components/CategoryFilter.svelte';
   import Header from './components/Header.svelte';
   import Loading from './components/Loading.svelte';
   import ArticleModal from './components/ArticleModal.svelte';
 
+  // Firebase Configuration (VITE_ prefixed for client-side access)
+  const firebaseConfig = {
+    apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+    authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+    databaseURL: import.meta.env.VITE_FIREBASE_DATABASE_URL,
+    projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+    storageBucket: import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId: import.meta.env.VITE_FIREBASE_MESSAGING_SENDER_ID,
+    appId: import.meta.env.VITE_FIREBASE_APP_ID
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const db = getDatabase(app);
+
   let articles = [];
   let meta = null;
   let selectedCategory = 'all';
+  let language = 'te';
   let loading = true;
   let error = null;
   let selectedArticle = null;
 
-  const categories = [
-    { id: 'all', label: 'All News', labelTe: 'అన్నీ' },
-    { id: 'india', label: 'India', labelTe: 'భారత్' },
-    { id: 'telangana', label: 'Telangana', labelTe: 'తెలంగాణ' },
-    { id: 'andhra', label: 'Andhra', labelTe: 'ఆంధ్ర' },
-    { id: 'business', label: 'Business', labelTe: 'బిజ‌న‌స్' },
-    { id: 'sports', label: 'Sports', labelTe: 'క్రీడ‌లు' },
-    { id: 'tech', label: 'Tech', labelTe: 'ట‌క్' },
-    { id: 'politics', label: 'Politics', labelTe: 'రాజ‌కీయ‌లు' }
+  $: categories = [
+    { id: 'all', label: language === 'te' ? 'అన్నీ' : 'All News' },
+    { id: 'india', label: language === 'te' ? 'భారత్' : 'India' },
+    { id: 'telangana', label: language === 'te' ? 'తెలంగాణ' : 'Telangana' },
+    { id: 'andhra', label: language === 'te' ? 'ఆంధ్ర' : 'Andhra' },
+    { id: 'business', label: language === 'te' ? 'బిజ‌న‌స్' : 'Business' },
+    { id: 'sports', label: language === 'te' ? 'క్రీడ‌లు' : 'Sports' },
+    { id: 'tech', label: language === 'te' ? 'టెక్‌' : 'Tech' },
+    { id: 'politics', label: language === 'te' ? 'రాజ‌కీయాలు' : 'Politics' }
   ];
 
+  function handleLanguageChange(event) {
+    language = event.detail;
+  }
+
   async function loadNews() {
-    loading = true;
+    const isInitialLoad = articles.length === 0;
+    if (isInitialLoad) loading = true;
     error = null;
     try {
-      const categoryFile = selectedCategory === 'all' ? 'news' : selectedCategory;
-      const response = await fetch(`/data/${categoryFile}.json`);
-      if (!response.ok) throw new Error('Failed to load news');
-      const data = await response.json();
-      articles = data.articles || [];
+      // 1. Fetch Articles
+      const newsRef = ref(db, 'news');
+      const newsSnapshot = await get(newsRef);
+      const newsMap = newsSnapshot.val() || {};
+      let allArticles = Object.values(newsMap);
+      
+      // Sort newest first
+      allArticles.sort((a, b) => new Date(b.published_at) - new Date(a.published_at));
+      
+      // Filter by category
+      if (selectedCategory !== 'all') {
+        articles = allArticles.filter(a => a.category === selectedCategory);
+      } else {
+        articles = allArticles;
+      }
+
+      // 2. Fetch Meta
+      const metaRef = ref(db, 'meta/info');
+      const metaSnapshot = await get(metaRef);
+      const metaData = metaSnapshot.val() || {};
+      
       meta = { 
-        last_updated: data.updated_at, 
-        total_articles: data.count 
+        last_updated: metaData.last_updated, 
+        total_articles: metaData.total_articles || articles.length 
       };
     } catch (e) {
-      error = e.message;
+      console.error('Firebase Load Error:', e);
+      if (isInitialLoad) error = e.message;
     } finally {
-      loading = false;
+      if (isInitialLoad) loading = false;
     }
   }
 
@@ -69,7 +109,7 @@
 </svelte:head>
 
 <main>
-  <Header {meta} />
+  <Header {meta} {language} on:languageChange={handleLanguageChange} />
   
   <CategoryFilter 
     {categories} 
@@ -82,24 +122,24 @@
   {:else if error}
     <div class="error-card">
       <div class="error-icon">⚠️</div>
-      <p>{error}</p>
-      <button on:click={loadNews}>Retry</button>
+      <p>{language === 'te' ? 'వార్తలు లోడ్ కాలేదు' : 'Failed to load news'}</p>
+      <button on:click={loadNews}>{language === 'te' ? 'మళ్ళీ ప్రయత్నించండి' : 'Retry'}</button>
     </div>
   {:else if articles.length === 0}
     <div class="empty-card">
-      <p>No news available</p>
+      <p>{language === 'te' ? 'వార్తలు ఏవీ లేవు' : 'No news available'}</p>
     </div>
   {:else}
     <div class="news-grid">
       {#each articles as article (article.id)}
-        <NewsCard {article} on:click={handleArticleClick} />
+        <NewsCard {article} {language} on:click={handleArticleClick} />
       {/each}
     </div>
   {/if}
 </main>
 
 {#if selectedArticle}
-  <ArticleModal article={selectedArticle} on:close={closeModal} />
+  <ArticleModal article={selectedArticle} {language} on:close={closeModal} />
 {/if}
 
 <style>

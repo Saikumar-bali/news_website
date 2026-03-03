@@ -2,32 +2,45 @@
   import { createEventDispatcher } from 'svelte';
   
   export let article;
+  export let language = 'te';
   
   const dispatch = createEventDispatcher();
   
-  function getContent() {
-    return article.summary_te || article.summary || '';
+  function getContent(lang) {
+    if (lang === 'te') {
+      return article.summary_te || article.summary || '';
+    }
+    return article.summary || article.summary_te || '';
   }
   
-  function getTitle() {
-    return article.title_te || article.title || '';
+  function getTitle(lang) {
+    if (lang === 'te') {
+      return article.title_te || article.title || '';
+    }
+    return article.title || article.title_te || '';
   }
   
   function handleClick() {
     dispatch('click', article);
   }
   
-  function formatDate(isoString) {
+  function formatDate(isoString, lang) {
     const date = new Date(isoString);
     const now = new Date();
     const diffMs = now - date;
     const diffHours = Math.floor(diffMs / (1000 * 60 * 60));
     
-    if (diffHours < 1) return 'Just now';
-    if (diffHours < 24) return `${diffHours}h ago`;
-    if (diffHours < 48) return 'Yesterday';
+    if (lang === 'te') {
+      if (diffHours < 1) return 'ఇప్పుడే';
+      if (diffHours < 24) return `${diffHours} గం. క్రితం`;
+      if (diffHours < 48) return 'నిన్న';
+    } else {
+      if (diffHours < 1) return 'Just now';
+      if (diffHours < 24) return `${diffHours}h ago`;
+      if (diffHours < 48) return 'Yesterday';
+    }
     
-    return date.toLocaleDateString('en-IN', {
+    return date.toLocaleDateString(lang === 'te' ? 'te-IN' : 'en-IN', {
       day: 'numeric',
       month: 'short'
     });
@@ -46,8 +59,8 @@
     return colors[category] || '#667eea';
   }
   
-  $: content = getContent();
-  $: title = getTitle();
+  $: content = getContent(language);
+  $: title = getTitle(language);
 </script>
 
 <article class="news-card" on:click={handleClick} on:keypress={handleClick} role="button" tabindex="0">
@@ -71,7 +84,7 @@
       <div class="source-info">
         <span class="source">{article.source}</span>
       </div>
-      <span class="time">{formatDate(article.published_at)}</span>
+      <span class="time">{formatDate(article.published_at, language)}</span>
     </div>
   </div>
 </article>
@@ -146,9 +159,10 @@
     line-height: 1.4;
     color: #ffffff;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    height: 3.1rem; /* Fixed height for 2 lines */
   }
 
   .summary {
@@ -157,6 +171,11 @@
     margin-bottom: 1rem;
     line-height: 1.6;
     flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    height: 4.3rem; /* Fixed height for 3 lines */
   }
 
   .meta {
