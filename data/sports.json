@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-04T06:45:28.916Z",
-  "updated_at_IST": "4/3/2026, 12:15:28 pm",
+  "updated_at": "2026-03-04T07:44:26.787Z",
+  "updated_at_IST": "4/3/2026, 1:14:26 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "456df5cc0624525cf42769957b9782fc",
+      "title": "Maxwell hopeful of playing more T20I cricket for Australia",
+      "summary": "The 37-year-old says there's no need to make any decisions on his future in the short term and has not ruled out playing on to 2028 if his body holds up",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526725.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/408900/408970.jpg",
+      "published_at": "2026-03-04T07:16:08.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
+      "translated": true
+    },
     {
       "id": "77675e2a6c5b9a4810545fa7e3f06add",
       "title": "Perera, Sugandika, Ranaweera take Sri Lanka to T20I series win over West Indies",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "వెస్టిండీస్ నిష్క్రమణకు షాయ్ హోప్ 'నింద' తీసుకున్నాడు",
       "summary_te": "\"మనమందరం తలలు పైకెత్తి ఇంటికి వెళ్ళబోతున్నాం\" అని కెప్టెన్ చెప్పాడు",
-      "translated": true
-    },
-    {
-      "id": "f90622cdd82472c1dbffc810e87ea66e",
-      "title": "Sanju Samson delivered 'when the team needed him the most' - Gautam Gambhir",
-      "summary": "India coach believed wicketkeeper-batter would come good at the right time",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526587.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414297.jpg",
-      "published_at": "2026-03-01T20:17:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సంజూ శాంసన్ 'జట్టుకు అత్యంత అవసరమైనప్పుడు' అందించాడు - గౌతమ్ గంభీర్",
-      "summary_te": "సరైన సమయంలో వికెట్‌కీపర్-బ్యాటర్ బాగా వస్తాడని భారత కోచ్ నమ్మాడు",
       "translated": true
     }
   ]
