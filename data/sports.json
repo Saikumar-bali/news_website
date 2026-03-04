@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-04T11:34:46.880Z",
-  "updated_at_IST": "4/3/2026, 5:04:46 pm",
+  "updated_at": "2026-03-04T12:41:10.085Z",
+  "updated_at_IST": "4/3/2026, 6:11:10 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "74bc3217fdfe3b4bc2aad23c145e2bbc",
+      "title": "Babar, Ayub dropped from ODI side; Farhan called-up for Bangladesh series",
+      "summary": "There are six uncapped players in the squad of 15 for the three-match series",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526791.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/379500/379596.jpg",
+      "published_at": "2026-03-04T12:19:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "translated": true
+    },
+    {
+      "id": "6cd6b41ab9c7fd7c81d0177e8418427c",
+      "title": "Morkel: 'For Varun, it's just about getting that confidence, and trying not to overthink it'",
+      "summary": "\"I keep telling Varun that with the skill and variation he has, he has the ability to take a wicket almost every ball\"",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526788.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414282.jpg",
+      "published_at": "2026-03-04T12:15:18.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మోర్కెల్: 'వరుణ్ కోసం, ఇది కేవలం ఆ విశ్వాసాన్ని పొందడం మరియు దాని గురించి ఎక్కువగా ఆలోచించకుండా ప్రయత్నించడం'",
+      "summary_te": "\"వరుణ్‌కు ఉన్న నైపుణ్యం మరియు వైవిధ్యంతో, దాదాపు ప్రతి బంతికి వికెట్ తీయగల సామర్థ్యం అతనికి ఉందని నేను చెబుతూనే ఉన్నాను\"",
+      "translated": true
+    },
+    {
+      "id": "e12db941351928069faab6d1482da70e",
+      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
+      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
+      "published_at": "2026-03-04T11:40:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
+      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
+      "translated": true
+    },
     {
       "id": "77675e2a6c5b9a4810545fa7e3f06add",
       "title": "Perera, Sugandika, Ranaweera take Sri Lanka to T20I series win over West Indies",
@@ -72,20 +114,6 @@
       "language": "en",
       "title_te": "భద్రతా పరిస్థితుల కారణంగా UAE పర్యటన రద్దు కావడంతో ఇంగ్లాండ్ లయన్స్ తిరిగి UKకి చేరుకుంది",
       "summary_te": "వైట్-బాల్ స్క్వాడ్ స్వదేశానికి తిరిగి రావడంతో జానీ బెయిర్‌స్టో మరియు కుటుంబం గల్ఫ్‌లో ఉన్నారు",
-      "translated": true
-    },
-    {
-      "id": "e12db941351928069faab6d1482da70e",
-      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
-      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
-      "published_at": "2026-03-03T17:42:04.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
-      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
       "translated": true
     },
     {
@@ -299,20 +327,6 @@
       "translated": true
     },
     {
-      "id": "691b1e73fc525365e395d052c791a384",
-      "title": "Do Agha and Shanaka have a future as T20I captains?",
-      "summary": "Our experts, Urooj Mumtaz and Farveez Maharoof, want change, but can't spot any real alternatives in either the Pakistan or the Sri Lanka set-up",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526439.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414215.jpg",
-      "published_at": "2026-03-02T04:56:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "T20I కెప్టెన్లుగా అఘా మరియు షనకకు భవిష్యత్తు ఉందా?",
-      "summary_te": "మా నిపుణులు, ఉరూజ్ ముంతాజ్ మరియు ఫర్వీజ్ మహరూఫ్ మార్పును కోరుకుంటున్నారు, కానీ పాకిస్తాన్ లేదా శ్రీలంక సెటప్‌లో నిజమైన ప్రత్యామ్నాయాలను గుర్తించలేకపోయారు",
-      "translated": true
-    },
-    {
       "id": "cf3ac9d58d37b8a25ede4f5c49568256",
       "title": "All-round Athapaththu takes Sri Lanka 1-0 up against West Indies",
       "summary": "Karishma Ramharack was dismissed obstructing the field for WI, who were bowled out for 101",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఆస్ట్రేలియా టెస్ట్ జట్టులో మార్పులు చేస్తున్నప్పుడు హీలీ 'హాస్యాస్పదమైన క్రీడ' గురించి ప్రతిబింబించాడు",
       "summary_te": "WACAలో పింక్-బాల్ గేమ్ కోసం ఇంటి వైపు రాచెల్ ట్రెనామన్ మరియు మైట్లాన్ బ్రౌన్‌లను తీసుకువచ్చారు.",
-      "translated": true
-    },
-    {
-      "id": "1abd7f1cfb69fbbf07e6f64dd34649ba",
-      "title": "Shai Hope takes 'blame' for West Indies' exit",
-      "summary": "\"We're all going to go home with our heads held high,\" captain says",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526588.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414279.jpg",
-      "published_at": "2026-03-01T21:19:54.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్టిండీస్ నిష్క్రమణకు షాయ్ హోప్ 'నింద' తీసుకున్నాడు",
-      "summary_te": "\"మనమందరం తలలు పైకెత్తి ఇంటికి వెళ్ళబోతున్నాం\" అని కెప్టెన్ చెప్పాడు",
       "translated": true
     }
   ]
