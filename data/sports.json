@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-04T15:42:53.268Z",
-  "updated_at_IST": "4/3/2026, 9:12:53 pm",
+  "updated_at": "2026-03-04T16:43:05.577Z",
+  "updated_at_IST": "4/3/2026, 10:13:05 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "84a9ff76da1061c5d60613de33edb576",
+      "title": "Sulakshan Kulkarni takes over as Oman head coach",
+      "summary": "He takes over from Duleep Mendis, who held the position for 14 years",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526831.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413345.jpg",
+      "published_at": "2026-03-04T15:42:26.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఒమన్ ప్రధాన కోచ్‌గా సులక్షణ్ కులకర్ణి బాధ్యతలు స్వీకరించారు",
+      "summary_te": "14 ఏళ్ల పాటు ఆ పదవిలో ఉన్న దులీప్ మెండిస్ నుంచి అతను బాధ్యతలు స్వీకరించాడు",
+      "translated": true
+    },
     {
       "id": "74bc3217fdfe3b4bc2aad23c145e2bbc",
       "title": "Babar, Ayub dropped from ODI side; Farhan called-up for Bangladesh series",
@@ -15,7 +29,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
-      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్‌లో 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
       "translated": true
     },
     {
@@ -168,7 +182,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -197,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
+      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
       "translated": true
     },
     {
@@ -309,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పురుషుల హండ్రెడ్ వేలం కోసం మార్క్యూ పేర్లలో హరీస్ రౌఫ్",
-      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్‌లో ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
+      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్ కోసం ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
       "translated": true
     },
     {
@@ -323,7 +337,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌లో పాక్‌ ఆటగాళ్లకు పీసీబీ జరిమానా విధించింది",
-      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాల్గవసారి సెమీ-ఫైనల్‌కు దూరమైన తర్వాత ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
+      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాలుగో సారి సెమీ-ఫైనల్స్‌లో తప్పిపోయిన ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
       "translated": true
     },
     {
@@ -337,21 +351,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "జూన్‌లో ఆఫ్ఘనిస్థాన్‌కు ఒక టెస్టు, మూడు వన్డేలకు భారత్ ఆతిథ్యం ఇవ్వనుంది",
-      "summary_te": "2018లో తొలి టెస్టు ఆడిన తర్వాత ఇరు జట్ల మధ్య ఇది ​​రెండో టెస్టు మాత్రమే",
-      "translated": true
-    },
-    {
-      "id": "563e59b99e77d434d64e24a38e96fd0a",
-      "title": "'Need to do more to beat India' - Du Plessis, Kumble say WI 'played it safe'",
-      "summary": "West Indies also did not make India think too much about their sixth bowling option, which has been one of their areas of concerns",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526604.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414278.jpg",
-      "published_at": "2026-03-02T07:12:52.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'భారత్‌ను ఓడించేందుకు మరింత చేయాల్సిన అవసరం ఉంది' - డు ప్లెసిస్, కుంబ్లే WI 'సురక్షితంగా ఆడాను'",
-      "summary_te": "వెస్టిండీస్ కూడా తమ ఆరో బౌలింగ్ ఎంపిక గురించి భారత్‌ను ఎక్కువగా ఆలోచించేలా చేయలేదు, ఇది వారి ఆందోళన కలిగించే అంశాలలో ఒకటి.",
+      "summary_te": "2018లో తొలి టెస్టు జరిగిన తర్వాత ఇరు జట్ల మధ్య ఇది ​​రెండో టెస్టు మాత్రమే",
       "translated": true
     }
   ]

@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-03-04T15:42:53.268Z",
-  "updated_at_IST": "4/3/2026, 9:12:53 pm",
+  "updated_at": "2026-03-04T16:43:05.577Z",
+  "updated_at_IST": "4/3/2026, 10:13:05 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "61626949e920b66cb88308459dc99250",
+      "title": "BLF executes 7 Pak soldiers captured in ‘Operation Herof II’, says Islamabad's prisoner swap plan ‘deceptive tactic’",
+      "summary": "The BLA said it executed seven Pakistani soldiers captured during ‘Operation Herof II’, accusing Islamabad of stalling prisoner swap talks while escalating military action. It blamed Pakistan’s top brass for the deaths.&nbsp;",
+      "url": "https://www.livemint.com/news/world/blf-executes-7-pak-soldiers-captured-in-operation-herof-ii-says-islamabads-prisoner-swap-plan-deceptive-tactic-11772638708946.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/2-0-1390447943-Pakistan-flag-0_1679763127863_1772639078217.jpg",
+      "published_at": "2026-03-04T16:25:23.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'ఆపరేషన్ హీరోఫ్ II'లో పట్టుబడిన 7 మంది పాక్ సైనికులను BLF అమలు చేసింది, ఇస్లామాబాద్ యొక్క ఖైదీల మార్పిడి ప్రణాళిక 'మోసపూరిత వ్యూహం'",
+      "summary_te": "'ఆపరేషన్ హెరోఫ్ II' సమయంలో పట్టుబడిన ఏడుగురు పాకిస్తానీ సైనికులను ఉరితీసినట్లు BLA తెలిపింది, ఇస్లామాబాద్ సైనిక చర్యను తీవ్రతరం చేస్తున్నప్పుడు ఖైదీల మార్పిడి చర్చలను నిలిపివేసిందని ఆరోపించింది. ఈ మరణాలకు పాకిస్థాన్ ఉన్నతాధికారులే కారణమని పేర్కొంది. ",
+      "translated": true
+    },
+    {
+      "id": "48eb6ab2097c4437a41836883dea776a",
+      "title": "Quote of the Day by Bob Dylan on belief and regret: ‘People seldom do what they believe in…’",
+      "summary": "Today’s Quote of the Day features Bob Dylan reflecting on how people often choose what is easy instead of what they truly believe in. His words highlight the gap between conviction and action, and the regret that can follow when convenience takes priority over principle.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-bob-dylan-people-seldom-do-what-they-believe-in-they-do-what-is-convenient-then-repent-11772635003176.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/bob_dylan_1772639889803_1772639895944.jpg",
+      "published_at": "2026-03-04T16:08:47.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "నమ్మకం మరియు పశ్చాత్తాపంపై బాబ్ డైలాన్ రాసిన కోట్ ఆఫ్ ది డే: 'ప్రజలు తాము నమ్మిన వాటిని చాలా అరుదుగా చేస్తారు...'",
+      "summary_te": "ఈ రోజు కోట్ ఆఫ్ ది డేలో బాబ్ డైలాన్ ప్రజలు తాము నిజంగా విశ్వసించే వాటికి బదులుగా సులభమైనదాన్ని ఎలా ఎంచుకుంటారో ప్రతిబింబించేలా ఉంది. అతని మాటలు నమ్మకం మరియు చర్య మధ్య అంతరాన్ని హైలైట్ చేస్తాయి మరియు సూత్రం కంటే సౌలభ్యం ప్రాధాన్యతను తీసుకున్నప్పుడు అనుసరించే విచారం.",
+      "translated": true
+    },
+    {
+      "id": "7e3da23f305480265349793e0dcd689b",
+      "title": "Pentagon chief Pete Hegseth claims: ‘In under a week, US and Israel will have complete control of Iranian skies’",
+      "summary": "“The attack on Iran was never meant to be a fair fight,” Hegseth said at the briefing. “We are punching them while they’re down, which is exactly how it should be,” he added. “They are toast, and they know it, or at least, soon enough, they will know it.”",
+      "url": "https://www.livemint.com/news/us-news/pentagon-chief-pete-hegseth-claims-in-under-a-week-us-and-israel-will-have-complete-control-of-iranian-skies-11772638638067.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Pentagon-US-Iran-4_1772639186701_1772639198982.jpg",
+      "published_at": "2026-03-04T15:57:07.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "పెంటగాన్ చీఫ్ పీట్ హెగ్‌సేత్ ఇలా పేర్కొన్నాడు: 'ఒక వారంలోపు, యుఎస్ మరియు ఇజ్రాయెల్ ఇరాన్ ఆకాశంపై పూర్తి నియంత్రణను కలిగి ఉంటాయి'",
+      "summary_te": "\"ఇరాన్‌పై దాడి ఎప్పుడూ న్యాయమైన పోరాటం కాదు\" అని హెగ్‌సేత్ బ్రీఫింగ్‌లో అన్నారు. \"వారు డౌన్‌లో ఉన్నప్పుడు మేము వాటిని గుద్దుతున్నాము, ఇది ఖచ్చితంగా ఎలా ఉండాలి\" అని అతను చెప్పాడు. \"వారు టోస్ట్, మరియు వారికి అది తెలుసు, లేదా కనీసం, త్వరలో, వారు దానిని తెలుసుకుంటారు.\"",
+      "translated": true
+    },
+    {
+      "id": "3ab64cfb1e0214c3837e63283a370888",
+      "title": "US Senate to vote on measure to curb Trump’s power to continue Iran strikes; resolution likely to fail - Here's why",
+      "summary": "The resolution is likely to be defeated in the Senate vote as Republicans hold a 53-47 majority in the upper chamber of Congress. Most of them have largely back Donald Trump's decision to target Iran",
+      "url": "https://www.livemint.com/news/us-news/us-senate-to-vote-on-measure-to-curb-trump-s-power-to-continue-iran-strikes-resolution-likely-to-fail-heres-why-11772637487656.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/TRUMP-MERZ-22_1772639184962_1772639266491.jpg",
+      "published_at": "2026-03-04T15:51:45.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ దాడులను కొనసాగించడానికి ట్రంప్ యొక్క శక్తిని అరికట్టడానికి US సెనేట్ కొలతపై ఓటు వేయడానికి; రిజల్యూషన్ విఫలమయ్యే అవకాశం ఉంది - ఇక్కడ ఎందుకు ఉంది",
+      "summary_te": "కాంగ్రెస్ ఎగువ ఛాంబర్‌లో రిపబ్లికన్‌లకు 53-47 మెజారిటీ ఉన్నందున సెనేట్ ఓటింగ్‌లో తీర్మానం ఓడిపోయే అవకాశం ఉంది. వీరిలో ఎక్కువ మంది ఇరాన్‌ను లక్ష్యంగా చేసుకునే డోనాల్డ్ ట్రంప్ నిర్ణయాన్ని ఎక్కువగా సమర్థించారు",
+      "translated": true
+    },
+    {
+      "id": "59caae2942b7d7cb7239dcf4bd94a8a1",
+      "title": "Indian tourist says he’s stuck in Dubai for 3 days, embassy helpline ‘not responding’: 'We want to go home’",
+      "summary": "An Indian man stranded in Dubai for three days has taken to social media seeking help, saying repeated flight cancellations and unresponsive helplines have left him unable to return home.",
+      "url": "https://www.livemint.com/news/trends/indian-tourist-says-he-s-stuck-in-dubai-for-3-days-embassy-helpline-not-responding-we-want-to-go-home-11772638317343.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/UAE-IRAN-ISRAEL-US-CONFLICT-6_1772459549273_1772459555286_1772638351639.jpg",
+      "published_at": "2026-03-04T15:44:18.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అతను 3 రోజులు దుబాయ్‌లో చిక్కుకున్నాడని భారతీయ పర్యాటకుడు చెప్పాడు, ఎంబసీ హెల్ప్‌లైన్ 'స్పందించడం లేదు': 'మేము ఇంటికి వెళ్లాలనుకుంటున్నాము'",
+      "summary_te": "మూడు రోజులుగా దుబాయ్‌లో చిక్కుకుపోయిన ఒక భారతీయ వ్యక్తి సహాయం కోరుతూ సోషల్ మీడియాను ఆశ్రయించాడు, పదేపదే విమానాలు రద్దు చేయడం మరియు స్పందించని హెల్ప్‌లైన్‌లు తనను ఇంటికి తిరిగి రాలేకపోయాయని చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "ba43a958b2a34a3c72a5e2f9f7b016c2",
+      "title": "Middle East conflict intensifies as US sub sinks Iranian warship; Tehran vows to hit ME military infrastructure: Updates",
+      "summary": "Defense Secretary Pete Hegseth said the US&nbsp;sank an Iranian warship in international waters.",
+      "url": "https://www.livemint.com/news/world/middle-east-conflict-intensifies-as-us-sub-sinks-iranian-warship-tehran-vows-to-hit-me-military-infrastructure-updates-11772634531193.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-US-ISRAEL-WAR-53_1772635148964_1772635184099.jpg",
+      "published_at": "2026-03-04T15:39:45.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరానియన్ యుద్ధనౌకను US ఉప ముంచడంతో మధ్యప్రాచ్యం వివాదం తీవ్రమవుతుంది; టెహ్రాన్ ME మిలిటరీ ఇన్‌ఫ్రాస్ట్రక్చర్‌ను దెబ్బతీస్తుందని ప్రతిజ్ఞ చేసింది: నవీకరణలు",
+      "summary_te": "అంతర్జాతీయ జలాల్లో ఇరాన్ యుద్ధనౌకను US ముంచిందని రక్షణ కార్యదర్శి పీట్ హెగ్‌సేత్ తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "c3b5eba9d85b275066616e144aa42ae4",
       "title": "WATCH: Moment Iranian warship is blown apart by US submarine near Sri Lanka",
@@ -20,7 +104,7 @@
     },
     {
       "id": "dffe37e46ef017e092a4aa6bea9edaf6",
-      "title": "Mumbai traffic advisory for March 5 India vs England T20 semi-final: Check routes around Wankhede Stadium",
+      "title": "Mumbai traffic advisory for March 5 India vs England T20 semi-final at Wankhede Stadium: Check routes",
       "summary": "India-England T20 semi-final: The match is scheduled to be held at Wankhede Stadium at 7 pm, with entry gates opening at 4 pm. With a large turnout expected, authorities stated that 'traffic congestion is anticipated in and around the Marine Drive area'",
       "url": "https://www.livemint.com/news/india/mumbai-traffic-advisory-for-india-england-t20-semi-final-check-routes-around-wankhede-stadium-11772636295448.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Marine_1772636802596_1772636809968.png",
@@ -28,7 +112,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "మార్చి 5న ఇండియా వర్సెస్ ఇంగ్లండ్ టీ20 సెమీఫైనల్ కోసం ముంబై ట్రాఫిక్ అడ్వైజరీ: వాంఖడే స్టేడియం చుట్టూ ఉన్న మార్గాలను తనిఖీ చేయండి",
+      "title_te": "వాంఖడే స్టేడియంలో మార్చి 5న భారత్ వర్సెస్ ఇంగ్లండ్ టీ20 సెమీఫైనల్ కోసం ముంబై ట్రాఫిక్ సలహా: మార్గాలను తనిఖీ చేయండి",
       "summary_te": "భారత్-ఇంగ్లండ్ టీ20 సెమీఫైనల్: వాంఖడే స్టేడియంలో సాయంత్రం 7 గంటలకు మ్యాచ్ జరగాల్సి ఉంది, సాయంత్రం 4 గంటలకు ప్రవేశ ద్వారాలు తెరవబడతాయి. భారీ సంఖ్యలో ప్రజలు హాజరుకావడంతో, అధికారులు 'మెరైన్ డ్రైవ్ ప్రాంతంలో మరియు చుట్టుపక్కల ట్రాఫిక్ రద్దీని అంచనా వేస్తున్నారు'",
       "translated": true
     },
@@ -56,7 +140,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "WWII తర్వాత మొదటి టార్పెడో హిట్‌లో యుఎస్ సబ్ ఇరానియన్ షిప్‌ను మునిగిపోయింది",
+      "title_te": "WWII తర్వాత మొదటి టార్పెడో హిట్‌లో యుఎస్ సబ్ ఇరానియన్ ఓడను మునిగిపోయింది",
       "summary_te": "యుఎస్ జలాంతర్గామి ఇరాన్ యుద్ధనౌకను అంతర్జాతీయ జలాల్లో ముంచిందని యుఎస్ డిఫెన్స్ సెక్రటరీ పీట్ హెగ్‌సేత్ చెప్పారు, రెండవ ప్రపంచ యుద్ధం తర్వాత ఒక అమెరికన్ సబ్ ఉపరితల నౌకపై దాడి చేయడం ఇదే మొదటిసారి.",
       "translated": true
     },
@@ -72,6 +156,20 @@
       "language": "en",
       "title_te": "‘కిమ్ జోంగ్ ఉన్ ఎక్కడ?’: అమెరికా-ఇరాన్ వివాదం మధ్య ఇంటర్నెట్ ఉత్తర కొరియా నాయకుడిని పోటిగా మార్చింది",
       "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ దాడుల తరువాత మధ్యప్రాచ్యంలో ఉద్రిక్తతలు పెరగడంతో, సోషల్ మీడియా వినియోగదారులు ఉత్తర కొరియా నాయకుడు కిమ్ జోంగ్ ఉన్‌ను అసంభవమైన మెమె స్టార్‌గా మార్చారు, ప్రపంచ సంఘటనలు జరగడాన్ని ఆసక్తిగా చూస్తున్న \"ప్రేక్షకుడిగా\" చిత్రీకరించారు.",
+      "translated": true
+    },
+    {
+      "id": "2637ebd9d5b24de375526929a15c8f34",
+      "title": "FIIs sold about Rs 11,000 crore worth Indian stocks in 2 days of US-Iran war",
+      "summary": "Foreign investors sold nearly Rs 11,000 crore in two March sessions amid escalating West Asia tensions, surging crude prices and currency volatility. DIIs offered support, but Sensex losses deepened as oil-driven inflation and macro risks dented investor confidence.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sold-about-rs-11000-crore-worth-indian-stocks-in-2-days-of-us-iran-war/articleshow/129032843.cms",
+      "image": null,
+      "published_at": "2026-03-04T14:34:39.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "2 రోజుల అమెరికా-ఇరాన్ యుద్ధంలో ఎఫ్‌ఐఐలు దాదాపు రూ.11,000 కోట్ల విలువైన భారతీయ స్టాక్‌లను విక్రయించారు.",
+      "summary_te": "పశ్చిమాసియా ఉద్రిక్తతలు, పెరుగుతున్న ముడిచమురు ధరలు మరియు కరెన్సీ అస్థిరత మధ్య విదేశీ పెట్టుబడిదారులు రెండు మార్చి సెషన్లలో దాదాపు రూ.11,000 కోట్లను విక్రయించారు. DIIలు మద్దతునిచ్చాయి, అయితే చమురు ఆధారిత ద్రవ్యోల్బణం మరియు స్థూల నష్టాలు పెట్టుబడిదారుల విశ్వాసాన్ని దెబ్బతీయడంతో సెన్సెక్స్ నష్టాలు తీవ్రమయ్యాయి.",
       "translated": true
     },
     {
@@ -141,7 +239,7 @@
       "category": "business",
       "language": "en",
       "title_te": "పశ్చిమాసియా సంక్షోభం తీవ్రతరం కావడంతో ఇన్వెస్టర్ల సంపద రెండు రోజుల్లో రూ.16.32 లక్షల కోట్లు క్షీణించింది.",
-      "summary_te": "అమెరికా, ఇజ్రాయెల్ మరియు ఇరాన్‌ల మధ్య వివాదం గణనీయంగా పెరిగిన తర్వాత స్టాక్ మార్కెట్‌లో రెండు రోజుల పతనంలో ఈక్విటీ పెట్టుబడిదారులు రూ. 16.32 లక్షల కోట్ల మేర పేదలుగా మారారు.",
+      "summary_te": "అమెరికా, ఇజ్రాయెల్ మరియు ఇరాన్‌ల మధ్య వివాదం గణనీయంగా పెరగడంతో స్టాక్ మార్కెట్‌లో రెండు రోజుల పతనంలో ఈక్విటీ పెట్టుబడిదారులు రూ. 16.32 లక్షల కోట్ల మేర పేదలుగా మారారు.",
       "translated": true
     },
     {
@@ -155,7 +253,7 @@
       "category": "business",
       "language": "en",
       "title_te": "US-ఇరాన్ వివాదం: ఇజ్రాయెలీ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 జెట్‌ను కూల్చివేసింది; 'చరిత్రలో మొదటిది' అని IDF పేర్కొంది",
-      "summary_te": "ఇజ్రాయెల్ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 ఫైటర్ జెట్‌ను కూల్చివేసిందని, ఇది సిబ్బందితో కూడిన విమానంలో స్టెల్త్ జెట్ యొక్క మొట్టమొదటి గాలి నుండి గగనతల విజయంగా గుర్తించిందని IDF బుధవారం తెలిపింది. ఇరాన్ యొక్క పరిమిత వైమానిక దళం ఈ వివాదంలో మరింత నష్టాలను చవిచూసింది.",
+      "summary_te": "ఇజ్రాయెల్ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 ఫైటర్ జెట్‌ను కూల్చివేసిందని, ఇది సిబ్బందితో కూడిన విమానంలో స్టెల్త్ జెట్ యొక్క మొట్టమొదటి గాలి నుండి గగనతల విజయంగా గుర్తించిందని IDF బుధవారం తెలిపింది. ఇరాన్ పరిమిత వైమానిక దళం సంఘర్షణలో మరింత నష్టపోయింది.",
       "translated": true
     },
     {
@@ -183,7 +281,7 @@
       "category": "business",
       "language": "en",
       "title_te": "‘నన్ను ముందుగా వెళ్లనివ్వండి’: ప్రపోజ్ చేయడానికి ట్రాఫిక్ ద్వారా 932 కి.మీ డ్రైవ్ చేసిన వ్యక్తి, బ్యానర్ వైరల్",
-      "summary_te": "భారీ హాలిడే ట్రాఫిక్‌లో ఒక వ్యక్తి 932 కి.మీ రోడ్ ట్రిప్ — “నన్ను ముందుగా వెళ్లనివ్వండి” అని డ్రైవర్‌లను అడిగే బ్యానర్‌తో అతను తన గర్ల్‌ఫ్రెండ్‌కు ప్రపోజ్ చేయడంతో - ఆన్‌లైన్‌లో వైరల్ ప్రేమకథగా మారింది.",
+      "summary_te": "భారీ హాలిడే ట్రాఫిక్‌లో ఒక వ్యక్తి 932 కి.మీ రోడ్ ట్రిప్ — “నన్ను ముందుగా వెళ్లనివ్వండి” అని డ్రైవర్‌లను అడిగే బ్యానర్‌తో అతను తన గర్ల్‌ఫ్రెండ్‌కి ప్రపోజ్ చేయడంతో ఆన్‌లైన్‌లో వైరల్ ప్రేమ కథగా మారింది.",
       "translated": true
     },
     {
@@ -196,8 +294,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "యుఎస్ మిలిటరీ ఈక్వెడార్‌లో సంయుక్త మాదకద్రవ్యాల అక్రమ రవాణా కార్యకలాపాలను ప్రారంభించింది",
-      "summary_te": "ఈ ప్రకటనను యునైటెడ్ స్టేట్స్ సదరన్ కమాండ్ (సౌత్‌కామ్) ధృవీకరించింది, ఈక్వెడార్ మరియు యుఎస్ దళాలు మార్చి 3న దేశంలో పనిచేస్తున్న \"నియమించబడిన తీవ్రవాద సంస్థల\"కి వ్యతిరేకంగా సమన్వయ కార్యకలాపాలను ప్రారంభించాయని పేర్కొంది.",
+      "title_te": "యుఎస్ మిలిటరీ ఈక్వెడార్‌లో సంయుక్త మాదక ద్రవ్యాల అక్రమ రవాణా కార్యకలాపాలను ప్రారంభించింది",
+      "summary_te": "ఈ ప్రకటనను యునైటెడ్ స్టేట్స్ సదరన్ కమాండ్ (సౌత్‌కామ్) ధృవీకరించింది, ఈక్వెడార్ మరియు యుఎస్ దళాలు మార్చి 3 న దేశంలో పనిచేస్తున్న \"నియమించబడిన తీవ్రవాద సంస్థల\"కి వ్యతిరేకంగా సమన్వయ కార్యకలాపాలను ప్రారంభించాయని పేర్కొంది.",
       "translated": true
     },
     {
@@ -216,16 +314,16 @@
     },
     {
       "id": "5fb9f4461dfd6419caa402b814ef8be8",
-      "title": "Iranian warship sinks off Sri Lanka coast, 32 saved, many bodies recovered",
-      "summary": "The spokesman said 32 people injured in the incident had been rescued by the Sri Lankan navy and were under treatment at a state-run hospital in the southern port city of Galle.",
+      "title": "Iranian warship sinks off Sri Lanka coast, 87 saved, many bodies recovered",
+      "summary": "As many as 87 people injured in the incident had been rescued by the Sri Lankan navy and were under treatment at a state-run hospital in the southern port city of Galle.",
       "url": "https://www.livemint.com/news/world/iranian-warship-sinks-off-sri-lanka-coast-32-saved-many-bodies-recovered-11772626023308.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-SUBMARINE-SRI-LANKA-10_1772628671758_1772628683029.JPG",
       "published_at": "2026-03-04T12:53:40.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ యుద్ధనౌక శ్రీలంక తీరంలో మునిగిపోయింది, 32 మంది రక్షించబడ్డారు, చాలా మృతదేహాలు స్వాధీనం చేసుకున్నారు",
-      "summary_te": "ఈ ఘటనలో గాయపడిన 32 మందిని శ్రీలంక నావికాదళం రక్షించిందని, దక్షిణ ఓడరేవు నగరం గాలేలోని ప్రభుత్వ ఆసుపత్రిలో చికిత్స పొందుతున్నట్లు ప్రతినిధి తెలిపారు.",
+      "title_te": "ఇరాన్ యుద్ధనౌక శ్రీలంక తీరంలో మునిగిపోయింది, 87 మంది రక్షించబడ్డారు, అనేక మృతదేహాలు స్వాధీనం చేసుకున్నారు",
+      "summary_te": "ఈ ఘటనలో గాయపడిన 87 మందిని శ్రీలంక నావికాదళం రక్షించింది మరియు దక్షిణ ఓడరేవు నగరం గాలేలోని ప్రభుత్వ ఆసుపత్రిలో చికిత్స పొందుతోంది.",
       "translated": true
     },
     {
@@ -238,8 +336,8 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం F&O కాంట్రాక్టులను ప్రారంభించేందుకు BSE సెబీ అనుమతిని అందుకుంది",
-      "summary_te": "సెన్సెక్స్ 30 వెలుపలి టాప్ లిక్విడ్ కంపెనీలను ట్రాక్ చేస్తూ, సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం నెలవారీ ఫ్యూచర్స్ మరియు ఆప్షన్‌లను ప్రారంభించడానికి BSE SEBI ఆమోదాన్ని పొందింది. బలమైన BSE పనితీరు మరియు పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తి మధ్య ఈ చర్య డెరివేటివ్ ఆఫర్‌లను విస్తరిస్తుంది.",
+      "title_te": "సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం F&O కాంట్రాక్టులను ప్రారంభించేందుకు BSE సెబీ ఆమోదం పొందింది",
+      "summary_te": "సెన్సెక్స్ 30 వెలుపలి టాప్ లిక్విడ్ కంపెనీలను ట్రాక్ చేస్తూ, సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం నెలవారీ ఫ్యూచర్స్ మరియు ఆప్షన్‌లను ప్రారంభించడానికి BSE SEBI అనుమతిని పొందింది. బలమైన BSE పనితీరు మరియు పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తి మధ్య ఈ చర్య డెరివేటివ్ ఆఫర్‌లను విస్తరిస్తుంది.",
       "translated": true
     },
     {
@@ -309,91 +407,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బెంగుళూరులో వంట చేసే విషయంలో అత్తగారితో గొడవపడి ఆత్మహత్య చేసుకున్న టెక్కీ, భర్త అరెస్ట్",
-      "summary_te": "35 ఏళ్ల బెంగళూరు టెక్ ప్రొఫెషనల్ వంట చేసే విషయంలో తన అత్తగారితో గొడవపడి ఆత్మహత్యకు పాల్పడింది. అత్తమామలు వరకట్న వేధింపులకు పాల్పడుతున్నారని ఆమె కుటుంబ సభ్యులు ఆరోపించడంతో పోలీసులు ఆమె భర్తను అరెస్ట్ చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "2979d222d66fa779a45ee90fe5f703bd",
-      "title": "US defence contractors are removing Anthropic's AI after Trump administration’s ‘national security risk’ ban",
-      "summary": "Following Trump's order, U.S. defense contractors are set to eliminate Anthropic's AI tools from their operations. Defense Secretary Hegseth noted Anthropic poses a supply chain risk. Compliance among contractors is expected due to significant government contracts at stake.",
-      "url": "https://www.livemint.com/news/us-news/us-defence-contractors-are-removing-anthropics-ai-after-trump-administration-s-national-security-risk-threat-11772621980693.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/ANTHROPIC-AI--0_1718962030069_1772622096701.JPG",
-      "published_at": "2026-03-04T11:10:59.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ట్రంప్ పరిపాలన యొక్క 'జాతీయ భద్రతా ప్రమాదం' నిషేధం తర్వాత US రక్షణ కాంట్రాక్టర్లు ఆంత్రోపిక్ యొక్క AIని తొలగిస్తున్నారు",
-      "summary_te": "ట్రంప్ ఆదేశాలను అనుసరించి, U.S. రక్షణ కాంట్రాక్టర్లు తమ కార్యకలాపాల నుండి ఆంత్రోపిక్ యొక్క AI సాధనాలను తొలగించడానికి సిద్ధంగా ఉన్నారు. ఆంత్రోపిక్ సరఫరా గొలుసు ప్రమాదాన్ని కలిగిస్తుందని రక్షణ కార్యదర్శి హెగ్‌సేత్ పేర్కొన్నారు. ముఖ్యమైన ప్రభుత్వ ఒప్పందాలు వాటాలో ఉన్నందున కాంట్రాక్టర్ల మధ్య వర్తింపు అంచనా వేయబడింది.",
-      "translated": true
-    },
-    {
-      "id": "5fa37ced1c4904d0f559b3c9e320b48c",
-      "title": "Finnish President Alexander Stubb arrives in India, to deliver keynote at Raisina Dialogue 2026",
-      "summary": "Finnish President Alexander Stubb began a four-day visit to India to enhance bilateral relations in investment, trade, and technology. PM Modi welcomed him, stating the visit would elevate ties. Stubb will also participate in the Raisina Dialogue 2026 and meet with key Indian leaders.",
-      "url": "https://www.livemint.com/news/india/finnish-president-alexander-stubb-arrives-in-india-to-deliver-keynote-at-raisina-dialogue-2026-11772619355203.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/PTI03-04-2026-000030B-0_1772619476696_1772619541609.jpg",
-      "published_at": "2026-03-04T10:59:43.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రైసినా డైలాగ్ 2026లో కీలకోపన్యాసం చేయడానికి ఫిన్నిష్ అధ్యక్షుడు అలెగ్జాండర్ స్టబ్ భారతదేశానికి వచ్చారు",
-      "summary_te": "పెట్టుబడులు, వాణిజ్యం మరియు సాంకేతికతలో ద్వైపాక్షిక సంబంధాలను పెంపొందించడానికి ఫిన్నిష్ అధ్యక్షుడు అలెగ్జాండర్ స్టబ్ భారతదేశంలో నాలుగు రోజుల పర్యటన ప్రారంభించారు. ఈ పర్యటన సంబంధాలను మరింత మెరుగుపరుస్తుందని పేర్కొంటూ ప్రధాని మోదీ ఆయనకు స్వాగతం పలికారు. స్టబ్ రైసినా డైలాగ్ 2026లో కూడా పాల్గొంటారు మరియు భారతీయ ముఖ్య నేతలతో సమావేశమవుతారు.",
-      "translated": true
-    },
-    {
-      "id": "cd7f98f304fead23e39028284f489467",
-      "title": "Ramadan 2026: Check sehri, iftar timings for March 5, Thursday in Delhi, Hyderabad, Mumbai and Lucknow",
-      "summary": "The pre-dawn meal before the fast begins is known as sehri, while the fast is broken at sunset with iftar. Below are the sehri and iftar timings for March 5 in Delhi, Hyderabad, Mumbai and Lucknow, as per Islamic Finder.",
-      "url": "https://www.livemint.com/news/trends/ramadan-2026-check-sehri-iftar-timings-for-march-5-thursday-in-delhi-hyderabad-mumbai-and-lucknow-11772619668728.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/PTI03-02-2026-000362B-0_1772620245556_1772620257302.jpg",
-      "published_at": "2026-03-04T10:44:19.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రంజాన్ 2026: మార్చి 5, గురువారం ఢిల్లీ, హైదరాబాద్, ముంబై మరియు లక్నోలో సెహ్రీ, ఇఫ్తార్ సమయాలను తనిఖీ చేయండి",
-      "summary_te": "ఉపవాసం ప్రారంభానికి ముందు తెల్లవారుజామున భోజనాన్ని సెహ్రీ అని పిలుస్తారు, అయితే ఇఫ్తార్‌తో సూర్యాస్తమయం సమయంలో ఉపవాసాన్ని విరమిస్తారు. ఇస్లామిక్ ఫైండర్ ప్రకారం మార్చి 5న ఢిల్లీ, హైదరాబాద్, ముంబై మరియు లక్నోలలో సెహ్రీ మరియు ఇఫ్తార్ సమయాలు క్రింద ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "aa9198c333d46817ce4df3f3146d0b81",
-      "title": "TVK’s Vijay announces poll promises, pledges farm loan waiver, education support for farmers’ children - Key features",
-      "summary": "He announced the loan waiver for farmers with five acres of land, among other poll promises. Vijay also requested the people of Tamil Nadu to give him a change to rule the state.",
-      "url": "https://www.livemint.com/news/india/tvks-vijay-announces-poll-promises-pledges-farm-loan-waiver-education-support-for-farmers-children-key-features-11772618894677.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/Tamilaga-Vettri-Kazhagam--TVK--chief-Vijay--TVK-AN_1772620232759_1772620274627.jpg",
-      "published_at": "2026-03-04T10:38:47.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "TVK యొక్క విజయ్ ఎన్నికల వాగ్దానాలను ప్రకటించారు, వ్యవసాయ రుణాల మాఫీ, రైతుల పిల్లలకు విద్య మద్దతు - ముఖ్య లక్షణాలు",
-      "summary_te": "ఎన్నికల హామీలతోపాటు ఐదెకరాల భూమి ఉన్న రైతులకు రుణమాఫీ చేస్తామని ప్రకటించారు. తమిళనాడు రాష్ట్రాన్ని పాలించేలా తనకు మార్పు ఇవ్వాలని విజయ్ తమిళనాడు ప్రజలను అభ్యర్థించారు.",
-      "translated": true
-    },
-    {
-      "id": "d9623ac02f2691a2e19dd5f5e3bb6969",
-      "title": "US allows nonemergency staff in Saudi Arabia, Oman and Pakistan to leave as war with Iran continues",
-      "summary": "Due to the escalating conflict with Iran, the US State Department has authorized the departure of nonemergency personnel from additional countries, citing safety risks and limited emergency services. Travel restrictions have been imposed near the Yemen border.",
-      "url": "https://www.livemint.com/news/war-with-iran-us-allows-nonemergency-staff-in-saudi-arabia-oman-and-pakistan-to-leave-11772618800618.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-USA-AIRLINES-3_1772518305190_1772518320310_1772619290530.JPG",
-      "published_at": "2026-03-04T10:18:16.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్‌తో యుద్ధం కొనసాగుతున్నందున సౌదీ అరేబియా, ఒమన్ మరియు పాకిస్తాన్‌లోని అత్యవసర సిబ్బందిని విడిచిపెట్టడానికి అమెరికా అనుమతించింది",
-      "summary_te": "ఇరాన్‌తో పెరుగుతున్న సంఘర్షణ కారణంగా, భద్రతాపరమైన ప్రమాదాలు మరియు పరిమిత అత్యవసర సేవలను పేర్కొంటూ US స్టేట్ డిపార్ట్‌మెంట్ అదనపు దేశాల నుండి అత్యవసర సిబ్బంది నిష్క్రమణకు అధికారం ఇచ్చింది. యెమెన్ సరిహద్దు దగ్గర ప్రయాణ ఆంక్షలు విధించారు.",
-      "translated": true
-    },
-    {
-      "id": "e02b789d66dbb744d29851a9635d3a87",
-      "title": "Senior Journalist and Padma Bhushan awardee HK Dua passes away at 88",
-      "summary": "He had been admitted to a private hospital three weeks ago and had been unwell. His cremation will be held at 12 noon on March 5 at the Lodhi Road Crematorium.",
-      "url": "https://www.livemint.com/news/india/senior-journalist-and-padma-bhushan-awardee-hk-dua-passes-away-at-88-11772618786426.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/HCjoxvJbwAAEGci_1772619055257_1772619065666.jpg",
-      "published_at": "2026-03-04T10:16:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సీనియర్ జర్నలిస్ట్ మరియు పద్మభూషణ్ అవార్డు గ్రహీత హెచ్‌కె దువా (88) కన్నుమూశారు",
-      "summary_te": "మూడు వారాల క్రితం అస్వస్థతకు గురై ఓ ప్రైవేటు ఆసుపత్రిలో చేరాడు. ఆయన అంత్యక్రియలు మార్చి 5వ తేదీ మధ్యాహ్నం 12 గంటలకు లోధి రోడ్ శ్మశానవాటికలో నిర్వహించనున్నారు.",
+      "summary_te": "35 ఏళ్ల బెంగళూరు టెక్ ప్రొఫెషనల్ వంట చేసే విషయంలో తన అత్తగారితో గొడవపడి ఆత్మహత్యకు పాల్పడింది. అత్తమామలు వరకట్నం వేధిస్తున్నారని ఆమె కుటుంబ సభ్యులు ఆరోపించడంతో పోలీసులు ఆమె భర్తను అరెస్ట్ చేశారు.",
       "translated": true
     },
     {
@@ -422,20 +436,6 @@
       "language": "en",
       "title_te": "80% భారతీయ స్టాక్‌లు బేర్ మార్కెట్‌లో ఉన్నాయి. ఇది అత్యాశ లేదా భయపడాల్సిన సమయం?",
       "summary_te": "దాదాపు 80% భారతీయ స్టాక్‌లు బేర్ మార్కెట్ ప్రాంతంలో లోతైనవి, నిరాడంబరమైన ఇండెక్స్ క్షీణత క్రింద దాగి ఉన్నాయి. చిన్న మరియు మిడ్‌క్యాప్ కంపెనీలు దీర్ఘకాలిక అమ్మకాలను ఎదుర్కొన్నాయి, అయితే ఫండమెంటల్స్ బలంగానే ఉన్నాయి. భౌగోళిక రాజకీయ ప్రమాదాలు మరియు చమురు షాక్‌లు ఉన్నప్పటికీ, సెలెక్టివ్ బాటమ్-అప్ స్టాక్ పికింగ్ తాత్కాలిక అస్థిరతను భరించడానికి ఇష్టపడే దీర్ఘకాలిక పెట్టుబడిదారులకు ఆకర్షణీయమైన అవకాశాలను అందించగలదని విశ్లేషకులు సూచిస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "5c243f84ebaa6c6175770c820afdfc91",
-      "title": "Will Sedemac’s IPO deliver long term growth for high-risk investors?",
-      "summary": "Auto components firm Sedemac Mechatronics is set to raise ₹1,087.5 crore via an offer for sale, with its promoter stake slightly decreasing. The company, specializing in electronic control units, has shown strong revenue and profit growth. However, significant customer concentration, with nearly 75% of revenue from TVS Motor Company, presents a key risk for investors.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/will-sedemacs-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/128998428.cms",
-      "image": null,
-      "published_at": "2026-03-04T00:32:48.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "సెడెమాక్ యొక్క IPO అధిక-రిస్క్ పెట్టుబడిదారులకు దీర్ఘకాలిక వృద్ధిని అందజేస్తుందా?",
-      "summary_te": "ఆటో కాంపోనెంట్స్ సంస్థ సెడెమాక్ మెకాట్రానిక్స్ ఆఫర్ ఫర్ సేల్ ద్వారా ₹1,087.5 కోట్లను సమీకరించడానికి సిద్ధంగా ఉంది, దాని ప్రమోటర్ వాటా కొద్దిగా తగ్గుతోంది. ఎలక్ట్రానిక్ కంట్రోల్ యూనిట్లలో ప్రత్యేకత కలిగిన కంపెనీ, బలమైన రాబడి మరియు లాభాల వృద్ధిని కనబరిచింది. అయినప్పటికీ, TVS మోటార్ కంపెనీ నుండి దాదాపు 75% ఆదాయంతో గణనీయమైన కస్టమర్ ఏకాగ్రత పెట్టుబడిదారులకు కీలకమైన ప్రమాదాన్ని అందిస్తుంది.",
       "translated": true
     },
     {
@@ -560,7 +560,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "వృద్ధిరేటు, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
+      "title_te": "పెరిగిన వృద్ధి, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
       "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును ఎత్తిచూపారు, అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్ణించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, పన్నుచెల్లింపుదారుల స్థావరాన్ని విస్తరిస్తున్నారని మరియు నిజమైన ఆదాయాలు పెరుగుతున్నాయని పేర్కొంది. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
       "translated": true
     },
