@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-04T10:37:57.477Z",
-  "updated_at_IST": "4/3/2026, 4:07:57 pm",
+  "updated_at": "2026-03-04T11:34:46.880Z",
+  "updated_at_IST": "4/3/2026, 5:04:46 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "2979d222d66fa779a45ee90fe5f703bd",
+      "title": "US defence contractors are removing Anthropic's AI after Trump administration’s ‘national security risk’ ban",
+      "summary": "Following Trump's order, U.S. defense contractors are set to eliminate Anthropic's AI tools from their operations. Defense Secretary Hegseth noted Anthropic poses a supply chain risk. Compliance among contractors is expected due to significant government contracts at stake.",
+      "url": "https://www.livemint.com/news/us-news/us-defence-contractors-are-removing-anthropics-ai-after-trump-administration-s-national-security-risk-threat-11772621980693.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/ANTHROPIC-AI--0_1718962030069_1772622096701.JPG",
+      "published_at": "2026-03-04T11:10:59.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ట్రంప్ పరిపాలన యొక్క 'జాతీయ భద్రతా ప్రమాదం' నిషేధం తర్వాత US రక్షణ కాంట్రాక్టర్లు ఆంత్రోపిక్ యొక్క AIని తొలగిస్తున్నారు",
+      "summary_te": "ట్రంప్ ఆదేశాలను అనుసరించి, U.S. రక్షణ కాంట్రాక్టర్లు తమ కార్యకలాపాల నుండి ఆంత్రోపిక్ యొక్క AI సాధనాలను తొలగించడానికి సిద్ధంగా ఉన్నారు. ఆంత్రోపిక్ సరఫరా గొలుసు ప్రమాదాన్ని కలిగిస్తుందని రక్షణ కార్యదర్శి హెగ్‌సేత్ పేర్కొన్నారు. ముఖ్యమైన ప్రభుత్వ ఒప్పందాలు వాటాలో ఉన్నందున కాంట్రాక్టర్‌ల మధ్య వర్తింపు అంచనా వేయబడింది.",
+      "translated": true
+    },
+    {
+      "id": "5fa37ced1c4904d0f559b3c9e320b48c",
+      "title": "Finnish President Alexander Stubb arrives in India, to deliver keynote at Raisina Dialogue 2026",
+      "summary": "Finnish President Alexander Stubb began a four-day visit to India to enhance bilateral relations in investment, trade, and technology. PM Modi welcomed him, stating the visit would elevate ties. Stubb will also participate in the Raisina Dialogue 2026 and meet with key Indian leaders.",
+      "url": "https://www.livemint.com/news/india/finnish-president-alexander-stubb-arrives-in-india-to-deliver-keynote-at-raisina-dialogue-2026-11772619355203.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/PTI03-04-2026-000030B-0_1772619476696_1772619541609.jpg",
+      "published_at": "2026-03-04T10:59:43.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రైసినా డైలాగ్ 2026లో కీలకోపన్యాసం చేయడానికి ఫిన్నిష్ అధ్యక్షుడు అలెగ్జాండర్ స్టబ్ భారతదేశానికి వచ్చారు",
+      "summary_te": "పెట్టుబడులు, వాణిజ్యం మరియు సాంకేతికతలో ద్వైపాక్షిక సంబంధాలను పెంపొందించడానికి ఫిన్నిష్ అధ్యక్షుడు అలెగ్జాండర్ స్టబ్ భారతదేశంలో నాలుగు రోజుల పర్యటన ప్రారంభించారు. ఈ పర్యటన సంబంధాలను మరింత మెరుగుపరుస్తుందని పేర్కొంటూ ప్రధాని మోదీ ఆయనకు స్వాగతం పలికారు. స్టబ్ రైసినా డైలాగ్ 2026లో కూడా పాల్గొంటారు మరియు భారతీయ ముఖ్య నేతలతో సమావేశమవుతారు.",
+      "translated": true
+    },
+    {
+      "id": "cd7f98f304fead23e39028284f489467",
+      "title": "Ramadan 2026: Check sehri, iftar timings for March 5, Thursday in Delhi, Hyderabad, Mumbai and Lucknow",
+      "summary": "The pre-dawn meal before the fast begins is known as sehri, while the fast is broken at sunset with iftar. Below are the sehri and iftar timings for March 5 in Delhi, Hyderabad, Mumbai and Lucknow, as per Islamic Finder.",
+      "url": "https://www.livemint.com/news/trends/ramadan-2026-check-sehri-iftar-timings-for-march-5-thursday-in-delhi-hyderabad-mumbai-and-lucknow-11772619668728.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/PTI03-02-2026-000362B-0_1772620245556_1772620257302.jpg",
+      "published_at": "2026-03-04T10:44:19.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రంజాన్ 2026: మార్చి 5, గురువారం ఢిల్లీ, హైదరాబాద్, ముంబై మరియు లక్నోలో సెహ్రీ, ఇఫ్తార్ సమయాలను తనిఖీ చేయండి",
+      "summary_te": "ఉపవాసం ప్రారంభానికి ముందు తెల్లవారుజామున భోజనాన్ని సెహ్రీ అని పిలుస్తారు, అయితే ఇఫ్తార్‌తో సూర్యాస్తమయం సమయంలో ఉపవాసాన్ని విరమిస్తారు. ఇస్లామిక్ ఫైండర్ ప్రకారం మార్చి 5న ఢిల్లీ, హైదరాబాద్, ముంబై మరియు లక్నోలలో సెహ్రీ మరియు ఇఫ్తార్ సమయాలు క్రింద ఉన్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "aa9198c333d46817ce4df3f3146d0b81",
+      "title": "TVK’s Vijay announces poll promises, pledges farm loan waiver, education support for farmers’ children - Key features",
+      "summary": "He announced the loan waiver for farmers with five acres of land, among other poll promises. Vijay also requested the people of Tamil Nadu to give him a change to rule the state.",
+      "url": "https://www.livemint.com/news/india/tvks-vijay-announces-poll-promises-pledges-farm-loan-waiver-education-support-for-farmers-children-key-features-11772618894677.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/Tamilaga-Vettri-Kazhagam--TVK--chief-Vijay--TVK-AN_1772620232759_1772620274627.jpg",
+      "published_at": "2026-03-04T10:38:47.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "TVK యొక్క విజయ్ ఎన్నికల వాగ్దానాలను ప్రకటించారు, వ్యవసాయ రుణాల మాఫీ, రైతుల పిల్లలకు విద్య మద్దతు - ముఖ్య లక్షణాలు",
+      "summary_te": "ఎన్నికల హామీలతోపాటు ఐదెకరాల భూమి ఉన్న రైతులకు రుణమాఫీ చేస్తామని ప్రకటించారు. తమిళనాడు రాష్ట్రాన్ని పాలించేలా తనకు మార్పు ఇవ్వాలని విజయ్ తమిళనాడు ప్రజలను అభ్యర్థించారు.",
+      "translated": true
+    },
     {
       "id": "d9623ac02f2691a2e19dd5f5e3bb6969",
       "title": "US allows nonemergency staff in Saudi Arabia, Oman and Pakistan to leave as war with Iran continues",
@@ -35,7 +91,7 @@
     {
       "id": "b92c52daf6d2ae0ea1753de4ee615047",
       "title": "Iranians begin 3-day farewell ceremony for Khamenei; Israel warns his successor will be ‘target for elimination’",
-      "summary": "Earlier in the day, the Israeli media reported that Ayatollah Khamanei's son Mojtaba has been chosen as his successor. He will soon take over as the Supreme Leader. Immediately Israel sent a warning that his successor will also be targeted",
+      "summary": "Earlier in the day, the Israeli media reported that Ayatollah Khamenei's son, Mojtaba, had been chosen as his successor. He will soon take over as the Supreme Leader. Immediately, Israel sent a warning that Khamenei's successor would also be targeted.",
       "url": "https://www.livemint.com/news/world/iranians-begin-3-day-farewell-ceremony-for-khamenei-israel-warns-his-successor-will-be-target-for-elimination-11772614611627.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-INDIA-PROTESTS-7_1772617230141_1772617265897.JPG",
       "published_at": "2026-03-04T09:42:04.000Z",
@@ -43,7 +99,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరానియన్లు ఖమేనీకి 3-రోజుల వీడ్కోలు వేడుకను ప్రారంభించారు; ఇజ్రాయెల్ తన వారసుడు 'తొలగింపు లక్ష్యం' అని హెచ్చరించింది",
-      "summary_te": "అంతకుముందు రోజు, అయతుల్లా ఖమనీ కుమారుడు మోజ్తాబాను అతని వారసుడిగా ఎన్నుకున్నట్లు ఇజ్రాయెల్ మీడియా నివేదించింది. ఆయన త్వరలో సుప్రీం లీడర్‌గా బాధ్యతలు స్వీకరించనున్నారు. వెంటనే ఇజ్రాయెల్ అతని వారసుడిని కూడా లక్ష్యంగా చేసుకుంటుందని హెచ్చరిక పంపింది",
+      "summary_te": "అయతుల్లా ఖమేనీ కుమారుడు మోజ్తాబాను ఆయన వారసుడిగా ఎన్నుకున్నట్లు ఇజ్రాయెల్ మీడియా అంతకుముందు రోజు వెల్లడించింది. ఆయన త్వరలో సుప్రీం లీడర్‌గా బాధ్యతలు స్వీకరించనున్నారు. వెంటనే, ఖమేనీ వారసుడిని కూడా లక్ష్యంగా చేసుకుంటామని ఇజ్రాయెల్ హెచ్చరిక పంపింది.",
       "translated": true
     },
     {
@@ -141,7 +197,7 @@
       "category": "business",
       "language": "en",
       "title_te": "జోహ్రాన్ మమ్దానీ మొదటి 2,000 ఉచిత 2-K సీట్లను ప్రకటించారు — న్యూయార్క్ నగర పరిసరాలు ఏవి ప్రయోజనం పొందుతాయి? పూర్తి జాబితాను ఇక్కడ తనిఖీ చేయండి",
-      "summary_te": "2-K ప్రోగ్రామ్ యొక్క ప్రారంభ రౌండ్ అధిక-అవసరమైన పరిసరాల్లోని కుటుంబాలకు సేవ చేయడం లక్ష్యంగా పెట్టుకుంది, కలుపుకొని యాక్సెస్ వైపు దృష్టి సారిస్తుంది. న్యూయార్క్ నగరంలోని మాన్‌హాటన్, బ్రూక్లిన్, క్వీన్స్ మరియు బ్రోంక్స్‌లోని పొరుగు ప్రాంతాలు దీనిని పొందే మొదటి వాటిలో ఒకటిగా ఉంటాయని జోహ్రాన్ మమ్దానీ మంగళవారం ప్రకటించారు. వివరాలను ఇక్కడ తనిఖీ చేయండి.",
+      "summary_te": "2-K ప్రోగ్రామ్ యొక్క ప్రారంభ రౌండ్ అధిక-అవసరమైన పరిసరాల్లోని కుటుంబాలకు సేవ చేయడం లక్ష్యంగా పెట్టుకుంది, కలుపుకొని యాక్సెస్ వైపు దృష్టి సారిస్తుంది. న్యూయార్క్ నగరంలోని మాన్‌హాటన్, బ్రూక్లిన్, క్వీన్స్ మరియు బ్రోంక్స్‌లోని పొరుగు ప్రాంతాలు దీనిని పొందే మొదటి వాటిలో ఒకటిగా ఉంటాయని జోహ్రాన్ మమ్దానీ మంగళవారం ప్రకటించారు. ఇక్కడ వివరాలను తనిఖీ చేయండి.",
       "translated": true
     },
     {
@@ -327,62 +383,6 @@
       "translated": true
     },
     {
-      "id": "a9b58eca60afe8c129d192097ba14baa",
-      "title": "India sets up control room for citizens stuck amid Iran war— Check emergency helplines for Dubai, Bahrain, other nations",
-      "summary": "MEA said almost one crore Indian citizens are living in West Asia, and their safety and well-being are of ‘utmost priority’ for New Delhi.&nbsp;",
-      "url": "https://www.livemint.com/news/world/india-sets-up-control-room-for-citizens-stuck-amid-us-iran-war-emergency-helplines-for-dubai-bahrain-oman-11772597202463.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-USA-KURDS-0_1772597595019_1772597863375.JPG",
-      "published_at": "2026-03-04T04:51:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ యుద్ధంలో చిక్కుకున్న పౌరుల కోసం భారతదేశం కంట్రోల్ రూమ్‌ను ఏర్పాటు చేసింది- దుబాయ్, బహ్రెయిన్, ఇతర దేశాల కోసం అత్యవసర హెల్ప్‌లైన్‌లను తనిఖీ చేయండి",
-      "summary_te": "దాదాపు కోటి మంది భారతీయ పౌరులు పశ్చిమాసియాలో నివసిస్తున్నారని, వారి భద్రత మరియు శ్రేయస్సు న్యూఢిల్లీకి 'అత్యంత ప్రాధాన్యత' అని MEA తెలిపింది. ",
-      "translated": true
-    },
-    {
-      "id": "9f096e5fb671e3ca0a007b0c763f3b3e",
-      "title": "$200,000 charter flights: Travellers pay massive prices to fly out of Dubai, Abu Dhabi amid Middle East crisis",
-      "summary": "US-Israeli war with Iran: Wealthy flyers in the Middle East are turning to private charter services amid rising demand. With services disrupted across major airports in the region since Friday, prices for escape routes have soared over $200,000 amid escalating air strikes.",
-      "url": "https://www.livemint.com/news/world/200000-charter-flights-travellers-pay-massive-prices-to-fly-out-of-dubai-abu-dhabi-amid-middle-east-crisis-11772598452928.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-GERMANY-FLIGHTS-RETURN-3_1772598797685_1772598805961.JPG",
-      "published_at": "2026-03-04T04:47:26.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "$200,000 చార్టర్ విమానాలు: మిడిల్ ఈస్ట్ సంక్షోభం మధ్య దుబాయ్, అబుదాబి నుండి ప్రయాణించడానికి ప్రయాణికులు భారీ ధరలు చెల్లిస్తారు",
-      "summary_te": "ఇరాన్‌తో యుఎస్-ఇజ్రాయెల్ యుద్ధం: పెరుగుతున్న డిమాండ్ మధ్య మధ్యప్రాచ్యంలోని సంపన్న విమానయానదారులు ప్రైవేట్ చార్టర్ సేవల వైపు మొగ్గు చూపుతున్నారు. శుక్రవారం నుండి ఈ ప్రాంతంలోని ప్రధాన విమానాశ్రయాలలో సేవలకు అంతరాయం ఏర్పడటంతో, పెరుగుతున్న వైమానిక దాడుల మధ్య తప్పించుకునే మార్గాల ధరలు $200,000కు పైగా పెరిగాయి.",
-      "translated": true
-    },
-    {
-      "id": "5d8b21f901072110bf9e4965f856afee",
-      "title": "FIR lodged against Srinagar MP, ex-mayor for 'circulating false content' after Khamenei's death in US-Israel attacks",
-      "summary": "Jammu and Kashmir Police have filed cases against MP Ruhullah Mehdi and former mayor Junaid Azim Mattu for allegedly circulating false narratives on social media that threaten public order.&nbsp;",
-      "url": "https://www.livemint.com/news/india/fir-lodged-against-srinagar-mp-ex-mayor-for-circulating-false-content-after-khameneis-death-in-us-israel-attacks-11772593700224.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/ANI-20240626141-0_1720167680678_1772593732431.jpg",
-      "published_at": "2026-03-04T04:25:54.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "అమెరికా-ఇజ్రాయెల్ దాడుల్లో ఖమేనీ మరణించిన తర్వాత 'తప్పుడు కంటెంట్‌ను సర్క్యులేట్ చేసినందుకు' శ్రీనగర్ ఎంపీ, మాజీ మేయర్‌పై ఎఫ్‌ఐఆర్ నమోదైంది.",
-      "summary_te": "ప్రజా శాంతిభద్రతలకు భంగం కలిగించే విధంగా సోషల్ మీడియాలో తప్పుడు కథనాలను ప్రసారం చేశారన్న ఆరోపణలపై ఎంపీ రుహుల్లా మెహదీ, మాజీ మేయర్ జునైద్ అజీమ్ మట్టుపై జమ్మూ కాశ్మీర్ పోలీసులు కేసులు నమోదు చేశారు. ",
-      "translated": true
-    },
-    {
-      "id": "cf53e4950e9afd2ae9d341f0c2e13669",
-      "title": "Inside Operation Epic Fury: US hit 2,000 Iran targets in just 100 hours | Know more",
-      "summary": "US Central Command (CENTCOM) says that American forces have struck nearly 2,000 sites, including 17 ships, in Iran under ‘Operation Epic Fury’. CENTCOM reports significant troop mobilization, with 50,000 personnel and advanced capabilities.&nbsp;",
-      "url": "https://www.livemint.com/news/world/trump-unleashes-largest-military-build-up-in-operation-epic-fury-us-deploys-50-000-troops-200-fighters-in-iran-war-11772591821616.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/jjj_1772594176234_1772594176447.jpeg",
-      "published_at": "2026-03-04T04:08:15.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "Inside Operation Epic Fury: US కేవలం 100 గంటల్లో 2,000 ఇరాన్ లక్ష్యాలను చేధించింది | మరింత తెలుసుకోండి",
-      "summary_te": "'ఆపరేషన్ ఎపిక్ ఫ్యూరీ' కింద ఇరాన్‌లోని 17 నౌకలతో సహా దాదాపు 2,000 సైట్‌లను అమెరికా బలగాలు కొట్టాయని US సెంట్రల్ కమాండ్ (CENTCOM) తెలిపింది. CENTCOM 50,000 మంది సిబ్బంది మరియు అధునాతన సామర్థ్యాలతో గణనీయమైన దళ సమీకరణను నివేదించింది. ",
-      "translated": true
-    },
-    {
       "id": "e76e1e0966ae2b2ea210c1106c0c03d9",
       "title": "Stock Market Holiday: Are NSE, BSE open or closed today on March 4?",
       "summary": "Indian stock markets, NSE and BSE, resumed normal trading on Wednesday, March 4, following the Holi holiday observed on March 3. This comes amidst heightened geopolitical tensions in the Middle East, which have unsettled global markets and led to a surge in crude oil prices, impacting Indian equities.",
@@ -421,7 +421,7 @@
       "category": "business",
       "language": "en",
       "title_te": "FPIలు 4 నెలల్లో అతిపెద్ద రోజువారీ ఉపసంహరణతో మార్చిని ప్రారంభిస్తాయి",
-      "summary_te": "విదేశీ పెట్టుబడిదారులు మార్చి 2న భారతీయ ఈక్విటీల నుండి గణనీయమైన $751.4 మిలియన్లను ఉపసంహరించుకున్నారు, ఫిబ్రవరిలో బలమైన ఇన్‌ఫ్లో ముగిసింది. మిడిల్ ఈస్ట్ ఉద్రిక్తతలను పెంచడం ద్వారా నడిచే ఈ తిరోగమనం, విదేశీ నిధుల ప్రవాహాల కోసం జాగ్రత్తగా సమీప-కాల దృక్పథాన్ని సూచిస్తుంది. అయినప్పటికీ, FY26లో మొత్తం FPI అమ్మకాలు మునుపటి సంవత్సరం కంటే తక్కువగా ఉన్నాయి, ఇది భారతీయ మార్కెట్లకు మరింత కొలిచిన విధానాన్ని సూచిస్తుంది.",
+      "summary_te": "విదేశీ పెట్టుబడిదారులు మార్చి 2న భారతీయ ఈక్విటీల నుండి గణనీయమైన $751.4 మిలియన్లను వెనక్కి తీసుకున్నారు, ఫిబ్రవరిలో బలమైన ఇన్‌ఫ్లోను ముగించారు. మిడిల్ ఈస్ట్ ఉద్రిక్తతలను పెంచడం ద్వారా నడిచే ఈ తిరోగమనం, విదేశీ నిధుల ప్రవాహాల కోసం జాగ్రత్తగా సమీప-కాల దృక్పథాన్ని సూచిస్తుంది. అయినప్పటికీ, FY26లో మొత్తం FPI అమ్మకాలు మునుపటి సంవత్సరం కంటే తక్కువగా ఉన్నాయి, ఇది భారతీయ మార్కెట్లకు మరింత కొలిచిన విధానాన్ని సూచిస్తుంది.",
       "translated": true
     },
     {
