@@ -1,21 +1,189 @@
 {
-  "updated_at": "2026-03-04T18:45:39.870Z",
-  "updated_at_IST": "5/3/2026, 12:15:39 am",
+  "updated_at": "2026-03-04T19:44:10.182Z",
+  "updated_at_IST": "5/3/2026, 1:14:10 am",
   "category": "india",
   "count": 100,
   "articles": [
     {
-      "id": "bb7b5b1f7ac9bd26bffa893178575e58",
-      "title": "CM, DGP hold meeting with Amit Shah over talk of impending surrender of top Maoist",
-      "summary": "Police deny such move and claim meeting was to brief the Union Home Minister about the naxalite movement and the requirements of the State police force",
-      "url": "https://www.thehindu.com/news/national/telangana/cm-dgp-hold-meeting-with-amit-shah-over-talk-of-impending-surrender-of-top-maoist/article70704605.ece",
-      "image": null,
-      "published_at": "2026-03-04T18:21:15.000Z",
+      "id": "17e800f221f100558c251dbb71f72444",
+      "title": "Palaniswami meets AIADMK’s district secretaries in Chennai",
+      "summary": "AIADMK general secretary Edappadi K. Palaniswami on Wednesday held consultations with district secretaries of his party as part of the preparation for the Assembly election.The consultations took place a few days after Mr. Palaniswami’s meeting with Union Minister for Home Affairs Amit Shah in New Delhi.Asked about the AIADMK’s seat-sharing arrangement with the BJP, the party’s organisation secretary and former Minister D. Jayakumar told reporters that this was a matter handled by some others in the party, as he was a part of the poll manifesto committee.Mr. Jayakumar advised the Tamilaga Vettri Kazhagam (TVK) founder Vijay to begin holding press conferences and cautioned him not to make “derisive comments” about the AIADMK.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-meets-aiadmks-district-secretaries-in-chennai/article70704331.ece",
+      "image": "https://th-i.thgim.com/public/incoming/qsfnxt/article70704498.ece/alternates/LANDSCAPE_1200/9868_14_7_2025_11_36_6_3_PRESS_3.JPG",
+      "published_at": "2026-03-04T19:13:04.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "మావోయిస్టు అగ్రనేతల లొంగిపోవాలనే అంశంపై అమిత్ షాతో సీఎం, డీజీపీ సమావేశమయ్యారు",
-      "summary_te": "పోలీసులు అలాంటి చర్యను ఖండించారు మరియు నక్సలైట్ ఉద్యమం మరియు రాష్ట్ర పోలీసు బలగాల అవసరాల గురించి కేంద్ర హోంమంత్రికి వివరించడానికి సమావేశం జరిగింది.",
+      "title_te": "చెన్నైలో అన్నాడీఎంకే జిల్లా కార్యదర్శులతో పళనిస్వామి సమావేశమయ్యారు",
+      "summary_te": "అసెంబ్లీ ఎన్నికల సన్నాహాల్లో భాగంగా అన్నాడీఎంకే ప్రధాన కార్యదర్శి ఎడప్పాడి కె. పళనిస్వామి బుధవారం తమ పార్టీ జిల్లా కార్యదర్శులతో సంప్రదింపులు జరిపారు.న్యూఢిల్లీలో కేంద్ర హోంశాఖ మంత్రి అమిత్‌షాతో పళనిస్వామి భేటీ అయిన కొద్ది రోజులకే ఈ సంప్రదింపులు జరిగాయన్నారు. అతను పోల్ మేనిఫెస్టో కమిటీలో ఒక సభ్యుడు. జయకుమార్ తమిళగ వెట్రి కజగం (TVK) వ్యవస్థాపకుడు విజయ్‌కి విలేకరుల సమావేశాలు నిర్వహించడం ప్రారంభించమని సలహా ఇచ్చారు మరియు అన్నాడీఎంకే గురించి \"ఎగతాళి వ్యాఖ్యలు\" చేయవద్దని హెచ్చరించారు.",
+      "translated": true
+    },
+    {
+      "id": "4f8dad1c2aa6c3a3021eb51886f844ee",
+      "title": "Karnataka Congress stuck in a quota matrix",
+      "summary": "The recruitment for government jobs in Karnataka has stirred a hornet’s nest",
+      "url": "https://www.thehindu.com/opinion/op-ed/karnataka-congress-stuck-in-a-quota-matrix/article70704724.ece",
+      "image": "https://th-i.thgim.com/public/incoming/xdgau4/article70704730.ece/alternates/LANDSCAPE_1200/IMG_TH23_Karnataka_map_2_1_S5FKFSFN.jpg",
+      "published_at": "2026-03-04T19:10:29.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కర్ణాటక కాంగ్రెస్ కోటా మ్యాట్రిక్స్‌లో ఇరుక్కుపోయింది",
+      "summary_te": "కర్ణాటకలో ప్రభుత్వ ఉద్యోగాల రిక్రూట్‌మెంట్ సంచలనం రేపింది",
+      "translated": true
+    },
+    {
+      "id": "75d9e13fd9744f4b674fc0b738a26eb0",
+      "title": "DMK-Congress deal: the leaders who were instrumental in breaking the stalemate",
+      "summary": "Sustained efforts of Congress national president Mallikarjun Kharge, former Union Minister P. Chidambaram, DMK Parliamentary Party leader Kanimozhi, and Congress MP Karti P. Chidambaram helps the two parties reach an agreement on seat sharing",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dmk-congress-deal-the-leaders-who-were-instrumental-in-breaking-the-stalemate/article70704673.ece",
+      "image": "https://th-i.thgim.com/public/incoming/roc6o5/article70704823.ece/alternates/LANDSCAPE_1200/PTI02_10_2026_000352B.jpg",
+      "published_at": "2026-03-04T19:09:52.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "డీఎంకే-కాంగ్రెస్ ఒప్పందం: ప్రతిష్టంభనను ఛేదించడంలో కీలకపాత్ర పోషించిన నేతలు",
+      "summary_te": "కాంగ్రెస్ జాతీయ అధ్యక్షుడు మల్లికార్జున్ ఖర్గే, కేంద్ర మాజీ మంత్రి పి. చిదంబరం, డీఎంకే పార్లమెంటరీ పార్టీ నేత కనిమొళి, కాంగ్రెస్ ఎంపీ కార్తీ పి. చిదంబరంల నిరంతర ప్రయత్నాలు సీట్ల పంపకంపై రెండు పార్టీలు ఒక అంగీకారానికి రావడానికి సహాయపడతాయి.",
+      "translated": true
+    },
+    {
+      "id": "fcfa4e4377c448340e6c692706e62e4a",
+      "title": "National Safety day celebrated at Renault Group’s plant in city",
+      "summary": "The 55th National Safety Day was celebrated at Renault Group’s Chennai plant, Renault Nissan Automotive India Private Limited (RNAIPL) on Wednesday. Director of Industrial Safety and Health S. Ananth, Additional Director C. Saravanan, and Joint Director S. Elangovan, took part in the celebrations. V.M. Keerthi Prakash, Managing Director, RNAIPL, delivered the keynote address.Mr. Ananth highlighted the importance of occupational safety and insisted that even the minor risks should not be ignored as it could prevent accidents and emphasised the need for a concerted effort from everyone. Around 150 participants including workers, supervisors and other management representatives were present in this function.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/national-safety-day-celebrated-at-renault-groups-plant-in-city/article70704457.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-04T19:06:13.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "నగరంలోని రెనాల్ట్ గ్రూప్ ప్లాంట్‌లో జాతీయ భద్రతా దినోత్సవాన్ని జరుపుకున్నారు",
+      "summary_te": "రెనాల్ట్ గ్రూప్ యొక్క చెన్నై ప్లాంట్, రెనాల్ట్ నిస్సాన్ ఆటోమోటివ్ ఇండియా ప్రైవేట్ లిమిటెడ్ (RNAIPL)లో బుధవారం 55వ జాతీయ భద్రతా దినోత్సవాన్ని జరుపుకున్నారు. ఈ వేడుకల్లో ఇండస్ట్రియల్ సేఫ్టీ అండ్ హెల్త్ డైరెక్టర్ ఎస్.అనంత్, అడిషనల్ డైరెక్టర్ సి.శరవణన్, జాయింట్ డైరెక్టర్ ఎస్.ఇలంగోవన్ పాల్గొన్నారు. వి.ఎం. ఆర్‌ఎన్‌ఐపీఎల్ మేనేజింగ్ డైరెక్టర్ కీర్తి ప్రకాష్ కీలకోపన్యాసం చేశారు. అనంత్ వృత్తిపరమైన భద్రత యొక్క ప్రాముఖ్యతను ఎత్తిచూపారు మరియు చిన్న ప్రమాదాలను కూడా విస్మరించరాదని పట్టుబట్టారు, ఎందుకంటే ఇది ప్రమాదాలను నివారించవచ్చు మరియు ప్రతి ఒక్కరి నుండి సమిష్టి కృషి యొక్క అవసరాన్ని నొక్కి చెప్పారు. ఈ కార్యక్రమంలో కార్మికులు, సూపర్‌వైజర్లు మరియు ఇతర మేనేజ్‌మెంట్ ప్రతినిధులతో సహా దాదాపు 150 మంది పాల్గొన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "cbf8ba87a5b8790b58fc35bb79896596",
+      "title": "BJP claims Bihar will have a Backward Class CM from the party",
+      "summary": "JD(U) leaders wanted party to have a succession plan for the government, say BJP sources, adding that the new Chief Minister will be from the “backward class”",
+      "url": "https://www.thehindu.com/news/national/bihar/bjp-claims-next-bihar-chief-minister-will-be-from-bjp-and-from-backward-class/article70704663.ece",
+      "image": "https://th-i.thgim.com/public/incoming/rmxrcb/article70704814.ece/alternates/LANDSCAPE_1200/20260227027L.jpg",
+      "published_at": "2026-03-04T19:05:34.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బీహార్‌లో వెనుకబడిన తరగతి సీఎం అవుతారని బీజేపీ పేర్కొంది",
+      "summary_te": "జెడి(యు) నాయకులు ప్రభుత్వం కోసం వారసత్వ ప్రణాళికను కలిగి ఉండాలని కోరుకున్నారు, కొత్త ముఖ్యమంత్రి \"వెనుకబడిన తరగతి\" నుండి వస్తారని బిజెపి వర్గాలు చెబుతున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "9fe971e9bc492f4d874bd15a207185a9",
+      "title": "M. Christopher Tilak is Congress frontrunner for the Rajya Sabha seat",
+      "summary": "Congress party sources on Wednesday night said the party would “most likely nominate a Christian candidate” to the Rajya Sabha from Tamil Nadu.With senior leaders in Tamil Nadu such as Su. Thirunavukkarasar and others angled for the Rajya Sabha spot, multiple sources said M. Christopher Tilak, secretary, All India Congress Committee, is the frontrunner.Earlier in the day, Meenakshi Natarajan, who was an M.P., from Madhya Pradesh between 2009-2014, was believed to be the front runner.However, in the evening, senior leaders suggested that “a Christian from Tamil Nadu” would be a Rajya Sabha member.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/m-christopher-tilak-is-congress-frontrunner-for-the-rajya-sabha-seat/article70704699.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-04T19:03:44.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఎం. క్రిస్టోఫర్ తిలక్ రాజ్యసభ స్థానానికి కాంగ్రెస్ ముందంజలో ఉన్నారు",
+      "summary_te": "కాంగ్రెస్ పార్టీ వర్గాలు బుధవారం రాత్రి తమిళనాడు నుండి రాజ్యసభకు \"చాలా మటుకు క్రిస్టియన్ అభ్యర్థిని నామినేట్ చేయవచ్చని\" తెలిపాయి. తమిళనాడులోని సీనియర్ నాయకులతో సు. తిరునావుక్కరసర్‌తో పాటు మరికొందరు రాజ్యసభ స్థానానికి ఎంపికయ్యారు. ఆలిండియా కాంగ్రెస్‌ కమిటీ కార్యదర్శి ఎం. క్రిస్టోఫర్‌ తిలక్‌ ముందున్నారని పలు వర్గాలు తెలిపాయి. అంతకుముందు 2009-2014 మధ్యప్రదేశ్‌ నుంచి ఎంపీగా పనిచేసిన మీనాక్షి నటరాజన్‌ ముందు వరుసలో ఉంటారని భావించారు. అయితే సాయంత్రం తమిళ నాడు సీనియర్‌ నాయకురాలైన రాజ్‌ రాజ్య సభకు రావాలని సూచించారు. సభ్యుడు.",
+      "translated": true
+    },
+    {
+      "id": "4e0523d4ed384d8ca1c28fd6ee117e11",
+      "title": "T.N. CM launches Integrated Drinking Water Grievance Redressal Centre",
+      "summary": "With the objective of strengthening citizen-centric water governance across Tamil Nadu, Chief Minister M.K. Stalin on Wednesday inaugurated the Tamil Nadu Integrated Drinking Water Grievance Redressal Centre – PUNAL (1916) which offers a round-the-clock service.According to an official release, the centre has been established by the Tamil Nadu Water Supply and Drainage (TWAD) Board to provide citizens with a common platform to register all drinking water-related grievances. This initiative ensures that every grievance related to drinking water availability, water quality, and supply disruptions is promptly heard and addressed.PUNAL brings together multiple departments such as the TWAD Board, Directorate of Municipal Administration, Directorate of Town Panchayats, and the Commissionerate of Rural Development and Panchayat Raj under one coordinated and integrated system. The public can now lodge a complaint, which will automatically be routed to the appropriate authority. This unified mechanism significantly reduces inter-departmental delays and ensures faster grievance redressal, the release said.Apart from the toll-free number, complaints can also be lodged online at www.punal.tn.gov.in or through the PUNAL Citizen App, the release added.Separately, Minister for Revenue and Disaster Management K.K.S.S.R. Ramachandran launched an online portal that will offer various services, including Integrated Land Record and History of Patta Transfer.According to an official release, records such as the ‘A’ Register, Chitta and Field Map have already been made available online. The new Integrated Land Record service combines these three documents into a single downloadable document for the benefit of landowners. The History of Patta Transfer service allows the public to view details of patta transfers carried out online for a particular survey number.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-launches-integrated-drinking-water-grievance-redressal-centre/article70703515.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-04T18:56:09.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "టి.ఎన్. ఇంటిగ్రేటెడ్ డ్రింకింగ్ వాటర్ ఫిర్యాదుల పరిష్కార కేంద్రాన్ని సీఎం ప్రారంభించారు",
+      "summary_te": "తమిళనాడు అంతటా పౌర-కేంద్రీకృత నీటి పాలనను బలోపేతం చేసే లక్ష్యంతో, ముఖ్యమంత్రి ఎం.కె. స్టాలిన్ బుధవారం నాడు తమిళనాడు ఇంటిగ్రేటెడ్ డ్రింకింగ్ వాటర్ గ్రీవెన్స్ రిడ్రెసల్ సెంటర్ - పునల్ (1916)ను ప్రారంభించారు, ఇది 24 గంటలపాటు సేవలను అందిస్తుంది. అధికారిక విడుదల ప్రకారం, తమిళనాడు నీటి సరఫరా మరియు పారుదల (TWAD) బోర్డు ద్వారా పౌరులకు త్రాగునీటికి సంబంధించిన అన్ని గ్రివ్‌లను నమోదు చేయడానికి ఒక ఉమ్మడి వేదికను అందించడానికి ఈ కేంద్రాన్ని ఏర్పాటు చేసింది. త్రాగునీటి లభ్యత, నీటి నాణ్యత మరియు సరఫరా అంతరాయాలకు సంబంధించిన ప్రతి ఫిర్యాదులను వెంటనే విని పరిష్కరించేలా ఈ చొరవ నిర్ధారిస్తుంది. పునల్ TWAD బోర్డ్, డైరెక్టరేట్ ఆఫ్ మున్సిపల్ అడ్మినిస్ట్రేషన్, డైరెక్టరేట్ ఆఫ్ టౌన్ పంచాయతీలు మరియు గ్రామీణాభివృద్ధి మరియు పంచాయత్ రాజ్ కమిషనరేట్ వంటి బహుళ విభాగాలను ఒకే సమన్వయ మరియు సమగ్ర వ్యవస్థ క్రింద తీసుకువస్తుంది. ప్రజలు ఇప్పుడు ఫిర్యాదును నమోదు చేయవచ్చు, అది స్వయంచాలకంగా సంబంధిత అధికారికి పంపబడుతుంది. ఈ ఏకీకృత యంత్రాంగం అంతర్-విభాగ ఆలస్యాన్ని గణనీయంగా తగ్గిస్తుంది మరియు వేగవంతమైన ఫిర్యాదుల పరిష్కారానికి హామీ ఇస్తుంది. ఇంటిగ్రేటెడ్ ల్యాండ్ రికార్డ్ మరియు పట్టా బదిలీ చరిత్రతో సహా పలు సేవలను అందించే ఆన్‌లైన్ పోర్టల్‌ను రామచంద్రన్ ప్రారంభించారు. అధికారిక విడుదల ప్రకారం, ‘ఎ’ రిజిస్టర్, చిట్టా మరియు ఫీల్డ్ మ్యాప్ వంటి రికార్డులు ఇప్పటికే ఆన్‌లైన్‌లో అందుబాటులో ఉంచబడ్డాయి. కొత్త ఇంటిగ్రేటెడ్ ల్యాండ్ రికార్డ్ సర్వీస్ భూ యజమానుల ప్రయోజనం కోసం ఈ మూడు డాక్యుమెంట్‌లను ఒకే డౌన్‌లోడ్ చేయగల డాక్యుమెంట్‌గా మిళితం చేస్తుంది. పట్టా బదిలీ సేవ యొక్క చరిత్ర ఒక నిర్దిష్ట సర్వే నంబర్ కోసం ఆన్‌లైన్‌లో నిర్వహించబడే పట్టా బదిలీల వివరాలను వీక్షించడానికి ప్రజలను అనుమతిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "f41127f6dd5ab6c6f4ed822c9bedf039",
+      "title": "Decades After 'People's War', Nepal Still Lives With Legacy Of Insurgency",
+      "summary": "Thirty years ago, a small faction of Nepal's communist movement launched what it called a \"People's War.\"",
+      "url": "https://www.ndtv.com/world-news/decades-after-peoples-war-nepal-still-lives-with-legacy-of-insurgency-11144347#publisher=newsstand",
+      "image": "https://i.ndtvimg.com/mt/2013-11/Nepal_Maoist_360x270.jpg",
+      "published_at": "2026-03-04T18:52:50.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "'పీపుల్స్ వార్' దశాబ్దాల తర్వాత, నేపాల్ ఇప్పటికీ తిరుగుబాటు వారసత్వంతో జీవిస్తోంది",
+      "summary_te": "ముప్పై సంవత్సరాల క్రితం, నేపాల్ కమ్యూనిస్ట్ ఉద్యమంలోని ఒక చిన్న వర్గం \"పీపుల్స్ వార్\" అని పిలిచే దానిని ప్రారంభించింది.",
+      "translated": true
+    },
+    {
+      "id": "2bd7848bcbd80603fac844038ad97d67",
+      "title": "Why India Has Never Bought American Fighter Jets",
+      "summary": "Look at the skies over Iran right now. Almost every fighter aircraft you're seeing in those skies, at some point in the last 20 years, has been offered to India.",
+      "url": "https://www.ndtv.com/india-news/iran-israel-war-why-india-has-never-bought-american-fighter-jets-11167520#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/kifdquuk_usaf_625x300_04_March_26.jpeg",
+      "published_at": "2026-03-04T18:46:36.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారతదేశం అమెరికా యుద్ధ విమానాలను ఎందుకు కొనుగోలు చేయలేదు",
+      "summary_te": "ప్రస్తుతం ఇరాన్‌పై ఉన్న ఆకాశాన్ని చూడండి. గత 20 ఏళ్లలో ఏదో ఒక సమయంలో మీరు ఆ ఆకాశంలో చూస్తున్న దాదాపు ప్రతి యుద్ధ విమానాలు భారతదేశానికి అందించబడ్డాయి.",
+      "translated": true
+    },
+    {
+      "id": "e37d3c0726fe604339bd4bdd6a21d34e",
+      "title": "Iran's Cluster Bomb Missiles Raise Questions Over Russia And China's Role",
+      "summary": "Israeli experts have suggested that external assistance may have played a role, raising speculation about possible transfers of military know-how from Russia or China.",
+      "url": "https://www.ndtv.com/world-news/iran-israel-war-tehran-tel-aviv-iran-war-irans-cluster-bomb-strike-on-israel-fuels-suspicions-of-russia-china-tech-11167708#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-06/t4nqnfq_israel-afp_625x300_20_June_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-04T18:40:29.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ యొక్క క్లస్టర్ బాంబ్ క్షిపణులు రష్యా మరియు చైనా పాత్రపై ప్రశ్నలను లేవనెత్తుతున్నాయి",
+      "summary_te": "ఇజ్రాయెల్ నిపుణులు బాహ్య సహాయం పాత్రను పోషించి ఉండవచ్చని సూచించారు, రష్యా లేదా చైనా నుండి సైనిక పరిజ్ఞానాన్ని బదిలీ చేయడం గురించి ఊహాగానాలు పెరిగాయి.",
+      "translated": true
+    },
+    {
+      "id": "53fbde6483c27e40296d06da1a30d55a",
+      "title": "Iran-Israel conflict: Uttarakhand families await safe return of kin from Gulf as tensions escalate",
+      "summary": "Iran-Israel conflict: Uttarakhand families await safe return of kin from Gulf as tensions escalate",
+      "url": "https://www.hindustantimes.com/india-news/iranisrael-conflict-uttarakhand-families-await-safe-return-of-kin-from-gulf-as-tensions-escalate-101772649355180.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/06/30/1600x900/logo/ht-generic_india1_1751287243850_1751287256749.jpg",
+      "published_at": "2026-03-04T18:35:54.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్-ఇజ్రాయెల్ వివాదం: ఉద్రిక్తతలు పెరుగుతున్నందున గల్ఫ్ నుండి బంధువులు సురక్షితంగా తిరిగి రావాలని ఉత్తరాఖండ్ కుటుంబాలు ఎదురుచూస్తున్నాయి",
+      "summary_te": "ఇరాన్-ఇజ్రాయెల్ వివాదం: ఉద్రిక్తతలు పెరుగుతున్నందున గల్ఫ్ నుండి బంధువులు సురక్షితంగా తిరిగి రావాలని ఉత్తరాఖండ్ కుటుంబాలు ఎదురుచూస్తున్నాయి",
+      "translated": true
+    },
+    {
+      "id": "bdbde1952fd24124999405e55038cfb6",
+      "title": "KGMCTA defers strike for a week following Kerala government assurances",
+      "summary": "Government agrees to disburse the pay revision arrears of 18 months immediately. Arrears of the remaining 39 months will be disbursed in accordance with legal advice",
+      "url": "https://www.thehindu.com/news/national/kerala/kgmcta-defers-strike-for-a-week-following-kerala-government-assurances/article70704594.ece",
+      "image": null,
+      "published_at": "2026-03-04T18:27:30.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కేరళ ప్రభుత్వ హామీ మేరకు KGMCTA సమ్మెను వారం రోజుల పాటు వాయిదా వేసింది",
+      "summary_te": "18 నెలల వేతన సవరణ బకాయిలను వెంటనే పంపిణీ చేసేందుకు ప్రభుత్వం అంగీకరించింది. మిగిలిన 39 నెలల బకాయిలు న్యాయ సలహాకు అనుగుణంగా పంపిణీ చేయబడతాయి",
+      "translated": true
+    },
+    {
+      "id": "2cb8122aafcedf8edaca84fb69aa430c",
+      "title": "Quick Cremation, No Autopsy: Nepal's 2001 Royal Massacre, Conspiracy Theories",
+      "summary": "As Nepal prepares for the elections next month, the 2001 royal massacre remains one event still discussed and remembered.",
+      "url": "https://www.ndtv.com/world-news/quick-cremation-no-autopsy-nepals-2001-royal-massacre-conspiracy-theories-11140050#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-09/l16n96cc_nepal-royal-family-massacre_625x300_09_September_25.jpg",
+      "published_at": "2026-03-04T18:26:26.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "త్వరిత దహనం, శవపరీక్ష లేదు: నేపాల్ 2001 రాయల్ మాసాకర్, కుట్ర సిద్ధాంతాలు",
+      "summary_te": "వచ్చే నెలలో నేపాల్ ఎన్నికలకు సిద్ధమవుతున్న తరుణంలో, 2001 రాచరిక హత్యాకాండ ఇప్పటికీ చర్చనీయాంశంగా మరియు గుర్తుండిపోయే సంఘటనగా మిగిలిపోయింది.",
       "translated": true
     },
     {
@@ -28,8 +196,22 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "కలమస్సేరి మునిసిపాలిటీ వీధి లైట్ల కోసం శక్తి-సమర్థవంతమైన ప్రత్యామ్నాయాలను పరిశీలిస్తోంది",
+      "title_te": "కలమస్సేరి మునిసిపాలిటీ వీధి లైట్ల కోసం ఇంధన-సమర్థవంతమైన ప్రత్యామ్నాయాలను పరిశీలిస్తోంది",
       "summary_te": "మునిసిపాలిటీ మొదటి దశలో ట్యూబ్ లైట్ల స్థానంలో ఎల్‌ఈడీ లైట్లను అందించే ప్రాజెక్ట్‌ను రూపొందించింది, దీనికి దాదాపు ₹75 లక్షలు ఖర్చవుతుంది.",
+      "translated": true
+    },
+    {
+      "id": "0901e2088f0a8932af6b577a74c6d3c9",
+      "title": "Telangana CM urges Amit Shah to increase sanctioned strength of IPS officers in state",
+      "summary": "Telangana CM urges Amit Shah to increase sanctioned strength of IPS officers in state",
+      "url": "https://www.hindustantimes.com/india-news/telangana-cm-urges-amit-shah-to-increase-sanctioned-strength-of-ips-officers-in-state-101772648350600.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
+      "published_at": "2026-03-04T18:19:10.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాష్ట్రంలో ఐపీఎస్ అధికారుల సంఖ్యను పెంచాలని తెలంగాణ సీఎం అమిత్ షాను కోరారు",
+      "summary_te": "రాష్ట్రంలో ఐపీఎస్ అధికారుల సంఖ్యను పెంచాలని తెలంగాణ సీఎం అమిత్ షాను కోరారు",
       "translated": true
     },
     {
@@ -70,8 +252,8 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "అన్నాసాలైపై జరుగుతున్న ఎలివేటెడ్ కారిడార్‌ నిర్మాణ పనులను సీఎం స్టాలిన్‌ పరిశీలించారు",
-      "summary_te": "ముఖ్యమంత్రి, ప్రజాపనుల శాఖ మంత్రి ఇ.వి. వేలు మరియు ఆరోగ్య మరియు కుటుంబ సంక్షేమ శాఖ మంత్రి మా. 621 కోట్లతో నిర్మిస్తున్న 3.2 కిలోమీటర్ల పొడవైన ఎలివేటెడ్ రోడ్డును సుబ్రమణియన్ పరిశీలించారు.",
+      "title_te": "అన్నాసాలైపై జరుగుతున్న ఎలివేటెడ్ కారిడార్‌ను సీఎం స్టాలిన్‌ పరిశీలించారు",
+      "summary_te": "ముఖ్యమంత్రి, ప్రజాపనుల శాఖ మంత్రి ఇ.వి. వేలు మరియు ఆరోగ్య మరియు కుటుంబ సంక్షేమ శాఖ మంత్రి మా. 621 కోట్ల వ్యయంతో నిర్మిస్తున్న 3.2 కిలోమీటర్ల పొడవైన ఎలివేటెడ్‌ రోడ్డును సుబ్రమణియన్‌ పరిశీలించారు.",
       "translated": true
     },
     {
@@ -86,6 +268,48 @@
       "language": "en",
       "title_te": "నా వాట్సాప్ చాట్‌లు క్రూరత్వాన్ని నిరూపించలేవు: భర్తకు మంజూరు చేసిన విడాకులను కోర్టు రద్దు చేసింది",
       "summary_te": "నా వాట్సాప్ చాట్‌లు క్రూరత్వాన్ని నిరూపించలేవు: భర్తకు మంజూరు చేసిన విడాకులను కోర్టు రద్దు చేసింది",
+      "translated": true
+    },
+    {
+      "id": "2eee902cf56257e9df7fe07fc09911f8",
+      "title": "Iris Dena LIVE Updates: \"Single Mark 48 Torpedo\" Used To Sink Iranian Warship: US",
+      "summary": "IRIS Dena was returning from India after participating in the 2026 International Fleet Review in Visakhapatnam when it was reportedly attacked and later sank off the southern coast of Sri Lanka.",
+      "url": "https://www.ndtv.com/world-news/iris-dena-news-live-updates-us-submarine-iranian-warship-indian-ocean-iran-israel-us-war-naval-exercise-11168461#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/6rtqv6oc_iris-dena-indian-navy_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-04T18:11:24.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఐరిస్ దేనా లైవ్ అప్‌డేట్‌లు: \"సింగిల్ మార్క్ 48 టార్పెడో\" ఇరాన్ యుద్ధనౌకను ముంచడానికి ఉపయోగించబడింది: US",
+      "summary_te": "IRIS దేనా విశాఖపట్నంలో 2026 ఇంటర్నేషనల్ ఫ్లీట్ రివ్యూలో పాల్గొని భారతదేశం నుండి తిరిగి వస్తుండగా, అది శ్రీలంక యొక్క దక్షిణ తీరంలో దాడికి గురై మునిగిపోయింది.",
+      "translated": true
+    },
+    {
+      "id": "522e11d6058dd827db82a1ba97ba484c",
+      "title": "More Criticism From Rohit Pawar After Probe Report On Ajit Pawar Plane Crash",
+      "summary": "Rohit Pawar, grandson of veteran political leader Sharad Pawar and MLA of his faction of the Nationalist Congress Party, has continued his criticism of the investigation into the VSR aircraft accident in which his uncle Ajit Pawar died",
+      "url": "https://www.ndtv.com/india-news/more-criticism-from-rohit-pawar-after-probe-report-on-ajit-pawar-plane-crash-11169276#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-02/vg99t4o8_rohit-pawar_625x300_21_February_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-04T17:58:25.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "అజిత్ పవార్ విమాన ప్రమాదంపై విచారణ నివేదిక తర్వాత రోహిత్ పవార్ నుండి మరిన్ని విమర్శలు",
+      "summary_te": "ప్రముఖ రాజకీయ నాయకుడు శరద్ పవార్ మనవడు మరియు నేషనలిస్ట్ కాంగ్రెస్ పార్టీకి చెందిన అతని వర్గ ఎమ్మెల్యే రోహిత్ పవార్ తన మామ అజిత్ పవార్ మరణించిన VSR విమాన ప్రమాదంపై దర్యాప్తుపై తన విమర్శలను కొనసాగించారు.",
+      "translated": true
+    },
+    {
+      "id": "7ee61f06290169a9a2b42700f14049d5",
+      "title": "Iran Ballistic Missile Launches Drop 86% Since War Began: Top US General",
+      "summary": "The number of ballistic missiles fired by Iran has decreased 86 per cent from the first day of the conflict, while drones launched by Tehran's forces are also down, General Dan Caine, the top US military officer, said Wednesday.",
+      "url": "https://www.ndtv.com/world-news/iran-ballistic-missile-launches-drop-86-since-war-began-top-us-general-11169270#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2024-10/6mm5qch8_iran-missile-reuters_625x300_02_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-04T17:56:30.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "యుద్ధం ప్రారంభమైనప్పటి నుండి ఇరాన్ బాలిస్టిక్ మిస్సైల్ డ్రాప్ 86% ప్రయోగించింది: టాప్ US జనరల్",
+      "summary_te": "ఇరాన్ ప్రయోగించిన బాలిస్టిక్ క్షిపణుల సంఖ్య సంఘర్షణ యొక్క మొదటి రోజు నుండి 86 శాతం తగ్గిందని, టెహ్రాన్ దళాలు ప్రయోగించిన డ్రోన్‌లు కూడా తగ్గాయని యుఎస్ ఉన్నత సైనిక అధికారి జనరల్ డాన్ కెయిన్ బుధవారం చెప్పారు.",
       "translated": true
     },
     {
@@ -127,7 +351,7 @@
       "category": "india",
       "language": "en",
       "title_te": "కొన్ని వారాల చిచ్చు తర్వాత తమిళనాడులో కాంగ్రెస్ 28 సీట్లతో సరిపెట్టుకుంది",
-      "summary_te": "రాబోయే తమిళనాడు అసెంబ్లీ ఎన్నికల కోసం తమిళనాడు అధికార ద్రవిడ మున్నేట్ర కజగం లేదా డీఎంకేతో కాంగ్రెస్ తన సీట్ల భాగస్వామ్య ఒప్పందాన్ని కుదుర్చుకుంది, ఇది వారాలపాటు సాగిన బేరసారాలు మరియు బహిరంగ చర్చలకు ముగింపు పలికింది.",
+      "summary_te": "రాబోయే తమిళనాడు అసెంబ్లీ ఎన్నికల కోసం తమిళనాడు అధికార ద్రవిడ మున్నేట్ర కజగం లేదా డీఎంకేతో కాంగ్రెస్ తన సీట్ల భాగస్వామ్య ఒప్పందాన్ని కుదుర్చుకుంది, ఇది వారాలపాటు సాగిన భారీ బేరసారాలు మరియు బహిరంగ చర్చలకు ముగింపు పలికింది.",
       "translated": true
     },
     {
@@ -184,20 +408,6 @@
       "language": "en",
       "title_te": "కెనడియన్ PM ఇరాన్ దాడిని \"కొంత విచారంతో\" వరల్డ్ ఆర్డర్ ఫ్రేస్‌గా సమర్థించారు",
       "summary_te": "కెనడియన్ ప్రధాన మంత్రి మార్క్ కార్నీ బుధవారం మాట్లాడుతూ, ఇరాన్‌పై దాడులకు \"కొంత విచారంతో\" మద్దతు ఇస్తున్నట్లు చెప్పారు, ఎందుకంటే అవి విచ్ఛిన్నమవుతున్న ప్రపంచ వ్యవస్థకు తీవ్ర ఉదాహరణగా ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "89d4789ee8154a82c79a52b0197689f5",
-      "title": "Rajya Sabha elections: AIADMK fields veteran Thambi Durai again, allots one seat to PMK",
-      "summary": "This was announced by the party general secretary Edappadi K. Palaniswami in a release.",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/rajya-sabha-elections-aiadmk-fields-veteran-thambi-durai-one-seat-to-pmk/article70704585.ece",
-      "image": "https://th-i.thgim.com/public/incoming/vppoks/article70704612.ece/alternates/LANDSCAPE_1200/ALL%20PARTY%20MEEITING%20PARLIAMENT%20SESSION%20DELHI%202025_20_07_25.jpg",
-      "published_at": "2026-03-04T17:40:04.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "రాజ్యసభ ఎన్నికలు: ఏఐఏడీఎంకే సీనియర్ నేత తంబి దురైని మళ్లీ పోటీకి దింపింది, పీఎంకేకి ఒక సీటు కేటాయించింది",
-      "summary_te": "ఈ మేరకు పార్టీ ప్రధాన కార్యదర్శి ఎడప్పాడి కె. పళనిస్వామి ఒక ప్రకటనలో తెలిపారు.",
       "translated": true
     },
     {
@@ -308,8 +518,8 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "ఇజ్రాయెల్ యొక్క ప్రారంభ ప్రణాళిక నెలరోజుల తరువాత ఇరాన్‌పై దాడి చేయడమేనని రక్షణ మంత్రి వెల్లడించారు",
-      "summary_te": "ఇజ్రాయెల్ మొదట 2026 మధ్యలో ఇరాన్‌పై దాడి చేయాలని ప్రణాళిక వేసింది, అయితే ఇస్లామిక్ రిపబ్లిక్‌లోని పరిణామాలు మరియు ప్రాంతీయ డైనమిక్‌లను మార్చడం షెడ్యూల్‌ను ఫిబ్రవరికి ముందుకు తీసుకువచ్చిందని రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ బుధవారం తెలిపారు.",
+      "title_te": "నెలరోజుల తర్వాత ఇరాన్‌పై దాడి చేయాలనేది ఇజ్రాయెల్ ప్రాథమిక ప్రణాళిక అని రక్షణ మంత్రి వెల్లడించారు",
+      "summary_te": "ఇజ్రాయెల్ మొదట 2026 మధ్యలో ఇరాన్‌పై దాడి చేయాలని ప్రణాళిక వేసింది, అయితే ఇస్లామిక్ రిపబ్లిక్‌లోని పరిణామాలు మరియు ప్రాంతీయ డైనమిక్‌లను మార్చడం వల్ల టైమ్‌టేబుల్‌ను ఫిబ్రవరికి ముందుకు తీసుకువచ్చిందని రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ బుధవారం తెలిపారు.",
       "translated": true
     },
     {
@@ -323,7 +533,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఎన్సీపీ (ఎస్పీ) విలీన ఊహాగానాలకు తెరపడింది",
-      "summary_te": "అజిత్ పవార్ పట్టుబట్టి పునరేకీకరణ చర్చలు ప్రారంభమయ్యాయని, ఇకపై చర్చలు లేవని జయంత్ పాటిల్ చెప్పారు.",
+      "summary_te": "అజిత్ పవార్ పట్టుబట్టి పునరేకీకరణ చర్చలు ప్రారంభించామని, ఇకపై చర్చలు లేవని జయంత్ పాటిల్ చెప్పారు.",
       "translated": true
     },
     {
@@ -365,7 +575,7 @@
       "category": "india",
       "language": "en",
       "title_te": "నామినేషన్ దాఖలు చేసే సమయంలో కాంగ్రెస్ రాజ్యసభ అభ్యర్థిని ప్రకటిస్తుంది: హిమాచల్ సీఎం",
-      "summary_te": "68 మంది సభ్యులున్న హిమాచల్ ప్రదేశ్ అసెంబ్లీలో స్పష్టమైన మెజారిటీతో కాంగ్రెస్ గెలుపు ఖాయమనే చెప్పాలి, అయితే మొన్నటి రాజ్యసభ ఎన్నికల్లో చేదు అనుభవానికి",
+      "summary_te": "68 మంది సభ్యుల హిమాచల్ ప్రదేశ్ అసెంబ్లీలో స్పష్టమైన మెజారిటీతో కాంగ్రెస్ గెలుపు ఖాయమనే చెప్పాలి, అయితే మొన్నటి రాజ్యసభ ఎన్నికల్లో చేదు అనుభవానికి",
       "translated": true
     },
     {
@@ -407,7 +617,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ది సింగ్స్ ఆఫ్ ఖాట్మండు: ఇన్‌సైడ్ ది పొలిటికల్ లెగసీ ఆఫ్ నేపాలీ కాంగ్రెస్",
-      "summary_te": "నేపాలీ రాజకీయ నాయకుడు గణేష్ మాన్ సింగ్ యొక్క పని 20వ శతాబ్దం మధ్యలో నేపాల్‌లో ప్రజాస్వామ్య అనుకూల ఉద్యమాలలో అంతర్భాగమైంది.",
+      "summary_te": "20వ శతాబ్దం మధ్యకాలంలో నేపాల్‌లో ప్రజాస్వామ్య అనుకూల ఉద్యమాలకు నేపాలీ రాజకీయ నాయకుడు గణేష్ మాన్ సింగ్ కృషి అంతర్భాగమైంది.",
       "translated": true
     },
     {
@@ -439,20 +649,6 @@
       "translated": true
     },
     {
-      "id": "aeb753346fe6397bf12a6240516fd99d",
-      "title": "Congress picks Singhvi, Vem Narender for RS seats",
-      "summary": "CM Revanth Reddy meets AICC chief Kharge and K.C.Venugopal",
-      "url": "https://www.thehindu.com/news/national/telangana/cm-meets-congress-top-leaders-to-finalise-rs-nominees/article70704552.ece",
-      "image": null,
-      "published_at": "2026-03-04T16:49:57.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఆర్‌ఎస్‌సీ స్థానాలకు సింఘ్వీ, వేం నరేందర్‌లను కాంగ్రెస్ ఎంపిక చేసింది",
-      "summary_te": "ఏఐసీసీ చీఫ్‌ ఖర్గే, కేసీ వేణుగోపాల్‌తో సీఎం రేవంత్‌రెడ్డి భేటీ అయ్యారు",
-      "translated": true
-    },
-    {
       "id": "ad7a3e1063867b6ab5b81fc81d541c19",
       "title": "Finn Allen's record century powers New Zealand into T20 World Cup final",
       "summary": "New Zealand stormed into the T20 World Cup final, crushing South Africa by nine wickets. Opener Finn Allen smashed a record-breaking 33-ball century, leading a dominant chase of 170. Allen's explosive innings, supported by Tim Seifert's fifty, secured a comfortable victory with 7.1 overs to spare.",
@@ -464,20 +660,6 @@
       "language": "en",
       "title_te": "ఫిన్ అలెన్ రికార్డు సెంచరీతో న్యూజిలాండ్ టీ20 ప్రపంచకప్ ఫైనల్‌కు చేరుకుంది",
       "summary_te": "దక్షిణాఫ్రికాను తొమ్మిది వికెట్ల తేడాతో చిత్తు చేసిన న్యూజిలాండ్ టీ20 ప్రపంచకప్ ఫైనల్లోకి దూసుకెళ్లింది. ఓపెనర్ ఫిన్ అలెన్ 33 బంతుల్లోనే సెంచరీ చేసి రికార్డు బద్దలు కొట్టాడు, 170 పరుగుల ఆధిపత్య ఛేదనకు నాయకత్వం వహించాడు. టిమ్ సీఫెర్ట్ ఫిఫ్టీతో అలెన్ పేలుడు ఇన్నింగ్స్‌కు 7.1 ఓవర్లు మిగిలి ఉండగానే విజయాన్ని అందుకుంది.",
-      "translated": true
-    },
-    {
-      "id": "890a03689fbf8e06452f3c02cfa402e5",
-      "title": "High-speed rail can be implemented in five years if BJP is in power, says E. Sreedharan",
-      "summary": "Technocrat E. Sreedharan has said that the high-speed rail line proposed by him could be completed in five years if there were BJP governments at the Centre and State.Delivering a talk on high-speed rail line for Kerala, organised by the Institute of Engineers (India), Kerala State chapter, he said the project spanning over a distance of 465 kms from north to south could be completed in five years by dividing the entire length of the project into five sections.A chief engineer would be in charge of each section, and 100 km of rail line could be constructed by each chief engineer in five years, said Mr. Sreedharan. The detailed project report (DPR) of the project could be completed in 3-4 months. However, a dedicated government at the State and Centre is highly imperative for this, where the BJP is more ideal to execute the project than any other government. In the case of other governments, it cannot be guaranteed, he said.The high-speed railway line conceived from Thiruvananthapuram Central to Kannur can be covered in 3 hours 20 minutes with 20 intermediate stations, including two terminal stations, as well as linking three airports directly and Kannur Airport with dedicated electric vans from the high-speed railway station. He also maintained that the ticket fare for the high-speed rail would be cheaper than Vande Bharat train services. A chair car ticket to Ernakulam from Thiruvananthapuram would be charged only ₹440 as against the Vande Bharat ticket fare of ₹690.Similarly, the ticket to Kozhikode from Thiruvananthapuram will cost only ₹640 compared to the ₹1,225 on the Vande Bharat train. The proposed high-speed rail reduced the capital investment by 20 % by reducing the axle load of the line, which will be only 16 tonnes, as against 25 tonnes of normal broad gauge lines. This will make the largely elevated structures (about 445 kms on pillars and 20 kms to be underground) very light and sleek, saving in cost by over 20%, he said.In the case of operational speed, he said, although the designed speed will be 200 km per hour with a maximum operating speed of 180 km, the average commercial speed, allowing for acceleration, deceleration, and station stoppages, will be 158 km per hour. However, this is enough to traverse the entire distance in 3 hours and 20 minutes, he said. If implemented, this would be the first complete green energy-powered high-speed rail line in the country, with energy being obtained through solar farms set up on station tops and depots and along the 20-metre width of land available for the project, he said.Although trains are suggested to run at intervals of 30 minutes during peak hours and one hour during non-peak hours in the first phase, the intervals between trains can also be brought down to 5 minutes when initial traffic capacity is reached. In such a case, the total carrying capacity of the line will be more than 5 lakhs on this line per day, he said.",
-      "url": "https://www.thehindu.com/news/national/kerala/high-speed-rail-can-be-implemented-in-five-years-if-bjp-is-in-power-says-e-sreedharan/article70704443.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-04T16:49:49.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "బీజేపీ అధికారంలో ఉంటే ఐదేళ్లలో హైస్పీడ్‌ రైలును అమలు చేయవచ్చని ఇ.శ్రీధరన్‌ అన్నారు",
-      "summary_te": "కేంద్రం, రాష్ట్రంలో బీజేపీ ప్రభుత్వాలు ఉంటే తాను ప్రతిపాదించిన హైస్పీడ్ రైలు మార్గాన్ని ఐదేళ్లలో పూర్తి చేయవచ్చని టెక్నోక్రాట్ ఇ. శ్రీధరన్ అన్నారు. కేరళ రాష్ట్రానికి చెందిన ఇనిస్టిట్యూట్ ఆఫ్ ఇంజనీర్స్ (ఇండియా) నిర్వహించిన కేరళ కోసం హైస్పీడ్ రైలు మార్గంపై ప్రసంగిస్తూ, ప్రాజెక్టు మొత్తం ఉత్తరాది నుంచి దక్షిణాది వరకు 465 కి.మీల మేర పూర్తవుతుందని చెప్పారు. ఐదు విభాగాలుగా. ఒక్కో సెక్షన్‌కు ఒక చీఫ్ ఇంజనీర్ ఇన్‌ఛార్జ్‌గా ఉంటారని, ఐదేళ్లలో ఒక్కో చీఫ్ ఇంజనీర్ 100 కి.మీ రైలు మార్గాన్ని నిర్మించగలరని శ్రీధరన్ చెప్పారు. ప్రాజెక్ట్ యొక్క వివరణాత్మక ప్రాజెక్ట్ నివేదిక (DPR) 3-4 నెలల్లో పూర్తి అవుతుంది. ఏదేమైనప్పటికీ, రాష్ట్రంలో మరియు కేంద్రంలో అంకితభావంతో కూడిన ప్రభుత్వం దీనికి చాలా అవసరం, ఇక్కడ ఇతర ప్రభుత్వాల కంటే ప్రాజెక్ట్‌ను అమలు చేయడంలో బిజెపి చాలా ఆదర్శంగా ఉంది. ఇతర ప్రభుత్వాల విషయానికొస్తే, దీనికి హామీ ఇవ్వలేమని ఆయన అన్నారు.తిరువనంతపురం సెంట్రల్ నుండి కన్నూర్ వరకు రూపొందించిన హై-స్పీడ్ రైలు మార్గాన్ని 3 గంటల 20 నిమిషాల్లో 20 ఇంటర్మీడియట్ స్టేషన్లతో కవర్ చేయవచ్చు, ఇందులో రెండు టెర్మినల్ స్టేషన్లు ఉన్నాయి, అలాగే మూడు విమానాశ్రయాలను నేరుగా మరియు కన్నూర్ విమానాశ్రయాన్ని హై-స్పీడ్ రైల్వే స్టేషన్ నుండి అంకితమైన ఎలక్ట్రిక్ వ్యాన్లతో అనుసంధానించవచ్చు. వందేభారత్ రైలు సర్వీసుల కంటే హైస్పీడ్ రైలు టిక్కెట్ ధర తక్కువ ధరలో ఉంటుందని కూడా ఆయన పేర్కొన్నారు. తిరువనంతపురం నుండి ఎర్నాకులం వెళ్లేందుకు ఒక చైర్ కార్ టిక్కెట్‌కి కేవలం ₹690 వందే భారత్ టికెట్ ధర రూ. 440 మాత్రమే వసూలు చేయబడుతుంది. అదేవిధంగా, తిరువనంతపురం నుండి కోజికోడ్‌కు వందే భారత్ రైలులో ₹1,225తో పోలిస్తే ₹640 మాత్రమే. ప్రతిపాదిత హై-స్పీడ్ రైలు లైన్ యొక్క యాక్సిల్ లోడ్‌ను తగ్గించడం ద్వారా మూలధన పెట్టుబడిని 20% తగ్గించింది, ఇది 25 టన్నుల సాధారణ బ్రాడ్ గేజ్ లైన్‌లకు వ్యతిరేకంగా 16 టన్నులు మాత్రమే ఉంటుంది. దీని వల్ల ఎక్కువగా ఎత్తైన నిర్మాణాలు (స్తంభాలపై 445 కి.మీ.లు, భూగర్భంలో 20 కి.మీ.లు) చాలా తేలికగా మరియు సొగసైనవిగా తయారవుతాయని, దీని వల్ల 20% ఖర్చు ఆదా అవుతుందని ఆయన అన్నారు.ఆపరేషనల్ స్పీడ్ విషయానికొస్తే, డిజైన్ చేసిన వేగం గంటకు 200 కి.మీ అయినప్పటికీ, గరిష్టంగా 180 కి.మీ., కమర్షియల్ స్పీడ్‌తో స్టేషన్‌కు సగటు వేగం తగ్గుతుంది. స్టాపేజ్‌లు, గంటకు 158 కి.మీ. అయితే మొత్తం దూరాన్ని 3 గంటల 20 నిమిషాల్లో అధిగమించేందుకు ఇది సరిపోతుందని తెలిపారు. ఇది అమల్లోకి వస్తే దేశంలోనే మొట్టమొదటి పూర్తి గ్రీన్ ఎనర్జీతో నడిచే హై-స్పీడ్ రైలు మార్గమని, స్టేషన్ టాప్‌లు, డిపోల్లో ఏర్పాటు చేసిన సోలార్ ఫామ్‌ల ద్వారా, ప్రాజెక్టుకు అందుబాటులో ఉన్న 20 మీటర్ల వెడల్పుతో విద్యుత్తు లభిస్తుందని ఆయన చెప్పారు. రైళ్లను రద్దీ సమయాల్లో 30 నిమిషాల వ్యవధిలో నడపాలని సూచించినప్పటికీ, రైళ్లను రద్దీ సమయాల్లో 30 నిమిషాల వ్యవధిలో నడపాలని సూచించారు. ప్రారంభ ట్రాఫిక్ సామర్థ్యాన్ని చేరుకున్నప్పుడు 5 నిమిషాలు. అటువంటప్పుడు, ఈ లైన్ యొక్క మొత్తం క్యారీ కెపాసిటీ రోజుకు ఈ లైన్‌లో 5 లక్షలకు పైగా ఉంటుందని ఆయన చెప్పారు.",
       "translated": true
     },
     {
@@ -505,21 +687,7 @@
       "category": "india",
       "language": "en",
       "title_te": "అలెన్ స్క్రిప్ట్ చరిత్ర, ఈ T20 WC రికార్డును సాధించిన మొట్టమొదటి వ్యక్తిగా నిలిచాడు",
-      "summary_te": "ఫిన్ అలెన్ 33 బంతుల్లో సెంచరీని ఛేదించాడు - T20 ప్రపంచ కప్ చరిత్రలో అత్యంత వేగవంతమైన సెంచరీ - సెమీ-ఫైనల్‌లో న్యూజిలాండ్‌ను దక్షిణాఫ్రికాపై తొమ్మిది వికెట్ల తేడాతో విజయం సాధించింది. 170 పరుగుల లక్ష్యంతో బరిలోకి దిగిన న్యూజిలాండ్ కేవలం 12.5 ఓవర్లలోనే ఆలౌటైంది. అలెన్ యొక్క అజేయమైన 100 వారిని ఆధిపత్య పద్ధతిలో ఫైనల్‌కి చేర్చింది.",
-      "translated": true
-    },
-    {
-      "id": "047a341e3be51c54ec5e048689be5f3b",
-      "title": "Karnataka High Court allows investigation against gold investment start-up in Bengaluru",
-      "summary": "The High Court of Karnataka on Wednesday said that a thorough investigation is required into the business of Bengaluru-based digital gold investment start-up company, JAR Gold Retail Private, while refusing to quash the First Information Report (FIR) registered against it by the city police under the provisions of the Banning of Unregulated Deposit Schemes (BUDS) Act, 2019.The company, which has recorded a turnover of ₹4,000 crore since its inception in 2021 with 3.3 crore investor accounts, had questioned the legality of FIR registered under the BUDS Act while claiming that it is not engaged or dealing with deposits, regulated or unregulated, and that company’s digital gold investment does not come under the perview of the BUDS Act.Definition of ‘deposit’Refusing to accept these contention of the company, Justice M. Nagaprasanna said the provisions of BUDS the Act define “deposit” in ‘expansive terms’ and the argument that the statute must be construed narrowly, so as to exclude digital or gold backed arrangements, stands repelled.The court passed the order while dismissing the petitions filed by the company, which has arraigned as accused number 4 and one of its directors, Nishchay Babu Arkalgud, who is arraigned as accused number 3 in the FIR. The other directors, Misbah Ashraf, accused number 1, who co-founded the company as an e-commerce seller of gold, and Sandesh Nahar, accused number 2, have not filed petition against the FIR, the court noted.The FIR was registered on January 16 after the police conducted a preliminary investigation between August-December 2025 based on the alert received from the Market Intelligence unit of the Reserve Bank of India (RBI), which acted on a complaint, indicating that digital gold scheme of the JAR is not coming under the purview of either the RBI or the Security and Exchange Board of India (SEBI).The company allows investment in gold, starting from ₹10, through its JAR App claiming to be “India’s number-1 gold saving app”.Gold foundThough the company had claimed before the court that it has an agreement with Brinks India Private Ltd. for storage of gold and all the gold, purchased by the investors, is stored in the vault of Brinks, the court, from the investigation papers, pointed out that that police searches have allegedly yielded gold bearing the company’s branding at the premises of the office bearers of the company.“Investigation in such cases is imperative, as the investors have already made hue and cry through communications between them that there is no gold and no money,” the Justice Nagaprasanna observed while stating that the court cannot interfere at this stage.Noticing the apprehension raised about the credibility of the gold investment scheme by users of Jar App and observations by several customers/users about “purported fraud” in comments section of the app, the court said that with all the communications in public domain, “the police ostensibly cannot keep quiet, as every citizen is invol",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-allows-investigation-against-gold-investment-start-up-in-bengaluru/article70704370.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-04T16:43:04.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "బెంగళూరులో గోల్డ్ ఇన్వెస్ట్‌మెంట్ స్టార్టప్‌పై విచారణకు కర్ణాటక హైకోర్టు అనుమతించింది",
-      "summary_te": "బెంగళూరుకు చెందిన డిజిటల్ గోల్డ్ ఇన్వెస్ట్‌మెంట్ స్టార్టప్ కంపెనీ JAR గోల్డ్ రిటైల్ ప్రైవేట్ వ్యాపారంపై సమగ్ర దర్యాప్తు అవసరమని కర్ణాటక హైకోర్టు బుధవారం పేర్కొంది, అదే సమయంలో నగర పోలీసులు దానిపై నమోదు చేసిన ప్రథమ సమాచార నివేదిక (ఎఫ్‌ఐఆర్)ను రద్దు చేయడానికి నిరాకరించారు. 2021లో 3.3 కోట్ల ఇన్వెస్టర్ ఖాతాలతో ప్రారంభమై, బడ్స్ చట్టం కింద నమోదైన ఎఫ్‌ఐఆర్ చట్టబద్ధతను ప్రశ్నించింది, అయితే ఇది నిమగ్నమై లేదా డిపాజిట్లతో వ్యవహరించడం, నియంత్రించబడటం లేదా నియంత్రించబడదని మరియు కంపెనీ డిజిటల్ గోల్డ్ ఇన్వెస్ట్‌మెంట్ MUDS చట్టం పరిధిలోకి రాదని పేర్కొంది. BUDS చట్టం ‘డిపాజిట్‌’ని ‘విస్తరణ నిబంధనలు’లో నిర్వచించింది మరియు డిజిటల్ లేదా బంగారు మద్దతుతో కూడిన ఏర్పాట్లను మినహాయించాలంటే చట్టాన్ని తృటిలో అర్థం చేసుకోవాలనే వాదనను తిప్పికొట్టింది. నిందితుడు నంబర్ 4 మరియు న్‌గూఇశ్చా డైరెక్టర్లలో ఒకరైన నిందితుడిగా ఆరోపణలు ఎదుర్కొన్న కంపెనీ దాఖలు చేసిన పిటిషన్‌లను కొట్టివేస్తూ కోర్టు ఈ ఆదేశాలను జారీ చేసింది. ఎఫ్‌ఐఆర్‌లో 3. ఇతర డైరెక్టర్లు మిస్బా అష్రఫ్, బంగారం ఇ-కామర్స్ విక్రేతగా కంపెనీకి సహ-స్థాపన చేసిన నిందితుడు నంబర్ 1 మరియు నిందితుడు నంబర్ 2 సందేశ్ నహర్ ఎఫ్‌ఐఆర్‌పై పిటిషన్‌ను దాఖలు చేయలేదని కోర్టు పేర్కొంది. ఆగస్టు-డిసెంబర్ మధ్య పోలీసులు ప్రాథమిక దర్యాప్తు చేసిన తర్వాత జనవరి 16న ఎఫ్‌ఐఆర్ నమోదు చేశారు. (RBI), JAR యొక్క డిజిటల్ గోల్డ్ పథకం RBI లేదా సెక్యూరిటీ అండ్ ఎక్స్ఛేంజ్ బోర్డ్ ఆఫ్ ఇండియా (SEBI) పరిధిలోకి రాదని సూచించిన ఫిర్యాదుపై చర్య తీసుకుంది. కంపెనీ తన JAR యాప్ ద్వారా ₹10 నుండి బంగారంపై పెట్టుబడిని అనుమతిస్తుంది, ఇది \"భారతదేశం యొక్క నంబర్-1 గోల్డ్ సేవింగ్ యాప్\" అని పేర్కొంది. బంగారం నిల్వ కోసం లిమిటెడ్, పెట్టుబడిదారులు కొనుగోలు చేసిన బంగారాన్ని బ్రింక్స్‌లోని ఖజానాలో భద్రపరిచారు, పోలీసుల సోదాల్లో కంపెనీ బ్రాండింగ్‌తో కూడిన బంగారాన్ని కంపెనీ ఆఫీస్ బేరర్ల ప్రాంగణంలో కనుగొన్నట్లు కోర్టు విచారణ పత్రాల నుండి పేర్కొంది. ఈ దశలో కోర్టు జోక్యం చేసుకోదని నాగప్రసన్న పేర్కొన్నాడు. జార్ యాప్ వినియోగదారులు బంగారు పెట్టుబడి పథకం విశ్వసనీయత గురించి లేవనెత్తిన భయాందోళనలు మరియు యాప్‌లోని వ్యాఖ్యల విభాగంలో “ఉద్దేశించబడిన మోసం” గురించి పలువురు వినియోగదారులు/యూజర్లు చేసిన పరిశీలనలను గమనించిన కోర్టు, పబ్లిక్ డొమైన్‌లోని అన్ని కమ్యూనికేషన్‌లతో, “ప్రతి పౌరుడు అస్పష్టంగా ఉండలేమని కోర్టు తెలిపింది.",
+      "summary_te": "ఫిన్ అలెన్ 33 బంతుల్లో సెంచరీని ఛేదించాడు - T20 ప్రపంచ కప్ చరిత్రలో అత్యంత వేగవంతమైన సెంచరీ - సెమీ-ఫైనల్‌లో దక్షిణాఫ్రికాపై న్యూజిలాండ్ తొమ్మిది వికెట్ల తేడాతో విజయం సాధించింది. 170 పరుగుల లక్ష్యంతో బరిలోకి దిగిన న్యూజిలాండ్ కేవలం 12.5 ఓవర్లలోనే ఆలౌటైంది. అలెన్ యొక్క అజేయమైన 100 వారిని ఆధిపత్య పద్ధతిలో ఫైనల్‌కి చేర్చింది.",
       "translated": true
     },
     {
@@ -534,20 +702,6 @@
       "language": "en",
       "title_te": "'జన నాయగన్' ఇప్పటికీ నిలిచిపోయింది, బోర్డు సమీక్ష కొనసాగుతుండగా విజయ్ \"గేమ్\" ఆరోపణ",
       "summary_te": "తన ఎంతో ఆసక్తిగా ఎదురుచూస్తున్న సినిమా జన నాయగన్ యొక్క విధిపై వారాల మౌనం తర్వాత, నటుడు మరియు TVK చీఫ్ విజయ్ ఈ రోజు తన వీడ్కోలు చిత్రానికి సర్టిఫికేట్ ఆలస్యం చేయడంపై కేంద్రంలోని బిజెపి నేతృత్వంలోని ప్రభుత్వం \"బ్లేమ్ గేమ్\"లో మునిగిపోయిందని నిశ్శబ్దంగా ఆరోపించారు.",
-      "translated": true
-    },
-    {
-      "id": "9cf1b4711f69c39c56acb6726f6180a8",
-      "title": "India backs a Myanmar-led peace process, says Jaishankar",
-      "summary": "His comments come a month after a military-backed party won the Myanmar general election",
-      "url": "https://www.thehindu.com/news/national/india-backs-a-myanmar-led-peace-process-says-jaishankar/article70704431.ece",
-      "image": "https://th-i.thgim.com/public/incoming/yoidau/article70704615.ece/alternates/LANDSCAPE_1200/PTI03_02_2026_000179A.jpg",
-      "published_at": "2026-03-04T16:41:24.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మయన్మార్ నేతృత్వంలోని శాంతి ప్రక్రియకు భారత్ మద్దతు ఇస్తుందని జైశంకర్ అన్నారు",
-      "summary_te": "మయన్మార్ సార్వత్రిక ఎన్నికల్లో మిలటరీ మద్దతు ఉన్న పార్టీ గెలిచిన నెల రోజుల తర్వాత ఆయన ఈ వ్యాఖ్యలు చేయడం గమనార్హం",
       "translated": true
     },
     {
@@ -576,34 +730,6 @@
       "language": "en",
       "title_te": "శరద్ పవార్ మహారాష్ట్ర ప్రతిపక్షాల రాజ్యసభ అభ్యర్థిగా ఎలా మారారు: ఇన్‌సైడ్ స్టోరీ",
       "summary_te": "పదకొండో గంటలో జరిగే ఎన్నికల్లో పోటీ చేయాలని భావిస్తున్న శరద్ పవార్ విపక్షాల ఉమ్మడి అభ్యర్థిని ప్రకటించగా, ఆ సీటు తమకే దక్కాలని కోరుకున్న శివసేన తన వాదనను ఉపసంహరించుకుంది.",
-      "translated": true
-    },
-    {
-      "id": "eba73701c83dc6b5fde9d8fb47bd9779",
-      "title": "Women’s day: Kerala Postal Circle launches reel contest",
-      "summary": "The Kerala Postal Circle has launched a reel contest ‘Omana Makal’ in connection with International Women’s Day.The contest aims at promoting awareness about the Sukanya Samriddhi Yojana, a financial security scheme for the girl child.The contest, on Instagram and Facebook till March 7 with the hashtag #OmanaMakal, invites families across the State to create and share Malayalam reels highlighting the benefits of Sukanya Samriddhi Yojana.The contest is open to families with girl children below 10 years of age. Winners will receive digital certificates, cash prizes, and recognition on official social media platforms.",
-      "url": "https://www.thehindu.com/news/national/kerala/womens-day-kerala-postal-circle-launches-reel-contest/article70704543.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-04T16:32:41.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మహిళా దినోత్సవం: కేరళ పోస్టల్ సర్కిల్ రీల్ పోటీని ప్రారంభించింది",
-      "summary_te": "అంతర్జాతీయ మహిళా దినోత్సవం సందర్భంగా కేరళ పోస్టల్ సర్కిల్ ‘ఓమన మకల్’ అనే రీల్ కాంటెస్ట్‌ను ప్రారంభించింది. ఈ పోటీ ఆడపిల్లలకు ఆర్థిక భద్రతా పథకం అయిన సుకన్య సమృద్ధి యోజన గురించి అవగాహన కల్పించడం లక్ష్యంగా పెట్టుకుంది. ఈ పోటీ మార్చి 7 వరకు Instagram మరియు Facebookలో #OmanaMakal అనే హ్యాష్‌ట్యాగ్‌తో రాష్ట్రవ్యాప్తంగా ఉన్న కుటుంబాలను ఆహ్వానిస్తుంది. 10 సంవత్సరాల కంటే తక్కువ వయస్సు ఉన్న ఆడపిల్లలు ఉన్న కుటుంబాలకు తెరవబడింది. విజేతలు డిజిటల్ సర్టిఫికెట్లు, నగదు బహుమతులు మరియు అధికారిక సోషల్ మీడియా ప్లాట్‌ఫారమ్‌లలో గుర్తింపు పొందుతారు.",
-      "translated": true
-    },
-    {
-      "id": "fa9f0510faf2095f5567d3d97cd1d514",
-      "title": "State govt. sanctions arrears on DA, DR",
-      "summary": "The State government has issued orders sanctioning the arrears on the dearness allowance (DA) of government employees and teachers with retrospective effect. Service pensioners also will receive the arrears on dearness relief (DR). Teachers under the University Grants Commission, All India Council for Technical Education (AICTE) as well as Medical Education also will be eligible for the arrears. It is understood that the arrears will be issued in eight instalments and merged with the provident fund from the next fiscal. Finance Minister K.N. Balagopal had announced in the 2026-27 State budget that the government would take steps to disburse the DA/DR arrears. In February and March, the Finance Department had sanctioned 13% DA and DR.",
-      "url": "https://www.thehindu.com/news/national/kerala/state-govt-sanctions-arrears-on-da-dr/article70704390.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-04T16:24:36.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "రాష్ట్ర ప్రభుత్వం డీఏ, డీఆర్‌పై ఆంక్షల బకాయిలు",
-      "summary_te": "ప్రభుత్వ ఉద్యోగులు, ఉపాధ్యాయుల డియర్‌నెస్ అలవెన్స్ (డీఏ) బకాయిలను రెట్రోస్పెక్టివ్ ఎఫెక్ట్‌తో మంజూరు చేస్తూ రాష్ట్ర ప్రభుత్వం ఉత్తర్వులు జారీ చేసింది. సర్వీస్ పెన్షనర్లు కూడా డియర్నెస్ రిలీఫ్ (DR)పై బకాయిలను అందుకుంటారు. యూనివర్శిటీ గ్రాంట్స్ కమిషన్, ఆల్ ఇండియా కౌన్సిల్ ఫర్ టెక్నికల్ ఎడ్యుకేషన్ (ఏఐసీటీఈ)తోపాటు మెడికల్ ఎడ్యుకేషన్‌లోని ఉపాధ్యాయులు కూడా బకాయిలకు అర్హులు. వచ్చే ఆర్థిక సంవత్సరం నుంచి బకాయిలను ఎనిమిది విడతలుగా జారీ చేసి భవిష్యనిధిలో విలీనం చేయనున్నట్లు తెలిసింది. ఆర్థిక మంత్రి కె.ఎన్. డీఏ/డీఆర్ బకాయిల పంపిణీకి ప్రభుత్వం చర్యలు తీసుకుంటుందని 2026-27 రాష్ట్ర బడ్జెట్‌లో బాలగోపాల్ ప్రకటించారు. ఫిబ్రవరి, మార్చిలో ఆర్థిక శాఖ 13% డీఏ, డీఆర్‌లను మంజూరు చేసింది.",
       "translated": true
     },
     {
@@ -663,34 +789,6 @@
       "translated": true
     },
     {
-      "id": "feb8102c3d4e8cfb418b745175ff4237",
-      "title": "87 Killed As US Sinks Iran Ship Headed Back From India After Naval Exercise",
-      "summary": "At least 87 people were killed after a US submarine sank an Iranian warship in the Indian Ocean, news agency AFP reported today. The warship, IRIS Dena, had participated in a naval exercise in India just weeks ago.",
-      "url": "https://www.ndtv.com/world-news/80-killed-in-us-submarine-strike-on-iran-ship-near-sri-lanka-report-11168301#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/q1ukjuvo_sri-lanka_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-04T15:38:43.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "నౌకాదళ విన్యాసాల అనంతరం భారత్‌ నుంచి వెనుదిరిగిన ఇరాన్‌ నౌకను అమెరికా మునిగిపోవడంతో 87 మంది మృతి",
-      "summary_te": "హిందూ మహాసముద్రంలో ఇరాన్ యుద్ధనౌకను యుఎస్ జలాంతర్గామి మునిగిపోవడంతో కనీసం 87 మంది మరణించినట్లు వార్తా సంస్థ AFP ఈరోజు నివేదించింది. ఐఆర్‌ఐఎస్‌ దేనా అనే యుద్ధనౌక వారం రోజుల క్రితం భారత్‌లో జరిగిన నౌకాదళ విన్యాసాల్లో పాల్గొంది.",
-      "translated": true
-    },
-    {
-      "id": "88d3d931a1b75b0a25a3dd2172f0fa0a",
-      "title": "Nepal Ex-President Bidya Devi Bhandari Won't Contest Tomorrow's Elections",
-      "summary": "Almost no political family in Nepal has left as deep an imprint on the nation's democratic evolution as the family of late Madan Bhandari and former President Bidya Devi Bhandari.",
-      "url": "https://www.ndtv.com/world-news/nepal-ex-president-bidya-devi-bhandari-wont-contest-tomorrows-elections-11139217#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2021-06/33dchkig_nepal-president-bidya-devi-bhandari_625x300_25_June_21.jpg",
-      "published_at": "2026-03-04T15:35:05.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "నేపాల్ మాజీ అధ్యక్షురాలు బిద్యా దేవి భండారీ రేపటి ఎన్నికల్లో పోటీ చేయరు",
-      "summary_te": "నేపాల్‌లోని దాదాపు ఏ రాజకీయ కుటుంబం కూడా దేశం యొక్క ప్రజాస్వామ్య పరిణామంలో దివంగత మదన్ భండారీ మరియు మాజీ అధ్యక్షురాలు బిద్యా దేవి భండారి కుటుంబం వలె లోతైన ముద్ర వేయలేదు.",
-      "translated": true
-    },
-    {
       "id": "eb8d1f1babf9de746a90c2820cc93ec5",
       "title": "No money or medicine: Telugu tourists' SOS to PM Modi from Bahrain",
       "summary": "No money or medicine: Telugu tourists' SOS to PM Modi from Bahrain",
@@ -705,27 +803,13 @@
       "translated": true
     },
     {
-      "id": "457975fde28443c9e9bcd804e43e9beb",
-      "title": "Russia Ready To Divert Oil To India As Iran War Disrupts Energy Flows: Report",
-      "summary": "Russia is ready to divert oil to India to offset Middle East supply disruptions, with about 9.5 million barrels of Russian crude in vessels near Indian waters and able to arrive within weeks, an industry source with direct knowledge told Reuters.",
-      "url": "https://www.ndtv.com/world-news/israel-iran-war-news-russia-ready-to-divert-oil-to-india-as-iran-war-disrupts-energy-flows-report-11168683#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2022-12/rb9j6kgo_oil-generic_625x300_16_December_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-04T15:25:58.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్ యుద్ధం ఇంధన ప్రవాహానికి అంతరాయం కలిగించినందున చమురును భారత్‌కు మళ్లించడానికి రష్యా సిద్ధంగా ఉంది: నివేదిక",
-      "summary_te": "మిడిల్ ఈస్ట్ సరఫరా అంతరాయాలను భర్తీ చేయడానికి రష్యా చమురును భారతదేశానికి మళ్లించడానికి సిద్ధంగా ఉంది, సుమారు 9.5 మిలియన్ బ్యారెల్స్ రష్యన్ క్రూడ్ భారత జలాల సమీపంలోని ఓడల్లో ఉంది మరియు వారాల్లోనే చేరుకోగలదని ప్రత్యక్ష పరిజ్ఞానం ఉన్న పరిశ్రమ మూలం రాయిటర్స్‌తో తెలిపింది.",
-      "translated": true
-    },
-    {
       "id": "d29ea32b9e711d8cf495a385c33d7ede",
       "title": "Nitish Kumar To Quit As Bihar Chief Minister, Move To Rajya Sabha: Sources",
       "summary": "The move to shift Kumar has been anticipated since before the 2025 assembly elections. But action was not taken given Kumar's illustrious track record.",
       "url": "https://www.ndtv.com/india-news/rajya-sabha-bihar-nitish-kumar-may-quit-as-bihar-chief-minister-son-to-get-deputy-post-sources-11167773#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-03/dvhvrf6o_nitish-kumar-news_625x300_04_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-04T15:23:34.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "నితీష్ కుమార్ బీహార్ ముఖ్యమంత్రి పదవికి రాజీనామా, రాజ్యసభకు వెళ్లనున్నారు: సోర్సెస్",
@@ -761,20 +845,6 @@
       "translated": true
     },
     {
-      "id": "34fbec0c263115c312e07dea14390426",
-      "title": "Iran Warship Sunk By US Was In India For 2024 Exercise Too",
-      "summary": "The Iranian Navy warship IRIS Dena that was sunk by an American submarine near Sri Lanka today while returning from a naval exercise in India was not a first-time visitor to this part of the world.",
-      "url": "https://www.ndtv.com/world-news/iran-israel-war-iran-warship-iris-dena-sunk-by-us-submarine-was-in-india-for-2024-milan-exercise-too-11168639#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/gt4mm0eg_iris-dena_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-04T15:11:55.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "అమెరికా ముంచిన ఇరాన్ యుద్ధనౌక 2024 వ్యాయామం కోసం కూడా భారతదేశంలోనే ఉంది",
-      "summary_te": "ఈ రోజు భారతదేశంలో నావికాదళ వ్యాయామం నుండి తిరిగి వస్తుండగా శ్రీలంక సమీపంలో ఒక అమెరికన్ జలాంతర్గామి ద్వారా మునిగిపోయిన ఇరాన్ నేవీ యుద్ధనౌక IRIS దేనా ప్రపంచంలోని ఈ భాగానికి మొదటిసారి సందర్శించినది కాదు.",
-      "translated": true
-    },
-    {
       "id": "a9229d12d73d87e14dd729629b5bf7f9",
       "title": "Russia ready to redirect crude to India as Hormuz fallout hits flows",
       "summary": "The TOI Business Desk is a vigilant and dedicated team of journalists committed to delivering the latest and most relevant business news from around the world to readers of The Times of India. The primary focus of the TOI Business Desk is to keep a watchful eye on the global business landscape, covering a wide spectrum of industries, markets, economic trends, in-depth analysis, exclusive reports and breaking stories that impact businesses and economies. With a mission to provide valuable insights and updates, the desk ensures that TOI readers are well-informed about the ever-changing and dynamic world of commerce and can navigate the complexities of the business world.Read More Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
@@ -789,20 +859,6 @@
       "translated": true
     },
     {
-      "id": "2eee902cf56257e9df7fe07fc09911f8",
-      "title": "Iris Dena LIVE Updates: Iran Ship Sunk By US Submarine Was Returning From India After Naval Exercise",
-      "summary": "IRIS Dena was returning from India after participating in the 2026 International Fleet Review in Visakhapatnam when it was reportedly attacked and later sank off the southern coast of Sri Lanka.",
-      "url": "https://www.ndtv.com/world-news/iris-dena-news-live-updates-us-submarine-iranian-warship-indian-ocean-iran-israel-us-war-naval-exercise-11168461#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/6rtqv6oc_iris-dena-indian-navy_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-04T15:08:36.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఐరిస్ దేనా లైవ్ అప్‌డేట్‌లు: యుఎస్ సబ్‌మెరైన్‌లో మునిగిపోయిన ఇరాన్ నౌక నౌకాదళ వ్యాయామం తర్వాత భారతదేశం నుండి తిరిగి వస్తోంది",
-      "summary_te": "IRIS దేనా విశాఖపట్నంలో 2026 ఇంటర్నేషనల్ ఫ్లీట్ రివ్యూలో పాల్గొని భారతదేశం నుండి తిరిగి వస్తుండగా, శ్రీలంక దక్షిణ తీరంలో దాడి చేసి, తర్వాత మునిగిపోయినట్లు సమాచారం.",
-      "translated": true
-    },
-    {
       "id": "50d6b170e64f6dec7db2335ac63c5730",
       "title": "Apple MacBook Neo with A18 Pro chip, Liquid Retina display, and macOS Tahoe launched",
       "summary": "Apple unveils its most budget-friendly laptop, the MacBook Neo, priced Rs 69,900. Featuring the powerful A18 Pro chip, a vibrant 13-inch display, and a sleek aluminum build, it promises impressive performance for everyday tasks and AI workloads. This eco-conscious device, running macOS Tahoe with Apple Intelligence, is available for pre-order now.",
@@ -813,7 +869,7 @@
       "category": "india",
       "language": "en",
       "title_te": "A18 ప్రో చిప్, లిక్విడ్ రెటినా డిస్‌ప్లే మరియు మాకోస్ తాహోతో కూడిన Apple MacBook Neo ప్రారంభించబడింది",
-      "summary_te": "ఆపిల్ తన అత్యంత బడ్జెట్-స్నేహపూర్వక ల్యాప్‌టాప్, మాక్‌బుక్ నియోను రూ. 69,900 ధరతో ఆవిష్కరించింది. శక్తివంతమైన A18 ప్రో చిప్, శక్తివంతమైన 13-అంగుళాల డిస్‌ప్లే మరియు సొగసైన అల్యూమినియం బిల్డ్‌ను కలిగి ఉంది, ఇది రోజువారీ పనులు మరియు AI పనిభారం కోసం అద్భుతమైన పనితీరును అందిస్తుంది. ఆపిల్ ఇంటెలిజెన్స్‌తో MacOS Tahoeని నడుపుతున్న ఈ ఎకో-కాన్షియస్ పరికరం ఇప్పుడు ముందస్తు ఆర్డర్ కోసం అందుబాటులో ఉంది.",
+      "summary_te": "ఆపిల్ తన అత్యంత బడ్జెట్-స్నేహపూర్వక ల్యాప్‌టాప్, మాక్‌బుక్ నియోను రూ. 69,900 ధరతో ఆవిష్కరించింది. శక్తివంతమైన A18 ప్రో చిప్, శక్తివంతమైన 13-అంగుళాల డిస్‌ప్లే మరియు సొగసైన అల్యూమినియం బిల్డ్‌ను కలిగి ఉంది, ఇది రోజువారీ పనులు మరియు AI పనిభారం కోసం అద్భుతమైన పనితీరును అందిస్తుంది. ఆపిల్ ఇంటెలిజెన్స్‌తో MacOS Tahoeని అమలు చేస్తున్న ఈ ఎకో-కాన్షియస్ పరికరం ఇప్పుడు ముందస్తు ఆర్డర్ కోసం అందుబాటులో ఉంది.",
       "translated": true
     },
     {
@@ -828,20 +884,6 @@
       "language": "en",
       "title_te": "28 సీట్లు మరియు రాజ్యసభ బెర్త్: కాంగ్రెస్ తమిళనాడు ఎన్నికలను డీఎంకేతో పొత్తు పెట్టుకుంది",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
-      "id": "0cffb325667fc625f1ff1790641e7036",
-      "title": "\"Next Mission Waiting\": Israel Commander To F-35 Pilot Who Downed Iran Jet",
-      "summary": "These things usually appear in memoirs, long after wars and battles end. One such moment likely unfolded today, if the details shared by the Israeli Air Force (IAF) are true.",
-      "url": "https://www.ndtv.com/world-news/iran-israel-war-next-mission-waiting-for-you-israel-air-force-commander-to-f-35-pilot-on-radio-11168141#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/baovf0qg_israel-air-force_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-04T14:50:40.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "\"నెక్స్ట్ మిషన్ వెయిటింగ్\": ఇరాన్ జెట్‌ను కూల్చిన F-35 పైలట్‌కి ఇజ్రాయెల్ కమాండర్",
-      "summary_te": "యుద్ధాలు మరియు యుద్ధాలు ముగిసిన చాలా కాలం తర్వాత ఈ విషయాలు సాధారణంగా జ్ఞాపకాలలో కనిపిస్తాయి. ఇజ్రాయెల్ వైమానిక దళం (IAF) పంచుకున్న వివరాలు నిజమైతే, అలాంటి క్షణమే ఈరోజు బయటపడే అవకాశం ఉంది.",
       "translated": true
     },
     {
@@ -938,7 +980,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "'మరణం వచ్చినప్పుడు, నాకు పశ్చాత్తాపం లేదు': కుటుంబ సభ్యులు, స్నేహితులు ప్రముఖ జర్నలిస్ట్, మాజీ ఎంపీ హెచ్‌కే దువాను గుర్తు చేసుకున్నారు",
+      "title_te": "'మరణం వచ్చినప్పుడు, నాకు పశ్చాత్తాపం లేదు': కుటుంబ సభ్యులు, స్నేహితులు ప్రముఖ జర్నలిస్ట్, మాజీ ఎంపీ హెచ్‌కె దువాను గుర్తు చేసుకున్నారు",
       "summary_te": "పదునైన రాజకీయ అవగాహన కలిగిన వ్యక్తి, హెచ్‌కె దువా 1987 మరియు 94 మధ్య ది హిందుస్థాన్ టైమ్స్ సంపాదకుడిగా పనిచేశారు.",
       "translated": true
     },
@@ -1037,7 +1079,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ATP ఫుజైరా మ్యాచ్‌లను రద్దు చేసింది; €5,000 చార్టర్ బ్యాక్‌లాష్ తర్వాత ఆటగాళ్లను బయటకు పంపడానికి అంగీకరిస్తున్నారు",
-      "summary_te": "ATP టూర్ మధ్యప్రాచ్య ఉద్రిక్తతలు భద్రతా సమస్యలను లేవనెత్తిన తర్వాత UAEలోని ఫుజైరా ఛాలెంజర్ టోర్నమెంట్‌లను రద్దు చేసింది. ప్లేయర్లు, అధికారులు మరియు బాల్ కిడ్స్ ముందుగా వేదిక సమీపంలో డ్రోన్ స్కేర్ సమయంలో కవర్ కోసం తరలించారు. ATP కోర్సును రివర్స్ చేయడానికి ముందు తరలింపు కోసం €5,000 చార్టర్ ఫ్లైట్‌ను ప్రతిపాదించినందుకు మరియు ఆటగాళ్ల ప్రయాణ ఖర్చులను కవర్ చేయడానికి అంగీకరించినందుకు కూడా ఎదురుదెబ్బ తగిలింది.",
+      "summary_te": "ATP టూర్ మధ్యప్రాచ్య ఉద్రిక్తతలు భద్రతా సమస్యలను లేవనెత్తిన తర్వాత UAEలో ఫుజైరా ఛాలెంజర్ టోర్నమెంట్‌లను రద్దు చేసింది. ప్లేయర్లు, అధికారులు మరియు బాల్ కిడ్స్ ముందుగా వేదిక సమీపంలో డ్రోన్ స్కేర్ సమయంలో కవర్ కోసం తరలించారు. ATP కోర్సును రివర్స్ చేయడానికి ముందు తరలింపు కోసం €5,000 చార్టర్ ఫ్లైట్‌ను ప్రతిపాదించినందుకు మరియు ఆటగాళ్ల ప్రయాణ ఖర్చులను కవర్ చేయడానికి అంగీకరించినందుకు కూడా ఎదురుదెబ్బ తగిలింది.",
       "translated": true
     },
     {
@@ -1218,7 +1260,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా T20 ప్రపంచ కప్ విపత్తు తర్వాత రిటైర్మెంట్‌పై మాక్స్‌వెల్ మౌనం వీడాడు",
+      "title_te": "ఆస్ట్రేలియా T20 ప్రపంచకప్ విపత్తు తర్వాత రిటైర్మెంట్‌పై మాక్స్‌వెల్ మౌనం వీడాడు",
       "summary_te": "గ్లెన్ మాక్స్‌వెల్ తన రాడార్‌లో 2028 T20 ప్రపంచ కప్ మరియు లాస్ ఏంజెల్స్ ఒలింపిక్స్‌తో T20 అంతర్జాతీయ మ్యాచ్‌ల నుండి వెంటనే రిటైర్ అయ్యే ఆలోచనలు లేవు. ఇటీవలి ఊహాగానాలు ఉన్నప్పటికీ, ఆల్-రౌండర్ తనకు ఇంకా చాలా ఆఫర్లు ఉన్నాయని భావిస్తున్నాడు మరియు తన ఫిట్‌నెస్ మరియు ఫామ్‌పై దృష్టి పెట్టాడు, తన భవిష్యత్తు గురించి సెలెక్టర్‌లతో కొనసాగుతున్న చర్చలతో.",
       "translated": true
     },
@@ -1233,7 +1275,7 @@
       "category": "india",
       "language": "en",
       "title_te": "IIT హైదరాబాద్ SURE ఇంటర్న్‌షిప్ 2026: మార్చి 10లోపు దరఖాస్తు చేసుకోండి; ఫెలోషిప్, వ్యవధి మరియు అర్హత",
-      "summary_te": "IIT హైదరాబాద్ తన SURE 2026 ఇంటర్న్‌షిప్ కోసం దరఖాస్తులను ఆహ్వానిస్తోంది, ఇందులో మహిళలకు 100 సీట్లతో సహా 250 సీట్లు, రెండు నెలల పరిశోధన కార్యక్రమం కోసం రూ. 15000 వరకు స్టైపెండ్‌లు ఉన్నాయి.",
+      "summary_te": "IIT హైదరాబాద్ తన SURE 2026 ఇంటర్న్‌షిప్ కోసం దరఖాస్తులను ఆహ్వానిస్తోంది, ఇందులో మహిళలకు 100 సీట్లు ఉన్నాయి, రెండు నెలల పరిశోధనా కార్యక్రమం కోసం రూ. 15000 వరకు స్టైపెండ్‌లు ఉన్నాయి.",
       "translated": true
     },
     {
@@ -1252,16 +1294,16 @@
     },
     {
       "id": "10f0bf6df3e385f516d9422e2e8e77df",
-      "title": "Nitish Kumar's Rajya Sabha nomination tomorrow, Bihar may get new BJP CM",
-      "summary": "Nitish Kumar's Rajya Sabha nomination tomorrow, Bihar may get new BJP CM",
+      "title": "Nitish Kumar's Rajya Sabha nomination today, Bihar may get new BJP CM",
+      "summary": "Nitish Kumar's Rajya Sabha nomination today, Bihar may get new BJP CM",
       "url": " https://www.indiatoday.in/india/bihar/story/rajya-sabha-elections-2026-nitish-kumar-likely-rajya-sabha-pick-intense-jdu-activity-fuels-bihar-cm-buzz-2877405-2026-03-04?utm_source=rss ",
       "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/cm-nitish-kumar-040128730-16x9.jpg?VersionId=TWdkh5_OBQ9xofpGBgYD4Nw6dOEnVFVi",
       "published_at": "2026-03-04T11:00:31.000Z",
       "source": "India Today",
       "category": "india",
       "language": "en",
-      "title_te": "రేపు నితీష్ కుమార్ రాజ్యసభ నామినేషన్, బీహార్‌కి కొత్త బిజెపి సిఎం లభించవచ్చు",
-      "summary_te": "రేపు నితీష్ కుమార్ రాజ్యసభ నామినేషన్, బీహార్‌కి కొత్త బిజెపి సిఎం లభించవచ్చు",
+      "title_te": "నేడు నితీష్ కుమార్ రాజ్యసభ నామినేషన్, బీహార్‌కు కొత్త బీజేపీ సీఎం లభించవచ్చు",
+      "summary_te": "నేడు నితీష్ కుమార్ రాజ్యసభ నామినేషన్, బీహార్‌కు కొత్త బీజేపీ సీఎం లభించవచ్చు",
       "translated": true
     },
     {
@@ -1288,22 +1330,8 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "అజిత్ పవార్ విమాన ప్రమాదం: AAIB యొక్క ప్రాథమిక నివేదికలో వాస్తవ తప్పిదాలు ఉన్నాయని రోహిత్ పవార్ పేర్కొన్నాడు, అనుమానితులను కప్పిపుచ్చారు",
+      "title_te": "అజిత్ పవార్ విమాన ప్రమాదం: AAIB యొక్క ప్రాథమిక నివేదికలో వాస్తవ తప్పులు ఉన్నాయని రోహిత్ పవార్ పేర్కొన్నాడు, అనుమానితులను కప్పిపుచ్చారు",
       "summary_te": "బారామతి విమానాశ్రయం పరిసర ప్రాంతాల్లో చెట్లు లేకపోయినా, విమానం చెట్లను ఢీకొట్టిందని నివేదికలో పేర్కొన్నట్లు రోహిత్ పేర్కొన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "2bd7848bcbd80603fac844038ad97d67",
-      "title": "Why India Has Never Bought American Fighter Jets",
-      "summary": "Look at the skies over Iran right now. Almost every fighter aircraft you're seeing in those skies, at some point in the last 20 years, has been offered to India.",
-      "url": "https://www.ndtv.com/india-news/iran-israel-war-why-india-has-never-bought-american-fighter-jets-11167520#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/kifdquuk_usaf_625x300_04_March_26.jpeg",
-      "published_at": "2026-03-04T10:20:49.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "భారతదేశం అమెరికా యుద్ధ విమానాలను ఎందుకు కొనుగోలు చేయలేదు",
-      "summary_te": "ప్రస్తుతం ఇరాన్‌పై ఉన్న ఆకాశాన్ని చూడండి. గత 20 ఏళ్లలో ఏదో ఒక సమయంలో మీరు ఆ ఆకాశంలో చూస్తున్న దాదాపు ప్రతి యుద్ధ విమానాలు భారతదేశానికి అందించబడ్డాయి.",
       "translated": true
     },
     {
@@ -1374,34 +1402,6 @@
       "language": "en",
       "title_te": "పెట్టుబడి పెట్టాలా లేదా పెట్టుబడి పెట్టకూడదా: మీరు డిప్‌ని కొనుగోలు చేయాలా లేదా ఆయిల్ షాక్‌కి వేచి ఉండాలా?",
       "summary_te": "ఇరాన్, ఇజ్రాయెల్ మరియు యునైటెడ్ స్టేట్స్ ప్రమేయం ఉన్న ఉద్రిక్తతలు తీవ్రతరం కావడంతో, మార్కెట్లు ప్రపంచవ్యాప్తంగా అసౌకర్యానికి పడిపోయాయి.",
-      "translated": true
-    },
-    {
-      "id": "f7e5a48dd0401d448f04ed5b8a9ed7c0",
-      "title": "600 Units, 4 Lakh Workers: The Iran War Impact On Gujarat Tiles Industry",
-      "summary": "As the war in the Middle East drags on, the ceramic tile industry in Gujarat's Morbi is staring at a massive crisis",
-      "url": "https://www.ndtv.com/india-news/iran-war-middle-east-war-morbi-ceramic-tiles-600-units-4-lakh-workers-the-iran-war-impact-on-gujarat-tiles-industry-11167455#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/g3881abk_morbi-1_625x300_04_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-04T09:56:21.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "600 యూనిట్లు, 4 లక్షల మంది కార్మికులు: ఇరాన్ యుద్ధం గుజరాత్ టైల్స్ పరిశ్రమపై ప్రభావం",
-      "summary_te": "మధ్యప్రాచ్యంలో యుద్ధం కొనసాగుతుండగా, గుజరాత్‌లోని మోర్బీలో సిరామిక్ టైల్స్ పరిశ్రమ భారీ సంక్షోభాన్ని ఎదుర్కొంటోంది.",
-      "translated": true
-    },
-    {
-      "id": "0e0a7cb406f16c1cad959f974c63c5e4",
-      "title": "HK Dua, ex-Rajya Sabha MP and veteran journalist, passes away at 88",
-      "summary": "HK Dua served as the editor of The Hindustan Times (1987-94), Editor-in-Chief of The Indian Express (1994-96) and The Tribune (2003-09).",
-      "url": "https://www.hindustantimes.com/india-news/hk-dua-ex-rajya-sabha-mp-and-veteran-journalist-passes-away-at-86-101772616755056.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/04/1600x900/logo/HK_Dua_1772616827492_1772616827636.JPG",
-      "published_at": "2026-03-04T09:53:02.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "మాజీ రాజ్యసభ ఎంపీ, ప్రముఖ పాత్రికేయుడు హెచ్‌కే దువా (88) కన్నుమూశారు",
-      "summary_te": "HK దువా ది హిందూస్తాన్ టైమ్స్ (1987-94), ది ఇండియన్ ఎక్స్‌ప్రెస్ (1994-96) మరియు ది ట్రిబ్యూన్ (2003-09) ఎడిటర్-ఇన్-చీఫ్‌గా పనిచేశారు.",
       "translated": true
     }
   ]
