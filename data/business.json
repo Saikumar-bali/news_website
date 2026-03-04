@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-04T08:37:50.803Z",
-  "updated_at_IST": "4/3/2026, 2:07:50 pm",
+  "updated_at": "2026-03-04T09:42:02.813Z",
+  "updated_at_IST": "4/3/2026, 3:12:02 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "38e295bb34cc471ac8a2aa5a641e82e5",
+      "title": "Quote of the Day by Marie Curie on everyday challenges: ‘Nothing in life is to be feared…’",
+      "summary": "Marie Curie's perspective emphasizes understanding as a remedy for fear. Her life and work in science illustrate that knowledge can replace anxiety with clarity, encouraging curiosity and patience when confronting challenges.",
+      "url": "https://www.livemint.com/news/trends/quote-of-the-day-by-marie-curie-on-everyday-challenges-nothing-in-life-is-to-be-feared-11772615289980.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Marie_Curie_1772615642184_1772615645908.jpg",
+      "published_at": "2026-03-04T09:16:35.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రోజువారీ సవాళ్లపై మేరీ క్యూరీ యొక్క కోట్ ఆఫ్ ది డే: 'జీవితంలో దేనికీ భయపడాల్సిన అవసరం లేదు...'",
+      "summary_te": "మేరీ క్యూరీ యొక్క దృక్పథం భయానికి నివారణగా అవగాహనను నొక్కి చెబుతుంది. ఆమె జీవితం మరియు సైన్స్‌లో చేసిన పని విజ్ఞానం ఆందోళనను స్పష్టతతో భర్తీ చేయగలదని, సవాళ్లను ఎదుర్కొన్నప్పుడు ఉత్సుకత మరియు సహనాన్ని ప్రోత్సహిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "25b3102e8c8d5d5ff6cd4183cb8a3723",
+      "title": "New business registrations surge 37% in February, signal strong startup sentiment",
+      "summary": "The majority of new businesses are closely held, private limited companies. New government companies accounted for only a handful of incorporations each month",
+      "url": "https://www.livemint.com/news/india/new-business-registrations-india-company-registrations-february-11772544307585.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/03/1600x900/logo/pexels-photo-4050312_1763356004406_1763356033927_1772548056928.jpeg",
+      "published_at": "2026-03-04T08:38:54.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఫిబ్రవరిలో కొత్త వ్యాపార నమోదులు 37% పెరిగాయి, ఇది బలమైన స్టార్టప్ సెంటిమెంట్‌ను సూచిస్తుంది",
+      "summary_te": "మెజారిటీ కొత్త వ్యాపారాలు ప్రైవేట్ లిమిటెడ్ కంపెనీలకు దగ్గరగా ఉన్నాయి. కొత్త ప్రభుత్వ కంపెనీలు ప్రతి నెలా కొన్ని ఇన్‌కార్పొరేషన్‌లను మాత్రమే కలిగి ఉన్నాయి",
+      "translated": true
+    },
+    {
+      "id": "2ae702886c81c0591658664b3869297f",
+      "title": "How long can the US sustain the Iran war? Pentagon warns of looming missile shortage",
+      "summary": "The US War Department is reportedly also facing shortages of Patriot missiles, owing to the fact that Ukraine had already used a large stock of it during its four-year-long conflict with Russia.",
+      "url": "https://www.livemint.com/news/world/how-long-can-the-us-sustain-the-iran-war-pentagon-warns-of-looming-missile-shortage-11772611210254.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-ISRAEL-4_1772613273578_1772613282730.JPG",
+      "published_at": "2026-03-04T08:37:29.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ యుద్ధాన్ని అమెరికా ఎంతకాలం కొనసాగించగలదు? పెంటగాన్ క్షిపణి కొరతను హెచ్చరించింది",
+      "summary_te": "US వార్ డిపార్ట్‌మెంట్ పేట్రియాట్ క్షిపణుల కొరతను కూడా ఎదుర్కొంటోంది, ఉక్రెయిన్ రష్యాతో తన నాలుగు సంవత్సరాల సుదీర్ఘ సంఘర్షణ సమయంలో ఇప్పటికే దాని యొక్క పెద్ద స్టాక్‌ను ఉపయోగించింది.",
+      "translated": true
+    },
+    {
+      "id": "8c4550da6a1f2772e98dd347707ed34b",
+      "title": "Ayatollah Ali Khamenei to be buried in Mashhad — why Iran’s second-largest city was chosen for supreme leader’s burial",
+      "summary": "Iranian Supreme Leader Ayatollah Ali Khamenei, who was killed in an Israel-US strike, will be buried in Mashhad, Iran. The city is significant for its religious heritage and historical ties to Khamenei's family.",
+      "url": "https://www.livemint.com/news/world/ayatollah-ali-khamenei-to-be-buried-in-mashhad-why-was-irans-second-largest-city-chosen-for-supreme-leaders-burial-11772609196616.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-INDIA-PROTESTS-1_1772612601303_1772612624080.JPG",
+      "published_at": "2026-03-04T08:27:50.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అయతుల్లా అలీ ఖమేనీని మషాద్‌లో ఖననం చేయనున్నారు - సుప్రీం నాయకుడి ఖననం కోసం ఇరాన్‌లోని రెండవ అతిపెద్ద నగరాన్ని ఎందుకు ఎంచుకున్నారు",
+      "summary_te": "ఇజ్రాయెల్-అమెరికా దాడుల్లో మరణించిన ఇరాన్ సుప్రీం లీడర్ అయతుల్లా అలీ ఖమేనీని ఇరాన్‌లోని మషాద్‌లో ఖననం చేయనున్నారు. ఈ నగరం దాని మతపరమైన వారసత్వం మరియు ఖమేనీ కుటుంబంతో చారిత్రక సంబంధాలకు ముఖ్యమైనది.",
+      "translated": true
+    },
     {
       "id": "86b77165dff96cb003c9c74196943d4a",
       "title": "Zohran Mamdani announces first 2,000 free 2-K seats — Which New York City neighbourhoods benefit? Check full list here",
@@ -15,7 +71,7 @@
       "category": "business",
       "language": "en",
       "title_te": "జోహ్రాన్ మమ్దానీ మొదటి 2,000 ఉచిత 2-K సీట్లను ప్రకటించారు — న్యూయార్క్ నగర పరిసరాలు ఏవి ప్రయోజనం పొందుతాయి? పూర్తి జాబితాను ఇక్కడ తనిఖీ చేయండి",
-      "summary_te": "2-K ప్రోగ్రామ్ యొక్క ప్రారంభ రౌండ్ అధిక-అవసరమైన పరిసరాల్లోని కుటుంబాలకు సేవ చేయడం లక్ష్యంగా పెట్టుకుంది, కలుపుకొని యాక్సెస్ వైపు దృష్టి సారిస్తుంది. న్యూయార్క్ నగరంలోని మాన్‌హాటన్, బ్రూక్లిన్, క్వీన్స్ మరియు బ్రోంక్స్‌లోని పొరుగు ప్రాంతాలు దీనిని పొందే మొదటి వాటిలో ఒకటిగా ఉంటాయని జోహ్రాన్ మమ్దానీ మంగళవారం ప్రకటించారు. వివరాలను ఇక్కడ తనిఖీ చేయండి.",
+      "summary_te": "2-K ప్రోగ్రామ్ యొక్క ప్రారంభ రౌండ్ అధిక-అవసరమైన పరిసరాల్లోని కుటుంబాలకు సేవ చేయడం లక్ష్యంగా పెట్టుకుంది, కలుపుకొని యాక్సెస్ వైపు దృష్టి సారిస్తుంది. న్యూయార్క్ నగరంలోని మాన్‌హాటన్, బ్రూక్లిన్, క్వీన్స్ మరియు బ్రోంక్స్‌లోని పొరుగు ప్రాంతాలు దీనిని పొందే మొదటి వాటిలో ఒకటిగా ఉంటాయని జోహ్రాన్ మమ్దానీ మంగళవారం ప్రకటించారు. ఇక్కడ వివరాలను తనిఖీ చేయండి.",
       "translated": true
     },
     {
@@ -281,7 +337,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అర్జున్-సానియాల వివాహానికి ముందు జరిగిన వేడుకలో టెండూల్కర్ కుటుంబం రెగల్ ఎత్నిక్ ఎంసెట్‌లలో ఆశ్చర్యపరిచింది; హాజరైన క్రికెట్ దిగ్గజాలు",
-      "summary_te": "అర్జున్-సానియా వివాహం: త్వరలో కాబోయే వధువు సానియా చందోక్ మరియు వరుడు అర్జున్ టెండూల్కర్ మంగళవారం సాయంత్రం వారి సంగీత్ మరియు మెహందీ వేడుకలో భారీ జాతి దుస్తులలో అబ్బురపరిచారు. ఈ కార్యక్రమంలో టెండూల్కర్ కుటుంబం మొత్తం గ్లామర్‌గా కనిపించింది. ",
+      "summary_te": "అర్జున్-సానియా వివాహం: త్వరలో కాబోయే వధువు సానియా చందోక్ మరియు వరుడు అర్జున్ టెండూల్కర్ మంగళవారం సాయంత్రం వారి సంగీత్ మరియు మెహందీ వేడుకలో భారీ జాతి దుస్తులలో అబ్బురపరిచారు. ఈ ఈవెంట్‌లో టెండూల్కర్ కుటుంబం మొత్తం గ్లామర్‌గా కనిపించింది. ",
       "translated": true
     },
     {
@@ -327,62 +383,6 @@
       "translated": true
     },
     {
-      "id": "49bbe000830457e9567845a11bb5a086",
-      "title": "Middle East war escalation? UAE weighs military action against Iranian missile launch sites",
-      "summary": "The UAE is reportedly considering military strikes on Iranian missile sites after hundreds of missiles and drones targeted its territory, signalling a potential escalation in the widening West Asia conflict.",
-      "url": "https://www.livemint.com/news/world/middle-east-west-asia-war-escalation-uae-weighs-military-action-against-iranian-missile-launch-sites-11772590283336.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/ISRAEL-LEBANON-US-IRAN-WAR-1_1772591936769_1772591954297.jpg",
-      "published_at": "2026-03-04T02:25:38.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ యుద్ధం తీవ్రతరం? ఇరాన్ క్షిపణి ప్రయోగ కేంద్రాలపై సైనిక చర్యను UAE తూకం వేసింది",
-      "summary_te": "వందలాది క్షిపణులు మరియు డ్రోన్‌లు దాని భూభాగాన్ని లక్ష్యంగా చేసుకున్న తరువాత ఇరాన్ క్షిపణి సైట్‌లపై సైనిక దాడులను UAE పరిశీలిస్తున్నట్లు నివేదించబడింది, ఇది పశ్చిమాసియా వివాదాన్ని విస్తరిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "3aeb51cf99adab7859c802dc4d17a806",
-      "title": "Mojtaba Khamenei to be Iran's new Supreme Leader: All about his net worth, family, wife Zahra Haddad Adel and kids",
-      "summary": "Ayatollah Ali Khamenei's second son, Mojtaba Hosseini Khamenei, has been selected as Iran's new Supreme Leader. Here's all you need to know about Mojtaba's net worth, family, wife Zahra Haddad Adel and kids.",
-      "url": "https://www.livemint.com/news/world/mojtaba-khamenei-to-be-irans-new-supreme-leader-all-about-his-net-worth-family-wife-zahra-haddad-adel-and-kids-11772585782116.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/jj_1772590501403_1772590501654.jpeg",
-      "published_at": "2026-03-04T02:18:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్‌గా మొజ్తాబా ఖమేనీ: అతని నికర విలువ, కుటుంబం, భార్య జహ్రా హద్దాద్ అడెల్ మరియు పిల్లల గురించి",
-      "summary_te": "అయతుల్లా అలీ ఖమేనీ రెండవ కుమారుడు, మొజ్తబా హొస్సేనీ ఖమేనీ, ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్‌గా ఎంపికయ్యారు. Mojtaba యొక్క నికర విలువ, కుటుంబం, భార్య జహ్రా హద్దాద్ అడెల్ మరియు పిల్లల గురించి మీరు తెలుసుకోవలసినది ఇక్కడ ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "2661aa6ec3fe5a372362da77eed3fa92",
-      "title": "‘Don’t start a business unless…’: Bengaluru startup founder’s advice impresses social media",
-      "summary": "Bengaluru: Drickle co-founder Vardhman Jain shares insights into the entrepreneurial journey, highlighting the mental and financial challenges of building a business.",
-      "url": "https://www.livemint.com/news/trends/dont-start-a-business-unless-bengaluru-startup-founder-s-advice-impresses-social-media-11772588312452.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/pexels-photo-4085266_1772588561712_1772588572412.jpeg",
-      "published_at": "2026-03-04T01:47:41.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘తప్ప వ్యాపారాన్ని ప్రారంభించవద్దు…’: బెంగళూరు స్టార్టప్ వ్యవస్థాపకుడి సలహా సోషల్ మీడియాను ఆకట్టుకుంది",
-      "summary_te": "బెంగళూరు: డ్రికిల్ సహ వ్యవస్థాపకుడు వర్ధమాన్ జైన్ వ్యాపారాన్ని నిర్మించడంలో మానసిక మరియు ఆర్థిక సవాళ్లను హైలైట్ చేస్తూ వ్యవస్థాపక ప్రయాణం గురించి అంతర్దృష్టులను పంచుకున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "ba7cc8630eee0fa029fd1fc6f8c90596",
-      "title": "India pushes WTO to formalise technology transfer commitments ahead of 14th Ministerial Conference",
-      "summary": "In a new draft declaration for the upcoming MC14, New Delhi has called for a time-bound roadmap to institutionalize the transfer of advanced technologies, such as semiconductors and green tech, to help developing nations compete in global trade.",
-      "url": "https://www.livemint.com/news/india/wto-ministerial-conference-india-wto-proposal-11772547015853.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/03/1600x900/logo/FILES-SWITZERLAND-WTO-TRADE-DIPLOMACY-1_1772550448914_1772550474176.jpg",
-      "published_at": "2026-03-04T01:30:46.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "14వ మంత్రివర్గ సమావేశానికి ముందు సాంకేతికత బదిలీ కట్టుబాట్లను లాంఛనప్రాయంగా మార్చడానికి భారతదేశం WTOను ముందుకు తెస్తుంది",
-      "summary_te": "రాబోయే MC14 కోసం ఒక కొత్త డ్రాఫ్ట్ డిక్లరేషన్‌లో, అభివృద్ధి చెందుతున్న దేశాలు ప్రపంచ వాణిజ్యంలో పోటీపడటానికి సహాయపడటానికి సెమీకండక్టర్స్ మరియు గ్రీన్ టెక్ వంటి అధునాతన సాంకేతిక పరిజ్ఞానాల బదిలీని సంస్థాగతీకరించడానికి సమయ-బౌండ్ రోడ్‌మ్యాప్‌కు న్యూ ఢిల్లీ పిలుపునిచ్చింది.",
-      "translated": true
-    },
-    {
       "id": "e76e1e0966ae2b2ea210c1106c0c03d9",
       "title": "Stock Market Holiday: Are NSE, BSE open or closed today on March 4?",
       "summary": "Indian stock markets, NSE and BSE, resumed normal trading on Wednesday, March 4, following the Holi holiday observed on March 3. This comes amidst heightened geopolitical tensions in the Middle East, which have unsettled global markets and led to a surge in crude oil prices, impacting Indian equities.",
@@ -421,7 +421,7 @@
       "category": "business",
       "language": "en",
       "title_te": "FPIలు 4 నెలల్లో అతిపెద్ద రోజువారీ ఉపసంహరణతో మార్చిని ప్రారంభిస్తాయి",
-      "summary_te": "విదేశీ పెట్టుబడిదారులు మార్చి 2న భారతీయ ఈక్విటీల నుండి గణనీయమైన $751.4 మిలియన్లను ఉపసంహరించుకున్నారు, ఫిబ్రవరిలో బలమైన ఇన్‌ఫ్లో ముగిసింది. మిడిల్ ఈస్ట్ ఉద్రిక్తతలను పెంచడం ద్వారా నడిచే ఈ తిరోగమనం, విదేశీ నిధుల ప్రవాహాల కోసం జాగ్రత్తగా సమీప-కాల దృక్పథాన్ని సూచిస్తుంది. అయినప్పటికీ, FY26లో మొత్తం FPI అమ్మకాలు మునుపటి సంవత్సరం కంటే తక్కువగా ఉన్నాయి, ఇది భారతీయ మార్కెట్లకు మరింత కొలిచిన విధానాన్ని సూచిస్తుంది.",
+      "summary_te": "విదేశీ పెట్టుబడిదారులు మార్చి 2న భారతీయ ఈక్విటీల నుండి గణనీయమైన $751.4 మిలియన్లను వెనక్కి తీసుకున్నారు, ఫిబ్రవరిలో బలమైన ఇన్‌ఫ్లోను ముగించారు. మిడిల్ ఈస్ట్ ఉద్రిక్తతలను పెంచడం ద్వారా నడిచే ఈ తిరోగమనం, విదేశీ నిధుల ప్రవాహాల కోసం జాగ్రత్తగా సమీప-కాల దృక్పథాన్ని సూచిస్తుంది. అయినప్పటికీ, FY26లో మొత్తం FPI అమ్మకాలు మునుపటి సంవత్సరం కంటే తక్కువగా ఉన్నాయి, ఇది భారతీయ మార్కెట్లకు మరింత కొలిచిన విధానాన్ని సూచిస్తుంది.",
       "translated": true
     },
     {
