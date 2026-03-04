@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-04T01:09:08.447Z",
-  "updated_at_IST": "4/3/2026, 6:39:08 am",
+  "updated_at": "2026-03-04T03:31:36.860Z",
+  "updated_at_IST": "4/3/2026, 9:01:36 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "84c30aac7cedbcd8895461de829e303a",
+      "title": "Zimbabwe, West Indies delayed from returning home following West Asia airspace closure",
+      "summary": "ESPNcricinfo understands Zimbabwe were to return home on Emirates flights on Monday, which would take them from Delhi to Dubai to Harare",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526457.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414291.jpg",
+      "published_at": "2026-03-04T03:00:00.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా గగనతలం మూసివేత కారణంగా జింబాబ్వే, వెస్టిండీస్ స్వదేశానికి తిరిగి రావడం ఆలస్యమైంది",
+      "summary_te": "జింబాబ్వే సోమవారం ఎమిరేట్స్ విమానాలలో స్వదేశానికి తిరిగి రావాలని ESPNcricinfo అర్థం చేసుకుంది, అది వారిని ఢిల్లీ నుండి దుబాయ్‌కి హరారేకు తీసుకువెళుతుంది.",
+      "translated": true
+    },
     {
       "id": "827c25bdc69e9deabe6697861e311675",
       "title": "John Blain reinstated to Cricket Scotland Hall of Fame",
@@ -85,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
+      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
       "translated": true
     },
     {
@@ -184,20 +198,6 @@
       "language": "en",
       "title_te": "T20 ప్రపంచ కప్ నిష్క్రమణ తర్వాత హెడ్, గ్రీన్, ఇంగ్లిస్ షీల్డ్ తిరిగి రావడానికి సిద్ధంగా ఉన్నారు",
       "summary_te": "కొన్నోలీ, రెన్‌షా, బార్ట్‌లెట్, అబాట్, కుహ్నెమాన్ అందరూ T20 ప్రపంచ కప్ నిష్క్రమణ తర్వాత షీల్డ్‌కు తిరిగి వస్తారు కానీ స్టీవ్ స్మిత్ అందుబాటులో లేడు",
-      "translated": true
-    },
-    {
-      "id": "84c30aac7cedbcd8895461de829e303a",
-      "title": "Zimbabwe, West Indies delayed from returning home following West Asia airspace closure",
-      "summary": "ESPNcricinfo understands Zimbabwe were to return home on Emirates flights on Monday, which would take them from Delhi to Dubai to Harare",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526457.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414291.jpg",
-      "published_at": "2026-03-02T20:05:50.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా గగనతలం మూసివేత కారణంగా జింబాబ్వే, వెస్టిండీస్ స్వదేశానికి తిరిగి రావడం ఆలస్యమైంది",
-      "summary_te": "జింబాబ్వే సోమవారం ఎమిరేట్స్ విమానాలలో స్వదేశానికి తిరిగి రావాలని ESPNcricinfo అర్థం చేసుకుంది, అది వారిని ఢిల్లీ నుండి దుబాయ్‌కి హరారేకు తీసుకువెళుతుంది.",
       "translated": true
     },
     {
