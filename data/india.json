@@ -1,9 +1,177 @@
 {
-  "updated_at": "2026-03-04T07:44:26.787Z",
-  "updated_at_IST": "4/3/2026, 1:14:26 pm",
+  "updated_at": "2026-03-04T08:37:50.803Z",
+  "updated_at_IST": "4/3/2026, 2:07:50 pm",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "655fee1b126f3ca0617d064c2b55ee46",
+      "title": "Infiltration foiled along LoC in J&K’s Rajouri, says Army; search operation on",
+      "summary": "Suspected persons were observed trying to sneak into this side from the Turkandi forward area around 4.15 a.m., prompting the army to open fire, the officials said",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-rajouri-infiltration-bid-foiled-army-search-operation/article70702648.ece",
+      "image": "https://th-i.thgim.com/public/incoming/85qt4h/article70702671.ece/alternates/LANDSCAPE_1200/20260125241L.jpg",
+      "published_at": "2026-03-04T08:12:48.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "J&K రాజౌరిలో నియంత్రణ రేఖ వెంబడి చొరబాటు విఫలమైందని సైన్యం తెలిపింది; శోధన ఆపరేషన్ ఆన్‌లో ఉంది",
+      "summary_te": "తెల్లవారుజామున 4.15 గంటల ప్రాంతంలో తుర్కండి ఫార్వర్డ్ ఏరియా నుంచి అనుమానాస్పద వ్యక్తులు ఇటువైపు చొరబడేందుకు ప్రయత్నించడం గమనించిన సైన్యం కాల్పులు జరిపిందని అధికారులు తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "a62e5faa151238d508fe7c49629bc819",
+      "title": "Over 1.5 lakh metro-linked Rapido rides booked everyday; more than a million rides per day in Hyderabad",
+      "summary": "Ride-hailing platform Rapido on Tuesday (March 3, 2026) stated that the company clocked more than 1.5 lakh rides linked to Metro Stations. In a press release, Rapido stated that Hyderabad each day witnesses more than a million rides per day, and that it positions them as one of the most active digital layers supporting Hyderabad’s public transport network.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/over-15-lakh-metro-linked-rapido-rides-booked-everyday-more-than-a-million-rides-per-day-in-hyderabad/article70699639.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5q0fmt/article70702669.ece/alternates/LANDSCAPE_1200/hykvg-bikes__1_.jpg",
+      "published_at": "2026-03-04T08:11:32.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రతిరోజూ 1.5 లక్షలకు పైగా మెట్రో-లింక్డ్ రాపిడో రైడ్‌లు బుక్ చేయబడతాయి; హైదరాబాద్‌లో రోజుకు లక్షకు పైగా రైడ్‌లు",
+      "summary_te": "రైడ్-హెయిలింగ్ ప్లాట్‌ఫారమ్ రాపిడో మంగళవారం (మార్చి 3, 2026) మెట్రో స్టేషన్‌లకు అనుసంధానించబడిన 1.5 లక్షల కంటే ఎక్కువ రైడ్‌లను కంపెనీ క్లాక్ చేసిందని పేర్కొంది. ఒక పత్రికా ప్రకటనలో, రాపిడో హైదరాబాద్‌లో ప్రతి రోజు రోజుకు మిలియన్ కంటే ఎక్కువ రైడ్‌లు జరుగుతాయని మరియు వాటిని హైదరాబాద్ పబ్లిక్ ట్రాన్స్‌పోర్ట్ నెట్‌వర్క్‌కు మద్దతు ఇచ్చే అత్యంత చురుకైన డిజిటల్ లేయర్‌లలో ఒకటిగా ఉంచుతుందని పేర్కొంది.",
+      "translated": true
+    },
+    {
+      "id": "356eae8f95f586d2398d0ddd7c761a42",
+      "title": "Solve confusion in delivering postal items addressed to the dead: Madras High Court directs India Post",
+      "summary": "Chief Justice Manindra Mohan Shrivastava’s bench also orders that the postal items must be handed over to legal heirs present in the residence of the deceased until the DGPS takes a call",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/solve-confusion-in-delivering-postal-items-addressed-to-the-dead-madras-high-court-directs-india-post/article70702349.ece",
+      "image": "https://th-i.thgim.com/public/incoming/m08a9j/article70702613.ece/alternates/LANDSCAPE_1200/_post_office_Arasaradi___1_.jpg",
+      "published_at": "2026-03-04T08:09:35.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "మృతులకు సంబంధించిన తపాలా వస్తువులను పంపిణీ చేయడంలో గందరగోళాన్ని పరిష్కరించండి: మద్రాస్ హైకోర్టు ఇండియా పోస్ట్‌ను ఆదేశించింది",
+      "summary_te": "డీజీపీఎస్‌కు ఫోన్ చేసేంత వరకు తపాలా వస్తువులను మృతుడి నివాసంలో ఉన్న చట్టబద్ధమైన వారసులకు అందజేయాలని కూడా చీఫ్‌ జస్టిస్‌ మణీంద్ర మోహన్‌ శ్రీవాస్తవ ధర్మాసనం ఆదేశించింది.",
+      "translated": true
+    },
+    {
+      "id": "acfa15baa24117081824cb56c9df4b68",
+      "title": "Petronet LNG shares tumble 12% after Qatar production halt reports",
+      "summary": "Petronet LNG shares plummeted nearly 12% after reports of Qatar declaring force majeure on natural gas supplies due to an Iranian drone strike. This production halt has led to significant supply cuts for Indian industries, impacting sectors reliant on gas imports. The disruption also affected other gas distributors and is driving up global energy prices.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/petronet-lng-shares-tumbles-12-after-qatar-production-halt-reports/articleshow/129013395.cms",
+      "image": "https://static.toiimg.com/photo/msid-129014700,imgsize-38376.cms",
+      "published_at": "2026-03-04T08:07:05.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఖతార్ ఉత్పత్తి ఆగిపోయిన నివేదికల తర్వాత పెట్రోనెట్ LNG షేర్లు 12% పడిపోయాయి",
+      "summary_te": "ఇరానియన్ డ్రోన్ స్ట్రైక్ కారణంగా సహజ వాయువు సరఫరాపై ఖతార్ ఫోర్స్ మేజర్‌ను ప్రకటించిన తర్వాత పెట్రోనెట్ LNG షేర్లు దాదాపు 12% క్షీణించాయి. ఈ ఉత్పత్తి ఆగిపోవడం భారత పరిశ్రమలకు గణనీయమైన సరఫరా కోతలకు దారితీసింది, గ్యాస్ దిగుమతులపై ఆధారపడిన రంగాలపై ప్రభావం చూపింది. అంతరాయం ఇతర గ్యాస్ పంపిణీదారులను కూడా ప్రభావితం చేసింది మరియు ప్రపంచ ఇంధన ధరలను పెంచుతోంది.",
+      "translated": true
+    },
+    {
+      "id": "b7a394d8d0aef43f92cd03bc7e38650f",
+      "title": "Software employee found dead in parked car near ORR; case registered",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/software-employee-found-dead-in-parked-car-near-orr-case-registered/article70700268.ece",
+      "image": "https://th-i.thgim.com/public/incoming/os0609/article70702652.ece/alternates/LANDSCAPE_1200/No-Parking-on-G6EF3OATH.3.jpg.jpg",
+      "published_at": "2026-03-04T08:00:09.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ORR సమీపంలో పార్క్ చేసిన కారులో సాఫ్ట్‌వేర్ ఉద్యోగి శవమై కనిపించాడు; కేసు నమోదు",
+      "summary_te": "",
+      "translated": true
+    },
+    {
+      "id": "04c2b3c1bc9fd51ddd7639f19d3d4f36",
+      "title": "500 million and counting! T20 World Cup 2026 shatters viewership records in India",
+      "summary": "The ICC T20 World Cup 2026 has shattered viewership records in India, attracting over 500 million fans, the highest ever for the tournament. This milestone, celebrated by ICC chairman Jay Shah, highlights the event's global and accessible vision. Digital engagement also soared, with JioHotstar peaking at 60.5 million concurrent viewers as the tournament heads into its knockout stages.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/500-million-and-counting-t20-world-cup-2026-shatters-viewership-records-in-india/articleshow/129013937.cms",
+      "image": "https://static.toiimg.com/photo/msid-129014056,imgsize-75100.cms",
+      "published_at": "2026-03-04T07:50:48.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "500 మిలియన్లు మరియు లెక్కింపు! T20 ప్రపంచ కప్ 2026 భారతదేశంలో వీక్షకుల రికార్డులను బద్దలు కొట్టింది",
+      "summary_te": "ICC T20 ప్రపంచ కప్ 2026 భారతదేశంలో వీక్షకుల రికార్డులను బద్దలు కొట్టింది, 500 మిలియన్లకు పైగా అభిమానులను ఆకర్షించింది, ఇది టోర్నమెంట్‌లో ఎన్నడూ లేనిది. ఈ మైలురాయిని ICC ఛైర్మన్ జే షా జరుపుకున్నారు, ఈవెంట్ యొక్క ప్రపంచ మరియు ప్రాప్యత దృష్టిని హైలైట్ చేస్తుంది. టోర్నమెంట్ నాకౌట్ దశకు చేరుకోవడంతో జియోహాట్‌స్టార్ ఏకకాల వీక్షకులను 60.5 మిలియన్లకు చేరుకోవడంతో డిజిటల్ ఎంగేజ్‌మెంట్ కూడా పెరిగింది.",
+      "translated": true
+    },
+    {
+      "id": "a9fbca140b5c202c82b75154de7f319c",
+      "title": "Farmer in Kerala’s Wayanad dies in suspected elephant attack",
+      "summary": "According to local residents, the victim had gone to drive off an elephant that had entered his farm. However, as he did not return, they checked and found him lying on the ground with elephant footprints around him",
+      "url": "https://www.thehindu.com/news/national/kerala/farmer-in-keralas-wayanad-dies-in-suspected-elephant-attack/article70702622.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/8608mn/article70702628.ece/alternates/LANDSCAPE_1200/Breaking%20News%20placeholder.jpeg",
+      "published_at": "2026-03-04T07:49:29.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కేరళలోని వాయనాడ్‌లో ఏనుగుల దాడిలో ఓ రైతు మృతి చెందాడు",
+      "summary_te": "స్థానికులు తెలిపిన వివరాల ప్రకారం.. తన పొలంలోకి వచ్చిన ఏనుగును తరిమికొట్టేందుకు బాధితుడు వెళ్లాడు. అయినా అతను తిరిగి రాకపోవడంతో తనిఖీ చేయగా ఏనుగు పాదముద్రలతో నేలపై పడి ఉన్నట్టు గుర్తించారు.",
+      "translated": true
+    },
+    {
+      "id": "2bad88b453b5a9513c444db4bcf17432",
+      "title": "From record highs to 13% fall: How Middle East crisis hit South Korean benchmark Kospi",
+      "summary": "South Korea's Kospi index experienced a dramatic 12% tumble, triggering a trading suspension after a significant sell-off led by market heavyweights. This sharp decline follows a previous session's fall amid escalating Middle East tensions, raising questions about whether it's a pause or a turning point for the AI-fueled rally.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/from-record-highs-to-13-fall-how-middle-east-crisis-hit-south-korean-benchmark-kospi-tumbled-down/articleshow/129009095.cms",
+      "image": "https://static.toiimg.com/photo/msid-129013755,imgsize-2081308.cms",
+      "published_at": "2026-03-04T07:44:28.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "రికార్డు గరిష్ట స్థాయి నుండి 13% పతనం: మధ్యప్రాచ్య సంక్షోభం దక్షిణ కొరియా బెంచ్‌మార్క్ కోస్పిని ఎలా తాకింది",
+      "summary_te": "దక్షిణ కొరియా యొక్క కోస్పి ఇండెక్స్ నాటకీయంగా 12% పతనాన్ని చవిచూసింది, మార్కెట్ హెవీవెయిట్‌ల నేతృత్వంలోని గణనీయమైన అమ్మకాల తర్వాత ట్రేడింగ్ సస్పెన్షన్‌ను ప్రేరేపించింది. మిడిల్ ఈస్ట్ ఉద్రిక్తతల మధ్య మునుపటి సెషన్ పతనం తర్వాత ఈ పదునైన క్షీణత ఏర్పడింది, ఇది AI- ఇంధన ర్యాలీకి విరామం లేదా మలుపు అనే ప్రశ్నలను లేవనెత్తింది.",
+      "translated": true
+    },
+    {
+      "id": "f84398f0edda0f8f1f3f5a8f5e8f931c",
+      "title": "Kerala private sector nurses go on strike; services at 490 hospitals and clinics hit",
+      "summary": "They seek higher pay, improved staffing levels to reduce workload, better patient-caregiver ratio and end to alleged arbitrary lay-offs",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-private-sector-nurses-go-on-strike-services-at-490-hospitals-and-clinics-hit/article70702332.ece",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/fyxxbk/article70702604.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%2013.04.51.jpeg",
+      "published_at": "2026-03-04T07:42:08.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కేరళ ప్రైవేట్ రంగ నర్సులు సమ్మెకు దిగారు; 490 ఆసుపత్రులు మరియు క్లినిక్‌లలో సేవలు దెబ్బతిన్నాయి",
+      "summary_te": "వారు అధిక వేతనం, పనిభారాన్ని తగ్గించడానికి మెరుగైన సిబ్బంది స్థాయిలు, మెరుగైన రోగి-సంరక్షకుల నిష్పత్తి మరియు ఆరోపించిన ఏకపక్ష తొలగింపులను ముగించాలని కోరుకుంటారు.",
+      "translated": true
+    },
+    {
+      "id": "dfd230f78e98b6cc2800ed88ab29ae78",
+      "title": "T.N. CM Stalin slams BJP govt. at Centre for use of Hindi names in Tamil, English scripts",
+      "summary": "Taking strong objection to the practice of writing Hindi names even in Tamil and English instead of using appropriate terms in the respective languages, Mr. Stalin, in a post on X, described the practice as “one language – three scripts” and said it was a form of Hindi imposition.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-slams-bjp-govt-at-centre-for-use-of-hindi-names-in-tamil-english-scripts/article70702513.ece",
+      "image": "https://th-i.thgim.com/public/incoming/6t7p9/article70702599.ece/alternates/LANDSCAPE_1200/Untitled%20design%2016.png",
+      "published_at": "2026-03-04T07:39:01.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "టి.ఎన్. బీజేపీ ప్రభుత్వంపై సీఎం స్టాలిన్‌ మండిపడ్డారు. తమిళం, ఇంగ్లీషు స్క్రిప్ట్‌లలో హిందీ పేర్లను ఉపయోగించడం కోసం కేంద్రంలో",
+      "summary_te": "సంబంధిత భాషలలో తగిన పదాలను ఉపయోగించకుండా తమిళం మరియు ఇంగ్లీషులో కూడా హిందీ పేర్లను రాయడం పట్ల తీవ్ర అభ్యంతరం వ్యక్తం చేస్తూ, Mr. స్టాలిన్, X లో ఒక పోస్ట్‌లో, ఈ అభ్యాసాన్ని \"ఒక భాష - మూడు లిపిలు\" అని అభివర్ణించారు మరియు ఇది ఒక రకమైన హిందీ విధింపు అని అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "5bddd5d0113664b430576e259eaaf143",
+      "title": "India sets up control room, issues helpline number amid Middle East crisis",
+      "summary": "Amid escalating West Asia tensions, India's Ministry of External Affairs has established a special control room to assist its citizens residing in the region. The government is closely monitoring the evolving situation and remains in contact with regional governments and international partners to ensure the safety of nearly one crore Indians living there.",
+      "url": "https://timesofindia.indiatimes.com/india/india-sets-up-control-room-issues-helpline-number-amid-middle-east-crisis/articleshow/129013159.cms",
+      "image": "https://static.toiimg.com/photo/msid-129013372,imgsize-1093807.cms",
+      "published_at": "2026-03-04T07:36:23.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ సంక్షోభం మధ్య భారతదేశం కంట్రోల్ రూమ్‌ను ఏర్పాటు చేసింది, హెల్ప్‌లైన్ నంబర్‌ను జారీ చేస్తుంది",
+      "summary_te": "పశ్చిమాసియా ఉద్రిక్తతల మధ్య, భారత విదేశాంగ మంత్రిత్వ శాఖ ఈ ప్రాంతంలో నివసిస్తున్న పౌరులకు సహాయం చేయడానికి ప్రత్యేక కంట్రోల్ రూమ్‌ను ఏర్పాటు చేసింది. ప్రభుత్వం అభివృద్ధి చెందుతున్న పరిస్థితిని నిశితంగా పరిశీలిస్తోంది మరియు అక్కడ నివసిస్తున్న దాదాపు కోటి మంది భారతీయుల భద్రతను నిర్ధారించడానికి ప్రాంతీయ ప్రభుత్వాలు మరియు అంతర్జాతీయ భాగస్వాములతో సంప్రదింపులు జరుపుతోంది.",
+      "translated": true
+    },
+    {
+      "id": "b0c1773e03d570aca44d8cb6543fa4c3",
+      "title": "Why is the Indian rupee at record low today, and what's next amid Iran-US war",
+      "summary": "The biggest trigger for the rupee’s fall has been the surge in crude oil prices. Brent crude climbed above $82 per barrel after jumping 12% in just two days.",
+      "url": "https://www.hindustantimes.com/india-news/why-is-the-indian-rupee-at-record-low-today-and-whats-next-amid-iran-us-war-101772607440430.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/04/1600x900/logo/Rupee_Iran_US_war_1772609562164_1772609571059.png",
+      "published_at": "2026-03-04T07:35:08.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఈ రోజు భారత రూపాయి ఎందుకు రికార్డు స్థాయికి పడిపోయింది మరియు ఇరాన్-యుఎస్ యుద్ధం మధ్య తదుపరి ఏమిటి",
+      "summary_te": "రూపాయి పతనానికి అతిపెద్ద ట్రిగ్గర్ ముడి చమురు ధరల పెరుగుదల. బ్రెంట్ క్రూడ్ కేవలం రెండు రోజుల్లో 12% జంప్ చేసిన తర్వాత బ్యారెల్‌కు $82 పైన పెరిగింది.",
+      "translated": true
+    },
     {
       "id": "d0371383feca034ba71594f8fef2a1f5",
       "title": "Rajya Sabha tangle: Negotiation continues in MVA, BJP issues list of four candidates",
@@ -16,6 +184,20 @@
       "language": "en",
       "title_te": "రాజ్యసభ చిక్కు: ఎంవీఏలో చర్చలు కొనసాగుతున్నాయి, బీజేపీ నలుగురు అభ్యర్థుల జాబితాను విడుదల చేసింది",
       "summary_te": "రాష్ట్ర కాంగ్రెస్ నాయకత్వం రాజ్యసభ స్థానాన్ని తమకే కేటాయించాలని కోరుతోంది, అయితే పలువురు నాయకులు ది హిందూతో మాట్లాడుతూ, శరద్ పవార్ పోటీ చేయాలని నిర్ణయించుకుంటే వారు మద్దతు ఇవ్వాల్సి ఉంటుందని చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "e8eb0efccf8370e4fadcd5f74b0742e9",
+      "title": "Consulate, CIA station and military base: Iran attacks US assets in Middle East",
+      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.Read More Russia USA USA Russia France India N. Korea Russia China India India India India India",
+      "url": "https://timesofindia.indiatimes.com/defence/international/consulate-cia-station-and-military-base-iran-attacks-us-assets-in-middle-east/articleshow/129012832.cms",
+      "image": "https://static.toiimg.com/photo/msid-129012812,imgsize-264728.cms",
+      "published_at": "2026-03-04T07:22:40.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "కాన్సులేట్, CIA స్టేషన్ మరియు సైనిక స్థావరం: ఇరాన్ మిడిల్ ఈస్ట్‌లోని US ఆస్తులపై దాడి చేసింది",
+      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. ఖండాంతరాల ప్రయాణంలో మాతో చేరండి",
       "translated": true
     },
     {
@@ -103,8 +285,22 @@
       "translated": true
     },
     {
+      "id": "15e4b03369740b88d27bf73618ebda7b",
+      "title": "India sets up control room to assist nationals in Middle East | Full List of embassies, emergency contacts",
+      "summary": "The government shared a list of India's embassies in different countries in the Middle East, alongside different emergency contact details for Indians.",
+      "url": "https://www.hindustantimes.com/india-news/india-sets-up-control-room-to-assist-nationals-in-middle-east-full-list-of-embassies-emergency-contacts-101772606497692.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/04/1600x900/logo/ANI-20260303438-0_1772606606768_1772606627387.jpg",
+      "published_at": "2026-03-04T07:11:34.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "మధ్యప్రాచ్యంలోని జాతీయులకు సహాయం చేయడానికి భారతదేశం కంట్రోల్ రూమ్‌ను ఏర్పాటు చేసింది | రాయబార కార్యాలయాలు, అత్యవసర పరిచయాల పూర్తి జాబితా",
+      "summary_te": "భారతీయుల కోసం వివిధ అత్యవసర సంప్రదింపు వివరాలతో పాటు మధ్యప్రాచ్యంలోని వివిధ దేశాల్లోని భారత రాయబార కార్యాలయాల జాబితాను ప్రభుత్వం పంచుకుంది.",
+      "translated": true
+    },
+    {
       "id": "1653a910f5861e8b388e4559ac9d069c",
-      "title": "Kashmir tense over Khamenei's killing: Meta blocks media pages, MP booked for ‘misleading content’",
+      "title": "Kashmir protests over Khamenei’s killing: Meta blocks newspapers, MP booked for ‘misleading content’",
       "summary": "Following protests over Iran's supreme leader's death, Jammu and Kashmir schools closed until March 7. Meta blocked local newspaper accounts, drawing criticism for censorship. Authorities registered cases against political figures for allegedly spreading misleading content, while the LG urged calm amidst ongoing demonstrations.",
       "url": "https://timesofindia.indiatimes.com/city/srinagar/kashmir-tense-over-ayatollah-khameneis-killing-meta-blocks-media-pages-mp-ruhullah-mehdi-booked-for-misleading-content/articleshow/129012105.cms",
       "image": "https://static.toiimg.com/photo/msid-129012188,imgsize-114374.cms",
@@ -112,7 +308,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఖమేనీ హత్యతో కాశ్మీర్ ఉద్రిక్తత: మీడియా పేజీలను మెటా బ్లాక్ చేసింది, 'తప్పుదారి పట్టించే కంటెంట్' కోసం ఎంపీపై కేసు నమోదు",
+      "title_te": "ఖమేనీ హత్యపై కాశ్మీర్ నిరసనలు: వార్తాపత్రికలను మెటా బ్లాక్ చేసింది, 'తప్పుదోవ పట్టించే కంటెంట్' కోసం ఎంపీపై కేసు నమోదు చేయబడింది",
       "summary_te": "ఇరాన్ అత్యున్నత నాయకుడి మరణంపై నిరసనల తరువాత, జమ్మూ మరియు కాశ్మీర్ పాఠశాలలు మార్చి 7 వరకు మూసివేయబడ్డాయి. మెటా స్థానిక వార్తాపత్రిక ఖాతాలను బ్లాక్ చేసింది, సెన్సార్‌షిప్ కోసం విమర్శలను అందుకుంది. తప్పుదోవ పట్టించే కంటెంట్‌ను వ్యాప్తి చేశారనే ఆరోపణలపై రాజకీయ ప్రముఖులపై అధికారులు కేసులు నమోదు చేశారు, అయితే కొనసాగుతున్న ప్రదర్శనల మధ్య ప్రశాంతంగా ఉండాలని LG కోరారు.",
       "translated": true
     },
@@ -187,20 +383,6 @@
       "translated": true
     },
     {
-      "id": "edf4fa989ee5c07a2a534c5269e08b80",
-      "title": "WhatsApp number to report road accidents and accident hotspots in Telangana",
-      "summary": "Schemes and policies which are focus areas of Telangana government and issues which have been troubling people came up for discussions during the Chief Minister A. Revanth Reddy’s meeting with Collectors, Secretaries of various departments and other senior officials in Hyderabad on Tuesday (March 3, 2026). Besides the implementation 99-day programme ‘Praja Palana - Pragatiki Pranalika’, other aspects which were discussed included food poisoning at government schools, implementation and leakages in welfare schemes, concerns of farmers about urea and profits from crop cultivation, road safety including accident spots, bogus employees records created by outsourcing companies.Key directions to Collectors and other officials99-day action plan to be implemented in five phases, under 10 themes, from March 6 to June 2",
-      "url": "https://www.thehindu.com/news/national/telangana/10-themes-of-99-day-action-plan-whatsapp-number-to-report-road-accidents-and-accident-hotspots/article70702218.ece",
-      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/f2n2ra/article70702216.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-03%20at%205.11.35%20PM.jpeg",
-      "published_at": "2026-03-04T06:50:36.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "తెలంగాణలో రోడ్డు ప్రమాదాలు మరియు ప్రమాద హాట్‌స్పాట్‌లను నివేదించడానికి వాట్సాప్ నంబర్",
-      "summary_te": "మంగళవారం (మార్చి 3, 2026) హైదరాబాద్‌లో కలెక్టర్లు, వివిధ శాఖల కార్యదర్శులు, ఇతర ఉన్నతాధికారులతో ముఖ్యమంత్రి ఎ. రేవంత్‌రెడ్డి నిర్వహించిన సమావేశంలో తెలంగాణ ప్రభుత్వం దృష్టి కేంద్రీకరించే పథకాలు, విధానాలు, ప్రజలను ఇబ్బందులకు గురిచేస్తున్న అంశాలు చర్చకు వచ్చాయి. 99 రోజుల ‘ప్రజాపాలన - ప్రగతికి ప్రాణాలిక’ కార్యక్రమంతో పాటు ప్రభుత్వ పాఠశాలల్లో ఫుడ్‌ పాయిజనింగ్‌, సంక్షేమ పథకాల అమలు, లీకేజీలు, యూరియా, పంటల సాగులో లాభాలపై రైతుల ఆందోళన, రోడ్డు భద్రత, ఔట్‌సోర్సింగ్‌ కంపెనీలు సృష్టించిన బోగస్‌ రికార్డులు తదితర అంశాలపై చర్చించారు. థీమ్స్, మార్చి 6 నుండి జూన్ 2 వరకు",
-      "translated": true
-    },
-    {
       "id": "bb01d214f65a835b080dd89a476a78ff",
       "title": "State-level training on child-friendly society begins at Central University of Karnataka",
       "summary": "Around 55 participants from 31 districts of Karnataka are taking part in the training",
@@ -240,20 +422,6 @@
       "language": "en",
       "title_te": "మల్లికార్జున్ ముత్యా పోక్సో కేసులో మైనర్ బాలిక వీడియో లేదా ఫోటోను షేర్ చేస్తే కర్ణాటకలోని యాద్గిర్ పోలీసులు చట్టపరమైన చర్యలు తీసుకుంటారు.",
       "summary_te": "మైనర్ బాలిక సమాచారం లేదా ఫోటోలు లేదా వీడియోలను పంచుకోవడం మరియు అప్‌లోడ్ చేయడం మరియు వారి ఫోటోలను పోస్ట్ చేయడం ద్వారా ఆమె తల్లిదండ్రులను గుర్తించడం చట్టవిరుద్ధమని పోలీసు సూపరింటెండెంట్ ప్రుత్విక్ శంకర్ తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "f84398f0edda0f8f1f3f5a8f5e8f931c",
-      "title": "Kerala private sector nurses go on strike; services at 490 hospitals and clinics hit",
-      "summary": "They seek higher pay, improved staffing levels to reduce workload, better patient-caregiver ratio and end to alleged arbitrary lay-offs",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-private-sector-nurses-go-on-strike-services-at-490-hospitals-and-clinics-hit/article70702332.ece",
-      "image": "https://th-i.thgim.com/public/incoming/s94jhb/article70702356.ece/alternates/LANDSCAPE_1200/80688_21_2_2026_19_30_48_3_UNA_KKN3.JPG",
-      "published_at": "2026-03-04T06:39:39.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేరళ ప్రైవేట్ రంగ నర్సులు సమ్మెకు దిగారు; 490 ఆసుపత్రులు మరియు క్లినిక్‌లలో సేవలు దెబ్బతిన్నాయి",
-      "summary_te": "వారు అధిక వేతనం, పనిభారాన్ని తగ్గించడానికి మెరుగైన సిబ్బంది స్థాయిలు, మెరుగైన రోగి-సంరక్షకుల నిష్పత్తి మరియు ఆరోపించిన ఏకపక్ష తొలగింపులను ముగించాలని కోరుకుంటారు.",
       "translated": true
     },
     {
@@ -369,6 +537,20 @@
       "translated": true
     },
     {
+      "id": "d05da99c9a3726c68d474977003a3cb5",
+      "title": "Bhojshala dispute: Historical records, ASI findings, full timeline and what comes next",
+      "summary": "The Bhojshala complex in Dhar, simultaneously known as a temple and mosque, remains a site of intense communal dispute. A recent 2,189-page ASI survey, intended to settle claims, has instead intensified the debate. The structure, built from reused temple materials, has seen centuries of conflicting religious use and legal battles.",
+      "url": "https://timesofindia.indiatimes.com/legal/news/in-depth-explanation-of-bhojshala-dispute-historical-records-asi-findings-full-timeline-and-what-comes-next/articleshow/129008888.cms",
+      "image": "https://static.toiimg.com/photo/msid-129010072,imgsize-73928.cms",
+      "published_at": "2026-03-04T06:26:03.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "భోజ్‌శాల వివాదం: చారిత్రక రికార్డులు, ASI అన్వేషణలు, పూర్తి కాలక్రమం మరియు తదుపరిది",
+      "summary_te": "ధార్‌లోని భోజ్‌షాలా కాంప్లెక్స్, ఏకకాలంలో దేవాలయం మరియు మసీదుగా పిలువబడుతుంది, ఇది తీవ్రమైన మత వివాదాల ప్రదేశంగా మిగిలిపోయింది. క్లెయిమ్‌లను పరిష్కరించేందుకు ఉద్దేశించిన ఇటీవలి 2,189 పేజీల ASI సర్వే చర్చను మరింత తీవ్రతరం చేసింది. పునర్వినియోగపరచబడిన ఆలయ సామాగ్రితో నిర్మించిన ఈ నిర్మాణం శతాబ్దాల విరుద్ధమైన మతపరమైన ఉపయోగం మరియు న్యాయ పోరాటాలను చూసింది.",
+      "translated": true
+    },
+    {
       "id": "579d47369c2e38db54e51b42490ae104",
       "title": "EmpowHer 1.0 to help over 6,000 women entrepreneurs in Tamil Nadu",
       "summary": "The inaugural cohort comprises 160 aspiring women entrepreneurs from Chennai, Kancheepuram, Chengalpattu, and Tiruvallur",
@@ -481,20 +663,6 @@
       "translated": true
     },
     {
-      "id": "eb15afe7af0c614515b5f21d97c9aa2b",
-      "title": "NGO celebrates eco-friendly Holi with less privileged children in Warangal",
-      "summary": "Holi festivities at Sri Vyasa Avasam, home for the less privileged, took on a greener, more responsible hue this year as Sulakshya Seva Samithi, an NGO, celebrated the festival with children from disadvantaged homes on Tuesday, highlighting the importance of eco-friendly practices.In keeping with their commitment to sustainable celebrations, the NGO used only natural, chemical-free colours, ensuring that the event was both joyful and safe for the children as well as the environment. Volunteers said the initiative was aimed at promoting a culture of responsible festivities, especially among the younger generation.“Holi is usually celebrated with our families and friends but spending it with these children gives the festival real meaning,” said Santhosh Manduva, founder and president of Sulakshya Seva Samithi. “For 15 years, we have celebrated with them and with natural colours. Their excitement begins early in the morning as they wait at the gate. The smiles that greet us when we arrive with are truly priceless,” he added.",
-      "url": "https://www.thehindu.com/news/national/telangana/ngo-celebrates-eco-friendly-holi-with-less-privileged-children-in-warangal/article70699988.ece",
-      "image": "https://th-i.thgim.com/public/incoming/rsqy8j/article70699955.ece/alternates/LANDSCAPE_1200/HOLI.JPG",
-      "published_at": "2026-03-04T06:05:40.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "NGO వరంగల్‌లో తక్కువ ప్రాధాన్యత కలిగిన పిల్లలతో పర్యావరణ అనుకూల హోలీని జరుపుకుంటుంది",
-      "summary_te": "నిరుపేదలకు నిలయమైన శ్రీ వ్యాస ఆవాసంలో హోలీ సంబరాలు ఈ సంవత్సరం పచ్చదనంతో మరింత బాధ్యతాయుతంగా మారాయి, ఎందుకంటే సులక్ష్య సేవా సమితి అనే ఎన్‌జీవో మంగళవారం నిరుపేద ఇళ్లలోని పిల్లలతో పండుగను జరుపుకుంది, పర్యావరణ అనుకూల పద్ధతుల ప్రాముఖ్యతను తెలియజేస్తుంది. ఈ కార్యక్రమం పిల్లలతో పాటు పర్యావరణానికి కూడా ఆనందంగా మరియు సురక్షితంగా ఉండేలా చూసుకోవాలి. ముఖ్యంగా యువ తరంలో బాధ్యతాయుతమైన ఉత్సవాల సంస్కృతిని పెంపొందించడమే లక్ష్యంగా ఈ కార్యక్రమం చేపట్టినట్లు వాలంటీర్లు తెలిపారు. \"హోలీని సాధారణంగా మన కుటుంబాలు మరియు స్నేహితులతో జరుపుకుంటాం, కానీ ఈ పిల్లలతో గడపడం వల్ల పండుగకు నిజమైన అర్ధం వస్తుంది\" అని సులక్ష్య సేవా సమితి వ్యవస్థాపకుడు మరియు అధ్యక్షుడు సంతోష్ మండువ అన్నారు. \"15 సంవత్సరాలుగా, మేము వారితో మరియు సహజ రంగులతో జరుపుకున్నాము. వారు గేటు వద్ద వేచి ఉన్నప్పుడు వారి ఉత్సాహం ఉదయాన్నే ప్రారంభమవుతుంది. మేము వచ్చినప్పుడు మమ్మల్ని పలకరించే చిరునవ్వులు నిజంగా వెలకట్టలేనివి,\" అన్నారాయన.",
-      "translated": true
-    },
-    {
       "id": "402c674aaa2abecaa190fd04e033ecdb",
       "title": "CEO Sam Altman to OpenAI staff: You don't get a say in how the military uses our AI",
       "summary": "OpenAI CEO Sam Altman asserted employees have no say in US military operations, even after a Pentagon deal for classified AI deployment. The move followed rival Anthropic's blacklisting, sparking internal and external criticism over timing and optics. Altman emphasized the Pentagon respects OpenAI's safety measures but retains operational control, while also acknowledging competitors might offer fewer restrictions.",
@@ -537,20 +705,6 @@
       "translated": true
     },
     {
-      "id": "7874c14f3651339a1153f4f4def15847",
-      "title": "Protests against Khamenei's killing: Curbs remain in force in Kashmir",
-      "summary": "As a precautionary measure, the government shut educational institutions till March 7, while mobile internet speed continued to remain throttled",
-      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/protests-against-khameneis-killing-curbs-remain-in-force-in-kashmir/article70702220.ece",
-      "image": "https://th-i.thgim.com/public/incoming/iz7h42/article70702267.ece/alternates/LANDSCAPE_1200/TH03-Suhasini-FGBIFLRA7C.3.jpg.jpg",
-      "published_at": "2026-03-04T05:54:32.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఖమేనీ హత్యకు వ్యతిరేకంగా నిరసనలు: కాశ్మీర్‌లో ఆంక్షలు అమలులో ఉన్నాయి",
-      "summary_te": "ముందుజాగ్రత్త చర్యగా, ప్రభుత్వం మార్చి 7 వరకు విద్యా సంస్థలను మూసివేసింది, అయితే మొబైల్ ఇంటర్నెట్ స్పీడ్ థ్రోటల్‌గా కొనసాగుతోంది.",
-      "translated": true
-    },
-    {
       "id": "811160caff5516ce514877f273394d48",
       "title": "NIMCET 2026 Registration Begins For MCA Admission, Here's Direct Link To Apply",
       "summary": "NIMCET 2026: The entrance examination will be conducted on June 6 in a single shift from 2 pm to 4 pm in computer-based test (CBT) mode.",
@@ -579,20 +733,6 @@
       "translated": true
     },
     {
-      "id": "75d4a18fc2894d8ffcbd1ccd0b825619",
-      "title": "Five from Bengaluru killed in a road accident in Chittoor",
-      "summary": "The car in which they were travelling rammed the rear of a stationary lorry on the highway. The impact of the collision was severe, resulting in the death of all five occupants",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/five-from-bengaluru-killed-in-a-road-accident-in-chittoor/article70702185.ece",
-      "image": null,
-      "published_at": "2026-03-04T05:45:04.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "చిత్తూరులో జరిగిన రోడ్డు ప్రమాదంలో బెంగళూరుకు చెందిన ఐదుగురు మృతి చెందారు",
-      "summary_te": "వీరు ప్రయాణిస్తున్న కారు హైవేపై ఆగి ఉన్న లారీని ఢీకొట్టింది. తాకిడి ప్రభావం తీవ్రంగా ఉంది, ఫలితంగా ఐదుగురు ప్రయాణికులు మరణించారు",
-      "translated": true
-    },
-    {
       "id": "ae8b22ec9f40ffb24874012971c3db22",
       "title": "'Dad, I want to be a cricketer’: How Daryl Mitchell chose cricket over rugby",
       "summary": "Daryl Mitchell, son of former All Blacks player John Mitchell, found his passion for cricket despite a rugby upbringing. John encouraged Daryl's choices, leading him to excel in cricket. Daryl's journey showcases dedication, embracing challenges, and a mature approach to success and failure, making him a vital player for the Black Caps.",
@@ -607,20 +747,6 @@
       "translated": true
     },
     {
-      "id": "df92acef9439e8d7a0c72b709e353199",
-      "title": "Trail of deadly blasts in Maharashtra’s Nagpur; former Home Minister demands safety audits",
-      "summary": "At least 10 factories in Nagpur’s Bazargaon area — including Solar Explosives Industries Ltd., Chamundi Explosives, and Asian Fire Works — that are explosives factories have been plagued by frequent blasts, the Anil Deshmukh said.",
-      "url": "https://www.thehindu.com/news/national/maharashtra/trail-of-deadly-blasts-inmaharashtras-nagpur-former-home-minister-demands-safety-audits/article70702257.ece",
-      "image": "https://th-i.thgim.com/public/incoming/s8u4lj/article70702255.ece/alternates/LANDSCAPE_1200/01th-SNEHAL-18-GPOFLIF9D.3.jpg.jpg",
-      "published_at": "2026-03-04T05:43:08.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మహారాష్ట్రలోని నాగ్‌పూర్‌లో ఘోరమైన పేలుళ్ల బాట; మాజీ హోంమంత్రి సేఫ్టీ ఆడిట్‌లను డిమాండ్ చేశారు",
-      "summary_te": "నాగ్‌పూర్‌లోని బజార్‌గావ్ ప్రాంతంలో కనీసం 10 ఫ్యాక్టరీలు - సోలార్ ఎక్స్‌ప్లోజివ్స్ ఇండస్ట్రీస్ లిమిటెడ్, చాముండి ఎక్స్‌ప్లోజివ్స్ మరియు ఏషియన్ ఫైర్ వర్క్స్ - పేలుడు పదార్థాల ఫ్యాక్టరీలు తరచుగా పేలుళ్లకు గురవుతున్నాయని అనిల్ దేశ్‌ముఖ్ చెప్పారు.",
-      "translated": true
-    },
-    {
       "id": "4ac0ff0c7e8e7ac9a47b853eb7539f06",
       "title": "Pahalgam Attack Terrorists Used GoPro That Had Links To China",
       "summary": "The GoPro - a Hero 12 black camera with the serial number 'C3501325471706' had emerged as a crucial lead in the Pahalgam terror attack probe.",
@@ -632,20 +758,6 @@
       "language": "en",
       "title_te": "పహల్గామ్ దాడి ఉగ్రవాదులు చైనాతో సంబంధాలు కలిగి ఉన్న గోప్రోను ఉపయోగించారు",
       "summary_te": "'C3501325471706' సీరియల్ నంబర్‌తో GoPro - హీరో 12 బ్లాక్ కెమెరా పహల్గామ్ ఉగ్రదాడి దర్యాప్తులో కీలకమైన లీడ్‌గా నిలిచింది.",
-      "translated": true
-    },
-    {
-      "id": "5d873e3a9db5a597a806fd04ad29a1e4",
-      "title": "‘Toxic’ postponed: Yash-starrer delayed due to “Middle East tensions”",
-      "summary": "‘Toxic’, starring Yash and directed by Geetu Mohandas, was scheduled to hit the screens on March 19, 2026. The film is jointly produced by KVN Productions and Monster Mind Creations",
-      "url": "https://www.thehindu.com/entertainment/movies/toxic-movie-postponed-yash-middle-east-tension/article70702211.ece",
-      "image": "https://th-i.thgim.com/public/entertainment/movies/dcc4h2/article70702213.ece/alternates/LANDSCAPE_1200/stop-the-rumoursyashs-toxic-on-track-for-march-19-2026-release-no-delay-confirms-producers.jpg",
-      "published_at": "2026-03-04T05:38:45.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "‘టాక్సిక్’ వాయిదా: “మిడిల్ ఈస్ట్ టెన్షన్స్” కారణంగా యశ్ నటించిన చిత్రం ఆలస్యం",
-      "summary_te": "గీతు మోహన్‌దాస్ దర్శకత్వంలో యష్ నటించిన ‘టాక్సిక్’ మార్చి 19, 2026న ప్రేక్షకుల ముందుకు రానుంది. ఈ చిత్రాన్ని కెవిఎన్ ప్రొడక్షన్స్ మరియు మాన్‌స్టర్ మైండ్ క్రియేషన్స్ సంయుక్తంగా నిర్మించాయి.",
       "translated": true
     },
     {
@@ -747,20 +859,6 @@
       "translated": true
     },
     {
-      "id": "0be4f07c99c97438c858a0c880e86f1e",
-      "title": "UAE stock market set to open today, 'uncertainty a major factor' for investors",
-      "summary": "The UAE is cautiously resuming normal activities, with capital markets set to reopen and businesses preparing for employees' return. Despite ongoing Iranian attacks and intercepted threats, authorities are bolstering flight capacity and reassuring the public. Food reserves remain adequate, though investor caution persists amid regional geopolitical tensions.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/uae-preparing-for-normalcy-stock-market-set-to-open-today-uncertainty-a-major-factor-for-investors/articleshow/129003315.cms",
-      "image": "https://static.toiimg.com/photo/msid-129007332,imgsize-1160580.cms",
-      "published_at": "2026-03-04T05:12:55.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "UAE స్టాక్ మార్కెట్ ఈ రోజు తెరవబడుతుంది, పెట్టుబడిదారులకు 'అనిశ్చితి ప్రధాన అంశం'",
-      "summary_te": "క్యాపిటల్ మార్కెట్‌లు తిరిగి తెరవడం మరియు ఉద్యోగుల రాబడి కోసం వ్యాపారాలు సిద్ధమవుతున్న నేపథ్యంలో UAE సాధారణ కార్యకలాపాలను జాగ్రత్తగా పునఃప్రారంభిస్తోంది. కొనసాగుతున్న ఇరాన్ దాడులు మరియు అడ్డగించిన బెదిరింపులు ఉన్నప్పటికీ, అధికారులు విమాన సామర్థ్యాన్ని పెంచుతున్నారు మరియు ప్రజలకు భరోసా ఇస్తున్నారు. ప్రాంతీయ భౌగోళిక రాజకీయ ఉద్రిక్తతల మధ్య పెట్టుబడిదారుల హెచ్చరిక కొనసాగినప్పటికీ, ఆహార నిల్వలు తగినంతగా ఉన్నాయి.",
-      "translated": true
-    },
-    {
       "id": "f3705a9cd44a607130aebb076f6f1dbd",
       "title": "Case Against Kashmir MP Over Social Media Posts On Khamenei Killing Protests",
       "summary": "Jammu and Kashmir police have registered a case against Srinagar MP Aga Syed Ruhullah Mehdi for sharing \"misleading content\" on social media",
@@ -800,20 +898,6 @@
       "language": "en",
       "title_te": "ఇరాన్ యుద్ధం షాక్: రూపాయి మొదటిసారిగా 92కి పడిపోయింది, రూ. 9.7 లక్షల కోట్లు తుడిచిపెట్టుకుపోయాయి",
       "summary_te": "విదేశీ సంస్థాగత ఇన్వెస్టర్లు కూడా మార్కెట్లపై ఒత్తిడి పెంచారు. ఎన్‌ఎస్‌ఈ డేటా ప్రకారం, గత సెషన్‌లో ఎఫ్‌ఐఐలు రూ.3,295.64 కోట్ల విలువైన ఈక్విటీలను విక్రయించగా, దేశీయ సంస్థాగత ఇన్వెస్టర్లు రూ.8,593.87 కోట్లను కొనుగోలు చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "afd63fed1adbe6d1c8d6d56c5eb080cf",
-      "title": "‘You’re mad if you think…’: Palantir CEO Alex Karp to Silicon Valley leaders",
-      "summary": "Palantir CEO Alex Karp has issued a stark warning to Silicon Valley leaders. He believes that focusing solely on AI-driven job displacement without supporting the US military could result in government takeover of technology firms. This statement comes amid ongoing debates about AI regulation. Tesla CEO Elon Musk has publicly supported Karp's viewpoint on this critical issue.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/alex-karp-ceo-of-americas-largest-defence-technology-company-palantir-to-ceos-in-silicon-valley-you-are-mad-if-you-think-/articleshow/129006871.cms",
-      "image": "https://static.toiimg.com/photo/msid-129006843,imgsize-1284504.cms",
-      "published_at": "2026-03-04T04:56:56.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'మీరు అనుకుంటే మీకు పిచ్చి ఉంది...': సిలికాన్ వ్యాలీ నాయకులకు పలంటిర్ CEO అలెక్స్ కార్ప్",
-      "summary_te": "పలంటిర్ సీఈవో అలెక్స్ కార్ప్ సిలికాన్ వ్యాలీ నేతలకు గట్టి వార్నింగ్ ఇచ్చారు. US మిలిటరీకి మద్దతు ఇవ్వకుండా AI- ఆధారిత ఉద్యోగ స్థానభ్రంశంపై దృష్టి సారించడం వలన సాంకేతిక సంస్థలను ప్రభుత్వం స్వాధీనం చేసుకోవచ్చని ఆయన అభిప్రాయపడ్డారు. AI నియంత్రణ గురించి జరుగుతున్న చర్చల మధ్య ఈ ప్రకటన వచ్చింది. టెస్లా CEO ఎలోన్ మస్క్ ఈ క్లిష్టమైన సమస్యపై కార్ప్ యొక్క దృక్కోణానికి బహిరంగంగా మద్దతు ఇచ్చారు.",
       "translated": true
     },
     {
@@ -915,20 +999,6 @@
       "translated": true
     },
     {
-      "id": "672cf40900f9c7532694f09905459ce1",
-      "title": "'Most people we had in mind are dead': Trump after Khamenei assassination",
-      "summary": "US President Trump stated that \"most of the people we had in mind are dead\" following reported Iranian leadership casualties in Operation Epic Fury. He claimed a \"third wave\" of strikes has crippled Iran's capabilities, asserting the US acted preemptively to prevent an Iranian attack. Trump highlighted significant Iranian losses and a desire for immunity among remaining figures.",
-      "url": "https://timesofindia.indiatimes.com/world/us/most-people-we-had-in-mind-are-dead-donald-trump-after-khamenei-assassination/articleshow/129005815.cms",
-      "image": "https://static.toiimg.com/photo/msid-129007065,imgsize-23788.cms",
-      "published_at": "2026-03-04T04:25:48.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఖమేనీ హత్యానంతరం ట్రంప్: 'మనం మనసులో ఉన్న చాలా మంది చనిపోయారు'",
-      "summary_te": "ఆపరేషన్ ఎపిక్ ఫ్యూరీలో ఇరాన్ నాయకత్వ మరణాలు నివేదించబడిన తరువాత \"మనం మనసులో ఉన్న చాలా మంది వ్యక్తులు చనిపోయారు\" అని అమెరికా అధ్యక్షుడు ట్రంప్ పేర్కొన్నారు. \"మూడవ వేవ్\" దాడుల వల్ల ఇరాన్ సామర్థ్యాలు వికలాంగులయ్యాయని, ఇరాన్ దాడిని నిరోధించేందుకు అమెరికా ముందస్తుగా వ్యవహరించిందని ఆయన పేర్కొన్నారు. ట్రంప్ గణనీయమైన ఇరాన్ నష్టాలను మరియు మిగిలిన వ్యక్తులలో రోగనిరోధక శక్తి కోసం కోరికను హైలైట్ చేశారు.",
-      "translated": true
-    },
-    {
       "id": "d2f2244baccfa184a7f1b00bcbbccdc7",
       "title": "Video: ITBP jawans celebrate Holi with locals on frozen Pangong Lake at 14,300 feet",
       "summary": "Video: ITBP jawans celebrate Holi with locals on frozen Pangong Lake at 14,300 feet",
@@ -943,20 +1013,6 @@
       "translated": true
     },
     {
-      "id": "9fafc3c66e0ed66b1580cab5f82b6658",
-      "title": "Rupee hit by Middle East crisis: Currency falls to new low of 92.15 against US Dollar",
-      "summary": "Rupee hit a record low of 92.15 against the US dollar, plummeting 66 paise amid escalating Middle East tensions and rising oil prices. Analysts predict continued currency strain as the conflict fuels inflation fears and impacts energy-importing economies like India.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-hit-by-middle-east-crisis-currency-falls-to-new-low-against-us-dollar-iran-israel-us-india/articleshow/129005138.cms",
-      "image": "https://static.toiimg.com/photo/msid-129005248,imgsize-1351521.cms",
-      "published_at": "2026-03-04T04:10:14.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మధ్యప్రాచ్య సంక్షోభం కారణంగా రూపాయి దెబ్బతింది: US డాలర్‌తో కరెన్సీ కొత్త కనిష్ట స్థాయి 92.15కి పడిపోయింది.",
-      "summary_te": "మిడిల్ ఈస్ట్ ఉద్రిక్తతలు మరియు పెరుగుతున్న చమురు ధరల మధ్య రూపాయి US డాలర్‌తో పోలిస్తే 92.15 వద్ద రికార్డు స్థాయికి చేరుకుంది, 66 పైసలు పడిపోయింది. ఈ వివాదం ద్రవ్యోల్బణ భయాలకు ఆజ్యం పోసినందున మరియు భారతదేశం వంటి ఇంధన-దిగుమతి ఆర్థిక వ్యవస్థలపై ప్రభావం చూపుతున్నందున కరెన్సీ ఒత్తిడి కొనసాగుతుందని విశ్లేషకులు అంచనా వేస్తున్నారు.",
-      "translated": true
-    },
-    {
       "id": "0662e223d228b06639eaef185dbd2ab2",
       "title": "India vs England: Can Abhishek Sharma find his fire at Wankhede?",
       "summary": "Team India's Abhishek Sharma faces a crucial semifinal against England at the Wankhede, hoping to reignite his fearless batting form. Despite recent struggles against probing opposition tactics, the team management backs the young opener. Sharma is working on adjusting his game, particularly against spinners, aiming to replicate his past Wankhede success.",
@@ -967,7 +1023,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇండియా vs ఇంగ్లండ్: వాంఖడేలో అభిషేక్ శర్మ తన మంటలను కనుగొనగలడా?",
-      "summary_te": "టీమిండియా ఆటగాడు అభిషేక్ శర్మ వాంఖడే వేదికగా ఇంగ్లండ్‌తో కీలకమైన సెమీఫైనల్‌ను ఎదుర్కొంటాడు, తన నిర్భయ బ్యాటింగ్ ఫామ్‌ను మళ్లీ పుంజుకోవాలని ఆశిస్తున్నాడు. ప్రత్యర్థి వ్యూహాలను పరిశీలించడానికి వ్యతిరేకంగా ఇటీవల పోరాటాలు ఉన్నప్పటికీ, టీమ్ మేనేజ్‌మెంట్ యువ ఓపెనర్‌కు మద్దతు ఇస్తుంది. శర్మ తన గత వాంఖడే విజయాన్ని ప్రతిబింబించే లక్ష్యంతో, ముఖ్యంగా స్పిన్నర్లకు వ్యతిరేకంగా తన ఆటను సర్దుబాటు చేసే పనిలో ఉన్నాడు.",
+      "summary_te": "టీమిండియా ఆటగాడు అభిషేక్ శర్మ వాంఖడే వేదికగా ఇంగ్లండ్‌తో కీలకమైన సెమీఫైనల్‌ను ఎదుర్కొంటాడు, తన నిర్భయ బ్యాటింగ్ ఫామ్‌ను మళ్లీ పుంజుకోవాలని ఆశిస్తున్నాడు. ప్రత్యర్థి వ్యూహాలను పరిశీలించడానికి వ్యతిరేకంగా ఇటీవల పోరాటాలు ఉన్నప్పటికీ, టీమ్ మేనేజ్‌మెంట్ యువ ఓపెనర్‌కు మద్దతు ఇస్తుంది. శర్మ తన గత వాంఖడే విజయాన్ని ప్రతిబింబించే లక్ష్యంతో ముఖ్యంగా స్పిన్నర్లకు వ్యతిరేకంగా తన ఆటను సర్దుబాటు చేసే పనిలో ఉన్నాడు.",
       "translated": true
     },
     {
@@ -982,20 +1038,6 @@
       "language": "en",
       "title_te": "కర్ణాటక సీఎం పదవిని కాలమే నిర్ణయిస్తుందని, విప్లవం అవసరం లేదని డీకే శివకుమార్ అన్నారు",
       "summary_te": "కర్ణాటక సీఎం పదవిని కాలమే నిర్ణయిస్తుందని, విప్లవం అవసరం లేదని డీకే శివకుమార్ అన్నారు",
-      "translated": true
-    },
-    {
-      "id": "f95d7736445164765ff3faec690a8ce8",
-      "title": "Tamil Nadu polls: Congress wants 41, DMK sticks to 25 seats plus one Rajya Sabha",
-      "summary": "Congress and DMK commenced seat-sharing discussions for upcoming elections, with Congress seeking 41 assembly and two Rajya Sabha seats. DMK countered with an offer of 25 assembly seats and one Rajya Sabha seat, explicitly stating power-sharing is not on the agenda. Congress will revert after consulting Rahul Gandhi.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-polls-congress-wants-41-dmk-sticks-to-25-seats-plus-one-rajya-sabha/articleshow/129004698.cms",
-      "image": "https://static.toiimg.com/photo/msid-129004890,imgsize-26532.cms",
-      "published_at": "2026-03-04T03:58:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "తమిళనాడు ఎన్నికలు: కాంగ్రెస్‌కు 41, డీఎంకే 25 సీట్లతో పాటు ఒక రాజ్యసభకు కట్టుబడి ఉన్నాయి",
-      "summary_te": "కాంగ్రెస్ మరియు డిఎంకెలు రాబోయే ఎన్నికల కోసం సీట్ల పంపకాల చర్చలను ప్రారంభించాయి, కాంగ్రెస్ 41 అసెంబ్లీ మరియు రెండు రాజ్యసభ స్థానాలను కోరింది. 25 అసెంబ్లీ సీట్లు మరియు ఒక రాజ్యసభ సీటుతో డీఎంకే ఎదురుదాడి చేసింది, అధికారాన్ని పంచుకోవడం ఎజెండాలో లేదని స్పష్టంగా పేర్కొంది. రాహుల్ గాంధీతో సంప్రదింపులు జరిపిన తర్వాతే కాంగ్రెస్ తిరుగుముఖం పడుతుంది.",
       "translated": true
     },
     {
@@ -1027,20 +1069,6 @@
       "translated": true
     },
     {
-      "id": "7b826602819ce5588bfdcd38bd22ebc8",
-      "title": "Israel strikes building where Iranian clerics were choosing Khamenei's successor",
-      "summary": "Israel reportedly conducted an airstrike on a building in Qom, Iran, where senior clerics of the Assembly of Experts were meeting to select a successor for the late Supreme Leader Ayatollah Ali Khamenei. Iran's state news agency disputed the claim, stating the targeted structure was unused.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-strikes-building-where-iranian-clerics-were-choosing-khameneis-successor/articleshow/129004381.cms",
-      "image": "https://static.toiimg.com/photo/msid-129004558,imgsize-1084822.cms",
-      "published_at": "2026-03-04T03:49:37.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరానియన్ మతాధికారులు ఖమేనీ వారసుడిని ఎన్నుకుంటున్న భవనంపై ఇజ్రాయెల్ దాడి చేసింది",
-      "summary_te": "ఇరాన్‌లోని కోమ్‌లోని ఒక భవనంపై ఇజ్రాయెల్ వైమానిక దాడిని నిర్వహించినట్లు నివేదించబడింది, ఇక్కడ దివంగత సుప్రీం నాయకుడు అయతుల్లా అలీ ఖమేనీకి వారసుడిని ఎంపిక చేయడానికి నిపుణుల అసెంబ్లీ సీనియర్ మతాధికారులు సమావేశమయ్యారు. ఇరాన్ ప్రభుత్వ వార్తా సంస్థ ఈ దావాను వివాదాస్పదం చేసింది, లక్ష్య నిర్మాణం ఉపయోగించబడలేదని పేర్కొంది.",
-      "translated": true
-    },
-    {
       "id": "06e6d380fcd3ca893197ef62c8cce813",
       "title": "Missiles in sky, fear at home: 3 men from UP stranded in Bahrain appeal for help",
       "summary": "Missiles in sky, fear at home: 3 men from UP stranded in Bahrain appeal for help",
@@ -1052,20 +1080,6 @@
       "language": "en",
       "title_te": "ఆకాశంలో క్షిపణులు, ఇంట్లో భయం: బహ్రెయిన్‌లో చిక్కుకుపోయిన UPకి చెందిన ముగ్గురు వ్యక్తులు సహాయం కోసం విజ్ఞప్తి చేశారు",
       "summary_te": "ఆకాశంలో క్షిపణులు, ఇంట్లో భయం: బహ్రెయిన్‌లో చిక్కుకుపోయిన UPకి చెందిన ముగ్గురు వ్యక్తులు సహాయం కోసం విజ్ఞప్తి చేశారు",
-      "translated": true
-    },
-    {
-      "id": "4bc670a4eb1ba122db6f87e070f203aa",
-      "title": "Stock market crash today: Nifty50 drops over 2%; BSE Sensex plunges over 1,600 points",
-      "summary": "Stock market crash today: Nifty50 and BSE Sensex crashed in opening trade on Wednesday on rising Middle East tensions and escalating US-Israel-Iran war. While Nifty50 went below 24,400, BSE Sensex was down over 1,600 points.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-04-2026-us-israel-iran-war-impact-global-markets-crash-top-reasons-donald-trump/articleshow/129003753.cms",
-      "image": "https://static.toiimg.com/photo/msid-129004327,imgsize-111350.cms",
-      "published_at": "2026-03-04T03:47:42.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "నేడు స్టాక్ మార్కెట్ క్రాష్: నిఫ్టీ50 2% పైగా పడిపోయింది; బీఎస్ఈ సెన్సెక్స్ 1,600 పాయింట్లకు పైగా పతనమైంది",
-      "summary_te": "నేడు స్టాక్ మార్కెట్ పతనం: పెరుగుతున్న మధ్యప్రాచ్య ఉద్రిక్తతలు మరియు US-ఇజ్రాయెల్-ఇరాన్ యుద్ధం తీవ్రతరం కావడంతో బుధవారం ప్రారంభ ట్రేడింగ్‌లో నిఫ్టీ50 మరియు BSE సెన్సెక్స్ పతనమయ్యాయి. నిఫ్టీ50 24,400 దిగువకు వెళ్లగా, బిఎస్‌ఇ సెన్సెక్స్ 1,600 పాయింట్లకు పైగా పడిపోయింది.",
       "translated": true
     },
     {
@@ -1122,20 +1136,6 @@
       "language": "en",
       "title_te": "హోటల్, రెసిడెన్షియల్ బిల్డింగ్ దెబ్బతింది: మధ్యప్రాచ్య సంక్షోభం 5వ రోజులోకి ప్రవేశించినప్పుడు లెబనాన్‌లో ఇజ్రాయెల్ దాడులు 6 మందిని చంపాయి",
       "summary_te": "ఇజ్రాయెల్ వైమానిక దాడులు లెబనాన్‌లోని అనేక ప్రాంతాలను లక్ష్యంగా చేసుకున్నాయి, బీరుట్‌కు దక్షిణాన ఉన్న పట్టణాలు మరియు బాల్‌బెక్‌లోని నివాస భవనంతో సహా, పౌరులు మరణించారు. హిజ్బుల్లా, ఇజ్రాయెల్ యొక్క హైఫా నావికా స్థావరంపై క్షిపణులను ప్రయోగించింది. ఇజ్రాయెల్ సైన్యం దక్షిణ లెబనాన్‌లోని నివాసితులకు తరలింపు హెచ్చరికలు జారీ చేసింది",
-      "translated": true
-    },
-    {
-      "id": "303f41ee7e0b940864844c5576cfa4b7",
-      "title": "Iran war worry for HP hoteliers: Will Israelis come this summer?",
-      "summary": "Hoteliers in Kullu Valley are anxiously monitoring the ongoing conflict, fearing a significant drop in Israeli tourist arrivals this summer. These visitors are crucial to the region's hospitality industry, and a prolonged war could lead to substantial economic losses. Currently, very few Israelis are present in the Kullu and Kangra districts.",
-      "url": "https://timesofindia.indiatimes.com/city/shimla/iran-war-worry-for-hp-hoteliers-will-israelis-come-this-summer/articleshow/129004326.cms",
-      "image": "https://static.toiimg.com/photo/msid-129004497,imgsize-154194.cms",
-      "published_at": "2026-03-04T03:43:09.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "HP హోటల్ యజమానులకు ఇరాన్ యుద్ధం ఆందోళన: ఈ వేసవిలో ఇజ్రాయిలీలు వస్తారా?",
-      "summary_te": "ఈ వేసవిలో ఇజ్రాయెల్ పర్యాటకుల రాక గణనీయంగా తగ్గుతుందనే భయంతో కులు వ్యాలీలోని హోటళ్ల వ్యాపారులు కొనసాగుతున్న సంఘర్షణను ఆత్రుతగా పర్యవేక్షిస్తున్నారు. ఈ సందర్శకులు ప్రాంతం యొక్క ఆతిథ్య పరిశ్రమకు కీలకం, మరియు సుదీర్ఘ యుద్ధం గణనీయమైన ఆర్థిక నష్టాలకు దారి తీస్తుంది. ప్రస్తుతం, కులు మరియు కాంగ్రా జిల్లాల్లో చాలా తక్కువ మంది ఇజ్రాయిలీలు ఉన్నారు.",
       "translated": true
     },
     {
@@ -1363,6 +1363,20 @@
       "translated": true
     },
     {
+      "id": "e5bd0b13d12f493a4a69ffe0bd2b106e",
+      "title": "Middle East crisis: For families, reunions add colour to festivities at Delhi airport",
+      "summary": "Families in Delhi are celebrating Holi and Eid with renewed joy after reuniting with relatives who returned from West Asia amid escalating tensions. Passengers arriving at IGI Airport expressed relief at being back in India, emphasizing the safety of their homeland after experiencing a tense but manageable situation abroad.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/for-families-reunions-add-colour-to-festivities-at-delhi-airport-as-stranded-people-return-safely-amid-west-asia-tensions/articleshow/128997370.cms",
+      "image": "https://static.toiimg.com/photo/msid-128998235,imgsize-88630.cms",
+      "published_at": "2026-03-04T00:37:32.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ సంక్షోభం: కుటుంబాలు, పునస్సమావేశాలు ఢిల్లీ విమానాశ్రయంలో పండుగలకు రంగులు అద్దుతాయి",
+      "summary_te": "తీవ్ర ఉద్రిక్తతల మధ్య పశ్చిమాసియా నుండి తిరిగి వచ్చిన బంధువులతో తిరిగి కలుసుకున్న తర్వాత ఢిల్లీలోని కుటుంబాలు కొత్త ఆనందంతో హోలీ మరియు ఈద్‌లను జరుపుకుంటున్నాయి. IGI ఎయిర్‌పోర్ట్‌కు చేరుకున్న ప్రయాణీకులు విదేశాలలో ఉద్రిక్తమైనప్పటికీ నిర్వహించదగిన పరిస్థితిని అనుభవించిన తర్వాత తమ స్వదేశం యొక్క భద్రతను నొక్కి చెబుతూ, భారతదేశానికి తిరిగి వచ్చినందుకు ఉపశమనం వ్యక్తం చేశారు.",
+      "translated": true
+    },
+    {
       "id": "5bc19fb08a65405ec18d2d681992cbcd",
       "title": "Supreme Court salvo to CBI on classified files in Official Secrets Act case",
       "summary": "The SC ordered the CBI to decide within a month on providing sensitive documents to a retired Army officer facing trial under the Official Secrets Act.",
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "శ్రీనగర్ సెంట్రల్ జైలు సూపరింటెండెంట్‌గా తొలిసారిగా మహిళా అధికారి బాధ్యతలు స్వీకరించారు",
       "summary_te": "శ్రీనగర్ సెంట్రల్ జైలులో 900 మందికి పైగా ఖైదీలను పర్యవేక్షిస్తూ సబా షాల్ మొదటి మహిళా సూపరింటెండెంట్ అయ్యారు.",
-      "translated": true
-    },
-    {
-      "id": "6494ac640c66977495b6c91366cfcb1b",
-      "title": "Chinese GoPro camera used in Pahalgam attack: NIA probe",
-      "summary": "NIA traces GoPro Hero 12 linked to April 2025 Kashmir terror attack to a Chinese distributor and seeks judicial assistance for further investigation.",
-      "url": "https://www.hindustantimes.com/india-news/chinese-gopro-camera-used-in-pahalgam-attack-nia-probe-101772565990206.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/04/1600x900/logo/FILES-INDIA-KASHMIR-_1772583959106_1772583959337.jpg",
-      "published_at": "2026-03-04T00:26:46.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "పహల్గామ్ దాడిలో చైనీస్ గోప్రో కెమెరా ఉపయోగించబడింది: NIA విచారణ",
-      "summary_te": "ఏప్రిల్ 2025 కాశ్మీర్ ఉగ్రదాడితో ముడిపడి ఉన్న గోప్రో హీరో 12ని చైనా పంపిణీదారుడికి NIA గుర్తించింది మరియు తదుపరి దర్యాప్తు కోసం న్యాయ సహాయం కోరింది.",
       "translated": true
     }
   ]
