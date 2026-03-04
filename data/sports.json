@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-04T14:44:32.728Z",
-  "updated_at_IST": "4/3/2026, 8:14:32 pm",
+  "updated_at": "2026-03-04T15:42:53.268Z",
+  "updated_at_IST": "4/3/2026, 9:12:53 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "74bc3217fdfe3b4bc2aad23c145e2bbc",
+      "title": "Babar, Ayub dropped from ODI side; Farhan called-up for Bangladesh series",
+      "summary": "There are six uncapped players in the squad of 15 for the three-match series",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526791.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/379500/379596.jpg",
+      "published_at": "2026-03-04T15:23:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్‌లో 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "translated": true
+    },
+    {
+      "id": "87a2382ca82e79d0e73b9543c6b1ab0c",
+      "title": "Men's CWC League 2 matches postponed because of West Asia conflict",
+      "summary": "Oman and UAE were to travel to Nepal for the games starting on March 10",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526822.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/381000/381041.jpg",
+      "published_at": "2026-03-04T15:02:37.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వెస్ట్ ఆసియా వివాదం కారణంగా పురుషుల CWC లీగ్ 2 మ్యాచ్‌లు వాయిదా పడ్డాయి",
+      "summary_te": "మార్చి 10 నుంచి ప్రారంభమయ్యే ఆటల కోసం ఒమన్ మరియు యూఏఈ నేపాల్ వెళ్లాల్సి ఉంది",
+      "translated": true
+    },
+    {
+      "id": "6cd6b41ab9c7fd7c81d0177e8418427c",
+      "title": "Morkel: 'For Varun, it's just about getting that confidence, and trying not to overthink it'",
+      "summary": "\"I keep telling Varun that with the skill and variation he has, he has the ability to take a wicket almost every ball\"",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526788.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414229.jpg",
+      "published_at": "2026-03-04T14:48:36.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మోర్కెల్: 'వరుణ్ కోసం, ఇది కేవలం ఆ విశ్వాసాన్ని పొందడం మరియు దాని గురించి ఎక్కువగా ఆలోచించకుండా ప్రయత్నించడం'",
+      "summary_te": "\"వరుణ్‌కు ఉన్న నైపుణ్యం మరియు వైవిధ్యంతో, దాదాపు ప్రతి బంతికి వికెట్ తీయగల సామర్థ్యం అతనికి ఉందని నేను చెబుతూనే ఉన్నాను\"",
+      "translated": true
+    },
     {
       "id": "645991916e7994660bcf4e822df90b0c",
       "title": "India vs England chapter 3: the match that could define eras",
@@ -47,34 +89,6 @@
       "translated": true
     },
     {
-      "id": "74bc3217fdfe3b4bc2aad23c145e2bbc",
-      "title": "Babar, Ayub dropped from ODI side; Farhan called-up for Bangladesh series",
-      "summary": "There are six uncapped players in the squad of 15 for the three-match series",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526791.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/379500/379596.jpg",
-      "published_at": "2026-03-04T12:19:04.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
-      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
-      "translated": true
-    },
-    {
-      "id": "6cd6b41ab9c7fd7c81d0177e8418427c",
-      "title": "Morkel: 'For Varun, it's just about getting that confidence, and trying not to overthink it'",
-      "summary": "\"I keep telling Varun that with the skill and variation he has, he has the ability to take a wicket almost every ball\"",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526788.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414282.jpg",
-      "published_at": "2026-03-04T12:15:18.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మోర్కెల్: 'వరుణ్ కోసం, ఇది కేవలం ఆ విశ్వాసాన్ని పొందడం మరియు దాని గురించి ఎక్కువగా ఆలోచించకుండా ప్రయత్నించడం'",
-      "summary_te": "\"వరుణ్‌కు ఉన్న నైపుణ్యం మరియు వైవిధ్యంతో, దాదాపు ప్రతి బంతికి వికెట్ తీయగల సామర్థ్యం అతనికి ఉందని నేను చెబుతూనే ఉన్నాను\"",
-      "translated": true
-    },
-    {
       "id": "e12db941351928069faab6d1482da70e",
       "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
       "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
@@ -112,7 +126,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -154,7 +168,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -295,7 +309,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పురుషుల హండ్రెడ్ వేలం కోసం మార్క్యూ పేర్లలో హరీస్ రౌఫ్",
-      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్ కోసం ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
+      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్‌లో ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
       "translated": true
     },
     {
@@ -309,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌లో పాక్‌ ఆటగాళ్లకు పీసీబీ జరిమానా విధించింది",
-      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాలుగో సారి సెమీ-ఫైనల్స్‌లో తప్పిపోయిన ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
+      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాల్గవసారి సెమీ-ఫైనల్‌కు దూరమైన తర్వాత ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
       "translated": true
     },
     {
@@ -323,7 +337,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "జూన్‌లో ఆఫ్ఘనిస్థాన్‌కు ఒక టెస్టు, మూడు వన్డేలకు భారత్ ఆతిథ్యం ఇవ్వనుంది",
-      "summary_te": "2018లో తొలి టెస్టు జరిగిన తర్వాత ఇరు జట్ల మధ్య ఇది ​​రెండో టెస్టు మాత్రమే",
+      "summary_te": "2018లో తొలి టెస్టు ఆడిన తర్వాత ఇరు జట్ల మధ్య ఇది ​​రెండో టెస్టు మాత్రమే",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "'భారత్‌ను ఓడించేందుకు మరింత చేయాల్సిన అవసరం ఉంది' - డు ప్లెసిస్, కుంబ్లే WI 'సురక్షితంగా ఆడాను'",
       "summary_te": "వెస్టిండీస్ కూడా తమ ఆరో బౌలింగ్ ఎంపిక గురించి భారత్‌ను ఎక్కువగా ఆలోచించేలా చేయలేదు, ఇది వారి ఆందోళన కలిగించే అంశాలలో ఒకటి.",
-      "translated": true
-    },
-    {
-      "id": "7a5703f7bf987dcccf23abdbac273adc",
-      "title": "Faf du Plessis: Markram has evolved as a T20 batter after opening for LSG in IPL",
-      "summary": "\"The game demands it from you, and if you don't evolve, then you get left behind,\" du Plessis said on Markram",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526271.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414113.jpg",
-      "published_at": "2026-03-02T05:41:22.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఫాఫ్ డు ప్లెసిస్: IPLలో LSG కోసం ఓపెనింగ్ తర్వాత మార్క్రామ్ T20 బ్యాటర్‌గా పరిణామం చెందాడు",
-      "summary_te": "\"ఆట మీ నుండి డిమాండ్ చేస్తుంది మరియు మీరు అభివృద్ధి చెందకపోతే, మీరు వెనుకబడిపోతారు,\" అని మార్క్రామ్‌లో డు ప్లెసిస్ అన్నాడు",
       "translated": true
     }
   ]

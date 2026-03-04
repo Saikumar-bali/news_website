@@ -1,21 +1,91 @@
 {
-  "updated_at": "2026-03-04T14:44:32.728Z",
-  "updated_at_IST": "4/3/2026, 8:14:32 pm",
+  "updated_at": "2026-03-04T15:42:53.268Z",
+  "updated_at_IST": "4/3/2026, 9:12:53 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "c3b5eba9d85b275066616e144aa42ae4",
+      "title": "WATCH: Moment Iranian warship is blown apart by US submarine near Sri Lanka",
+      "summary": "Speaking at the Pentagon, Pete Hegseth described the torpedo strike as a “quiet death” and a historic first since WWII. Sri Lanka has confirmed heavy casualties, with dozens dead and many still missing.",
+      "url": "https://www.livemint.com/news/world/watch-moment-iranian-warship-is-blown-apart-by-us-submarine-near-sri-lanka-11772637052505.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/pentagon_1772637558659_1772637563138.jpg",
+      "published_at": "2026-03-04T15:21:26.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "చూడండి: శ్రీలంక సమీపంలో అమెరికా జలాంతర్గామి ద్వారా ఇరాన్ యుద్ధనౌక పేలిపోయింది",
+      "summary_te": "పెంటగాన్‌లో మాట్లాడుతూ, పీట్ హెగ్‌సేత్ టార్పెడో స్ట్రైక్‌ను \"నిశ్శబ్ద మరణం\"గా అభివర్ణించాడు మరియు WWII తర్వాత ఒక చారిత్రాత్మకమైనది. శ్రీలంక భారీ ప్రాణనష్టాన్ని ధృవీకరించింది, డజన్ల కొద్దీ మరణించారు మరియు చాలా మంది తప్పిపోయారు.",
+      "translated": true
+    },
+    {
+      "id": "dffe37e46ef017e092a4aa6bea9edaf6",
+      "title": "Mumbai traffic advisory for March 5 India vs England T20 semi-final: Check routes around Wankhede Stadium",
+      "summary": "India-England T20 semi-final: The match is scheduled to be held at Wankhede Stadium at 7 pm, with entry gates opening at 4 pm. With a large turnout expected, authorities stated that 'traffic congestion is anticipated in and around the Marine Drive area'",
+      "url": "https://www.livemint.com/news/india/mumbai-traffic-advisory-for-india-england-t20-semi-final-check-routes-around-wankhede-stadium-11772636295448.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Marine_1772636802596_1772636809968.png",
+      "published_at": "2026-03-04T15:20:39.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్చి 5న ఇండియా వర్సెస్ ఇంగ్లండ్ టీ20 సెమీఫైనల్ కోసం ముంబై ట్రాఫిక్ అడ్వైజరీ: వాంఖడే స్టేడియం చుట్టూ ఉన్న మార్గాలను తనిఖీ చేయండి",
+      "summary_te": "భారత్-ఇంగ్లండ్ టీ20 సెమీఫైనల్: వాంఖడే స్టేడియంలో సాయంత్రం 7 గంటలకు మ్యాచ్ జరగాల్సి ఉంది, సాయంత్రం 4 గంటలకు ప్రవేశ ద్వారాలు తెరవబడతాయి. భారీ సంఖ్యలో ప్రజలు హాజరుకావడంతో, అధికారులు 'మెరైన్ డ్రైవ్ ప్రాంతంలో మరియు చుట్టుపక్కల ట్రాఫిక్ రద్దీని అంచనా వేస్తున్నారు'",
+      "translated": true
+    },
+    {
+      "id": "57ac103e7517d3cd3825456002dc638d",
+      "title": "Air India to operate extra flights to Toronto, Frankfurt, Paris from March 5-11 amid West Asia conflict",
+      "summary": "Air India to operate more flights to Toronto, Frankfurt & Paris amid high demand",
+      "url": "https://www.livemint.com/news/india/air-india-to-operate-extra-flights-to-toronto-frankfurt-paris-from-march-5-11-amid-west-asia-conflict-11772636780211.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Air_India_A350-900_1713508027779_1772636841606.jpg",
+      "published_at": "2026-03-04T15:16:51.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా వివాదాల మధ్య మార్చి 5-11 వరకు టొరంటో, ఫ్రాంక్‌ఫర్ట్, పారిస్‌లకు ఎయిర్ ఇండియా అదనపు విమానాలను నడపనుంది.",
+      "summary_te": "అధిక డిమాండ్‌తో టొరంటో, ఫ్రాంక్‌ఫర్ట్ & పారిస్‌లకు ఎయిర్ ఇండియా మరిన్ని విమానాలను నడపనుంది",
+      "translated": true
+    },
+    {
+      "id": "88b6422cc91cf81e537fba1105671021",
+      "title": "US Sub Sinks Iranian Ship in First Torpedo Hit Since WWII",
+      "summary": "A US submarine sank an Iranian warship in international waters, US Defense Secretary Pete Hegseth said, marking the first time since World War II that an American sub had attacked a surface vessel.",
+      "url": "https://www.livemint.com/news/us-sub-sinks-iranian-ship-in-first-torpedo-hit-since-wwii-11772637270857.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/NEWS_1733464049847_1733464070835.jpg",
+      "published_at": "2026-03-04T15:14:30.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "WWII తర్వాత మొదటి టార్పెడో హిట్‌లో యుఎస్ సబ్ ఇరానియన్ షిప్‌ను మునిగిపోయింది",
+      "summary_te": "యుఎస్ జలాంతర్గామి ఇరాన్ యుద్ధనౌకను అంతర్జాతీయ జలాల్లో ముంచిందని యుఎస్ డిఫెన్స్ సెక్రటరీ పీట్ హెగ్‌సేత్ చెప్పారు, రెండవ ప్రపంచ యుద్ధం తర్వాత ఒక అమెరికన్ సబ్ ఉపరితల నౌకపై దాడి చేయడం ఇదే మొదటిసారి.",
+      "translated": true
+    },
+    {
+      "id": "7061971b7aedd81969a6ac0fed2855a5",
+      "title": "‘Where is Kim Jong Un?’: Internet turns North Korean leader into meme amid US-Iran conflict",
+      "summary": "As tensions rise in the Middle East following US-Israel strikes on Iran, social media users have turned North Korean leader Kim Jong Un into an unlikely meme star, portraying him as a curious “bystander” watching global events unfold.",
+      "url": "https://www.livemint.com/news/trends/where-is-kim-jong-un-internet-turns-north-korean-leader-into-meme-amid-us-iran-conflict-11772632241069.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/HCOxHiRawAAgmx0_1772632225968_1772632237355.jpg",
+      "published_at": "2026-03-04T14:37:49.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘కిమ్ జోంగ్ ఉన్ ఎక్కడ?’: అమెరికా-ఇరాన్ వివాదం మధ్య ఇంటర్నెట్ ఉత్తర కొరియా నాయకుడిని పోటిగా మార్చింది",
+      "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ దాడుల తరువాత మధ్యప్రాచ్యంలో ఉద్రిక్తతలు పెరగడంతో, సోషల్ మీడియా వినియోగదారులు ఉత్తర కొరియా నాయకుడు కిమ్ జోంగ్ ఉన్‌ను అసంభవమైన మెమె స్టార్‌గా మార్చారు, ప్రపంచ సంఘటనలు జరగడాన్ని ఆసక్తిగా చూస్తున్న \"ప్రేక్షకుడిగా\" చిత్రీకరించారు.",
+      "translated": true
+    },
+    {
       "id": "bc3208975e59528141b29b99cd678d85",
-      "title": "Misinformation surges amid US-Iran conflict: Pakistani man hacks 31 accounts to post fake AI videos",
-      "summary": "As US-Israel strikes on Iran escalate, AI-generated war misinformation has surged online. X dismantled a Pakistan-based network running 31 fake accounts and updated its revenue-sharing rules, suspending users who post undisclosed AI conflict videos to curb coordinated disinformation campaigns.",
+      "title": "Pakistan says Saudi responded positively to its request for alternative oil supply route",
+      "summary": "Federal Minister for Petroleum Ali Pervaiz Malik held a meeting with Saudi Ambassador Nawaf bin Said Al-Malki during which the two discussed matters of mutual interest and bilateral cooperation, according to an official statement.",
       "url": "https://www.livemint.com/news/world/misinformation-surges-amid-us-iran-conflict-pakistani-man-hacks-31-accounts-to-post-fake-ai-videos-11772631445548.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/TOPSHOT-LEBANON-ISRAEL-IRAN-US-WAR-9_1772631965337_1772632004483_1772634020556.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/oil_1772635928886_1772635929035.jpg",
       "published_at": "2026-03-04T14:20:39.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "యుఎస్-ఇరాన్ వివాదం మధ్య తప్పుడు సమాచారం పెరిగింది: పాకిస్తాన్ వ్యక్తి నకిలీ AI వీడియోలను పోస్ట్ చేయడానికి 31 ఖాతాలను హ్యాక్ చేశాడు",
-      "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ దాడులు తీవ్రతరం కావడంతో, AI సృష్టించిన యుద్ధ తప్పుడు సమాచారం ఆన్‌లైన్‌లో పెరిగింది. X పాకిస్థాన్ ఆధారిత నెట్‌వర్క్‌ను 31 నకిలీ ఖాతాలను రద్దు చేసింది మరియు దాని ఆదాయ-భాగస్వామ్య నియమాలను నవీకరించింది, సమన్వయంతో కూడిన తప్పుడు ప్రచారాలను అరికట్టడానికి బహిర్గతం చేయని AI సంఘర్షణ వీడియోలను పోస్ట్ చేసే వినియోగదారులను సస్పెండ్ చేసింది.",
+      "title_te": "ప్రత్యామ్నాయ చమురు సరఫరా మార్గం కోసం సౌదీ చేసిన అభ్యర్థనకు సానుకూలంగా స్పందించిందని పాకిస్థాన్ పేర్కొంది",
+      "summary_te": "ఫెడరల్ పెట్రోలియం మంత్రి అలీ పర్వైజ్ మాలిక్ సౌదీ రాయబారి నవాఫ్ బిన్ సైద్ అల్-మల్కీతో సమావేశమయ్యారు, ఈ సందర్భంగా ఇద్దరూ పరస్పర ఆసక్తి మరియు ద్వైపాక్షిక సహకారం గురించి చర్చించినట్లు అధికారిక ప్రకటన తెలిపింది.",
       "translated": true
     },
     {
@@ -23,7 +93,7 @@
       "title": "Khamanei's son Mojtaba new Supreme Leader? Iran denies Israeli media reports",
       "summary": "Khamanei's son Mojtaba new Supreme Leader? Iran denies Israeli media reports",
       "url": "https://www.livemint.com/news/world/khamaneis-son-mojtaba-new-supreme-leader-iran-denies-israeli-media-reports-11772632550213.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/Iran-US-Mojtaba-Khamenei-Profile-0_1772634222607_1772634326008.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Iran-US-Mojtaba-Khamenei-Profile-0_1772634222607_1772634326008.jpg",
       "published_at": "2026-03-04T14:04:46.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -35,7 +105,7 @@
     {
       "id": "a1fbc2c56a0e46e8c04ec41dde30e8de",
       "title": "US midterms: Jasmine Crockett concedes defeat to James Talarico in Texas Democratic primaries; urges party unity",
-      "summary": "James Talarico won the Texas Senate Democratic primary, defeating Jasmine Crockett in a high-profile race. After conceding, Crockett urged party unity, saying Texas has the potential to turn blue and stressing that the election is about the future of all Texans.",
+      "summary": "James Talarico won the Texas Democratic Senate primary, defeating Jasmine Crockett, who urged party unity but plans to challenge voting issues. He now faces a GOP runoff between John Cornyn and Ken Paxton, as Republicans fear Democrats have a rare shot at flipping a Senate seat in Texas",
       "url": "https://www.livemint.com/news/us-news/us-midterms-jasmine-crockett-concedes-defeat-to-james-talarico-in-texas-democratic-primaries-urges-party-unity-11772632563131.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/USA-ELECTION-TEXAS-57_1772632632213_1772632644604.JPG",
       "published_at": "2026-03-04T13:59:31.000Z",
@@ -43,7 +113,7 @@
       "category": "business",
       "language": "en",
       "title_te": "US మధ్యకాలాలు: టెక్సాస్ డెమోక్రటిక్ ప్రైమరీలలో జేమ్స్ తలారికోతో జాస్మిన్ క్రోకెట్ ఓటమిని అంగీకరించింది; పార్టీ ఐక్యతను కోరారు",
-      "summary_te": "జేమ్స్ తలారికో టెక్సాస్ సెనేట్ డెమోక్రటిక్ ప్రైమరీని గెలుపొందాడు, హై-ప్రొఫైల్ రేసులో జాస్మిన్ క్రోకెట్‌ను ఓడించాడు. అంగీకరించిన తర్వాత, క్రోకెట్ పార్టీ ఐక్యతను కోరారు, టెక్సాస్ నీలం రంగులోకి మారే అవకాశం ఉందని మరియు ఎన్నికలు అన్ని టెక్సాన్ల భవిష్యత్తుకు సంబంధించినవని నొక్కి చెప్పారు.",
+      "summary_te": "జేమ్స్ తలారికో టెక్సాస్ డెమొక్రాటిక్ సెనేట్ ప్రైమరీని గెలుపొందారు, జాస్మిన్ క్రోకెట్‌ను ఓడించి, పార్టీ ఐక్యతను కోరారు, అయితే ఓటింగ్ సమస్యలను సవాలు చేయాలని యోచిస్తున్నారు. అతను ఇప్పుడు జాన్ కార్నిన్ మరియు కెన్ పాక్స్‌టన్ మధ్య GOP రన్‌ఆఫ్‌ను ఎదుర్కొంటున్నాడు, రిపబ్లికన్‌లు టెక్సాస్‌లో సెనేట్ సీటును తిప్పికొట్టడంలో డెమొక్రాట్‌లకు అరుదైన షాట్ ఉందని భయపడుతున్నారు.",
       "translated": true
     },
     {
@@ -71,7 +141,7 @@
       "category": "business",
       "language": "en",
       "title_te": "పశ్చిమాసియా సంక్షోభం తీవ్రతరం కావడంతో ఇన్వెస్టర్ల సంపద రెండు రోజుల్లో రూ.16.32 లక్షల కోట్లు క్షీణించింది.",
-      "summary_te": "అమెరికా, ఇజ్రాయెల్ మరియు ఇరాన్‌ల మధ్య వివాదం గణనీయంగా పెరగడంతో స్టాక్ మార్కెట్‌లో రెండు రోజుల పతనంలో ఈక్విటీ పెట్టుబడిదారులు రూ. 16.32 లక్షల కోట్ల మేర పేదలుగా మారారు.",
+      "summary_te": "అమెరికా, ఇజ్రాయెల్ మరియు ఇరాన్‌ల మధ్య వివాదం గణనీయంగా పెరిగిన తర్వాత స్టాక్ మార్కెట్‌లో రెండు రోజుల పతనంలో ఈక్విటీ పెట్టుబడిదారులు రూ. 16.32 లక్షల కోట్ల మేర పేదలుగా మారారు.",
       "translated": true
     },
     {
@@ -85,7 +155,7 @@
       "category": "business",
       "language": "en",
       "title_te": "US-ఇరాన్ వివాదం: ఇజ్రాయెలీ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 జెట్‌ను కూల్చివేసింది; 'చరిత్రలో మొదటిది' అని IDF పేర్కొంది",
-      "summary_te": "ఇజ్రాయెల్ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 ఫైటర్ జెట్‌ను కూల్చివేసిందని, ఇది సిబ్బందితో కూడిన విమానంలో స్టెల్త్ జెట్ యొక్క మొట్టమొదటి గాలి నుండి గగనతల విజయంగా గుర్తించిందని IDF బుధవారం తెలిపింది. ఇరాన్ పరిమిత వైమానిక దళం సంఘర్షణలో మరింత నష్టపోయింది.",
+      "summary_te": "ఇజ్రాయెల్ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 ఫైటర్ జెట్‌ను కూల్చివేసిందని, ఇది సిబ్బందితో కూడిన విమానంలో స్టెల్త్ జెట్ యొక్క మొట్టమొదటి గాలి నుండి గగనతల విజయంగా గుర్తించిందని IDF బుధవారం తెలిపింది. ఇరాన్ యొక్క పరిమిత వైమానిక దళం ఈ వివాదంలో మరింత నష్టాలను చవిచూసింది.",
       "translated": true
     },
     {
@@ -113,7 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "‘నన్ను ముందుగా వెళ్లనివ్వండి’: ప్రపోజ్ చేయడానికి ట్రాఫిక్ ద్వారా 932 కి.మీ డ్రైవ్ చేసిన వ్యక్తి, బ్యానర్ వైరల్",
-      "summary_te": "భారీ హాలిడే ట్రాఫిక్‌లో ఒక వ్యక్తి 932 కి.మీ రోడ్ ట్రిప్ — “నన్ను ముందుగా వెళ్లనివ్వండి” అని డ్రైవర్‌లను అడిగే బ్యానర్‌తో అతను తన గర్ల్‌ఫ్రెండ్‌కి ప్రపోజ్ చేయడంతో ఆన్‌లైన్‌లో వైరల్ ప్రేమ కథగా మారింది.",
+      "summary_te": "భారీ హాలిడే ట్రాఫిక్‌లో ఒక వ్యక్తి 932 కి.మీ రోడ్ ట్రిప్ — “నన్ను ముందుగా వెళ్లనివ్వండి” అని డ్రైవర్‌లను అడిగే బ్యానర్‌తో అతను తన గర్ల్‌ఫ్రెండ్‌కు ప్రపోజ్ చేయడంతో - ఆన్‌లైన్‌లో వైరల్ ప్రేమకథగా మారింది.",
       "translated": true
     },
     {
@@ -126,8 +196,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "యుఎస్ మిలిటరీ ఈక్వెడార్‌లో సంయుక్త మాదక ద్రవ్యాల అక్రమ రవాణా కార్యకలాపాలను ప్రారంభించింది",
-      "summary_te": "ఈ ప్రకటనను యునైటెడ్ స్టేట్స్ సదరన్ కమాండ్ (సౌత్‌కామ్) ధృవీకరించింది, ఈక్వెడార్ మరియు యుఎస్ దళాలు మార్చి 3 న దేశంలో పనిచేస్తున్న \"నియమించబడిన తీవ్రవాద సంస్థల\"కి వ్యతిరేకంగా సమన్వయ కార్యకలాపాలను ప్రారంభించాయని పేర్కొంది.",
+      "title_te": "యుఎస్ మిలిటరీ ఈక్వెడార్‌లో సంయుక్త మాదకద్రవ్యాల అక్రమ రవాణా కార్యకలాపాలను ప్రారంభించింది",
+      "summary_te": "ఈ ప్రకటనను యునైటెడ్ స్టేట్స్ సదరన్ కమాండ్ (సౌత్‌కామ్) ధృవీకరించింది, ఈక్వెడార్ మరియు యుఎస్ దళాలు మార్చి 3న దేశంలో పనిచేస్తున్న \"నియమించబడిన తీవ్రవాద సంస్థల\"కి వ్యతిరేకంగా సమన్వయ కార్యకలాపాలను ప్రారంభించాయని పేర్కొంది.",
       "translated": true
     },
     {
@@ -168,8 +238,8 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం F&O కాంట్రాక్టులను ప్రారంభించేందుకు BSE సెబీ ఆమోదం పొందింది",
-      "summary_te": "సెన్సెక్స్ 30 వెలుపలి టాప్ లిక్విడ్ కంపెనీలను ట్రాక్ చేస్తూ, సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం నెలవారీ ఫ్యూచర్స్ మరియు ఆప్షన్‌లను ప్రారంభించడానికి BSE SEBI అనుమతిని పొందింది. బలమైన BSE పనితీరు మరియు పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తి మధ్య ఈ చర్య డెరివేటివ్ ఆఫర్‌లను విస్తరిస్తుంది.",
+      "title_te": "సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం F&O కాంట్రాక్టులను ప్రారంభించేందుకు BSE సెబీ అనుమతిని అందుకుంది",
+      "summary_te": "సెన్సెక్స్ 30 వెలుపలి టాప్ లిక్విడ్ కంపెనీలను ట్రాక్ చేస్తూ, సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం నెలవారీ ఫ్యూచర్స్ మరియు ఆప్షన్‌లను ప్రారంభించడానికి BSE SEBI ఆమోదాన్ని పొందింది. బలమైన BSE పనితీరు మరియు పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తి మధ్య ఈ చర్య డెరివేటివ్ ఆఫర్‌లను విస్తరిస్తుంది.",
       "translated": true
     },
     {
@@ -239,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బెంగుళూరులో వంట చేసే విషయంలో అత్తగారితో గొడవపడి ఆత్మహత్య చేసుకున్న టెక్కీ, భర్త అరెస్ట్",
-      "summary_te": "35 ఏళ్ల బెంగళూరు టెక్ ప్రొఫెషనల్ వంట చేసే విషయంలో తన అత్తగారితో గొడవపడి ఆత్మహత్యకు పాల్పడింది. అత్తమామలు వరకట్నం వేధిస్తున్నారని ఆమె కుటుంబ సభ్యులు ఆరోపించడంతో పోలీసులు ఆమె భర్తను అరెస్ట్ చేశారు.",
+      "summary_te": "35 ఏళ్ల బెంగళూరు టెక్ ప్రొఫెషనల్ వంట చేసే విషయంలో తన అత్తగారితో గొడవపడి ఆత్మహత్యకు పాల్పడింది. అత్తమామలు వరకట్న వేధింపులకు పాల్పడుతున్నారని ఆమె కుటుంబ సభ్యులు ఆరోపించడంతో పోలీసులు ఆమె భర్తను అరెస్ట్ చేశారు.",
       "translated": true
     },
     {
@@ -253,7 +323,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్రంప్ పరిపాలన యొక్క 'జాతీయ భద్రతా ప్రమాదం' నిషేధం తర్వాత US రక్షణ కాంట్రాక్టర్లు ఆంత్రోపిక్ యొక్క AIని తొలగిస్తున్నారు",
-      "summary_te": "ట్రంప్ ఆదేశాలను అనుసరించి, U.S. రక్షణ కాంట్రాక్టర్లు తమ కార్యకలాపాల నుండి ఆంత్రోపిక్ యొక్క AI సాధనాలను తొలగించడానికి సిద్ధంగా ఉన్నారు. ఆంత్రోపిక్ సరఫరా గొలుసు ప్రమాదాన్ని కలిగిస్తుందని రక్షణ కార్యదర్శి హెగ్‌సేత్ పేర్కొన్నారు. ముఖ్యమైన ప్రభుత్వ ఒప్పందాలు వాటాలో ఉన్నందున కాంట్రాక్టర్‌ల మధ్య వర్తింపు అంచనా వేయబడింది.",
+      "summary_te": "ట్రంప్ ఆదేశాలను అనుసరించి, U.S. రక్షణ కాంట్రాక్టర్లు తమ కార్యకలాపాల నుండి ఆంత్రోపిక్ యొక్క AI సాధనాలను తొలగించడానికి సిద్ధంగా ఉన్నారు. ఆంత్రోపిక్ సరఫరా గొలుసు ప్రమాదాన్ని కలిగిస్తుందని రక్షణ కార్యదర్శి హెగ్‌సేత్ పేర్కొన్నారు. ముఖ్యమైన ప్రభుత్వ ఒప్పందాలు వాటాలో ఉన్నందున కాంట్రాక్టర్ల మధ్య వర్తింపు అంచనా వేయబడింది.",
       "translated": true
     },
     {
@@ -324,76 +394,6 @@
       "language": "en",
       "title_te": "సీనియర్ జర్నలిస్ట్ మరియు పద్మభూషణ్ అవార్డు గ్రహీత హెచ్‌కె దువా (88) కన్నుమూశారు",
       "summary_te": "మూడు వారాల క్రితం అస్వస్థతకు గురై ఓ ప్రైవేటు ఆసుపత్రిలో చేరాడు. ఆయన అంత్యక్రియలు మార్చి 5వ తేదీ మధ్యాహ్నం 12 గంటలకు లోధి రోడ్ శ్మశానవాటికలో నిర్వహించనున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "b92c52daf6d2ae0ea1753de4ee615047",
-      "title": "Iranians begin 3-day farewell ceremony for Khamenei; Israel warns his successor will be ‘target for elimination’",
-      "summary": "Earlier in the day, the Israeli media reported that Ayatollah Khamenei's son, Mojtaba, had been chosen as his successor. He will soon take over as the Supreme Leader. Immediately, Israel sent a warning that Khamenei's successor would also be targeted.",
-      "url": "https://www.livemint.com/news/world/iranians-begin-3-day-farewell-ceremony-for-khamenei-israel-warns-his-successor-will-be-target-for-elimination-11772614611627.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-INDIA-PROTESTS-7_1772617230141_1772617265897.JPG",
-      "published_at": "2026-03-04T09:42:04.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరానియన్లు ఖమేనీకి 3-రోజుల వీడ్కోలు వేడుకను ప్రారంభించారు; ఇజ్రాయెల్ తన వారసుడు 'తొలగింపు లక్ష్యం' అని హెచ్చరించింది",
-      "summary_te": "అయతుల్లా ఖమేనీ కుమారుడు మోజ్తాబాను ఆయన వారసుడిగా ఎన్నుకున్నట్లు ఇజ్రాయెల్ మీడియా అంతకుముందు రోజు వెల్లడించింది. ఆయన త్వరలో సుప్రీం లీడర్‌గా బాధ్యతలు స్వీకరించనున్నారు. వెంటనే, ఖమేనీ వారసుడిని కూడా లక్ష్యంగా చేసుకుంటామని ఇజ్రాయెల్ హెచ్చరిక పంపింది.",
-      "translated": true
-    },
-    {
-      "id": "ad1f59d68c320d6342a13ba597d8db6f",
-      "title": "First bust of Mahatma Gandhi unveiled at Northwestern University in Illinois",
-      "summary": "Montana Governor Greg Gianforte and the Consul General of India in Seattle, Prakash Gupta, ‘unveiled the first bust of Mahatma Gandhi in Montana at the prestigious Mike Mansfield Centre at University of Montana in Missoula,’ on Tuesday.",
-      "url": "https://www.livemint.com/news/world/first-bust-of-mahatma-gandhi-unveiled-at-northwestern-university-in-illinois-11772616374383.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Mahatama_Gandhi_1772616518500_1772616527170.png",
-      "published_at": "2026-03-04T09:39:08.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇల్లినాయిస్‌లోని నార్త్‌వెస్టర్న్ యూనివర్శిటీలో మహాత్మా గాంధీ మొదటి ప్రతిమను ఆవిష్కరించారు",
-      "summary_te": "మోంటానా గవర్నర్ గ్రెగ్ జియాన్‌ఫోర్టే మరియు సీటెల్‌లోని భారత కాన్సుల్ జనరల్ ప్రకాష్ గుప్తా మంగళవారం 'మిస్సౌలాలోని మోంటానా విశ్వవిద్యాలయంలోని ప్రతిష్టాత్మక మైక్ మాన్స్‌ఫీల్డ్ సెంటర్‌లో మోంటానాలోని మహాత్మా గాంధీ మొదటి ప్రతిమను ఆవిష్కరించారు.",
-      "translated": true
-    },
-    {
-      "id": "a4bbcd6612d2bfef16261a61d9f21c35",
-      "title": "Quote of the Day by Catherine O'Hara on life's adversities: ‘Everyone is born with humor, but….’",
-      "summary": "Catherine O'Hara, known for her roles in Home Alone and Schitt's Creek, believed humor is innate but can be suppressed by life's challenges. As we mark her birthday, we reflect on her impactful words.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-catherine-ohara-on-lifes-adversities-everyone-is-born-with-humor-but-11772613553165.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/PEOPLE-CATHERINE-O-HARA--0_1772615435428_1772615447690.JPG",
-      "published_at": "2026-03-04T09:34:21.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జీవితంలో ఎదురయ్యే కష్టాలపై కేథరీన్ ఓ'హరా రాసిన కోట్ ఆఫ్ ది డే: 'ప్రతి ఒక్కరూ హాస్యంతోనే పుడతారు, కానీ....'",
-      "summary_te": "హోమ్ అలోన్ మరియు స్చిట్స్ క్రీక్‌లలో తన పాత్రలకు పేరుగాంచిన కేథరీన్ ఓ'హారా, హాస్యం సహజసిద్ధమైనదని నమ్ముతారు, అయితే జీవితంలో ఎదురయ్యే సవాళ్లతో దానిని అణచివేయవచ్చు. మేము ఆమె పుట్టినరోజును గుర్తు చేస్తున్నప్పుడు, మేము ఆమె ప్రభావవంతమైన మాటలను ప్రతిబింబిస్తాము.",
-      "translated": true
-    },
-    {
-      "id": "38e295bb34cc471ac8a2aa5a641e82e5",
-      "title": "Quote of the Day by Marie Curie on everyday challenges: ‘Nothing in life is to be feared…’",
-      "summary": "Marie Curie's perspective emphasizes understanding as a remedy for fear. Her life and work in science illustrate that knowledge can replace anxiety with clarity, encouraging curiosity and patience when confronting challenges.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-by-marie-curie-on-everyday-challenges-nothing-in-life-is-to-be-feared-11772615289980.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Marie_Curie_1772615642184_1772615645908.jpg",
-      "published_at": "2026-03-04T09:16:35.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రోజువారీ సవాళ్లపై మేరీ క్యూరీ యొక్క కోట్ ఆఫ్ ది డే: 'జీవితంలో దేనికీ భయపడాల్సిన అవసరం లేదు...'",
-      "summary_te": "మేరీ క్యూరీ యొక్క దృక్పథం భయానికి నివారణగా అవగాహనను నొక్కి చెబుతుంది. ఆమె జీవితం మరియు సైన్స్‌లో చేసిన పని విజ్ఞానం ఆందోళనను స్పష్టతతో భర్తీ చేయగలదని, సవాళ్లను ఎదుర్కొన్నప్పుడు ఉత్సుకత మరియు సహనాన్ని ప్రోత్సహిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "25b3102e8c8d5d5ff6cd4183cb8a3723",
-      "title": "New business registrations surge 37% in February, signal strong startup sentiment",
-      "summary": "The majority of new businesses are closely held, private limited companies. New government companies accounted for only a handful of incorporations each month",
-      "url": "https://www.livemint.com/news/india/new-business-registrations-india-company-registrations-february-11772544307585.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/03/1600x900/logo/pexels-photo-4050312_1763356004406_1763356033927_1772548056928.jpeg",
-      "published_at": "2026-03-04T08:38:54.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఫిబ్రవరిలో కొత్త వ్యాపార నమోదులు 37% పెరిగాయి, ఇది బలమైన స్టార్టప్ సెంటిమెంట్‌ను సూచిస్తుంది",
-      "summary_te": "మెజారిటీ కొత్త వ్యాపారాలు ప్రైవేట్ లిమిటెడ్ కంపెనీలకు దగ్గరగా ఉన్నాయి. కొత్త ప్రభుత్వ కంపెనీలు ప్రతి నెలా కొన్ని ఇన్‌కార్పొరేషన్‌లను మాత్రమే కలిగి ఉన్నాయి",
       "translated": true
     },
     {
