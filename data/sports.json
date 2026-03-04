@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-04T16:43:05.577Z",
-  "updated_at_IST": "4/3/2026, 10:13:05 pm",
+  "updated_at": "2026-03-04T17:44:29.503Z",
+  "updated_at_IST": "4/3/2026, 11:14:29 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "561d7e288af92bbcf1db4d27972084d1",
+      "title": "Markram: We could have adapted quicker to post 190",
+      "summary": "The South Africa captain expected the Eden Gardens track to play much better for the batters in the first semi-final",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526875.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414362.jpg",
+      "published_at": "2026-03-04T17:26:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మార్క్రామ్: మేము 190ని పోస్ట్ చేయడానికి త్వరగా స్వీకరించవచ్చు",
+      "summary_te": "దక్షిణాఫ్రికా కెప్టెన్ ఈడెన్ గార్డెన్స్ ట్రాక్ మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు మెరుగ్గా ఆడుతుందని ఆశించాడు",
+      "translated": true
+    },
+    {
+      "id": "7117de2a657f14dc15ebef3327436288",
+      "title": "Allen, Henry power New Zealand to their second men's T20 World Cup final",
+      "summary": "Seifert supported Allen after Henry and Ravindra restricted South Africa to a below-par total in Eden Gardens",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526873.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414363.jpg",
+      "published_at": "2026-03-04T17:26:06.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "అలెన్, హెన్రీ న్యూజిలాండ్‌ను వారి రెండవ పురుషుల T20 ప్రపంచ కప్ ఫైనల్‌కు బలపరిచారు",
+      "summary_te": "హెన్రీ మరియు రవీంద్ర ఈడెన్ గార్డెన్స్‌లో దక్షిణాఫ్రికాను తక్కువ స్థాయికి పరిమితం చేసిన తర్వాత సీఫెర్ట్ అలెన్‌కు మద్దతు ఇచ్చాడు.",
+      "translated": true
+    },
     {
       "id": "84a9ff76da1061c5d60613de33edb576",
       "title": "Sulakshan Kulkarni takes over as Oman head coach",
@@ -29,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
-      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్‌లో 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
       "translated": true
     },
     {
@@ -182,7 +210,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -211,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
+      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
       "translated": true
     },
     {
@@ -323,35 +351,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పురుషుల హండ్రెడ్ వేలం కోసం మార్క్యూ పేర్లలో హరీస్ రౌఫ్",
-      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్ కోసం ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
-      "translated": true
-    },
-    {
-      "id": "42d096a4a6d430d0f84ddd9b921b62a9",
-      "title": "PCB fines Pakistan players for underwhelming T20 World Cup campaign",
-      "summary": "The players have been fined PKR 5 million (US$ 18,000 approx.) each after missing out on the semi-finals of an ICC men's event for the fourth successive time",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526626.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413584.jpg",
-      "published_at": "2026-03-02T14:27:06.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "టీ20 ప్రపంచకప్‌లో పాక్‌ ఆటగాళ్లకు పీసీబీ జరిమానా విధించింది",
-      "summary_te": "ICC పురుషుల ఈవెంట్‌లో వరుసగా నాలుగో సారి సెమీ-ఫైనల్స్‌లో తప్పిపోయిన ఆటగాళ్లకు ఒక్కొక్కరికి PKR 5 మిలియన్లు (సుమారు US$ 18,000) జరిమానా విధించబడింది.",
-      "translated": true
-    },
-    {
-      "id": "d8b9ecf6c2925bec827d2e9919df5dfe",
-      "title": "India to host Afghanistan for one Test and three ODIs in June",
-      "summary": "This will only be the second Test between the two sides, after the first one was played in 2018",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526608.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/383300/383380.jpg",
-      "published_at": "2026-03-02T07:16:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "జూన్‌లో ఆఫ్ఘనిస్థాన్‌కు ఒక టెస్టు, మూడు వన్డేలకు భారత్ ఆతిథ్యం ఇవ్వనుంది",
-      "summary_te": "2018లో తొలి టెస్టు జరిగిన తర్వాత ఇరు జట్ల మధ్య ఇది ​​రెండో టెస్టు మాత్రమే",
+      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్‌లో ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
       "translated": true
     }
   ]

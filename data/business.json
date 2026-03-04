@@ -1,15 +1,71 @@
 {
-  "updated_at": "2026-03-04T16:43:05.577Z",
-  "updated_at_IST": "4/3/2026, 10:13:05 pm",
+  "updated_at": "2026-03-04T17:44:29.503Z",
+  "updated_at_IST": "4/3/2026, 11:14:29 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "1cf652e523b548d6c04ba7fc2efcf97b",
+      "title": "UK police arrest 3 men on suspicion of spying for China, one is Labour MP Joani Reid's husband",
+      "summary": "Three men have been arrested in the UK on suspicion of assisting Chinese intelligence under the National Security Act. One of the suspects is the husband of Labour MP Joani Reid, who said she has seen no evidence that he broke the law.",
+      "url": "https://www.livemint.com/news/world/uk-police-arrest-3-men-on-suspicion-of-spying-for-china-one-is-labour-mp-joani-reids-husband-11772643645271.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/USA-EPSTEIN-BRITAIN-MANDELSON-7_1772644105595_1772644118111.JPG",
+      "published_at": "2026-03-04T17:19:17.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "చైనా కోసం గూఢచర్యం చేస్తున్నారనే అనుమానంతో UK పోలీసులు ముగ్గురు వ్యక్తులను అరెస్టు చేశారు, ఒకరు లేబర్ ఎంపీ జోనీ రీడ్ భర్త",
+      "summary_te": "జాతీయ భద్రతా చట్టం కింద చైనా ఇంటెలిజెన్స్‌కు సహాయం చేశారనే అనుమానంతో UKలో ముగ్గురు వ్యక్తులను అరెస్టు చేశారు. అనుమానితులలో ఒకరు లేబర్ ఎంపీ జోనీ రీడ్ భర్త, అతను చట్టాన్ని ఉల్లంఘించినట్లు తనకు ఎలాంటి ఆధారాలు కనిపించలేదని చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "a9ad951fa4f2845ecbfbdf3a1dcdd1c1",
+      "title": "Iran drone attacks may disrupt Strait of Hormuz for months; sustainability of missile barrage uncertain",
+      "summary": "The size of its missile stockpile is unknown, with estimates ranging from 2,500 by Israel's military to around 6,000 according to other analysts. How much of Iran's arms cache remains could be a key factor in determining the course of the war.",
+      "url": "https://www.livemint.com/news/world/iran-drone-attacks-may-disrupt-strait-of-hormuz-for-months-sustainability-of-missile-barrage-uncertain-11772643397817.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-ENERGY-3_1772643987259_1772643995007.JPG",
+      "published_at": "2026-03-04T17:13:43.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ డ్రోన్ దాడులు నెలల తరబడి హార్ముజ్ జలసంధికి అంతరాయం కలిగించవచ్చు; క్షిపణి బ్యారేజీ యొక్క స్థిరత్వం అనిశ్చితంగా ఉంది",
+      "summary_te": "దాని క్షిపణి నిల్వ పరిమాణం తెలియదు, ఇతర విశ్లేషకుల ప్రకారం ఇజ్రాయెల్ సైన్యం 2,500 నుండి దాదాపు 6,000 వరకు ఉంటుందని అంచనా. ఇరాన్ ఆయుధ నిల్వలో ఎంత భాగం మిగిలి ఉంది అనేది యుద్ధ గమనాన్ని నిర్ణయించడంలో కీలకమైన అంశం.",
+      "translated": true
+    },
+    {
+      "id": "a2d4babcc511483d9fad3d6d3fcbce00",
+      "title": "Father sues Google after Gemini chatbot allegedly encouraged son to kill himself",
+      "summary": "A US father has filed a wrongful death lawsuit against Google and Alphabet, alleging the company’s Gemini AI chatbot pushed his son into dangerous delusions that eventually led to his suicide.",
+      "url": "https://www.livemint.com/news/world/father-sues-google-after-gemini-chatbot-allegedly-encouraged-son-to-kill-himself-11772642909433.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/ALPHABET-GEMINI--0_1766050395201_1766050421020_1772642930538.JPG",
+      "published_at": "2026-03-04T16:59:53.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "జెమినీ చాట్‌బాట్ తన కొడుకును ఆత్మహత్య చేసుకోమని ప్రోత్సహించినందుకు తండ్రి గూగుల్‌పై దావా వేశారు",
+      "summary_te": "కంపెనీకి చెందిన జెమినీ AI చాట్‌బాట్ తన కొడుకును ప్రమాదకరమైన భ్రమల్లోకి నెట్టిందని ఆరోపిస్తూ, చివరికి అతని ఆత్మహత్యకు దారితీసిందని ఆరోపిస్తూ, Google మరియు ఆల్ఫాబెట్‌పై US తండ్రి తప్పుడు మరణ దావా వేశారు.",
+      "translated": true
+    },
+    {
+      "id": "3e9504b8aeb109ecbac168903f6898e3",
+      "title": "Turkey says NATO defences destroyed incoming Iran missile",
+      "summary": "A NATO spokesperson said it condemned Iran's targeting of Turkey, which has the bloc's second-largest military, and that it stood firmly with all allies",
+      "url": "https://www.livemint.com/news/world/turkey-says-nato-defences-destroyed-incoming-iran-missile-11772642494417.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-TURKEY-MISSILE-0_1772643445224_1772643477641_1772643535287.JPG",
+      "published_at": "2026-03-04T16:59:08.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "NATO రక్షణ ఇన్‌కమింగ్ ఇరాన్ క్షిపణిని నాశనం చేసిందని టర్కీ పేర్కొంది",
+      "summary_te": "కూటమి యొక్క రెండవ అతిపెద్ద మిలిటరీని కలిగి ఉన్న టర్కీని ఇరాన్ లక్ష్యంగా చేసుకోవడాన్ని ఖండిస్తున్నామని మరియు అది అన్ని మిత్రదేశాలతో దృఢంగా ఉందని నాటో ప్రతినిధి ఒకరు తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "61626949e920b66cb88308459dc99250",
       "title": "BLF executes 7 Pak soldiers captured in ‘Operation Herof II’, says Islamabad's prisoner swap plan ‘deceptive tactic’",
       "summary": "The BLA said it executed seven Pakistani soldiers captured during ‘Operation Herof II’, accusing Islamabad of stalling prisoner swap talks while escalating military action. It blamed Pakistan’s top brass for the deaths.&nbsp;",
       "url": "https://www.livemint.com/news/world/blf-executes-7-pak-soldiers-captured-in-operation-herof-ii-says-islamabads-prisoner-swap-plan-deceptive-tactic-11772638708946.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/2-0-1390447943-Pakistan-flag-0_1679763127863_1772639078217.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/PAKISTAN-AFGHANISTAN-CONFLICT-2_1772174193718_1772174199271_1772642431220.jpg",
       "published_at": "2026-03-04T16:25:23.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -29,7 +85,7 @@
       "category": "business",
       "language": "en",
       "title_te": "నమ్మకం మరియు పశ్చాత్తాపంపై బాబ్ డైలాన్ రాసిన కోట్ ఆఫ్ ది డే: 'ప్రజలు తాము నమ్మిన వాటిని చాలా అరుదుగా చేస్తారు...'",
-      "summary_te": "ఈ రోజు కోట్ ఆఫ్ ది డేలో బాబ్ డైలాన్ ప్రజలు తాము నిజంగా విశ్వసించే వాటికి బదులుగా సులభమైనదాన్ని ఎలా ఎంచుకుంటారో ప్రతిబింబించేలా ఉంది. అతని మాటలు నమ్మకం మరియు చర్య మధ్య అంతరాన్ని హైలైట్ చేస్తాయి మరియు సూత్రం కంటే సౌలభ్యం ప్రాధాన్యతను తీసుకున్నప్పుడు అనుసరించే విచారం.",
+      "summary_te": "ఈ రోజు కోట్ ఆఫ్ ది డేలో బాబ్ డైలాన్ ప్రజలు తాము నిజంగా నమ్మేవాటికి బదులుగా సులభమైనదాన్ని ఎలా ఎంచుకుంటారో ప్రతిబింబించేలా ఉంది. అతని మాటలు నమ్మకం మరియు చర్య మధ్య అంతరాన్ని హైలైట్ చేస్తాయి మరియు సూత్రం కంటే సౌలభ్యం ప్రాధాన్యతను తీసుకున్నప్పుడు అనుసరించే విచారం.",
       "translated": true
     },
     {
@@ -112,7 +168,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "వాంఖడే స్టేడియంలో మార్చి 5న భారత్ వర్సెస్ ఇంగ్లండ్ టీ20 సెమీఫైనల్ కోసం ముంబై ట్రాఫిక్ సలహా: మార్గాలను తనిఖీ చేయండి",
+      "title_te": "వాంఖడే స్టేడియంలో మార్చి 5న భారత్ vs ఇంగ్లండ్ టీ20 సెమీ-ఫైనల్ కోసం ముంబై ట్రాఫిక్ సలహా: మార్గాలను తనిఖీ చేయండి",
       "summary_te": "భారత్-ఇంగ్లండ్ టీ20 సెమీఫైనల్: వాంఖడే స్టేడియంలో సాయంత్రం 7 గంటలకు మ్యాచ్ జరగాల్సి ఉంది, సాయంత్రం 4 గంటలకు ప్రవేశ ద్వారాలు తెరవబడతాయి. భారీ సంఖ్యలో ప్రజలు హాజరుకావడంతో, అధికారులు 'మెరైన్ డ్రైవ్ ప్రాంతంలో మరియు చుట్టుపక్కల ట్రాఫిక్ రద్దీని అంచనా వేస్తున్నారు'",
       "translated": true
     },
@@ -140,7 +196,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "WWII తర్వాత మొదటి టార్పెడో హిట్‌లో యుఎస్ సబ్ ఇరానియన్ ఓడను మునిగిపోయింది",
+      "title_te": "WWII తర్వాత మొదటి టార్పెడో హిట్‌లో యుఎస్ సబ్ ఇరానియన్ షిప్‌ను మునిగిపోయింది",
       "summary_te": "యుఎస్ జలాంతర్గామి ఇరాన్ యుద్ధనౌకను అంతర్జాతీయ జలాల్లో ముంచిందని యుఎస్ డిఫెన్స్ సెక్రటరీ పీట్ హెగ్‌సేత్ చెప్పారు, రెండవ ప్రపంచ యుద్ధం తర్వాత ఒక అమెరికన్ సబ్ ఉపరితల నౌకపై దాడి చేయడం ఇదే మొదటిసారి.",
       "translated": true
     },
@@ -239,7 +295,7 @@
       "category": "business",
       "language": "en",
       "title_te": "పశ్చిమాసియా సంక్షోభం తీవ్రతరం కావడంతో ఇన్వెస్టర్ల సంపద రెండు రోజుల్లో రూ.16.32 లక్షల కోట్లు క్షీణించింది.",
-      "summary_te": "అమెరికా, ఇజ్రాయెల్ మరియు ఇరాన్‌ల మధ్య వివాదం గణనీయంగా పెరగడంతో స్టాక్ మార్కెట్‌లో రెండు రోజుల పతనంలో ఈక్విటీ పెట్టుబడిదారులు రూ. 16.32 లక్షల కోట్ల మేర పేదలుగా మారారు.",
+      "summary_te": "అమెరికా, ఇజ్రాయెల్ మరియు ఇరాన్‌ల మధ్య వివాదం గణనీయంగా పెరిగిన తర్వాత స్టాక్ మార్కెట్‌లో రెండు రోజుల పతనంలో ఈక్విటీ పెట్టుబడిదారులు రూ. 16.32 లక్షల కోట్ల మేర పేదలుగా మారారు.",
       "translated": true
     },
     {
@@ -253,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "US-ఇరాన్ వివాదం: ఇజ్రాయెలీ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 జెట్‌ను కూల్చివేసింది; 'చరిత్రలో మొదటిది' అని IDF పేర్కొంది",
-      "summary_te": "ఇజ్రాయెల్ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 ఫైటర్ జెట్‌ను కూల్చివేసిందని, ఇది సిబ్బందితో కూడిన విమానంలో స్టెల్త్ జెట్ యొక్క మొట్టమొదటి గాలి నుండి గగనతల విజయంగా గుర్తించిందని IDF బుధవారం తెలిపింది. ఇరాన్ పరిమిత వైమానిక దళం సంఘర్షణలో మరింత నష్టపోయింది.",
+      "summary_te": "ఇజ్రాయెల్ F-35I టెహ్రాన్ మీదుగా ఇరానియన్ యాక్-130 ఫైటర్ జెట్‌ను కూల్చివేసిందని, ఇది సిబ్బందితో కూడిన విమానంలో స్టెల్త్ జెట్ యొక్క మొట్టమొదటి గాలి నుండి గగనతల విజయంగా గుర్తించిందని IDF బుధవారం తెలిపింది. ఇరాన్ యొక్క పరిమిత వైమానిక దళం ఈ వివాదంలో మరింత నష్టాలను చవిచూసింది.",
       "translated": true
     },
     {
@@ -281,7 +337,7 @@
       "category": "business",
       "language": "en",
       "title_te": "‘నన్ను ముందుగా వెళ్లనివ్వండి’: ప్రపోజ్ చేయడానికి ట్రాఫిక్ ద్వారా 932 కి.మీ డ్రైవ్ చేసిన వ్యక్తి, బ్యానర్ వైరల్",
-      "summary_te": "భారీ హాలిడే ట్రాఫిక్‌లో ఒక వ్యక్తి 932 కి.మీ రోడ్ ట్రిప్ — “నన్ను ముందుగా వెళ్లనివ్వండి” అని డ్రైవర్‌లను అడిగే బ్యానర్‌తో అతను తన గర్ల్‌ఫ్రెండ్‌కి ప్రపోజ్ చేయడంతో ఆన్‌లైన్‌లో వైరల్ ప్రేమ కథగా మారింది.",
+      "summary_te": "భారీ హాలిడే ట్రాఫిక్‌లో ఒక వ్యక్తి 932 కి.మీ రోడ్ ట్రిప్ — “నన్ను ముందుగా వెళ్లనివ్వండి” అని డ్రైవర్‌లను అడిగే బ్యానర్‌తో అతను తన గర్ల్‌ఫ్రెండ్‌కు ప్రపోజ్ చేయడంతో - ఆన్‌లైన్‌లో వైరల్ ప్రేమకథగా మారింది.",
       "translated": true
     },
     {
@@ -294,8 +350,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "యుఎస్ మిలిటరీ ఈక్వెడార్‌లో సంయుక్త మాదక ద్రవ్యాల అక్రమ రవాణా కార్యకలాపాలను ప్రారంభించింది",
-      "summary_te": "ఈ ప్రకటనను యునైటెడ్ స్టేట్స్ సదరన్ కమాండ్ (సౌత్‌కామ్) ధృవీకరించింది, ఈక్వెడార్ మరియు యుఎస్ దళాలు మార్చి 3 న దేశంలో పనిచేస్తున్న \"నియమించబడిన తీవ్రవాద సంస్థల\"కి వ్యతిరేకంగా సమన్వయ కార్యకలాపాలను ప్రారంభించాయని పేర్కొంది.",
+      "title_te": "యుఎస్ మిలిటరీ ఈక్వెడార్‌లో సంయుక్త మాదకద్రవ్యాల అక్రమ రవాణా కార్యకలాపాలను ప్రారంభించింది",
+      "summary_te": "ఈ ప్రకటనను యునైటెడ్ స్టేట్స్ సదరన్ కమాండ్ (సౌత్‌కామ్) ధృవీకరించింది, ఈక్వెడార్ మరియు యుఎస్ దళాలు మార్చి 3న దేశంలో పనిచేస్తున్న \"నియమించబడిన తీవ్రవాద సంస్థల\"కి వ్యతిరేకంగా సమన్వయ కార్యకలాపాలను ప్రారంభించాయని పేర్కొంది.",
       "translated": true
     },
     {
@@ -336,8 +392,8 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం F&O కాంట్రాక్టులను ప్రారంభించేందుకు BSE సెబీ ఆమోదం పొందింది",
-      "summary_te": "సెన్సెక్స్ 30 వెలుపలి టాప్ లిక్విడ్ కంపెనీలను ట్రాక్ చేస్తూ, సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం నెలవారీ ఫ్యూచర్స్ మరియు ఆప్షన్‌లను ప్రారంభించడానికి BSE SEBI అనుమతిని పొందింది. బలమైన BSE పనితీరు మరియు పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తి మధ్య ఈ చర్య డెరివేటివ్ ఆఫర్‌లను విస్తరిస్తుంది.",
+      "title_te": "సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం F&O కాంట్రాక్టులను ప్రారంభించేందుకు BSE సెబీ అనుమతిని అందుకుంది",
+      "summary_te": "సెన్సెక్స్ 30 వెలుపలి టాప్ లిక్విడ్ కంపెనీలను ట్రాక్ చేస్తూ, సెన్సెక్స్ నెక్స్ట్ 30 ఇండెక్స్ కోసం నెలవారీ ఫ్యూచర్స్ మరియు ఆప్షన్‌లను ప్రారంభించడానికి BSE SEBI ఆమోదాన్ని పొందింది. బలమైన BSE పనితీరు మరియు పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తి మధ్య ఈ చర్య డెరివేటివ్ ఆఫర్‌లను విస్తరిస్తుంది.",
       "translated": true
     },
     {
@@ -352,62 +408,6 @@
       "language": "en",
       "title_te": "హార్ముజ్ స్ట్రెయిట్ ఆంక్షల మధ్య యుఎఇ, ఖతార్, సౌదీ అరేబియా మరియు ఇతరుల నుండి కొత్త ఆర్డర్‌లను చైనా యొక్క కాస్కో సస్పెండ్ చేసింది",
       "summary_te": "హార్ముజ్ జలసంధిలో పెరుగుతున్న సంఘర్షణ మరియు ట్రాఫిక్ ఆంక్షల కారణంగా మధ్యప్రాచ్య నౌకాశ్రయాలకు మరియు వెళ్లే మార్గాల కోసం COSCO షిప్పింగ్ అన్ని కొత్త బుకింగ్‌లను నిలిపివేసింది. ",
-      "translated": true
-    },
-    {
-      "id": "6586a1c96f247197fcef1bf32919b1c2",
-      "title": "US–Iran conflict: ‘All red lines crossed,’ says Qatar; will Tehran’s Arab neighbours be drawn into the war?",
-      "summary": "US-Israel strikes on Iran have triggered drone and missile attacks on Gulf states, hitting civilian and energy sites. Qatar says “all red lines” are crossed. The GCC has united in response, denying US airspace access for now, while urging Tehran to de-escalate amid fears of wider regional war.",
-      "url": "https://www.livemint.com/news/usiran-conflict-all-red-lines-crossed-says-qatar-will-tehran-s-arab-neighbours-be-drawn-into-the-war-11772623617428.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/IRAN-CRISIS-ISRAEL-105_1772431465767_1772431516300_1772623951962.JPG",
-      "published_at": "2026-03-04T11:58:08.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "US-ఇరాన్ వివాదం: 'అన్ని ఎరుపు గీతలు దాటాయి,' అని ఖతార్ చెప్పింది; టెహ్రాన్ యొక్క అరబ్ పొరుగువారు యుద్ధంలోకి లాగబడతారా?",
-      "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ దాడులు గల్ఫ్ దేశాలపై డ్రోన్ మరియు క్షిపణి దాడులను ప్రేరేపించాయి, పౌర మరియు ఇంధన ప్రాంతాలను తాకాయి. \"అన్ని ఎరుపు గీతలు\" దాటినట్లు ఖతార్ చెప్పింది. GCC ప్రతిస్పందనగా ఐక్యంగా ఉంది, ప్రస్తుతానికి US గగనతల ప్రవేశాన్ని నిరాకరిస్తోంది, అయితే విస్తృత ప్రాంతీయ యుద్ధ భయాల మధ్య టెహ్రాన్‌ను తీవ్రతరం చేయాలని కోరింది.",
-      "translated": true
-    },
-    {
-      "id": "5afd536326da017748dec740da47c4af",
-      "title": "Middle East conflict: Russia offers to fulfil India's energy needs as Iran shuts Hormuz Strait, says report",
-      "summary": "Russia has offered to fully meet India’s energy needs if Middle East tensions disrupt oil and gas supplies, after QatarEnergy halted LNG production following Iranian drone strikes.",
-      "url": "https://www.livemint.com/news/india/india-russia-oil-imports-west-asia-conflict-donald-trump-us-india-trade-deal-iran-strait-of-hormuz-11772620883848.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/ANI-20251205405-0_1764949452387_1764949459916_1772621469020.jpg",
-      "published_at": "2026-03-04T11:50:44.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ వివాదం: ఇరాన్ హార్ముజ్ జలసంధిని మూసివేసినందున భారతదేశం యొక్క ఇంధన అవసరాలను తీర్చడానికి రష్యా ఆఫర్ చేస్తోంది, నివేదిక పేర్కొంది",
-      "summary_te": "ఇరాన్ డ్రోన్ దాడుల తర్వాత ఖతార్ ఎనర్జీ ఎల్‌ఎన్‌జి ఉత్పత్తిని నిలిపివేసిన తర్వాత, మధ్యప్రాచ్య ఉద్రిక్తతలు చమురు మరియు గ్యాస్ సరఫరాలకు అంతరాయం కలిగిస్తే భారతదేశ ఇంధన అవసరాలను పూర్తిగా తీర్చడానికి రష్యా ప్రతిపాదించింది.",
-      "translated": true
-    },
-    {
-      "id": "577ed7b0c8f8b7210fcc9f9443dbef17",
-      "title": "Trump’s Commerce Secretary Lutnick to testify in Epstein case after photo redaction claim: ‘Want to set record straight'",
-      "summary": "Howard Lutnick's decision to agree to testify in teh Epstein case has come days after multiple media reports shared an image of Epstein and Lutnick on Epstein's island, claiming that the Department of Justice had redacted the said image from the website",
-      "url": "https://www.livemint.com/news/us-news/trumps-commerce-secretary-lutnick-to-testify-in-epstein-case-after-photo-redaction-claim-want-to-set-record-straight-11772621389575.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/USA-TRUMP-CONGRESS-84_1772624508271_1772624528651.JPG",
-      "published_at": "2026-03-04T11:47:15.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఫోటో రిడక్షన్ దావా తర్వాత ఎప్స్టీన్ కేసులో సాక్ష్యం ఇవ్వడానికి ట్రంప్ యొక్క వాణిజ్య కార్యదర్శి లుట్నిక్: 'రికార్డును నేరుగా సెట్ చేయాలనుకుంటున్నాను'",
-      "summary_te": "టెహ్ ఎప్స్టీన్ కేసులో సాక్ష్యం చెప్పడానికి హోవార్డ్ లుట్నిక్ యొక్క నిర్ణయం ఎప్స్టీన్ ద్వీపంలో ఎప్స్టీన్ మరియు లుట్నిక్ యొక్క చిత్రాన్ని బహుళ మీడియా నివేదికలు పంచుకున్న కొద్ది రోజుల తర్వాత వచ్చింది, న్యాయ శాఖ వెబ్‌సైట్ నుండి పేర్కొన్న చిత్రాన్ని సవరించిందని పేర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "29e0464d1fafc7454bb1fa01ae43e49b",
-      "title": "Bengaluru techie dies by suicide after dispute with mother-in-law over cooking, husband arrested",
-      "summary": "A 35-year-old Bengaluru tech professional allegedly died by suicide following a dispute with her mother-in-law over cooking. Police have arrested her husband after her family accused the in-laws of dowry harassment.",
-      "url": "https://www.livemint.com/news/india/bengaluru-techie-dies-by-suicide-after-dispute-with-mother-in-law-over-cooking-husband-arrested-11772623159600.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/Accident-or-crime-scene-cordon-tape--police-line-d_1734194489476_1772623232712.jpg",
-      "published_at": "2026-03-04T11:45:34.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "బెంగుళూరులో వంట చేసే విషయంలో అత్తగారితో గొడవపడి ఆత్మహత్య చేసుకున్న టెక్కీ, భర్త అరెస్ట్",
-      "summary_te": "35 ఏళ్ల బెంగళూరు టెక్ ప్రొఫెషనల్ వంట చేసే విషయంలో తన అత్తగారితో గొడవపడి ఆత్మహత్యకు పాల్పడింది. అత్తమామలు వరకట్నం వేధిస్తున్నారని ఆమె కుటుంబ సభ్యులు ఆరోపించడంతో పోలీసులు ఆమె భర్తను అరెస్ట్ చేశారు.",
       "translated": true
     },
     {
@@ -476,7 +476,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
+      "title_te": "ఒప్పందం కుదిరింది: అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
@@ -560,7 +560,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "పెరిగిన వృద్ధి, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
+      "title_te": "వృద్ధిరేటు, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
       "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును ఎత్తిచూపారు, అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్ణించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, పన్నుచెల్లింపుదారుల స్థావరాన్ని విస్తరిస్తున్నారని మరియు నిజమైన ఆదాయాలు పెరుగుతున్నాయని పేర్కొంది. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
       "translated": true
     },
@@ -869,7 +869,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
