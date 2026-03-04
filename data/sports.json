@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-04T14:00:08.129Z",
-  "updated_at_IST": "4/3/2026, 7:30:08 pm",
+  "updated_at": "2026-03-04T14:44:32.728Z",
+  "updated_at_IST": "4/3/2026, 8:14:32 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "645991916e7994660bcf4e822df90b0c",
+      "title": "India vs England chapter 3: the match that could define eras",
+      "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
+      "published_at": "2026-03-04T14:15:41.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఇండియా vs ఇంగ్లండ్ చాప్టర్ 3: యుగాలను నిర్వచించగల మ్యాచ్",
+      "summary_te": "రెండు జట్లూ సెమీ-ఫైనల్స్‌లో మూడవ వరుస ఎడిషన్‌లో తలపడుతున్నాయి, తక్కువ ఖచ్చితమైన ప్రచారాల నేపథ్యంలో మరియు చారిత్రాత్మక మూడవ టైటిల్‌ను కోరుతున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "e7f660f3437d5319fb7e2549089b4b94",
+      "title": "Brook: England get a 'bad rap' about playing spin",
+      "summary": "England captain leans into slow-bowling strengths ahead of crucial semi-final at the Wankhede",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526810.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414348.jpg",
+      "published_at": "2026-03-04T14:10:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బ్రూక్: ఇంగ్లండ్ స్పిన్ ఆడటం గురించి 'బాడ్ ర్యాప్' పొందింది",
+      "summary_te": "వాంఖడేలో కీలకమైన సెమీ-ఫైనల్‌కు ముందు ఇంగ్లండ్ కెప్టెన్ స్లో-బౌలింగ్ బలానికి మొగ్గు చూపాడు",
+      "translated": true
+    },
     {
       "id": "51c91c6534a76d534c3f69d27792d6ef",
       "title": "Neesham in as New Zealand bowl; SA back to full strength",
@@ -84,7 +112,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -155,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
+      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "ఫాఫ్ డు ప్లెసిస్: IPLలో LSG కోసం ఓపెనింగ్ తర్వాత మార్క్రామ్ T20 బ్యాటర్‌గా పరిణామం చెందాడు",
       "summary_te": "\"ఆట మీ నుండి డిమాండ్ చేస్తుంది మరియు మీరు అభివృద్ధి చెందకపోతే, మీరు వెనుకబడిపోతారు,\" అని మార్క్రామ్‌లో డు ప్లెసిస్ అన్నాడు",
-      "translated": true
-    },
-    {
-      "id": "cf3ac9d58d37b8a25ede4f5c49568256",
-      "title": "All-round Athapaththu takes Sri Lanka 1-0 up against West Indies",
-      "summary": "Karishma Ramharack was dismissed obstructing the field for WI, who were bowled out for 101",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526600.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411189.jpg",
-      "published_at": "2026-03-02T03:52:30.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్టిండీస్‌తో జరిగిన మ్యాచ్‌లో ఆల్‌రౌండ్ ఆటతీరుతో శ్రీలంకను 1-0తో ఆధిక్యంలోకి తీసుకెళ్లాడు అతపత్తు",
-      "summary_te": "101 పరుగులకే ఆలౌట్ అయిన WI కోసం ఫీల్డ్‌ను అడ్డుకోవడంతో కరిష్మా రామ్‌హారక్ అవుట్ చేయబడింది.",
-      "translated": true
-    },
-    {
-      "id": "09362ec6b57fd16ab3578c487cd199ca",
-      "title": "Healy reflects on 'ridiculous sport' as Australia make Test squad changes",
-      "summary": "The home side have brought Rachel Trenaman and Maitlan Brown in for the pink-ball game at the WACA",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526595.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414253.jpg",
-      "published_at": "2026-03-02T03:00:53.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆస్ట్రేలియా టెస్ట్ జట్టులో మార్పులు చేస్తున్నప్పుడు హీలీ 'హాస్యాస్పదమైన క్రీడ' గురించి ప్రతిబింబించాడు",
-      "summary_te": "WACAలో పింక్-బాల్ గేమ్ కోసం ఇంటి వైపు రాచెల్ ట్రెనామన్ మరియు మైట్లాన్ బ్రౌన్‌లను తీసుకువచ్చారు.",
       "translated": true
     }
   ]
