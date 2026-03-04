@@ -1,20 +1,34 @@
 {
-  "updated_at": "2026-03-04T20:33:46.273Z",
-  "updated_at_IST": "5/3/2026, 2:03:46 am",
+  "updated_at": "2026-03-04T21:36:01.542Z",
+  "updated_at_IST": "5/3/2026, 3:06:01 am",
   "category": "sports",
   "count": 25,
   "articles": [
     {
-      "id": "7117de2a657f14dc15ebef3327436288",
-      "title": "Allen's 33-ball hundred leads New Zealand into final",
-      "summary": "South Africa were knocked out by the pairing of Henry-Ravindra with ball and Allen-Seifert with bat",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526873.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414363.jpg",
-      "published_at": "2026-03-04T20:10:32.000Z",
+      "id": "f01d24ac0fb8c206a5555f121bf5977b",
+      "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
+      "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper snotklap",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414364.jpg",
+      "published_at": "2026-03-04T21:16:03.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "33 బంతుల్లో అలెన్ చేసిన సెంచరీ న్యూజిలాండ్‌ను ఫైనల్‌కి చేర్చింది",
+      "title_te": "కాన్రాడ్: 'ఈ రాత్రి ఉక్కిరిబిక్కిరి కాదు, ఇది రక్తపాతం'",
+      "summary_te": "దక్షిణాఫ్రికా ప్రధాన కోచ్ న్యూజిలాండ్‌పై తన జట్టుకు \"స్నిఫ్ లేదు\" అని అంగీకరించాడు మరియు సరైన స్నోట్‌క్లాప్ పొందాడు",
+      "translated": true
+    },
+    {
+      "id": "7117de2a657f14dc15ebef3327436288",
+      "title": "Flying Finn launches NZ into the final with record ton",
+      "summary": "South Africa were knocked out by the pairing of Henry-Ravindra with ball and Allen-Seifert with bat",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526873.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414363.jpg",
+      "published_at": "2026-03-04T20:17:31.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఫ్లయింగ్ ఫిన్ రికార్డు టన్నుతో NZని ఫైనల్లోకి ప్రవేశపెట్టింది",
       "summary_te": "హెన్రీ-రవీంద్ర జోడీ బంతితో, అలెన్-సీఫెర్ట్ బ్యాటింగ్‌తో దక్షిణాఫ్రికా డకౌట్ అయింది.",
       "translated": true
     },
@@ -168,7 +182,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -239,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
+      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "T20 ప్రపంచ కప్ నిష్క్రమణ తర్వాత హెడ్, గ్రీన్, ఇంగ్లిస్ షీల్డ్ తిరిగి రావడానికి సిద్ధంగా ఉన్నారు",
       "summary_te": "కొన్నోలీ, రెన్‌షా, బార్ట్‌లెట్, అబాట్, కుహ్నెమాన్ అందరూ T20 ప్రపంచ కప్ నిష్క్రమణ తర్వాత షీల్డ్‌కు తిరిగి వస్తారు కానీ స్టీవ్ స్మిత్ అందుబాటులో లేడు",
-      "translated": true
-    },
-    {
-      "id": "00114cee2611f723013f5365ba69dd05",
-      "title": "Haris Rauf among marquee names for men's Hundred auction",
-      "summary": "Rauf one of 14 Pakistan players to make trimmed longlist for next week's inaugural event",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526628.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/365300/365308.jpg",
-      "published_at": "2026-03-02T16:18:48.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పురుషుల హండ్రెడ్ వేలం కోసం మార్క్యూ పేర్లలో హరీస్ రౌఫ్",
-      "summary_te": "వచ్చే వారం ప్రారంభ ఈవెంట్ కోసం ట్రిమ్ చేయబడిన లాంగ్‌లిస్ట్‌లో చేరిన 14 మంది పాకిస్తాన్ ఆటగాళ్లలో రౌఫ్ ఒకరు",
       "translated": true
     }
   ]

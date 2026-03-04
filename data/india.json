@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-04T20:33:46.273Z",
-  "updated_at_IST": "5/3/2026, 2:03:46 am",
+  "updated_at": "2026-03-04T21:36:01.542Z",
+  "updated_at_IST": "5/3/2026, 3:06:01 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "71fdc329db6e3bf7740e742b40c9f4ae",
+      "title": "US orders non-emergency consular staff to leave Pakistan amid Middle East tensions",
+      "summary": "Amidst escalating Middle East tensions following US-Israeli strikes on Iran, the United States has ordered non-emergency staff and their families to leave consulates in Pakistan's Karachi and Lahore. Similar directives were issued for Saudi Arabia, Oman, and Cyprus, with American citizens advised to reconsider travel to these nations due to rising safety risks and disrupted flights.",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-orders-non-emergency-consular-staff-to-leave-karachi-lahore-amid-regional-tensions/articleshow/129048923.cms",
+      "image": "https://static.toiimg.com/photo/msid-129049868,imgsize-50024.cms",
+      "published_at": "2026-03-04T20:48:34.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ ఉద్రిక్తతల మధ్య పాకిస్థాన్‌ను విడిచిపెట్టాలని అమెరికా నాన్ ఎమర్జెన్సీ కాన్సులర్ సిబ్బందిని ఆదేశించింది",
+      "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ దాడుల తర్వాత మధ్యప్రాచ్యం ఉద్రిక్తతల మధ్య, యునైటెడ్ స్టేట్స్ పాకిస్తాన్‌లోని కరాచీ మరియు లాహోర్‌లోని కాన్సులేట్‌లను విడిచిపెట్టాలని అత్యవసర సిబ్బందిని మరియు వారి కుటుంబాలను ఆదేశించింది. సౌదీ అరేబియా, ఒమన్ మరియు సైప్రస్‌లకు ఇలాంటి ఆదేశాలు జారీ చేయబడ్డాయి, పెరుగుతున్న భద్రతా ప్రమాదాలు మరియు అంతరాయం కలిగించే విమానాల కారణంగా ఈ దేశాలకు ప్రయాణాన్ని పునఃపరిశీలించాలని అమెరికన్ పౌరులు సలహా ఇచ్చారు.",
+      "translated": true
+    },
+    {
+      "id": "bea4c8c61ca6572adaa13b099f298c30",
+      "title": "West Asia tensions: 1,500 flights cancelled in 4 days, AI to add capacity on key long routes",
+      "summary": "Airlines are intensifying evacuation efforts with special flights as Middle East air travel disruptions continue for the fourth day. Indian carriers planned 58 flights on Wednesday, with IndiGo and Air India increasing capacity on long-haul routes. Airports in Dubai and Abu Dhabi are handling limited repatriation flights, while services in Bahrain, Doha, and Kuwait remain suspended.",
+      "url": "https://timesofindia.indiatimes.com/india/west-asia-crisis-1500-flights-cancelled-in-four-days-air-india-to-add-capacity-on-key-long-routes/articleshow/129048937.cms",
+      "image": "https://static.toiimg.com/photo/msid-129049119,imgsize-10834.cms",
+      "published_at": "2026-03-04T20:20:18.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా ఉద్రిక్తతలు: 4 రోజుల్లో 1,500 విమానాలు రద్దు, కీలకమైన పొడవైన మార్గాల్లో సామర్థ్యాన్ని జోడించేందుకు AI",
+      "summary_te": "నాల్గవ రోజు కూడా మిడిల్ ఈస్ట్ విమాన ప్రయాణ అంతరాయాలు కొనసాగుతున్నందున విమానయాన సంస్థలు ప్రత్యేక విమానాలతో తరలింపు ప్రయత్నాలను ముమ్మరం చేస్తున్నాయి. ఇండిగో మరియు ఎయిరిండియా సుదూర మార్గాల్లో సామర్థ్యాన్ని పెంచడంతో భారత క్యారియర్‌లు బుధవారం 58 విమానాలను ప్లాన్ చేశాయి. దుబాయ్ మరియు అబుదాబిలోని విమానాశ్రయాలు పరిమిత స్వదేశానికి వెళ్లే విమానాలను నిర్వహిస్తుండగా, బహ్రెయిన్, దోహా మరియు కువైట్‌లలో సేవలు నిలిపివేయబడ్డాయి.",
+      "translated": true
+    },
     {
       "id": "af164b9792b04d0329ef705a83e6b5b1",
       "title": "Nitish Kumar heads for Rajya Sabha, paves way for BJP CM in Bihar",
@@ -953,7 +981,7 @@
       "category": "india",
       "language": "en",
       "title_te": "A18 ప్రో చిప్, లిక్విడ్ రెటినా డిస్‌ప్లే మరియు మాకోస్ తాహోతో కూడిన Apple MacBook Neo ప్రారంభించబడింది",
-      "summary_te": "ఆపిల్ తన అత్యంత బడ్జెట్-స్నేహపూర్వక ల్యాప్‌టాప్, మాక్‌బుక్ నియోను రూ. 69,900 ధరతో ఆవిష్కరించింది. శక్తివంతమైన A18 ప్రో చిప్, శక్తివంతమైన 13-అంగుళాల డిస్‌ప్లే మరియు సొగసైన అల్యూమినియం బిల్డ్‌ను కలిగి ఉంది, ఇది రోజువారీ పనులు మరియు AI పనిభారం కోసం అద్భుతమైన పనితీరును అందిస్తుంది. ఆపిల్ ఇంటెలిజెన్స్‌తో MacOS Tahoeని నడుపుతున్న ఈ ఎకో-కాన్షియస్ పరికరం ఇప్పుడు ముందస్తు ఆర్డర్ కోసం అందుబాటులో ఉంది.",
+      "summary_te": "ఆపిల్ తన అత్యంత బడ్జెట్-స్నేహపూర్వక ల్యాప్‌టాప్, మాక్‌బుక్ నియోను రూ. 69,900 ధరతో ఆవిష్కరించింది. శక్తివంతమైన A18 ప్రో చిప్, శక్తివంతమైన 13-అంగుళాల డిస్‌ప్లే మరియు సొగసైన అల్యూమినియం బిల్డ్‌ను కలిగి ఉంది, ఇది రోజువారీ పనులు మరియు AI పనిభారం కోసం అద్భుతమైన పనితీరును అందిస్తుంది. ఆపిల్ ఇంటెలిజెన్స్‌తో MacOS Tahoeని అమలు చేస్తున్న ఈ ఎకో-కాన్షియస్ పరికరం ఇప్పుడు ముందస్తు ఆర్డర్ కోసం అందుబాటులో ఉంది.",
       "translated": true
     },
     {
@@ -1181,20 +1209,6 @@
       "translated": true
     },
     {
-      "id": "411a18315179702fb8945081662a6c65",
-      "title": "'A big concern': India bowling coach ahead of T20 WC semi-final",
-      "summary": "Ahead of India’s T20 World Cup semi-final against England at Wankhede, bowling coach Morne Morkel warned dew and small boundaries could be crucial factors. He urged bowlers to stay attacking despite tight margins. Head coach Gautam Gambhir said lower dew levels have tested India’s adaptability, stressing game awareness over strike rate in high-pressure World Cup matches.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/a-big-concern-india-bowling-coach-warns-ahead-of-t20-world-cup-semi-final-match-against-england/articleshow/129027712.cms",
-      "image": "https://static.toiimg.com/photo/msid-129027867,imgsize-36696.cms",
-      "published_at": "2026-03-04T12:50:23.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'పెద్ద ఆందోళన': T20 WC సెమీ ఫైనల్‌కు ముందు భారత బౌలింగ్ కోచ్",
-      "summary_te": "వాంఖడేలో ఇంగ్లండ్‌తో జరిగిన టీ20 ప్రపంచ కప్ సెమీ-ఫైనల్‌కు ముందు, బౌలింగ్ కోచ్ మోర్నే మోర్కెల్ మంచు మరియు చిన్న బౌండరీలు కీలకమైన కారకాలు కావచ్చని హెచ్చరించారు. గట్టి మార్జిన్లు ఉన్నప్పటికీ బౌలర్లు అటాకింగ్‌గా ఉండాలని కోరాడు. ప్రధాన కోచ్ గౌతమ్ గంభీర్ మాట్లాడుతూ తక్కువ మంచు స్థాయిలు భారతదేశం యొక్క అనుకూలతను పరీక్షించాయని, అధిక ఒత్తిడి ప్రపంచ కప్ మ్యాచ్‌లలో స్ట్రైక్ రేట్‌పై ఆట అవగాహనను నొక్కి చెప్పారు.",
-      "translated": true
-    },
-    {
       "id": "a6721e2f3f70abff4cb495c3003a2623",
       "title": "Babar Azam, 4 others dropped from Pakistan’s squad for ODIs against Bangladesh",
       "summary": "Babar Azam has been dropped from Pakistan’s ODI squad for the Bangladesh series after a poor T20 World Cup. Despite a strong ODI record, he is among several senior players left out as Pakistan rebuild for next year’s World Cup. Shaheen Shah Afridi will captain a refreshed squad featuring six uncapped players.",
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "ఆంధ్రప్రదేశ్‌లో రెండేళ్లలో 10 మెడికల్ కాలేజీలకు పీపీపీ మోడల్: మంత్రి",
       "summary_te": "ఆంధ్రప్రదేశ్‌లో రెండేళ్లలో 10 మెడికల్ కాలేజీలకు పీపీపీ మోడల్: మంత్రి",
-      "translated": true
-    },
-    {
-      "id": "2a63904f2ca3472d4ec3dee5e3e61adc",
-      "title": "'Iran war is for Armageddon and return of Jesus, US troops told'",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/us-troops-say-iran-war-briefings-invoked-armageddon-the-return-of-jesus-report/articleshow/129018873.cms",
-      "image": "https://static.toiimg.com/photo/msid-129020031,imgsize-21818.cms",
-      "published_at": "2026-03-04T10:06:25.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'ఇరాన్ యుద్ధం ఆర్మగెడాన్ మరియు యేసు తిరిగి రావడం కోసం, US దళాలు చెప్పారు'",
-      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     }
   ]
