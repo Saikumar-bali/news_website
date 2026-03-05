@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T11:38:25.746Z",
-  "updated_at_IST": "5/3/2026, 5:08:25 pm",
+  "updated_at": "2026-03-05T12:45:24.816Z",
+  "updated_at_IST": "5/3/2026, 6:15:24 pm",
   "category": "andhra",
-  "count": 19,
+  "count": 20,
   "articles": [
+    {
+      "id": "5affcd5f0ace00b9a3220f2d05dee378",
+      "title": "Adi Shankaracharya idol to be installed at Paladhara-Panchadhara at Srisailam",
+      "summary": "A new idol of Sri Sharadamba sahitha Jagadguru Adi Shankaracharya will be installed at the Paladhara-Panchadhara, a sub-temple of Srisailam temple, at 10 a.m. on March 8. The consecration of the idol will be done under the supervision of Dakshinamnaya Sri Sharada Peetham pontiff Sri Sri Vidhushekhara Bharati Swamy.Srisailam temple Executive Officer M. Srinivasa Rao has said as per the suggestion of the temple’s Vaidic committee, the consecration ceremony will be held for three days starting Friday (March 6). On Friday morning, Yagashala pravesham, Ganapati Pooja, Punyahavachanam and other rituals will be held.On the second day also, various rituals will be performed throught out the day. On March 8, Adhivasa Homam, Purnahuthi and other rituals will be performed after which the idol will be consecrated.Mr. Srinivasa Rao urged devotees to participate in the event.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/adi-shankaracharya-idol-to-be-installed-at-paladhara-panchadhara-at-srisailam/article70706195.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-05T09:49:58.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "శ్రీశైలంలో పాలధార-పంచధార వద్ద ఆదిశంకరాచార్య విగ్రహాన్ని ప్రతిష్టించనున్నారు",
+      "summary_te": "మార్చి 8వ తేదీ ఉదయం 10 గంటలకు శ్రీశైలం ఆలయ ఉప ఆలయమైన పాలధార-పంచధారలో శ్రీ శారదాంబ సహిత జగద్గురు ఆదిశంకరాచార్యుల నూతన విగ్రహ ప్రతిష్ఠాపన, దక్షిణామ్‌నాయ శ్రీ శారదా పీఠం పీఠాధిపతి శ్రీశ్రీశ్రీ విధులమ్మ స్వామి వారి పర్యవేక్షణలో నిర్వహించనున్నారు. ఆలయ వైదిక కమిటీ సూచన మేరకు శుక్రవారం (మార్చి 6) నుంచి మూడు రోజుల పాటు శంకుస్థాపన కార్యక్రమాలు నిర్వహించనున్నట్లు శ్రీనివాసరావు తెలిపారు. శుక్రవారం ఉదయం యాగశాల ప్రవేశం, గణపతి పూజ, పుణ్యహవచనం తదితర పూజా కార్యక్రమాలు నిర్వహిస్తారు.రెండో రోజు కూడా రోజంతా వివిధ పూజలు నిర్వహిస్తారు. మార్చి 8న అధివాస హోమం, పూర్ణాహుతి తదితర పూజలు నిర్వహించి అనంతరం విగ్రహ ప్రతిష్ఠాపన చేస్తారు. ఈ కార్యక్రమంలో భక్తులు పాల్గొనాలని శ్రీనివాసరావు కోరారు.",
+      "translated": true
+    },
+    {
+      "id": "3f6bff3657bc59be4335b7b72a99ba19",
+      "title": "Kurnool Municipal Corporation counters to remain open on holidays also for payment of taxes",
+      "summary": "All counters for payment of property tax, water bills, and trade licence fees will remain open on all days, including on holidays, till March 31 for the citizens to pay taxes, Kurnool Municipal Corporation (KMC) Commissioner P. Viswanadha has said.As the current financial year will come to an end on March 31, the KMC has set up special counters at several places in the city apart from the regular ones. The special counters set up to collect taxes at Dandigeri, Peddavadakav 20 and 21 secretariat, KMC old office, B Camp, Arora Nagar 56 and 57 secretariat, Guru Raghavendra Nagar, Rajiv Gruhakalpa 92 and 93 secretariat, Lakshmi Nagar, JNR Nagar 61 and 62 secretariat, and Kallur will work on holidays also from 10 a.m. to 5 p.m.Citizens can also pay taxes at the online seva centres and through UPI, the Commissioner said.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-municipal-corporation-counters-to-remain-open-on-holidays-also-for-payment-of-taxes/article70705978.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-05T09:26:55.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పన్నుల చెల్లింపు కోసం కర్నూలు మున్సిపల్ కార్పొరేషన్ కౌంటర్లు సెలవు దినాల్లో కూడా తెరిచి ఉంటాయి",
+      "summary_te": "ఆస్తిపన్ను, నీటి బిల్లులు, ట్రేడ్‌ లైసెన్సు ఫీజుల చెల్లింపునకు సంబంధించిన అన్ని కౌంటర్లు సెలవు దినాలతో సహా అన్ని రోజుల్లో పౌరులు పన్నులు చెల్లించేందుకు మార్చి 31 వరకు తెరిచి ఉంటాయని కర్నూలు మున్సిపల్‌ కార్పొరేషన్‌ (కెఎంసి) కమిషనర్‌ పి.విశ్వనాధ తెలిపారు.ప్రస్తుత ఆర్థిక సంవత్సరం మార్చి 31తో ముగుస్తున్నందున నగరంలోని పలు చోట్ల ప్రత్యేక కౌంటర్లను ఏర్పాటు చేసింది. దండిగేరి, పెద్దవాడకావ్ 20, 21 సచివాలయం, కెఎంసి పాత కార్యాలయం, బి క్యాంపు, అరోరా నగర్ 56, 57 సచివాలయం, గురు రాఘవేంద్ర నగర్, రాజీవ్ గృహకల్ప 92, 93 సచివాలయం, లక్ష్మి నగర్, జెఎన్‌ఆర్ నగర్ 61, 60 సెక్రటేరియట్‌లలో పన్నుల వసూళ్లకు ప్రత్యేక కౌంటర్లు పనిచేస్తాయి. ఉదయం నుండి సాయంత్రం 5 గంటల వరకు పౌరులు ఆన్‌లైన్ సేవా కేంద్రాలలో మరియు యుపిఐ ద్వారా కూడా పన్నులు చెల్లించవచ్చని కమిషనర్ తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "d4923f21ed1a08cb8a67fcf622bca5e0",
       "title": "Ships anchored off Gulf coasts after Strait of Hormuz blaze; Indian crew members express concern",
@@ -70,7 +98,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "ఆర్సెలార్‌ మిట్టల్‌ నిప్పన్‌ స్టీల్‌ ప్లాంట్‌కు ఈ నెలలో పునాది: సీఎం",
+      "title_te": "ఆర్సెలార్ మిట్టల్ నిప్పన్ స్టీల్ ప్లాంట్‌కు ఈ నెలలో పునాది: సీఎం",
       "summary_te": "ఈజ్ ఆఫ్ డూయింగ్ బిజినెస్ నుంచి స్పీడ్ ఆఫ్ డూయింగ్ బిజినెస్‌కి మారడం వల్ల పెట్టుబడులను ఆకర్షించడంలో ఇతర రాష్ట్రాల కంటే ఏపీ అగ్రస్థానంలో ఉందని చంద్రబాబు నాయుడు అన్నారు.",
       "translated": true
     },
@@ -141,7 +169,7 @@
       "category": "andhra",
       "language": "en",
       "title_te": "ఒంగోలు వైద్యులు ప్రపంచ స్థూలకాయ దినోత్సవాన్ని పురస్కరించుకుని ఆరోగ్యవంతమైన జీవనాన్ని ప్రోత్సహిస్తున్నారు",
-      "summary_te": "ఒంగోలులోని ప్రకాశం భవన్‌లో బుధవారం ప్రపంచ స్థూలకాయుల దినోత్సవం సందర్భంగా ప్రజలకు ఆరోగ్యకరమైన ఆహార అలవాట్లపై అవగాహన కల్పించేందుకు ప్రభుత్వ వైద్య కళాశాలలో కమ్యూనిటీ మెడిసిన్ విభాగం వైద్యులు, అధ్యాపకులు పాటలు, నృత్య ప్రదర్శనలతో పాటు పలు కార్యక్రమాలను నిర్వహించారు. ఆరోగ్యకరమైన జీవనశైలిని కొనసాగించడం యొక్క ప్రాముఖ్యతను తెలియజేయడానికి వీధి నాటకం ప్రదర్శించబడింది, సాధారణ ప్రజల కోసం ఆరోగ్య విద్య సెషన్‌లు నిర్వహించబడ్డాయి. రైల్వే స్టేషన్‌లో బాడీ మాస్ ఇండెక్స్ (BMI) మరియు నడుము చుట్టుకొలత కొలత కోసం ఉచిత స్క్రీనింగ్ నిర్వహించబడింది. స్థూలకాయం మరియు ఆచరణాత్మక నివారణ చర్యలను హైలైట్ చేస్తూ ఆరోగ్య అవగాహన స్కిట్ ప్రదర్శించబడింది. ఊబకాయాన్ని నివారించడంలో జీవనశైలి మార్పు యొక్క ప్రాముఖ్యతను నొక్కిచెప్పడానికి వీధి ఆట, ఆరోగ్య చర్చ మరియు నృత్య ప్రదర్శనలు నిర్వహించబడ్డాయి. అధిక రక్తపోటు, మధుమేహం, స్ట్రోక్, కరోనరీ ఆర్టరీ డిసీజ్ (CAD) మరియు ఇతర నాన్-కమ్యూనికేబుల్ వ్యాధుల వంటి తీవ్రమైన ఆరోగ్య సమస్యలకు ఊబకాయం ప్రధాన ప్రమాద కారకం అని బృందం నొక్కి చెప్పింది. వైద్యులు ప్రతిరోజూ 30 నిమిషాల చురుకైన నడవడం, ఒత్తిడి లేని జీవనశైలి, జంక్ ఫుడ్ మరియు అధిక చక్కెర ఆహారాలకు దూరంగా ఉండటం మరియు ఆరోగ్యకరమైన నిద్ర విధానాన్ని అనుసరించడం వంటి నివారణ చర్యలను సూచించారు. డిపార్ట్‌మెంట్ రూమ్ నెం. ప్రభుత్వ జనరల్ హాస్పిటల్‌లో 222, జీవనశైలి వ్యాధులకు నివారణ మరియు నివారణ సేవలు అందుబాటులో ఉన్నాయి. స్థానిక ప్రజలు సాధారణ స్క్రీనింగ్, కౌన్సెలింగ్ మరియు ఊబకాయం మరియు సంబంధిత పరిస్థితుల నిర్వహణ కోసం సేవలను ఉపయోగించుకోవాలని కోరారు.",
+      "summary_te": "ఒంగోలులోని ప్రకాశం భవన్‌లో బుధవారం ప్రపంచ స్థూలకాయుల దినోత్సవం సందర్భంగా ప్రజలకు ఆరోగ్యకరమైన ఆహార అలవాట్లపై అవగాహన కల్పించేందుకు ప్రభుత్వ వైద్య కళాశాలలో కమ్యూనిటీ మెడిసిన్ విభాగం వైద్యులు, అధ్యాపకులు పాటలు, నృత్య ప్రదర్శనలతో పాటు పలు కార్యక్రమాలను నిర్వహించారు. ఆరోగ్యకరమైన జీవనశైలిని కొనసాగించడం యొక్క ప్రాముఖ్యతను తెలియజేయడానికి వీధి నాటకం ప్రదర్శించబడింది, సాధారణ ప్రజల కోసం ఆరోగ్య విద్య సెషన్‌లు నిర్వహించబడ్డాయి. రైల్వే స్టేషన్‌లో బాడీ మాస్ ఇండెక్స్ (BMI) మరియు నడుము చుట్టుకొలత కొలత కోసం ఉచిత స్క్రీనింగ్ నిర్వహించబడింది. స్థూలకాయం వల్ల కలిగే ప్రమాదాలు మరియు ఆచరణాత్మక నివారణ చర్యలను తెలియజేస్తూ ఆరోగ్య అవగాహన స్కిట్‌ను ప్రదర్శించారు. ఊబకాయాన్ని నివారించడంలో జీవనశైలి మార్పు యొక్క ప్రాముఖ్యతను నొక్కిచెప్పడానికి వీధి ఆట, ఆరోగ్య చర్చ మరియు నృత్య ప్రదర్శనలు నిర్వహించబడ్డాయి. అధిక రక్తపోటు, మధుమేహం, స్ట్రోక్, కరోనరీ ఆర్టరీ డిసీజ్ (CAD) మరియు ఇతర నాన్-కమ్యూనికేబుల్ వ్యాధుల వంటి తీవ్రమైన ఆరోగ్య సమస్యలకు ఊబకాయం ప్రధాన ప్రమాద కారకం అని బృందం నొక్కి చెప్పింది. వైద్యులు ప్రతిరోజూ 30 నిమిషాల చురుకైన నడవడం, ఒత్తిడి లేని జీవనశైలి, జంక్ ఫుడ్ మరియు అధిక చక్కెర కలిగిన ఆహారాలకు దూరంగా ఉండటం మరియు ఆరోగ్యకరమైన నిద్ర విధానాన్ని అనుసరించడం వంటి నివారణ చర్యలను సూచించారు. డిపార్ట్‌మెంట్ రూమ్ నెం. ప్రభుత్వ జనరల్ హాస్పిటల్‌లో 222, జీవనశైలి వ్యాధులకు నివారణ మరియు నివారణ సేవలు అందుబాటులో ఉన్నాయి. స్థానిక ప్రజలు సాధారణ స్క్రీనింగ్, కౌన్సెలింగ్ మరియు ఊబకాయం మరియు సంబంధిత పరిస్థితుల నిర్వహణ కోసం సేవలను ఉపయోగించుకోవాలని కోరారు.",
       "translated": true
     },
     {
@@ -149,7 +177,7 @@
       "title": "SVMC bags top research award at NTRUHS",
       "summary": "The team from Sri Venkateswara Medical College (SVMC) received accolades for securing the first place in India for research at its Multi-disciplinary Research Unit (MRU).The recognition came from the Ministry of Health and Family Welfare, for which Team SVMC, comprising Additional Director of Medical Education (ADME) and SVMC principal Dr. G. Ravi Prabhu, professor of paediatrics Dr. A.S. Kireeti and public relations officer Veera Kiran, were felicitated at the International Women’s Day celebrations observed at NTR University of Health Sciences (NTRUHS), in Vijayawada on Wednesday.Dr. Ravi Prabhu spoke on women’s empowerment, leadership and breaking barriers at the meet.",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/svmc-bags-top-research-award-at-ntruhs/article70703932.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "image": "https://th-i.thgim.com/public/news/national/yvqh8v/article70707166.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-05%20at%2011.51.22%20AM.jpeg",
       "published_at": "2026-03-04T15:17:18.000Z",
       "source": "The Hindu AP",
       "category": "andhra",
@@ -240,20 +268,6 @@
       "language": "en",
       "title_te": "APSRTC మార్చి 18 నుండి వికలాంగులకు ఉచిత బస్సు ప్రయాణాన్ని అందించనుంది",
       "summary_te": "ఐదు కేటగిరీల బస్సుల్లో సౌకర్యాన్ని కల్పించే ‘ఇంద్ర ధనస్సు’ పథకాన్ని ముఖ్యమంత్రి చంద్రబాబు నాయుడు లాంఛనంగా ప్రారంభించనున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "99fcd07b0a8f9f3481385d9d802b0d72",
-      "title": "Industrial workers told to adopt ‘safety first’ approach at Sri City",
-      "summary": "Industrial zone Sri City observed the 55thNational Safety Day at its premises in Tirupati district on Wednesday, emphasising a ‘safety first’ approach.Sri City president (Operations) Satish Kamat, who hoisted the safety flag and administered a pledge to the industrial workforce, employees and students from neighbouring schools, highlighted the importance of strict adherence to safety protocols, consistent use of personal protective equipment and compliance to established standards.“Safety extends beyond the workplace,” Mr. Kamat said, calling attention to responsible behaviour on the roads, observance of traffic rules and ensuring safety practices at home.Meanwhile, Sri City managing director Ravindra Sannareddy in a message called for shared responsibility in advancing safety standards across Sri City. He urged the stakeholders to collaborate in ensuring a safe environment, adding that Sri City continued to prioritise safety.Assistant general manager (Security and Vigilance) Y. Ramesh and manager (Environment, Health and Safety) K. Narendra Babu also spoke, while students of Chinmaya, Accord, ZP High schools at Irugulam and Madannapalem participated.Winners of the week-long safety competitions received prizes.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/industrial-workers-told-to-adopt-safety-first-approach-at-sri-city/article70703757.ece",
-      "image": "https://th-i.thgim.com/public/incoming/izbp7k/article70703985.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%2018.48.19.jpeg",
-      "published_at": "2026-03-04T14:14:28.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "పారిశ్రామిక కార్మికులు శ్రీ సిటీలో ‘సేఫ్టీ ఫస్ట్’ విధానాన్ని అవలంబించాలని చెప్పారు",
-      "summary_te": "ఇండస్ట్రియల్ జోన్ శ్రీ సిటీ బుధవారం తిరుపతి జిల్లాలోని తన ప్రాంగణంలో 55వ జాతీయ భద్రతా దినోత్సవాన్ని జరుపుకుంది, ‘భద్రత మొదట’ విధానాన్ని నొక్కి చెప్పింది. భద్రతా జెండాను ఎగురవేసిన శ్రీ సిటీ అధ్యక్షుడు (ఆపరేషన్స్) సతీష్ కామత్ పారిశ్రామిక కార్మికులు, ఉద్యోగులు మరియు విద్యార్థులకు ప్రతిజ్ఞ చేయించారు. ఏర్పాటు చేసిన ప్రమాణాలకు అనుగుణంగా ఉండటం.“భద్రత పని ప్రదేశానికి మించి విస్తరించి ఉంది,” అని శ్రీ కామత్ అన్నారు, రోడ్లపై బాధ్యతాయుతమైన ప్రవర్తన, ట్రాఫిక్ నియమాలను పాటించడం మరియు ఇంట్లో భద్రతా పద్ధతులను నిర్ధారించడం వంటి వాటిపై దృష్టి సారించారు. శ్రీసిటీ భద్రతకు ప్రాధాన్యతనిస్తూ, సురక్షితమైన వాతావరణాన్ని కల్పించడంలో భాగస్వాములు సహకరించాలని ఆయన కోరారు.అసిస్టెంట్ జనరల్ మేనేజర్ (సెక్యూరిటీ అండ్ విజిలెన్స్) వై.రమేష్, మేనేజర్ (పర్యావరణం, ఆరోగ్యం మరియు భద్రత) కె. నరేంద్రబాబు కూడా మాట్లాడారు, ఈ సందర్భంగా చిన్మయ, అకార్డ్, జెడ్‌పి హైస్కూల్‌లోని చిన్మయ, అకార్డ్, జెడ్‌పి హైస్కూల్ విద్యార్థులు పాల్గొన్నారు. పోటీలు బహుమతులు పొందాయి.",
       "translated": true
     },
     {

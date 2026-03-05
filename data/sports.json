@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T11:38:25.746Z",
-  "updated_at_IST": "5/3/2026, 5:08:25 pm",
+  "updated_at": "2026-03-05T12:45:24.816Z",
+  "updated_at_IST": "5/3/2026, 6:15:24 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "36b88f6ddcf678dabd8a43ebb0bced14",
+      "title": "Hampshire bring in Jayden Seales after Michael Neser deal falls through",
+      "summary": "Neser pulled out by Cricket Australia after Ashes role earned him central contract",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526942.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/378800/378841.jpg",
+      "published_at": "2026-03-05T12:01:01.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హాంప్‌షైర్ మైఖేల్ నేసర్ డీల్ పడిపోయిన తర్వాత జేడెన్ సీల్స్‌ను తీసుకువచ్చింది",
+      "summary_te": "యాషెస్ పాత్ర అతనికి సెంట్రల్ కాంట్రాక్ట్ లభించిన తర్వాత నెసెర్‌ను క్రికెట్ ఆస్ట్రేలియా వైదొలిగింది",
+      "translated": true
+    },
+    {
+      "id": "97c3207562e464e35bbf6d4aa64d1480",
+      "title": "Jamie Siddons appointed Sri Lanka Women head coach",
+      "summary": "He takes over from Rumesh Ratnayake, who had quietly concluded his tenure at the end of 2025",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526940.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/301600/301663.jpg",
+      "published_at": "2026-03-05T11:46:45.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "శ్రీలంక మహిళల ప్రధాన కోచ్‌గా జామీ సిడాన్స్ నియమితులయ్యారు",
+      "summary_te": "అతను 2025 చివరిలో తన పదవీకాలాన్ని నిశ్శబ్దంగా ముగించిన రుమేష్ రత్నాయకే నుండి బాధ్యతలు స్వీకరించాడు.",
+      "translated": true
+    },
     {
       "id": "645991916e7994660bcf4e822df90b0c",
       "title": "India vs England chapter 3: the match that could define eras",
@@ -322,36 +350,8 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
-      "translated": true
-    },
-    {
-      "id": "827c25bdc69e9deabe6697861e311675",
-      "title": "John Blain reinstated to Cricket Scotland Hall of Fame",
-      "summary": "Former seamer was suspended in July 2022 following racism allegations",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526714.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/382500/382553.jpg",
-      "published_at": "2026-03-03T21:04:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "జాన్ బ్లెయిన్ క్రికెట్ స్కాట్లాండ్ హాల్ ఆఫ్ ఫేమ్‌కు తిరిగి చేర్చబడ్డాడు",
-      "summary_te": "జాత్యహంకార ఆరోపణల కారణంగా మాజీ సీమర్ జూలై 2022లో సస్పెండ్ చేయబడ్డాడు",
-      "translated": true
-    },
-    {
-      "id": "823df74e502cd6101393d446f963361d",
-      "title": "Santner: 'SA have a lot of power, but we back ourselves in a one-off game'",
-      "summary": "He expects a \"flat pitch\" in Kolkata, and aims to restrict SA to 180 if NZ bowl first",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526684.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414190.jpg",
-      "published_at": "2026-03-03T17:03:05.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
-      "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     }
   ]
