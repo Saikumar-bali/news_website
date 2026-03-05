@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T19:17:53.145Z",
-  "updated_at_IST": "6/3/2026, 12:47:53 am",
+  "updated_at": "2026-03-05T20:39:12.041Z",
+  "updated_at_IST": "6/3/2026, 2:09:12 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "00471390fc12f540a460c5a3abaf92a1",
+      "title": "McCullum 'would love to carry on' as England head coach despite tough winter",
+      "summary": "Head coach admits team veered away from attacking game during Ashes, but praises white-ball 'identity'",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527025.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413456.jpg",
+      "published_at": "2026-03-05T19:48:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కఠినమైన శీతాకాలం ఉన్నప్పటికీ మెకల్లమ్ ఇంగ్లండ్ ప్రధాన కోచ్‌గా కొనసాగడానికి ఇష్టపడతాడు",
+      "summary_te": "యాషెస్ సమయంలో జట్టు అటాకింగ్ గేమ్‌కు దూరమైందని ప్రధాన కోచ్ అంగీకరించాడు, అయితే వైట్-బాల్ 'గుర్తింపు'ను ప్రశంసించాడు",
+      "translated": true
+    },
+    {
+      "id": "e2cb5cdf7d6177c535ce6660663c9d2c",
+      "title": "'I made a big mistake dropping Sanju Samson' - Harry Brook",
+      "summary": "Captain holds hands up over costly fielding error as England exit T20 World Cup in semi-final defeat to India",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527016.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414412.jpg",
+      "published_at": "2026-03-05T19:18:57.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'సంజు శాంసన్‌ని వదులుకోవడంలో నేను పెద్ద తప్పు చేశాను' - హ్యారీ బ్రూక్",
+      "summary_te": "టీ20 ప్రపంచకప్‌లో సెమీ-ఫైనల్‌లో భారత్‌తో ఓటమి పాలైన ఇంగ్లండ్ నిష్క్రమించడంతో కెప్టెన్ ఖరీదైన ఫీల్డింగ్ తప్పిదంపై చేతులెత్తేశాడు.",
+      "translated": true
+    },
     {
       "id": "14a0fda7fe3b1815d399a957aa493db0",
       "title": "West Indies players may fly home soon by charter flight",
@@ -91,7 +119,7 @@
     {
       "id": "e6fbaab1206eab8c946e031a698ffaf6",
       "title": "England opt to bowl, bring in Overton for Rehan",
-      "summary": "NewsEngland opt to bowl, bring in Overton for RehanIndia went in with an unchanged XIESPNcricinfo staffPublished: Mar 5, 2026, 1:24 PM (5 hrs ago)3:54Tactical preview: Samson vs Archer, Varun vs England battersToss England chose to bowl vs IndiaEngland won the toss in the semi-final and had no hesitation in putting India in at the chase-friendly Wankhede Stadium. India's captain Suryakumar Yadav, though, emphatically said that he wanted to bat first anyway to access scoreboard pressure of a big match. He also said he didn't expect any dew because it was a windy evening.Either way, India now needed to do what hasn't been done since 2014: successfully defend a total in a T20 World Cup knockout match played at night. The change in conditions from evening to night was quite evident during the first semi-final, which New Zealand won against the unbeaten South African side.England made one change to their XI to reflect the change from Sri Lankan conditions to Indian ones. Seam bowler Jamie Overton came in for legspinner Rehan Ahmed. India stuck with the same XI that won them two of four must-win games they found themselves staring at to defend the title when they lost to South Africa in the Super Eight.That India were batting first brought in earnest the juicy match-up between Jofra Archer and India's batters. Against Sanju Samson, Archer has bowled 23 balls for 25 runs and three wickets, but Abhishek Sharma has taken off him 61 runs in 33 balls without getting dismissed. Further down the order, Tilak Varma also has scored 36 off 16 against him.India 1 Abhishek Sharma, 2 Sanju Samson (wk), 3 Ishan Kishan, 4 Suryakumar Yadav (capt.), 5 Tilak Varma, 6 Hardik Pandya, 7 Shivam Dube, 8 Axar Patel, 9 Arshdeep Singh, 10 Varun Chakravarthy, 11 Jasprit BumrahEngland 1 Phil Salt, 2 Jos Buttler (wk), 3 Jacob Bethell, 4 Harry Brook (capt.), 5 Tom Banton, 6 Sam Curran, 7 Will Jacks, 8 Jamie Overton, 9 Liam Dawson, 10 Jofra Archer, 11 Adil RashidIndiaEnglandIndia vs EnglandICC Men&#x27;s T20 World Cup",
+      "summary": "India went in with an unchanged XI",
       "url": "https://www.espncricinfo.com/ci/content/story/1526957.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414034.jpg",
       "published_at": "2026-03-05T13:30:13.000Z",
@@ -99,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఇంగ్లండ్ బౌలింగ్ ఎంచుకుంది, రెహాన్ కోసం ఓవర్టన్‌ని తీసుకురండి",
-      "summary_te": "న్యూస్ ఇంగ్లండ్ బౌలింగ్ ఎంచుకుంది, రెహాన్‌కి ఓవర్‌టన్‌ను తీసుకురావాలని నిర్ణయించుకుంది ఛేజింగ్‌కు అనుకూలమైన వాంఖడే స్టేడియంలో భారత్‌ను చేర్చడంలో. భారత కెప్టెన్ సూర్యకుమార్ యాదవ్, అయితే, బిగ్ మ్యాచ్‌లో స్కోర్‌బోర్డ్ ఒత్తిడిని యాక్సెస్ చేయడానికి ఎలాగైనా మొదట బ్యాటింగ్ చేయాలనుకుంటున్నట్లు గట్టిగా చెప్పాడు. సాయంత్రం గాలులతో కూడిన సాయంత్రం అయినందున తాను మంచును ఆశించలేదని కూడా అతను చెప్పాడు. ఎలాగైనా, 2014 నుండి చేయని పనిని ఇప్పుడు భారతదేశం చేయాల్సి ఉంది: రాత్రి ఆడిన T20 ప్రపంచ కప్ నాకౌట్ మ్యాచ్‌లో మొత్తం మొత్తాన్ని విజయవంతంగా కాపాడుకుంది. సాయంత్రం నుండి రాత్రి వరకు పరిస్థితులలో మార్పు మొదటి సెమీ-ఫైనల్ సమయంలో చాలా స్పష్టంగా కనిపించింది, ఇది న్యూజిలాండ్ అజేయమైన దక్షిణాఫ్రికా జట్టుపై గెలిచింది. శ్రీలంక పరిస్థితుల నుండి భారతీయులకు వచ్చిన మార్పును ప్రతిబింబించేలా ఇంగ్లాండ్ వారి XIకి ఒక మార్పు చేసింది. లెగ్ స్పిన్నర్ రెహాన్ అహ్మద్ స్థానంలో సీమ్ బౌలర్ జామీ ఓవర్టన్ వచ్చాడు. సూపర్ ఎయిట్‌లో దక్షిణాఫ్రికాతో ఓడిపోయినప్పుడు, టైటిల్‌ను కాపాడుకోవడానికి వారు తమను తాము చూసుకున్న నాలుగు గెలవాల్సిన నాలుగు గేమ్‌లలో రెండు గెలిచిన అదే XIతో భారత్ చిక్కుకుంది. భారత్ మొదట బ్యాటింగ్ చేయడం జోఫ్రా ఆర్చర్ మరియు భారత బ్యాటర్‌ల మధ్య రసవత్తరమైన మ్యాచ్‌ని తీసుకువచ్చింది. సంజూ శాంసన్‌కు వ్యతిరేకంగా, ఆర్చర్ 23 బంతుల్లో 25 పరుగులిచ్చి మూడు వికెట్లు పడగొట్టాడు, అయితే అభిషేక్ శర్మ 33 బంతుల్లో 61 పరుగులు చేసి ఔట్ అవ్వకుండానే ఔటయ్యాడు. ఈ క్రమంలో తిలక్ వర్మ కూడా అతనిపై 16 బంతుల్లో 36 పరుగులు చేశాడు. భారత్ 1 అభిషేక్ శర్మ, 2 సంజూ శాంసన్ (వికెట్), 3 ఇషాన్ కిషన్, 4 సూర్యకుమార్ యాదవ్ (కెప్టెన్), 5 తిలక్ వర్మ, 6 హార్దిక్ పాండ్యా, 7 శివమ్ దూబే, 8 అక్సర్ వర్దీప్, 1910 చక్రవర్ సింగ్, 1910 జస్ప్రీత్ బుమ్రాఇంగ్లండ్ 1 ఫిల్ సాల్ట్, 2 జోస్ బట్లర్ (వారం), 3 జాకబ్ బెథెల్, 4 హ్యారీ బ్రూక్ (కెప్టెన్.), 5 టామ్ బాంటన్, 6 సామ్ కర్రాన్, 7 విల్ జాక్స్, 8 జామీ ఓవర్‌టన్, 9 లియామ్ డాసన్, 10 జోఫ్రా ఆర్చర్, 11 అడిల్‌ల్యాండ్‌లో ఇంగ్లండ్‌లో 11 అడిల్‌ల్యాండ్‌లో ప్రపంచ కప్",
+      "summary_te": "భారత్ ఎలాంటి మార్పులేని XIతో బరిలోకి దిగింది",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
       "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
-      "translated": true
-    },
-    {
-      "id": "87a2382ca82e79d0e73b9543c6b1ab0c",
-      "title": "Men's CWC League 2 matches postponed because of West Asia conflict",
-      "summary": "Oman and UAE were to travel to Nepal for the games starting on March 10",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526822.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/381000/381041.jpg",
-      "published_at": "2026-03-04T15:02:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్ట్ ఆసియా వివాదం కారణంగా పురుషుల CWC లీగ్ 2 మ్యాచ్‌లు వాయిదా పడ్డాయి",
-      "summary_te": "మార్చి 10 నుంచి ప్రారంభమయ్యే ఆటల కోసం ఒమన్ మరియు యూఏఈ నేపాల్ వెళ్లాల్సి ఉంది",
-      "translated": true
-    },
-    {
-      "id": "6cd6b41ab9c7fd7c81d0177e8418427c",
-      "title": "Morkel: 'For Varun, it's just about getting that confidence, and trying not to overthink it'",
-      "summary": "\"I keep telling Varun that with the skill and variation he has, he has the ability to take a wicket almost every ball\"",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526788.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414229.jpg",
-      "published_at": "2026-03-04T14:48:36.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మోర్కెల్: 'వరుణ్ కోసం, ఇది కేవలం ఆ విశ్వాసాన్ని పొందడం మరియు దాని గురించి ఎక్కువగా ఆలోచించకుండా ప్రయత్నించడం'",
-      "summary_te": "\"వరుణ్‌కు ఉన్న నైపుణ్యం మరియు వైవిధ్యంతో, దాదాపు ప్రతి బంతికి వికెట్ తీయగల సామర్థ్యం అతనికి ఉందని నేను చెబుతూనే ఉన్నాను\"",
       "translated": true
     }
   ]

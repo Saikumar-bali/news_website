@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T19:17:53.145Z",
-  "updated_at_IST": "6/3/2026, 12:47:53 am",
+  "updated_at": "2026-03-05T20:39:12.041Z",
+  "updated_at_IST": "6/3/2026, 2:09:12 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "c92d20194f2ede912e1ab05109881d9b",
+      "title": "‘We want someone who will…’: Trump wants to be involved in picking Iran's next leader",
+      "summary": "US President Trump stated he should play a role in selecting Iran's next supreme leader amid ongoing conflict involving Iran, Israel, and the U.S.&nbsp;",
+      "url": "https://www.livemint.com/news/us-news/we-want-someone-who-will-trump-wants-to-be-involved-in-picking-irans-next-leader-11772737725551.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/USA-TRUMP-RASH-1_1772738302733_1772738325856.JPG",
+      "published_at": "2026-03-05T20:10:30.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘మాకు ఎవరైనా కావాలి…’: ఇరాన్ తదుపరి నాయకుడిని ఎన్నుకోవడంలో ట్రంప్ పాల్గొనాలనుకుంటున్నారు",
+      "summary_te": "ఇరాన్, ఇజ్రాయెల్ మరియు యుఎస్ ప్రమేయం ఉన్న వివాదం మధ్య ఇరాన్ తదుపరి అత్యున్నత నాయకుడిని ఎన్నుకోవడంలో తాను పాత్ర పోషించాలని అమెరికా అధ్యక్షుడు ట్రంప్ పేర్కొన్నారు. ",
+      "translated": true
+    },
+    {
+      "id": "d998b801fe54aee558bfb751ccc95f7d",
+      "title": "Who is Taranjit Singh Sandhu? Former diplomat appointed as lieutenant governor of Delhi",
+      "summary": "Taranjit Singh Sandhu is a seasoned Indian diplomat with over 30 years of experience. , and is married to Reenat Sandhu.",
+      "url": "https://www.livemint.com/news/india/who-is-taranjit-singh-sandhu-former-diplomat-appointed-as-lieutenant-governor-of-delhi-11772733141587.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/20200730052L_1597935989504_1597936005844_1772733314944.jpg",
+      "published_at": "2026-03-05T19:28:47.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "తరంజిత్ సింగ్ సంధు ఎవరు? మాజీ దౌత్యవేత్త ఢిల్లీ లెఫ్టినెంట్ గవర్నర్‌గా నియమితులయ్యారు",
+      "summary_te": "తరంజిత్ సింగ్ సంధు 30 సంవత్సరాల అనుభవం ఉన్న భారతీయ దౌత్యవేత్త. , మరియు రీనత్ సంధుని వివాహం చేసుకుంది.",
+      "translated": true
+    },
     {
       "id": "76b35a172cdea75b112798cc33114183",
       "title": "Major reshuffle of Governors by President Droupadi Murmu— check complete list",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "ఢిల్లీలో నరకయాతన: రితాలా అగ్నిప్రమాదంలో 17 ఏళ్ల బాలిక కాలి బూడిదైంది, 100 మందికి పైగా గుడిసెలు దగ్ధమయ్యాయి",
       "summary_te": "ఉదయం 4:15 గంటలకు మంటలు చెలరేగడంతో ఢిల్లీ ఫైర్ సర్వీసెస్ అప్రమత్తమైంది. మంటలను అదుపు చేసేందుకు 18 ఫైర్ ఇంజన్లు ఘటనా స్థలానికి చేరుకున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "ca42e297228b77f97eea8347b1c991d9",
-      "title": "EAM Jaishankar dials Iran counterpart Araghchi as Israel-US-Iran conflict rages on, tensions persist in Gulf nations",
-      "summary": "Earlier in the day, India offered condolences on the death of former Iranian Supreme Leader Ayatollah Ali Khamenei, with Foreign Secretary Vikram Misri signing the condolence book at the Iranian embassy in New Delhi",
-      "url": "https://www.livemint.com/news/india/eam-jaishankar-dials-iran-counterpart-araghchi-as-israel-us-iran-conflict-rages-on-tensions-persist-in-gulf-nations-11772714927843.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/ANI-20251016063-0_1761294315422_1772717430292.jpg",
-      "published_at": "2026-03-05T13:30:56.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇజ్రాయెల్-యుఎస్-ఇరాన్ వివాదం చెలరేగుతుండగా, గల్ఫ్ దేశాలలో ఉద్రిక్తతలు కొనసాగుతున్నందున ఇఎఎమ్ జైశంకర్ ఇరాన్ కౌంటర్ అరాఘీకి డయల్ చేశాడు",
-      "summary_te": "అంతకుముందు రోజు, ఇరాన్ మాజీ సుప్రీం లీడర్ అయతుల్లా అలీ ఖమేనీ మరణంపై భారతదేశం సంతాపం తెలిపింది, విదేశాంగ కార్యదర్శి విక్రమ్ మిస్రీ న్యూఢిల్లీలోని ఇరాన్ రాయబార కార్యాలయంలో సంతాప పుస్తకంపై సంతకం చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "b5a10ed1605c09728c9b526a066cc540",
-      "title": "US House set for new vote on Homeland Security funding as GOP cites Iran war security threats during shutdown",
-      "summary": "House Speaker Mike Johnson said the international security environment underscores the need for action. “The military action in Iran makes it all more urgent and crucial to have a fully funded, fully staffed DHS across all its departments,” Johnson said.",
-      "url": "https://www.livemint.com/news/us-news/us-house-to-hold-fresh-vote-today-on-homeland-security-funding-republicans-cite-security-risks-amid-iran-conflict-11772715649264.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/DEMOCRATIC-LEADERS-REP--JEFFERIES-AND-SEN--SCHU_1772716505629_1772716505779.jpg",
-      "published_at": "2026-03-05T13:29:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "షట్‌డౌన్ సమయంలో ఇరాన్ యుద్ధ భద్రతా బెదిరింపులను GOP ఉదహరించడంతో హోంల్యాండ్ సెక్యూరిటీ ఫండింగ్‌పై కొత్త ఓటు వేయడానికి US హౌస్ సెట్ చేయబడింది",
-      "summary_te": "హౌస్ స్పీకర్ మైక్ జాన్సన్ మాట్లాడుతూ అంతర్జాతీయ భద్రతా వాతావరణం చర్య యొక్క అవసరాన్ని నొక్కి చెబుతుంది. \"ఇరాన్‌లో సైనిక చర్య దాని అన్ని విభాగాలలో పూర్తి నిధులతో, పూర్తి సిబ్బందితో కూడిన DHSని కలిగి ఉండటం మరింత అత్యవసరం మరియు కీలకమైనది\" అని జాన్సన్ చెప్పారు.",
       "translated": true
     },
     {
