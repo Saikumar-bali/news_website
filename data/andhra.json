@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T22:31:06.547Z",
-  "updated_at_IST": "6/3/2026, 4:01:06 am",
+  "updated_at": "2026-03-05T23:57:02.241Z",
+  "updated_at_IST": "6/3/2026, 5:27:02 am",
   "category": "andhra",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "c13a1b603a5269be6e087d607859aa7f",
+      "title": "ASHA workers stage protest in Vijayawada; government responds positively to demands",
+      "summary": "Health Minister assures the workers that steps will be taken to grant leaves in accordance to the norms prescribed under the National Health Mission.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/asha-workers-stage-protest-in-vijayawada-government-responds-positively-to-demands/article70708424.ece",
+      "image": "https://th-i.thgim.com/public/incoming/j5dpw3/article70708829.ece/alternates/LANDSCAPE_1200/vjkvg-asha%202.JPG",
+      "published_at": "2026-03-05T18:17:44.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "విజయవాడలో ఆశా వర్కర్ల నిరసన; డిమాండ్లపై ప్రభుత్వం సానుకూలంగా స్పందిస్తుంది",
+      "summary_te": "జాతీయ ఆరోగ్య మిషన్ కింద నిర్దేశించిన నిబంధనలకు అనుగుణంగా సెలవులు మంజూరు చేసేందుకు చర్యలు తీసుకుంటామని ఆరోగ్య మంత్రి కార్మికులకు హామీ ఇచ్చారు.",
+      "translated": true
+    },
+    {
+      "id": "e10b92a67436d0b3b21b36337bfe0bbd",
+      "title": "ACB officials trap Pamidi SRO while ‘taking’ bribe in Anantapur district",
+      "summary": "The Anti-Corruption Bureau (ACB) officials caught Pamidi Sub-Registrar Officer (SRO) K. Radha Ramana and other individual identified as V. Venkatesh red-handed while accepting ₹25,000 bribe in Anantapur district on Thursday (March 5, 2026).The accused allegedly demanded bribe for registering the property of the complainant. They would be produced in Kurnool ACB Special Court, the investigation officers said.In a separate case, the ACB Special Court, Vijayawada, on Thursday, awarded three years Rigorous Imprisonment to K. Ramanjaneyulu, former Assistant Engineer, A.P. State Housing Corporation Limited, who was booked in a Disproportionate Assets (DA) case in 2005. The accused AE retired from service in 2016.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/acb-officials-trap-pamidi-sro-while-taking-bribe-in-anantapur-district/article70708536.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-05T18:04:03.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "అనంతపురం జిల్లాలో లంచం తీసుకుంటూ పామిడి ఎస్‌ఆర్‌వోను ఏసీబీ అధికారులు ట్రాప్ చేశారు",
+      "summary_te": "గురువారం (మార్చి 5, 2026) అనంతపురం జిల్లాలో ₹ 25,000 లంచం తీసుకుంటుండగా అవినీతి నిరోధక శాఖ (ACB) అధికారులు పామిడి సబ్-రిజిస్ట్రార్ ఆఫీసర్ (SRO) కె. రాధా రమణ మరియు V. వెంకటేష్ అనే ఇతర వ్యక్తిని రెడ్ హ్యాండెడ్‌గా పట్టుకున్నారు. వీరిని కర్నూలు ఏసీబీ ప్రత్యేక కోర్టులో హాజరుపరచనున్నట్లు దర్యాప్తు అధికారులు తెలిపారు.ఒక ప్రత్యేక కేసులో విజయవాడలోని ఏసీబీ ప్రత్యేక న్యాయస్థానం గురువారం నాడు ఆదాయానికి మించిన ఆస్తులు (డీఏ) 200కిపైగా ఎపి స్టేట్‌ హౌసింగ్‌ కార్పొరేషన్‌ లిమిటెడ్‌ మాజీ అసిస్టెంట్‌ ఇంజనీర్‌ కె. రామాంజనేయులుకు మూడేళ్ల కఠిన కారాగార శిక్ష విధించింది.",
+      "translated": true
+    },
     {
       "id": "f9f322aefe513fdb4894e1743649285b",
       "title": "Hotel fined for throwing garbage on road in Ongole",
