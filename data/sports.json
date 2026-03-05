@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T09:45:13.449Z",
-  "updated_at_IST": "5/3/2026, 3:15:13 pm",
+  "updated_at": "2026-03-05T10:40:46.832Z",
+  "updated_at_IST": "5/3/2026, 4:10:46 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "14a0fda7fe3b1815d399a957aa493db0",
+      "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
+      "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
+      "published_at": "2026-03-05T10:04:34.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కోల్‌కతా హోటల్‌లో వెస్టిండీస్ చిక్కుకున్నందున సమ్మీ పిటిషన్‌ను జారీ చేశాడు",
+      "summary_te": "వెస్టిండీస్ వారి ప్రయాణ షెడ్యూల్ పరంగా అధికారిక నవీకరణ ఇవ్వబడలేదు కానీ జింబాబ్వే జట్టు సభ్యుల మొదటి బ్యాచ్ ఇప్పుడు స్వదేశానికి బయలుదేరింది",
+      "translated": true
+    },
+    {
+      "id": "e2cdf7d696fd784fbf9903c92e0b8d69",
+      "title": "Healy insists there's no sadness as legendary career comes to a close",
+      "summary": "The Australia captain hopes to savour her final few days as a player but is focused on being part of team success",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526934.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414379.jpg",
+      "published_at": "2026-03-05T09:56:36.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "లెజెండరీ కెరీర్ ముగింపు దశకు వచ్చినందున ఎలాంటి విచారం లేదని హీలీ నొక్కి చెప్పాడు",
+      "summary_te": "ఆస్ట్రేలియా కెప్టెన్ తన చివరి కొన్ని రోజులను క్రీడాకారిణిగా ఆస్వాదించాలని భావిస్తోంది, అయితే జట్టు విజయంలో భాగం కావడంపై దృష్టి పెట్టింది",
+      "translated": true
+    },
     {
       "id": "0e6244b4e1a9f8b982f707c1f1ef0f29",
       "title": "Gannon strikes late as Queensland slump against Western Australia",
@@ -16,20 +44,6 @@
       "language": "en",
       "title_te": "వెస్ట్రన్ ఆస్ట్రేలియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ పతనం కావడంతో గానన్ ఆలస్యంగా కొట్టాడు",
       "summary_te": "210 తర్వాత ఫాన్నింగ్ 62 పరుగులతో క్వీన్స్‌లాండ్‌ను 37 పరుగులకు వదిలేసి, లాబుస్చాగ్నే మరియు ఖవాజాతో సహా గానన్ మూడు వికెట్లు పడగొట్టాడు.",
-      "translated": true
-    },
-    {
-      "id": "14a0fda7fe3b1815d399a957aa493db0",
-      "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
-      "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
-      "published_at": "2026-03-05T08:22:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కోల్‌కతా హోటల్‌లో వెస్టిండీస్ చిక్కుకున్నందున సమ్మీ పిటిషన్‌ను జారీ చేశాడు",
-      "summary_te": "వెస్టిండీస్ వారి ప్రయాణ షెడ్యూల్ పరంగా అధికారిక నవీకరణ ఇవ్వబడలేదు కానీ జింబాబ్వే జట్టు సభ్యుల మొదటి బ్యాచ్ ఇప్పుడు స్వదేశానికి బయలుదేరింది",
       "translated": true
     },
     {
@@ -308,7 +322,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "8d5f7f8196c8c673b970f3dd46612493",
-      "title": "South Africa strong favourites as quest for elusive silverware hots up",
-      "summary": "Serial semi-finalists meet at Eden Gardens in latest bid to land limited-overs crown",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526706.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413511.jpg",
-      "published_at": "2026-03-03T16:41:40.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "అంతుచిక్కని వెండి సామాగ్రి కోసం వెతుకులాటలో దక్షిణాఫ్రికా బలమైన ఇష్టమైనవి",
-      "summary_te": "సీరియల్ సెమీ-ఫైనలిస్టులు ఈడెన్ గార్డెన్స్‌లో పరిమిత ఓవర్ల కిరీటం కోసం తాజా బిడ్‌లో కలుసుకున్నారు",
       "translated": true
     }
   ]
