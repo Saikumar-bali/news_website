@@ -1,16 +1,58 @@
 {
-  "updated_at": "2026-03-05T05:20:37.771Z",
-  "updated_at_IST": "5/3/2026, 10:50:37 am",
+  "updated_at": "2026-03-05T06:48:29.065Z",
+  "updated_at_IST": "5/3/2026, 12:18:29 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "2706428161c22bffd1dfde29f4602199",
+      "title": "India will have to be aggressive to spoil Healy's farewell",
+      "summary": "Australia only need a draw at the WACA to secure the multi-format series outright but will be motivated to send off their captain with a victory",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526916.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/376000/376066.jpg",
+      "published_at": "2026-03-05T06:13:19.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హీలీ వీడ్కోలు పాడుచేయాలంటే భారత్ దూకుడుగా వ్యవహరించాలి",
+      "summary_te": "మల్టీ-ఫార్మాట్ సిరీస్‌ను పూర్తిగా భద్రపరచడానికి ఆస్ట్రేలియా WACAలో డ్రా మాత్రమే కావాలి, కానీ విజయంతో తమ కెప్టెన్‌ను పంపడానికి ప్రేరణ పొందుతుంది",
+      "translated": true
+    },
+    {
+      "id": "645991916e7994660bcf4e822df90b0c",
+      "title": "India vs England chapter 3: the match that could define eras",
+      "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
+      "published_at": "2026-03-05T05:40:17.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఇండియా vs ఇంగ్లండ్ చాప్టర్ 3: యుగాలను నిర్వచించగల మ్యాచ్",
+      "summary_te": "రెండు జట్లూ సెమీ-ఫైనల్స్‌లో మూడవ వరుస ఎడిషన్‌లో తలపడుతున్నాయి, తక్కువ ఖచ్చితమైన ప్రచారాల నేపథ్యంలో మరియు చారిత్రాత్మక మూడవ టైటిల్‌ను కోరుతున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "561d7e288af92bbcf1db4d27972084d1",
+      "title": "Markram: 'Not a slap in the face, but it feels like it'",
+      "summary": "The South Africa captain expected the Eden Gardens track to play much better for the batters in the first semi-final",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526875.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414362.jpg",
+      "published_at": "2026-03-05T05:14:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మార్క్రామ్: 'ముఖంలో చప్పుడు కాదు, కానీ అది అనిపిస్తుంది'",
+      "summary_te": "మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు ఈడెన్ గార్డెన్స్ ట్రాక్ మెరుగ్గా ఆడుతుందని దక్షిణాఫ్రికా కెప్టెన్ ఆశించాడు",
+      "translated": true
+    },
     {
       "id": "f01d24ac0fb8c206a5555f121bf5977b",
       "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
       "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper snotklap",
       "url": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414374.jpg",
-      "published_at": "2026-03-05T04:59:36.000Z",
+      "published_at": "2026-03-05T05:07:09.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -61,20 +103,6 @@
       "translated": true
     },
     {
-      "id": "561d7e288af92bbcf1db4d27972084d1",
-      "title": "Markram: 'Not a slap in the face, but it feels like it'",
-      "summary": "The South Africa captain expected the Eden Gardens track to play much better for the batters in the first semi-final",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526875.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414362.jpg",
-      "published_at": "2026-03-04T17:48:53.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మార్క్రామ్: 'ముఖంలో చప్పుడు కాదు, కానీ అది అనిపిస్తుంది'",
-      "summary_te": "దక్షిణాఫ్రికా కెప్టెన్ ఈడెన్ గార్డెన్స్ ట్రాక్ మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు మెరుగ్గా ఆడుతుందని ఆశించాడు",
-      "translated": true
-    },
-    {
       "id": "84a9ff76da1061c5d60613de33edb576",
       "title": "Sulakshan Kulkarni takes over as Oman head coach",
       "summary": "He takes over from Duleep Mendis, who held the position for 14 years",
@@ -99,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
-      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్‌లో 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
       "translated": true
     },
     {
@@ -128,20 +156,6 @@
       "language": "en",
       "title_te": "మోర్కెల్: 'వరుణ్ కోసం, ఇది కేవలం ఆ విశ్వాసాన్ని పొందడం మరియు దాని గురించి ఎక్కువగా ఆలోచించకుండా ప్రయత్నించడం'",
       "summary_te": "\"వరుణ్‌కు ఉన్న నైపుణ్యం మరియు వైవిధ్యంతో, దాదాపు ప్రతి బంతికి వికెట్ తీయగల సామర్థ్యం అతనికి ఉందని నేను చెబుతూనే ఉన్నాను\"",
-      "translated": true
-    },
-    {
-      "id": "645991916e7994660bcf4e822df90b0c",
-      "title": "India vs England chapter 3: the match that could define eras",
-      "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
-      "published_at": "2026-03-04T14:15:41.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఇండియా vs ఇంగ్లండ్ చాప్టర్ 3: యుగాలను నిర్వచించగల మ్యాచ్",
-      "summary_te": "రెండు జట్లూ సెమీ-ఫైనల్స్‌లో మూడవ వరుస ఎడిషన్‌లో తలపడుతున్నాయి, తక్కువ ఖచ్చితమైన ప్రచారాల నేపథ్యంలో మరియు చారిత్రాత్మక మూడవ టైటిల్‌ను కోరుతున్నాయి.",
       "translated": true
     },
     {
@@ -238,7 +252,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -267,7 +281,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
+      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "క్వీన్స్‌ల్యాండ్ హై-పెర్ఫార్మెన్స్ మేనేజర్ జో డావ్స్ రాజీనామా చేశారు",
       "summary_te": "జో డావ్స్ బాధ్యతలు స్వీకరించిన రెండు సంవత్సరాల తర్వాత మరియు ఉస్మాన్ ఖవాజాతో పబ్లిక్ స్టౌష్ తర్వాత ఒక సంవత్సరం లోపు పదవి నుండి వైదొలిగారు.",
-      "translated": true
-    },
-    {
-      "id": "3a943cde1e9fda8c08636e42ce8fcd1f",
-      "title": "Head, Green, Inglis set for Shield return after T20 World Cup exit",
-      "summary": "Connolly, Renshaw, Bartlett, Abbott, Kuhnemann will all return to the Shield after the T20 World Cup exit but Steve Smith is unavailable",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526637.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414317.jpg",
-      "published_at": "2026-03-03T04:51:27.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "T20 ప్రపంచ కప్ నిష్క్రమణ తర్వాత హెడ్, గ్రీన్, ఇంగ్లిస్ షీల్డ్ తిరిగి రావడానికి సిద్ధంగా ఉన్నారు",
-      "summary_te": "కొన్నోలీ, రెన్‌షా, బార్ట్‌లెట్, అబాట్, కుహ్నెమాన్ అందరూ T20 ప్రపంచ కప్ నిష్క్రమణ తర్వాత షీల్డ్‌కు తిరిగి వస్తారు కానీ స్టీవ్ స్మిత్ అందుబాటులో లేడు",
       "translated": true
     }
   ]

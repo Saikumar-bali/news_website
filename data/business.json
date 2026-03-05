@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-05T05:20:37.771Z",
-  "updated_at_IST": "5/3/2026, 10:50:37 am",
+  "updated_at": "2026-03-05T06:48:29.065Z",
+  "updated_at_IST": "5/3/2026, 12:18:29 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "1317b3938f4df2e98157eda5a0b1816b",
+      "title": "‘Atrocity at sea’: Iran warns US after strike on ‘guest of India’s Navy’ IRIS Dena",
+      "summary": "Seyed Abbas Aragchi, the foreign minister of Iran, condemned the US for striking the Iranian frigate IRIS Dena in international waters",
+      "url": "https://www.livemint.com/news/world/atrocity-at-sea-iran-warns-us-after-strike-on-guest-of-india-s-navy-iris-dena-11772691973311.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/HBW51n9asAAcJ2o_1772688807310_1772688815478_1772692214850.jpg",
+      "published_at": "2026-03-05T06:33:30.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘సముద్రంలో దారుణం’: ‘భారత నౌకాదళ అతిథి’ IRIS దేనాపై దాడి తర్వాత ఇరాన్ అమెరికాను హెచ్చరించింది",
+      "summary_te": "అంతర్జాతీయ జలాల్లో ఇరాన్‌ యుద్ధనౌక ఐఆర్‌ఐఎస్‌ దేనాపై అమెరికా దాడులు చేయడాన్ని ఇరాన్‌ విదేశాంగ మంత్రి సయ్యద్‌ అబ్బాస్‌ ఆరాగ్చి ఖండించారు.",
+      "translated": true
+    },
+    {
+      "id": "405bb100776c9d5109e6380f8b605f3b",
+      "title": "Who is Anurag Dobhal? Bigg Boss fame YouTuber posts ‘last blog’ amid harassment from family over inter-caste marriage",
+      "summary": "Anurag Dobhal revealed that the emotional strain of the alleged harassment pushed him to consider suicide",
+      "url": "https://www.livemint.com/news/trends/who-is-anurag-dobhal-bigg-boss-fame-youtuber-posts-last-blog-amid-harassment-from-family-over-inter-caste-marriage-11772687543758.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/Screenshot_2026-03-05_104144_1772687524079_1772687538689.png",
+      "published_at": "2026-03-05T06:10:24.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అనురాగ్ దోభాల్ ఎవరు? కులాంతర వివాహాలపై కుటుంబం నుండి వేధింపుల మధ్య బిగ్ బాస్ ఫేమ్ యూట్యూబర్ 'చివరి బ్లాగ్'ని పోస్ట్ చేశాడు",
+      "summary_te": "ఆరోపించిన వేధింపుల మానసిక ఒత్తిడి తనను ఆత్మహత్య చేసుకోవాలని భావించిందని అనురాగ్ దోభాల్ వెల్లడించారు",
+      "translated": true
+    },
+    {
+      "id": "05e167a8e99ca45400c92bea87f1614b",
+      "title": "What is Milan 2026, Indian Navy’s maritime exercise in which Iranian frigate IRIS Dena, sunk by US took part?",
+      "summary": "Milan 2026, a large maritime exercise, involved 42 ships, 29 aircraft, and 74 countries. The event concluded with a ceremony aboard India's INS Vikrant. &nbsp;Iranian frigate IRIS Dena was sunk by a US submarine while it was heading home from the event.",
+      "url": "https://www.livemint.com/news/india/what-is-milan-2026-indian-navy-s-maritime-exercise-in-which-iranian-frigate-iris-dena-sunk-by-us-took-part-11772688617444.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/HBW51n9asAAcJ2o_1772688807310_1772688815478.jpg",
+      "published_at": "2026-03-05T05:44:06.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మిలన్ 2026 అంటే ఏమిటి, భారత నౌకాదళం యొక్క సముద్ర విన్యాసాలలో US మునిగిపోయిన ఇరానియన్ ఫ్రిగేట్ IRIS దేనా పాల్గొంది?",
+      "summary_te": "మిలన్ 2026, ఒక పెద్ద సముద్ర వ్యాయామం, 42 నౌకలు, 29 విమానాలు మరియు 74 దేశాలు పాల్గొన్నాయి. భారతదేశానికి చెందిన INS విక్రాంత్‌లో ఒక వేడుకతో ఈ కార్యక్రమం ముగిసింది.  ఇరాన్ యుద్ధనౌక IRIS దేనా ఈవెంట్ నుండి ఇంటికి వెళుతుండగా US జలాంతర్గామి ద్వారా మునిగిపోయింది.",
+      "translated": true
+    },
+    {
+      "id": "4cb9a0be0bac54a668286be5d0c6552f",
+      "title": "When is Pokémon Pokopia arriving on Switch 2? Start dates, rewards, how to play and more",
+      "summary": "Pokémon Pokopia launches on Nintendo Switch 2 today. The game boasts a Metascore of 88, highest ever for any Pokémon game so far. It features limited-time events, including ‘More Spores for Hoppip.’",
+      "url": "https://www.livemint.com/news/us-news/when-is-pokemon-pokopia-arriving-on-switch-2-start-dates-rewards-how-to-play-and-more-11772685795078.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/Pokopia_1772687958158_1772687958273.png",
+      "published_at": "2026-03-05T05:28:07.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "Pokémon Pokopia స్విచ్ 2లో ఎప్పుడు వస్తుంది? ప్రారంభ తేదీలు, రివార్డ్‌లు, ఎలా ఆడాలి మరియు మరిన్ని",
+      "summary_te": "పోకీమాన్ పోకోపియా ఈ రోజు నింటెండో స్విచ్ 2లో ప్రారంభించబడింది. గేమ్ మెటాస్కోర్ 88ని కలిగి ఉంది, ఇది ఇప్పటివరకు ఏ పోకీమాన్ గేమ్‌లో లేనటువంటి అత్యధికం. ఇది పరిమిత-సమయ ఈవెంట్‌లను కలిగి ఉంది, ఇందులో 'మోర్ స్పోర్స్ ఫర్ హాపిప్.'",
+      "translated": true
+    },
     {
       "id": "79cc635d0462504d0d8b7915620db7b3",
       "title": "Quote of the Day by Kevin Warsh on inflation: ‘Money on Wall Street is too easy, and…’",
@@ -19,8 +75,22 @@
       "translated": true
     },
     {
+      "id": "ed6964102f801737297d296aca3fd117",
+      "title": "Wait for dust to settle before taking fresh bets, says Maulik Patel",
+      "summary": "Geopolitical tensions and market swings prompt caution for investors. Maulik Patel of Equirus Securities advises patience, suggesting a wait-and-watch approach. He notes current crises differ from past conflicts. Patel also discusses AI's impact on IT services and identifies potential investment opportunities in corrected sectors, while advising caution in others.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/wait-for-dust-to-settle-before-taking-fresh-bets-says-maulik-patel/articleshow/129069191.cms",
+      "image": null,
+      "published_at": "2026-03-05T04:52:57.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "తాజా పందెం వేసే ముందు దుమ్ము చల్లబడే వరకు వేచి ఉండండి, మౌలిక్ పటేల్ చెప్పారు",
+      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు మార్కెట్ స్వింగ్‌లు పెట్టుబడిదారులకు తక్షణ హెచ్చరిక. ఈక్విరస్ సెక్యూరిటీస్‌కి చెందిన మౌలిక్ పటేల్ ఓపికతో సహనానికి సలహా ఇస్తున్నారు, వేచి ఉండి చూసే విధానాన్ని సూచిస్తారు. ప్రస్తుత సంక్షోభాలు గత వైరుధ్యాలకు భిన్నంగా ఉన్నాయని ఆయన పేర్కొన్నారు. పటేల్ IT సేవలపై AI యొక్క ప్రభావాన్ని కూడా చర్చిస్తారు మరియు సరిదిద్దబడిన రంగాలలో సంభావ్య పెట్టుబడి అవకాశాలను గుర్తిస్తారు, అదే సమయంలో ఇతరులలో జాగ్రత్త వహించాలని సూచించారు.",
+      "translated": true
+    },
+    {
       "id": "31de103917d8cb3a03f9384eaadd9081",
-      "title": "Kurdish fighters launch ground operation in Iran, Tehran announces attack on separatists in Iraq's Kurdistan",
+      "title": "Kurdish fighters launch ground operation in Iran; Tehran announces attack on separatists in Iraq’s Kurdistan",
       "summary": "Kurdish armed groups from Iraq have reportedly entered the conflict between the US and Iran, launching a ground offensive into Iran. Iranian officials deny the reports while claiming to target anti-Iran separatist forces in Iraq's Kurdish region, amid US support for Kurdish forces.",
       "url": "https://www.livemint.com/news/world/kurdish-armed-group-ground-operation-in-iran-tehran-strikes-separatists-in-iraqs-kurdistan-11772685452579.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/2-0-552020354-000-Par8087453-0_1680597265352_1772685630623.jpg",
@@ -28,7 +98,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కుర్దిష్ యోధులు ఇరాన్‌లో గ్రౌండ్ ఆపరేషన్‌ను ప్రారంభించారు, ఇరాక్‌లోని కుర్దిస్తాన్‌లోని వేర్పాటువాదులపై టెహ్రాన్ దాడిని ప్రకటించింది",
+      "title_te": "కుర్దిష్ యోధులు ఇరాన్‌లో గ్రౌండ్ ఆపరేషన్ ప్రారంభించారు; ఇరాక్‌లోని కుర్దిస్థాన్‌లో వేర్పాటువాదులపై దాడిని టెహ్రాన్ ప్రకటించింది",
       "summary_te": "ఇరాక్ నుండి వచ్చిన కుర్దిష్ సాయుధ గ్రూపులు ఇరాన్‌పై భూదాడిని ప్రారంభించి, యుఎస్ మరియు ఇరాన్ మధ్య వివాదంలోకి ప్రవేశించినట్లు నివేదించబడింది. ఇరాక్‌లోని కుర్దిష్ ప్రాంతంలో ఇరాన్-వ్యతిరేక వేర్పాటువాద శక్తులను లక్ష్యంగా చేసుకున్నట్లు పేర్కొంటూ ఇరాన్ అధికారులు నివేదికలను ఖండించారు, కుర్దిష్ దళాలకు US మద్దతు మధ్య.",
       "translated": true
     },
@@ -76,7 +146,7 @@
     },
     {
       "id": "65af428f8aff63f59371d5c06fd32304",
-      "title": "US reveals two more names of soldiers killed in Iran drone strike on Kuwait — Who are they?",
+      "title": "US releases names of two more soldiers killed in Iran drone strike on Kuwait — who are they",
       "summary": "Pentagon has released the names of two more soldiers killed in an Iranian drone strike on Kuwait. The names of four other US service members killed in Iran's attack were previously announced.",
       "url": "https://www.livemint.com/news/us-news/us-reveals-two-more-names-of-soldiers-killed-in-iran-drone-strike-on-kuwait-who-are-they-11772675971867.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/ll_1772678629941_1772678630135.jpeg",
@@ -84,7 +154,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కువైట్‌పై ఇరాన్ డ్రోన్ దాడిలో మరణించిన మరో ఇద్దరు సైనికుల పేర్లను అమెరికా వెల్లడించింది - వారు ఎవరు?",
+      "title_te": "కువైట్‌పై ఇరాన్ డ్రోన్ దాడిలో మరణించిన మరో ఇద్దరు సైనికుల పేర్లను అమెరికా విడుదల చేసింది - వారు ఎవరు",
       "summary_te": "కువైట్‌పై ఇరాన్ డ్రోన్ దాడిలో మరణించిన మరో ఇద్దరు సైనికుల పేర్లను పెంటగాన్ విడుదల చేసింది. ఇరాన్ దాడిలో మరణించిన మరో నలుగురు US సర్వీస్ సభ్యుల పేర్లను గతంలో ప్రకటించారు.",
       "translated": true
     },
@@ -117,20 +187,6 @@
       "translated": true
     },
     {
-      "id": "6f6c62301d7d48f255c892365449c67e",
-      "title": "Oversold signals emerge amid market slide; technical charts hint at possible relief rally",
-      "summary": "Indian equity markets are experiencing significant volatility after three days of selling. Technical indicators suggest a potential short-term rebound due to extreme oversold conditions, with Nifty possibly testing 24,600-25,000 and Bank Nifty nearing 60,000. Experts advise against panic selling, noting the VIX spike reflects heightened concern but not peak panic yet.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/oversold-signals-emerge-amid-market-slide-technical-charts-hint-at-possible-relief-rally/articleshow/129031605.cms",
-      "image": null,
-      "published_at": "2026-03-05T02:30:00.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మార్కెట్ స్లైడ్ మధ్య ఓవర్‌సోల్డ్ సంకేతాలు వెలువడతాయి; సాంకేతిక పటాలు సాధ్యమైన సహాయ ర్యాలీని సూచిస్తున్నాయి",
-      "summary_te": "మూడు రోజుల విక్రయాల తర్వాత భారతీయ ఈక్విటీ మార్కెట్లు గణనీయమైన ఒడిదుడుకులను ఎదుర్కొంటున్నాయి. నిఫ్టీ బహుశా 24,600-25,000 మరియు బ్యాంక్ నిఫ్టీ 60,000కి చేరుకునే అవకాశం ఉన్నందున, విపరీతమైన ఓవర్‌సోల్డ్ పరిస్థితుల కారణంగా స్వల్పకాలిక పుంజుకునే అవకాశం ఉందని సాంకేతిక సూచికలు సూచిస్తున్నాయి. నిపుణులు భయాందోళనలకు వ్యతిరేకంగా సలహా ఇస్తారు, VIX స్పైక్ తీవ్ర ఆందోళనను ప్రతిబింబిస్తుంది కానీ ఇంకా తీవ్ర భయాందోళనలకు గురికాలేదు.",
-      "translated": true
-    },
-    {
       "id": "6e7db9719ab87fb10b22de62bbeeee23",
       "title": "Negative Breakout: These 7 stocks cross below their 200 DMAs",
       "summary": "In the Nifty500 pack, seven stocks' close prices crossed below their 200 DMA (Daily Moving Averages) on March 4, according to stockedge.com's technical scan data. Trading below the 200 DMA is considered a negative signal because it indicates that the stock's price is below its long-term trend line. The 200 DMA is used as a key indicator by traders for determining the overall trend in a particular stock. Take a look:",
@@ -160,7 +216,7 @@
     },
     {
       "id": "c88261e25f4ff03102d3c5deb91ae6c2",
-      "title": "US-Israel-Iran war LIVE Updates: Explosions heard in Tehran, Jerusalem; Tel Aviv on high alert",
+      "title": "US Iran News LIVE: Washington will ‘bitterly regret’ sinking frigate in Indian Ocean, warns Tehran",
       "summary": "US-Israel-Iran war LIVE Updates: The conflict in the Middle East entered its sixth day on Thursday, with hostilities continuing unabated and the US Senate failing to rein in President Trump's powers to continue the fight with Iran. As operations continue, follow LIVE updates right here.",
       "url": "https://www.livemint.com/news/world/us-israel-iran-war-middle-east-conflict-live-updates-donald-trump-mojtaba-khamenei-crude-oil-ballistic-missiles-news-11772670870447.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/TOPSHOT-ISRAEL-US-IRAN-WAR-0_1772674303932_1772674314939.jpg",
@@ -168,7 +224,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "US-Israel-Iran war LIVE Updates: టెహ్రాన్, జెరూసలేంలో పేలుళ్లు వినిపించాయి; టెల్ అవీవ్ హై అలర్ట్‌లో ఉంది",
+      "title_te": "యుఎస్ ఇరాన్ న్యూస్ లైవ్: హిందూ మహాసముద్రంలో మునిగిపోతున్న ఫ్రిగేట్‌ను వాషింగ్టన్ 'తీవ్రంగా విచారం' వ్యక్తం చేస్తుందని టెహ్రాన్ హెచ్చరించింది",
       "summary_te": "యుఎస్-ఇజ్రాయెల్-ఇరాన్ యుద్ధం లైవ్ అప్‌డేట్‌లు: మిడిల్ ఈస్ట్‌లో వివాదం గురువారం ఆరవ రోజుకు చేరుకుంది, శత్రుత్వం నిరంతరాయంగా కొనసాగుతోంది మరియు ఇరాన్‌తో పోరాటాన్ని కొనసాగించడానికి అధ్యక్షుడు ట్రంప్ అధికారాలను నియంత్రించడంలో యుఎస్ సెనేట్ విఫలమైంది. కార్యకలాపాలు కొనసాగుతున్నందున, లైవ్ అప్‌డేట్‌లను ఇక్కడే అనుసరించండి.",
       "translated": true
     },
@@ -216,7 +272,7 @@
     },
     {
       "id": "ec97682f923cb8bc87a0a7a52ee79f20",
-      "title": "Flight Status March 5 LIVE Updates: More Air India, IndiGo special flights; Dubai International Airport issues advisory",
+      "title": "Flight Status March 5 LIVE Updates: Air India, IndiGo special flights; Dubai International Airport issues advisory",
       "summary": "Flight Status LIVE Updates: Thousands of passengers are still stranded in Dubai, Kuwait Bahrain and other Middle East cities as most flight operations remain suspended in the region. Follow this space for LIVE updates on flight status of Emirates, IndiGo, Air India, Etihad.",
       "url": "https://www.livemint.com/news/world/flight-status-live-update-dubai-doha-abu-dhabi-emirates-air-india-indigo-etihad-qatar-airways-india-flights-march-5-2026-11772669475589.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/US-IRAN-ISRAEL-WAR-AIR-TRAVEL-2_1772670772988_1772670783686.jpg",
@@ -224,7 +280,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "విమాన స్థితి మార్చి 5 లైవ్ అప్‌డేట్‌లు: మరిన్ని ఎయిర్ ఇండియా, ఇండిగో ప్రత్యేక విమానాలు; దుబాయ్ అంతర్జాతీయ విమానాశ్రయం సలహాలను జారీ చేసింది",
+      "title_te": "విమాన స్థితి మార్చి 5 లైవ్ అప్‌డేట్‌లు: ఎయిర్ ఇండియా, ఇండిగో ప్రత్యేక విమానాలు; దుబాయ్ అంతర్జాతీయ విమానాశ్రయం సలహాలను జారీ చేసింది",
       "summary_te": "విమాన స్థితి లైవ్ అప్‌డేట్‌లు: దుబాయ్, కువైట్ బహ్రెయిన్ మరియు ఇతర మధ్యప్రాచ్య నగరాల్లో ఇప్పటికీ వేలాది మంది ప్రయాణికులు చిక్కుకుపోయారు, ఎందుకంటే ఈ ప్రాంతంలో చాలా విమాన కార్యకలాపాలు నిలిపివేయబడ్డాయి. ఎమిరేట్స్, ఇండిగో, ఎయిర్ ఇండియా, ఎతిహాద్ విమాన స్థితిపై లైవ్ అప్‌డేట్‌ల కోసం ఈ స్థలాన్ని అనుసరించండి.",
       "translated": true
     },
@@ -336,7 +392,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ట్రంప్‌పై హత్యాయత్నానికి కుట్ర పన్నిన ఇరాన్ నాయకుడిని టార్గెట్ లిస్ట్‌లో చేర్చి తొలగించారని హెగ్‌సేత్ ఆరోపించారు.",
+      "title_te": "ట్రంప్‌పై హత్యాయత్నానికి కుట్ర పన్నిన ఇరాన్ నాయకుడిని టార్గెట్ లిస్ట్‌లో చేర్చి తొలగించారని హెగ్‌సేత్ ఆరోపించారు",
       "summary_te": "ఆరోపించిన హత్య-సంబంధిత వ్యక్తులు ప్రచారంలో ప్రధాన దృష్టి కాదని హెగ్‌సేత్ అన్నారు. \"ఊహ యొక్క ఏ విస్తీర్ణం ద్వారా ప్రయత్నం యొక్క దృష్టి కానప్పటికీ... నేను నిర్ధారిస్తున్నాను, మరియు ఇతరులు దానికి బాధ్యత వహించే వారు చివరికి లక్ష్య జాబితాలో భాగమవుతారని నిర్ధారించారు,\" అని అతను చెప్పాడు.",
       "translated": true
     },
@@ -383,62 +439,6 @@
       "translated": true
     },
     {
-      "id": "518af95b0f1bd0175bd3bb20a722ed0a",
-      "title": "Trump nominates Kevin Warsh as Federal Reserve Chair to replace Jerome Powell",
-      "summary": "If confirmed, Warsh would take charge of monetary policy decisions at a critical time for inflation management, interest rates, and financial stability.",
-      "url": "https://www.livemint.com/news/us-news/trump-nominates-kevin-warsh-as-federal-reserve-chair-to-replace-jerome-powell-11772646007403.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/USA-FED-WARSH-BALANCE-SHEET-0_1772646344565_1772646353550.JPG",
-      "published_at": "2026-03-04T17:46:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జెరోమ్ పావెల్ స్థానంలో కెవిన్ వార్ష్‌ని ఫెడరల్ రిజర్వ్ చైర్‌గా ట్రంప్ నామినేట్ చేశారు",
-      "summary_te": "ధృవీకరించబడితే, ద్రవ్యోల్బణం నిర్వహణ, వడ్డీ రేట్లు మరియు ఆర్థిక స్థిరత్వానికి సంబంధించిన కీలక సమయంలో వార్ష్ ద్రవ్య విధాన నిర్ణయాలకు బాధ్యత వహిస్తాడు.",
-      "translated": true
-    },
-    {
-      "id": "c7323dd08d6bdabae9e0f32612d3b63b",
-      "title": "₹4,200 for Biryani baggage? Mumbai man's 'dedication' to Hyderabadi biryani wins Internet",
-      "summary": "A Mumbai resident paid ₹4,200 to bring ₹5,000 worth of biryani from Hyderabad, with his Instagram post about the indulgent move going viral.",
-      "url": "https://www.livemint.com/news/trends/mumbai-man-pays-4-200-baggage-fee-to-bring-biryani-from-hyderabad-11772642838808.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/gadd9a51cb01021c57e8ca9ed0861cda13f2040a530e850cc0589829b722b65ae6ed070881de70bc80611ba33be4307b12d88d0680b5cc71866fbe05ef020e159_1280_1772644320372_1772644336529.jpg",
-      "published_at": "2026-03-04T17:29:06.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "బిర్యానీ బ్యాగేజీకి ₹4,200? హైదరాబాదీ బిర్యానీకి ముంబైకి చెందిన వ్యక్తి 'అంకితత్వం' ఇంటర్నెట్‌ను గెలుచుకుంది",
-      "summary_te": "ముంబై నివాసి హైదరాబాద్ నుండి ₹ 5,000 విలువైన బిర్యానీని తీసుకురావడానికి ₹ 4,200 చెల్లించాడు, ఆ ఆనందకరమైన చర్య గురించి అతని ఇన్‌స్టాగ్రామ్ పోస్ట్ వైరల్ అయ్యింది.",
-      "translated": true
-    },
-    {
-      "id": "7d77ee06a69201a32113a50ad5a33dc8",
-      "title": "James Talarico clinches Texas Democratic Primary: All you need to know about the ex-teacher who won Obama's praise",
-      "summary": "James Talarico won the Texas Democratic Senate primary and will face the GOP runoff winner. An ex-teacher and Presbyterian seminarian, he blends faith with progressive politics, has drawn praise from Barack Obama and Joe Rogan, and campaigns against big donors and corruption.",
-      "url": "https://www.livemint.com/news/us-news/james-talarico-clinches-texas-democratic-primary-all-you-need-to-know-about-the-ex-teacher-who-won-obamas-praise-11772642944361.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/USA-ELECTION-TEXAS-58_1772643124390_1772643141595.JPG",
-      "published_at": "2026-03-04T17:25:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జేమ్స్ తలారికో టెక్సాస్ డెమోక్రటిక్ ప్రైమరీని కైవసం చేసుకున్నాడు: ఒబామా ప్రశంసలు పొందిన మాజీ ఉపాధ్యాయుడి గురించి మీరు తెలుసుకోవలసినది",
-      "summary_te": "జేమ్స్ తలారికో టెక్సాస్ డెమొక్రాటిక్ సెనేట్ ప్రైమరీ గెలిచాడు మరియు GOP రన్‌ఆఫ్ విజేతతో తలపడతాడు. మాజీ ఉపాధ్యాయుడు మరియు ప్రెస్బిటేరియన్ సెమినేరియన్, అతను ప్రగతిశీల రాజకీయాలతో విశ్వాసాన్ని మిళితం చేస్తాడు, బరాక్ ఒబామా మరియు జో రోగన్ నుండి ప్రశంసలు పొందాడు మరియు పెద్ద దాతలు మరియు అవినీతికి వ్యతిరేకంగా ప్రచారం చేశాడు.",
-      "translated": true
-    },
-    {
-      "id": "1cf652e523b548d6c04ba7fc2efcf97b",
-      "title": "UK police arrest 3 men on suspicion of spying for China, one is Labour MP Joani Reid's husband",
-      "summary": "Three men have been arrested in the UK on suspicion of assisting Chinese intelligence under the National Security Act. One of the suspects is the husband of Labour MP Joani Reid, who said she has seen no evidence that he broke the law.",
-      "url": "https://www.livemint.com/news/world/uk-police-arrest-3-men-on-suspicion-of-spying-for-china-one-is-labour-mp-joani-reids-husband-11772643645271.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/04/1600x900/logo/USA-EPSTEIN-BRITAIN-MANDELSON-7_1772644105595_1772644118111.JPG",
-      "published_at": "2026-03-04T17:19:17.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "చైనా కోసం గూఢచర్యం చేస్తున్నారనే అనుమానంతో UK పోలీసులు ముగ్గురు వ్యక్తులను అరెస్టు చేశారు, ఒకరు లేబర్ ఎంపీ జోనీ రీడ్ భర్త",
-      "summary_te": "జాతీయ భద్రతా చట్టం కింద చైనా ఇంటెలిజెన్స్‌కు సహాయం చేశారనే అనుమానంతో UKలో ముగ్గురు వ్యక్తులను అరెస్టు చేశారు. అనుమానితులలో ఒకరు లేబర్ ఎంపీ జోనీ రీడ్ భర్త, అతను చట్టాన్ని ఉల్లంఘించినట్లు తనకు ఎలాంటి ఆధారాలు కనిపించలేదని చెప్పారు.",
-      "translated": true
-    },
-    {
       "id": "0b0416521e17ceb0bed73cd86eb6cfc6",
       "title": "Europeans cautious as they scramble to digest major US, Israeli attack on Iran",
       "summary": "European nations are reacting to major strikes on Iran by the US and Israel. Leaders are working to safeguard their citizens in the Middle East. Germany is holding an emergency meeting. The European Union is evacuating some staff. France and Italy are urging caution for their citizens. The situation is described as perilous and a military escalation is underway.",
@@ -476,7 +476,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఒప్పందం కుదిరింది: అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
+      "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
@@ -560,7 +560,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "వృద్ధిరేటు, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
+      "title_te": "పెరిగిన వృద్ధి, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
       "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును ఎత్తిచూపారు, అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్ణించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, పన్నుచెల్లింపుదారుల స్థావరాన్ని విస్తరిస్తున్నారని మరియు నిజమైన ఆదాయాలు పెరుగుతున్నాయని పేర్కొంది. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
       "translated": true
     },
@@ -869,7 +869,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
