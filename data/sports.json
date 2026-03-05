@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-05T07:48:39.353Z",
-  "updated_at_IST": "5/3/2026, 1:18:39 pm",
+  "updated_at": "2026-03-05T08:40:23.274Z",
+  "updated_at_IST": "5/3/2026, 2:10:23 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a3165a58b4a86471ebca686b57616341",
+      "title": "Head falls cheaply after Thornton bags career-best haul",
+      "summary": "New South Wales middle and lower order provided what could be vital runs in the race for second spot",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526913.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414378.jpg",
+      "published_at": "2026-03-05T08:12:25.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "థోర్న్‌టన్ కెరీర్-బెస్ట్ హాల్ సాధించిన తర్వాత తల చౌకగా పడిపోయింది",
+      "summary_te": "న్యూ సౌత్ వేల్స్ మిడిల్ మరియు లోయర్ ఆర్డర్ రెండో స్థానం కోసం రేసులో కీలకమైన పరుగులు అందించింది",
+      "translated": true
+    },
+    {
+      "id": "14a0fda7fe3b1815d399a957aa493db0",
+      "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
+      "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
+      "published_at": "2026-03-05T08:10:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కోల్‌కతా హోటల్‌లో వెస్టిండీస్ చిక్కుకున్నందున సమ్మీ పిటిషన్‌ను జారీ చేశాడు",
+      "summary_te": "వెస్టిండీస్ వారి ప్రయాణ షెడ్యూల్ పరంగా అధికారిక నవీకరణ ఇవ్వబడలేదు కానీ జింబాబ్వే జట్టు సభ్యుల మొదటి బ్యాచ్ ఇప్పుడు స్వదేశానికి బయలుదేరింది",
+      "translated": true
+    },
+    {
+      "id": "85968261a65d9f30fb6d708f72b8b167",
+      "title": "Sam Harper shines to put Victoria on top on 14-wicket day",
+      "summary": "Harper continued his stunning form making 93 as Victoria posted 222, with Meredith taking 4 for 53, before Tasmania slumped to 52 for 4",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526911.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414375.jpg",
+      "published_at": "2026-03-05T08:10:16.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సామ్ హార్పర్ 14 వికెట్ల రోజున విక్టోరియాను అగ్రస్థానంలో నిలిపాడు",
+      "summary_te": "హార్పర్ తన అద్భుతమైన ఫామ్‌ను కొనసాగించి 93 పరుగులతో విక్టోరియా 222 పరుగులు చేశాడు, మెరెడిత్ 53 పరుగులకు 4 వికెట్లు తీసుకున్నాడు, టాస్మానియా 4 వికెట్లకు 52కి పడిపోయింది.",
+      "translated": true
+    },
+    {
+      "id": "cf62a3c05b3365e2999a44229e7829c7",
+      "title": "Du Plessis: 'You lose the powerplay, you more often than not lose the game'",
+      "summary": "Faf du Plessis feels that South Africa should have worked harder to keep wickets in hand and gone for broke later in the innings when the surface became easier",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526929.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414349.jpg",
+      "published_at": "2026-03-05T08:09:00.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డు ప్లెసిస్: 'మీరు పవర్‌ప్లేను కోల్పోతారు, మీరు తరచుగా ఆటను కోల్పోరు'",
+      "summary_te": "ఫాఫ్ డు ప్లెసిస్, దక్షిణాఫ్రికా వికెట్లను చేతిలో ఉంచుకోవడానికి చాలా కష్టపడి ఉండాల్సిందని మరియు ఉపరితలం తేలికైనప్పుడు ఇన్నింగ్స్‌లో విరిగిపోయిందని భావించాడు.",
+      "translated": true
+    },
     {
       "id": "b92588caecdeee4c002b80ee42af43db",
       "title": "Halliday's maiden ODI century, Kerr sisters' seven wickets hand Zimbabwe a walloping",
@@ -57,7 +113,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "మార్క్రామ్: 'ముఖంలో చప్పుడు కాదు, కానీ అది అనిపిస్తుంది'",
-      "summary_te": "మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు ఈడెన్ గార్డెన్స్ ట్రాక్ మెరుగ్గా ఆడుతుందని దక్షిణాఫ్రికా కెప్టెన్ ఆశించాడు",
+      "summary_te": "దక్షిణాఫ్రికా కెప్టెన్ ఈడెన్ గార్డెన్స్ ట్రాక్ మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు మెరుగ్గా ఆడుతుందని ఆశించాడు",
       "translated": true
     },
     {
@@ -141,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
-      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్‌లో 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
       "translated": true
     },
     {
@@ -238,7 +294,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -266,7 +322,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -296,62 +352,6 @@
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
       "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
-      "translated": true
-    },
-    {
-      "id": "22fcf913886024efb21bc4689d2e0f08",
-      "title": "Chinnaswamy Stadium set to host five RCB games in IPL 2026",
-      "summary": "RCB's two other home fixtures this season will be played in Raipur",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526674.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/400600/400679.jpg",
-      "published_at": "2026-03-03T15:11:28.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "చిన్నస్వామి స్టేడియం IPL 2026లో ఐదు RCB గేమ్‌లకు ఆతిథ్యం ఇవ్వనుంది",
-      "summary_te": "ఈ సీజన్‌లో RCB యొక్క మరో రెండు హోమ్ మ్యాచ్‌లు రాయ్‌పూర్‌లో జరుగుతాయి",
-      "translated": true
-    },
-    {
-      "id": "1b3fee082ee70b18d7949909536fb579",
-      "title": "Multan Sultans to return to PSL with Sialkot Stallionz renaming",
-      "summary": "The original franchise was auctioned to what is now the Pindiz, but new franchise Sialkot Stallionz decided to rebrand themselves as the Sultans",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526671.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/399800/399888.jpg",
-      "published_at": "2026-03-03T12:03:09.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సియాల్‌కోట్ స్టాలియోంజ్ పేరు మార్చడంతో ముల్తాన్ సుల్తాన్‌లు PSLకి తిరిగి వచ్చారు",
-      "summary_te": "అసలు ఫ్రాంచైజీని ఇప్పుడు పిండిజ్‌కి వేలం వేయబడింది, అయితే కొత్త ఫ్రాంచైజ్ సియాల్‌కోట్ స్టాలియోంజ్ తమను తాము సుల్తాన్‌లుగా రీబ్రాండ్ చేసుకోవాలని నిర్ణయించుకున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "2a6afe13d174bbe82058095a87071f52",
-      "title": "Will Sutherland back at Yorkshire for 2026 T20 Blast",
-      "summary": "Australian returns for full Blast campaign, also available for two Championship rounds",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526624.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414314.jpg",
-      "published_at": "2026-03-03T10:23:20.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "2026 T20 బ్లాస్ట్ కోసం సదర్లాండ్ యార్క్‌షైర్‌లో తిరిగి వస్తారా",
-      "summary_te": "పూర్తి బ్లాస్ట్ ప్రచారం కోసం ఆస్ట్రేలియన్ రిటర్న్స్, రెండు ఛాంపియన్‌షిప్ రౌండ్‌లకు కూడా అందుబాటులో ఉన్నాయి",
-      "translated": true
-    },
-    {
-      "id": "0d4dbe42ff1f8229958301fabdd5f980",
-      "title": "New Zealand call up James for Zimbabwe ODIs after Plimmer is ruled out",
-      "summary": "Offspinner Nensi Patel and wicketkeeper-batter Izzy Sharp, both uncapped in ODIs, have been named in the ODI squad for the Women's Championship matches against Zimbabwe",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526639.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/407300/407349.jpg",
-      "published_at": "2026-03-03T06:39:36.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ప్లిమ్మర్ అవుట్ అయిన తర్వాత న్యూజిలాండ్ జింబాబ్వే ODIలకు జేమ్స్‌ను పిలిచింది",
-      "summary_te": "జింబాబ్వేతో జరిగే మహిళల ఛాంపియన్‌షిప్ మ్యాచ్‌ల కోసం వన్డే జట్టులో ఆఫ్‌స్పిన్నర్ నెన్సీ పటేల్ మరియు వికెట్ కీపర్-బ్యాటర్ ఇజ్జీ షార్ప్, ODIలలో అన్ క్యాప్ చేయబడలేదు.",
       "translated": true
     }
   ]
