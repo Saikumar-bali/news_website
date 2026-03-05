@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T12:45:24.816Z",
-  "updated_at_IST": "5/3/2026, 6:15:24 pm",
+  "updated_at": "2026-03-05T14:06:15.852Z",
+  "updated_at_IST": "5/3/2026, 7:36:15 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e6fbaab1206eab8c946e031a698ffaf6",
+      "title": "England opt to bowl, bring in Overton for Rehan",
+      "summary": "India went in with an unchanged XI",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526957.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414034.jpg",
+      "published_at": "2026-03-05T13:30:13.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఇంగ్లండ్ బౌలింగ్ ఎంచుకుంది, రెహాన్ కోసం ఓవర్టన్‌ని తీసుకురండి",
+      "summary_te": "భారత్ ఎలాంటి మార్పులేని XIతో బరిలోకి దిగింది",
+      "translated": true
+    },
+    {
+      "id": "e3e2b9081386a2a1bbf09728fef17b1f",
+      "title": "Ibrahim Zadran replaces Rashid Khan as Afghanistan's new T20I captain",
+      "summary": "The ACB is hoping Afghanistan's series against Sri Lanka in the UAE can proceed as scheduled, and is closely monitoring the conflict in West Asia",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526944.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413866.jpg",
+      "published_at": "2026-03-05T12:59:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఆఫ్ఘనిస్తాన్ కొత్త టీ20 కెప్టెన్‌గా రషీద్ ఖాన్ స్థానంలో ఇబ్రహీం జద్రాన్ నియమితులయ్యారు",
+      "summary_te": "UAEలో శ్రీలంకతో ఆఫ్ఘనిస్తాన్ సిరీస్ షెడ్యూల్ ప్రకారం కొనసాగుతుందని ACB ఆశిస్తోంది మరియు పశ్చిమాసియాలో సంఘర్షణను నిశితంగా పరిశీలిస్తోంది.",
+      "translated": true
+    },
     {
       "id": "36b88f6ddcf678dabd8a43ebb0bced14",
       "title": "Hampshire bring in Jayden Seales after Michael Neser deal falls through",
@@ -313,20 +341,6 @@
       "translated": true
     },
     {
-      "id": "e12db941351928069faab6d1482da70e",
-      "title": "Curran backs England to play the 'perfect game' and 'silence' Wankhede crowd",
-      "summary": "He said England will be hoping to draw inspiration from the 2022 semi-final in Adelaide, when India were comprehensively beaten by 10 wickets",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526681.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414042.jpg",
-      "published_at": "2026-03-04T11:40:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'పర్ఫెక్ట్ గేమ్' మరియు 'నిశ్శబ్దం' వాంఖడే ప్రేక్షకులను ఆడటానికి కుర్రాన్ ఇంగ్లాండ్‌కు మద్దతు ఇచ్చాడు",
-      "summary_te": "2022లో అడిలైడ్‌లో జరిగే సెమీఫైనల్‌లో భారత్‌ను 10 వికెట్ల తేడాతో చిత్తుచిత్తుగా ఓడించినప్పటి నుంచి ఇంగ్లండ్ స్ఫూర్తి పొందాలని ఆశిస్తున్నట్లు చెప్పాడు.",
-      "translated": true
-    },
-    {
       "id": "77675e2a6c5b9a4810545fa7e3f06add",
       "title": "Perera, Sugandika, Ranaweera take Sri Lanka to T20I series win over West Indies",
       "summary": "After restricting West Indies to 119 for 5, Sri Lanka cantered to a comfortable nine-wicket win on the back of Hasini Perera's unbeaten 52",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "పెరీరా, సుగందిక, రణవీరలు వెస్టిండీస్‌పై టీ20 సిరీస్‌ను కైవసం చేసుకుని శ్రీలంకను తీసుకెళ్లారు",
       "summary_te": "వెస్టిండీస్‌ను 5 వికెట్లకు 119 పరుగులకు పరిమితం చేసిన తర్వాత, హాసిని పెరీరా అజేయంగా 52 పరుగులతో శ్రీలంక తొమ్మిది వికెట్ల తేడాతో సునాయాసంగా విజయం సాధించింది.",
-      "translated": true
-    },
-    {
-      "id": "456df5cc0624525cf42769957b9782fc",
-      "title": "Maxwell hopeful of playing more T20I cricket for Australia",
-      "summary": "The 37-year-old says there's no need to make any decisions on his future in the short term and has not ruled out playing on to 2028 if his body holds up",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526725.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/408900/408970.jpg",
-      "published_at": "2026-03-04T07:16:08.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
-      "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     }
   ]
