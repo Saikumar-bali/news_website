@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-04T23:32:19.054Z",
-  "updated_at_IST": "5/3/2026, 5:02:19 am",
+  "updated_at": "2026-03-05T01:10:47.623Z",
+  "updated_at_IST": "5/3/2026, 6:40:47 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "7117de2a657f14dc15ebef3327436288",
+      "title": "Flying Finn launches NZ into the final with record ton",
+      "summary": "South Africa were knocked out by the pairing of Henry-Ravindra with ball and Allen-Seifert with bat",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526873.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414363.jpg",
+      "published_at": "2026-03-04T23:19:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఫ్లయింగ్ ఫిన్ రికార్డు టన్నుతో NZని ఫైనల్లోకి ప్రవేశపెట్టింది",
+      "summary_te": "హెన్రీ-రవీంద్ర జోడీ బంతితో, అలెన్-సీఫెర్ట్ బ్యాటింగ్‌తో దక్షిణాఫ్రికా డకౌట్ అయింది.",
+      "translated": true
+    },
     {
       "id": "f01d24ac0fb8c206a5555f121bf5977b",
       "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
@@ -16,20 +30,6 @@
       "language": "en",
       "title_te": "కాన్రాడ్: 'ఈ రాత్రి ఉక్కిరిబిక్కిరి కాదు, ఇది రక్తపాతం'",
       "summary_te": "దక్షిణాఫ్రికా ప్రధాన కోచ్ న్యూజిలాండ్‌పై తన జట్టుకు \"స్నిఫ్ లేదు\" అని అంగీకరించాడు మరియు సరైన స్నోట్‌క్లాప్ పొందాడు",
-      "translated": true
-    },
-    {
-      "id": "7117de2a657f14dc15ebef3327436288",
-      "title": "Flying Finn launches NZ into the final with record ton",
-      "summary": "South Africa were knocked out by the pairing of Henry-Ravindra with ball and Allen-Seifert with bat",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526873.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414363.jpg",
-      "published_at": "2026-03-04T20:17:31.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఫ్లయింగ్ ఫిన్ రికార్డు టన్నుతో NZని ఫైనల్లోకి ప్రవేశపెట్టింది",
-      "summary_te": "హెన్రీ-రవీంద్ర జోడీ బంతితో, అలెన్-సీఫెర్ట్ బ్యాటింగ్‌తో దక్షిణాఫ్రికా డకౌట్ అయింది.",
       "translated": true
     },
     {
@@ -182,7 +182,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -253,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
+      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
       "translated": true
     },
     {
