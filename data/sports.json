@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-05T08:40:23.274Z",
-  "updated_at_IST": "5/3/2026, 2:10:23 pm",
+  "updated_at": "2026-03-05T09:45:13.449Z",
+  "updated_at_IST": "5/3/2026, 3:15:13 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0e6244b4e1a9f8b982f707c1f1ef0f29",
+      "title": "Gannon strikes late as Queensland slump against Western Australia",
+      "summary": "Gannon took three wickets including Labuschagne and Khawaja to leave Queensland 37 for 3 after Fanning's 62 helped WA post 210",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526915.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414381.jpg",
+      "published_at": "2026-03-05T09:04:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ పతనం కావడంతో గానన్ ఆలస్యంగా కొట్టాడు",
+      "summary_te": "210 తర్వాత ఫాన్నింగ్ 62 పరుగులతో క్వీన్స్‌లాండ్‌ను 37 పరుగులకు వదిలేసి, లాబుస్చాగ్నే మరియు ఖవాజాతో సహా గానన్ మూడు వికెట్లు పడగొట్టాడు.",
+      "translated": true
+    },
+    {
+      "id": "14a0fda7fe3b1815d399a957aa493db0",
+      "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
+      "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
+      "published_at": "2026-03-05T08:22:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కోల్‌కతా హోటల్‌లో వెస్టిండీస్ చిక్కుకున్నందున సమ్మీ పిటిషన్‌ను జారీ చేశాడు",
+      "summary_te": "వెస్టిండీస్ వారి ప్రయాణ షెడ్యూల్ పరంగా అధికారిక నవీకరణ ఇవ్వబడలేదు కానీ జింబాబ్వే జట్టు సభ్యుల మొదటి బ్యాచ్ ఇప్పుడు స్వదేశానికి బయలుదేరింది",
+      "translated": true
+    },
+    {
+      "id": "cf62a3c05b3365e2999a44229e7829c7",
+      "title": "Du Plessis: 'You lose the powerplay, you more often than not lose the game'",
+      "summary": "Faf du Plessis feels that South Africa should have worked harder to keep wickets in hand and gone for broke later in the innings when the surface became easier",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526929.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414349.jpg",
+      "published_at": "2026-03-05T08:22:45.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డు ప్లెసిస్: 'మీరు పవర్‌ప్లేను కోల్పోతారు, మీరు తరచుగా ఆటను కోల్పోరు'",
+      "summary_te": "ఫాఫ్ డు ప్లెసిస్, దక్షిణాఫ్రికా వికెట్లను చేతిలో ఉంచుకోవడానికి చాలా కష్టపడి ఉండాల్సిందని మరియు ఉపరితలం తేలికైనప్పుడు ఇన్నింగ్స్‌లో విరిగిపోయిందని భావించాడు.",
+      "translated": true
+    },
     {
       "id": "a3165a58b4a86471ebca686b57616341",
       "title": "Head falls cheaply after Thornton bags career-best haul",
@@ -19,20 +61,6 @@
       "translated": true
     },
     {
-      "id": "14a0fda7fe3b1815d399a957aa493db0",
-      "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
-      "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
-      "published_at": "2026-03-05T08:10:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కోల్‌కతా హోటల్‌లో వెస్టిండీస్ చిక్కుకున్నందున సమ్మీ పిటిషన్‌ను జారీ చేశాడు",
-      "summary_te": "వెస్టిండీస్ వారి ప్రయాణ షెడ్యూల్ పరంగా అధికారిక నవీకరణ ఇవ్వబడలేదు కానీ జింబాబ్వే జట్టు సభ్యుల మొదటి బ్యాచ్ ఇప్పుడు స్వదేశానికి బయలుదేరింది",
-      "translated": true
-    },
-    {
       "id": "85968261a65d9f30fb6d708f72b8b167",
       "title": "Sam Harper shines to put Victoria on top on 14-wicket day",
       "summary": "Harper continued his stunning form making 93 as Victoria posted 222, with Meredith taking 4 for 53, before Tasmania slumped to 52 for 4",
@@ -44,20 +72,6 @@
       "language": "en",
       "title_te": "సామ్ హార్పర్ 14 వికెట్ల రోజున విక్టోరియాను అగ్రస్థానంలో నిలిపాడు",
       "summary_te": "హార్పర్ తన అద్భుతమైన ఫామ్‌ను కొనసాగించి 93 పరుగులతో విక్టోరియా 222 పరుగులు చేశాడు, మెరెడిత్ 53 పరుగులకు 4 వికెట్లు తీసుకున్నాడు, టాస్మానియా 4 వికెట్లకు 52కి పడిపోయింది.",
-      "translated": true
-    },
-    {
-      "id": "cf62a3c05b3365e2999a44229e7829c7",
-      "title": "Du Plessis: 'You lose the powerplay, you more often than not lose the game'",
-      "summary": "Faf du Plessis feels that South Africa should have worked harder to keep wickets in hand and gone for broke later in the innings when the surface became easier",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526929.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414349.jpg",
-      "published_at": "2026-03-05T08:09:00.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డు ప్లెసిస్: 'మీరు పవర్‌ప్లేను కోల్పోతారు, మీరు తరచుగా ఆటను కోల్పోరు'",
-      "summary_te": "ఫాఫ్ డు ప్లెసిస్, దక్షిణాఫ్రికా వికెట్లను చేతిలో ఉంచుకోవడానికి చాలా కష్టపడి ఉండాల్సిందని మరియు ఉపరితలం తేలికైనప్పుడు ఇన్నింగ్స్‌లో విరిగిపోయిందని భావించాడు.",
       "translated": true
     },
     {
@@ -113,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "మార్క్రామ్: 'ముఖంలో చప్పుడు కాదు, కానీ అది అనిపిస్తుంది'",
-      "summary_te": "దక్షిణాఫ్రికా కెప్టెన్ ఈడెన్ గార్డెన్స్ ట్రాక్ మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు మెరుగ్గా ఆడుతుందని ఆశించాడు",
+      "summary_te": "మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు ఈడెన్ గార్డెన్స్ ట్రాక్ మెరుగ్గా ఆడుతుందని దక్షిణాఫ్రికా కెప్టెన్ ఆశించాడు",
       "translated": true
     },
     {
@@ -197,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బాబర్, అయూబ్ ODI వైపు నుండి తప్పుకున్నారు; బంగ్లాదేశ్ సిరీస్‌కు ఫర్హాన్‌కు పిలుపునిచ్చాడు",
-      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్‌లో 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
+      "summary_te": "మూడు మ్యాచ్‌ల సిరీస్ కోసం 15 మందితో కూడిన జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ప్లేయర్లు ఉన్నారు",
       "translated": true
     },
     {
@@ -322,7 +336,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనల్ని మనం వెనక్కి తీసుకుంటాము'",
+      "title_te": "సాంట్నర్: 'SAకి చాలా శక్తి ఉంది, కానీ మేము ఒక-ఆఫ్ గేమ్‌లో మనకు మద్దతు ఇస్తాము'",
       "summary_te": "అతను కోల్‌కతాలో \"ఫ్లాట్ పిచ్\"ని ఆశిస్తున్నాడు మరియు NZ ముందుగా బౌలింగ్ చేస్తే SAని 180కి పరిమితం చేయాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "అంతుచిక్కని వెండి సామాగ్రి కోసం వెతుకులాటలో దక్షిణాఫ్రికా బలమైన ఇష్టమైనవి",
       "summary_te": "సీరియల్ సెమీ-ఫైనలిస్టులు ఈడెన్ గార్డెన్స్‌లో పరిమిత ఓవర్ల కిరీటం కోసం తాజా బిడ్‌లో కలుసుకున్నారు",
-      "translated": true
-    },
-    {
-      "id": "eb165ff73ff03ab520d7909f2a37c874",
-      "title": "Renuka ruled out of Australia Test, Gautam called up as replacement",
-      "summary": "Renuka has been advised rest to \"better manager her workload\", the BCCI said",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526686.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/372600/372669.jpg",
-      "published_at": "2026-03-03T15:35:17.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
       "translated": true
     }
   ]
