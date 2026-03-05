@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-05T06:48:29.065Z",
-  "updated_at_IST": "5/3/2026, 12:18:29 pm",
+  "updated_at": "2026-03-05T07:48:39.353Z",
+  "updated_at_IST": "5/3/2026, 1:18:39 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "b92588caecdeee4c002b80ee42af43db",
+      "title": "Halliday's maiden ODI century, Kerr sisters' seven wickets hand Zimbabwe a walloping",
+      "summary": "Brooke Halliday struck 157*, the joint-third-highest score by a NZ batter in ODIs, as Zimbabwe went down by a record 180 runs",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526917.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414371.jpg",
+      "published_at": "2026-03-05T06:37:10.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హాలీడే తొలి వన్డే సెంచరీ, కెర్ సోదరీమణుల ఏడు వికెట్లు జింబాబ్వేను దెబ్బతీశాయి.",
+      "summary_te": "బ్రూక్ హాలిడే 157* పరుగులు చేశాడు, ఇది ODIలలో ఒక NZ బ్యాటర్ ద్వారా ఉమ్మడి-మూడో అత్యధిక స్కోరు, జింబాబ్వే రికార్డు 180 పరుగులతో పరాజయం పాలైంది.",
+      "translated": true
+    },
     {
       "id": "2706428161c22bffd1dfde29f4602199",
       "title": "India will have to be aggressive to spoil Healy's farewell",
       "summary": "Australia only need a draw at the WACA to secure the multi-format series outright but will be motivated to send off their captain with a victory",
       "url": "https://www.espncricinfo.com/ci/content/story/1526916.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/376000/376066.jpg",
-      "published_at": "2026-03-05T06:13:19.000Z",
+      "published_at": "2026-03-05T06:30:03.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -224,7 +238,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -281,7 +295,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
+      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ప్లిమ్మర్ అవుట్ అయిన తర్వాత న్యూజిలాండ్ జింబాబ్వే ODIలకు జేమ్స్‌ను పిలిచింది",
       "summary_te": "జింబాబ్వేతో జరిగే మహిళల ఛాంపియన్‌షిప్ మ్యాచ్‌ల కోసం వన్డే జట్టులో ఆఫ్‌స్పిన్నర్ నెన్సీ పటేల్ మరియు వికెట్ కీపర్-బ్యాటర్ ఇజ్జీ షార్ప్, ODIలలో అన్ క్యాప్ చేయబడలేదు.",
-      "translated": true
-    },
-    {
-      "id": "0be2c54a8a17d53f38b722b11768413e",
-      "title": "Queensland high-performance manager Joe Dawes resigns",
-      "summary": "Joe Dawes stepped down just over two years after taking charge, and less than a year after a public stoush with Usman Khawaja",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526645.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414319.jpg",
-      "published_at": "2026-03-03T06:01:54.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "క్వీన్స్‌ల్యాండ్ హై-పెర్ఫార్మెన్స్ మేనేజర్ జో డావ్స్ రాజీనామా చేశారు",
-      "summary_te": "జో డావ్స్ బాధ్యతలు స్వీకరించిన రెండు సంవత్సరాల తర్వాత మరియు ఉస్మాన్ ఖవాజాతో పబ్లిక్ స్టౌష్ తర్వాత ఒక సంవత్సరం లోపు పదవి నుండి వైదొలిగారు.",
       "translated": true
     }
   ]
