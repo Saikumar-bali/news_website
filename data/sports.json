@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-05T01:10:47.623Z",
-  "updated_at_IST": "5/3/2026, 6:40:47 am",
+  "updated_at": "2026-03-05T03:39:34.370Z",
+  "updated_at_IST": "5/3/2026, 9:09:34 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0fe974ca92318a4cab5c5c3645d0ded0",
+      "title": "Final spot in the bag, Henry can catch his breath after frenetic but 'special' week",
+      "summary": "Matt Henry flew back home to be around for his son's birth and flew back for the T20 World Cup semi-final, all during the crisis in West Asia, will now \"get ready for what's to come\"",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526902.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414357.jpg",
+      "published_at": "2026-03-05T02:43:27.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బ్యాగ్‌లో చివరి స్థానం, హెన్రీ వెర్రి కానీ 'ప్రత్యేకమైన' వారం తర్వాత తన శ్వాసను పట్టుకోగలడు",
+      "summary_te": "మాట్ హెన్రీ తన కొడుకు పుట్టడం కోసం ఇంటికి తిరిగి వెళ్లాడు మరియు T20 ప్రపంచ కప్ సెమీ-ఫైనల్ కోసం తిరిగి వెళ్లాడు, పశ్చిమాసియాలో సంక్షోభం సమయంలో, ఇప్పుడు \"రాబోయే వాటి కోసం సిద్ధంగా ఉండండి\"",
+      "translated": true
+    },
     {
       "id": "7117de2a657f14dc15ebef3327436288",
       "title": "Flying Finn launches NZ into the final with record ton",
@@ -182,7 +196,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మ్యాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
+      "title_te": "ఆస్ట్రేలియా తరఫున మరిన్ని టీ20 క్రికెట్‌లు ఆడాలని మాక్స్‌వెల్ ఆశాభావం వ్యక్తం చేశాడు",
       "summary_te": "37 ఏళ్ల అతను స్వల్పకాలంలో తన భవిష్యత్తుపై ఎలాంటి నిర్ణయాలు తీసుకోనవసరం లేదని మరియు అతని శరీరం నిలదొక్కుకుంటే 2028 వరకు ఆడేది లేదని తోసిపుచ్చలేదు",
       "translated": true
     },
@@ -253,7 +267,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "రేణుక ఆస్ట్రేలియా టెస్టుకు దూరమవగా, గౌతమ్‌ను భర్తీ చేసింది",
-      "summary_te": "తన పనిభారాన్ని మరింత మెరుగ్గా నిర్వహించేందుకు రేణుకకు విశ్రాంతి తీసుకోవాలని బీసీసీఐ సూచించింది",
+      "summary_te": "రేణుక తన పనిభారాన్ని మెరుగ్గా నిర్వహించేందుకు విశ్రాంతి తీసుకోవాలని సూచించినట్లు బీసీసీఐ తెలిపింది",
       "translated": true
     },
     {
@@ -310,20 +324,6 @@
       "language": "en",
       "title_te": "ప్లిమ్మర్ అవుట్ అయిన తర్వాత న్యూజిలాండ్ జింబాబ్వే ODIలకు జేమ్స్‌ను పిలిచింది",
       "summary_te": "జింబాబ్వేతో జరిగే మహిళల ఛాంపియన్‌షిప్ మ్యాచ్‌ల కోసం వన్డే జట్టులో ఆఫ్‌స్పిన్నర్ నెన్సీ పటేల్ మరియు వికెట్ కీపర్-బ్యాటర్ ఇజ్జీ షార్ప్, ODIలలో అన్ క్యాప్ చేయబడలేదు.",
-      "translated": true
-    },
-    {
-      "id": "a9d256240930ee3b05fe9712b8ef1fb1",
-      "title": "McGrath: Finding the next generation of quicks is Australia's 'biggest challenge'",
-      "summary": "Former Australia great is concerned about the lack of young fast bowlers coming through after Australia's group stage exit from the T20 World Cup",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526636.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412100/412188.jpg",
-      "published_at": "2026-03-03T06:20:25.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మెక్‌గ్రాత్: తదుపరి తరం త్వరితగతులను కనుగొనడం ఆస్ట్రేలియా యొక్క 'అతిపెద్ద సవాలు'",
-      "summary_te": "టీ20 ప్రపంచకప్ నుంచి ఆస్ట్రేలియా గ్రూప్ దశలో నిష్క్రమించిన తర్వాత యువ ఫాస్ట్ బౌలర్ల కొరతపై ఆస్ట్రేలియా మాజీ గ్రేట్ ఆందోళన వ్యక్తం చేశాడు.",
       "translated": true
     },
     {
