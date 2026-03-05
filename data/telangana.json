@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-05T10:40:46.832Z",
-  "updated_at_IST": "5/3/2026, 4:10:46 pm",
+  "updated_at": "2026-03-05T11:38:25.746Z",
+  "updated_at_IST": "5/3/2026, 5:08:25 pm",
   "category": "telangana",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "e180e19e454c426fb9832e05e9ef03d2",
+      "title": "Initiate Census-2027 in Telangana after including 40 more castes in OBC list: Commission for Backward Classes",
+      "summary": "Currently, Central Government has included 90 castes in the OBC list, as per the Commission",
+      "url": "https://www.thehindu.com/news/national/telangana/census-should-be-initiated-in-telangana-after-including-40-more-castes-in-obc-list-commission-for-backward-classes/article70706636.ece",
+      "image": "https://th-i.thgim.com/public/incoming/1lr8sx/article70706632.ece/alternates/LANDSCAPE_1200/IMG_TH24_Corrected_Telan_2_1_2TFKKBUG.jpg",
+      "published_at": "2026-03-05T09:24:31.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఓబీసీ జాబితాలో మరో 40 కులాలను చేర్చిన తర్వాత తెలంగాణలో జనాభా గణన-2027 ప్రారంభించండి: వెనుకబడిన తరగతుల కమిషన్",
+      "summary_te": "ప్రస్తుతం, కమిషన్ ప్రకారం, కేంద్ర ప్రభుత్వం 90 కులాలను OBC జాబితాలో చేర్చింది",
+      "translated": true
+    },
     {
       "id": "beeddbe4a7e28bf568995a7d1956e39e",
       "title": "With Congress’s Rajya Sabha picks from Telangana, Revanth Reddy strengthen’s his grip",
@@ -30,6 +44,20 @@
       "language": "en",
       "title_te": "GHMC యొక్క ₹ 345 కోట్ల ఫ్లైఓవర్ ప్లాన్ శంషాబాద్ విమానాశ్రయానికి రైలు లింక్‌ను పునరుద్ధరిస్తుంది",
       "summary_te": "రాజీవ్ గాంధీ అంతర్జాతీయ విమానాశ్రయానికి (RGIA) ప్రతిపాదిత మెట్రో రైలు లింక్‌కు దాదాపు సమాంతరంగా మైలార్‌దేవ్‌పల్లి, శంషాబాద్ మరియు కాటేదాన్ జంక్షన్‌ల మీదుగా 345 కోట్ల రూపాయలతో కొత్త ఆరు లేన్‌ల ఫ్లైఓవర్‌ను నిర్మించాలన్న గ్రేటర్ హైదరాబాద్ మున్సిపల్ కార్పొరేషన్ (GHMC) ప్రతిపాదన, హైదరాబాద్‌కు రైలు మార్గం మరియు ఇన్‌వైరక్ట్ సిటీ ఎయిర్‌పోర్టు కింద పౌరుల డిమాండ్‌ను పునరుద్ధరించింది. ట్రాన్స్‌ఫార్మేటివ్ ఇన్‌ఫ్రాస్ట్రక్చర్ (HCITI) చొరవ, ఉచిత వాహనాల రాకపోకలను నిర్ధారించడం, విమానాశ్రయానికి వెళ్లే ప్రయాణీకులకు మాత్రమే కాకుండా జాతీయ రహదారిని ఉపయోగించేవారికి కూడా ప్రయోజనం చేకూర్చడం మరియు జంక్షన్‌ల రద్దీని దాటవేయాలని కోరుతోంది. ప్రాజెక్ట్‌ను స్వాగతిస్తూ, పౌరులు ప్రభుత్వాన్ని పరిగణలోకి తీసుకోవాలని కోరుతున్నారు. విమానాశ్రయ టెర్మినల్ \"ఖర్చు-సమర్థవంతమైన, వేగవంతమైన మరియు పర్యావరణ అనుకూల ప్రజా రవాణా ప్రత్యామ్నాయం\" అందించడానికి.",
+      "translated": true
+    },
+    {
+      "id": "aa3ce5557815bb6641d6b7f0473ef211",
+      "title": "Restored Bam Rukn-ud-Daula Lake and Nalla Cheruvu in Hyderabad set for inauguration",
+      "summary": "Two more restored lakes in Hyderabad are set to be reopened to the public under Hyderabad Disaster Response & Asset Protection Agency’s (HYDRAA) lake rejuvenation initiative. The historic Bam Rukn-ud-Daula Lake in Shivarampally and Nalla Cheruvu in Kukatpally are ready for inauguration.Chief Minister A. Revanth Reddy is scheduled to open Bam Rukn-ud-Daula Lake on Friday (March 6, 2026), a statement from HYDRAA said, which will be followed by Nalla Cheruvu a couple of days later.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/restored-bam-rukn-ud-daula-lake-and-nalla-cheruvu-in-hyderabad-set-for-inauguration-on-march-6/article70704398.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/yt9p31/article70706287.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-04%20at%207.24.32%20PM.jpeg",
+      "published_at": "2026-03-05T07:41:18.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "హైదరాబాద్‌లోని పునరుద్ధరించిన బం రుక్న ఉద్ దౌలా సరస్సు, నల్ల చెరువు ప్రారంభోత్సవానికి సిద్ధమయ్యాయి.",
+      "summary_te": "హైదరాబాద్ డిజాస్టర్ రెస్పాన్స్ & అసెట్ ప్రొటెక్షన్ ఏజెన్సీ (హైడ్రా) సరస్సు పునరుజ్జీవన చొరవ కింద హైదరాబాద్‌లో పునరుద్ధరించబడిన మరో రెండు సరస్సులను ప్రజలకు తిరిగి తెరవడానికి సిద్ధంగా ఉన్నాయి. శివరాంపల్లిలోని చారిత్రాత్మక బం రుక్‌న ఉద్ దౌలా సరస్సు, కూకట్‌పల్లిలోని నల్ల చెరువు ప్రారంభోత్సవానికి సిద్ధంగా ఉన్నాయి. ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డి శుక్రవారం (మార్చి 6, 2026) బం రుక్‌నుద్ దౌలా సరస్సును ప్రారంభించనున్నారు.",
       "translated": true
     },
     {
@@ -147,7 +175,7 @@
     {
       "id": "3ebaadc25cf94ccc7609903ff9c0fc4b",
       "title": "3-year-old boy rescued after going missing near Gandipet temple; may have been dragged into bushes by stray dogs, says police",
-      "summary": "",
+      "summary": "A three-year-old boy who went missing near the Gandimaisamma Temple in Gandipet was traced and rescued safely by the Narsingi police on Wednesday (March 4).The child, Abhimanyu, had accompanied his father, Vadde Venkatesh of Tellapur village, and other family members to offer prayers at the temple. While Venkatesh was washing his face near the premises, the boy, who had been standing beside him, suddenly went missing. Alarmed family members immediately approached the police and lodged a complaint.",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/3-year-old-boy-rescued-after-going-missing-near-gandipet-temple-was-dragged-into-bushes-by-stray-dogs/article70703953.ece",
       "image": "https://th-i.thgim.com/public/incoming/ow71q7/article70703949.ece/alternates/LANDSCAPE_1200/Narsingi%20rescued%20boy%20.jpeg",
       "published_at": "2026-03-04T15:40:50.000Z",
@@ -155,7 +183,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "గండిపేట దేవాలయం సమీపంలో తప్పిపోయిన 3 ఏళ్ల బాలుడు రక్షించబడ్డాడు; వీధికుక్కలు పొదల్లోకి లాగి ఉండవచ్చని పోలీసులు చెప్పారు",
-      "summary_te": "",
+      "summary_te": "గండిపేటలోని గండిమైసమ్మ దేవాలయం సమీపంలో అదృశ్యమైన మూడేళ్ల బాలుడిని నార్సింగి పోలీసులు బుధవారం (మార్చి 4) గుర్తించి సురక్షితంగా రక్షించారు. చిన్నారి అభిమన్యు తన తండ్రి, తెల్లాపూర్ గ్రామానికి చెందిన వడ్డె వెంకటేష్ మరియు ఇతర కుటుంబ సభ్యులతో కలిసి ఆలయంలో ప్రార్థనలు చేశారు. ప్రాంగణం దగ్గర వెంకటేష్ ముఖం కడుక్కుంటుండగా పక్కనే నిలబడిన బాలుడు ఒక్కసారిగా కనిపించకుండా పోయాడు. దీంతో ఆందోళన చెందిన కుటుంబ సభ్యులు వెంటనే పోలీసులకు ఫిర్యాదు చేశారు.",
       "translated": true
     },
     {
@@ -287,15 +315,15 @@
     {
       "id": "a86213004959cdca6360b0b97817a3dc",
       "title": "Woman sentenced to 10-year rigorous imprisonment for husband’s murder",
-      "summary": "",
+      "summary": "A 36-year-old woman, who was earlier arrested in connection with the murder of her husband, was sentenced to undergo rigorous imprisonment for 10 years by the LB Nagar court on Tuesday. The court also slapped a fine of ₹3,000 on the accused, identified as Kotha Laxmi.The case was reported in Padmashalipuram, Kattedan, on April 6, 2017. The deceased, P. Ravi, a 26-year-old labourer who had no immediate family, married Laxmi two years prior to the incident. The couple had no children.",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/woman-sentenced-to-10-year-rigorous-imprisonment-for-husbands-murder/article70700186.ece",
-      "image": null,
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
       "published_at": "2026-03-04T13:46:48.000Z",
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
       "title_te": "భర్త హత్య కేసులో మహిళకు 10 ఏళ్ల కఠిన కారాగార శిక్ష",
-      "summary_te": "",
+      "summary_te": "తన భర్తను హత్య చేసిన కేసులో గతంలో అరెస్టయిన 36 ఏళ్ల మహిళకు ఎల్‌బీ నగర్ కోర్టు మంగళవారం 10 సంవత్సరాల కఠిన కారాగార శిక్ష విధించింది. కోత లక్ష్మి అనే నిందితుడికి కోర్టు ₹3,000 జరిమానా విధించింది. ఈ కేసు ఏప్రిల్ 6, 2017న పద్మశాలిపురం, కట్టెదాన్‌లో నమోదైంది. మృతుడు, పి. రవి, 26 ఏళ్ల కూలీ, కుటుంబం లేని 26 ఏళ్ల యువకుడు, సంఘటనకు రెండేళ్ల ముందు లక్ష్మిని వివాహం చేసుకున్నాడు. ఆ దంపతులకు పిల్లలు లేరు.",
       "translated": true
     },
     {

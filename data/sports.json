@@ -1,21 +1,49 @@
 {
-  "updated_at": "2026-03-05T10:40:46.832Z",
-  "updated_at_IST": "5/3/2026, 4:10:46 pm",
+  "updated_at": "2026-03-05T11:38:25.746Z",
+  "updated_at_IST": "5/3/2026, 5:08:25 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "645991916e7994660bcf4e822df90b0c",
+      "title": "India vs England chapter 3: the match that could define eras",
+      "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
+      "published_at": "2026-03-05T10:57:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఇండియా vs ఇంగ్లండ్ చాప్టర్ 3: యుగాలను నిర్వచించగల మ్యాచ్",
+      "summary_te": "రెండు జట్లూ సెమీ-ఫైనల్స్‌లో మూడవ వరుస ఎడిషన్‌లో తలపడుతున్నాయి, తక్కువ ఖచ్చితమైన ప్రచారాల నేపథ్యంలో మరియు చారిత్రాత్మక మూడవ టైటిల్‌ను కోరుతున్నాయి.",
+      "translated": true
+    },
     {
       "id": "14a0fda7fe3b1815d399a957aa493db0",
       "title": "Sammy issues plea as West Indies remain stuck in Kolkata hotel",
       "summary": "West Indies have not been given an official update in terms of their travel schedule but the first batch of Zimbabwe squad members have now left for home",
       "url": "https://www.espncricinfo.com/ci/content/story/1526927.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414382.jpg",
-      "published_at": "2026-03-05T10:04:34.000Z",
+      "published_at": "2026-03-05T10:50:59.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "కోల్‌కతా హోటల్‌లో వెస్టిండీస్ చిక్కుకున్నందున సమ్మీ పిటిషన్‌ను జారీ చేశాడు",
       "summary_te": "వెస్టిండీస్ వారి ప్రయాణ షెడ్యూల్ పరంగా అధికారిక నవీకరణ ఇవ్వబడలేదు కానీ జింబాబ్వే జట్టు సభ్యుల మొదటి బ్యాచ్ ఇప్పుడు స్వదేశానికి బయలుదేరింది",
+      "translated": true
+    },
+    {
+      "id": "b92588caecdeee4c002b80ee42af43db",
+      "title": "Halliday's maiden ODI century, Kerr sisters' seven wickets hand Zimbabwe a walloping",
+      "summary": "Brooke Halliday struck 157*, the joint-third-highest score by a NZ batter in ODIs, as Zimbabwe went down by a record 180 runs",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526917.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414371.jpg",
+      "published_at": "2026-03-05T10:27:19.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హాలీడే తొలి వన్డే సెంచరీ, కెర్ సోదరీమణుల ఏడు వికెట్లు జింబాబ్వేను దెబ్బతీశాయి.",
+      "summary_te": "బ్రూక్ హాలిడే 157* పరుగులు చేశాడు, ఇది ODIలలో ఒక NZ బ్యాటర్ ద్వారా ఉమ్మడి-మూడో అత్యధిక స్కోరు, జింబాబ్వే రికార్డు 180 పరుగులతో పరాజయం పాలైంది.",
       "translated": true
     },
     {
@@ -89,20 +117,6 @@
       "translated": true
     },
     {
-      "id": "b92588caecdeee4c002b80ee42af43db",
-      "title": "Halliday's maiden ODI century, Kerr sisters' seven wickets hand Zimbabwe a walloping",
-      "summary": "Brooke Halliday struck 157*, the joint-third-highest score by a NZ batter in ODIs, as Zimbabwe went down by a record 180 runs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526917.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414371.jpg",
-      "published_at": "2026-03-05T06:37:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హాలీడే తొలి వన్డే సెంచరీ, కెర్ సోదరీమణుల ఏడు వికెట్లు జింబాబ్వేను దెబ్బతీశాయి.",
-      "summary_te": "బ్రూక్ హాలిడే 157* పరుగులు చేశాడు, ఇది ODIలలో ఒక NZ బ్యాటర్ ద్వారా ఉమ్మడి-మూడో అత్యధిక స్కోరు, జింబాబ్వే రికార్డు 180 పరుగులతో పరాజయం పాలైంది.",
-      "translated": true
-    },
-    {
       "id": "2706428161c22bffd1dfde29f4602199",
       "title": "India will have to be aggressive to spoil Healy's farewell",
       "summary": "Australia only need a draw at the WACA to secure the multi-format series outright but will be motivated to send off their captain with a victory",
@@ -114,20 +128,6 @@
       "language": "en",
       "title_te": "హీలీ వీడ్కోలు పాడుచేయాలంటే భారత్ దూకుడుగా వ్యవహరించాలి",
       "summary_te": "మల్టీ-ఫార్మాట్ సిరీస్‌ను పూర్తిగా భద్రపరచడానికి ఆస్ట్రేలియా WACAలో డ్రా మాత్రమే కావాలి, కానీ విజయంతో తమ కెప్టెన్‌ను పంపడానికి ప్రేరణ పొందుతుంది",
-      "translated": true
-    },
-    {
-      "id": "645991916e7994660bcf4e822df90b0c",
-      "title": "India vs England chapter 3: the match that could define eras",
-      "summary": "The two teams are meeting in the semi-finals for the third straight edition, on the back of less than perfect campaigns, and seeking a historic third title",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526793.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414304.jpg",
-      "published_at": "2026-03-05T05:40:17.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఇండియా vs ఇంగ్లండ్ చాప్టర్ 3: యుగాలను నిర్వచించగల మ్యాచ్",
-      "summary_te": "రెండు జట్లూ సెమీ-ఫైనల్స్‌లో మూడవ వరుస ఎడిషన్‌లో తలపడుతున్నాయి, తక్కువ ఖచ్చితమైన ప్రచారాల నేపథ్యంలో మరియు చారిత్రాత్మక మూడవ టైటిల్‌ను కోరుతున్నాయి.",
       "translated": true
     },
     {
