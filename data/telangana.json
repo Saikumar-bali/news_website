@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-05T14:06:15.852Z",
-  "updated_at_IST": "5/3/2026, 7:36:15 pm",
+  "updated_at": "2026-03-05T14:51:03.569Z",
+  "updated_at_IST": "5/3/2026, 8:21:03 pm",
   "category": "telangana",
-  "count": 23,
+  "count": 18,
   "articles": [
+    {
+      "id": "dc7e587594b5922d5703c755f7ee34ae",
+      "title": "KTR slams Musi development project plans, warns against mass demolitions",
+      "summary": "Bharat Rashtra Samithi (BRS) working president K.T. Rama Rao asserted that the Musi rejuvenation project can be taken up without demolishing even a single house, criticising the State government led by A. Revanth Reddy for allegedly preparing to raze nearly 1.5 lakh homes in the name of riverfront development.The former minister alleged that while the previous government’s model focused on development without displacement, the Congress model is implementing the ‘bulldozer raj’ targeting poor families.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ktr-slams-musi-development-project-plans-warns-against-mass-demolitions/article70707628.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-05T13:40:07.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మూసీ డెవలప్‌మెంట్‌ ప్రాజెక్టులపై కేటీఆర్‌ తీవ్ర విమర్శలు గుప్పించారు",
+      "summary_te": "భారత రాష్ట్ర సమితి (బీఆర్‌ఎస్) వర్కింగ్ ప్రెసిడెంట్ కె.టి. మూసీ పునరుజ్జీవన పథకాన్ని ఒక్క ఇల్లు కూడా కూల్చివేయకుండా చేపడతామని రామారావు ధీమా వ్యక్తం చేస్తూ, రివర్‌ఫ్రంట్‌ అభివృద్ధి పేరుతో దాదాపు 1.5 లక్షల ఇళ్లను ధ్వంసం చేసేందుకు రేవంత్‌రెడ్డి సారథ్యంలోని రాష్ట్ర ప్రభుత్వం సిద్ధమవుతోందని విమర్శించారు.",
+      "translated": true
+    },
+    {
+      "id": "14f02a26a73c6680d841cbb5bf15be4e",
+      "title": "Hyderabad to host forensic medicine conference at Gandhi Medical College on April 11 and 12",
+      "summary": "The Telangana Academy of Forensic Medicine will organise a two-day conference at Gandhi Medical College on April 11 and 12, which will bring together forensic experts, clinicians, police officials and legal professionals, to discuss the evolving role of forensic medicine in the criminal justice system.The Telangana State Annual Forensic Medicine Conference (TGAFMCON) aims to provide a platform for academic exchange and interdisciplinary dialogue among stakeholders involved in medico-legal processes. The conference will feature guest lectures by eminent forensic experts, senior police officials and legal professionals, focusing on strengthening scientific approaches to criminal investigations and judicial proceedings, as per a release.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-to-host-forensic-medicine-conference-at-gandhi-medical-college-on-april-11-and-12/article70707286.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-05T13:35:11.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఏప్రిల్ 11, 12 తేదీల్లో హైదరాబాద్ గాంధీ మెడికల్ కాలేజీలో ఫోరెన్సిక్ మెడిసిన్ సదస్సును నిర్వహించనున్నారు",
+      "summary_te": "తెలంగాణ అకాడమీ ఆఫ్ ఫోరెన్సిక్ మెడిసిన్ ఏప్రిల్ 11 మరియు 12 తేదీల్లో గాంధీ మెడికల్ కాలేజీలో రెండు రోజుల సదస్సును నిర్వహించనుంది, ఇందులో ఫోరెన్సిక్ నిపుణులు, వైద్యులు, పోలీసు అధికారులు మరియు న్యాయ నిపుణులతో కలిసి నేర న్యాయ వ్యవస్థలో ఫోరెన్సిక్ మెడిసిన్ యొక్క అభివృద్ధి పాత్రపై చర్చించారు. వైద్య-చట్టపరమైన ప్రక్రియలలో పాల్గొన్న వాటాదారుల మధ్య. కాన్ఫరెన్స్‌లో ప్రముఖ ఫోరెన్సిక్ నిపుణులు, సీనియర్ పోలీసు అధికారులు మరియు న్యాయ నిపుణుల అతిథి ఉపన్యాసాలు ఉంటాయి, ఒక విడుదల ప్రకారం, నేర పరిశోధనలు మరియు న్యాయపరమైన చర్యలకు శాస్త్రీయ విధానాలను బలోపేతం చేయడంపై దృష్టి సారిస్తుంది.",
+      "translated": true
+    },
     {
       "id": "2e3346157b383d45a630c806e140a3b1",
       "title": "Two workers killed after falling from under-construction building in Tolichowki",
@@ -99,21 +127,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "మావోయిస్టు అగ్రనేతల లొంగుబాటుపై చర్చించేందుకు తెలంగాణ సీఎం, డీజీపీ అమిత్ షాతో భేటీ అయ్యారు",
-      "summary_te": "పోలీసులు అలాంటి చర్యను ఖండించారు మరియు నక్సలైట్ ఉద్యమం మరియు రాష్ట్ర పోలీసు బలగాల అవసరాల గురించి కేంద్ర హోంమంత్రికి వివరించడానికి సమావేశం జరిగింది.",
-      "translated": true
-    },
-    {
-      "id": "2e4352ca55d0ee323c81f63ba73071d3",
-      "title": "ACs and coolers drive electricity demand in Greater Hyderabad to new record on March 3",
-      "summary": "People in Hyderabad began to experience the summer heat only from the past few days. However, they seem to have begun relying more on Air Conditioners (AC) and coolers as the demand for electricity in Greater Hyderabad has surged to set a new record.On Tuesday (March 3), the peak electricity demand reached 4,421 megawatts, which is the highest demand recorded in the region till date. While this was recorded at the beginning of the summers this year, the previous highest demand of 4,352 megawatts was recorded on May 6 of last year, which was the peak of the summers.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/electricity-demand-in-greater-hyderabad-hits-new-record-on-march-3-ac-and-coolers-drive-surge/article70703768.ece",
-      "image": "https://th-i.thgim.com/public/incoming/iwjtr3/article70704726.ece/alternates/LANDSCAPE_1200/AC.jpg",
-      "published_at": "2026-03-05T06:24:52.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఏసీలు, కూలర్లు మార్చి 3న గ్రేటర్ హైదరాబాద్‌లో విద్యుత్ డిమాండ్‌ను సరికొత్త రికార్డుకు చేర్చాయి",
-      "summary_te": "గత కొన్ని రోజులుగా హైదరాబాద్‌లో ప్రజలు వేసవి తాపాన్ని చవిచూస్తున్నారు. అయితే, గ్రేటర్ హైదరాబాద్‌లో విద్యుత్ డిమాండ్ కొత్త రికార్డు సృష్టించడంతో వారు ఎయిర్ కండిషనర్లు (AC) మరియు కూలర్‌లపై ఎక్కువగా ఆధారపడటం ప్రారంభించినట్లు తెలుస్తోంది. మంగళవారం (మార్చి 3), గరిష్ట విద్యుత్ డిమాండ్ 4,421 మెగావాట్లకు చేరుకుంది, ఇది ఈ ప్రాంతంలో ఇప్పటివరకు నమోదైన అత్యధిక డిమాండ్. ఈ ఏడాది వేసవి ప్రారంభంలోనే ఇది నమోదవగా, గతంలో అత్యధికంగా 4,352 మెగావాట్ల డిమాండ్‌ గత ఏడాది మే 6వ తేదీన నమోదైంది.",
+      "summary_te": "పోలీసులు అలాంటి చర్యను ఖండించారు మరియు నక్సలైట్ ఉద్యమం మరియు రాష్ట్ర పోలీసు బలగాల అవసరాల గురించి కేంద్ర హోంమంత్రికి వివరించడానికి సమావేశం అని పేర్కొన్నారు.",
       "translated": true
     },
     {
@@ -141,7 +155,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "కర్మాగారాల్లో సున్నా ప్రమాదం జరగకుండా చూసుకోండి, కార్మిక మంత్రి కంపెనీలకు చెప్పారు",
-      "summary_te": "కర్మాగారాల వద్ద జీరో యాక్సిడెంట్ లక్ష్యాన్ని నిర్దేశించుకుని సాధించాలని కార్మిక, ఉపాధి, శిక్షణ మరియు ఫ్యాక్టరీల మంత్రి గడ్డం వివేక్ వెంకట్ స్వామి కంపెనీలకు పిలుపునిచ్చారు. ఉత్పత్తి హడావిడిలో భద్రతను మరచిపోకూడదు. ప్రమాదాల వల్ల కలిగే నష్టంతో పోలిస్తే భద్రతపై పెట్టుబడి ఖర్చు చాలా తక్కువని, నేషనల్ సేఫ్టీ కౌన్సిల్, తెలంగాణ చాప్టర్ సహకారంతో ఫ్యాక్టరీల శాఖ ఇక్కడ నిర్వహించిన 55వ జాతీయ భద్రతా దినోత్సవంలో ఆయన అన్నారు. ముఖ్యమంత్రి ఆవిష్కరించిన తెలంగాణ రైజింగ్ ప్లాన్‌ల సాధనకు పారిశ్రామిక భద్రత ముఖ్యమని గనులు మరియు భూగర్భ శాస్త్ర శాఖ మంత్రి వివేక్ వెంకట్ స్వామి అన్నారు. ఫ్యాక్టరీలకు సంబంధించిన భద్రతా సమస్యలను కంపెనీలు తమ డైరెక్టర్ల బోర్డు సమావేశాల్లో చర్చించి భద్రతపై సానుకూల నిర్ణయం తీసుకోవాలని ఆయన అన్నారు.కార్మిక, ఉపాధి, శిక్షణ, ఫ్యాక్టరీల శాఖ ప్రత్యేక ప్రధాన కార్యదర్శి ఎం. దానకిషోర్ 4సీల కాన్సెప్ట్ - నియంత్రణ, కమ్యూనికేషన్, సహకారం మరియు భద్రత కోసం యోగ్యతపై నొక్కి చెప్పారు. పని ప్రదేశాల్లో సురక్షితమైన పని పరిస్థితులు ఉండేలా చూడాలని యాజమాన్యాలను, కార్మికులను ఆయన కోరారు. సీనియర్ అధికారి శిక్షణ ద్వారా ఉద్యోగుల నైపుణ్యం యొక్క అవసరాన్ని హైలైట్ చేశారు మరియు కార్మికులు అనుసరించడానికి సురక్షితమైన నిర్వహణ విధానాలను అభివృద్ధి చేయాలని పిలుపునిచ్చారు. భద్రతా ఇంటర్‌లాక్‌లు, ప్రమాదాలను హెచ్చరించడానికి మరియు తగ్గించడానికి అలారంలపై పెట్టుబడి పెట్టాలని ఆయన మేనేజ్‌మెంట్‌లకు సూచించారు. ఫ్యాక్టరీల డైరెక్టర్ వై. మోహన్ బాబు మాట్లాడుతూ ఎంగేజ్, ఎడ్యుకేట్ మరియు ఎంపవర్ జాతీయ భద్రతా దినోత్సవం థీమ్ నినాదం కాదని, పరిశ్రమల అంతటా స్థిరమైన భద్రతా ఉద్యమానికి రోడ్‌మ్యాప్ అని అన్నారు. భద్రతా సమస్యలపై చర్చించడానికి భద్రతా కమిటీల ద్వారా కార్మికులను నిమగ్నం చేయాలని మరియు ఇండక్షన్ మరియు పీరియాడికల్ శిక్షణా కార్యక్రమాల ద్వారా కార్మికులకు అవగాహన కల్పించాలని ఆయన యాజమాన్యాలను అభ్యర్థించారు. ఫ్యాక్టరీల శాఖ అధికారులు, నేషనల్ సేఫ్టీ కౌన్సిల్ తెలంగాణ చాప్టర్ సెక్రటరీ వి.వి. ఈ కార్యక్రమంలో శశికుమార్‌ పాల్గొనగా, రాష్ట్రంలోని వివిధ ప్రాంతాల నుంచి వచ్చిన ఫ్యాక్టరీ యాజమాన్యం, ఉద్యోగులు, పాఠశాల విద్యార్థులు, మహిళలు పాల్గొన్నట్లు నిర్వాహకులు బుధవారం ఒక ప్రకటనలో తెలిపారు.",
+      "summary_te": "కర్మాగారాల వద్ద జీరో యాక్సిడెంట్ లక్ష్యాన్ని నిర్దేశించుకుని సాధించాలని కార్మిక, ఉపాధి, శిక్షణ మరియు ఫ్యాక్టరీల మంత్రి గడ్డం వివేక్ వెంకట్ స్వామి కంపెనీలకు పిలుపునిచ్చారు. ఉత్పత్తి హడావిడిలో భద్రతను మరచిపోకూడదు. ప్రమాదాల వల్ల కలిగే నష్టంతో పోలిస్తే భద్రతపై పెట్టుబడి ఖర్చు చాలా తక్కువని, నేషనల్ సేఫ్టీ కౌన్సిల్, తెలంగాణ చాప్టర్ సహకారంతో ఫ్యాక్టరీల శాఖ ఇక్కడ నిర్వహించిన 55వ జాతీయ భద్రతా దినోత్సవంలో ఆయన అన్నారు. ముఖ్యమంత్రి ఆవిష్కరించిన తెలంగాణ రైజింగ్ ప్లాన్‌ల సాధనకు పారిశ్రామిక భద్రత ముఖ్యమని గనులు మరియు భూగర్భ శాస్త్ర శాఖ మంత్రి వివేక్ వెంకట్ స్వామి అన్నారు. ఫ్యాక్టరీలకు సంబంధించిన భద్రతా సమస్యలను కంపెనీలు తమ డైరెక్టర్ల బోర్డు సమావేశాల్లో చర్చించి భద్రతపై సానుకూల నిర్ణయం తీసుకోవాలని ఆయన అన్నారు.కార్మిక, ఉపాధి, శిక్షణ, ఫ్యాక్టరీల శాఖ ప్రత్యేక ప్రధాన కార్యదర్శి ఎం. దానకిషోర్ 4సీల కాన్సెప్ట్ - నియంత్రణ, కమ్యూనికేషన్, సహకారం మరియు భద్రత కోసం యోగ్యతపై నొక్కి చెప్పారు. పని ప్రదేశాలలో సురక్షితమైన పని పరిస్థితులు ఉండేలా చూడాలని ఆయన యాజమాన్యాలను మరియు కార్మికులను కోరారు. సీనియర్ అధికారి శిక్షణ ద్వారా ఉద్యోగుల నైపుణ్యం యొక్క అవసరాన్ని హైలైట్ చేశారు మరియు కార్మికులు అనుసరించడానికి సురక్షితమైన నిర్వహణ విధానాలను అభివృద్ధి చేయాలని పిలుపునిచ్చారు. భద్రతా ఇంటర్‌లాక్‌లు, ప్రమాదాలను హెచ్చరించడానికి మరియు తగ్గించడానికి అలారంలపై పెట్టుబడి పెట్టాలని ఆయన మేనేజ్‌మెంట్‌లకు సూచించారు. ఫ్యాక్టరీల డైరెక్టర్ వై. మోహన్ బాబు మాట్లాడుతూ ఎంగేజ్, ఎడ్యుకేట్ మరియు ఎంపవర్ జాతీయ భద్రతా దినోత్సవం థీమ్ నినాదం కాదని, పరిశ్రమల అంతటా స్థిరమైన భద్రతా ఉద్యమానికి రోడ్‌మ్యాప్ అని అన్నారు. భద్రతా సమస్యలపై చర్చించడానికి భద్రతా కమిటీల ద్వారా కార్మికులను నిమగ్నం చేయాలని మరియు ఇండక్షన్ మరియు పీరియాడికల్ శిక్షణా కార్యక్రమాల ద్వారా కార్మికులకు అవగాహన కల్పించాలని ఆయన యాజమాన్యాలను అభ్యర్థించారు. ఫ్యాక్టరీల శాఖ అధికారులు, నేషనల్ సేఫ్టీ కౌన్సిల్ తెలంగాణ చాప్టర్ సెక్రటరీ వి.వి. ఈ కార్యక్రమంలో శశికుమార్‌ పాల్గొనగా, రాష్ట్రంలోని వివిధ ప్రాంతాలకు చెందిన ఫ్యాక్టరీ యాజమాన్యం, ఉద్యోగులు, పాఠశాల విద్యార్థులు, మహిళలు పాల్గొన్నట్లు నిర్వాహకులు బుధవారం ఒక ప్రకటనలో తెలిపారు.",
       "translated": true
     },
     {
@@ -168,7 +182,7 @@
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
-      "title_te": "గోల్కొండ పోలీసుల సంసిద్ధతను పరీక్షించేందుకు మాసబ్ ట్యాంక్ వద్ద అర్ధరాత్రి మొబిలైజేషన్ డ్రిల్",
+      "title_te": "గోల్కొండ పోలీసుల సంసిద్ధతను పరీక్షించేందుకు మాసాబ్ ట్యాంక్ వద్ద అర్ధరాత్రి మొబిలైజేషన్ డ్రిల్",
       "summary_te": "ఎమర్జెన్సీ రెస్పాన్స్ మెకానిజమ్‌లను అంచనా వేసి పటిష్టం చేసే లక్ష్యంతో హైదరాబాద్ పోలీసులు మాసబ్ ట్యాంక్‌లోని హాకీ గ్రౌండ్స్‌లో ప్రత్యేక అర్ధరాత్రి సమీకరణ వ్యాయామం నిర్వహించారు. గోల్కొండ జోన్ పరిధిలోని అన్ని పోలీస్ స్టేషన్ల నుండి వచ్చిన హోంగార్డ్స్ నుండి అసిస్టెంట్ కమీషనర్ ఆఫ్ పోలీస్ వరకు దాదాపు 650 మంది సిబ్బంది ఈ కసరత్తులో పాల్గొన్నారు. అవాంఛనీయ సంఘటనలు జరిగినప్పుడు సిబ్బందిని నిర్దేశించిన ప్రదేశంలో ఎలా కలుస్తారో పరీక్షించడంపై మాక్ డ్రిల్ దృష్టి సారించింది. క్షేత్రస్థాయి సిబ్బంది నుంచి సీనియర్‌ అధికారుల వరకు ప్రతి ర్యాంకు, మండల నియంత్రణ ఆదేశాలకు అనుగుణంగా అప్పగించిన బాధ్యతలను నిర్వర్తించేలా సమన్వయ ప్రోటోకాల్‌లపై అధికారులకు సూచించారు.",
       "translated": true
     },
@@ -197,7 +211,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "₹1.7 లక్షల విలువైన మద్యం, గంజాయి స్వాధీనం; ఎక్సైజ్‌ ఆపరేషన్‌లో ముగ్గురు అరెస్ట్‌",
-      "summary_te": "ఎక్సైజ్ శాఖకు చెందిన స్టేట్ టాస్క్ ఫోర్స్ (STF) రెండు వేర్వేరు ఆపరేషన్లలో ముగ్గురు వ్యక్తులను అరెస్టు చేశారు, దీనితో ₹ 1.7 లక్షల విలువైన 24 ఖరీదైన మద్యం సీసాలు మరియు 250 గ్రాముల గంజాయిని స్వాధీనం చేసుకున్నారు. మరో ఇద్దరు వ్యక్తులపై కూడా కేసులు నమోదు చేయబడ్డాయి.",
+      "summary_te": "ఎక్సైజ్ శాఖకు చెందిన స్టేట్ టాస్క్ ఫోర్స్ (STF) రెండు వేర్వేరు ఆపరేషన్లలో ముగ్గురిని అరెస్టు చేసింది, దీనితో ₹1.7 లక్షల విలువైన 24 బాటిళ్ల ఖరీదైన మద్యం మరియు 250 గ్రాముల గంజాయిని స్వాధీనం చేసుకున్నారు. మరో ఇద్దరు వ్యక్తులపై కూడా కేసులు నమోదు చేయబడ్డాయి.",
       "translated": true
     },
     {
@@ -239,91 +253,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "కూకట్‌పల్లిలో హోలీ ఈవెంట్ నిర్వాహకుడిపై చీటింగ్ కేసు",
-      "summary_te": "సెలబ్రిటీల వేషాలు, భోజన ఏర్పాట్లతో ప్రచారం చేసిన హోలీ కార్యక్రమం తన హామీలను నెరవేర్చడంలో విఫలమైందన్న ఫిర్యాదు మేరకు కూకట్‌పల్లిలోని ఓ ఈవెంట్ ఆర్గనైజర్‌పై కేసు నమోదైంది. రాధాకృష్ణ ఉత్సవ్ 2.0, 3వ తేదీ మధ్య జరిగే హోలీ కార్యక్రమాన్ని ఎన్. సాయి కుమార్ ప్రచారం చేశారంటూ షీలా అర్జున్ ఫిర్యాదు చేశారు. మార్చి 4న కూకట్‌పల్లిలోని కైతలాపూర్‌ మైదానంలో.",
-      "translated": true
-    },
-    {
-      "id": "3468fc949a445dea2349a87fc28b0587",
-      "title": "Dairy owner nabbed for manufacturing adulterated ghee worth ₹18.26 lakh in Banjara Hills raid",
-      "summary": "A 26-year-old dairy owner was arrested and adulterated dairy products worth ₹18.26 lakh seized during a raid by the Commissioner’s Task Force and Masab Tank police in Banjara Hills on Wednesday.The accused, Mohammed Junaid Hussain, owner of a unit operating under the name ‘Pride Dairy’ at Bhola Nagar, Road No. 12, Banjara Hills, was manufacturing adulterated ghee using cow and buffalo cream mixed with palm oil, vanaspati and other low-quality substances.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/dairy-owner-nabbed-for-manufacturing-adulterated-ghee-worth-1826-lakh-in-banjara-hills-raid/article70703556.ece",
-      "image": "https://th-i.thgim.com/public/incoming/p3wvg3/article70703555.ece/alternates/LANDSCAPE_1200/Dairy%20products%20raid%20.jpeg",
-      "published_at": "2026-03-04T14:49:52.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "బంజారాహిల్స్ రైడ్‌లో ₹18.26 లక్షల విలువైన కల్తీ నెయ్యి తయారు చేసిన డెయిరీ యజమాని పట్టుబడ్డాడు.",
-      "summary_te": "బుధవారం బంజారాహిల్స్‌లో కమిషనర్ టాస్క్ ఫోర్స్ మరియు మాసబ్ ట్యాంక్ పోలీసులు జరిపిన దాడిలో 26 ఏళ్ల డెయిరీ యజమానిని అరెస్టు చేసి, ₹18.26 లక్షల విలువైన పాల ఉత్పత్తులను స్వాధీనం చేసుకున్నారు. పామాయిల్, వనస్పతి మరియు ఇతర తక్కువ నాణ్యత గల పదార్థాలతో కలిపి ఆవు మరియు గేదె క్రీమ్‌ను ఉపయోగించి కల్తీ నెయ్యిని తయారు చేయడం.",
-      "translated": true
-    },
-    {
-      "id": "f4fd5a3f6828e582dbb9009863b967df",
-      "title": "Miyapur police arrest hospital housekeeping staff in jewellery theft case",
-      "summary": "A 45-year-old housekeeping worker employed at a private hospital in Madeenaguda was arrested by the Miyapur police on Tuesday for stealing gold and silver ornaments from a patient’s attendant. The accused was identified as Jeribeti Durga, a resident of Shivaji Nagar, Chandanagar.The incident came into light following a complaint by a 43-year-old software engineer on February 26 stating that ornaments were found missing from his bag while his wife was admitted to the intensive care unit.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/miyapur-police-arrest-hospital-housekeeping-staff-in-jewellery-theft-case/article70699843.ece",
-      "image": "https://th-i.thgim.com/public/incoming/3g21o0/article70699841.ece/alternates/LANDSCAPE_1200/Miyapur%20jewellery%20.jpeg",
-      "published_at": "2026-03-04T14:49:05.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "నగల చోరీ కేసులో మియాపూర్ పోలీసులు ఆసుపత్రి హౌస్ కీపింగ్ సిబ్బందిని అరెస్ట్ చేశారు",
-      "summary_te": "మదీనగూడలోని ఓ ప్రైవేట్‌ ఆస్పత్రిలో పనిచేస్తున్న 45 ఏళ్ల హౌస్‌కీపింగ్‌ కార్మికుడిని మియాపూర్‌ పోలీసులు మంగళవారం ఓ పేషెంట్‌ అటెండర్‌ నుంచి బంగారు, వెండి ఆభరణాలు దోచుకున్నందుకు అరెస్ట్‌ చేశారు. నిందితుడిని చందానగర్‌లోని శివాజీ నగర్‌కు చెందిన జెరిబేటి దుర్గగా గుర్తించారు. తన భార్యను ఇంటెన్సివ్ కేర్ యూనిట్‌లో చేర్పించగా అతని బ్యాగ్‌లో ఆభరణాలు కనిపించడం లేదని 43 ఏళ్ల సాఫ్ట్‌వేర్ ఇంజనీర్ ఫిబ్రవరి 26న ఫిర్యాదు చేయడంతో ఈ ఘటన వెలుగులోకి వచ్చింది.",
-      "translated": true
-    },
-    {
-      "id": "d59d8876b661fc51699247e0f1c28a5a",
-      "title": "CM calls for enhanced road safety measures and driver health checks",
-      "summary": "Chief Minister A. Revanth Reddy on Wednesday directed officials of the Transport department to strengthen road safety measures, including proper vehicle fitness checks and health screening for drivers.Issuing directions at a review meeting, Mr. Reddy asked the department to ensure that all relevant transport data is completed and made available online. He also emphasised that fitness tests for school buses and other vehicles must be conducted strictly and in accordance with safety norms.Mr Reddy instructed officials to organise eye screening tests for drivers of Telangana State Road Transport Corporation bus drivers, as well as drivers of lorries and other goods transport vehicles. Such screening camps should be set up at locations where a large number of drivers usually gather, so that more drivers can undergo the tests, he said.In another measure aimed at improving road safety, the Mr. Reddy directed the department to establish a dedicated WhatsApp number through which the public can report large potholes and accident-prone spots on roads.",
-      "url": "https://www.thehindu.com/news/national/telangana/cm-calls-for-enhanced-road-safety-measures-and-driver-health-checks/article70703855.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wul6xz/article70704119.ece/alternates/LANDSCAPE_1200/_DSC4333.JPG",
-      "published_at": "2026-03-04T14:41:15.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "రోడ్డు భద్రతా చర్యలు మరియు డ్రైవర్ ఆరోగ్య తనిఖీలను మెరుగుపరచాలని సిఎం పిలుపునిచ్చారు",
-      "summary_te": "సరైన వాహన ఫిట్‌నెస్ తనిఖీలు, డ్రైవర్లకు హెల్త్ స్క్రీనింగ్‌తో సహా రోడ్డు భద్రతా చర్యలను పటిష్టం చేయాలని ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డి బుధవారం రవాణా శాఖ అధికారులను ఆదేశించారు. సమీక్షా సమావేశంలో ఆదేశాలు జారీ చేసిన శ్రీ రెడ్డి, సంబంధిత రవాణా డేటా అంతా పూర్తి చేసి ఆన్‌లైన్‌లో అందుబాటులో ఉండేలా చూడాలని కోరారు. పాఠశాల బస్సులు, ఇతర వాహనాలకు తప్పనిసరిగా ఫిట్‌నెస్ పరీక్షలు తప్పనిసరిగా నిర్వహించాలని, భద్రతా నిబంధనలకు అనుగుణంగా ఉండాలని ఆయన ఉద్ఘాటించారు.తెలంగాణ రాష్ట్ర రోడ్డు రవాణా సంస్థ బస్సు డ్రైవర్లతో పాటు లారీలు, ఇతర సరుకు రవాణా వాహనాల డ్రైవర్లకు కంటి పరీక్ష పరీక్షలు నిర్వహించాలని శ్రీరెడ్డి అధికారులను ఆదేశించారు. సాధారణంగా ఎక్కువ సంఖ్యలో డ్రైవర్లు గుమికూడే ప్రదేశాలలో ఇలాంటి స్క్రీనింగ్ క్యాంపులు ఏర్పాటు చేయాలని, తద్వారా ఎక్కువ మంది డ్రైవర్లు పరీక్షలు చేయించుకోవచ్చని అన్నారు. రోడ్డు భద్రతను మెరుగుపరిచే లక్ష్యంతో మరో ప్రత్యేక వాట్సాప్ నంబర్‌ను ఏర్పాటు చేయాలని, దీని ద్వారా ప్రజలు రోడ్లపై పెద్దపెద్ద గుంతలు, ప్రమాదాలు జరిగే ప్రదేశాలను తెలియజేయాలని శ్రీరెడ్డి శాఖను ఆదేశించారు.",
-      "translated": true
-    },
-    {
-      "id": "66b0e5e38fb92c4529965423e7da108e",
-      "title": "Telangana transport chief highlights safety as priority in operations",
-      "summary": "Telangana State Road Transport Corporation vice-chairman and managing director Y.Nagi Reddy on Wednesday underscored the significance of safety, stating that it remains an important objective of the transport juggernaut.Mr Reddy was speaking at Safety Day, a part of the National Safety Week, at Bus Bhavan. He said that the rank and file of the State road transport undertaking must consider safety as their primary responsibility.He pointed out that since workers handle heavy equipment, they should exercise caution while dealing with tasks such as operating machinery, welding equipment and managing fuel in bus depots and workshops.He noted that National Safety Day is annually observed on March 4 and that instructions had been issued to all garages, zonal workshops and Body Building Units (BBUs) to conduct Safety Week activities for seven days to create awareness at the grassroots level. He said a safe working environment not only protects employees’ lives but also enhances the reputation of the organisation.According to the TGSRTC, the key objectives of the programme include prevention of accidents such as mechanical injuries, electric shocks and fire hazards, building a strong safety culture in workplaces through continuous learning and awareness, and taking necessary precautions to prevent occupational health problems and exposure to chemical fumes.Under the theme of improving productivity, the TGSRTC emphasised safeguarding institutional assets and enhancing operational efficiency through safe working practices.",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-transport-chief-highlights-safety-as-priority-in-operations/article70703779.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-04T14:00:46.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "తెలంగాణ రవాణాశాఖ ముఖ్యకార్యదర్శి కార్యకలాపాల్లో భద్రతకు ప్రాధాన్యతనిస్తున్నారు",
-      "summary_te": "తెలంగాణ రాష్ట్ర రోడ్డు రవాణా సంస్థ వైస్-ఛైర్మెన్ మరియు మేనేజింగ్ డైరెక్టర్ వై.నాగి రెడ్డి బుధవారం నాడు బస్ భవన్‌లో జరిగిన జాతీయ భద్రతా వారోత్సవాలలో భాగంగా భద్రతా దినోత్సవం సందర్భంగా మాట్లాడుతూ భద్రత యొక్క ప్రాముఖ్యతను నొక్కిచెప్పారు. రాష్ట్ర రోడ్డు రవాణా సంస్థ శ్రేణులు భద్రతను తమ ప్రాథమిక బాధ్యతగా పరిగణించాలని ఆయన అన్నారు. కార్మికులు బరువైన పరికరాలను నిర్వహిస్తున్నందున, యంత్రాలు ఆపరేట్ చేయడం, వెల్డింగ్ పరికరాలు, బస్ డిపోలు మరియు వర్క్‌షాప్‌లలో ఇంధన నిర్వహణ వంటి పనులలో వారు జాగ్రత్తగా వ్యవహరించాలని ఆయన సూచించారు. (BBUలు) అట్టడుగు స్థాయిలో అవగాహన కల్పించేందుకు ఏడు రోజుల పాటు భద్రతా వారోత్సవ కార్యక్రమాలను నిర్వహించడం. సురక్షితమైన పని వాతావరణం ఉద్యోగుల జీవితాలను కాపాడటమే కాకుండా సంస్థ కీర్తిని పెంపొందిస్తుంది. TGSRTC ప్రకారం, మెకానికల్ గాయాలు, విద్యుత్ షాక్‌లు మరియు అగ్ని ప్రమాదాల వంటి ప్రమాదాల నివారణ, నిరంతర అభ్యాసం మరియు అవగాహన ద్వారా కార్యాలయంలో బలమైన భద్రతా సంస్కృతిని పెంపొందించడం మరియు ఆరోగ్య సమస్యల నివారణకు అవసరమైన జాగ్రత్తలు తీసుకోవడం వంటి ముఖ్య ఉద్దేశ్యాలు. ఉత్పాదకతను మెరుగుపరచడంలో, TGSRTC సంస్థాగత ఆస్తులను రక్షించడం మరియు సురక్షితమైన పని పద్ధతుల ద్వారా కార్యాచరణ సామర్థ్యాన్ని పెంచడం గురించి నొక్కి చెప్పింది.",
-      "translated": true
-    },
-    {
-      "id": "e37f8e17a986fdc541ea67b25710d554",
-      "title": "Irrigation dept. directed to constitute technical committee on safety measures of Singur project",
-      "summary": "Ministers want NDSA standards to be adhered to in dam safety measures",
-      "url": "https://www.thehindu.com/news/national/telangana/irrigation-dept-directed-to-constitute-technical-committee-on-safety-measures-of-singur-project/article70703066.ece",
-      "image": null,
-      "published_at": "2026-03-04T14:00:04.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "నీటిపారుదల శాఖ సింగూరు ప్రాజెక్టు భద్రతా చర్యలపై సాంకేతిక కమిటీని ఏర్పాటు చేయాలని ఆదేశించారు",
-      "summary_te": "డ్యామ్ భద్రతా చర్యలలో ఎన్‌డిఎస్‌ఎ ప్రమాణాలు పాటించాలని మంత్రులు కోరుతున్నారు",
-      "translated": true
-    },
-    {
-      "id": "84096c3e0ef5c5a15c49d36732adda2e",
-      "title": "Lack of stability in Cong. govt.: BJP",
-      "summary": "The Congress Government led by Chief Minister A. Revanth Reddy “lacks vision and has no mission for public welfare, but has been working only for commissions” over the last two-and-a-half years, alleged the Telangana BJP on Wednesday.Party vice-president and former MLA N.V.S.S. Prabhakar, addressing a media conference at the State office, wondered whether the Chief Minister’s authority was intact, given that he was “forced” to carry out 60 transfers of IAS and IPS officers so far during his tenure in an effort to put the administration on track.“Such large-scale transfers at frequent intervals indicate a lack of stability in the administration,” he said. Mr. Prabhakar noted that Mr. Revanth Reddy recently announced a ‘99-day action plan’ directing district collectors to stay in villages for at least 10 days and interact with people.“Does this mean these officials have not been visiting villages for the last two years? Have they not been meeting people directly? Is anyone even listening to the Chief Minister, given that he repeats the same instructions at every meeting?” he asked.The former MLA charged the government of lacking direction as was also evident in its decision to first create a Greater Municipal Corporation for Hyderabad by merging peripheral villages, and then dividing the same area into three separate civic bodies. This, he argued, not only undermines the reservation process but also shows that the ruling dispensation lacks a strategic vision.The BJP leader further criticised Mr. Revanth Reddy for his “60 visits” to Delhi, claiming that these trips were aimed at consolidating his own position rather than focusing on governance in Telangana. On the Rajya Sabha biennial elections, he said there is considerable confusion due to ongoing Supreme Court hearings on defections to the ruling party.“On one hand, the defected MLAs say they continue to be with the BRS, and the Speaker has echoed the same opinion. Others are seeking more time to respond to notices. There are doubts about both the Congress and the BRS and their stance in this scenario,” he said.The senior BJP leader suggested that the two parties should either merge or form an open alliance instead of continuing to “mislead the public with paper battles,” as he claimed the BRS did earlier when it was in power.",
-      "url": "https://www.thehindu.com/news/national/telangana/lack-of-stability-in-cong-govt-bjp/article70703273.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-04T13:57:00.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "కాంగ్రెస్‌లో స్థిరత్వం లోపించింది. ప్రభుత్వం: బీజేపీ",
-      "summary_te": "ముఖ్యమంత్రి ఎ. రేవంత్‌రెడ్డి నేతృత్వంలోని కాంగ్రెస్‌ ప్రభుత్వం గత రెండున్నరేళ్లుగా ‘విజన్‌ ​​కొరవడి, ప్రజా సంక్షేమమే ధ్యేయంగా లేదు, కమీషన్ల కోసమే పని చేస్తోంది’ అని తెలంగాణ బిజెపి బుధవారం ఆరోపించింది. పార్టీ ఉపాధ్యక్షుడు, మాజీ ఎమ్మెల్యే ఎన్‌విఎస్‌ఎస్‌. రాష్ట్ర కార్యాలయంలో జరిగిన మీడియా సమావేశంలో ప్రభాకర్ మాట్లాడుతూ.. పరిపాలనను గాడిలో పెట్టేందుకు తన హయాంలో ఇప్పటి వరకు 60 మంది ఐఏఎస్‌, ఐపీఎస్‌ అధికారులను బలవంతంగా బదిలీ చేయడంతో ముఖ్యమంత్రికి ఉన్న అధికారం చెక్కుచెదరలేదా అని ప్రశ్నించారు. జిల్లా కలెక్టర్లు కనీసం 10 రోజులు గ్రామాల్లోనే ఉండి ప్రజలతో మమేకమయ్యేలా చూడాలని రేవంత్ రెడ్డి ఇటీవల ‘99 రోజుల కార్యాచరణ ప్రణాళిక’ను ప్రకటించారని ప్రభాకర్ పేర్కొన్నారు. “ఈ అధికారులు గత రెండేళ్లుగా గ్రామాలకు వెళ్లడం లేదా? ప్రజలను నేరుగా కలవడం లేదా? ముఖ్యమంత్రి చెప్పిన మాటలను ఎవరైనా వింటున్నారా? అని అడిగారు.మాజీ ఎమ్మెల్యే ప్రభుత్వానికి దిశానిర్దేశం చేయడం లేదని ఆరోపిస్తూ, హైదరాబాద్‌కు మొదటగా పరిధీయ గ్రామాలను విలీనం చేసి, ఆ తర్వాత అదే ప్రాంతాన్ని మూడు వేర్వేరు పౌర సంస్థలుగా విభజించి గ్రేటర్ మున్సిపల్ కార్పొరేషన్‌ను ఏర్పాటు చేయాలనే దాని నిర్ణయంలో కూడా స్పష్టమైంది. ఇది రిజర్వేషన్ల ప్రక్రియను దెబ్బతీయడమే కాకుండా పాలకవర్గానికి వ్యూహాత్మక దృక్పథం లేదని కూడా ఆయన వాదించారు. తెలంగాణాలో పాలనపై దృష్టి సారించడం కంటే తన సొంత స్థానాన్ని సుస్థిరం చేసుకునేందుకు ఈ పర్యటనలు సాగాయని పేర్కొంటూ రేవంత్ రెడ్డి ఢిల్లీకి తన \"60 పర్యటనల\" కోసం రేవంత్ రెడ్డిని మరింత విమర్శించారు. రాజ్యసభ ద్వైవార్షిక ఎన్నికలపై, అధికార పార్టీ ఫిరాయింపులపై సుప్రీంకోర్టులో జరుగుతున్న విచారణల కారణంగా తీవ్ర గందరగోళం నెలకొందని ఆయన అన్నారు.‘‘ఒకవైపు ఫిరాయింపు ఎమ్మెల్యేలు బీఆర్‌ఎస్‌తోనే కొనసాగుతున్నారని చెబుతుండగా, స్పీకర్ కూడా అదే అభిప్రాయాన్ని వ్యక్తం చేశారు. మరికొందరు నోటీసులపై స్పందించేందుకు మరికొంత సమయం కావాలని కోరుతున్నారు. \"కాగితపు యుద్ధాలతో ప్రజలను తప్పుదారి పట్టించడం\" కొనసాగించడానికి బదులుగా రెండు పార్టీలు విలీనం కావాలి లేదా బహిరంగ కూటమిని ఏర్పాటు చేయాలి, BRS గతంలో అధికారంలో ఉన్నప్పుడు చేసింది.",
+      "summary_te": "సెలబ్రిటీల వేషాలు, భోజన ఏర్పాట్లు అంటూ ప్రచారం చేసిన హోలీ ఈవెంట్ హామీలను నెరవేర్చడంలో విఫలమైందన్న ఫిర్యాదు మేరకు కూకట్‌పల్లిలోని ఓ ఈవెంట్ ఆర్గనైజర్‌పై కేసు నమోదైంది. రాధాకృష్ణ ఉత్సవ్ 2.0, 3వ తేదీ మధ్య జరిగే హోలీ కార్యక్రమాన్ని ఎన్. సాయి కుమార్ ప్రచారం చేశారంటూ షీలా అర్జున్ ఫిర్యాదు చేశారు. మార్చి 4న కూకట్‌పల్లిలోని కైతలాపూర్‌ మైదానంలో.",
       "translated": true
     }
   ]
