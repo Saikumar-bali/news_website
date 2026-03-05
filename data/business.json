@@ -1,12 +1,40 @@
 {
-  "updated_at": "2026-03-05T20:39:12.041Z",
-  "updated_at_IST": "6/3/2026, 2:09:12 am",
+  "updated_at": "2026-03-05T21:35:39.470Z",
+  "updated_at_IST": "6/3/2026, 3:05:39 am",
   "category": "business",
   "count": 50,
   "articles": [
     {
+      "id": "9b3bc5751f3915ae0916f25243e66677",
+      "title": "Who is Markwayne Mullin? Trump’s pick to replace Kristi Noem as Homeland Security Secretary?",
+      "summary": "Mullin’s nomination comes as DHS faces political scrutiny over immigration enforcement, disaster response, and funding disputes in Congress.",
+      "url": "https://www.livemint.com/news/us-news/who-is-markwayne-mullin-trump-s-pick-to-replace-kristi-noem-as-homeland-security-secretary-11772744377304.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/Trump-Homeland-Security-11_1772744993783_1772745004452.jpg",
+      "published_at": "2026-03-05T21:14:57.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్క్‌వేన్ ముల్లిన్ ఎవరు? హోంల్యాండ్ సెక్యూరిటీ సెక్రటరీగా క్రిస్టీ నోయెమ్ స్థానంలో ట్రంప్ ఎంపిక?",
+      "summary_te": "DHS ఇమ్మిగ్రేషన్ ఎన్‌ఫోర్స్‌మెంట్, విపత్తు ప్రతిస్పందన మరియు కాంగ్రెస్‌లో నిధుల వివాదాలపై రాజకీయ పరిశీలనను ఎదుర్కొంటున్నందున ముల్లిన్ నామినేషన్ వచ్చింది.",
+      "translated": true
+    },
+    {
+      "id": "84f2320e0d7ce4e2ed9f9f8b353f2d91",
+      "title": "What is ‘The Shield of the Americas’? Kristi Noem named Special Envoy in new security initiative",
+      "summary": "“The Shield of the Americas” is a new US security initiative focused on the Western Hemisphere that President Trump plans to formally announce at a summit this weekend in Doral, Florida.",
+      "url": "https://www.livemint.com/news/us-news/what-is-the-shield-of-the-americas-kristi-noem-named-special-envoy-in-new-security-initiative-11772742835551.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/Trump-Homeland-Security-15_1772743617736_1772743625251.jpg",
+      "published_at": "2026-03-05T20:52:19.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'ది షీల్డ్ ఆఫ్ ది అమెరికాస్' అంటే ఏమిటి? కొత్త భద్రతా చొరవలో క్రిస్టీ నోయెమ్ ప్రత్యేక రాయబారిగా నియమితులయ్యారు",
+      "summary_te": "\"ది షీల్డ్ ఆఫ్ ది అమెరికాస్\" అనేది పశ్చిమ అర్ధగోళంపై దృష్టి సారించిన కొత్త US భద్రతా చొరవ, ఈ వారాంతంలో ఫ్లోరిడాలోని డోరల్‌లో జరిగే శిఖరాగ్ర సమావేశంలో అధ్యక్షుడు ట్రంప్ అధికారికంగా ప్రకటించాలని యోచిస్తున్నారు.",
+      "translated": true
+    },
+    {
       "id": "c92d20194f2ede912e1ab05109881d9b",
-      "title": "‘We want someone who will…’: Trump wants to be involved in picking Iran's next leader",
+      "title": "Trump wants to be involved in picking Iran's next leader, says ‘we want someone who will…’",
       "summary": "US President Trump stated he should play a role in selecting Iran's next supreme leader amid ongoing conflict involving Iran, Israel, and the U.S.&nbsp;",
       "url": "https://www.livemint.com/news/us-news/we-want-someone-who-will-trump-wants-to-be-involved-in-picking-irans-next-leader-11772737725551.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/USA-TRUMP-RASH-1_1772738302733_1772738325856.JPG",
@@ -14,7 +42,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "‘మాకు ఎవరైనా కావాలి…’: ఇరాన్ తదుపరి నాయకుడిని ఎన్నుకోవడంలో ట్రంప్ పాల్గొనాలనుకుంటున్నారు",
+      "title_te": "ఇరాన్ తదుపరి నాయకుడిని ఎన్నుకోవడంలో ట్రంప్ పాలుపంచుకోవాలని కోరుకుంటున్నారు, 'మాకు ఎవరైనా కావాలి...'",
       "summary_te": "ఇరాన్, ఇజ్రాయెల్ మరియు యుఎస్ ప్రమేయం ఉన్న వివాదం మధ్య ఇరాన్ తదుపరి అత్యున్నత నాయకుడిని ఎన్నుకోవడంలో తాను పాత్ర పోషించాలని అమెరికా అధ్యక్షుడు ట్రంప్ పేర్కొన్నారు. ",
       "translated": true
     },
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "పశ్చిమ బెంగాల్ గవర్నర్ CV ఆనంద బోస్ 3.5 సంవత్సరాల పదవి తర్వాత ఢిల్లీలో రాజీనామా చేశారు; అతని స్థానంలో ఆర్‌ఎన్ రవి.",
       "summary_te": "పశ్చిమ బెంగాల్ గవర్నర్ సివి ఆనంద బోస్ 3.5 సంవత్సరాల పదవికి రాజీనామా చేశారు. అతను కేరళలో జన్మించాడు మరియు దాదాపు 350 ప్రచురణలను రచించాడు. నవంబర్ 17, 2022న ప్రెసిడెంట్ ద్రౌపది ముర్ము బోస్‌ని నియమించారు. అతని స్థానంలో RN రవి నియమితులయ్యారు.",
-      "translated": true
-    },
-    {
-      "id": "521edcf7345e739f7485482a8c10f835",
-      "title": "Rhode Island diocese abuse probe reveals 75 priests abused over 300 children since 1950",
-      "summary": "The investigation into the Catholic Diocese of Providence found that as many as 75 Catholic clergy molested more than 300 victims since 1950. While this is the official number, the officials have believed that the victims were much higher in number.",
-      "url": "https://www.livemint.com/news/us-news/rhode-island-diocese-abuse-probe-reveals-75-priests-abused-over-300-children-since-1950-11772718070264.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/Priest-Abuse-Rhode-Island-4_1772719403601_1772719585218.jpg",
-      "published_at": "2026-03-05T14:09:08.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రోడ్ ఐలాండ్ డియోసెస్ దుర్వినియోగ విచారణలో 1950 నుండి 75 మంది పూజారులు 300 మందికి పైగా పిల్లలను వేధించారని వెల్లడైంది",
-      "summary_te": "క్యాథలిక్ డియోసెస్ ఆఫ్ ప్రొవిడెన్స్‌పై జరిపిన పరిశోధనలో 1950 నుండి దాదాపు 75 మంది క్యాథలిక్ మతాధికారులు 300 మందికి పైగా బాధితులను వేధించారని కనుగొన్నారు. ఇది అధికారిక సంఖ్య అయితే, బాధితుల సంఖ్య చాలా ఎక్కువ అని అధికారులు విశ్వసిస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "df0ef6d2706115e50b14f402ef75ae33",
-      "title": "Delhi inferno: 17-year-old girl charred to death, over 100 shanties gutted in Rithala fire",
-      "summary": "The Delhi Fire Services was alerted to the conflagration at 4:15 AM. As many as 18 fire engines were dispatched to the scene to fight the flames.",
-      "url": "https://www.livemint.com/news/india/delhi-inferno-17-year-old-girl-charred-to-death-over-100-shanties-gutted-in-rithala-fire-11772714433243.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/Rithala-Fire-27_1772714626968_1772714715861.jpg",
-      "published_at": "2026-03-05T14:05:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఢిల్లీలో నరకయాతన: రితాలా అగ్నిప్రమాదంలో 17 ఏళ్ల బాలిక కాలి బూడిదైంది, 100 మందికి పైగా గుడిసెలు దగ్ధమయ్యాయి",
-      "summary_te": "ఉదయం 4:15 గంటలకు మంటలు చెలరేగడంతో ఢిల్లీ ఫైర్ సర్వీసెస్ అప్రమత్తమైంది. మంటలను అదుపు చేసేందుకు 18 ఫైర్ ఇంజన్లు ఘటనా స్థలానికి చేరుకున్నాయి.",
       "translated": true
     },
     {
