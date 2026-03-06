@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-06T01:16:07.191Z",
-  "updated_at_IST": "6/3/2026, 6:46:07 am",
+  "updated_at": "2026-03-06T04:12:44.252Z",
+  "updated_at_IST": "6/3/2026, 9:42:44 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a78a6f807602d5b8d5f1763b20a0a04a",
+      "title": "Litton Das back in Bangladesh ODI squad for series against Pakistan",
+      "summary": "Fast bowlers Nahid Rana and Shoriful Islam have also been included for the three ODIs",
+      "url": "https://www.espncricinfo.com/ci/content/story/1526980.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg",
+      "published_at": "2026-03-06T03:53:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్‌తో జరిగే వన్డే సిరీస్‌కు బంగ్లాదేశ్ జట్టులోకి లిట్టన్ దాస్ తిరిగి వచ్చాడు",
+      "summary_te": "ఫాస్ట్ బౌలర్లు నహిద్ రానా మరియు షోరిఫుల్ ఇస్లాం కూడా మూడు వన్డేలకు చేర్చబడ్డారు",
+      "translated": true
+    },
+    {
+      "id": "422beb6b3acab6fcf2beb69300c93306",
+      "title": "India in final after edging high-scoring thriller against England",
+      "summary": "Samson's 89 trumped Bethell's 105 on a night of pulsating drama, studded with 499 runs in 40 overs",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527004.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414395.jpg",
+      "published_at": "2026-03-06T03:08:20.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఇంగ్లండ్‌పై అత్యధిక స్కోరింగ్ థ్రిల్లర్‌ను ఎడ్జ్ చేసి భారత్ ఫైనల్‌కు చేరుకుంది",
+      "summary_te": "శాంసన్ 89 పరుగులతో బెథెల్ 105 పరుగులతో 40 ఓవర్లలో 499 పరుగులు సాధించాడు.",
+      "translated": true
+    },
+    {
+      "id": "6febeac3bce053a145a45373a4fe8209",
+      "title": "Samson on playing first World Cup final: 'One of the best moments in my life'",
+      "summary": "\"I did not miss two centuries. I have made 97 and 89 - it is a very big thing,\" Sanju Samson says of his back-to-back match-winning innings at the T20 World Cup",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527030.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414391.jpg",
+      "published_at": "2026-03-06T02:52:12.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మొదటి ప్రపంచ కప్ ఫైనల్‌లో శాంసన్: 'నా జీవితంలో అత్యుత్తమ క్షణాల్లో ఒకటి'",
+      "summary_te": "\"నేను రెండు సెంచరీలను కోల్పోలేదు. నేను 97 మరియు 89 పరుగులు చేసాను - ఇది చాలా పెద్ద విషయం,\" T20 ప్రపంచ కప్‌లో తన బ్యాక్ టు బ్యాక్ మ్యాచ్ విన్నింగ్ ఇన్నింగ్స్ గురించి సంజూ శాంసన్ చెప్పాడు.",
+      "translated": true
+    },
+    {
+      "id": "4ce00757d4d5e0ce644f8dca625b472f",
+      "title": "Du Plessis: Bumrah in the XI is 'like having a genie'",
+      "summary": "Jasprit Bumrah \"a superpower that any captain will dream of\", Faf du Plessis says after India quick changes the T20 World Cup semi-final against England with a special 18th over",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527041.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414413.jpg",
+      "published_at": "2026-03-06T02:26:51.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డు ప్లెసిస్: XIలో బుమ్రా 'జెనీని కలిగి ఉన్నాడు'",
+      "summary_te": "జస్ప్రీత్ బుమ్రా \"ఏ కెప్టెన్ అయినా కలలు కనే సూపర్ పవర్\" అని ఫాఫ్ డు ప్లెసిస్ మాట్లాడుతూ, ఇంగ్లాండ్‌తో జరిగిన T20 ప్రపంచ కప్ సెమీ-ఫైనల్‌ను ప్రత్యేక 18వ ఓవర్‌తో భారత్ త్వరగా మార్చిన తర్వాత",
+      "translated": true
+    },
     {
       "id": "e2cb5cdf7d6177c535ce6660663c9d2c",
       "title": "'I made a big mistake dropping Sanju Samson' - Harry Brook",
@@ -33,20 +89,6 @@
       "translated": true
     },
     {
-      "id": "6febeac3bce053a145a45373a4fe8209",
-      "title": "Samson looks to maiden World Cup final as 'one of the best moments in my life'",
-      "summary": "Opener has been instrumental in taking India to the title decider",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527030.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414391.jpg",
-      "published_at": "2026-03-05T21:09:00.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సామ్సన్ తొలి ప్రపంచ కప్ ఫైనల్‌ను 'నా జీవితంలో అత్యుత్తమ క్షణాలలో ఒకటి'గా చూస్తున్నాడు",
-      "summary_te": "భారత్‌ను టైటిల్ డిసైడర్‌కు తీసుకెళ్లడంలో ఓపెనర్ కీలకపాత్ర పోషించాడు",
-      "translated": true
-    },
-    {
       "id": "14a0fda7fe3b1815d399a957aa493db0",
       "title": "West Indies players may fly home soon by charter flight",
       "summary": "It's possible the flight will take off on Friday, but subject to final air traffic approvals, CWI said in a statement",
@@ -72,34 +114,6 @@
       "language": "en",
       "title_te": "శాంసన్: బుమ్రా లేకపోతే నేను ఇక్కడ నిలబడను",
       "summary_te": "ముంబైలో అత్యధిక స్కోరింగ్ సెమీ-ఫైనల్‌లో, జస్ప్రీత్ బుమ్రా డెత్ వద్ద రెండు ఎకనామిక్ ఓవర్లు బౌల్ చేసి ఇంగ్లండ్ ఛేజింగ్‌ను మూసివేశారు.",
-      "translated": true
-    },
-    {
-      "id": "422beb6b3acab6fcf2beb69300c93306",
-      "title": "India in final after clinching high-scoring thriller",
-      "summary": "Samson's 89 trumped Bethell's 105 on a night of pulsating drama, studded with 499 runs in 40 overs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527004.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414395.jpg",
-      "published_at": "2026-03-05T18:17:30.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "అత్యధిక స్కోరింగ్ థ్రిల్లర్‌తో భారత్ ఫైనల్‌కు చేరుకుంది",
-      "summary_te": "శాంసన్ 89 పరుగులతో బెథెల్ 105 పరుగులతో 40 ఓవర్లలో 499 పరుగులు సాధించాడు.",
-      "translated": true
-    },
-    {
-      "id": "a78a6f807602d5b8d5f1763b20a0a04a",
-      "title": "Litton Das back in Bangladesh squad for Pakistan ODIs",
-      "summary": "Fast bowlers Nahid Rana and Shoriful Islam also included",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526980.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/403600/403664.jpg",
-      "published_at": "2026-03-05T15:39:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "లిట్టన్ దాస్ పాకిస్థాన్ వన్డేలకు బంగ్లాదేశ్ జట్టులోకి తిరిగి వచ్చాడు",
-      "summary_te": "ఫాస్ట్ బౌలర్లు నహిద్ రాణా మరియు షోరిఫుల్ ఇస్లాం కూడా ఉన్నారు",
       "translated": true
     },
     {
@@ -281,7 +295,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "మార్క్రామ్: 'ముఖంలో చప్పుడు కాదు, కానీ అది అనిపిస్తుంది'",
-      "summary_te": "మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు ఈడెన్ గార్డెన్స్ ట్రాక్ మెరుగ్గా ఆడుతుందని దక్షిణాఫ్రికా కెప్టెన్ ఆశించాడు",
+      "summary_te": "దక్షిణాఫ్రికా కెప్టెన్ ఈడెన్ గార్డెన్స్ ట్రాక్ మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు మెరుగ్గా ఆడుతుందని ఆశించాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బ్యాగ్‌లో చివరి స్థానం, హెన్రీ వెర్రి కానీ 'ప్రత్యేకమైన' వారం తర్వాత తన శ్వాసను పట్టుకోగలడు",
       "summary_te": "మాట్ హెన్రీ తన కొడుకు పుట్టడం కోసం ఇంటికి తిరిగి వెళ్లాడు మరియు T20 ప్రపంచ కప్ సెమీ-ఫైనల్ కోసం తిరిగి వెళ్లాడు, పశ్చిమాసియాలో సంక్షోభం సమయంలో, ఇప్పుడు \"రాబోయే వాటి కోసం సిద్ధంగా ఉండండి\"",
-      "translated": true
-    },
-    {
-      "id": "84a9ff76da1061c5d60613de33edb576",
-      "title": "Sulakshan Kulkarni takes over as Oman head coach",
-      "summary": "He takes over from Duleep Mendis, who held the position for 14 years",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526831.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413345.jpg",
-      "published_at": "2026-03-04T15:42:26.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఒమన్ ప్రధాన కోచ్‌గా సులక్షణ్ కులకర్ణి బాధ్యతలు స్వీకరించారు",
-      "summary_te": "14 ఏళ్ల పాటు ఆ పదవిలో ఉన్న దులీప్ మెండిస్ నుంచి అతను బాధ్యతలు స్వీకరించాడు",
       "translated": true
     }
   ]
