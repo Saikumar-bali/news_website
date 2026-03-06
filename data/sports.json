@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-06T12:39:26.373Z",
-  "updated_at_IST": "6/3/2026, 6:09:26 pm",
+  "updated_at": "2026-03-06T13:58:08.985Z",
+  "updated_at_IST": "6/3/2026, 7:28:08 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "6d495003d453bedf9dcdb7ebb3d5e97b",
+      "title": "England Women head to South Africa after Abu Dhabi cancellation",
+      "summary": "Thirty-player training camp hastily rescheduled for Pretoria due to security situation in UAE",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527110.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401332.jpg",
+      "published_at": "2026-03-06T13:25:27.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "అబుదాబి రద్దు తర్వాత ఇంగ్లాండ్ మహిళలు దక్షిణాఫ్రికాకు వెళుతున్నారు",
+      "summary_te": "యుఎఇలో భద్రతా పరిస్థితుల కారణంగా ముప్పై మంది ఆటగాళ్ల శిక్షణా శిబిరం ప్రిటోరియాకు త్వరగా షెడ్యూల్ చేయబడింది",
+      "translated": true
+    },
+    {
+      "id": "c3c361cdce7bf6d3217fdd4ccc3c546f",
+      "title": "India hit back but Sutherland, Hamilton impress to give Australia the edge",
+      "summary": "The visitors were knocked over for 198 at the WACA but made a mark with the new ball as Sayali Satghare stood out on debut",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527053.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414442.jpg",
+      "published_at": "2026-03-06T13:14:27.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "భారత్‌కు ఎదురుదెబ్బ తగిలినా, సదర్లాండ్, హామిల్టన్ ఆకట్టుకుని ఆస్ట్రేలియాను గెలిపించారు",
+      "summary_te": "WACA వద్ద సందర్శకులు 198 పరుగుల వద్ద పరాజయం పాలయ్యారు, అయితే సయాలీ సత్‌ఘరే అరంగేట్రంలో నిలదొక్కుకోవడంతో కొత్త బంతితో ఒక ముద్ర వేశారు.",
+      "translated": true
+    },
     {
       "id": "7d51690ff665d5a81484b288d6c34d63",
       "title": "Esterhuysen, Fanning put Queensland's finals hopes in jeopardy",
@@ -44,20 +72,6 @@
       "language": "en",
       "title_te": "ఓ'నీల్ బాల్ మరియు బ్యాటింగ్‌తో మెరుస్తున్నాడు కానీ టాస్మానియా బౌలర్లు వారికి అవకాశం ఇచ్చారు",
       "summary_te": "ఓ'నీల్ 17 పరుగులకు 3 వికెట్లు తీసుకుని టాస్మానియాను 91 పరుగుల వద్ద అవుట్ చేశాడు, అయితే విక్టోరియా 193 పరుగులకు ఆలౌటైంది, టాస్మానియా 0 వికెట్ల నష్టానికి 47 పరుగులు చేయడంతో ఆట ముగిసే సమయానికి విజయానికి మరో 279 పరుగులు చేయాల్సి ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "c3c361cdce7bf6d3217fdd4ccc3c546f",
-      "title": "Australia ask India to bat in Healy's international swansong",
-      "summary": "Australia have handed a debut to Lucy Hamilton, while India have four debutants: Pratika Rawal, Kashvee Gautam, Kranti Gaud and Sayali Satghare",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527053.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414379.jpg",
-      "published_at": "2026-03-06T05:36:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హీలీ అంతర్జాతీయ స్వాన్‌సాంగ్‌లో భారత్‌ను బ్యాటింగ్ చేయమని ఆస్ట్రేలియా కోరింది",
-      "summary_te": "ఆస్ట్రేలియా లూసీ హామిల్టన్‌కు అరంగేట్రం చేయగా, భారత్‌లో ప్రతికా రావల్, కష్వీ గౌతమ్, క్రాంతి గౌడ్ మరియు సయాలీ సత్‌ఘరే నలుగురు అరంగేట్రం చేశారు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "లాబుస్‌చాగ్నే దేశీయ వన్డే కప్ ప్లేయర్ ఆఫ్ ఇయర్‌గా ఎంపికయ్యాడు",
       "summary_te": "ఆరు ఇన్నింగ్స్‌ల్లో నాలుగు సెంచరీలు చేసిన తర్వాత లాబుస్‌చాగ్నే 20 ఓట్లను సాధించి, న్యూ సౌత్ వేల్స్ బ్యాటర్ కుర్టిస్ ప్యాటర్సన్ కంటే ఒక ఓటు ముందు నిలిచాడు.",
-      "translated": true
-    },
-    {
-      "id": "0fe974ca92318a4cab5c5c3645d0ded0",
-      "title": "Final spot in the bag, Henry can catch his breath after frenetic but 'special' week",
-      "summary": "Matt Henry flew back home to be around for his son's birth and flew back for the T20 World Cup semi-final, all during the crisis in West Asia, will now \"get ready for what's to come\"",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526902.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414357.jpg",
-      "published_at": "2026-03-05T02:43:27.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బ్యాగ్‌లో చివరి స్థానం, హెన్రీ వెర్రి కానీ 'ప్రత్యేకమైన' వారం తర్వాత తన శ్వాసను పట్టుకోగలడు",
-      "summary_te": "మాట్ హెన్రీ తన కొడుకు పుట్టడం కోసం ఇంటికి తిరిగి వెళ్లాడు మరియు T20 ప్రపంచ కప్ సెమీ-ఫైనల్ కోసం తిరిగి వెళ్లాడు, పశ్చిమాసియాలో సంక్షోభం సమయంలో, ఇప్పుడు \"రాబోయే వాటి కోసం సిద్ధంగా ఉండండి\"",
       "translated": true
     }
   ]
