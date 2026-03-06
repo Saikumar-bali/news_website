@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-06T15:39:41.982Z",
-  "updated_at_IST": "6/3/2026, 9:09:41 pm",
+  "updated_at": "2026-03-06T16:38:49.787Z",
+  "updated_at_IST": "6/3/2026, 10:08:49 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "917cb540cf74214bd0212615f111631c",
+      "title": "Mixed-soil pitch set to offer minimal turn and good bounce for India-NZ final",
+      "summary": "The pitch is as good as fresh, having hosted just one match in this T20 World Cup",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527085.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413896.jpg",
+      "published_at": "2026-03-06T15:48:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "భారత్-NZ ఫైనల్‌కు మినిమల్ టర్న్ మరియు మంచి బౌన్స్ అందించడానికి మిశ్రమ నేల పిచ్ సెట్ చేయబడింది",
+      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒకే ఒక్క మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
+      "translated": true
+    },
     {
       "id": "6d495003d453bedf9dcdb7ebb3d5e97b",
       "title": "England Women head to South Africa after Abu Dhabi cancellation",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సామ్ హార్పర్ 14 వికెట్ల రోజున విక్టోరియాను అగ్రస్థానంలో నిలిపాడు",
       "summary_te": "హార్పర్ తన అద్భుతమైన ఫామ్‌ను కొనసాగించి 93 పరుగులతో విక్టోరియా 222 పరుగులు చేశాడు, మెరెడిత్ 53 పరుగులకు 4 వికెట్లు తీసుకున్నాడు, టాస్మానియా 4 వికెట్లకు 52కి పడిపోయింది.",
-      "translated": true
-    },
-    {
-      "id": "5fdb090d374866083f7eeb74b974f3c0",
-      "title": "Labuschagne named domestic One-Day Cup player of the year",
-      "summary": "Labuschagne polled 20 votes after making four centuries in six innings, to finish one vote ahead of New South Wales batter Kurtis Patterson",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526900.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413892.jpg",
-      "published_at": "2026-03-05T04:15:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "లాబుస్‌చాగ్నే దేశీయ వన్డే కప్ ప్లేయర్ ఆఫ్ ఇయర్‌గా ఎంపికయ్యాడు",
-      "summary_te": "ఆరు ఇన్నింగ్స్‌ల్లో నాలుగు సెంచరీలు చేసిన తర్వాత లాబుస్‌చాగ్నే 20 ఓట్లను సాధించి, న్యూ సౌత్ వేల్స్ బ్యాటర్ కుర్టిస్ ప్యాటర్సన్ కంటే ఒక ఓటు ముందు నిలిచాడు.",
       "translated": true
     }
   ]
