@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-06T13:58:08.985Z",
-  "updated_at_IST": "6/3/2026, 7:28:08 pm",
+  "updated_at": "2026-03-06T14:41:20.540Z",
+  "updated_at_IST": "6/3/2026, 8:11:20 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "c0f1da5c4c06d02c5d85c9311b5b2d13",
+      "title": "US jobs report: 92,000 jobs cut in February, says BLS; unemployment rate climbs to 4.4%",
+      "summary": "US employers unexpectedly cut hiring in February, with nonfarm payrolls dropping by 92,000 and the unemployment rate rising to 4.4%. This decline was reportedly influenced by reduced health care employment due to strike activity, raising concerns about labor market strength.",
+      "url": "https://www.livemint.com/news/us-news/us-jobs-report-92-000-jobs-cut-in-february-says-bls-unemployment-rate-climbs-to-44-11772802936332.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Ldf_1769827647263_1769827652727_1772805912483.jpg",
+      "published_at": "2026-03-06T14:11:51.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US ఉద్యోగాల నివేదిక: ఫిబ్రవరిలో 92,000 ఉద్యోగాలు తగ్గించబడ్డాయి, BLS చెప్పింది; నిరుద్యోగం రేటు 4.4 శాతానికి పెరిగింది",
+      "summary_te": "US యజమానులు ఊహించని విధంగా ఫిబ్రవరిలో నియామకాలను తగ్గించారు, నాన్‌ఫార్మ్ పేరోల్‌లు 92,000 తగ్గాయి మరియు నిరుద్యోగిత రేటు 4.4%కి పెరిగింది. సమ్మె కార్యాచరణ కారణంగా తగ్గిన ఆరోగ్య సంరక్షణ ఉపాధి కారణంగా ఈ క్షీణత ప్రభావితమైందని, లేబర్ మార్కెట్ బలం గురించి ఆందోళనలు వ్యక్తం చేశాయి.",
+      "translated": true
+    },
+    {
+      "id": "a9345a9e8f781982759146a4fbb935dc",
+      "title": "Trump issues ultimatum to Iran: ‘No deal except unconditional surrender’",
+      "summary": "Posting on Truth Social, Trump said Iran could have a “great future” after surrendering and selecting new leaders, pledging that the US and its partners would work to restore the country economically, while invoking the slogan “Make Iran Great Again (MIGA).”",
+      "url": "https://www.livemint.com/news/us-news/donald-trump-issues-ultimatum-to-iran-no-deal-except-unconditional-surrender-11772805636589.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/trump_1772408496582_1772408496711_1772805891819.jpg",
+      "published_at": "2026-03-06T14:07:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్‌కు ట్రంప్ అల్టిమేటం జారీ చేశారు: ‘షరతులు లేని లొంగుబాటు తప్ప ఒప్పందం లేదు’",
+      "summary_te": "ట్రూత్ సోషల్‌లో పోస్ట్ చేస్తూ, కొత్త నాయకులను లొంగిపోయిన తర్వాత మరియు ఎంపిక చేసిన తర్వాత ఇరాన్‌కు “గొప్ప భవిష్యత్తు” ఉంటుందని ట్రంప్ అన్నారు, అమెరికా మరియు దాని భాగస్వాములు దేశాన్ని ఆర్థికంగా పునరుద్ధరించడానికి కృషి చేస్తామని ప్రతిజ్ఞ చేస్తూ, “మేక్ ఇరాన్ గ్రేట్ ఎగైన్ (MIGA)” అనే నినాదాన్ని ప్రయోగించారు.",
+      "translated": true
+    },
+    {
+      "id": "55a48071cc58c88e6cbb8e893558de23",
+      "title": "Asaduddin Owaisi blasts US' 30-day waiver for India to buy Russian oil: ‘Who are they to dictate?'",
+      "summary": "Owaisi's sharp criticism comes a day after United States Treasury Department said it has granted a 30-day waiver to India to purchase Russian oil as New Delhi looks at ways to navigate an oil supply crunch triggered by the West Asia conflict",
+      "url": "https://www.livemint.com/news/india/asaduddin-owaisi-blasts-us-30-day-waiver-for-india-to-buy-russian-oil-who-are-they-to-dictate-11772802877076.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/oawaisi_1772805107026_1772805111813.png",
+      "published_at": "2026-03-06T13:52:56.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రష్యా చమురు కొనుగోలుకు భారత్‌కు అమెరికా 30 రోజుల మినహాయింపును అసదుద్దీన్ ఒవైసీ పేల్చివేసింది: ‘వారు ఎవరు నిర్దేశిస్తారు?’",
+      "summary_te": "పశ్చిమాసియా వివాదం కారణంగా ఏర్పడిన చమురు సరఫరా సంక్షోభాన్ని నేవిగేట్ చేయడానికి న్యూఢిల్లీ మార్గాలను పరిశీలిస్తున్నందున రష్యా చమురు కొనుగోలుకు భారత్‌కు 30 రోజుల మినహాయింపును మంజూరు చేసినట్లు యునైటెడ్ స్టేట్స్ ట్రెజరీ డిపార్ట్‌మెంట్ ప్రకటించిన ఒక రోజు తర్వాత ఒవైసీ తీవ్ర విమర్శలు చేశారు.",
+      "translated": true
+    },
     {
       "id": "67ddfbeb1c055e3baf847056ad3f24b6",
       "title": "Centre assures adequate fertiliser availability despite US-Iran war supply disruptions",
@@ -29,21 +71,21 @@
       "category": "business",
       "language": "en",
       "title_te": "గల్ఫ్ న్యూస్ లైవ్: ఎమిరేట్స్ ఎయిర్‌లైన్స్ ఉద్రిక్తతల మధ్య విమానాలను తిరిగి ప్రారంభించింది, ఎయిర్ ఫ్రాన్స్ స్వదేశానికి తిరిగి రావాల్సిన విమానం",
-      "summary_te": "దుబాయ్ న్యూస్ లైవ్ టుడే: ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం చెలరేగడంతో మధ్యప్రాచ్యం అంతటా విమానాల రద్దుకు దారితీసింది. విమాన స్థితి, భద్రతా సలహాలు మరియు UAE ప్రాంతీయ భద్రతపై తాజా వార్తలపై UAE వార్తల ప్రత్యక్ష నవీకరణల కోసం అనుసరించండి.",
+      "summary_te": "దుబాయ్ న్యూస్ లైవ్ టుడే: ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం చెలరేగడంతో మధ్యప్రాచ్యం అంతటా విమానాలు రద్దు చేయబడ్డాయి. విమాన స్థితి, భద్రతా సలహాలు మరియు UAE ప్రాంతీయ భద్రతపై తాజా వార్తలపై UAE వార్తల ప్రత్యక్ష నవీకరణల కోసం అనుసరించండి.",
       "translated": true
     },
     {
       "id": "f098d1c3aa525b8d28e8e86d8374802b",
       "title": "Nitish Kumar's son Nishant to join JD(U) on March 8 as father files Rajya Sabha nomination",
-      "summary": "Nishant Kumar (son of CM Nitish Kumar) will join the Janata Dal (United) on March 8.",
+      "summary": "The timing of Nishant's entry is directly linked to a major transition for his father. On Thursday, March 5, Nitish Kumar filed his nomination for the Rajya Sabha, signalling the end of his record-breaking tenure as Chief Minister.",
       "url": "https://www.livemint.com/news/india/nitish-kumars-son-nishant-to-join-jd-u-on-march-8-as-father-files-rajya-sabha-nomination-11772803713697.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/Latest-News_1545121335238_1772804235943.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/20260301-PAT-SK-MN-Nitish-Kumar-02-0_1772806782966_1772806817012.JPG",
       "published_at": "2026-03-06T13:35:13.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
       "title_te": "తండ్రి రాజ్యసభ నామినేషన్‌ దాఖలు చేయడంతో నితీష్‌ కుమార్‌ కుమారుడు నిశాంత్‌ మార్చి 8న జేడీ(యూ)లో చేరనున్నారు.",
-      "summary_te": "నిశాంత్ కుమార్ (సీఎం నితీష్ కుమార్ కుమారుడు) మార్చి 8న జనతాదళ్ (యునైటెడ్)లో చేరనున్నారు.",
+      "summary_te": "నిశాంత్ ప్రవేశించిన సమయం నేరుగా అతని తండ్రికి పెద్ద మార్పుతో ముడిపడి ఉంది. మార్చి 5, గురువారం, నితీష్ కుమార్ రాజ్యసభకు నామినేషన్ దాఖలు చేశారు, ఇది ముఖ్యమంత్రిగా తన రికార్డు బద్దలు పదవీకాలం ముగుస్తుంది.",
       "translated": true
     },
     {
@@ -75,6 +117,20 @@
       "translated": true
     },
     {
+      "id": "9554fa400b3f697e8f3b950ed316b760",
+      "title": "Nithin Kamath suggests how to curb offshore betting apps mushrooming after real money gaming ban",
+      "summary": "Following India’s ban on real-money online gaming, offshore betting apps are rapidly growing. Nithin Kamath warns they target Indian users, raise fraud risks, and suggests blocking domestic payment access to curb their spread.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nithin-kamath-says-offshore-betting-apps-mushrooming-after-real-money-gaming-ban/articleshow/129156837.cms",
+      "image": null,
+      "published_at": "2026-03-06T13:07:27.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "రియల్ మనీ గేమింగ్ బ్యాన్ తర్వాత పుట్టగొడుగుల్లా పుట్టుకొస్తున్న ఆఫ్‌షోర్ బెట్టింగ్ యాప్‌లను ఎలా అరికట్టాలో నితిన్ కామత్ సూచిస్తున్నారు",
+      "summary_te": "రియల్-మనీ ఆన్‌లైన్ గేమింగ్‌పై భారతదేశం నిషేధించిన తర్వాత, ఆఫ్‌షోర్ బెట్టింగ్ యాప్‌లు వేగంగా పెరుగుతున్నాయి. నితిన్ కామత్ వారు భారతీయ వినియోగదారులను లక్ష్యంగా చేసుకుంటారని హెచ్చరిస్తున్నారు, మోసం ప్రమాదాలను పెంచుతారు మరియు వారి వ్యాప్తిని అరికట్టడానికి దేశీయ చెల్లింపు యాక్సెస్‌ను నిరోధించాలని సూచించారు.",
+      "translated": true
+    },
+    {
       "id": "f40723d1e96d23e2044cd113efdfc442",
       "title": "Iran’s Pezeshkian affirms peace commitment while emphasizing readiness to defend sovereignty",
       "summary": "In a post on X (formerly Twitter), Pezeshkian stated that mediation efforts should focus on those who “underestimated the Iranian people and ignited this conflict.”",
@@ -84,7 +140,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ యొక్క పెజెష్కియన్ సార్వభౌమత్వాన్ని రక్షించడానికి సంసిద్ధతను నొక్కి చెబుతూనే శాంతి నిబద్ధతను ధృవీకరిస్తుంది",
+      "title_te": "ఇరాన్ యొక్క పెజెష్కియన్ సార్వభౌమత్వాన్ని రక్షించడానికి సంసిద్ధతను నొక్కిచెప్పేటప్పుడు శాంతి నిబద్ధతను ధృవీకరిస్తుంది",
       "summary_te": "X (గతంలో Twitter)లో ఒక పోస్ట్‌లో, \"ఇరానియన్ ప్రజలను తక్కువగా అంచనా వేసిన మరియు ఈ సంఘర్షణను రేకెత్తించిన\" వారిపై మధ్యవర్తిత్వ ప్రయత్నాలు దృష్టి పెట్టాలని పెజెష్కియన్ పేర్కొన్నాడు.",
       "translated": true
     },
@@ -313,48 +369,6 @@
       "translated": true
     },
     {
-      "id": "a32e67f37326a54c418370ffbe1d614a",
-      "title": "‘US blackmailed’: Kharge slams Trump's 30-day waiver ‘permission’ for India to buy Russian oil amid West Asia conflict",
-      "summary": "In his post on X, Kharge claimed that words such as ‘allow’ and ‘permission’ are used for sanctioned states, not for equal partners in the global order",
-      "url": "https://www.livemint.com/news/india/us-blackmailed-kharge-slams-trumps-30-day-waiver-permission-for-india-to-buy-russian-oil-amid-west-asia-conflict-11772787374428.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/PTI12-09-2025-000236B-0_1765275690112_1765275874093_1772791628881.jpg",
-      "published_at": "2026-03-06T10:08:38.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘అమెరికా బ్లాక్‌మెయిల్ చేసింది’: పశ్చిమాసియా వివాదం మధ్య రష్యా చమురు కొనుగోలుకు భారత్‌కు ట్రంప్ 30 రోజుల మినహాయింపు ‘అనుమతి’పై ఖర్గే మండిపడ్డారు.",
-      "summary_te": "X పై తన పోస్ట్‌లో, ఖర్గే 'అనుమతించు' మరియు 'అనుమతి' వంటి పదాలు మంజూరు చేయబడిన రాష్ట్రాలకు ఉపయోగించబడుతున్నాయని, ప్రపంచ క్రమంలో సమాన భాగస్వాముల కోసం కాదని పేర్కొన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "47759597f4144c2966fd432c2872dc54",
-      "title": "Bengaluru vlogger breaks down monthly expenses, total adds up to 1.02 lakh — How much does the 21-year-old earn?",
-      "summary": "A 21-year-old vlogger from Bengaluru shared her monthly expenses, reaching 1.02 lakh. This included rent, groceries, and a trip. Find out how much does she earn as a full-time content creator.",
-      "url": "https://www.livemint.com/news/trends/bengaluru-vlogger-breaks-down-monthly-expenses-total-adds-up-to-1-02-lakh-how-much-does-the-21-year-old-earn-11772700809658.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/05/1600x900/logo/hh_1772705358967_1772705372346.jpg",
-      "published_at": "2026-03-06T09:26:23.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "బెంగళూరు వ్లాగర్ నెలవారీ ఖర్చులను విచ్ఛిన్నం చేస్తుంది, మొత్తం 1.02 లక్షలకు చేరుతుంది — 21 ఏళ్ల వ్యక్తి ఎంత సంపాదిస్తాడు?",
-      "summary_te": "బెంగళూరుకు చెందిన 21 ఏళ్ల వ్లాగర్ తన నెలవారీ ఖర్చులను 1.02 లక్షలకు చేరుకుంది. ఇందులో అద్దె, కిరాణా సామాగ్రి మరియు విహారయాత్ర ఉన్నాయి. పూర్తి సమయం కంటెంట్ సృష్టికర్తగా ఆమె ఎంత సంపాదిస్తున్నారో తెలుసుకోండి.",
-      "translated": true
-    },
-    {
-      "id": "e1c341d6e5b758da8ac9ea84d6b3ee43",
-      "title": "Dubai gets 'potential missile threats' alert: From flights disruptions to recent explosions in UAE city— What we know",
-      "summary": "As the US-Israel-Iran conflict intensifies, Dubai residents received an alert to seek shelter from potential missile threats. The UAE's defence ministry reported missile strikes and casualties, and Indian airlines are offering support to affected travellers.",
-      "url": "https://www.livemint.com/news/world/dubai-gets-potential-missile-threats-alert-from-flights-disruptions-to-recent-explosions-in-uae-city-what-we-know-11772786724769.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/UAE-IRAN-ISRAEL-US-WAR-0_1772787502990_1772787510186.jpg",
-      "published_at": "2026-03-06T09:06:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "దుబాయ్ 'సంభావ్య క్షిపణి బెదిరింపుల' హెచ్చరికను పొందుతుంది: విమానాల అంతరాయాల నుండి UAE నగరంలో ఇటీవలి పేలుళ్ల వరకు- మనకు తెలిసినది",
-      "summary_te": "యుఎస్-ఇజ్రాయెల్-ఇరాన్ వివాదం తీవ్రమవుతున్నందున, దుబాయ్ నివాసితులు సంభావ్య క్షిపణి బెదిరింపుల నుండి ఆశ్రయం పొందాలని హెచ్చరికను అందుకున్నారు. UAE యొక్క రక్షణ మంత్రిత్వ శాఖ క్షిపణి దాడులు మరియు మరణాలను నివేదించింది మరియు భారతీయ విమానయాన సంస్థలు బాధిత ప్రయాణికులకు సహాయాన్ని అందిస్తున్నాయి.",
-      "translated": true
-    },
-    {
       "id": "b2ed370b8985942b9e71f554a9584b68",
       "title": "What do Nifty's two back-to-back gap downs of over 1% mean for investors? Let history explain",
       "summary": "Nifty 50’s back-to-back gap downs of over 1% signal more than short-term volatility, historical data shows. Across nine such events, markets rarely rebound immediately, reflecting institutional selling and macro pressures. Experts advise investors to stay disciplined, avoid aggressive bottom-fishing, and wait for clearer market signals before taking positions.",
@@ -425,20 +439,6 @@
       "translated": true
     },
     {
-      "id": "f6a5bc006f36659c3031f97db9eeb62a",
-      "title": "Metal shares surge as West Asia conflict fuels global aluminium price spike",
-      "summary": "Indian metal stocks saw a significant rise today. Aluminium manufacturers led the gains. The closure of the Strait of Hormuz due to the West Asia conflict is impacting supply chains. This is expected to push up metal prices. National Aluminium Co, Hindalco, and other metal companies registered strong gains. The Nifty Metal Index outperformed the broader market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/metal-shares-surge-as-west-asia-conflict-fuels-global-aluminium-price-spike/articleshow/129122385.cms",
-      "image": null,
-      "published_at": "2026-03-06T00:09:21.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా వివాదం గ్లోబల్ అల్యూమినియం ధరలను పెంచడంతో మెటల్ షేర్లు పెరిగాయి",
-      "summary_te": "భారతీయ మెటల్ స్టాక్స్ ఈరోజు గణనీయంగా పెరిగాయి. అల్యూమినియం తయారీదారులు లాభాల్లో ముందున్నారు. పశ్చిమాసియా వివాదం కారణంగా హార్ముజ్ జలసంధి మూసివేయడం సరఫరా గొలుసులపై ప్రభావం చూపుతోంది. దీంతో మెటల్ ధరలు పెరుగుతాయని భావిస్తున్నారు. నేషనల్ అల్యూమినియం కో, హిందాల్కో మరియు ఇతర మెటల్ కంపెనీలు బలమైన లాభాలను నమోదు చేశాయి. నిఫ్టీ మెటల్ ఇండెక్స్ విస్తృత మార్కెట్‌ను అధిగమించింది.",
-      "translated": true
-    },
-    {
       "id": "0b0416521e17ceb0bed73cd86eb6cfc6",
       "title": "Europeans cautious as they scramble to digest major US, Israeli attack on Iran",
       "summary": "European nations are reacting to major strikes on Iran by the US and Israel. Leaders are working to safeguard their citizens in the Middle East. Germany is holding an emergency meeting. The European Union is evacuating some staff. France and Italy are urging caution for their citizens. The situation is described as perilous and a military escalation is underway.",
@@ -476,7 +476,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఒప్పందం కుదిరింది: అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
+      "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
@@ -869,7 +869,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
