@@ -1,9 +1,191 @@
 {
-  "updated_at": "2026-03-05T23:57:02.241Z",
-  "updated_at_IST": "6/3/2026, 5:27:02 am",
+  "updated_at": "2026-03-06T01:16:07.191Z",
+  "updated_at_IST": "6/3/2026, 6:46:07 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "93c5ad10dc1b22b21a78e94d5eff5913",
+      "title": "Lankan SC judge moves Karnataka HC to remove defamatory content online",
+      "summary": "A Sri Lankan Supreme Court judge has petitioned Karnataka High Court to remove defamatory online content and block URLs, claiming damage to his reputation.",
+      "url": "https://www.hindustantimes.com/india-news/lankan-sc-judge-moves-karnataka-hc-to-remove-defamatory-content-online-101772740625620.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/Karnataka-High-Court_1772740618478.jpg",
+      "published_at": "2026-03-06T00:41:40.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఆన్‌లైన్‌లో పరువు నష్టం కలిగించే కంటెంట్‌ను తొలగించాలని లంక ఎస్సీ న్యాయమూర్తి కర్ణాటక హైకోర్టును ఆశ్రయించారు",
+      "summary_te": "తన ప్రతిష్టకు భంగం కలిగిస్తున్నారని పేర్కొంటూ పరువు నష్టం కలిగించే ఆన్‌లైన్ కంటెంట్‌ను తొలగించాలని మరియు URLలను బ్లాక్ చేయాలని శ్రీలంక సుప్రీంకోర్టు న్యాయమూర్తి కర్ణాటక హైకోర్టును ఆశ్రయించారు.",
+      "translated": true
+    },
+    {
+      "id": "c2768b6419fe4efdcad1b802ec86c0cc",
+      "title": "Denied medical leave, UP loco pilot pulls down pants to show ‘proof’ of piles surgery",
+      "summary": "A loco pilot, recovering from surgery, faced a senior official's demand for proof of illness for sick leave extension. In a desperate act, he revealed his surgical wound. The incident, caught on video, went viral, leading to his brief suspension, which was later revoked after union intervention. He claims repeated demands for proof.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/denied-leave-loco-pilot-lowers-pants-to-show-boss-proof-of-piles-surgery/articleshow/129111797.cms",
+      "image": "https://static.toiimg.com/photo/msid-129123558,imgsize-1112199.cms",
+      "published_at": "2026-03-06T00:41:26.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మెడికల్ లీవ్ నిరాకరించబడింది, పైల్స్ సర్జరీకి ‘ప్రూఫ్’ చూపించడానికి ప్యాంటు కిందకు లాగిన యూపీ లోకో పైలట్",
+      "summary_te": "శస్త్రచికిత్స నుండి కోలుకుంటున్న లోకో పైలట్, అనారోగ్య సెలవు పొడిగింపు కోసం అనారోగ్యం రుజువు కోసం సీనియర్ అధికారి డిమాండ్‌ను ఎదుర్కొన్నాడు. తీరని చర్యలో, అతను తన శస్త్రచికిత్స గాయాన్ని వెల్లడించాడు. ఈ సంఘటన, వీడియోలో క్యాచ్ చేయబడింది, ఇది వైరల్ అయ్యింది, ఇది అతని క్లుప్త సస్పెన్షన్‌కు దారితీసింది, యూనియన్ జోక్యం తర్వాత అది రద్దు చేయబడింది. అతను రుజువు కోసం పదేపదే డిమాండ్ చేస్తున్నాడు.",
+      "translated": true
+    },
+    {
+      "id": "bd8f57ea75fbcf75d88e820e4bdca1c1",
+      "title": "Iran Has Not Yet Elected New Supreme Leader: Top Iranian Official",
+      "summary": "Iran has not yet elected the successor of Supreme Leader Ayatollah Syed Ali Khamenei, who was assassinated in a joint US-Israeli airstrike last week, a senior Iranian official said Thursday.",
+      "url": "https://www.ndtv.com/world-news/iran-has-not-yet-elected-new-supreme-leader-top-iranian-cleric-11175082#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-01/26k80adc_iran-flag_625x300_20_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-06T00:40:58.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ ఇంకా కొత్త సుప్రీం లీడర్‌ను ఎన్నుకోలేదు: ఇరాన్ ఉన్నత అధికారి",
+      "summary_te": "గత వారం అమెరికా-ఇజ్రాయెల్ సంయుక్త వైమానిక దాడిలో హత్యకు గురైన సుప్రీం లీడర్ అయతుల్లా సయ్యద్ అలీ ఖమేనీ వారసుడిని ఇరాన్ ఇంకా ఎన్నుకోలేదని ఇరాన్ సీనియర్ అధికారి గురువారం తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "5999dcd9a10f4b161a09c8aac89bc79d",
+      "title": "Veteran journalist, diplomat HK Dua passes away",
+      "summary": "Hari Krishan Dua, former editor-in-chief of Hindustan Times and prominent journalist, passed away after a brief illness, leaving a lasting legacy.",
+      "url": "https://www.hindustantimes.com/india-news/veteran-journalist-diplomat-hk-dua-passes-away-101772739725101.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/06/1600x900/logo/dua1_1772757524077_1772757529673.jpg",
+      "published_at": "2026-03-06T00:40:02.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రముఖ పాత్రికేయుడు, దౌత్యవేత్త హెచ్‌కే దువా కన్నుమూశారు",
+      "summary_te": "హిందుస్థాన్ టైమ్స్ మాజీ ఎడిటర్-ఇన్-చీఫ్ మరియు ప్రముఖ పాత్రికేయుడు హరి క్రిషన్ దువా కొంతకాలం అనారోగ్యంతో మరణించారు, శాశ్వత వారసత్వాన్ని మిగిల్చారు.",
+      "translated": true
+    },
+    {
+      "id": "110e4e18b6ecaa9e9c353ade74818130",
+      "title": "War-risk cover for flights may push up fares",
+      "summary": "Insurance firms are raising war-risk premiums for airlines to West Asia, potentially increasing airfares as costs rise amid ongoing conflicts.",
+      "url": "https://www.hindustantimes.com/india-news/warrisk-cover-for-flights-may-push-up-fares-101772739245324.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/06/1600x900/logo/ANI-20260302397-0_1772464335700_1772464350293_1772757324243.jpg",
+      "published_at": "2026-03-06T00:36:22.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "విమానాల కోసం యుద్ధ-రిస్క్ కవర్ ఛార్జీలను పెంచవచ్చు",
+      "summary_te": "భీమా సంస్థలు పశ్చిమాసియాకు విమానయాన సంస్థలకు యుద్ధ-ప్రమాద ప్రీమియంలను పెంచుతున్నాయి, కొనసాగుతున్న సంఘర్షణల మధ్య ఖర్చులు పెరిగే అవకాశం ఉన్నందున విమాన ఛార్జీలను పెంచవచ్చు.",
+      "translated": true
+    },
+    {
+      "id": "8e98966010e12a603ac0d1e4293d67e8",
+      "title": "Jasprit Bumrah hits golden milestone, scripts history in India vs England semi-final",
+      "summary": "Jasprit Bumrah achieved a historic milestone, claiming his 500th international wicket during the ICC Men's T20 World Cup 2026 semi-final against England. This feat places him among India's elite bowlers, reinforcing his status as a formidable modern-era fast bowler. Bumrah's consistent performance across formats continues to be a significant asset for the Indian team.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/jasprit-bumrah-hits-golden-milestone-scripts-history-in-india-vs-england-semi-final/articleshow/129104678.cms",
+      "image": "https://static.toiimg.com/photo/msid-129104591,imgsize-152142.cms",
+      "published_at": "2026-03-06T00:30:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారత్ వర్సెస్ ఇంగ్లండ్ సెమీఫైనల్‌లో జస్ప్రీత్ బుమ్రా గోల్డెన్ మైలురాయిని సాధించి చరిత్ర సృష్టించాడు.",
+      "summary_te": "ICC పురుషుల T20 ప్రపంచ కప్ 2026 సెమీ-ఫైనల్‌లో ఇంగ్లాండ్‌తో జరిగిన సెమీ-ఫైనల్‌లో జస్ప్రీత్ బుమ్రా తన 500వ అంతర్జాతీయ వికెట్‌ని సాధించి చారిత్రాత్మక మైలురాయిని సాధించాడు. ఈ ఫీట్ అతనిని భారతదేశం యొక్క ఎలైట్ బౌలర్‌లలో ఉంచింది, ఆధునిక యుగం యొక్క బలీయమైన ఫాస్ట్ బౌలర్‌గా అతని హోదాను బలోపేతం చేసింది. ఫార్మాట్లలో బుమ్రా యొక్క స్థిరమైన ప్రదర్శన భారత జట్టుకు ముఖ్యమైన ఆస్తిగా కొనసాగుతోంది.",
+      "translated": true
+    },
+    {
+      "id": "34eb8f8a4064e13c544ca2a19304bfd8",
+      "title": "'India don’t give it to ICC': Ex-Pak batter targets BCCI over doping tests",
+      "summary": "Pakistan cricketer Ahmed Shehzad sparked controversy by claiming the Board of Control for Cricket in India does not allow the International Cricket Council to conduct doping tests on Indian players. However, India’s testing system operates under the National Anti-Doping Agency, which follows global anti-doping rules set by the World Anti-Doping Agency.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/india-dont-give-it-to-icc-ex-pakistan-batter-sparks-fresh-controversy-targets-bcci-over-doping-tests/articleshow/129089839.cms",
+      "image": "https://static.toiimg.com/photo/msid-129090960,imgsize-73684.cms",
+      "published_at": "2026-03-06T00:30:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'భారత్ దానిని ఐసీసీకి ఇవ్వదు': డోపింగ్ టెస్టులపై బీసీసీఐని టార్గెట్ చేసిన మాజీ పాక్ బ్యాటర్",
+      "summary_te": "భారత ఆటగాళ్లపై డోపింగ్ పరీక్షలు నిర్వహించేందుకు అంతర్జాతీయ క్రికెట్ కౌన్సిల్‌ను భారత క్రికెట్ కంట్రోల్ బోర్డు అనుమతించడం లేదని పాక్ క్రికెటర్ అహ్మద్ షెహజాద్ వివాదానికి దిగాడు. అయినప్పటికీ, భారతదేశం యొక్క పరీక్షా వ్యవస్థ జాతీయ డోపింగ్ నిరోధక ఏజెన్సీ క్రింద పనిచేస్తుంది, ఇది ప్రపంచ డోపింగ్ నిరోధక ఏజెన్సీ ద్వారా నిర్దేశించబడిన గ్లోబల్ యాంటీ-డోపింగ్ నియమాలను అనుసరిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "9968d8aa17a953ec93370e60dbd067fa",
+      "title": "'Jailer' star Shiva Rajkumar says, 'Actors not objects'",
+      "summary": "Kantara actress Sapthami Gowda has voiced concerns over inappropriate filming angles by paparazzi at public events, sparking a wider conversation. Veteran actor Shiva Rajkumar publicly supported her, urging media to respect women and avoid objectification. Other actresses have also joined the discussion, highlighting the need for dignity for female artists.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/shiva-rajkumar-backs-sapthami-gowda-over-inappropriate-filming-angles-says-actors-not-objects/articleshow/129122476.cms",
+      "image": "https://static.toiimg.com/photo/msid-129122476,imgsize-149102.cms",
+      "published_at": "2026-03-06T00:10:57.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'నటులు వస్తువులు కాదు' అని 'జైలర్' స్టార్ శివ రాజ్‌కుమార్ అన్నారు.",
+      "summary_te": "కాంతారావు నటి సప్తమి గౌడ బహిరంగ కార్యక్రమాలలో ఛాయాచిత్రకారులు అనుచితమైన చిత్రీకరణ కోణాలపై ఆందోళన వ్యక్తం చేశారు, ఇది విస్తృత సంభాషణకు దారితీసింది. ప్రముఖ నటుడు శివ రాజ్‌కుమార్ ఆమెకు బహిరంగంగా మద్దతు పలికారు, మీడియా మహిళలను గౌరవించాలని మరియు అభ్యంతరాలను నివారించాలని కోరారు. ఇతర నటీమణులు కూడా చర్చలో పాల్గొన్నారు, మహిళా ఆర్టిస్టులకు గౌరవం అవసరం.",
+      "translated": true
+    },
+    {
+      "id": "d05e1e1a8fb342ce881594f642e41aaa",
+      "title": "Delhi records season’s hottest day at 34.3°c, 7°c above normal; night temperatures up too",
+      "summary": "Delhi experienced its hottest day of the season with the maximum temperature reaching 34.3°C, seven degrees above normal. This sharp rise is attributed to clear skies and dry weather, with temperatures expected to climb further. Night temperatures are also trending upwards, settling at 18.2°C, five degrees above normal.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/mercury-at-34-3c-7c-above-normal/articleshow/129113998.cms",
+      "image": "https://static.toiimg.com/photo/msid-129122271,imgsize-1130004.cms",
+      "published_at": "2026-03-06T00:02:42.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఢిల్లీ సీజన్‌లో అత్యంత వేడిగా ఉండే రోజును 34.3°c, సాధారణం కంటే 7°c వద్ద నమోదు చేసింది; రాత్రి ఉష్ణోగ్రతలు కూడా పెరుగుతాయి",
+      "summary_te": "ఢిల్లీ గరిష్ఠ ఉష్ణోగ్రత 34.3°Cకి చేరుకోవడంతో సీజన్‌లో అత్యంత వేడిగా ఉండే రోజును అనుభవించింది, ఇది సాధారణం కంటే ఏడు డిగ్రీలు ఎక్కువ. ఈ పదునైన పెరుగుదలకు స్పష్టమైన ఆకాశం మరియు పొడి వాతావరణం కారణంగా చెప్పబడింది, ఉష్ణోగ్రతలు మరింత పెరిగే అవకాశం ఉంది. రాత్రి ఉష్ణోగ్రతలు కూడా పైకి ట్రెండ్ అవుతున్నాయి, సాధారణం కంటే ఐదు డిగ్రీలు అధికంగా 18.2°C వద్ద స్థిరపడతాయి.",
+      "translated": true
+    },
+    {
+      "id": "72da84c4b8162edd022d5cf5024e7144",
+      "title": "10 Indians aboard oil tanker targeted by Iran’s military in Gulf waters",
+      "summary": "A Bahamas-flagged crude oil tanker was targeted by an Iranian remote-controlled boat laden with explosives while anchored near Iraq’s Khor al Zubair port.",
+      "url": "https://www.hindustantimes.com/india-news/10-indians-aboard-oil-tanker-targeted-by-iran-s-military-in-gulf-waters-101772754099666.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/IRAN-CRISIS-SUBMARINE-SRI-LANKA-4_1772754486492_1772754499083.JPG",
+      "published_at": "2026-03-05T23:49:39.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "గల్ఫ్ జలాల్లో ఇరాన్ సైన్యం లక్ష్యంగా చమురు ట్యాంకర్‌లో 10 మంది భారతీయులు",
+      "summary_te": "ఇరాక్‌లోని ఖోర్ అల్ జుబైర్ నౌకాశ్రయానికి సమీపంలో లంగరు వేసి ఉండగా, పేలుడు పదార్థాలతో కూడిన ఇరానియన్ రిమోట్-నియంత్రిత పడవ ద్వారా బహామాస్ జెండాతో ముడి చమురు ట్యాంకర్ లక్ష్యంగా చేసుకుంది.",
+      "translated": true
+    },
+    {
+      "id": "7dbca478555039275668f61f059207b3",
+      "title": "Holi horror: Delhi man beaten to death after balloon water splashes woman",
+      "summary": "In a tragic turn of events during the vibrant Holi festivities in Uttam Nagar, Delhi, a simple splash from a water balloon ignited a deadly clash between two communities. The confrontation resulted in the brutal beating of 26-year-old Tarun, culminating in his tragic death.",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/man-beaten-to-death-after-holi-balloon-splash/articleshow/129121639.cms",
+      "image": "https://static.toiimg.com/photo/msid-129122056,imgsize-68818.cms",
+      "published_at": "2026-03-05T23:42:12.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "హోలీ భీభత్సం: బెలూన్ నీరు చల్లినందుకు ఢిల్లీ వ్యక్తిని కొట్టి చంపాడు",
+      "summary_te": "ఢిల్లీలోని ఉత్తమ్ నగర్‌లో హోలీ సంబరాలు జరుగుతున్న సమయంలో ఒక విషాదకరమైన సంఘటనలో, నీటి బెలూన్ నుండి ఒక సాధారణ స్ప్లాష్ రెండు వర్గాల మధ్య ఘోరమైన ఘర్షణకు దారితీసింది. ఈ ఘర్షణ 26 ఏళ్ల తరుణ్‌ను దారుణంగా కొట్టి, అతని విషాద మరణానికి దారితీసింది.",
+      "translated": true
+    },
+    {
+      "id": "89a7c531f2b0222de94cbbeaa3b02b50",
+      "title": "India condoles death of Iran Supreme Leader Khamenei, killed in US-Israel strike: ‘Pray for peace for the departed soul’",
+      "summary": "Foreign secretary Vikram Misri visited the Iranian embassy on Thursday afternoon and signed the condolence book on behalf of the government.",
+      "url": "https://www.hindustantimes.com/india-news/india-condoles-death-of-iran-supreme-leader-khamenei-killed-in-us-israel-strike-pray-for-peace-for-the-departed-soul-101772753584579.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/Water-story-14_1772753950297_1772753962587.jpg",
+      "published_at": "2026-03-05T23:40:44.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "అమెరికా-ఇజ్రాయెల్ దాడుల్లో మరణించిన ఇరాన్ సుప్రీం లీడర్ ఖమేనీ మృతికి భారతదేశం సంతాపం తెలిపింది: 'మరణం పొందిన ఆత్మకు శాంతి చేకూరాలని ప్రార్థించండి'",
+      "summary_te": "విదేశాంగ కార్యదర్శి విక్రమ్ మిస్రీ గురువారం మధ్యాహ్నం ఇరాన్ రాయబార కార్యాలయాన్ని సందర్శించి ప్రభుత్వం తరపున సంతాప పుస్తకంపై సంతకం చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "1cdd954199712b655a6e1f8b7e6e94fc",
+      "title": "Sanju Samson scripts history, takes India to T20 World Cup final",
+      "summary": "Sanju Samson smashed a brilliant 89 off 42 balls in the T20 World Cup 2026 semi-final against England. His innings equalled Virat Kohli's record for the highest score by an Indian in a knockout match. Samson also set a new record for most sixes by an Indian in a single T20 World Cup tournament.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/record-breaker-sanju-samson-scripts-history-takes-india-to-t20-world-cup-final/articleshow/129105065.cms",
+      "image": "https://static.toiimg.com/photo/msid-129105011,imgsize-105966.cms",
+      "published_at": "2026-03-05T23:31:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "సంజు శాంసన్ చరిత్ర సృష్టించాడు, T20 ప్రపంచ కప్ ఫైనల్‌కు భారత్‌ను తీసుకెళ్లాడు",
+      "summary_te": "ఇంగ్లండ్‌తో జరిగిన టీ20 ప్రపంచకప్ 2026 సెమీ-ఫైనల్‌లో సంజూ శాంసన్ 42 బంతుల్లో 89 పరుగులు చేశాడు. అతని ఇన్నింగ్స్ నాకౌట్ మ్యాచ్‌లో అత్యధిక స్కోరు సాధించిన భారతీయుడిగా విరాట్ కోహ్లీ రికార్డును సమం చేసింది. ఒకే టీ20 ప్రపంచకప్ టోర్నీలో అత్యధిక సిక్సర్లు బాదిన భారత ఆటగాడిగా శాంసన్ సరికొత్త రికార్డు సృష్టించాడు.",
+      "translated": true
+    },
     {
       "id": "5f84efa0b138bf385e4d89b8b56044e8",
       "title": "New L-G for Delhi; Bengal, Tamil Nadu, Bihar get new governors in major rejig",
@@ -16,6 +198,20 @@
       "language": "en",
       "title_te": "ఢిల్లీకి కొత్త L-G; బెంగాల్, తమిళనాడు, బీహార్‌లకు ప్రధాన పునర్వ్యవస్థీకరణలో కొత్త గవర్నర్లు వచ్చాయి",
       "summary_te": "ఢిల్లీ కొత్త లెఫ్టినెంట్ గవర్నర్‌గా మాజీ దౌత్యవేత్త తరంజిత్ సింగ్ సంధు నియమితులయ్యారు.",
+      "translated": true
+    },
+    {
+      "id": "825e3e8fa144af5f3a01e0d29ecabf03",
+      "title": "Bihar: JDU cadre bet on Nishant to fill in father Nitish Kumar's shoes",
+      "summary": "Bihar's ruling party, JDU, anticipates Nishant Kumar's political debut as his father, Nitish Kumar, prepares to step down. This move aims to reassure party workers and maintain the JDU's traditional support base, particularly among the Kurmi community. Nishant, an engineering graduate, is reportedly being considered for a Deputy Chief Minister role, signaling continuity as Nitish shifts to the Rajya Sabha.",
+      "url": "https://timesofindia.indiatimes.com/india/bihar-jdu-cadre-bet-on-nishant-to-fill-in-father-nitish-kumars-shoes/articleshow/129121055.cms",
+      "image": "https://static.toiimg.com/photo/msid-129121136,imgsize-37502.cms",
+      "published_at": "2026-03-05T23:21:57.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "బీహార్ : తండ్రి నితీష్ కుమార్ బూట్లు నింపేందుకు నిశాంత్ పై జేడీయూ క్యాడర్ పందెం కాసింది",
+      "summary_te": "బీహార్ అధికార పార్టీ, JDU, నిశాంత్ కుమార్ రాజకీయ అరంగేట్రం ఊహించింది, అతని తండ్రి నితీష్ కుమార్ పదవీ విరమణకు సిద్ధమవుతున్నారు. ఈ చర్య పార్టీ కార్యకర్తలకు భరోసా ఇవ్వడం మరియు JDU యొక్క సాంప్రదాయిక మద్దతు స్థావరాన్ని, ముఖ్యంగా కుర్మీ కమ్యూనిటీని కొనసాగించడం లక్ష్యంగా పెట్టుకుంది. ఇంజినీరింగ్ గ్రాడ్యుయేట్ అయిన నిశాంత్‌ను ఉప ముఖ్యమంత్రి పాత్ర కోసం పరిశీలిస్తున్నట్లు సమాచారం, నితీష్ రాజ్యసభకు మారడంతో కొనసాగింపును సూచిస్తుంది.",
       "translated": true
     },
     {
@@ -71,7 +267,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'25 ఏళ్లలో ఒక్కరోజు కూడా సెలవు తీసుకోలేదు': ప్రధాని మోదీ పని తీరును ప్రశంసించిన మార్క్ కార్నీ",
-      "summary_te": "పౌర సంక్షేమం కోసం భారత ప్రధాని నరేంద్ర మోదీ అంకితభావాన్ని కెనడా ప్రధాని మార్క్ కార్నీ కొనియాడారు. సాధారణ భారతీయులకు నేరుగా కార్యక్రమాలను అందించడంపై మోదీ దృష్టిని కార్నీ హైలైట్ చేశారు. 25 ఏళ్లుగా తాను ఒక్కరోజు కూడా సెలవు తీసుకోలేదని మోదీ కనికరంలేని పని తీరును కూడా గుర్తు చేశారు. ద్వైపాక్షిక సంబంధాలను బలోపేతం చేసేందుకు ఉద్దేశించిన ఇటీవలి సమావేశాలను అనుసరించి కార్నీ వ్యాఖ్యలు చేశారు.",
+      "summary_te": "పౌర సంక్షేమం కోసం భారత ప్రధాని నరేంద్ర మోదీ అంకితభావాన్ని కెనడా ప్రధాని మార్క్ కార్నీ కొనియాడారు. సాధారణ భారతీయులకు నేరుగా కార్యక్రమాలను అందించడంపై మోదీ దృష్టిని కార్నీ హైలైట్ చేశారు. 25 ఏళ్లలో తాను ఒక్కరోజు కూడా సెలవు తీసుకోలేదని, మోదీ కనికరంలేని పని నీతిని కూడా ఆయన గుర్తించారు. ద్వైపాక్షిక సంబంధాలను బలోపేతం చేసేందుకు ఉద్దేశించిన ఇటీవలి సమావేశాలను అనుసరించి కార్నీ వ్యాఖ్యలు చేశారు.",
       "translated": true
     },
     {
@@ -86,20 +282,6 @@
       "language": "en",
       "title_te": "యుద్ధం ప్రారంభమైనప్పటి నుంచి 30కి పైగా ఇరాన్ నౌకలను ధ్వంసం చేసినట్లు అమెరికా తెలిపింది",
       "summary_te": "కొనసాగుతున్న యుద్ధంలో యునైటెడ్ స్టేట్స్ 30 కంటే ఎక్కువ ఇరాన్ నౌకలను ముంచింది, అయితే టెహ్రాన్ దళాల బాలిస్టిక్ క్షిపణి మరియు డ్రోన్ దాడులు గణనీయంగా తగ్గాయని యుఎస్ ఉన్నత స్థాయి సైనిక అధికారి గురువారం తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "cd3216264eb1ba30093946c4504c6c8f",
-      "title": "Gulf conflict: LNG squeeze may impact urea output ahead of kharif season",
-      "summary": "India's fertilizer supply faces potential disruptions for the upcoming kharif season if the Strait of Hormuz blockade persists. While current stocks are healthy, reduced LNG imports for urea production could impact output. Rising global prices due to shipping route blockades may also increase government subsidy expenses.",
-      "url": "https://timesofindia.indiatimes.com/india/gulf-conflict-lng-squeeze-may-impact-urea-output-ahead-of-kharif-season/articleshow/129120254.cms",
-      "image": "https://static.toiimg.com/photo/msid-129120511,imgsize-59012.cms",
-      "published_at": "2026-03-05T22:56:49.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "గల్ఫ్ వివాదం: LNG స్క్వీజ్ ఖరీఫ్ సీజన్‌కు ముందు యూరియా ఉత్పత్తిని ప్రభావితం చేయవచ్చు",
-      "summary_te": "హార్ముజ్ జలసంధి దిగ్బంధనం కొనసాగితే రాబోయే ఖరీఫ్ సీజన్‌లో భారతదేశ ఎరువుల సరఫరాకు అంతరాయాలు ఎదురవుతాయి. ప్రస్తుత స్టాక్స్ ఆరోగ్యంగా ఉన్నప్పటికీ, యూరియా ఉత్పత్తికి తగ్గిన LNG దిగుమతులు ఉత్పత్తిని ప్రభావితం చేయవచ్చు. షిప్పింగ్ రూట్ బ్లాక్‌ల కారణంగా పెరుగుతున్న అంతర్జాతీయ ధరలు ప్రభుత్వ సబ్సిడీ ఖర్చులను కూడా పెంచవచ్చు.",
       "translated": true
     },
     {
@@ -126,8 +308,8 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "'బాధ్యతల విరమణ': శ్రీలంక జలాల్లో ఇరాన్ ఐఆర్ఐఎస్ దేనా మునిగిపోవడంపై ప్రభుత్వం 'నిశ్శబ్దం'పై కాంగ్రెస్ నిందలు వేసింది.",
-      "summary_te": "భారత్‌లో జరిగిన ఇంటర్నేషనల్ ఫ్లీట్ రివ్యూ మరియు మిలాన్ 2026లో పాల్గొన్నందున ఫ్రిగేట్‌లోని నావికులు ‘భారతదేశానికి గౌరవనీయ అతిథులు’ అని కాంగ్రెస్ పేర్కొంది.",
+      "title_te": "'బాధ్యతల విరమణ': ఇరాన్ యొక్క IRIS దేనా శ్రీలంక జలాల్లో మునిగిపోవడంపై 'నిశ్శబ్దం' కోసం కాంగ్రెస్ ప్రభుత్వాన్ని నిందించింది",
+      "summary_te": "భారత్‌లో జరిగిన ఇంటర్నేషనల్ ఫ్లీట్ రివ్యూ మరియు మిలాన్ 2026లో పాల్గొన్నందున ఈ నౌకలోని నావికులు 'భారత గౌరవనీయ అతిథులు' అని కాంగ్రెస్ పేర్కొంది.",
       "translated": true
     },
     {
@@ -201,20 +383,6 @@
       "translated": true
     },
     {
-      "id": "669c44b9092d8b4112dee680e0402e3e",
-      "title": "Priyanka Chopra joins Robert Downey Jr as Oscar presenter",
-      "summary": "Priyanka Chopra is set to present at the upcoming Oscars on March 15. The star-studded event will also feature presenters like Gwyneth Paltrow, Robert Downey Jr., Anne Hathaway, and Will Arnett. 'Sinners' leads this year's nominations with a record 16 nods, while performances of nominated songs 'Golden' and 'I Lied to You' are confirmed.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/oscars-2026-priyanka-chopra-joins-robert-downey-jr-and-gwyneth-paltrow-as-presenter-for-award-show/articleshow/129115548.cms",
-      "image": "https://static.toiimg.com/photo/msid-129116998,imgsize-98744.cms",
-      "published_at": "2026-03-05T22:10:23.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ప్రియాంక చోప్రా రాబర్ట్ డౌనీ జూనియర్‌తో ఆస్కార్ ప్రెజెంటర్‌గా చేరింది",
-      "summary_te": "ప్రియాంక చోప్రా మార్చి 15న జరగనున్న ఆస్కార్స్‌లో ప్రదర్శించనున్నారు. స్టార్-స్టడెడ్ ఈవెంట్‌లో గ్వినేత్ పాల్ట్రో, రాబర్ట్ డౌనీ జూనియర్, అన్నే హాత్వే మరియు విల్ ఆర్నెట్ వంటి సమర్పకులు కూడా పాల్గొంటారు. 'సిన్నర్స్' ఈ సంవత్సరం నామినేషన్లలో రికార్డు స్థాయిలో 16 నోడ్స్‌తో ముందుంది, అయితే నామినేట్ చేయబడిన 'గోల్డెన్' మరియు 'ఐ లైడ్ టు యు' పాటల ప్రదర్శనలు ధృవీకరించబడ్డాయి.",
-      "translated": true
-    },
-    {
       "id": "78fa6d4ad7f41b96c23c134b149620aa",
       "title": "Ashok Gehlot slams Centre’s silence on U.S. attack on Iranian warship in Indian Ocean",
       "summary": "An emerging superpower should not remain a mute spectator to such violent incidents in its own region, says Mr. Gehlot; if we are the true protectors of the Indian Ocean, we must put our autonomy and safety of our guests above all else, he adds",
@@ -226,34 +394,6 @@
       "language": "en",
       "title_te": "హిందూ మహాసముద్రంలో ఇరాన్ యుద్ధనౌకపై అమెరికా దాడిపై కేంద్రం మౌనం వహించడాన్ని అశోక్ గెహ్లాట్ తప్పుబట్టారు.",
       "summary_te": "అభివృద్ధి చెందుతున్న అగ్రరాజ్యం తన సొంత ప్రాంతంలో ఇటువంటి హింసాత్మక సంఘటనలకు మూగ ప్రేక్షకుడిగా ఉండకూడదు, మిస్టర్ గెహ్లాట్ చెప్పారు; మనం హిందూ మహాసముద్రం యొక్క నిజమైన రక్షకులమైతే, మన స్వయంప్రతిపత్తి మరియు మన అతిథుల భద్రతను అన్నిటికంటే మించి ఉంచాలి, అతను జతచేస్తాడు",
-      "translated": true
-    },
-    {
-      "id": "b52659f5324d94f9a042d176c00565d9",
-      "title": "Middle East tensions: PM Modi, Emmanuel Macron discuss need for dialogue & diplomacy",
-      "summary": "Prime Minister Modi held discussions with French President Macron, emphasizing a return to dialogue and diplomacy for the West Asia region. Both leaders committed to close engagement and coordinated efforts to restore peace and stability. Concurrently, External Affairs Minister S Jaishankar engaged with his counterparts from Saudi Arabia and Oman, underscoring India's active diplomatic outreach.",
-      "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-pm-modi-emmanuel-macron-discuss-need-for-dialogue-diplomacy/articleshow/129116822.cms",
-      "image": "https://static.toiimg.com/photo/msid-129117102,imgsize-45108.cms",
-      "published_at": "2026-03-05T22:05:39.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ ఉద్రిక్తతలు: చర్చలు & దౌత్యం ఆవశ్యకత గురించి చర్చించిన ప్రధాని మోదీ, ఇమ్మాన్యుయేల్ మాక్రాన్",
-      "summary_te": "పశ్చిమాసియా ప్రాంతంలో చర్చలు మరియు దౌత్యానికి తిరిగి రావాలని నొక్కిచెప్పిన ప్రధాని మోదీ ఫ్రాన్స్ అధ్యక్షుడు మాక్రాన్‌తో చర్చలు జరిపారు. ఇరువురు నాయకులు సన్నిహిత నిశ్చితార్థానికి కట్టుబడి శాంతి మరియు స్థిరత్వాన్ని పునరుద్ధరించడానికి సమన్వయ ప్రయత్నాలకు కట్టుబడి ఉన్నారు. అదే సమయంలో, విదేశాంగ మంత్రి S జైశంకర్ సౌదీ అరేబియా మరియు ఒమన్ నుండి తన సహచరులతో నిమగ్నమై, భారతదేశం యొక్క క్రియాశీల దౌత్యపరమైన విస్తరణను నొక్కిచెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "bfda4af7e575c48fd1c80478ab5249f2",
-      "title": "Iran warns US will ‘regret’ sub attack on IRIS Dena; 2nd warship seeks refuge in Sri Lanka",
-      "summary": "Iran's foreign minister has warned of severe repercussions after a US submarine torpedoed the Iranian warship IRIS Dena in international waters, resulting in 87 sailor deaths. The Indian Navy joined the search and rescue efforts following a distress call. Amidst rising tensions, another Iranian warship is seeking refuge in Sri Lankan waters.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-warns-us-will-regret-sub-attack-on-iris-dena-2nd-warship-seeks-refuge-in-sri-lanka/articleshow/129116531.cms",
-      "image": "https://static.toiimg.com/photo/msid-129116636,imgsize-67592.cms",
-      "published_at": "2026-03-05T22:02:49.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్ US IRIS దేనాపై ఉప దాడికి 'పశ్చాత్తాపపడుతుందని' హెచ్చరించింది; 2వ యుద్ధనౌక శ్రీలంకలో ఆశ్రయం పొందింది",
-      "summary_te": "ఇరాన్ యుద్ధనౌక IRIS దేనాను అంతర్జాతీయ జలాల్లో US జలాంతర్గామి టార్పెడో చేయడంతో తీవ్ర పరిణామాలు ఉంటాయని ఇరాన్ విదేశాంగ మంత్రి హెచ్చరించారు, ఫలితంగా 87 మంది నావికులు మరణించారు. భారత నావికాదళం విపత్తు కాల్‌ని అనుసరించి శోధన మరియు సహాయక చర్యలలో చేరింది. పెరుగుతున్న ఉద్రిక్తతల మధ్య మరో ఇరాన్ యుద్ధనౌక శ్రీలంక జలాల్లో ఆశ్రయం పొందుతోంది.",
       "translated": true
     },
     {
@@ -282,20 +422,6 @@
       "language": "en",
       "title_te": "మాటువాస్‌ను 'గందరగోళ పరిస్థితి'లోకి నెట్టారు, SIR ఉద్దేశపూర్వకంగా ఓటరు జాబితా నుండి మినహాయించారు, మమత",
       "summary_te": "పౌరసత్వం పేరుతో రాజకీయ క్రీడలు ఆడుతున్నారని, వారి గుర్తింపుపై ప్రశ్నలు తలెత్తుతున్నాయని పశ్చిమ బెంగాల్ ముఖ్యమంత్రి మమతా బెనర్జీ ఆరోపించారు.",
-      "translated": true
-    },
-    {
-      "id": "c643c75e7efef52e649f0ec30b3c1745",
-      "title": "Adah, Chandan, Chahatt, Nyrraa discuss unstable incomes and financial planning",
-      "summary": "Behind the glamour of red carpets, Friday releases and social media fame lies a far more complex financial reality for actors. In exclusive conversations with ETimes, actors Adah Sharma, Chahatt Khanna, Nyrraa M Banerji and Chandan K Anand spoke candidly about the economics of surviving in the entertainment industry — from financial misconceptions and savings strategies to the hidden costs of building a brand.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/adah-sharma-chandan-k-anand-chahatt-khanna-nyrraa-m-banerji-discuss-unstable-incomes-financial-planning-and-surviving-the-industry-exclusive/articleshow/129115305.cms",
-      "image": "https://static.toiimg.com/photo/msid-129115305,imgsize-122058.cms",
-      "published_at": "2026-03-05T21:52:40.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "అదా, చందన్, చాహత్, నైరా అస్థిర ఆదాయాలు మరియు ఆర్థిక ప్రణాళిక గురించి చర్చిస్తారు",
-      "summary_te": "రెడ్ కార్పెట్‌ల గ్లామర్ వెనుక, శుక్రవారం విడుదలలు మరియు సోషల్ మీడియా కీర్తి నటీనటుల కోసం చాలా క్లిష్టమైన ఆర్థిక వాస్తవికతను కలిగి ఉంది. ఈటీమ్స్‌తో ప్రత్యేక సంభాషణలలో, నటులు అదా శర్మ, చాహత్ ఖన్నా, నైరా ఎం బెనర్జీ మరియు చందన్ కె ఆనంద్ వినోద పరిశ్రమలో మనుగడ సాగించే ఆర్థికశాస్త్రం గురించి - ఆర్థిక అపోహలు మరియు పొదుపు వ్యూహాల నుండి బ్రాండ్‌ను నిర్మించడానికి దాచిన ఖర్చుల వరకు నిజాయితీగా మాట్లాడారు.",
       "translated": true
     },
     {
@@ -351,7 +477,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'ఎల్లప్పుడూ ఉభయ సభల్లో ఉండాలని కోరుకుంటున్నాను': నితీష్ కుమార్ రాజ్యసభ పత్రాలను దాఖలు చేశారు",
-      "summary_te": "నితీష్ కుమార్ రాజ్యసభకు దాఖలు చేశారు, కుటుంబం మరియు పార్టీ అభ్యంతరాలు ఉన్నప్పటికీ తన బీహార్ సీఎం పదవీకాలం ముగియవచ్చని సంకేతాలు ఇచ్చారు. అమిత్ షా మద్దతుతో అతని చర్య జెడి(యు)లో అశాంతికి దారితీసింది, కార్మికుల నిరసనతో. RJD రాజకీయ ఎత్తుగడలను విమర్శిస్తున్నందున, బహుశా దళిత నాయకుడు లేదా JD(U) డిప్యూటీ CM, వారసుడు కోసం NDAలో చర్చలు జరుగుతున్నాయి.",
+      "summary_te": "నితీష్ కుమార్ రాజ్యసభకు దాఖలు చేశారు, కుటుంబం మరియు పార్టీ అభ్యంతరాలు ఉన్నప్పటికీ తన బీహార్ సీఎం పదవీకాలం ముగిసే అవకాశం ఉందని సంకేతాలు ఇచ్చారు. అమిత్ షా మద్దతుతో అతని చర్య జెడి(యు)లో అశాంతికి దారితీసింది, కార్మికుల నిరసనతో. RJD రాజకీయ ఎత్తుగడలను విమర్శిస్తున్నందున, బహుశా దళిత నాయకుడు లేదా JD(U) డిప్యూటీ CM, వారసుడు కోసం NDAలో చర్చలు జరుగుతున్నాయి.",
       "translated": true
     },
     {
@@ -425,20 +551,6 @@
       "translated": true
     },
     {
-      "id": "d4b9856ad85e6bff7189aac08ce59793",
-      "title": "Rajya Sabha polls: Political tie-ups against NDA face acid test in Bihar, Odisha",
-      "summary": "Rajya Sabha nominations have set the stage for political contests in Bihar and Odisha, with new alignments tested. While Maharashtra's NCP factions remain divided, the BJP-led NDA is strategically nominating diverse candidates to broaden its social coalition.",
-      "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-polls-political-tie-ups-against-nda-face-acid-test-in-bihar-odisha/articleshow/129114057.cms",
-      "image": "https://static.toiimg.com/photo/msid-129114132,imgsize-150662.cms",
-      "published_at": "2026-03-05T20:51:29.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "రాజ్యసభ ఎన్నికలు: బీహార్, ఒడిశాలో ఎన్డీయేకు వ్యతిరేకంగా రాజకీయ బంధం యాసిడ్ పరీక్షను ఎదుర్కొంటుంది",
-      "summary_te": "రాజ్యసభ నామినేషన్లు బీహార్ మరియు ఒడిశాలో రాజకీయ పోటీలకు వేదికగా మారాయి, కొత్త అమరికలు పరీక్షించబడ్డాయి. మహారాష్ట్రలోని ఎన్‌సిపి వర్గాలు చీలిపోయినప్పటికీ, బిజెపి నేతృత్వంలోని ఎన్‌డిఎ తన సామాజిక సంకీర్ణాన్ని విస్తృతం చేయడానికి వ్యూహాత్మకంగా విభిన్న అభ్యర్థులను నామినేట్ చేస్తోంది.",
-      "translated": true
-    },
-    {
       "id": "455deea6b6c05dd94388f0139921bb84",
       "title": "Kavitha to launch new political party, unveils 'Telangana First' agenda",
       "summary": "Kavitha to launch new political party, unveils 'Telangana First' agenda",
@@ -490,8 +602,8 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "రాజ్‌భవన్‌లలో భారీ పునర్వ్యవస్థీకరణ: ఢిల్లీ ఎల్‌జీ అనే మాజీ రాయబారి సంధు, టీఎన్‌జీవో రవి బెంగాల్‌కు తరలివెళ్లారు.",
-      "summary_te": "ఒక ముఖ్యమైన గవర్నర్ పునర్వ్యవస్థీకరణలో C V ఆనంద బోస్ స్థానంలో RN రవి పశ్చిమ బెంగాల్ కొత్త గవర్నర్‌గా నియమితులయ్యారు. రాష్ట్ర ఎన్నికలకు ముందు జరిగిన ఈ చర్య ముఖ్యమంత్రి మమతా బెనర్జీ నుండి తీవ్ర విమర్శలను ఎదుర్కొంది. వివిధ రాష్ట్రాలు మరియు కేంద్ర పాలిత ప్రాంతాలలో ఇతర కీలక నియామకాలతో పాటుగా తరంజిత్ సింగ్ సంధు ఢిల్లీ కొత్త L-G గా మారబోతున్నారు.",
+      "title_te": "రాజ్‌భవన్‌లలో భారీ పునర్వ్యవస్థీకరణ: ఢిల్లీ ఎల్‌జీగా మాజీ రాయబారి సంధు, టీఎన్‌జీవో రవి బెంగాల్‌కు తరలివెళ్లారు.",
+      "summary_te": "పశ్చిమ బెంగాల్ కొత్త గవర్నర్‌గా సి వి ఆనంద బోస్ స్థానంలో ఆర్ ఎన్ రవి నియమితులయ్యారు. రాష్ట్ర ఎన్నికలకు ముందు జరిగిన ఈ చర్య ముఖ్యమంత్రి మమతా బెనర్జీ నుండి తీవ్ర విమర్శలను ఎదుర్కొంది. వివిధ రాష్ట్రాలు మరియు కేంద్ర పాలిత ప్రాంతాలలో ఇతర కీలక నియామకాలతో పాటుగా తరంజిత్ సింగ్ సంధు ఢిల్లీ కొత్త L-G గా మారబోతున్నారు.",
       "translated": true
     },
     {
@@ -548,20 +660,6 @@
       "language": "en",
       "title_te": "కర్ణాటక ప్రభుత్వం సీనియర్ పోలీసు అధికారులకు ఆర్డర్లీ వ్యవస్థను సవరిస్తుంది",
       "summary_te": "పోలీస్ డిపార్ట్‌మెంట్‌లో ప్రస్తుతం ఉన్న ఆర్డర్‌లీ వ్యవస్థను సవరించి, పోలీసు సిబ్బందిని ఆర్డర్లీలుగా మోహరించే స్థానంలో ప్రత్యామ్నాయ ఏర్పాటును ప్రవేశపెట్టాలనే రాష్ట్ర ప్రభుత్వ నిర్ణయాన్ని అమలు చేస్తూ కర్ణాటక డైరెక్టర్ జనరల్-ఇన్‌స్పెక్టర్ జనరల్ ఆఫ్ పోలీస్ (డీజీ-ఐజీపీ) తాజా ఉత్తర్వులు జారీ చేశారు. ప్రభుత్వ ఉత్తర్వులతో ముగిసిన ఈ ఉత్తర్వు జనవరి 162, 2012 నాటి ప్రభుత్వ ఉత్తర్వులతో ముగిసింది. సివిల్ పోలీస్‌లోని (అటెండెంట్) పోస్టులు, కర్ణాటక స్టేట్ రిజర్వ్ పోలీస్ (KSRP)లో సమాన సంఖ్యలో ఉన్న పోస్టుల రద్దుకు లోబడి ఉంటాయి. సవరించిన విధానం ప్రకారం, పోలీసు సిబ్బంది ఇకపై సీనియర్ అధికారులకు ఆర్డర్లీలుగా కేటాయించబడరు. బదులుగా, అనుచరులు ప్రాథమికంగా అవుట్‌సోర్సింగ్ ద్వారా నిమగ్నమై ఉంటారు- కనీస వేతన నిబంధనలకు అనుగుణంగా మరియు మార్చి 8, 2017 ప్రభుత్వ ఉత్తర్వులో నిర్దేశించిన షరతులకు లోబడి వేతనాలు నిర్ణయించబడతాయి. సవరించిన నిర్మాణంకొత్త ఏర్పాటు ప్రకారం, డైరెక్టర్ జనరల్ ఆఫ్ పోలీస్ (DGPలు) మరియు అదనపు డైరెక్టర్ జనరల్ ఆఫ్ పోలీస్ (ADGPలు, పోలీసు ఇన్‌స్పెక్టివ్‌లు- ముగ్గురు అనుచరులు- ముగ్గురు అనుచరులు) అనుమతించబడతారు. అనుచరులు, డిప్యూటీ ఇన్‌స్పెక్టర్ జనరల్ ఆఫ్ పోలీస్ (డిఐజి), సూపరింటెండెంట్ ఆఫ్ పోలీస్ (ఎస్‌పి) మరియు కమాండెంట్‌లు ఒక్కొక్కరు ఒక్కో అనుచరుడు. DG&IGP విషయంలో, 2017 ఆర్డర్ ప్రకారం ఆరు అనుచరుల పోస్ట్‌లు \"ద్వంద్వ ప్రయోజనం\" షరతుతో కొనసాగుతాయి. ఔట్‌సోర్సింగ్ సిబ్బందిని నిమగ్నం చేసే సీనియర్ అధికారులకు చెల్లించాల్సిన నెలవారీ ఆర్డర్ అలవెన్స్‌ను కూడా ప్రభుత్వం సవరించింది. అప్‌డేట్ చేయబడిన రేట్లు ఒక్కో ఆర్డర్‌లీకి ₹13,930 నుండి ₹19,900 వరకు ఉంటాయి, ర్యాంక్ ఆధారంగా, మొత్తం నెలవారీ సీలింగ్‌లు తదనుగుణంగా పేర్కొనబడ్డాయి. ప్రస్తుతం ఆర్డర్‌లీలుగా నియమించబడిన పోలీసు సిబ్బంది అటువంటి విధుల నుండి రిలీవ్ అయ్యారని నిర్ధారించిన తర్వాత మాత్రమే అనుచరుల భత్యం చెల్లింపు ప్రాసెస్ చేయబడుతుంది. సమ్మతి నివేదికలను సమర్పించాలని యూనిట్ హెడ్‌లను ఆదేశించారు. ప్రస్తుతం సివిల్ పోలీస్ యూనిట్‌లలో ఫాలోయర్ పోస్టులు లేవు మరియు రిక్రూట్‌మెంట్ నియమాలు ఇంకా ఖరారు కానందున, KSRP యూనిట్ల నుండి అనుచరులను తిరిగి కేటాయించడం ద్వారా తాత్కాలిక ఏర్పాట్లు చేయబడ్డాయి. సాధారణ పోలీసు సిబ్బందిని ఆర్డర్‌లీలుగా కేటాయించే దీర్ఘకాల ఆచారం తక్షణ ప్రభావంతో నిలిపివేయబడుతుందని ఆదేశం పునరుద్ఘాటిస్తుంది. మానవశక్తి విస్తరణను ఆప్టిమైజ్ చేయడానికి మరియు శిక్షణ పొందిన పోలీసు సిబ్బందిని వ్యక్తిగత సిబ్బంది విధులకు కాకుండా కోర్ పోలీసింగ్ విధులకు వినియోగించేలా చూసేందుకు ఉద్దేశించిన రాష్ట్ర పోలీసులో విస్తృత పరిపాలనా పునర్నిర్మాణంలో ఈ సంస్కరణ భాగం.",
-      "translated": true
-    },
-    {
-      "id": "b4fa38430b396b47f7d6bbdc5711334e",
-      "title": "Iran conflict: Rising operation costs, fares add to West Asia flight nightmare",
-      "summary": "West Asian conflict is causing airlines, especially Indian ones, significant operational challenges and fare hikes due to Pakistan airspace closure. Air India seeks approval for a new Central Asia route to bypass war zones and mitigate rising costs, including soaring insurance premiums and fuel prices. This crisis is leading to a demand-supply mismatch, drastically increasing ticket prices for passengers.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/iran-conflict-rising-operation-costs-fares-add-to-west-asia-flight-nightmare/articleshow/129110938.cms",
-      "image": "https://static.toiimg.com/photo/msid-129111070,imgsize-17650.cms",
-      "published_at": "2026-03-05T19:30:05.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్ వివాదం: పెరుగుతున్న ఆపరేషన్ ఖర్చులు, ఛార్జీలు పశ్చిమాసియా విమాన పీడకలకి తోడ్పడతాయి",
-      "summary_te": "పాక్ గగనతలం మూసివేత కారణంగా పశ్చిమాసియా వైరుధ్యం విమానయాన సంస్థలకు, ముఖ్యంగా భారతీయులకు, గణనీయమైన కార్యాచరణ సవాళ్లను మరియు ఛార్జీల పెంపునకు కారణమవుతోంది. ఎయిర్ ఇండియా యుద్ధ ప్రాంతాలను దాటవేయడానికి మరియు పెరుగుతున్న బీమా ప్రీమియంలు మరియు ఇంధన ధరలతో సహా పెరుగుతున్న ఖర్చులను తగ్గించడానికి కొత్త మధ్య ఆసియా మార్గం కోసం ఆమోదం కోరింది. ఈ సంక్షోభం డిమాండ్-సరఫరా అసమతుల్యతకు దారి తీస్తోంది, ప్రయాణికులకు టిక్కెట్ ధరలను విపరీతంగా పెంచుతోంది.",
       "translated": true
     },
     {
@@ -901,20 +999,6 @@
       "translated": true
     },
     {
-      "id": "5074bd72ca5051a0078b93c85f04f11d",
-      "title": "Internal quota issue hangs fire with discussion incomplete in Cabinet",
-      "summary": "Siddaramaiah told his colleagues that a decision could be taken at a special cabinet that would be called shortly",
-      "url": "https://www.thehindu.com/news/national/karnataka/internal-quota-issue-hangs-fire-with-discussion-incomplete-in-cabinet/article70708763.ece",
-      "image": "https://th-i.thgim.com/public/incoming/qtef73/article70708868.ece/alternates/LANDSCAPE_1200/DSC_5222.JPG",
-      "published_at": "2026-03-05T18:26:10.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "క్యాబినెట్‌లో చర్చ అసంపూర్తిగా ఉండటంతో అంతర్గత కోటా సమస్య వేలాడుతున్నది",
-      "summary_te": "త్వరలో నిర్వహించనున్న ప్రత్యేక కేబినెట్‌లో నిర్ణయం తీసుకోవచ్చని సిద్ధరామయ్య తన సహచరులకు చెప్పారు",
-      "translated": true
-    },
-    {
       "id": "7091be12dad3601a2f558cb1091066e6",
       "title": "Blasts Heard In Abu Dhabi, UAE Respond To Missile Threat As War Intensifies",
       "summary": "Residents in the Emirati capital Abu Dhabi reported hearing a series of loud explosions on Thursday, with UAE air defences responding to a missile threat as Iran pressed on with its retaliation campaign in the Gulf.",
@@ -953,7 +1037,7 @@
       "category": "india",
       "language": "en",
       "title_te": "సివి బోస్ రాజీనామా తర్వాత తమిళనాడుకు చెందిన ఆర్‌ఎన్ రవి బెంగాల్ గవర్నర్‌గా నియమితులయ్యారు",
-      "summary_te": "సివి ఆనంద బోస్‌ రాజీనామా చేయడంతో తమిళనాడు గవర్నర్‌ ఆర్‌ఎన్‌ రవి పశ్చిమ బెంగాల్‌ కొత్త గవర్నర్‌గా నియమితులయ్యారు. మొత్తం పునర్వ్యవస్థీకరణలో భాగంగా ఎన్నికలకు వెళ్లే రాష్ట్రంలో మార్పు.",
+      "summary_te": "సివి ఆనంద బోస్‌ రాజీనామా చేయడంతో తమిళనాడు గవర్నర్‌ ఆర్‌ఎన్‌ రవి పశ్చిమ బెంగాల్‌ కొత్త గవర్నర్‌గా నియమితులయ్యారు. మొత్తం పునర్వ్యవస్థీకరణలో భాగంగా ఎన్నికలు జరగనున్న రాష్ట్రంలో మార్పు.",
       "translated": true
     },
     {
@@ -971,41 +1055,13 @@
       "translated": true
     },
     {
-      "id": "8b50fd30b66a88e4d3c398867262ec93",
-      "title": "Lonza Group AG to set up GCC in Hyderabad",
-      "summary": "Swiss contract development and manufacturing organisation Lonza Group AG has decided to establish a global capability centre (GCC) in Hyderabad.A delegation from the company met IT and Industries Minister D.Sridhar Babu and conveyed the decision as well as shared details of the plan.Hyderabad on the back of its strong scientific ecosystem, digital depth and world-class manufacturing capabilities continues to stand out as the bright spot for global Life Sciences investments, the Minister said on Thursday, in a release, while hailing Lonza’s decision.Lonza’s investment is bound to further strengthen Telangana’s position as a preferred destination for innovation-led growth in the global biopharmaceutical industry. The GCC has the potential to create a substantial number of new jobs over the years, he said.The company after an extensive evaluation process chose Hyderabad based on the strong talent pool, quality infrastructure and supportive industrial ecosystem the city offered.“We are delighted Lonza has chosen Hyderabad... decision marks another significant milestone in the continued expansion of Telangana’s Life Sciences ecosystem,” Telangana Lifesciences CEO Shakthi M. Nagappan said.Headquartered in Switzerland and founded in 1897, Lonza operates across more than 30 sites worldwide and employs close to 20,000 professionals. In 2025, it reported sales of CHF 6.5 billion.",
-      "url": "https://www.thehindu.com/news/national/telangana/lonza-group-ag-to-set-up-gcc-in-hyderabad/article70708332.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-05T18:22:04.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "హైదరాబాద్‌లో జిసిసిని ఏర్పాటు చేసేందుకు లోన్జా గ్రూప్ ఎజి",
-      "summary_te": "స్విస్ కాంట్రాక్ట్ డెవలప్‌మెంట్ అండ్ మ్యానుఫ్యాక్చరింగ్ సంస్థ లోన్జా గ్రూప్ AG హైదరాబాద్‌లో గ్లోబల్ కెపాబిలిటీ సెంటర్ (GCC)ని స్థాపించాలని నిర్ణయించింది. కంపెనీకి చెందిన ఒక ప్రతినిధి బృందం IT మరియు పరిశ్రమల శాఖ మంత్రి D. శ్రీధర్ బాబుతో సమావేశమై నిర్ణయాన్ని తెలియజేసింది అలాగే ప్రణాళిక వివరాలను పంచుకుంది. గ్లోబల్ లైఫ్ సైన్సెస్ పెట్టుబడులకు స్పాట్, మంత్రి గురువారం విడుదల చేసిన ఒక ప్రకటనలో, లోన్జా నిర్ణయాన్ని ప్రశంసించారు. లోన్జా పెట్టుబడి ప్రపంచ బయోఫార్మాస్యూటికల్ పరిశ్రమలో ఆవిష్కరణ-నేతృత్వంలోని వృద్ధికి ప్రాధాన్యతనిచ్చే గమ్యస్థానంగా తెలంగాణ స్థానాన్ని మరింత బలోపేతం చేయడానికి కట్టుబడి ఉంది. GCC సంవత్సరాల్లో గణనీయమైన సంఖ్యలో కొత్త ఉద్యోగాలను సృష్టించగల సామర్థ్యాన్ని కలిగి ఉందని ఆయన అన్నారు. విస్తృతమైన మూల్యాంకన ప్రక్రియ తర్వాత కంపెనీ బలమైన ప్రతిభ, నాణ్యమైన మౌలిక సదుపాయాలు మరియు నగరంలో అందించే సహాయక పారిశ్రామిక పర్యావరణ వ్యవస్థ ఆధారంగా హైదరాబాద్‌ను ఎంచుకుంది. శక్తి ఎం. నాగప్పన్ చెప్పారు. స్విట్జర్లాండ్‌లో ప్రధాన కార్యాలయం మరియు 1897లో స్థాపించబడింది, లోన్జా ప్రపంచవ్యాప్తంగా 30 కంటే ఎక్కువ సైట్‌లలో కార్యకలాపాలు నిర్వహిస్తోంది మరియు దాదాపు 20,000 మంది నిపుణులకు ఉపాధి కల్పిస్తోంది. 2025లో, ఇది CHF 6.5 బిలియన్ల అమ్మకాలను నివేదించింది.",
-      "translated": true
-    },
-    {
-      "id": "bc93af8e0e744d0c19b51e17ab4ff983",
-      "title": "Governor removes Vice-Chancellor of Sree Sankaracharya University of Sanskrit",
-      "summary": "Ciza Thomas, Vice-Chancellor of APJ Abdul Kalam Technological University, will hold additional charge of the Vice-Chancellor of the university",
-      "url": "https://www.thehindu.com/news/national/kerala/governor-removes-vice-chancellor-of-sree-sankaracharya-university-of-sanskrit/article70708817.ece",
-      "image": null,
-      "published_at": "2026-03-05T18:18:35.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "శ్రీ శంకరాచార్య సంస్కృత విశ్వవిద్యాలయం వైస్ ఛాన్సలర్‌ను గవర్నర్ తొలగించారు",
-      "summary_te": "APJ అబ్దుల్ కలాం టెక్నలాజికల్ యూనివర్శిటీ వైస్-ఛాన్సలర్ సిజా థామస్, యూనివర్శిటీ వైస్-ఛాన్సలర్‌గా అదనపు బాధ్యతలు నిర్వహిస్తారు.",
-      "translated": true
-    },
-    {
       "id": "731ae588befb4b98e45dbc67ad667b5f",
       "title": "Ex-US Envoy Taranjit Singh Sandhu Is New Lt Governor Of Delhi",
       "summary": "Taranjit Singh Sandhu, India's former ambassador to US, has been made the Lieutenant Governor of Delhi, as the President on Thursday notified the appointment of governors and lieutenant governors of nine states and Union territories.",
       "url": "https://www.ndtv.com/india-news/ex-us-envoy-taranjit-singh-sandhu-appointed-lt-governor-of-delhi-11174256#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2024-05/b79h7qqg_taranjit-singh-sandhu-1200-_625x300_11_May_24.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-05T18:12:46.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "ఢిల్లీ కొత్త లెఫ్టినెంట్ గవర్నర్‌గా అమెరికా మాజీ రాయబారి తరంజిత్ సింగ్ సంధు నియమితులయ్యారు",
@@ -1084,7 +1140,7 @@
     },
     {
       "id": "54b9c6ee8d9600e627651d76f925fdfc",
-      "title": "Taranjit Singh Sandhu is Delhi's new Lt Governor, to replace Vinai Kumar Saxena",
+      "title": "Taranjit Singh Sandhu is Delhi's new lieutenant governor, to replace Vinai Kumar Saxena",
       "summary": "Taranjit Singh Sandhu is Delhi's new Lt Governor, to replace Vinai Kumar Saxena",
       "url": "https://www.hindustantimes.com/india-news/taranjit-singh-sandhu-is-delhis-new-lt-governor-to-replace-vinai-kumar-saxena-101772731876129.html",
       "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/ANI-20240202474-0_1711817634130_1711817662442_1711819726067_1772732214398.jpg",
@@ -1092,8 +1148,22 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "వినయ్ కుమార్ సక్సేనా స్థానంలో ఢిల్లీ కొత్త లెఫ్టినెంట్ గవర్నర్‌గా తరంజిత్ సింగ్ సంధు నియమితులయ్యారు",
+      "title_te": "వినయ్ కుమార్ సక్సేనా స్థానంలో ఢిల్లీ కొత్త లెఫ్టినెంట్ గవర్నర్ తరంజిత్ సింగ్ సంధు",
       "summary_te": "వినయ్ కుమార్ సక్సేనా స్థానంలో ఢిల్లీ కొత్త లెఫ్టినెంట్ గవర్నర్‌గా తరంజిత్ సింగ్ సంధు నియమితులయ్యారు",
+      "translated": true
+    },
+    {
+      "id": "ffe9b833b46cd5fa397bda7cf75f5ae0",
+      "title": "A trailblazer for the rights of Dalits and the empowerment of women",
+      "summary": "Meenambal Sivaraj was born on December 12, 1904, in Rangoon, in a family that placed great importance on education and service. One of her most significant contributions was her work with All India Scheduled Castes Federation founded by Ambedkar",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/a-trailblazer-for-the-rights-of-dalitsand-the-empowerment-of-women/article70706909.ece",
+      "image": "https://th-i.thgim.com/public/incoming/iuzubq/article70708635.ece/alternates/LANDSCAPE_1200/HP91630.jpg",
+      "published_at": "2026-03-05T17:22:41.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "దళితుల హక్కులు మరియు మహిళల సాధికారత కోసం ఒక బాటసారి",
+      "summary_te": "మీనాంబాల్ శివరాజ్ డిసెంబరు 12, 1904న రంగూన్‌లో విద్య మరియు సేవకు ఎంతో ప్రాధాన్యతనిచ్చే కుటుంబంలో జన్మించారు. అంబేద్కర్ స్థాపించిన ఆల్ ఇండియా షెడ్యూల్డ్ క్యాస్ట్స్ ఫెడరేషన్‌తో కలిసి ఆమె చేసిన కృషి ఆమె అత్యంత ముఖ్యమైన రచనలలో ఒకటి.",
       "translated": true
     },
     {
@@ -1108,6 +1178,34 @@
       "language": "en",
       "title_te": "ఒమన్‌లోని పౌరులకు భారతదేశం తరలింపు సలహా జారీ చేసిందా? ఎంబసీ నిజ-తనిఖీలు దావా",
       "summary_te": "తాజా నోటీసులో, ఎంబసీ సందేశం మోసపూరితమైనదని మరియు మిషన్ ద్వారా అలాంటి సలహా ఇవ్వలేదని ధృవీకరించింది.",
+      "translated": true
+    },
+    {
+      "id": "0713d17f2a201f28aaf84776491cd2df",
+      "title": "The Kumbakonam connection of MGR, M.K. Nambyar and M.S. Swaminathan",
+      "summary": "The families of the iconic film star and former Tamil Nadu Chief Minister, the distinguished constitutional lawyer, and the celebrated agricultural scientist hailed from Kerala. But they spent a formative part of their lives in Kumbakonam, known for its rich cultural heritage, before rising to national prominence in politics, cinema, law, and science",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/thekumbakonamconnection-of-mgr-mknambyarandms-swaminathan/article70706896.ece",
+      "image": "https://th-i.thgim.com/public/incoming/26exfy/article70707230.ece/alternates/LANDSCAPE_1200/TH.ven-4%202.jpg.jpeg",
+      "published_at": "2026-03-05T17:18:20.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "MGR యొక్క కుంభకోణం కనెక్షన్, M.K. నంబ్యార్ మరియు M.S. స్వామినాథన్",
+      "summary_te": "దిగ్గజ సినీ నటుడు మరియు తమిళనాడు మాజీ ముఖ్యమంత్రి, విశిష్ట రాజ్యాంగ న్యాయవాది మరియు ప్రముఖ వ్యవసాయ శాస్త్రవేత్త కుటుంబాలు కేరళకు చెందినవి. కానీ వారు రాజకీయాలు, సినిమా, న్యాయశాస్త్రం మరియు విజ్ఞాన శాస్త్రంలో జాతీయ స్థాయికి ఎదగడానికి ముందు, సుసంపన్నమైన సాంస్కృతిక వారసత్వానికి ప్రసిద్ధి చెందిన కుంభకోణంలో తమ జీవితాల్లో కొంత భాగాన్ని గడిపారు.",
+      "translated": true
+    },
+    {
+      "id": "cd2cbc856943b61210eb54f9cb557584",
+      "title": "Bhaktavatsalam’s take on the destruction of documents relating to anti-Hindi agitation",
+      "summary": "He said he was advised that papers on politicians against whom detention orders had been served need not be kept so that they would not be available to the very people who were likely to take charge of the government. When Ministers came to know about officers who had made reports about them, they would get prejudiced, he further said",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/bhaktavatsalamstake-on-the-destruction-of-documents-relating-to-anti-hindi-agitation/article70707504.ece",
+      "image": "https://th-i.thgim.com/public/incoming/dw2bld/article70707544.ece/alternates/LANDSCAPE_1200/BhaktavatsalamG75FHTNH4.2.jpg.jpg",
+      "published_at": "2026-03-05T17:07:01.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "హిందీ వ్యతిరేక ఆందోళనకు సంబంధించిన పత్రాల ధ్వంసంపై భక్తవత్సలం తీసుకున్నాడు",
+      "summary_te": "నిర్బంధ ఉత్తర్వులు అందజేసిన రాజకీయ నాయకులకు సంబంధించిన కాగితాలు ప్రభుత్వ బాధ్యతలు చేపట్టే వ్యక్తులకు అందుబాటులో ఉండకుండా ఉండాల్సిన అవసరం లేదని తనకు సూచించినట్లు ఆయన చెప్పారు. మంత్రులు తమపై నివేదికలు ఇచ్చిన అధికారుల గురించి తెలుసుకున్నప్పుడు, వారు పక్షపాతానికి గురవుతారని ఆయన అన్నారు",
       "translated": true
     },
     {
@@ -1191,7 +1289,7 @@
       "category": "india",
       "language": "en",
       "title_te": "జెర్రీ జోన్స్ యొక్క డల్లాస్ కౌబాయ్స్ $106M లాస్ వెగాస్ రైడర్స్ DE ట్రేడ్‌కు లింక్ చేయబడింది",
-      "summary_te": "డల్లాస్ కౌబాయ్స్ యజమాని జెర్రీ జోన్స్ లాస్ వెగాస్ రైడర్స్ డిఫెన్సివ్ ఎండ్ మాక్స్ క్రాస్బీని బ్లాక్ బస్టర్ ట్రేడ్‌లో లక్ష్యంగా చేసుకున్నట్లు నివేదించబడింది. క్రాస్‌బీని కొనుగోలు చేయడానికి కౌబాయ్‌లు ఉత్తమ స్థానంలో ఉన్నారని విశ్లేషకులు సూచిస్తున్నారు. ఎడ్జ్ రషర్ సూపర్ బౌల్ పోటీదారుని కోరుతున్నారు. మరియు జోన్స్ 30 సంవత్సరాల కరువు తర్వాత లోంబార్డి ట్రోఫీ కోసం ఆకలితో ఉన్నాడు. ఈ సంభావ్య కదలిక కౌబాయ్‌ల యజమాని మైకా పార్సన్స్, హెర్షెల్ వాకర్ మరియు జార్జ్ పికెన్స్ వంటి దూకుడు వ్యాపారాల చరిత్రకు అనుగుణంగా ఉంటుంది.",
+      "summary_te": "డల్లాస్ కౌబాయ్స్ యజమాని జెర్రీ జోన్స్ లాస్ వెగాస్ రైడర్స్ డిఫెన్సివ్ ఎండ్ మాక్స్ క్రాస్బీని బ్లాక్ బస్టర్ ట్రేడ్‌లో లక్ష్యంగా చేసుకున్నట్లు నివేదించబడింది. క్రాస్బీని కొనుగోలు చేయడానికి కౌబాయ్‌లు ఉత్తమంగా ఉంటారని విశ్లేషకులు సూచిస్తున్నారు. ఎడ్జ్ రషర్ సూపర్ బౌల్ పోటీదారుని కోరుతున్నారు. మరియు జోన్స్ 30 సంవత్సరాల కరువు తర్వాత లోంబార్డి ట్రోఫీ కోసం ఆకలితో ఉన్నాడు. ఈ సంభావ్య కదలిక కౌబాయ్స్ యజమాని మైకా పార్సన్స్, హెర్షెల్ వాకర్ మరియు జార్జ్ పికెన్స్ వంటి దూకుడు వ్యాపారాల చరిత్రతో సమలేఖనం అవుతుంది.",
       "translated": true
     },
     {
@@ -1206,20 +1304,6 @@
       "language": "en",
       "title_te": "అస్సాంలోని జోర్హాట్ నుండి టేకాఫ్ అయిన తర్వాత సుఖోయ్-30 అదృశ్యమైంది, శోధన జరుగుతోంది",
       "summary_te": "గురువారం రాత్రి 7:42 గంటలకు జోర్హాట్ నుంచి విమానం టేకాఫ్ అయ్యిందని, సంబంధాలు తెగిపోయాయని అధికారులు తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "df72be099bf3f02793ba41e53b35d18d",
-      "title": "Vijay and Trisha’s joint wedding entry goes viral; fans abuzz",
-      "summary": "Thalapathy Vijay and Trisha recently turned heads at a Chennai wedding, arriving together in the same car. Their coordinated traditional attire and on-stage presence generated significant social media buzz. This appearance occurs amidst personal controversy surrounding Vijay, adding an intriguing layer to their reunion, which fans eagerly anticipate seeing more of.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/thalapathy-vijay-and-trisha-make-heads-turn-at-chennai-wedding-amid-relationship-rumours/articleshow/129100615.cms",
-      "image": "https://static.toiimg.com/photo/msid-129100615,imgsize-107278.cms",
-      "published_at": "2026-03-05T16:01:30.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "విజయ్ మరియు త్రిషల ఉమ్మడి వివాహ ప్రవేశం వైరల్ అవుతుంది; అభిమానులు సందడి చేస్తున్నారు",
-      "summary_te": "తలపతి విజయ్ మరియు త్రిష ఇటీవల చెన్నై వివాహానికి తలపడ్డారు, ఒకే కారులో కలిసి వచ్చారు. వారి సమన్వయంతో కూడిన సాంప్రదాయ వస్త్రధారణ మరియు వేదికపై ఉండటం వలన సోషల్ మీడియా సంచలనం సృష్టించింది. విజయ్ చుట్టూ ఉన్న వ్యక్తిగత వివాదాల మధ్య ఈ ప్రదర్శన జరిగింది, వారి పునఃకలయికకు ఒక చమత్కారమైన పొరను జోడిస్తుంది, అభిమానులు వీటిని ఎక్కువగా చూడాలని ఆసక్తిగా ఎదురుచూస్తున్నారు.",
       "translated": true
     },
     {
@@ -1317,91 +1401,7 @@
       "category": "india",
       "language": "en",
       "title_te": "శ్రీలంక సమీపంలో మునిగిపోతున్న ఇరాన్ యుద్ధనౌకకు సహాయం చేయడానికి భారతదేశం నౌకను పంపింది: నేవీ",
-      "summary_te": "యునైటెడ్ స్టేట్స్ సబ్‌మెరైన్ నుండి టార్పెడో తాకడంతో హిందూ మహాసముద్రంలో మునిగిపోయిన ఇరానియన్ ఫ్రిగేట్ ఐఆర్‌ఐఎస్ దేనా నుండి వచ్చిన ప్రమాద సంకేతాన్ని అనుసరించి భారత నావికాదళం శోధన మరియు రెస్క్యూ కార్యకలాపాలను ప్రారంభించింది.",
-      "translated": true
-    },
-    {
-      "id": "94301f2c98dabd2398b43ee140fd3efa",
-      "title": "Delhi Speaker Asks Atishi To Present 'Faansi Ghar' Evidence Before Committee",
-      "summary": "Vijender Gupta, Speaker of the Delhi Legislative Assembly, has written to Leader of Opposition Atishiover her recent comments on the alleged \"Faansi Ghar\" inside the Assembly premises.",
-      "url": "https://www.ndtv.com/india-news/delhi-speaker-asks-atishi-to-present-faansi-ghar-evidence-before-committee-11173662#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2023-06/pbfujvho_atishi-aap-ani_625x300_07_June_23.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-05T15:17:42.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఢిల్లీ స్పీకర్ అతిషిని కమిటీ ముందు 'ఫాన్సీ ఘర్' సాక్ష్యాలను సమర్పించాలని కోరారు",
-      "summary_te": "ఢిల్లీ శాసనసభ స్పీకర్ విజేందర్ గుప్తా, అసెంబ్లీ ఆవరణలో ఆరోపించిన \"ఫాన్సీ ఘర్\"పై ఆమె ఇటీవల చేసిన వ్యాఖ్యలను ప్రతిపక్ష నేత అతిషిఓవర్‌కు లేఖ రాశారు.",
-      "translated": true
-    },
-    {
-      "id": "90adc73eeb6da33be9ccfdf8f4a6df40",
-      "title": "CBSE cancels Class 10 board exams; postpones Class 12 exams in Gulf countries",
-      "summary": "The board said it will \"review the situation\" on March 7 before taking a call on papers scheduled from March 9 onwards",
-      "url": "https://www.hindustantimes.com/india-news/cbse-cancels-class-10-board-exams-postpones-class-12-exams-in-gulf-countries-101772723104652.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/Sunteck_International_final_1764001456697_1764001461656_1772723298017.jpg",
-      "published_at": "2026-03-05T15:09:08.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "CBSE 10వ తరగతి బోర్డు పరీక్షలను రద్దు చేసింది; గల్ఫ్ దేశాల్లో 12వ తరగతి పరీక్షలను వాయిదా వేసింది",
-      "summary_te": "మార్చి 9 నుండి షెడ్యూల్ చేయబడిన పేపర్లపై కాల్ తీసుకునే ముందు మార్చి 7 న \"పరిస్థితిని సమీక్షిస్తాము\" అని బోర్డు తెలిపింది",
-      "translated": true
-    },
-    {
-      "id": "a996a64b9cf15a0eb05dcbc5daba6331",
-      "title": "Man Hammers Boy To Death, Drinks Blood, Tries To Eat Flesh, Say Villagers",
-      "summary": "In Madhya Pradesh's Damoh, a 16-year-old boy was killed in broad daylight, allegedly by a man with a violent criminal past who had recently come out of jail. Villagers described what happened next as pure horror.",
-      "url": "https://www.ndtv.com/india-news/madhya-pradesh-man-hammers-boy-to-death-drinks-blood-tries-to-eat-flesh-say-villagers-11173604#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/288qc43c_mp-hammer-horror_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-05T15:07:10.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "బాలుడిని సుత్తితో కొట్టి చంపిన వ్యక్తి, రక్తం తాగి, మాంసం తినేందుకు ప్రయత్నించాడని గ్రామస్థులు అంటున్నారు",
-      "summary_te": "మధ్యప్రదేశ్‌లోని దామోహ్‌లో, 16 ఏళ్ల బాలుడిని పట్టపగలు హత్య చేశారు, ఇటీవల జైలు నుంచి బయటకు వచ్చిన హింసాత్మక నేర చరిత్ర కలిగిన వ్యక్తి ఆరోపించాడు. ఆ తర్వాత జరిగిన సంఘటనను గ్రామస్థులు భయానక ఘటనగా అభివర్ణించారు.",
-      "translated": true
-    },
-    {
-      "id": "9beb3492b59b419fa3f6b7da04f5bb9b",
-      "title": "Ladakh governor Kavinder Gupta resigns after less than a year in office",
-      "summary": "Gupta has earlier served as the former deputy chief minister of Jammu and Kashmir.",
-      "url": "https://www.hindustantimes.com/india-news/ladakh-governor-kavinder-gupta-resigns-after-less-than-a-year-in-office-101772722053770.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/Former-J-K-deputy-CM-Kavinder-Gupta-is-Ladakh-LG--_1772722362958_1772722375845.jpg",
-      "published_at": "2026-03-05T14:58:23.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "లడఖ్ గవర్నర్ కవిందర్ గుప్తా పదవిలో ఉన్న ఒక సంవత్సరం కంటే తక్కువ సమయం తర్వాత రాజీనామా చేశారు",
-      "summary_te": "గుప్తా గతంలో జమ్మూ కాశ్మీర్ మాజీ ఉప ముఖ్యమంత్రిగా పనిచేశారు.",
-      "translated": true
-    },
-    {
-      "id": "b84cfa2dff9f6b532b15942f48ff4e9b",
-      "title": "Decoding Congress' Rajya Sabha list and LoP number game",
-      "summary": "Decoding Congress' Rajya Sabha list and LoP number game",
-      "url": " https://www.indiatoday.in/india/story/rajya-sabha-elections-congress-candidates-upper-house-lop-number-game-2877953-2026-03-05?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/decoding-congress-rajya-sabha-list-and-lop-number-game-055327886-16x9_0.jpg?VersionId=K263a5PXN7.tOKnABEuJBy5u0Biz.F71",
-      "published_at": "2026-03-05T14:54:35.000Z",
-      "source": "India Today",
-      "category": "india",
-      "language": "en",
-      "title_te": "కాంగ్రెస్ రాజ్యసభ జాబితా మరియు LoP నంబర్ గేమ్ డీకోడింగ్",
-      "summary_te": "కాంగ్రెస్ రాజ్యసభ జాబితా మరియు LoP నంబర్ గేమ్ డీకోడింగ్",
-      "translated": true
-    },
-    {
-      "id": "0a05b81263cadf35a0183ea293b49923",
-      "title": "India, Finland back efforts to end Ukraine and West Asia conflicts",
-      "summary": "PM Narendra Modi and Finnish President Alexander Stubb call for early end to Ukraine war and rising Iran-US tensions in West Asia",
-      "url": "https://www.hindustantimes.com/india-news/india-finland-back-efforts-to-end-ukraine-and-west-asia-conflicts-101772721473874.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/05/1600x900/logo/PM-Narendra-Modi-and-Finnish-President-Alexander-S_1772723449289.jpg",
-      "published_at": "2026-03-05T14:37:53.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఉక్రెయిన్ మరియు పశ్చిమాసియా వివాదాలకు ముగింపు పలికేందుకు భారత్, ఫిన్లాండ్ ప్రయత్నాలను వెనక్కి తీసుకున్నాయి",
-      "summary_te": "ఉక్రెయిన్ యుద్ధం మరియు పశ్చిమాసియాలో పెరుగుతున్న ఇరాన్-యుఎస్ ఉద్రిక్తతలను త్వరగా ముగించాలని పిఎం నరేంద్ర మోడీ మరియు ఫిన్నిష్ అధ్యక్షుడు అలెగ్జాండర్ స్టబ్ పిలుపునిచ్చారు",
+      "summary_te": "యునైటెడ్ స్టేట్స్ జలాంతర్గామి నుండి టార్పెడో తాకిన తర్వాత హిందూ మహాసముద్రంలో మునిగిపోయిన ఇరానియన్ యుద్ధనౌక IRIS దేనా నుండి వచ్చిన నష్ట సంకేతాలను అనుసరించి భారత నావికాదళం శోధన మరియు రెస్క్యూ కార్యకలాపాలను ప్రారంభించింది.",
       "translated": true
     }
   ]
