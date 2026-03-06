@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-06T07:45:01.533Z",
-  "updated_at_IST": "6/3/2026, 1:15:01 pm",
+  "updated_at": "2026-03-06T08:36:04.315Z",
+  "updated_at_IST": "6/3/2026, 2:06:04 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "9518c57296900644669e70e3b8b3c0a1",
+      "title": "O'Neill stars with ball and bat but Tasmania bowlers given them a chance",
+      "summary": "O'Neill took 3 for 17 to bowl Tasmania out for 91 but then made 44 as Victoria folded for 193 with Tasmania finishing 47 for 0 at stumps needing a further 279 to win",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527042.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414420.jpg",
+      "published_at": "2026-03-06T08:13:48.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఓ'నీల్ బాల్ మరియు బ్యాటింగ్‌తో మెరుస్తున్నాడు కానీ టాస్మానియా బౌలర్లు వారికి అవకాశం ఇచ్చారు",
+      "summary_te": "ఓ'నీల్ 17 పరుగులకు 3 వికెట్లు తీసుకుని టాస్మానియాను 91 పరుగుల వద్ద అవుట్ చేశాడు, అయితే విక్టోరియా 193 పరుగులకు ఆలౌటైంది, టాస్మానియా 0 వికెట్ల నష్టానికి 47 పరుగులు చేయడంతో ఆట ముగిసే సమయానికి విజయానికి మరో 279 పరుగులు చేయాల్సి ఉంది.",
+      "translated": true
+    },
     {
       "id": "c3c361cdce7bf6d3217fdd4ccc3c546f",
       "title": "Australia ask India to bat in Healy's international swansong",
@@ -310,20 +324,6 @@
       "language": "en",
       "title_te": "మార్క్రామ్: 'ముఖంలో చప్పుడు కాదు, కానీ అది అనిపిస్తుంది'",
       "summary_te": "దక్షిణాఫ్రికా కెప్టెన్ ఈడెన్ గార్డెన్స్ ట్రాక్ మొదటి సెమీ-ఫైనల్‌లో బ్యాటర్‌లకు మెరుగ్గా ఆడుతుందని ఆశించాడు",
-      "translated": true
-    },
-    {
-      "id": "f01d24ac0fb8c206a5555f121bf5977b",
-      "title": "Conrad: 'Tonight wasn't a choke, it was a bloody walloping'",
-      "summary": "South Africa head coach admits his team \"didn't have a sniff\" against New Zealand, and got a proper snotklap",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526891.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414374.jpg",
-      "published_at": "2026-03-05T05:07:09.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కాన్రాడ్: 'ఈ రాత్రి ఉక్కిరిబిక్కిరి కాదు, ఇది రక్తపాతం'",
-      "summary_te": "దక్షిణాఫ్రికా ప్రధాన కోచ్ న్యూజిలాండ్‌పై తన జట్టుకు \"స్నిఫ్ లేదు\" అని అంగీకరించాడు మరియు సరైన స్నోట్‌క్లాప్ పొందాడు",
       "translated": true
     },
     {
