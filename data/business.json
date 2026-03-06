@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-06T19:39:34.309Z",
-  "updated_at_IST": "7/3/2026, 1:09:34 am",
+  "updated_at": "2026-03-06T20:31:14.464Z",
+  "updated_at_IST": "7/3/2026, 2:01:14 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "7e45db2c63566efa7a578ffcee34f398",
+      "title": "US issues warning over Iran-aligned militias in Iraq amid efforts to help stranded citizens",
+      "summary": "IRAN-CRISIS-MIDDLE-EAST-TRUMP:US issues warning over Iran-aligned militias in Iraq amid efforts to help stranded citizens",
+      "url": "https://www.livemint.com/news/us-issues-warning-over-iran-aligned-militias-in-iraq-amid-efforts-to-help-stranded-citizens-11772827707475.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
+      "published_at": "2026-03-06T20:08:27.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఒంటరిగా ఉన్న పౌరులకు సహాయం చేసే ప్రయత్నాల మధ్య ఇరాక్‌లో ఇరాన్-సమలీన మిలీషియాపై US హెచ్చరికలు జారీ చేసింది",
+      "summary_te": "ఇరాన్-సంక్షోభం-మిడిల్-ఈస్ట్-ట్రంప్: ఒంటరిగా ఉన్న పౌరులకు సహాయం చేసే ప్రయత్నాల మధ్య ఇరాక్‌లో ఇరాన్-అలీన మిలీషియాపై US హెచ్చరికలు జారీ చేసింది",
+      "translated": true
+    },
+    {
+      "id": "617cca15dfac3f81419b31e204cfb6b8",
+      "title": "White House says US ‘well on its way’ to controlling Iranian airspace, goals achievable in 4–6 weeks",
+      "summary": "As the Israel-Iran war escalates across the Middle East, the US claims it has sufficient weapons stockpiles to sustain operations. The conflict has spread to Lebanon and Gulf countries, with rising casualties and mass displacement.",
+      "url": "https://www.livemint.com/news/us-news/white-house-says-us-well-on-its-way-to-controlling-iranian-airspace-goals-achievable-in-4-6-weeks-11772822178748.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/US-HASSETT-POLITICS-2_1772822731672_1772822747160.jpg",
+      "published_at": "2026-03-06T19:28:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ గగనతలాన్ని నియంత్రించడంలో అమెరికా 'బాగా ఉంది' అని వైట్ హౌస్ పేర్కొంది, 4-6 వారాల్లో లక్ష్యాలను సాధించవచ్చు",
+      "summary_te": "ఇజ్రాయెల్-ఇరాన్ యుద్ధం మధ్యప్రాచ్యం అంతటా తీవ్రమవుతున్నందున, కార్యకలాపాలను కొనసాగించడానికి తగిన ఆయుధాల నిల్వలు తమ వద్ద ఉన్నాయని యుఎస్ పేర్కొంది. ఈ వివాదం లెబనాన్ మరియు గల్ఫ్ దేశాలకు వ్యాపించింది, పెరుగుతున్న మరణాలు మరియు సామూహిక స్థానభ్రంశం.",
+      "translated": true
+    },
     {
       "id": "f5da4b8b53a2d0b0282d02ab599be380",
       "title": "Trump issues stern warning to Iran amid Middle East conflict, says, ‘you will face absolute guaranteed death…’",
@@ -155,7 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "కర్ణాటక U-16లను సోషల్ మీడియా నుండి నిషేధించాలని కోరుతోంది; పరిశ్రమ, నిపుణులు సందేహాస్పదంగా ఉన్నారు",
-      "summary_te": "సోషల్ మీడియా మరియు AI సంస్థలలో AI- రూపొందించిన డీప్‌ఫేక్‌లపై మెయిటీ ఫిబ్రవరి 20న అణిచివేత తర్వాత కర్ణాటక ప్రతిపాదన వచ్చింది.",
+      "summary_te": "సోషల్ మీడియా మరియు AI సంస్థలలో తెలియజేయబడిన AI- రూపొందించిన డీప్‌ఫేక్‌లపై Meity ఫిబ్రవరి 20న అణిచివేత తర్వాత కర్ణాటక ప్రతిపాదన వచ్చింది.",
       "translated": true
     },
     {
@@ -309,7 +337,7 @@
       "category": "business",
       "language": "en",
       "title_te": "PB ఫిన్‌టెక్: గోల్డ్‌మన్ సాక్స్, టాటా మ్యూచువల్ ఫండ్ రూ. 695 కోట్ల బ్లాక్ డీల్‌లో వాటాను కొనుగోలు చేశాయి.",
-      "summary_te": "PB ఫిన్‌టెక్ షేర్లు రూ. 695 కోట్ల విలువైన బ్లాక్ డీల్‌లను చూశాయి, గోల్డ్‌మన్ సాచ్స్, మ్యూచువల్ ఫండ్స్ మరియు విదేశీ పెట్టుబడిదారులు టెన్సెంట్ క్లౌడ్ యూరప్ నుండి షేర్లను పొందడం, కంపెనీపై సంస్థాగత ఆసక్తిని కొనసాగించడాన్ని సూచిస్తుంది.",
+      "summary_te": "PB ఫిన్‌టెక్ షేర్లు రూ. 695 కోట్ల విలువైన బ్లాక్ డీల్‌లను చూశాయి, గోల్డ్‌మన్ సాచ్స్, మ్యూచువల్ ఫండ్స్ మరియు విదేశీ పెట్టుబడిదారులు టెన్సెంట్ క్లౌడ్ యూరప్ నుండి షేర్లను కొనుగోలు చేయడం ద్వారా కంపెనీపై సంస్థాగత ఆసక్తిని కొనసాగించారు.",
       "translated": true
     },
     {
@@ -338,34 +366,6 @@
       "language": "en",
       "title_te": "యుఎస్-ఇరాన్ యుద్ధం సరఫరాలో అంతరాయాలు ఉన్నప్పటికీ తగినన్ని ఎరువుల లభ్యతకు కేంద్రం హామీ ఇస్తుంది",
       "summary_te": "భారతదేశం బలమైన ఇన్వెంటరీ బఫర్‌ను కలిగి ఉంది, ముందస్తు నిల్వలు మరియు లీన్ సీజన్‌లో సాపేక్షంగా తక్కువ వినియోగం ద్వారా మద్దతు లభిస్తుందని ప్రభుత్వం తెలిపింది. ",
-      "translated": true
-    },
-    {
-      "id": "6a7e96cfbdd3832d8394c77d374a3d6b",
-      "title": "Gulf News LIVE: Emirates Airlines resumes flights amid tensions, Air France repatriation flight forced to turn back",
-      "summary": "Dubai News LIVE Today: The outbreak of the U.S.-Israel war against Iran has led to flight cancellations across the Middle East. Follow for UAE news live updates on flight status, safety advisories, and the latest news on UAE regional security.",
-      "url": "https://www.livemint.com/news/world/dubai-abu-dhabi-doha-live-news-iran-attack-uae-missile-dubai-airport-status-us-mission-alert-march-6-2026-11772801261212.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Bosnia-Iran-Israel-US-7_1772801731633_1772801746557.jpg",
-      "published_at": "2026-03-06T13:36:59.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "గల్ఫ్ న్యూస్ లైవ్: ఎమిరేట్స్ ఎయిర్‌లైన్స్ ఉద్రిక్తతల మధ్య విమానాలను తిరిగి ప్రారంభించింది, ఎయిర్ ఫ్రాన్స్ స్వదేశానికి తిరిగి రావాల్సిన విమానం",
-      "summary_te": "దుబాయ్ న్యూస్ లైవ్ టుడే: ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం చెలరేగడంతో మధ్యప్రాచ్యం అంతటా విమానాలు రద్దు చేయబడ్డాయి. విమాన స్థితి, భద్రతా సలహాలు మరియు UAE ప్రాంతీయ భద్రతపై తాజా వార్తలపై UAE వార్తల ప్రత్యక్ష నవీకరణల కోసం అనుసరించండి.",
-      "translated": true
-    },
-    {
-      "id": "f098d1c3aa525b8d28e8e86d8374802b",
-      "title": "Nitish Kumar's son Nishant to join JD(U) on March 8 as father files Rajya Sabha nomination",
-      "summary": "The timing of Nishant's entry is directly linked to a major transition for his father. On Thursday, March 5, Nitish Kumar filed his nomination for the Rajya Sabha, signalling the end of his record-breaking tenure as Chief Minister.",
-      "url": "https://www.livemint.com/news/india/nitish-kumars-son-nishant-to-join-jd-u-on-march-8-as-father-files-rajya-sabha-nomination-11772803713697.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/20260301-PAT-SK-MN-Nitish-Kumar-02-0_1772806782966_1772806817012.JPG",
-      "published_at": "2026-03-06T13:35:13.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "తండ్రి రాజ్యసభ నామినేషన్‌ దాఖలు చేయడంతో నితీష్‌ కుమార్‌ కుమారుడు నిశాంత్‌ మార్చి 8న జేడీ(యూ)లో చేరనున్నారు.",
-      "summary_te": "నిశాంత్ ప్రవేశించిన సమయం నేరుగా అతని తండ్రికి పెద్ద మార్పుతో ముడిపడి ఉంది. మార్చి 5, గురువారం, నితీష్ కుమార్ రాజ్యసభకు నామినేషన్ దాఖలు చేశారు, ఇది ముఖ్యమంత్రిగా తన రికార్డు బద్దలు పదవీకాలం ముగుస్తుంది.",
       "translated": true
     },
     {
