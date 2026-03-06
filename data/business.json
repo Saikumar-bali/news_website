@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-06T20:31:14.464Z",
-  "updated_at_IST": "7/3/2026, 2:01:14 am",
+  "updated_at": "2026-03-06T21:31:12.610Z",
+  "updated_at_IST": "7/3/2026, 3:01:12 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "dc7e90d4c0010827d9dc87dc8ae89449",
+      "title": "Russia providing Iran intelligence to target US forces in Middle East: Report",
+      "summary": "Officials cited in the report claim Moscow has provided locations of US warships and aircraft, though the extent of its involvement remains unclear. The Kremlin declined to comment.",
+      "url": "https://www.livemint.com/news/world/russia-providing-iran-intelligence-to-target-us-forces-in-middle-east-report-11772828278476.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/IRAN-ISRAEL-US-WAR-0_1772696957576_1772696969505_1772829278264.jpg",
+      "published_at": "2026-03-06T20:34:58.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మధ్యప్రాచ్యంలో US దళాలను లక్ష్యంగా చేసుకోవడానికి రష్యా ఇరాన్ గూఢచారాన్ని అందిస్తుంది: నివేదిక",
+      "summary_te": "మాస్కో US యుద్ధనౌకలు మరియు విమానాల స్థానాలను అందించిందని నివేదికలో ఉదహరించిన అధికారులు, దాని ప్రమేయం ఎంతవరకు స్పష్టంగా లేదు. క్రెమ్లిన్ వ్యాఖ్యానించడానికి నిరాకరించింది.",
+      "translated": true
+    },
     {
       "id": "7e45db2c63566efa7a578ffcee34f398",
       "title": "US issues warning over Iran-aligned militias in Iraq amid efforts to help stranded citizens",
@@ -183,7 +197,7 @@
       "category": "business",
       "language": "en",
       "title_te": "కర్ణాటక U-16లను సోషల్ మీడియా నుండి నిషేధించాలని కోరుతోంది; పరిశ్రమ, నిపుణులు సందేహాస్పదంగా ఉన్నారు",
-      "summary_te": "సోషల్ మీడియా మరియు AI సంస్థలలో తెలియజేయబడిన AI- రూపొందించిన డీప్‌ఫేక్‌లపై Meity ఫిబ్రవరి 20న అణిచివేత తర్వాత కర్ణాటక ప్రతిపాదన వచ్చింది.",
+      "summary_te": "సోషల్ మీడియా మరియు AI సంస్థలలో AI- రూపొందించిన డీప్‌ఫేక్‌లపై మెయిటీ ఫిబ్రవరి 20న అణిచివేత తర్వాత కర్ణాటక ప్రతిపాదన వచ్చింది.",
       "translated": true
     },
     {
@@ -337,7 +351,7 @@
       "category": "business",
       "language": "en",
       "title_te": "PB ఫిన్‌టెక్: గోల్డ్‌మన్ సాక్స్, టాటా మ్యూచువల్ ఫండ్ రూ. 695 కోట్ల బ్లాక్ డీల్‌లో వాటాను కొనుగోలు చేశాయి.",
-      "summary_te": "PB ఫిన్‌టెక్ షేర్లు రూ. 695 కోట్ల విలువైన బ్లాక్ డీల్‌లను చూశాయి, గోల్డ్‌మన్ సాచ్స్, మ్యూచువల్ ఫండ్స్ మరియు విదేశీ పెట్టుబడిదారులు టెన్సెంట్ క్లౌడ్ యూరప్ నుండి షేర్లను కొనుగోలు చేయడం ద్వారా కంపెనీపై సంస్థాగత ఆసక్తిని కొనసాగించారు.",
+      "summary_te": "PB ఫిన్‌టెక్ షేర్లు రూ. 695 కోట్ల విలువైన బ్లాక్ డీల్‌లను చూశాయి, గోల్డ్‌మన్ సాచ్స్, మ్యూచువల్ ఫండ్స్ మరియు విదేశీ పెట్టుబడిదారులు టెన్సెంట్ క్లౌడ్ యూరప్ నుండి షేర్లను పొందడం, కంపెనీపై సంస్థాగత ఆసక్తిని కొనసాగించడాన్ని సూచిస్తుంది.",
       "translated": true
     },
     {
@@ -352,20 +366,6 @@
       "language": "en",
       "title_te": "రష్యా చమురు కొనుగోలుకు భారత్‌కు అమెరికా 30 రోజుల మినహాయింపును అసదుద్దీన్ ఒవైసీ పేల్చివేసింది: ‘వారు ఎవరు నిర్దేశిస్తారు?’",
       "summary_te": "రష్యా చమురు కొనుగోలుకు భారత్‌కు 30 రోజుల మినహాయింపును యునైటెడ్ స్టేట్స్ ట్రెజరీ డిపార్ట్‌మెంట్ మంజూరు చేసిన ఒక రోజు తర్వాత ఒవైసీ తీవ్ర విమర్శలు చేశారు. పశ్చిమాసియా వివాదం కారణంగా ఏర్పడిన చమురు సరఫరా సంక్షోభాన్ని అధిగమించేందుకు న్యూఢిల్లీ మార్గాలను పరిశీలిస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "67ddfbeb1c055e3baf847056ad3f24b6",
-      "title": "Centre assures adequate fertiliser availability despite US-Iran war supply disruptions",
-      "summary": "India has a strong inventory buffer, supported by advance stocking and relatively lower consumption during the lean season, the government said.&nbsp;",
-      "url": "https://www.livemint.com/news/india/india-kharif-fertilizer-supply-adequate-global-disruptions-war-impact-11772800943031.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/PTI07-29-2025-000588B-0_1754485084722_1754485095972_1772803985886.jpg",
-      "published_at": "2026-03-06T13:39:33.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుఎస్-ఇరాన్ యుద్ధం సరఫరాలో అంతరాయాలు ఉన్నప్పటికీ తగినన్ని ఎరువుల లభ్యతకు కేంద్రం హామీ ఇస్తుంది",
-      "summary_te": "భారతదేశం బలమైన ఇన్వెంటరీ బఫర్‌ను కలిగి ఉంది, ముందస్తు నిల్వలు మరియు లీన్ సీజన్‌లో సాపేక్షంగా తక్కువ వినియోగం ద్వారా మద్దతు లభిస్తుందని ప్రభుత్వం తెలిపింది. ",
       "translated": true
     },
     {
