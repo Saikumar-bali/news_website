@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-06T08:36:04.315Z",
-  "updated_at_IST": "6/3/2026, 2:06:04 pm",
+  "updated_at": "2026-03-06T09:40:07.121Z",
+  "updated_at_IST": "6/3/2026, 3:10:07 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "e1c341d6e5b758da8ac9ea84d6b3ee43",
+      "title": "Dubai gets 'potential missile threats' alert: From flights disruptions to recent explosions in UAE city— What we know",
+      "summary": "As tensions rise in the US-Israel conflict, Dubai residents received an alert to seek shelter from potential missile threats. The UAE's Defence Ministry reported missile strikes and casualties, with Indian airlines offering support to affected travelers amid the escalating situation.",
+      "url": "https://www.livemint.com/news/world/dubai-gets-potential-missile-threats-alert-from-flights-disruptions-to-recent-explosions-in-uae-city-what-we-know-11772786724769.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/UAE-IRAN-ISRAEL-US-WAR-0_1772787502990_1772787510186.jpg",
+      "published_at": "2026-03-06T09:06:31.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "దుబాయ్ 'సంభావ్య క్షిపణి బెదిరింపుల' హెచ్చరికను పొందుతుంది: విమానాల అంతరాయాల నుండి UAE నగరంలో ఇటీవలి పేలుళ్ల వరకు- మనకు తెలిసినది",
+      "summary_te": "యుఎస్-ఇజ్రాయెల్ వివాదంలో ఉద్రిక్తతలు పెరగడంతో, దుబాయ్ నివాసితులు సంభావ్య క్షిపణి బెదిరింపుల నుండి ఆశ్రయం పొందేందుకు హెచ్చరికను అందుకున్నారు. UAE యొక్క రక్షణ మంత్రిత్వ శాఖ క్షిపణి దాడులు మరియు ప్రాణనష్టాలను నివేదించింది, తీవ్రతరం అవుతున్న పరిస్థితుల మధ్య భారతీయ విమానయాన సంస్థలు బాధిత ప్రయాణికులకు మద్దతునిస్తున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "a251ef2ce4b1e2082e8ba970a905ee3b",
+      "title": "Nifty’s primary trend still bearish, 24,300 key level to watch: Vinay Rajani",
+      "summary": "Equity markets are experiencing renewed volatility as brief optimism fades, pushing benchmark indices back into consolidation. Investors remain cautious, with the Nifty's primary trend seen as bearish, trading below key moving averages. However, selective sectors like defence and power, particularly PSUs, show resilience and offer stock-specific opportunities.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/niftys-primary-trend-still-bearish-24300-key-level-to-watch-vinay-rajani/articleshow/129144179.cms",
+      "image": null,
+      "published_at": "2026-03-06T08:53:58.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "నిఫ్టీ ప్రాథమిక ట్రెండ్ ఇప్పటికీ బేరిష్, 24,300 కీలక స్థాయి: వినయ్ రజనీ",
+      "summary_te": "ఈక్విటీ మార్కెట్లు క్లుప్తమైన ఆశావాదం మసకబారడం, బెంచ్‌మార్క్ సూచీలను తిరిగి ఏకీకరణలోకి నెట్టడంతో కొత్త ఒడిదుడుకులను ఎదుర్కొంటున్నాయి. పెట్టుబడిదారులు జాగ్రత్తగా ఉంటారు, నిఫ్టీ యొక్క ప్రాథమిక ధోరణి బేరిష్‌గా కనిపిస్తుంది, కీలకమైన కదిలే సగటుల కంటే తక్కువగా ట్రేడవుతోంది. అయితే, డిఫెన్స్ మరియు పవర్ వంటి సెలెక్టివ్ సెక్టార్లు, ముఖ్యంగా PSUలు, స్థితిస్థాపకతను ప్రదర్శిస్తాయి మరియు స్టాక్-నిర్దిష్ట అవకాశాలను అందిస్తాయి.",
+      "translated": true
+    },
+    {
+      "id": "390d218201fcfb7f22a57c82ac60dc59",
+      "title": "Indian refiners turn to Russian oil cargoes at sea after US grants temporary waiver",
+      "summary": "Indian refiners turn to Russian oil cargoes at sea after US grants temporary waiver",
+      "url": "https://www.livemint.com/news/india/indian-refiners-turn-to-russian-oil-cargoes-at-sea-after-us-grants-temporary-waiver-11772786076809.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/MIDEAST-OIL-ASIA-0_1772786414255_1772786515036.JPG",
+      "published_at": "2026-03-06T08:43:21.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US తాత్కాలిక మాఫీని మంజూరు చేసిన తర్వాత భారతీయ రిఫైనర్లు సముద్రంలో రష్యన్ చమురు సరుకుల వైపు మొగ్గు చూపారు",
+      "summary_te": "US తాత్కాలిక మాఫీని మంజూరు చేసిన తర్వాత భారతీయ రిఫైనర్లు సముద్రంలో రష్యన్ చమురు సరుకుల వైపు మొగ్గు చూపారు",
+      "translated": true
+    },
+    {
+      "id": "473daef016c2d4840120ed24fb39f554",
+      "title": "US Iran news: Maersk suspends two shipping services amid Middle East crisis",
+      "summary": "Maersk said in a statement it would halt its FM1 service connecting the Far East to the Middle East and its ME11 service linking the Middle East to Europe",
+      "url": "https://www.livemint.com/news/world/us-iran-news-maersk-suspends-two-shipping-services-amid-middle-east-crisis-11772784679556.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/SPAIN-TRADE-43_1772785310578_1772785488982.jpg",
+      "published_at": "2026-03-06T08:26:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US ఇరాన్ వార్తలు: మిడిల్ ఈస్ట్ సంక్షోభం మధ్య మార్స్క్ రెండు షిప్పింగ్ సేవలను నిలిపివేసింది",
+      "summary_te": "మెర్స్క్ ఒక ప్రకటనలో ఫార్ ఈస్ట్ నుండి మిడిల్ ఈస్ట్‌కు కనెక్ట్ చేసే దాని FM1 సేవను మరియు మిడిల్ ఈస్ట్‌ను యూరప్‌కు అనుసంధానించే ME11 సేవను నిలిపివేస్తున్నట్లు తెలిపింది.",
+      "translated": true
+    },
     {
       "id": "e7b9be6026dec58d3ee38ea324724ab3",
       "title": "Fourteen special SpiceJet flights from UAE's Dubai, Fujairah today — Indians await homecoming amid Mid East conflict",
@@ -132,7 +188,7 @@
     },
     {
       "id": "58111a032e8accb3c64bbe8df3595f00",
-      "title": "ED raids against Reliance Power Ltd in Mumbai, Hyderabad",
+      "title": "ED raids against Reliance Power Ltd in Mumbai, Hyderabad; company denies",
       "summary": "About 10-12 locations linked to the said company and its executives are being searched in the two cities, according to officials.",
       "url": "https://www.livemint.com/news/india/ed-raids-against-reliance-power-ltd-in-mumbai-hyderabad-11772778075672.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Anil-Ambani--4_1759894355323_1759894366491_1772778173262.jpg",
@@ -140,7 +196,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ముంబై, హైదరాబాద్‌లో రిలయన్స్ పవర్ లిమిటెడ్‌పై ఈడీ దాడులు చేసింది",
+      "title_te": "ముంబై, హైదరాబాద్‌లో రిలయన్స్ పవర్ లిమిటెడ్‌పై ED దాడులు; కంపెనీ ఖండించింది",
       "summary_te": "అధికారులు తెలిపిన వివరాల ప్రకారం, పేర్కొన్న కంపెనీ మరియు దాని ఎగ్జిక్యూటివ్‌లతో అనుసంధానించబడిన 10-12 స్థానాలను తనిఖీ చేస్తున్నారు.",
       "translated": true
     },
@@ -267,7 +323,7 @@
       "category": "business",
       "language": "en",
       "title_te": "IRIS దేనా మునిగిపోయిన తర్వాత, శ్రీలంక ఇరాన్ నౌకను డాక్ చేయడానికి అనుమతిస్తుంది: US-ఇరాన్ యుద్ధానికి దీని అర్థం ఇక్కడ ఉంది",
-      "summary_te": "IRIS దేనా మునిగిపోవడం ఇప్పుడు హిందూ మహాసముద్రంపై ప్రభావం చూపుతున్న US-ఇరాన్ వివాదంలో గణనీయమైన పెరుగుదలను సూచిస్తుంది. ఇటీవలి కార్యకలాపాలలో 30కి పైగా ఇరానియన్ నౌకలను ముంచినట్లు అమెరికా పేర్కొంటున్నందున, శ్రీలంక IRINS బుషెహర్‌తో మానవతా కారణాల కోసం జోక్యం చేసుకుంది.",
+      "summary_te": "IRIS దేనా మునిగిపోవడం, ఇప్పుడు హిందూ మహాసముద్రంపై ప్రభావం చూపుతున్న US-ఇరాన్ వివాదంలో గణనీయమైన పెరుగుదలను సూచిస్తుంది. ఇటీవలి కార్యకలాపాలలో 30కి పైగా ఇరానియన్ నౌకలను ముంచినట్లు అమెరికా పేర్కొంటున్నందున, శ్రీలంక IRINS బుషెహర్‌తో మానవతా కారణాల కోసం జోక్యం చేసుకుంది.",
       "translated": true
     },
     {
@@ -300,16 +356,16 @@
     },
     {
       "id": "d8b7eed2636c208a93ecc44d95bd0e5f",
-      "title": "xAI techie says ‘never felt more alive’ after 19-hour workday, sparks work-life balance debate — ‘Until you burn out…’",
-      "summary": "The xAI techie was criticised by social media users who questioned the health implications of such extreme hours, pointing out that working for nearly 20 hours “is not healthy”",
+      "title": "Musk employee says ‘never felt more alive’ after 19-hour workday, sparks work-life balance debate—‘Until you burn out’",
+      "summary": "The xAI techie was criticised on social media, with users questioning the health implications of such extreme hours, pointing out that working nearly 20 hours “is not healthy”.",
       "url": "https://www.livemint.com/news/trends/xai-techie-says-never-felt-more-alive-after-19-hour-workday-sparks-work-life-balance-debate-until-you-burn-out-11772763552825.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/G3x_7o7XwAAgg1o_1772766423850_1772766432685.jpeg",
       "published_at": "2026-03-06T03:15:38.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "xAI టెక్కీ 19 గంటల పనిదినం తర్వాత 'ఎప్పుడూ సజీవంగా అనిపించలేదు' అని చెప్పాడు, పని-జీవిత సమతుల్యత చర్చను రేకెత్తిస్తుంది - 'మీరు కాలిపోయే వరకు...'",
-      "summary_te": "XAI టెక్కీని సోషల్ మీడియా వినియోగదారులు విమర్శించారు, వారు అటువంటి తీవ్రమైన గంటల యొక్క ఆరోగ్య ప్రభావాలను ప్రశ్నించారు, దాదాపు 20 గంటల పాటు పని చేయడం “ఆరోగ్యం కాదు” అని ఎత్తి చూపారు.",
+      "title_te": "మస్క్ ఉద్యోగి 19 గంటల పనిదినం తర్వాత 'ఎప్పుడూ సజీవంగా అనిపించలేదు' అని చెప్పాడు, పని-జీవిత సమతుల్యత చర్చకు దారితీసింది-'మీరు కాలిపోయే వరకు'",
+      "summary_te": "XAI టెక్కీ సోషల్ మీడియాలో విమర్శించబడ్డారు, వినియోగదారులు దాదాపు 20 గంటలు పని చేయడం \"ఆరోగ్యకరమైనది కాదు\" అని ఎత్తి చూపుతూ, అటువంటి తీవ్రమైన గంటల యొక్క ఆరోగ్య ప్రభావాలను ప్రశ్నిస్తున్నారు.",
       "translated": true
     },
     {
@@ -338,62 +394,6 @@
       "language": "en",
       "title_te": "యుఎస్ హౌస్ యుద్ధ అధికారాల తీర్మానాన్ని తిరస్కరించింది, ఇరాన్‌పై 'యుద్ధానికి' మద్దతు ఇస్తుంది; 'ట్రంప్ రాజు కాదు' అని డెమొక్రాట్లు చెప్పారు",
       "summary_te": "212-219 ఓట్లలో ఎక్కువగా పార్టీ శ్రేణులలో ఇరాన్‌పై ట్రంప్ దాడులను ఆపడానికి యుద్ధ అధికారాల తీర్మానాన్ని తిరస్కరించడంలో US హౌస్ సెనేట్‌లో చేరింది. సెనేట్ మునుపటి రోజు ఇదే విధమైన తీర్మానాన్ని తిరస్కరించింది.",
-      "translated": true
-    },
-    {
-      "id": "c21c441cf7f85ee984243e01b07c11ac",
-      "title": "Positive Breakout: These 13 stocks cross above their 200 DMAs",
-      "summary": "In the Nifty500 pack, 13 stocks' closing prices crossed above their 200 DMA (Daily Moving Averages) on March 5, 2026, according to stockedge.com's technical scan data. The 200-day daily moving average (DMA) is used by traders as a key indicator for determining the overall trend in a particular stock. As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend. Take a look:",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-13-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/129126824.cms",
-      "image": null,
-      "published_at": "2026-03-06T02:12:32.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "సానుకూల బ్రేక్అవుట్: ఈ 13 స్టాక్‌లు వాటి 200 DMAల కంటే ఎక్కువగా ఉన్నాయి",
-      "summary_te": "నిఫ్టీ500 ప్యాక్‌లో, stockedge.com యొక్క సాంకేతిక స్కాన్ డేటా ప్రకారం, మార్చి 5, 2026న 13 స్టాక్‌ల ముగింపు ధరలు వాటి 200 DMA (డైలీ మూవింగ్ యావరేజెస్) కంటే ఎక్కువగా ఉన్నాయి. 200-రోజుల రోజువారీ మూవింగ్ యావరేజ్ (DMA)ని వ్యాపారులు నిర్దిష్ట స్టాక్‌లో మొత్తం ట్రెండ్‌ని నిర్ణయించడానికి కీలక సూచికగా ఉపయోగిస్తారు. రోజువారీ టైమ్‌ఫ్రేమ్‌లో స్టాక్ 200-రోజుల SMA కంటే ఎక్కువ ధర ఉన్నంత వరకు, ఇది సాధారణంగా మొత్తం అప్‌ట్రెండ్‌లో ఉన్నట్లు పరిగణించబడుతుంది. ఒకసారి చూడండి:",
-      "translated": true
-    },
-    {
-      "id": "90405fa59264937f76590a91f6bc2d20",
-      "title": "Iran Barrage Sweeps Mideast as Trump Weighs In on Succession",
-      "summary": "A barrage of Iranian missiles and drones targeted at least five countries across the Middle East, prompting several governments to urge their citizens to take shelter, while Israel carried out a 12th wave of airstrikes on Tehran and the US suspended operations at its embassy in Kuwait.",
-      "url": "https://www.livemint.com/news/world/iran-barrage-sweeps-mideast-as-trump-weighs-in-on-succession-11772762641520.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news2_1733464197434_1733464227231.jpg",
-      "published_at": "2026-03-06T02:04:01.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ట్రంప్ వారసత్వాన్ని తూలనాడడంతో ఇరాన్ బ్యారేజ్ మధ్యప్రాచ్యాన్ని కైవసం చేసుకుంది",
-      "summary_te": "ఇరాన్ క్షిపణులు మరియు డ్రోన్‌ల దాడి మధ్యప్రాచ్యం అంతటా కనీసం ఐదు దేశాలను లక్ష్యంగా చేసుకుంది, అనేక ప్రభుత్వాలు తమ పౌరులను ఆశ్రయం పొందమని ప్రేరేపించాయి, అయితే ఇజ్రాయెల్ టెహ్రాన్‌పై 12వ తరంగ వైమానిక దాడులను నిర్వహించింది మరియు యుఎస్ కువైట్‌లోని దాని రాయబార కార్యాలయం వద్ద కార్యకలాపాలను నిలిపివేసింది.",
-      "translated": true
-    },
-    {
-      "id": "ec984150918f346905cd4f9e34a3c65c",
-      "title": "Dubai, UAE, Abu Dhabi News LIVE updates: Dubai residents get 'potential missile threats' alert on phones, reports say",
-      "summary": "Dubai, UAE, Abu Dhabi News LIVE updates: One ballistic missile and six drones hit UAE territory on Thursday, said the nation's Defense Ministry, as Iran launched a fresh attack across the Gulf.",
-      "url": "https://www.livemint.com/news/world/dubai-uae-abu-dhabi-news-live-updates-iran-tehran-aerial-strike-us-israel-war-11772758185141.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Pictures-of-the-Week-Global-Photo-Gallery-12_1772768738899_1772768753251.jpg",
-      "published_at": "2026-03-06T01:30:19.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "దుబాయ్, యుఎఇ, అబుదాబి న్యూస్ లైవ్ అప్‌డేట్‌లు: దుబాయ్ నివాసితులు ఫోన్‌లలో 'సంభావ్య క్షిపణి బెదిరింపుల' హెచ్చరికను పొందుతారని నివేదికలు చెబుతున్నాయి",
-      "summary_te": "దుబాయ్, యుఎఇ, అబుదాబి న్యూస్ లైవ్ అప్‌డేట్‌లు: ఒక బాలిస్టిక్ క్షిపణి మరియు ఆరు డ్రోన్‌లు గురువారం యుఎఇ భూభాగాన్ని తాకినట్లు ఇరాన్ గల్ఫ్ అంతటా తాజా దాడిని ప్రారంభించినట్లు ఆ దేశ రక్షణ మంత్రిత్వ శాఖ తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "f6a066ccf74bc56b83aa53a49c273132",
-      "title": "Trump welcomes Messi, Inter Miami to White House, highlights US-Israeli action in Iran — ‘You may be better than Pele’",
-      "summary": "Inter Miami players come bearing gifts for Donald Trump. They include a No. 47 jersey from the team's signature pink kit, reflecting his status as the nation's 47th president.",
-      "url": "https://www.livemint.com/news/us-news/trump-welcomes-messi-inter-miami-to-white-house-highlights-us-israeli-action-in-iran-you-may-be-better-than-pele-11772757687213.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/12_1772758053277_1772758060121.jpg",
-      "published_at": "2026-03-06T01:00:01.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ట్రంప్ మెస్సీని స్వాగతించారు, ఇంటర్ మయామి వైట్ హౌస్‌కి, ఇరాన్‌లో యుఎస్-ఇజ్రాయెల్ చర్యను హైలైట్ చేసారు - 'మీరు పీలే కంటే మెరుగ్గా ఉండవచ్చు'",
-      "summary_te": "డొనాల్డ్ ట్రంప్‌కు బహుమతులు అందజేసేందుకు ఇంటర్ మయామి ఆటగాళ్లు వచ్చారు. వారు దేశం యొక్క 47వ అధ్యక్షుడిగా అతని హోదాను ప్రతిబింబిస్తూ జట్టు సంతకం పింక్ కిట్ నుండి నంబర్ 47 జెర్సీని కలిగి ఉన్నారు.",
       "translated": true
     },
     {
@@ -476,7 +476,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఒప్పందం కుదిరింది: అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
+      "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
@@ -869,7 +869,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
