@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-06T17:39:10.803Z",
-  "updated_at_IST": "6/3/2026, 11:09:10 pm",
+  "updated_at": "2026-03-06T18:41:38.293Z",
+  "updated_at_IST": "7/3/2026, 12:11:38 am",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "f5da4b8b53a2d0b0282d02ab599be380",
+      "title": "Trump issues stern warning to Iran amid Middle East conflict, says, ‘you will face absolute guaranteed death…’",
+      "summary": "US President Trump stated that talks with Iran are off unless it surrenders unconditionally.&nbsp;",
+      "url": "https://www.livemint.com/news/us-news/trump-issues-stern-warning-to-iran-amid-middle-east-conflict-says-you-will-face-absolute-guaranteed-death-11772816304418.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/TRUMP-INTER-MIAMI-36_1772816477940_1772817413249.jpg",
+      "published_at": "2026-03-06T17:58:16.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ వివాదాల మధ్య ట్రంప్ ఇరాన్‌కు గట్టి వార్నింగ్ ఇస్తూ, 'మీరు ఖచ్చితంగా మరణాన్ని ఎదుర్కోవలసి ఉంటుంది...'",
+      "summary_te": "ఇరాన్ బేషరతుగా లొంగిపోతే తప్ప ఆ దేశంతో చర్చలు ఆగవని అమెరికా అధ్యక్షుడు ట్రంప్ ప్రకటించారు. ",
+      "translated": true
+    },
+    {
+      "id": "0c5cc005cba0d2d86e5a2daf93df414a",
+      "title": "Watch: Pastors gather around Trump in Oval Office, pray for wisdom and protection amid Iran crisis",
+      "summary": "Pastors and evangelical leaders gathered around Donald Trump in the Oval Office and prayed for strength and guidance amid the ongoing Iran crisis.",
+      "url": "https://www.livemint.com/news/us-news/watch-pastors-gather-around-trump-in-oval-office-pray-for-wisdom-and-protection-amid-iran-crisis-11772818681546.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/resized-pp_1772819241360_1772819258581.jpg",
+      "published_at": "2026-03-06T17:51:22.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "చూడండి: పాస్టర్లు ఓవల్ కార్యాలయంలో ట్రంప్ చుట్టూ గుమిగూడారు, ఇరాన్ సంక్షోభం మధ్య జ్ఞానం మరియు రక్షణ కోసం ప్రార్థించారు",
+      "summary_te": "పాస్టర్లు మరియు సువార్తికులు ఓవల్ కార్యాలయంలో డొనాల్డ్ ట్రంప్ చుట్టూ గుమిగూడారు మరియు కొనసాగుతున్న ఇరాన్ సంక్షోభం మధ్య బలం మరియు మార్గదర్శకత్వం కోసం ప్రార్థించారు.",
+      "translated": true
+    },
+    {
+      "id": "22e5e18f8fa5c758528e90186d371791",
+      "title": "‘No clear aim’ to UPSC topper: How Anuj Agnihotri cracked civil services exam with 13 hour studies, no coaching",
+      "summary": "Anuj cleared the Union Territories Civil Services (UTCS) examination in his first attempt in 2023. He is currently under the probation period as an SDM in Delhi",
+      "url": "https://www.livemint.com/news/india/no-clear-aim-to-upsc-topper-how-anuj-agnihotri-cracked-civil-services-exam-with-13-hour-studies-no-coaching-11772815582448.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/PTI03-06-2026-000233A-0_1772818241516_1772818251735.jpg",
+      "published_at": "2026-03-06T17:31:29.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "యుపిఎస్‌సి టాపర్‌కి 'స్పష్టమైన లక్ష్యం లేదు': అనుజ్ అగ్నిహోత్రి 13 గంటల చదువుతో, కోచింగ్ లేకుండా సివిల్ సర్వీసెస్ పరీక్షను ఎలా ఛేదించాడు",
+      "summary_te": "అనూజ్ తన మొదటి ప్రయత్నంలో 2023లో యూనియన్ టెరిటరీస్ సివిల్ సర్వీసెస్ (UTCS) పరీక్షలో ఉత్తీర్ణుడయ్యాడు. అతను ప్రస్తుతం ఢిల్లీలో SDMగా ప్రొబేషన్ పీరియడ్‌లో ఉన్నాడు.",
+      "translated": true
+    },
     {
       "id": "04aa500d8a0447221a979b706a76da57",
       "title": "T20 World Cup final: Akasa Air, Air India Express to operate special flights to Ahmedabad on Mar 8",
@@ -113,7 +155,7 @@
       "category": "business",
       "language": "en",
       "title_te": "కర్ణాటక U-16లను సోషల్ మీడియా నుండి నిషేధించాలని కోరుతోంది; పరిశ్రమ, నిపుణులు సందేహాస్పదంగా ఉన్నారు",
-      "summary_te": "సోషల్ మీడియా మరియు AI సంస్థలలో AI- రూపొందించిన డీప్‌ఫేక్‌లపై మెయిటీ ఫిబ్రవరి 20న అణిచివేత తర్వాత కర్ణాటక ప్రతిపాదన వచ్చింది.",
+      "summary_te": "సోషల్ మీడియా మరియు AI సంస్థలలో తెలియజేయబడిన AI- రూపొందించిన డీప్‌ఫేక్‌లపై Meity ఫిబ్రవరి 20న అణిచివేత తర్వాత కర్ణాటక ప్రతిపాదన వచ్చింది.",
       "translated": true
     },
     {
@@ -205,7 +247,7 @@
       "title": "Earthquake today: 6.7-Magnitude quake hits Solomon Islands' Kirakira",
       "summary": "Earthquake today: 6.7-Magnitude quake hits Solomon Islands' Kirakira",
       "url": "https://www.livemint.com/news/world/earthquake-today-6-7-magnitude-quake-hits-solomon-islands-kirakira-11772808280961.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/seismograph_1762128993722_1762128993835_1772808432399.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/seismograph_1762128993722_1762128993835_1772808432399.jpg",
       "published_at": "2026-03-06T14:46:29.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -267,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "PB ఫిన్‌టెక్: గోల్డ్‌మన్ సాక్స్, టాటా మ్యూచువల్ ఫండ్ రూ. 695 కోట్ల బ్లాక్ డీల్‌లో వాటాను కొనుగోలు చేశాయి.",
-      "summary_te": "PB ఫిన్‌టెక్ షేర్లు రూ. 695 కోట్ల విలువైన బ్లాక్ డీల్‌లను చూశాయి, గోల్డ్‌మన్ సాచ్స్, మ్యూచువల్ ఫండ్స్ మరియు విదేశీ పెట్టుబడిదారులు టెన్సెంట్ క్లౌడ్ యూరప్ నుండి షేర్లను పొందడం, కంపెనీపై సంస్థాగత ఆసక్తిని కొనసాగించడాన్ని సూచిస్తుంది.",
+      "summary_te": "PB ఫిన్‌టెక్ షేర్లు రూ. 695 కోట్ల విలువైన బ్లాక్ డీల్‌లను చూశాయి, గోల్డ్‌మన్ సాచ్స్, మ్యూచువల్ ఫండ్స్ మరియు విదేశీ పెట్టుబడిదారులు టెన్సెంట్ క్లౌడ్ యూరప్ నుండి షేర్లను కొనుగోలు చేయడం ద్వారా కంపెనీపై సంస్థాగత ఆసక్తిని కొనసాగించారు.",
       "translated": true
     },
     {
@@ -300,7 +342,7 @@
     },
     {
       "id": "6a7e96cfbdd3832d8394c77d374a3d6b",
-      "title": "Gulf News LIVE: Emirates Airlines resume flights amid tensions, Air France repatriation flight forced to turn back",
+      "title": "Gulf News LIVE: Emirates Airlines resumes flights amid tensions, Air France repatriation flight forced to turn back",
       "summary": "Dubai News LIVE Today: The outbreak of the U.S.-Israel war against Iran has led to flight cancellations across the Middle East. Follow for UAE news live updates on flight status, safety advisories, and the latest news on UAE regional security.",
       "url": "https://www.livemint.com/news/world/dubai-abu-dhabi-doha-live-news-iran-attack-uae-missile-dubai-airport-status-us-mission-alert-march-6-2026-11772801261212.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Bosnia-Iran-Israel-US-7_1772801731633_1772801746557.jpg",
@@ -309,7 +351,7 @@
       "category": "business",
       "language": "en",
       "title_te": "గల్ఫ్ న్యూస్ లైవ్: ఎమిరేట్స్ ఎయిర్‌లైన్స్ ఉద్రిక్తతల మధ్య విమానాలను తిరిగి ప్రారంభించింది, ఎయిర్ ఫ్రాన్స్ స్వదేశానికి తిరిగి రావాల్సిన విమానం",
-      "summary_te": "దుబాయ్ న్యూస్ లైవ్ టుడే: ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం చెలరేగడంతో మధ్యప్రాచ్యం అంతటా విమానాల రద్దుకు దారితీసింది. విమాన స్థితి, భద్రతా సలహాలు మరియు UAE ప్రాంతీయ భద్రతపై తాజా వార్తలపై UAE వార్తల ప్రత్యక్ష నవీకరణల కోసం అనుసరించండి.",
+      "summary_te": "దుబాయ్ న్యూస్ లైవ్ టుడే: ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం చెలరేగడంతో మధ్యప్రాచ్యం అంతటా విమానాలు రద్దు చేయబడ్డాయి. విమాన స్థితి, భద్రతా సలహాలు మరియు UAE ప్రాంతీయ భద్రతపై తాజా వార్తలపై UAE వార్తల ప్రత్యక్ష నవీకరణల కోసం అనుసరించండి.",
       "translated": true
     },
     {
@@ -327,34 +369,6 @@
       "translated": true
     },
     {
-      "id": "37c28473f43efe65d88a6b34279a3a59",
-      "title": "Reserve Bank of India announces ₹1 lakh crore OMO purchase of government securities to boost liquidity",
-      "summary": "The central bank said the purchases will be carried out in two tranches of ₹50,000 crore each, scheduled for March 9, 2026, and March 13, 2026.",
-      "url": "https://www.livemint.com/news/india/reserve-bank-of-india-announces-1-lakh-crore-omo-purchase-of-government-securities-to-boost-liquidity-11772803586469.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/INDIA-CENBANK-RUPEE-DEFENCE-0_1772803746473_1772803758589.JPG",
-      "published_at": "2026-03-06T13:29:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "లిక్విడిటీని పెంచడానికి రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ₹1 లక్ష కోట్ల OMO ప్రభుత్వ సెక్యూరిటీల కొనుగోలును ప్రకటించింది",
-      "summary_te": "మార్చి 9, 2026 మరియు మార్చి 13, 2026న షెడ్యూల్ చేయబడిన ఒక్కొక్కటి ₹50,000 కోట్ల చొప్పున రెండు విడతలుగా కొనుగోళ్లు జరుగుతాయని సెంట్రల్ బ్యాంక్ తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "ed70b93392f8e4f7072421f5a0a2e3b6",
-      "title": "Noida International Airport in Jewar gets aerodome license by DGCA, to soon begin operations",
-      "summary": "The DGCA has issued an aerodrome license for Noida International Airport in Jewar, Uttar Pradesh, developed by YIAPL, a subsidiary of Zurich Airport International AG, under a PPP model with the state and central governments.",
-      "url": "https://www.livemint.com/news/india/noida-international-airport-in-jewar-gets-aerodome-license-by-dgca-to-soon-begin-operations-11772803284767.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Noida-International-Airport-receives-DGCA-aerodrom_1772803633508_1772803699978.jpg",
-      "published_at": "2026-03-06T13:25:07.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జెవార్‌లోని నోయిడా అంతర్జాతీయ విమానాశ్రయం త్వరలో కార్యకలాపాలను ప్రారంభించేందుకు DGCA ద్వారా ఏరోడోమ్ లైసెన్స్ పొందింది",
-      "summary_te": "ఉత్తరప్రదేశ్‌లోని జేవార్‌లోని నోయిడా అంతర్జాతీయ విమానాశ్రయం కోసం DGCA ఏరోడ్రోమ్ లైసెన్స్‌ను జారీ చేసింది, దీనిని జ్యూరిచ్ ఎయిర్‌పోర్ట్ ఇంటర్నేషనల్ AG యొక్క అనుబంధ సంస్థ YIAPL అభివృద్ధి చేసింది, ఇది రాష్ట్ర మరియు కేంద్ర ప్రభుత్వాలతో PPP మోడల్‌లో ఉంది.",
-      "translated": true
-    },
-    {
       "id": "9554fa400b3f697e8f3b950ed316b760",
       "title": "Nithin Kamath suggests how to curb offshore betting apps mushrooming after real money gaming ban",
       "summary": "Following India’s ban on real-money online gaming, offshore betting apps are rapidly growing. Nithin Kamath warns they target Indian users, raise fraud risks, and suggests blocking domestic payment access to curb their spread.",
@@ -366,20 +380,6 @@
       "language": "en",
       "title_te": "రియల్ మనీ గేమింగ్ బ్యాన్ తర్వాత పుట్టగొడుగుల్లా పుట్టుకొస్తున్న ఆఫ్‌షోర్ బెట్టింగ్ యాప్‌లను ఎలా అరికట్టాలో నితిన్ కామత్ సూచిస్తున్నారు",
       "summary_te": "రియల్-మనీ ఆన్‌లైన్ గేమింగ్‌పై భారతదేశం నిషేధించిన తర్వాత, ఆఫ్‌షోర్ బెట్టింగ్ యాప్‌లు వేగంగా పెరుగుతున్నాయి. నితిన్ కామత్ వారు భారతీయ వినియోగదారులను లక్ష్యంగా చేసుకుంటారని హెచ్చరిస్తున్నారు, మోసం ప్రమాదాలను పెంచుతారు మరియు వారి వ్యాప్తిని అరికట్టడానికి దేశీయ చెల్లింపు యాక్సెస్‌ను నిరోధించాలని సూచించారు.",
-      "translated": true
-    },
-    {
-      "id": "f40723d1e96d23e2044cd113efdfc442",
-      "title": "Iran’s Pezeshkian affirms peace commitment while emphasizing readiness to defend sovereignty",
-      "summary": "In a post on X (formerly Twitter), Pezeshkian stated that mediation efforts should focus on those who “underestimated the Iranian people and ignited this conflict.”",
-      "url": "https://www.livemint.com/news/world/irans-pezeshkian-affirms-peace-commitment-while-emphasizing-readiness-to-defend-sovereignty-11772801521644.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/IRAN-CRISIS-PROTEST-38_1772801830538_1772801837324.JPG",
-      "published_at": "2026-03-06T13:05:50.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ యొక్క పెజెష్కియన్ సార్వభౌమత్వాన్ని రక్షించడానికి సంసిద్ధతను నొక్కి చెబుతూనే శాంతి నిబద్ధతను ధృవీకరిస్తుంది",
-      "summary_te": "X (గతంలో Twitter)లో ఒక పోస్ట్‌లో, \"ఇరానియన్ ప్రజలను తక్కువగా అంచనా వేసిన మరియు ఈ సంఘర్షణను రేకెత్తించిన\" వారిపై మధ్యవర్తిత్వ ప్రయత్నాలు దృష్టి పెట్టాలని పెజెష్కియన్ పేర్కొన్నాడు.",
       "translated": true
     },
     {
@@ -476,7 +476,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఒప్పందం కుదిరింది: అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
+      "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
@@ -869,7 +869,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
