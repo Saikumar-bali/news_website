@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-07T11:23:11.602Z",
-  "updated_at_IST": "7/3/2026, 4:53:11 pm",
+  "updated_at": "2026-03-07T12:33:02.504Z",
+  "updated_at_IST": "7/3/2026, 6:03:02 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "756ee5ee84893ef2fab4e02fd63391d9",
+      "title": "Mulder replaces injured Eathan Bosch for New Zealand T20Is",
+      "summary": "Bosch has been ruled out with a hamstring injury",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527230.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401825.jpg",
+      "published_at": "2026-03-07T11:48:29.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "న్యూజిలాండ్ T20Iలకు గాయపడిన ఈథాన్ బాష్ స్థానంలో ముల్డర్ వచ్చాడు",
+      "summary_te": "బాష్ స్నాయువు గాయంతో జట్టుకు దూరమయ్యాడు",
+      "translated": true
+    },
+    {
+      "id": "cdeacaf74bcaea4e5135fac95fddb0c5",
+      "title": "Santner: 'Wouldn't mind breaking a few hearts to lift the trophy'",
+      "summary": "\"It's easy to say it's just another game, but everyone knows it's probably not. But I think the way you go about it has to be the same\"",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527228.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414472.jpg",
+      "published_at": "2026-03-07T11:40:02.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సాంట్నర్: 'ట్రోఫీని ఎత్తేందుకు కొన్ని హృదయాలను బద్దలు కొట్టడం పర్వాలేదు'",
+      "summary_te": "\"ఇది కేవలం మరొక ఆట అని చెప్పడం చాలా సులభం, కానీ అది బహుశా కాదని అందరికీ తెలుసు. కానీ మీరు దాని గురించి వెళ్ళే విధానం అలాగే ఉండాలని నేను భావిస్తున్నాను\"",
+      "translated": true
+    },
     {
       "id": "87cb33ab091e50646c5b0ef9d46fce90",
       "title": "McAndrew, Head power South Australia towards Shield final",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "హాంప్‌షైర్ మైఖేల్ నేసర్ డీల్ పడిపోయిన తర్వాత జేడెన్ సీల్స్‌ను తీసుకువచ్చింది",
       "summary_te": "యాషెస్ పాత్ర అతనికి సెంట్రల్ కాంట్రాక్ట్ లభించిన తర్వాత నెసెర్‌ను క్రికెట్ ఆస్ట్రేలియా వైదొలిగింది",
-      "translated": true
-    },
-    {
-      "id": "97c3207562e464e35bbf6d4aa64d1480",
-      "title": "Jamie Siddons appointed Sri Lanka Women head coach",
-      "summary": "He takes over from Rumesh Ratnayake, who had quietly concluded his tenure at the end of 2025",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526940.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/301600/301663.jpg",
-      "published_at": "2026-03-05T11:46:45.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "శ్రీలంక మహిళల ప్రధాన కోచ్‌గా జామీ సిడాన్స్ నియమితులయ్యారు",
-      "summary_te": "అతను 2025 చివరిలో తన పదవీకాలాన్ని నిశ్శబ్దంగా ముగించిన రుమేష్ రత్నాయకే నుండి బాధ్యతలు స్వీకరించాడు.",
-      "translated": true
-    },
-    {
-      "id": "b92588caecdeee4c002b80ee42af43db",
-      "title": "Halliday's maiden ODI century, Kerr sisters' seven wickets hand Zimbabwe a walloping",
-      "summary": "Brooke Halliday struck 157*, the joint-third-highest score by a NZ batter in ODIs, as Zimbabwe went down by a record 180 runs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526917.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414371.jpg",
-      "published_at": "2026-03-05T10:27:19.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హాలీడే తొలి వన్డే సెంచరీ, కెర్ సోదరీమణుల ఏడు వికెట్లు జింబాబ్వేను దెబ్బతీశాయి.",
-      "summary_te": "బ్రూక్ హాలిడే 157* పరుగులు చేశాడు, ఇది ODIలలో ఒక NZ బ్యాటర్ ద్వారా ఉమ్మడి-మూడో అత్యధిక స్కోరు, జింబాబ్వే రికార్డు 180 పరుగులతో పరాజయం పాలైంది.",
       "translated": true
     }
   ]
