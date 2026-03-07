@@ -1,9 +1,107 @@
 {
-  "updated_at": "2026-03-07T21:22:46.163Z",
-  "updated_at_IST": "8/3/2026, 2:52:46 am",
+  "updated_at": "2026-03-07T22:15:05.263Z",
+  "updated_at_IST": "8/3/2026, 3:45:05 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "fdf18b8478b3ad87fd71f72df9df4b07",
+      "title": "EAM Jaishankar: Let Iranian ship dock on humanitarian grounds",
+      "summary": "India's ascent is unstoppable, driven by its own strength, not others' missteps, External Affairs Minister S Jaishankar asserted. He confirmed India granted humanitarian docking to Iranian ship IRIS LAVAN in Kochi following technical issues, days before another Iranian warship was sunk. Jaishankar emphasized India's role as a security provider in the Indian Ocean, guided by humanitarian principles.",
+      "url": "https://timesofindia.indiatimes.com/india/eam-jaishankar-let-iranian-ship-dock-on-humanitarian-grounds/articleshow/129236826.cms",
+      "image": "https://static.toiimg.com/photo/msid-129236972,imgsize-46682.cms",
+      "published_at": "2026-03-07T21:44:24.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "EAM జైశంకర్: మానవతా ప్రాతిపదికన ఇరాన్ నౌకను డాక్ చేయనివ్వండి",
+      "summary_te": "భారతదేశ ఆరోహణ ఆపలేనిది, దాని స్వంత బలంతో నడిచేది, ఇతరుల తప్పుల వల్ల కాదు, అని విదేశాంగ మంత్రి ఎస్ జైశంకర్ నొక్కి చెప్పారు. మరొక ఇరాన్ యుద్ధనౌక మునిగిపోవడానికి కొన్ని రోజుల ముందు, సాంకేతిక సమస్యల కారణంగా కొచ్చిలోని ఇరాన్ నౌక ఐరిస్ లావాన్‌కు భారతదేశం మానవతా డాకింగ్ మంజూరు చేసిందని ఆయన ధృవీకరించారు. హిందూ మహాసముద్రంలో మానవతా సూత్రాల ద్వారా మార్గనిర్దేశం చేయబడిన భద్రతా ప్రదాతగా భారతదేశం యొక్క పాత్రను జైశంకర్ నొక్కిచెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "e405c35be9d58fec78788929ff81dd69",
+      "title": "Delhi heads to summers with hottest March day in 50 yrs, mercury up in north India",
+      "summary": "Delhi logged a maximum temperature of 35.7 degrees Celsius on Saturday, which is the highest reading logged for the first week of March in the last 50 years.",
+      "url": "https://www.hindustantimes.com/india-news/delhi-heads-to-summers-with-hottest-march-day-in-50-yrs-mercury-up-in-north-india-101772916820337.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/07/1600x900/logo/Delhi-Hot-Day-weather--6_1772919378119_1772919395878.jpg",
+      "published_at": "2026-03-07T21:44:23.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఢిల్లీ 50 ఏళ్లలో మార్చిలో అత్యంత వేడిగా ఉండే వేసవి రోజుతో ఉత్తర భారతదేశంలో పాదరసం పెరిగింది",
+      "summary_te": "ఢిల్లీలో శనివారం గరిష్టంగా 35.7 డిగ్రీల సెల్సియస్ ఉష్ణోగ్రత నమోదైంది, ఇది గత 50 ఏళ్లలో మార్చి మొదటి వారంలో నమోదు చేయబడిన అత్యధిక పఠనం.",
+      "translated": true
+    },
+    {
+      "id": "e653109690256a2482fb9ea441215a33",
+      "title": "Congress sees notice against Om Birla as 'strong message'",
+      "summary": "Congress believes the removal notice against Speaker Om Birla sends a strong message about the undermining of the opposition under BJP rule. The opposition is buoyed by TMC's support for the no-confidence motion, aiming to show a vertically divided Lok Sabha and highlight an unequal parliamentary battle.",
+      "url": "https://timesofindia.indiatimes.com/india/congress-sees-notice-against-om-birla-as-strong-message/articleshow/129236000.cms",
+      "image": "https://static.toiimg.com/photo/msid-129236288,imgsize-43818.cms",
+      "published_at": "2026-03-07T21:19:28.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఓం బిర్లాకు వ్యతిరేకంగా కాంగ్రెస్ నోటీసును బలమైన సందేశంగా భావిస్తోంది",
+      "summary_te": "స్పీకర్ ఓం బిర్లాపై తొలగింపు నోటీసు బిజెపి పాలనలో ప్రతిపక్షాలను అణగదొక్కడం గురించి బలమైన సందేశాన్ని పంపుతుందని కాంగ్రెస్ అభిప్రాయపడింది. అవిశ్వాస తీర్మానానికి టిఎంసి మద్దతు ఇవ్వడంతో ప్రతిపక్షం ఉత్సాహంగా ఉంది, నిలువుగా విభజించబడిన లోక్‌సభను చూపడం మరియు అసమాన పార్లమెంటరీ పోరును హైలైట్ చేయడం లక్ష్యంగా పెట్టుకుంది.",
+      "translated": true
+    },
+    {
+      "id": "8940a6c2ec7d1182da6a5ce3be108de3",
+      "title": "Punjab: Police officer beaten to death in village near Amritsar",
+      "summary": "An Assistant Sub-Inspector, Jagjit Singh, was tragically beaten to death in his native village near Amritsar following a personal dispute. The altercation reportedly began when relatives of his son's girlfriend raised objections, escalating into a violent scuffle where the ASI was struck with iron rods. Five suspects have been apprehended, with police continuing efforts to locate others involved.",
+      "url": "https://timesofindia.indiatimes.com/india/punjab-police-officer-beaten-to-death-in-village-near-amritsar/articleshow/129235900.cms",
+      "image": "https://static.toiimg.com/photo/msid-129235950,imgsize-29464.cms",
+      "published_at": "2026-03-07T21:15:58.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "పంజాబ్: అమృత్‌సర్ సమీపంలోని ఓ గ్రామంలో పోలీసు అధికారిని కొట్టి చంపారు",
+      "summary_te": "జగ్జీత్ సింగ్ అనే అసిస్టెంట్ సబ్-ఇన్‌స్పెక్టర్ వ్యక్తిగత వివాదం కారణంగా అమృత్‌సర్ సమీపంలోని అతని స్వగ్రామంలో దారుణంగా కొట్టి చంపబడ్డాడు. అతని కుమారుడి ప్రియురాలి బంధువులు అభ్యంతరం వ్యక్తం చేయడంతో వాగ్వాదం ప్రారంభమై, హింసాత్మక ఘర్షణకు దారితీసింది, అక్కడ ఏఎస్‌ఐని ఇనుప రాడ్‌లతో కొట్టారు. ఐదుగురు నిందితులను అదుపులోకి తీసుకున్నారు, ప్రమేయం ఉన్న ఇతరులను గుర్తించేందుకు పోలీసులు ప్రయత్నాలు కొనసాగిస్తున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "911f857544f942e8751a4f5011362a7a",
+      "title": "Government may scrap NOC for inter-state vehicle transfers",
+      "summary": "Inter-state vehicle transfers are set to become significantly easier as the government plans to eliminate the need for No Objection Certificates (NOCs). A NITI Aayog committee recommended an auto-generated clearance system, leveraging the centralized VAHAN database. This reform will greatly benefit vehicle owners relocating between states, streamlining the registration process.",
+      "url": "https://timesofindia.indiatimes.com/india/government-may-scrap-noc-for-inter-state-vehicle-transfers/articleshow/129235789.cms",
+      "image": "https://static.toiimg.com/photo/msid-129235858,imgsize-39088.cms",
+      "published_at": "2026-03-07T21:12:20.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "అంతర్ రాష్ట్ర వాహనాల బదిలీల కోసం ప్రభుత్వం NOCని రద్దు చేయవచ్చు",
+      "summary_te": "నిరభ్యంతర ధృవీకరణ పత్రాల (ఎన్‌ఓసి) అవసరాన్ని తొలగించాలని ప్రభుత్వం యోచిస్తున్నందున అంతర్ రాష్ట్ర వాహనాల బదిలీలు గణనీయంగా సులభతరం కానున్నాయి. NITI ఆయోగ్ కమిటీ కేంద్రీకృత వాహన్ డేటాబేస్‌ను ప్రభావితం చేస్తూ ఆటో-జనరేటెడ్ క్లియరెన్స్ సిస్టమ్‌ను సిఫార్సు చేసింది. రిజిస్ట్రేషన్ ప్రక్రియను క్రమబద్ధీకరించడం ద్వారా రాష్ట్రాల మధ్య మకాం మార్చే వాహన యజమానులకు ఈ సంస్కరణ ఎంతో ప్రయోజనం చేకూరుస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "4d1cc43959bb35054675754d9c3793c6",
+      "title": "US deal likely to be worked out in 3-4 months: Officials",
+      "summary": "India is poised to finalize trade deals with the US within months, pending clarity on American tariff strategies. New Delhi remains committed, aiming for favorable terms for its farmers, including market access for mangoes without reciprocal farm product commitments. The nation has secured a competitive advantage, with assurances for domestic apple and walnut producers.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/us-deal-likely-to-be-worked-out-in-3-4-months-officials/articleshow/129235594.cms",
+      "image": "https://static.toiimg.com/photo/msid-129235715,imgsize-56366.cms",
+      "published_at": "2026-03-07T21:06:08.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "3-4 నెలల్లో అమెరికా ఒప్పందం కుదిరే అవకాశం: అధికారులు",
+      "summary_te": "అమెరికా సుంకాల వ్యూహాలపై స్పష్టత పెండింగ్‌లో ఉన్న కొద్ది నెలల్లోనే అమెరికాతో వాణిజ్య ఒప్పందాలను ఖరారు చేసేందుకు భారత్ సిద్ధంగా ఉంది. పరస్పర వ్యవసాయ ఉత్పత్తి కట్టుబాట్లు లేకుండా మామిడికి మార్కెట్ యాక్సెస్‌తో సహా రైతులకు అనుకూలమైన నిబంధనలను లక్ష్యంగా చేసుకుని న్యూఢిల్లీ కట్టుబడి ఉంది. దేశీయ ఆపిల్ మరియు వాల్‌నట్ ఉత్పత్తిదారులకు హామీతో దేశం పోటీతత్వ ప్రయోజనాన్ని పొందింది.",
+      "translated": true
+    },
+    {
+      "id": "9fe97926721e7597bc7d57e50cf636b4",
+      "title": "Gulf conflict: Indians in Bahrain, Qatar eye Saudi visas to fly out",
+      "summary": "Indians in Qatar and Bahrain are seeking Saudi transit visas as a backup plan due to flight cancellations. With airports in Doha and Bahrain largely shut, many are preparing for overland journeys to Saudi Arabia or Oman. This comes amid ongoing regional tensions, prompting a need for alternative travel routes home.",
+      "url": "https://timesofindia.indiatimes.com/india/middle-east-tensions-indians-in-bahrain-qatar-eye-saudi-visas-to-fly-out/articleshow/129235312.cms",
+      "image": "https://static.toiimg.com/photo/msid-129235464,imgsize-10736.cms",
+      "published_at": "2026-03-07T20:56:50.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "గల్ఫ్ వివాదం: బహ్రెయిన్, ఖతార్‌లోని భారతీయులు సౌదీ వీసాలపై కన్ను వేశారు",
+      "summary_te": "విమానాల రద్దు కారణంగా ఖతార్ మరియు బహ్రెయిన్‌లోని భారతీయులు సౌదీ ట్రాన్సిట్ వీసాలను బ్యాకప్ ప్లాన్‌గా కోరుతున్నారు. దోహా మరియు బహ్రెయిన్‌లోని విమానాశ్రయాలు చాలా వరకు మూసివేయబడినందున, చాలా మంది సౌదీ అరేబియా లేదా ఒమన్‌కు ఓవర్‌ల్యాండ్ ప్రయాణాలకు సిద్ధమవుతున్నారు. ఇది కొనసాగుతున్న ప్రాంతీయ ఉద్రిక్తతల మధ్య వస్తుంది, ఇంటికి ప్రత్యామ్నాయ ప్రయాణ మార్గాల అవసరాన్ని ప్రేరేపిస్తుంది.",
+      "translated": true
+    },
     {
       "id": "5bebf13c42020956fadb3f68f9138357",
       "title": "Netanyahu vows to continue Iran war ‘with all our force’",
@@ -630,7 +728,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "సహజ వ్యవసాయం వ్యవసాయాన్ని లాభసాటిగా మరియు స్థిరంగా మార్చగలదని మంత్రి చెప్పారు",
+      "title_te": "సహజ వ్యవసాయం వ్యవసాయాన్ని లాభసాటిగా, సుస్థిరంగా మార్చగలదని మంత్రి చెప్పారు",
       "summary_te": "సహజ వ్యవసాయం వ్యవసాయాన్ని లాభసాటిగానూ, నిలకడగానూ మార్చగలదని, టీడీపీ నేతృత్వంలోని ఎన్డీఏ ప్రభుత్వం రాష్ట్రవ్యాప్తంగా పర్యావరణ అనుకూల వ్యవసాయ పద్ధతులను ప్రోత్సహిస్తోందని బీసీ, ఈడబ్ల్యూఎస్ సంక్షేమం, చేనేత, జౌళి శాఖ మంత్రి ఎస్. సవిత తెలిపారు. ఆర్థికంగా వెనుకబడిన వర్గాల వారి సహజ వ్యవసాయంపై శనివారం నిర్వహించిన వర్క్‌షాప్‌లో మంత్రి మాట్లాడారు. రాష్ట్రవ్యాప్తంగా ఉన్న రైతులు ఈ వర్క్‌షాప్‌లో పాల్గొని ప్రకృతి వ్యవసాయంలోని వివిధ అంశాలపై నిపుణులతో సంభాషించారు. EWS కమ్యూనిటీలకు సంక్షేమ పథకాలను అమలు చేస్తున్నప్పుడు, ప్రభుత్వం స్వావలంబన మరియు స్థిరమైన జీవనోపాధిని ప్రోత్సహించే కార్యక్రమాలను కూడా ప్రోత్సహిస్తోందని సవిత చెప్పారు. ఎరువులు, పురుగు మందుల ధరలు పెరగడం వల్ల రైతులపై భారం పడుతోందని, రసాయనాలపై ఆధారపడడం తగ్గించి, సహజ వనరులను వినియోగించుకోవడం ద్వారా వ్యవసాయాన్ని మరింత లాభసాటిగా మార్చవచ్చని ఆమె గమనించారు.సహజ సేద్య ఉత్పత్తులకు కూడా అధిక ధర లభిస్తుందని, మార్కెట్‌లో డిమాండ్‌ పెరుగుతుందని మంత్రి తెలిపారు. రైతులతో ఆమె మాట్లాడి, సాగులో వినియోగించే సేంద్రియ ఇన్‌పుట్‌లను అడిగి తెలుసుకుని, సహజ వ్యవసాయ విధానాలను అవలంబిస్తున్నందుకు వారిని అభినందించారు.ఈడబ్ల్యూఎస్ సంక్షేమ శాఖ ప్రత్యేక ముఖ్య కార్యదర్శి కె.సునీత మాట్లాడుతూ, ఈడబ్ల్యూఎస్ సంఘాలకు సుస్థిర జీవనోపాధి కల్పించేందుకు శాఖ పలు కార్యక్రమాలు చేపడుతున్నదని చెప్పారు. బుచ్చి రామ్ ప్రసాద్, ఆర్య వైశ్య, క్షత్రియ కార్పొరేషన్ల మేనేజింగ్ డైరెక్టర్ ఎం. మహేశ్వర్ రెడ్డి, రైతు సాధికార సంస్థ ప్రతినిధులు.",
       "translated": true
     },
@@ -646,20 +744,6 @@
       "language": "en",
       "title_te": "సమగ్ర విద్యా ప్యానెల్ సభ్యులు ఆటిజం మద్దతు కేంద్రాన్ని సందర్శిస్తారు",
       "summary_te": "గుంటూరు జిల్లా మంగళగిరి మండలం చినకాకానిలో తొలిసారిగా నెలకొల్పిన ఆటిజం సపోర్ట్ సెంటర్‌ను శనివారం (మార్చి 7) సందర్శించిన రాష్ట్ర సలహా కమిటీ సభ్యులు ఎలమంచిలి ఎమ్మెల్యే ఎస్. విజయ్ కుమార్, ఆదోని ఎమ్మెల్యే పి.వి. పార్థసారథి, విజయనగరం ఎమ్మెల్యే పి.అదితి విజయలక్ష్మి గజపతిరాజు, ఉదయగిరి ఎమ్మెల్యే కాకర్ల సురేష్‌, చిత్తూరు ఎమ్మెల్సీ కంచర్ల శ్రీకాంత్‌తో పాటు రాష్ట్ర ప్రభుత్వ సమగ్ర విద్యా సలహాదారు రామ్‌కమల్, సమగ్ర శిక్షా సహాయ రాష్ట్ర ప్రాజెక్టు డైరెక్టర్ (ఏఎస్‌పీడీ) కె.రవీంద్రనాథ్‌రెడ్డితో పాటు ప్రభుత్వ సిబ్బంది విద్యార్థుల తల్లిదండ్రులతో ముచ్చటించారు. ఆటిజం ఒక ముఖ్యమైన సమస్యగా ఉంది మరియు శాస్త్రీయ మరియు ఆచరణాత్మక పరిష్కారాల దిశగా కృషి చేస్తోంది. దేశంలోనే తొలిసారిగా ఆటిజంను శాస్త్రీయంగా పరిష్కరించడంలో ప్రభుత్వం మార్గదర్శకంగా ఉందని ఎమ్మెల్యే అదితి విజయలక్ష్మి అన్నారు. ఆటిజంపై ప్రత్యేక కమిటీని ఏర్పాటు చేసిన దేశంలోనే మొదటి రాష్ట్రం కూడా A.P అని ఆమె అన్నారు, ఆటిజం స్పెక్ట్రమ్ డిజార్డర్‌తో బాధపడుతున్న పిల్లలకు ప్రత్యేకమైన సవాళ్లు మరియు అవసరాలు ఉన్నాయని మరియు వ్యక్తిగత శ్రద్ధ మరియు అనుకూలీకరించిన మద్దతు అవసరమని కమిటీ సభ్యులు చెప్పారు. ప్రతి బిడ్డ పరిస్థితిని వ్యక్తిగతంగా అధ్యయనం చేసి తగిన జోక్యాలను అందించడానికి ప్రయత్నాలు జరుగుతున్నాయని వారు తెలిపారు. ఆటిజం స్పెక్ట్రమ్‌తో పిల్లల పెంపకంలో మానసిక, సామాజిక సవాళ్లను ఎదుర్కొన్న తల్లిదండ్రులను ఆదుకునేందుకు ప్రభుత్వం కృషి చేస్తోందని, ఆటిజం స్పెక్ట్రమ్ డిజార్డర్‌ను తొలిదశలో గుర్తించేందుకు గ్రామస్థాయిలో ఆశా వర్కర్లు, అంగన్‌వాడీ సిబ్బందికి శిక్షణ ఇచ్చేందుకు నిర్మాణాత్మక ప్రణాళిక సిద్ధం చేస్తున్నామని చెప్పారు. అదే ఆవరణలో ఉన్న జిల్లా పరిషత్ ఉన్నత పాఠశాలలో డొక్కా సీతమ్మ మధ్యాహ్న భోజన పథకం.",
-      "translated": true
-    },
-    {
-      "id": "b4b842a05beb505f4af85df383915e41",
-      "title": "Anurag Dobhal crashes his car in an Instagram live session after fallout with family",
-      "summary": "In a startling twist during his Instagram live broadcast, popular YouTuber Anurag Dobhal faced a horrific car accident while expressing vulnerable thoughts on loneliness and despair. This shocking event has emerged amid ongoing tensions surrounding his intercaste marriage, which he alleges has met with familial disapproval and mental strife.",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-17-fame-anurag-dobhal-crashes-his-car-in-an-instagram-live-session-after-fallout-with-family-rushed-to-hospital/articleshow/129227101.cms",
-      "image": "https://static.toiimg.com/photo/msid-129228011,imgsize-97958.cms",
-      "published_at": "2026-03-07T17:48:40.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "కుటుంబంతో గొడవ తర్వాత అనురాగ్ దోభాల్ ఇన్‌స్టాగ్రామ్ లైవ్ సెషన్‌లో తన కారును క్రాష్ చేశాడు",
-      "summary_te": "తన ఇన్‌స్టాగ్రామ్ ప్రత్యక్ష ప్రసార సమయంలో ఆశ్చర్యకరమైన ట్విస్ట్‌లో, ప్రముఖ యూట్యూబర్ అనురాగ్ దోభాల్ ఒంటరితనం మరియు నిరాశపై హాని కలిగించే ఆలోచనలను వ్యక్తం చేస్తున్నప్పుడు భయంకరమైన కారు ప్రమాదాన్ని ఎదుర్కొన్నాడు. అతని కులాంతర వివాహం చుట్టూ కొనసాగుతున్న ఉద్రిక్తతల మధ్య ఈ దిగ్భ్రాంతికరమైన సంఘటన బయటపడింది, ఇది కుటుంబ అసమ్మతి మరియు మానసిక కలహాలకు దారితీసిందని అతను ఆరోపించాడు.",
       "translated": true
     },
     {
@@ -929,20 +1013,6 @@
       "translated": true
     },
     {
-      "id": "0242efe1393bf3a798b98083e792feca",
-      "title": "Stephanie Buttermore passes away: Last photo with Jeff resurfaces",
-      "summary": "Canadian fitness YouTuber Jeff Nippard announced the sudden passing of his fiancée, Stephanie Buttermore, with whom he had been planning to marry. Their last Valentine's Day photo from February 14, 2026, has resurfaced, showing the couple smiling together. Buttermore was known for her warmth, compassion, and PhD research on ovarian cancer.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jeff-nippards-fiance-stephanie-buttermore-passes-away-couples-last-pic-from-their-valentines-day-post-resurfaces/articleshow/129224363.cms",
-      "image": "https://static.toiimg.com/photo/msid-129224481,imgsize-81976.cms",
-      "published_at": "2026-03-07T16:30:33.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "స్టెఫానీ బటర్‌మోర్ కన్నుమూసింది: జెఫ్‌తో చివరి ఫోటో మళ్లీ తెరపైకి వచ్చింది",
-      "summary_te": "కెనడియన్ ఫిట్‌నెస్ యూట్యూబర్ జెఫ్ నిప్పార్డ్ తన కాబోయే భార్య స్టెఫానీ బటర్‌మోర్‌ను ఆకస్మికంగా విడిచిపెట్టినట్లు ప్రకటించాడు, ఆమెతో అతను వివాహం చేసుకోబోతున్నాడు. ఫిబ్రవరి 14, 2026 నుండి వారి చివరి వాలెంటైన్స్ డే ఫోటో, జంట కలిసి నవ్వుతున్నట్లు చూపబడింది. బటర్‌మోర్ అండాశయ క్యాన్సర్‌పై ఆమె వెచ్చదనం, కరుణ మరియు PhD పరిశోధనలకు ప్రసిద్ధి చెందింది.",
-      "translated": true
-    },
-    {
       "id": "cdadaa61b2e2014633f014c8cdaddd06",
       "title": "Iran Accuses US Of Attacking Freshwater Desalination Plant On Gulf Island",
       "summary": "Iran's Foreign Minister Abbas Araghchi accused the United States on Saturday of attacking a desalination plant on a Gulf island, saying it had set a precedent.",
@@ -1024,20 +1094,6 @@
       "language": "en",
       "title_te": "అల్-ఫలాహ్ చైర్మన్ సిద్ధిఖీకి మధ్యంతర బెయిల్‌ను వ్యతిరేకిస్తూ ఈడీ ఢిల్లీ హైకోర్టును ఆశ్రయించింది",
       "summary_te": "ఎర్రకోట పేలుళ్లతో ముడిపడి ఉన్న మనీలాండరింగ్ కేసులో అల్ ఫలాహ్ యూనివర్సిటీ చైర్మన్ జవాద్ అహ్మద్ సిద్ధిఖీకి మధ్యంతర బెయిల్ మంజూరు చేయడంపై ఈడీ ఢిల్లీ హైకోర్టును ఆశ్రయించనుంది.",
-      "translated": true
-    },
-    {
-      "id": "1bdad8cc45eea27e4a3128ab2f50f0f1",
-      "title": "'New military coalition': What is Trump's Shield of the Americas?",
-      "summary": "President Trump convened Latin American and Caribbean leaders for the \"Shield of the Americas\" summit, aiming to bolster security cooperation against organized crime and migration. Hosted at his Florida resort, the initiative signals a tougher regional security stance, pushing back against drug cartels and China's influence. The US seeks to reassert its dominance, drawing parallels to the historic Monroe Doctrine.",
-      "url": "https://timesofindia.indiatimes.com/world/us/new-military-coalition-what-is-trumps-shield-of-the-americas/articleshow/129221482.cms",
-      "image": "https://static.toiimg.com/photo/msid-129221508,imgsize-665852.cms",
-      "published_at": "2026-03-07T15:21:41.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'కొత్త సైనిక కూటమి': ట్రంప్ యొక్క షీల్డ్ ఆఫ్ ది అమెరికాస్ అంటే ఏమిటి?",
-      "summary_te": "వ్యవస్థీకృత నేరాలు మరియు వలసలకు వ్యతిరేకంగా భద్రతా సహకారాన్ని పెంపొందించే లక్ష్యంతో అధ్యక్షుడు ట్రంప్ \"షీల్డ్ ఆఫ్ ది అమెరికాస్\" శిఖరాగ్ర సమావేశానికి లాటిన్ అమెరికన్ మరియు కరేబియన్ నాయకులను సమావేశపరిచారు. అతని ఫ్లోరిడా రిసార్ట్‌లో హోస్ట్ చేయబడింది, ఈ చొరవ కఠినమైన ప్రాంతీయ భద్రతా వైఖరిని సూచిస్తుంది, డ్రగ్ కార్టెల్స్ మరియు చైనా ప్రభావానికి వ్యతిరేకంగా వెనక్కి నెట్టింది. చారిత్రాత్మక మన్రో సిద్ధాంతానికి సమాంతరాలను చూపుతూ US తన ఆధిపత్యాన్ని పునరుద్ఘాటించాలనుకుంటోంది.",
       "translated": true
     },
     {
@@ -1321,20 +1377,6 @@
       "translated": true
     },
     {
-      "id": "02b4cdd461dc7d10fbe1d23db9eeaa38",
-      "title": "'Sab same line chipka rahe hain': SKY shrugs off Santner's 'silence the crowd' remark",
-      "summary": "Suryakumar Yadav playfully dismissed Mitchell Santner's pre-final vow to silence the Ahmedabad crowd, calling such remarks a tired cliché. He emphasized the positive dressing room atmosphere as India, the defending champions, prepare to face New Zealand in Sunday's T20 World Cup final, aiming to lift the trophy on home soil.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/sab-same-line-chipka-rahe-hain-suryakumar-yadav-shrugs-off-mitchell-santners-silence-the-crowd-remark/articleshow/129217714.cms",
-      "image": "https://static.toiimg.com/photo/msid-129217744,imgsize-57486.cms",
-      "published_at": "2026-03-07T13:54:04.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'సబ్ సేమ్ లైన్ చిప్కా రహే హై': SKY సాంట్నర్ యొక్క 'సమూహాన్ని నిశ్శబ్దం చేయండి' వ్యాఖ్యను భుజానకెత్తుకుంది",
-      "summary_te": "అహ్మదాబాద్ ప్రేక్షకులను నిశ్శబ్దం చేయడానికి మిచెల్ సాంట్నర్ యొక్క ప్రీ-ఫైనల్ ప్రతిజ్ఞను సూర్యకుమార్ యాదవ్ సరదాగా తోసిపుచ్చారు, అలాంటి వ్యాఖ్యలను అలసిపోయిన క్లిచ్ అని పిలిచారు. డిఫెండింగ్ ఛాంపియన్‌గా ఉన్న భారత్ ఆదివారం జరిగే టి20 ప్రపంచకప్ ఫైనల్‌లో న్యూజిలాండ్‌తో తలపడేందుకు సిద్ధమవుతున్నందున, సొంతగడ్డపై ట్రోఫీని ఎగరేసుకుపోవాలనే లక్ష్యంతో అతను సానుకూల డ్రెస్సింగ్ రూమ్ వాతావరణాన్ని నొక్కి చెప్పాడు.",
-      "translated": true
-    },
-    {
       "id": "f4ce8d792e0d3c15fcb42f7e48932ff8",
       "title": "Uttarakhand: Taxi driver arrested for attempted rape, robbery of Delhi tourist",
       "summary": "A 39-year-old taxi driver was arrested in Uttarakhand’s Nainital district for allegedly attempting to rape, assault and rob a 22-year-old woman tourist from Delhi near Haldwani",
@@ -1360,48 +1402,6 @@
       "language": "en",
       "title_te": "ఫ్రేమ్‌లో అమ్మాయి, నీడలో అత్త: ఉత్తర కొరియా మొదటి మహిళా సుప్రీం నాయకుడిని పొందగలదా?",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
-      "id": "81b2582b24695d393dade2fa1a6638d0",
-      "title": "Women destined to lead Viksit Bharat mission: Additional Solicitor General Chetan Sharma",
-      "summary": "Women destined to lead Viksit Bharat mission: Additional Solicitor General Chetan Sharma",
-      "url": "https://www.hindustantimes.com/india-news/women-destined-to-lead-viksit-bharat-mission-additional-solicitor-general-chetan-sharma-101772891046213.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
-      "published_at": "2026-03-07T13:44:05.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "విక్షిత్ భారత్ మిషన్‌కు నాయకత్వం వహించాల్సిన బాధ్యత మహిళలు: అదనపు సొలిసిటర్ జనరల్ చేతన్ శర్మ",
-      "summary_te": "విక్షిత్ భారత్ మిషన్‌కు నాయకత్వం వహించాల్సిన బాధ్యత మహిళలు: అదనపు సొలిసిటర్ జనరల్ చేతన్ శర్మ",
-      "translated": true
-    },
-    {
-      "id": "769104ec37c39dadc2ce1a9c488391bb",
-      "title": "'Xi's world order died with Khamenei': How US bombs in Iran are shaking Beijing",
-      "summary": "China's strategy of balancing interests in the Middle East is challenged by US actions against Iran. This conflict reveals Beijing's inability to protect its partners and reinforces President Xi Jinping's focus on military strength. The situation impacts China's energy security and global standing. Upcoming talks with President Trump will occur amidst these strategic shifts.",
-      "url": "https://timesofindia.indiatimes.com/world/china/trump-xi-jinping-summit-iran-war-and-china-us-iran-war-trumps-iran-war-khamenei-killing/articleshow/129216408.cms",
-      "image": "https://static.toiimg.com/photo/msid-129217210,imgsize-892157.cms",
-      "published_at": "2026-03-07T13:37:56.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'Xi ప్రపంచ క్రమం ఖమేనీతో మరణించింది': ఇరాన్‌లో యుఎస్ బాంబులు బీజింగ్‌ను ఎలా వణికిస్తున్నాయి",
-      "summary_te": "మధ్యప్రాచ్యంలో ప్రయోజనాలను సమతుల్యం చేసుకునే చైనా వ్యూహం ఇరాన్‌పై అమెరికా చర్యల ద్వారా సవాలు చేయబడింది. ఈ వివాదం బీజింగ్ తన భాగస్వాములను రక్షించడంలో అసమర్థతను వెల్లడిస్తుంది మరియు సైనిక బలంపై అధ్యక్షుడు జి జిన్‌పింగ్ దృష్టిని బలపరుస్తుంది. ఈ పరిస్థితి చైనా ఇంధన భద్రత మరియు ప్రపంచ స్థితిని ప్రభావితం చేస్తుంది. ఈ వ్యూహాత్మక మార్పుల మధ్య అధ్యక్షుడు ట్రంప్‌తో రాబోయే చర్చలు జరుగుతాయి.",
-      "translated": true
-    },
-    {
-      "id": "4da1319a377aa1d9ef84d33797221eaf",
-      "title": "'Betrayed the country': Rahul attacks PM Modi again over US trade deal",
-      "summary": "Rahul said the entry of large and mechanised American agricultural corporations into the Indian market would put small farmers under severe pressure and could lead to \"devastation\" in the agricultural sector. He further alleged that the country’s energy sector had been compromised and claimed that US President Donald Trump had obtained Indian data through the agreement.",
-      "url": "https://timesofindia.indiatimes.com/india/rahul-gandhi-says-pm-modi-betrayed-the-country-by-signing-us-trade-deal/articleshow/129215425.cms",
-      "image": "https://static.toiimg.com/photo/msid-129217002,imgsize-49360.cms",
-      "published_at": "2026-03-07T13:32:32.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "దేశానికి ద్రోహం చేశారు: అమెరికా వాణిజ్య ఒప్పందంపై ప్రధాని మోదీపై రాహుల్ మరోసారి విరుచుకుపడ్డారు",
-      "summary_te": "భారీ మరియు యాంత్రికమైన అమెరికన్ వ్యవసాయ సంస్థలు భారత మార్కెట్‌లోకి ప్రవేశించడం వల్ల చిన్న రైతులు తీవ్ర ఒత్తిడికి గురవుతారని మరియు వ్యవసాయ రంగంలో \"వినాశనం\"కు దారితీయవచ్చని రాహుల్ అన్నారు. దేశంలోని ఇంధన రంగం రాజీపడిందని, ఒప్పందం ద్వారా అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ భారతీయ డేటాను పొందారని ఆయన ఆరోపించారు.",
       "translated": true
     }
   ]
