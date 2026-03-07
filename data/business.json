@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T20:14:26.425Z",
-  "updated_at_IST": "8/3/2026, 1:44:26 am",
+  "updated_at": "2026-03-07T21:22:46.163Z",
+  "updated_at_IST": "8/3/2026, 2:52:46 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "1c10413d115b01767eb2b66aa6157bda",
+      "title": "Epstein guard googled ‘latest on Epstein in jail’ minutes before he was found dead, DOJ files reveal",
+      "summary": "Prosecutors say Noel shopped for furniture online and napped during her shift, neglecting the required 30-minute checks on Epstein.",
+      "url": "https://www.livemint.com/news/us-news/epstein-guard-googled-latest-on-epstein-in-jail-minutes-before-he-was-found-dead-doj-files-reveal-11772911203321.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/Trump-Epstein-0_1763013131548_1772912003260.jpg",
+      "published_at": "2026-03-07T20:18:00.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఎప్స్టీన్ గార్డ్ చనిపోయే నిమిషాల ముందు 'జైలులో ఎప్స్టీన్‌పై తాజాది' అని గూగుల్ చేసాడు, DOJ ఫైల్స్ వెల్లడించాయి",
+      "summary_te": "ఎప్స్టీన్‌పై అవసరమైన 30 నిమిషాల తనిఖీలను విస్మరించి, నోయెల్ ఆన్‌లైన్‌లో ఫర్నిచర్ కోసం షాపింగ్ చేసి, ఆమె షిఫ్ట్ సమయంలో నిద్రపోయిందని ప్రాసిక్యూటర్లు చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "7ae32f1d28fb29c6f4f765220421b403",
       "title": "Air India, Air India Express operate extra flights on March 8 to UAE cities to support stranded travellers",
@@ -352,20 +366,6 @@
       "language": "en",
       "title_te": "యుఎస్-ఇజ్రాయెల్, ఇరాన్ యుద్ధం: వివాదం చెలరేగితే $100 చమురు ఆసన్నమైనదని వ్యాపారులు హెచ్చరిస్తున్నారు",
       "summary_te": "గ్లోబల్ ఎనర్జీ మార్కెట్లలో ఎప్పుడూ లేని అతిపెద్ద అంతరాయాలలో ఒక వారం, చమురు ధరలు ఇప్పటికీ మునుపటి సంక్షోభాల స్థాయిల కంటే చాలా తక్కువగా ఉన్నాయి. కానీ ఎనర్జీ ఎగ్జిక్యూటివ్‌లు మరియు వ్యాపారుల యొక్క పెరుగుతున్న బృందగానం ప్రతిరోజు యుద్ధం చెలరేగుతున్నప్పుడు ప్రపంచాన్ని ఒక చిట్కా స్థానానికి చేరువ చేస్తుందని హెచ్చరిస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "335ac1eb17a44f23f862569de0f899dd",
-      "title": "Jaishankar's first remarks as Iranian warship IRIS Lavan docks in Kochi: 'Caught on wrong side of events'",
-      "summary": "India allowed an Iranian naval vessel to dock due to technical problems before a related incident involving a US submarine. External Affairs Minister Jaishankar emphasised the humane decision, while the ship's crew of 183 is being accommodated in Kochi.",
-      "url": "https://www.livemint.com/news/world/jaishankars-first-remarks-as-iranian-warship-iris-lavan-docks-in-kochi-caught-on-wrong-side-of-events-11772884810677.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/ANI-20260307129-0_1772885467668_1772885475276.jpg",
-      "published_at": "2026-03-07T12:13:37.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరానియన్ యుద్ధనౌక IRIS లావన్ కొచ్చిలో దిగినప్పుడు జైశంకర్ చేసిన మొదటి వ్యాఖ్యలు: 'సంఘటనల యొక్క తప్పు వైపున చిక్కుకున్నాను'",
-      "summary_te": "యుఎస్ జలాంతర్గామికి సంబంధించిన సంఘటనకు ముందు సాంకేతిక సమస్యల కారణంగా ఇరాన్ నౌకాదళ నౌకను డాక్ చేయడానికి భారతదేశం అనుమతించింది. విదేశాంగ మంత్రి జైశంకర్ మానవీయ నిర్ణయాన్ని నొక్కిచెప్పారు, అయితే 183 మంది నౌక సిబ్బంది కొచ్చిలో వసతి పొందుతున్నారు.",
       "translated": true
     },
     {
