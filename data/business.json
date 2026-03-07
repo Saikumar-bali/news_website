@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-03-07T10:25:52.021Z",
-  "updated_at_IST": "7/3/2026, 3:55:52 pm",
+  "updated_at": "2026-03-07T11:23:11.602Z",
+  "updated_at_IST": "7/3/2026, 4:53:11 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "ea2d2144fe18d7ac358a377cbc611a45",
+      "title": "Explained: Why BlackRock stock tanked 7% after curbing withdrawals from flagship fund",
+      "summary": "BlackRock shares fell sharply after the asset manager restricted withdrawals from its flagship private credit fund, HLEND, following a surge in redemption requests. The move has intensified concerns about liquidity risks in the fast-growing private credit industry, even as investors shift towards safer assets amid global economic and geopolitical uncertainty.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-blackrock-stock-tanked-7-after-curbing-withdrawals-from-flagship-fund/articleshow/129210168.cms",
+      "image": null,
+      "published_at": "2026-03-07T10:51:41.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "వివరించబడింది: ఫ్లాగ్‌షిప్ ఫండ్ నుండి ఉపసంహరణలను నిరోధించిన తర్వాత బ్లాక్‌రాక్ స్టాక్ ఎందుకు 7% పడిపోయింది",
+      "summary_te": "విముక్తి అభ్యర్థనలు పెరగడంతో, అసెట్ మేనేజర్ దాని ఫ్లాగ్‌షిప్ ప్రైవేట్ క్రెడిట్ ఫండ్ HLEND నుండి ఉపసంహరణలను పరిమితం చేసిన తర్వాత బ్లాక్‌రాక్ షేర్లు బాగా పడిపోయాయి. ప్రపంచ ఆర్థిక మరియు భౌగోళిక రాజకీయ అనిశ్చితి మధ్య పెట్టుబడిదారులు సురక్షితమైన ఆస్తుల వైపు మళ్లుతున్నప్పటికీ, ఈ చర్య వేగంగా అభివృద్ధి చెందుతున్న ప్రైవేట్ క్రెడిట్ పరిశ్రమలో లిక్విడిటీ ప్రమాదాల గురించి ఆందోళనలను తీవ్రతరం చేసింది.",
+      "translated": true
+    },
+    {
+      "id": "397bbf5e77a15e0719bb7bb1e6732d9a",
+      "title": "Man resigns after 6 years as 26-year-old MBA hire gets meetings he never did: 'Don’t you feel cheated?’",
+      "summary": "The situation took a surprising turn when a new employee joined the team. Young, confident and well-connected, the newcomer began receiving opportunities within months that the long-serving worker had never been offered.",
+      "url": "https://www.livemint.com/news/trends/man-resigns-after-6-years-as-26-year-old-mba-hire-gets-meetings-he-never-did-11772878521957.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/resingation_1772879685196_1772879690827.png",
+      "published_at": "2026-03-07T10:49:24.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "26 ఏళ్ల MBA కిరాయికి అతను ఎప్పుడూ చేయని మీటింగ్‌లను పొందడంతో వ్యక్తి 6 సంవత్సరాల తర్వాత రాజీనామా చేశాడు: 'మీరు మోసపోయారని అనిపించలేదా?'",
+      "summary_te": "జట్టులో కొత్త ఉద్యోగి చేరడంతో పరిస్థితి ఆశ్చర్యకరమైన మలుపు తిరిగింది. యవ్వనంగా, నమ్మకంగా మరియు బాగా కనెక్ట్ అయ్యి, కొత్తవారు చాలా కాలం పాటు సేవలందిస్తున్న ఉద్యోగికి ఎన్నడూ అందించని అవకాశాలను నెలల్లో పొందడం ప్రారంభించారు.",
+      "translated": true
+    },
+    {
+      "id": "9ae450a09a659d74b20a605baa1c4bd2",
+      "title": "Iran vows no strikes on nearby states - But explosions shake Dubai, Abu Dhabi, other neighbours",
+      "summary": "Masoud Pezeshkian apologised to Gulf nations and said Iran would stop strikes on Arab neighbours unless attacks on Iran originate from those countries, stressing that neighbouring states are “brothers.”",
+      "url": "https://www.livemint.com/news/world/iran-vows-no-strikes-on-nearby-states-but-explosions-shake-dubai-abu-dhabi-other-neighbours-11772878385355.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/IRAN-CRISIS-PROTEST-38_1772870103480_1772870113244_1772878788717.JPG",
+      "published_at": "2026-03-07T10:18:36.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సమీప రాష్ట్రాలపై దాడులు చేయబోమని ఇరాన్ ప్రతిజ్ఞ చేసింది - కానీ పేలుళ్లు దుబాయ్, అబుదాబి, ఇతర పొరుగు దేశాలను కదిలించాయి",
+      "summary_te": "మసౌద్ పెజెష్కియాన్ గల్ఫ్ దేశాలకు క్షమాపణలు చెప్పాడు మరియు ఇరాన్‌పై దాడులు ఆ దేశాల నుండి ఉద్భవించని పక్షంలో ఇరాన్ అరబ్ పొరుగు దేశాలపై దాడులను ఆపివేస్తుందని, పొరుగు రాష్ట్రాలు \"సోదరులు\" అని నొక్కి చెప్పారు.",
+      "translated": true
+    },
+    {
       "id": "5402dbc9078c2fcb1a9392932ea4fbbc",
       "title": "CBSE postpones Class 12th exams from March 9 to 11 in UAE, Iran, other Middle East countries — Check here",
-      "summary": "CBSE postpones Class 12th exams from March 9 to 11 in UAE, Iran, other Middle East countries - Check here",
+      "summary": "CBSE has postponed Class 12 exams from March 9 to 11 in the UAE and other Middle Eastern countries amid the escalating conflict. Further decisions will be made after a situation assessment on Tuesday, it said.",
       "url": "https://www.livemint.com/news/world/cbse-postpones-class-12th-exams-from-march-9-to-11-in-uae-iran-other-middle-east-countries-check-here-11772876216824.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news2_1733464197434_1733464227231.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/CBSE_says_reports_of_board_exam_paper_leak_false__1739782066333_1772878049745.jpg",
       "published_at": "2026-03-07T10:05:42.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
       "title_te": "CBSE మార్చి 9 నుండి 11 వరకు UAE, ఇరాన్, ఇతర మధ్యప్రాచ్య దేశాలలో 12వ తరగతి పరీక్షలను వాయిదా వేసింది — ఇక్కడ చూడండి",
-      "summary_te": "CBSE మార్చి 9 నుండి 11 వరకు UAE, ఇరాన్, ఇతర మధ్యప్రాచ్య దేశాలలో 12వ తరగతి పరీక్షలను వాయిదా వేసింది - ఇక్కడ చూడండి",
+      "summary_te": "CBSE 12వ తరగతి పరీక్షలను UAE మరియు ఇతర మధ్యప్రాచ్య దేశాల్లో మార్చి 9 నుండి 11కి వాయిదా వేసింది. మంగళవారం పరిస్థితిని అంచనా వేసిన తర్వాత తదుపరి నిర్ణయాలు తీసుకుంటామని పేర్కొంది.",
+      "translated": true
+    },
+    {
+      "id": "1c462de6eed900c47d73347d7440e50e",
+      "title": "Top 10 mutual funds to invest through SIP with investment horizon of 3 years. Check details",
+      "summary": "Are you looking for the best or top mutual funds for an SIP of Rs 10,000 with an investment horizon of three years? Here is some help with the top performers. (Source: Value Research)",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/top-10-mutual-funds-to-invest-through-sip-with-investment-horizon-of-3-years-check-details/top-10-performers/slideshow/129207531.cms",
+      "image": null,
+      "published_at": "2026-03-07T09:45:40.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "3 సంవత్సరాల పెట్టుబడి హోరిజోన్‌తో SIP ద్వారా పెట్టుబడి పెట్టడానికి టాప్ 10 మ్యూచువల్ ఫండ్‌లు. వివరాలను తనిఖీ చేయండి",
+      "summary_te": "మీరు మూడు సంవత్సరాల పెట్టుబడి హోరిజోన్‌తో రూ. 10,000 SIP కోసం ఉత్తమమైన లేదా అగ్రశ్రేణి మ్యూచువల్ ఫండ్‌ల కోసం చూస్తున్నారా? అత్యుత్తమ ప్రదర్శనకారులతో ఇక్కడ కొంత సహాయం ఉంది. (మూలం: విలువ పరిశోధన)",
       "translated": true
     },
     {
@@ -145,6 +201,20 @@
       "translated": true
     },
     {
+      "id": "7881e371e5a0eb9fc0555a89803d3c6a",
+      "title": "Women account for only 5% of CEOs in India’s listed companies: Primeinfobase report",
+      "summary": "Women remain significantly underrepresented in leadership roles at India’s listed companies despite improvements in boardroom diversity. A Primeinfobase report shows women hold only 5% of CEO or MD positions and just 10% of executive directorships, highlighting persistent structural barriers and a widening gender gap in senior corporate leadership and pay.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/women-account-for-only-5-of-ceos-in-indias-listed-companies-primeinfobase-report/articleshow/129204165.cms",
+      "image": null,
+      "published_at": "2026-03-07T08:19:30.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "భారతదేశంలోని లిస్టెడ్ కంపెనీలలో కేవలం 5% మంది సీఈఓలు మహిళలే: Primeinfobase నివేదిక",
+      "summary_te": "బోర్డ్‌రూమ్ వైవిధ్యంలో మెరుగుదలలు ఉన్నప్పటికీ, భారతదేశంలోని లిస్టెడ్ కంపెనీలలో నాయకత్వ పాత్రలలో మహిళలు గణనీయంగా తక్కువగా ఉన్నారు. ప్రైమ్‌ఇన్‌ఫోబేస్ నివేదిక ప్రకారం మహిళలు కేవలం 5% CEO లేదా MD స్థానాలు మరియు కేవలం 10% ఎగ్జిక్యూటివ్ డైరెక్టర్‌షిప్‌లను కలిగి ఉన్నారు, ఇది నిరంతర నిర్మాణాత్మక అడ్డంకులు మరియు సీనియర్ కార్పోరేట్ నాయకత్వం మరియు వేతనంలో లింగ అంతరాన్ని పెంచుతోంది.",
+      "translated": true
+    },
+    {
       "id": "ff0da2db3b9da7a88a85dd88e9a2b244",
       "title": "Boots on the ground? Abrupt cancellation of major training exercise sparks speculation of US sending troops into Iran",
       "summary": "As the US-Iran conflict escalates, Trump may consider deploying ground troops, a shift from his previous stance. The cancellation of a major training exercise raises concerns, while discussions focus on a small troop deployment for strategic objectives amid ongoing airstrikes and regional tensions.",
@@ -156,20 +226,6 @@
       "language": "en",
       "title_te": "నేలపై బూట్లు? ప్రధాన శిక్షణా వ్యాయామాన్ని ఆకస్మికంగా రద్దు చేయడంతో ఇరాన్‌లోకి US దళాలను పంపుతుందనే ఊహాగానాలు వెలువడుతున్నాయి",
       "summary_te": "యుఎస్-ఇరాన్ వివాదం తీవ్రమవుతున్నందున, ట్రంప్ తన మునుపటి వైఖరి నుండి మారుతూ గ్రౌండ్ ట్రూప్‌లను మోహరించడాన్ని పరిగణించవచ్చు. ఒక ప్రధాన శిక్షణా వ్యాయామం రద్దు చేయడం ఆందోళన కలిగిస్తుంది, అయితే చర్చలు కొనసాగుతున్న వైమానిక దాడులు మరియు ప్రాంతీయ ఉద్రిక్తతల మధ్య వ్యూహాత్మక లక్ష్యాల కోసం చిన్న దళాల విస్తరణపై దృష్టి పెడతాయి.",
-      "translated": true
-    },
-    {
-      "id": "35b54f958b0f4b91c9ed20f339ccda5c",
-      "title": "Coforge, Persistent Systems among 10 stocks that have fallen most in 2026. Do you own any?",
-      "summary": "Several stocks on the BSE 200 index have seen sharp declines at the start of CY2026 as volatility grips markets. Technology and new-age companies dominate the list of laggards. Coforge, LTIMindtree and Persistent Systems lead the fall, reflecting pressure on IT stocks amid global uncertainty and concerns around rapid advances in artificial intelligence.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/coforge-persistent-systems-among-10-stocks-that-have-fallen-most-in-2026-do-you-own-any/slideshow/129204008.cms",
-      "image": null,
-      "published_at": "2026-03-07T08:06:57.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "2026లో అత్యధికంగా పడిపోయిన 10 స్టాక్‌లలో కోఫోర్జ్, పెర్సిస్టెంట్ సిస్టమ్స్. మీ స్వంతం ఏమైనా ఉందా?",
-      "summary_te": "CY2026 ప్రారంభంలో అస్థిరత గ్రిప్‌ల మార్కెట్‌లో BSE 200 ఇండెక్స్‌లోని అనేక స్టాక్‌లు బాగా క్షీణించాయి. సాంకేతికత మరియు కొత్త-యుగం కంపెనీలు వెనుకబడినవారి జాబితాలో ఆధిపత్యం చెలాయిస్తున్నాయి. Coforge, LTIMindtree మరియు పెర్సిస్టెంట్ సిస్టమ్స్ పతనానికి దారితీశాయి, ఇది గ్లోబల్ అనిశ్చితి మరియు కృత్రిమ మేధస్సులో వేగవంతమైన పురోగతి గురించి ఆందోళనల మధ్య IT స్టాక్‌లపై ఒత్తిడిని ప్రతిబింబిస్తుంది.",
       "translated": true
     },
     {
@@ -313,20 +369,6 @@
       "translated": true
     },
     {
-      "id": "13920fae65598dc17692bc41403ae18b",
-      "title": "High conviction picks! TCS, HDFC Bank, 9 other stocks with upside potential of up to 40%. Do you own any?",
-      "summary": "Despite the volatile backdrop, InCred Equities has identified 11 stocks that it believes could perform well in the coming quarters. Here’s the full list.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/high-conviction-picks-tcs-hdfc-bank-9-other-stocks-with-upside-potential-of-up-to-40-do-you-own-any/slideshow/129197601.cms",
-      "image": null,
-      "published_at": "2026-03-07T05:29:55.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "అధిక విశ్వాసం ఎంపికలు! TCS, HDFC బ్యాంక్, 40% వరకు అప్‌సైడ్ సంభావ్యత కలిగిన 9 ఇతర స్టాక్‌లు. మీరు ఏదైనా కలిగి ఉన్నారా?",
-      "summary_te": "అస్థిర నేపథ్యం ఉన్నప్పటికీ, ఇన్‌క్రెడ్ ఈక్విటీస్ రాబోయే త్రైమాసికాల్లో మంచి పనితీరును కనబరుస్తుందని నమ్ముతున్న 11 స్టాక్‌లను గుర్తించింది. పూర్తి జాబితా ఇక్కడ ఉంది.",
-      "translated": true
-    },
-    {
       "id": "3a048909b8a526778f50099e7098846c",
       "title": "US approves 'emergency' weapons sale to Israel worth over $150 million amid war with Iran",
       "summary": "Major US defense companies have agreed to quadruple production of advanced weapons, President Donald Trump said in a social media post Friday, a week after the US and Israel first launched strikes on Iran.",
@@ -383,20 +425,6 @@
       "translated": true
     },
     {
-      "id": "fbc7917e3dabcf9a49ef406d64227eb9",
-      "title": "Concurrent Losers: 10 BSE-200 stocks decline for 5 consecutive sessions",
-      "summary": "Over the last five trading sessions ending March 6, the BSE Sensex benchmark tumbled 4.05%, or 3,330 points, to close at 78,918. The index recorded losses in four of those five sessions. During this period, around 10 stocks within the BSE 200 posted consistent declines across all five sessions. (Data source: ACE Equity)",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-10-bse-200-stocks-decline-for-5-consecutive-sessions/market-laggards/slideshow/129195685.cms",
-      "image": null,
-      "published_at": "2026-03-07T04:47:03.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఉమ్మడి నష్టాలు: 10 BSE-200 స్టాక్‌లు వరుసగా 5 సెషన్‌లకు క్షీణించాయి",
-      "summary_te": "మార్చి 6తో ముగిసిన గత ఐదు ట్రేడింగ్ సెషన్‌లలో, బిఎస్‌ఇ సెన్సెక్స్ బెంచ్‌మార్క్ 4.05% లేదా 3,330 పాయింట్లు పతనమై 78,918 వద్ద ముగిసింది. ఆ ఐదు సెషన్లలో నాలుగింటిలో సూచీ నష్టాలను నమోదు చేసింది. ఈ కాలంలో, BSE 200లోని దాదాపు 10 స్టాక్‌లు మొత్తం ఐదు సెషన్‌లలో స్థిరమైన క్షీణతను నమోదు చేశాయి. (డేటా మూలం: ACE ఈక్విటీ)",
-      "translated": true
-    },
-    {
       "id": "44c649f476c5f75ee0fb2db6c97927b8",
       "title": "Pentagon vs Anthropic: ‘Exceptions don’t work’ — top US Department of War official opens up on clash with AI firm",
       "summary": "The Pentagon's negotiations with Anthropic faced dissonance on ethical military use, according to US DoW Undersecretary Emil Michael. He said simply having exceptions for scenarios like hypersonic missiles and drone swarms didn't work.&nbsp;",
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "పెంటగాన్ vs ఆంత్రోపిక్: 'మినహాయింపులు పని చేయవు' - యుఎస్ డిపార్ట్‌మెంట్ ఆఫ్ వార్ ఉన్నతాధికారి AI సంస్థతో ఘర్షణకు తెరతీశారు",
       "summary_te": "US DoW అండర్ సెక్రటరీ ఎమిల్ మైఖేల్ ప్రకారం, ఆంత్రోపిక్‌తో పెంటగాన్ చర్చలు నైతిక సైనిక వినియోగంపై వైరుధ్యాన్ని ఎదుర్కొన్నాయి. హైపర్‌సోనిక్ క్షిపణులు మరియు డ్రోన్ స్వర్మ్‌ల వంటి దృష్టాంతాలకు మినహాయింపులను కలిగి ఉండటం పనికిరాదని అతను చెప్పాడు. ",
-      "translated": true
-    },
-    {
-      "id": "162d3a17d54daeee2a0e4f699fa320da",
-      "title": "Who is Asif Merchant, the Pakistani man with ties to Iran convicted for plotting to kill US President Donald Trump?",
-      "summary": "Asif Merchant, a Pakistani national, was convicted of planning to kill President Trump and others, allegedly instructed by Iran's IRGC. His plot unraveled after a contact alerted authorities. He faces life in prison, claiming he acted under threat to his family's safety.",
-      "url": "https://www.livemint.com/news/us-news/who-is-asif-merchant-the-pakistani-man-with-ties-to-iran-convicted-for-plotting-to-kill-us-president-donald-trump-11772857029476.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/HCnCt5qawAA4GSo_1772857287760_1772857301775.jpg",
-      "published_at": "2026-03-07T04:26:48.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్‌ను చంపడానికి కుట్ర పన్నినందుకు దోషిగా తేలిన ఇరాన్‌తో సంబంధాలున్న పాకిస్తానీ వ్యక్తి ఆసిఫ్ మర్చంట్ ఎవరు?",
-      "summary_te": "ఇరాన్ యొక్క IRGC సూచనల ప్రకారం, అధ్యక్షుడు ట్రంప్ మరియు ఇతరులను చంపడానికి ప్లాన్ చేసినందుకు పాకిస్తాన్ జాతీయుడైన ఆసిఫ్ మర్చంట్ దోషిగా నిర్ధారించబడ్డాడు. ఒక పరిచయం అధికారులను అప్రమత్తం చేయడంతో అతని పన్నాగం బయటపడింది. అతను తన కుటుంబ భద్రతకు ముప్పు వాటిల్లేలా ప్రవర్తించాడని ఆరోపిస్తూ జైలు శిక్షను ఎదుర్కొంటాడు.",
-      "translated": true
-    },
-    {
-      "id": "62d0dd3f3b1b7c9a7d633a119f783e5f",
-      "title": "‘War is not a movie’ — Ben Stiller slams White House for using Tropic Thunder clip for ‘propaganda’",
-      "summary": "The 42-second White House clip, captioned “JUSTICE THE AMERICAN WAY”, includes footage of recent strikes on Iran edited between scenes from several movies.",
-      "url": "https://www.livemint.com/news/us-news/war-is-not-a-movie-ben-stiller-slams-white-house-for-using-tropic-thunder-clip-for-propaganda-11772854838509.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/Screenshot_2026-03-07_095004_1772857265838_1772857284265.png",
-      "published_at": "2026-03-07T04:22:47.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'యుద్ధం సినిమా కాదు' - 'ప్రచారం' కోసం ట్రాపిక్ థండర్ క్లిప్‌ను ఉపయోగించినందుకు బెన్ స్టిల్లర్ వైట్‌హౌస్‌ను నిందించాడు",
-      "summary_te": "42-సెకన్ల వైట్ హౌస్ క్లిప్, \"జస్టిస్ ది అమెరికన్ వే\" అనే శీర్షికతో, ఇరాన్‌పై ఇటీవలి సమ్మెల ఫుటేజీని అనేక సినిమాల్లోని సన్నివేశాల మధ్య సవరించబడింది.",
       "translated": true
     },
     {

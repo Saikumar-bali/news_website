@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T10:25:52.021Z",
-  "updated_at_IST": "7/3/2026, 3:55:52 pm",
+  "updated_at": "2026-03-07T11:23:11.602Z",
+  "updated_at_IST": "7/3/2026, 4:53:11 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "87cb33ab091e50646c5b0ef9d46fce90",
+      "title": "McAndrew, Head power South Australia towards Shield final",
+      "summary": "The defending champions are now clear favourites to play Victoria in the decider at the end of March",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527176.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414463.jpg",
+      "published_at": "2026-03-07T10:24:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మెక్‌ఆండ్రూ, హెడ్ పవర్ సౌత్ ఆస్ట్రేలియా షీల్డ్ ఫైనల్‌కు చేరుకుంది",
+      "summary_te": "డిఫెండింగ్ ఛాంపియన్‌లు ఇప్పుడు మార్చి చివరిలో డిసైడర్‌లో విక్టోరియాతో ఆడటానికి స్పష్టమైన ఇష్టమైనవి",
+      "translated": true
+    },
     {
       "id": "23c0d277950c640e28427d98aa95b6f7",
       "title": "England, WI and SA to leave India over the weekend on charter flights",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "హాలీడే తొలి వన్డే సెంచరీ, కెర్ సోదరీమణుల ఏడు వికెట్లు జింబాబ్వేను దెబ్బతీశాయి.",
       "summary_te": "బ్రూక్ హాలిడే 157* పరుగులు చేశాడు, ఇది ODIలలో ఒక NZ బ్యాటర్ ద్వారా ఉమ్మడి-మూడో అత్యధిక స్కోరు, జింబాబ్వే రికార్డు 180 పరుగులతో పరాజయం పాలైంది.",
-      "translated": true
-    },
-    {
-      "id": "0e6244b4e1a9f8b982f707c1f1ef0f29",
-      "title": "Gannon strikes late as Queensland slump against Western Australia",
-      "summary": "Gannon took three wickets including Labuschagne and Khawaja to leave Queensland 37 for 3 after Fanning's 62 helped WA post 210",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526915.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414381.jpg",
-      "published_at": "2026-03-05T09:04:03.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ పతనం కావడంతో గానన్ ఆలస్యంగా కొట్టాడు",
-      "summary_te": "210 తర్వాత ఫాన్నింగ్ 62 పరుగులతో క్వీన్స్‌లాండ్‌ను 37 పరుగులకు వదిలేసి, లాబుస్చాగ్నే మరియు ఖవాజాతో సహా గానన్ మూడు వికెట్లు పడగొట్టాడు.",
       "translated": true
     }
   ]
