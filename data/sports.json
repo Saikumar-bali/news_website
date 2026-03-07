@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T13:45:37.610Z",
-  "updated_at_IST": "7/3/2026, 7:15:37 pm",
+  "updated_at": "2026-03-07T14:26:48.997Z",
+  "updated_at_IST": "7/3/2026, 7:56:49 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "396c2b9d0824e0e2efb51b9266263d0e",
+      "title": "Triumph and disaster: India, New Zealand and a trophy for one",
+      "summary": "India could become the first team to successfully defend the T20 World Cup title; New Zealand are on the hunt for their first World Cup",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527206.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414399.jpg",
+      "published_at": "2026-03-07T13:38:58.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "విజయం మరియు విపత్తు: భారతదేశం, న్యూజిలాండ్ మరియు ఒకరికి ట్రోఫీ",
+      "summary_te": "T20 ప్రపంచ కప్ టైటిల్‌ను విజయవంతంగా కాపాడుకున్న మొదటి జట్టుగా భారతదేశం అవతరిస్తుంది; న్యూజిలాండ్‌ తమ తొలి ప్రపంచకప్‌ వేటలో పడింది",
+      "translated": true
+    },
     {
       "id": "716766e48f92b2d52638695ba1aa5a2c",
       "title": "Sutherland's sublime century and Hamilton's night-time burst flatten India",
@@ -19,23 +33,9 @@
       "translated": true
     },
     {
-      "id": "396c2b9d0824e0e2efb51b9266263d0e",
-      "title": "Triumph and disaster: India, New Zealand and a trophy for one",
-      "summary": "India could become the first team to successfully defend the T20 World Cup title, and the first team to win it at home",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527206.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414399.jpg",
-      "published_at": "2026-03-07T13:22:28.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "విజయం మరియు విపత్తు: భారతదేశం, న్యూజిలాండ్ మరియు ఒకరికి ట్రోఫీ",
-      "summary_te": "టీ20 ప్రపంచకప్ టైటిల్‌ను విజయవంతంగా కాపాడుకున్న తొలి జట్టుగా, స్వదేశంలో గెలిచిన తొలి జట్టుగా భారత్ అవతరిస్తుంది",
-      "translated": true
-    },
-    {
       "id": "756ee5ee84893ef2fab4e02fd63391d9",
       "title": "Mulder replaces injured Eathan Bosch for New Zealand T20Is",
-      "summary": "NewsMulder replaces injured Eathan Bosch for New Zealand T20IsBosch has been ruled out with a hamstring injuryESPNcricinfo staffPublished: Mar 7, 2026, 11:42 AM (1 hr ago)Wiaan Mulder has played 11 T20Is&nbsp;&nbsp;&bull;&nbsp;&nbsp;ICC via Getty Images{\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\",\"contentUrl\":\"https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/401800/401825.4.jpg\",\"caption\":\"Wiaan Mulder has played 11 T20Is\"}South Africa and Dolphins allrounder Eathan Bosch has been ruled out of the upcoming five-match T20I series in New Zealand due to a hamstring injury. Allrounder Wiaan Mulder has been named as his replacement in the 15-man squad for the series starting on March 15.Bosch has played just one game for South Africa - an ODI a year ago - and was in line to make his T20I debut. Mulder, meanwhile, has featured in 11 T20Is and last played one against Ireland in September 2024. His last outing for South Africa was in a Test match in India last year.The team members currently in South Africa will depart for New Zealand on March 8, while the rest of the squad members and management currently in Kolkata after their exit from the T20 World Cup will travel directly to New Zealand on the same day. The T20 World Cup players who are to travel back home have been in Kolkata because the airspace corridors have been shut in West Asia after military conflicts in the region. They are set to leave India over the weekend on charter planes arranged by the ICC, along with the England and West Indies sides.RelatedMaharaj to lead SA for T20Is in New ZealandEngland, WI, SA to leave India over the weekend on charter flightsKeshav Maharaj will lead in the T20I series that will be played in Mount Maunganui (March 15), Hamilton (March 17), Auckland (March 20), Wellington (March 22) and Christchurch (March 25). They will all act as double-headers as the men's T20Is will follow the women's T20Is on the same grounds earlier in the day.South Africa squad for T20I series in New ZealandKeshav Maharaj (capt), Ottneil Baartman, Wiaan Mulder, Gerald Coetzee, Tony de Zorzi, Connor Esterhuizen, Dian Forrester, Jordan Hermann, Rubin Hermann, George Linde, Nqobani Mokoena, Andile Simelane, Lutho Sipamla, Prenelan Subrayen, and Jason SmithEathan BoschWiaan MulderSouth AfricaSouth Africa tour of New Zealand",
+      "summary": "Bosch has been ruled out with a hamstring injury",
       "url": "https://www.espncricinfo.com/ci/content/story/1527230.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401825.jpg",
       "published_at": "2026-03-07T11:48:29.000Z",
@@ -43,7 +43,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "న్యూజిలాండ్ T20Iలకు గాయపడిన ఈథాన్ బాష్ స్థానంలో ముల్డర్ వచ్చాడు",
-      "summary_te": "న్యూజిలాండ్ T20IsBosch కోసం గాయపడిన ఈథాన్ బాష్ స్థానంలో NewsMulder, స్నాయువు గాయంతో తొలగించబడ్డాడుESPNcricinfo సిబ్బంది ప్రచురణ: మార్చి 7, 2026, 11:42 AM (1 గం క్రితం)వియాన్ ముల్డర్ 11 T20Is   • ICC ద్వారా ఆడాడు. చిత్రాలు{\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\",\"contentUrl\":\"https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/401800/401825 11 T20Iలు ఆడాడు\"}దక్షిణాఫ్రికా మరియు డాల్ఫిన్స్ ఆల్‌రౌండర్ ఈథాన్ బాష్ స్నాయువు గాయం కారణంగా న్యూజిలాండ్‌లో జరగబోయే ఐదు మ్యాచ్‌ల T20I సిరీస్‌కు దూరమయ్యాడు. ఆల్‌రౌండర్ వియాన్ ముల్డర్ మార్చి 15 నుండి ప్రారంభమయ్యే సిరీస్ కోసం 15 మంది సభ్యుల జట్టులో అతని స్థానంలో ఎంపికయ్యాడు. బాష్ దక్షిణాఫ్రికా కోసం కేవలం ఒక గేమ్ ఆడాడు - ఒక సంవత్సరం క్రితం ODI - మరియు అతని T20I అరంగేట్రం చేయడానికి లైన్‌లో ఉన్నాడు. ముల్డర్, అదే సమయంలో, 11 T20Iల్లో ఆడాడు మరియు చివరిసారిగా సెప్టెంబర్ 2024లో ఐర్లాండ్‌తో ఆడాడు. దక్షిణాఫ్రికా కోసం అతని చివరి ఔట్ గత ఏడాది భారతదేశంలో జరిగిన టెస్ట్ మ్యాచ్. ప్రస్తుతం దక్షిణాఫ్రికాలో ఉన్న జట్టు సభ్యులు మార్చి 8న న్యూజిలాండ్‌కు బయలుదేరుతారు, మిగిలిన జట్టు సభ్యులు మరియు మేనేజ్‌మెంట్ ప్రస్తుతం T20 ప్రపంచకప్ నుండి నిష్క్రమించిన తర్వాత T20 నుండి నేరుగా కోల్‌కతాలో ప్రయాణిస్తారు. ఈ ప్రాంతంలో సైనిక ఘర్షణల తర్వాత పశ్చిమాసియాలో గగనతల కారిడార్లు మూసివేయబడినందున స్వదేశానికి తిరిగి వెళ్లాల్సిన T20 ప్రపంచ కప్ ఆటగాళ్ళు కోల్‌కతాలో ఉన్నారు. వారాంతంలో వారు ఇంగ్లండ్ మరియు వెస్టిండీస్ జట్లతో పాటు ICC ఏర్పాటు చేసిన చార్టర్ విమానాలలో భారతదేశం నుండి బయలుదేరడానికి సిద్ధంగా ఉన్నారు. న్యూజిలాండ్‌లో T20Iలకు SA కి నాయకత్వం వహించడానికి మహరాజ్, WI, SA వారాంతంలో చార్టర్ ఫ్లైట్‌లలో భారతదేశాన్ని విడిచిపెట్టడానికి కేశవ్ మహారాజ్ సారథ్యం వహించనున్నాడు (Moarch Maharaj T20I సిరీస్‌కి నాయకత్వం వహిస్తాడు). 17), ఆక్లాండ్ (మార్చి 20), వెల్లింగ్టన్ (మార్చి 22) మరియు క్రైస్ట్‌చర్చ్ (మార్చి 25). పురుషుల T20Iలు మహిళల T20Iలను అంతకుముందు రోజు అదే మైదానంలో అనుసరిస్తాయి కాబట్టి వీరంతా డబుల్-హెడర్‌లుగా వ్యవహరిస్తారు. న్యూజిలాండ్‌లో T20I సిరీస్‌కు దక్షిణాఫ్రికా జట్టు కేశవ్ మహారాజ్ (కెప్టెన్), ఒట్నీల్ బార్ట్‌మాన్, వియాన్ ముల్డర్, గెరాల్డ్ కోట్జీ, టోనీ డి జోర్‌రిజెన్, టోనీ డి జోర్‌స్టెర్న్, హెర్మాన్, రూబిన్ హెర్మాన్, జార్జ్ లిండే, న్కోబాని మోకోనా, ఆండిలే సిమెలన్, లూథో సిపమ్లా, ప్రెనెలన్ సుబ్రేయన్, మరియు జాసన్ స్మిత్ ఈథాన్ బోష్వియాన్ ముల్డర్ సౌత్ ఆఫ్రికా సౌత్ ఆఫ్రికా టూర్ ఆఫ్ న్యూజిలాండ్",
+      "summary_te": "బాష్ స్నాయువు గాయంతో జట్టుకు దూరమయ్యాడు",
       "translated": true
     },
     {
@@ -127,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారత్-NZ ఫైనల్‌కు మినిమల్ టర్న్ మరియు మంచి బౌన్స్ అందించడానికి మిశ్రమ నేల పిచ్ సెట్ చేయబడింది",
-      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒక మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
+      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒకే ఒక్క మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
       "translated": true
     },
     {
