@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-07T05:07:19.346Z",
-  "updated_at_IST": "7/3/2026, 10:37:19 am",
+  "updated_at": "2026-03-07T05:45:15.098Z",
+  "updated_at_IST": "7/3/2026, 11:15:15 am",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "aad5582347f5c1c89cdc4ab203e049a9",
+      "title": "Ram Rahim Singh acquitted in journalist murder case",
+      "summary": "Ram Rahim Singh acquitted in journalist murder case",
+      "url": "https://www.livemint.com/news/india/ram-rahim-singh-dera-sacha-sauda-chief-acquitted-in-journalist-murder-case-11772860091200.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/breaking_news_1545650155659_1772860125937.jpg",
+      "published_at": "2026-03-07T05:08:43.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "జర్నలిస్టు హత్య కేసులో రామ్ రహీమ్ సింగ్ నిర్దోషి",
+      "summary_te": "జర్నలిస్టు హత్య కేసులో రామ్ రహీమ్ సింగ్ నిర్దోషి",
+      "translated": true
+    },
+    {
+      "id": "01d8abf9cc07851fe2dd643b94217697",
+      "title": "Oil prices settle 8% higher, inch closer to $100 as Middle East war widens. $150 mark next?",
+      "summary": "Oil prices surged as the Israel-US-Iran conflict entered its eighth day, pushing Brent close to $100 per barrel amid fears of supply disruptions through the Strait of Hormuz. Analysts warn prolonged tensions could add a geopolitical premium to crude, with some projections pointing to potential prices of $150 per barrel.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-settle-8-higher-inch-closer-to-100-as-middle-east-war-widens-150-mark-next/articleshow/129196519.cms",
+      "image": null,
+      "published_at": "2026-03-07T05:08:31.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ వార్ విస్తరిస్తున్న కొద్దీ చమురు ధరలు 8% ఎక్కువ, అంగుళం $100కి దగ్గరగా ఉన్నాయి. తదుపరి $150 మార్క్?",
+      "summary_te": "ఇజ్రాయెల్-యుఎస్-ఇరాన్ వివాదం ఎనిమిదవ రోజుకు చేరుకోవడంతో చమురు ధరలు పెరిగాయి, హోర్ముజ్ జలసంధి ద్వారా సరఫరా అంతరాయాల భయాల మధ్య బ్రెంట్ బ్యారెల్‌కు $100కి చేరుకుంది. దీర్ఘకాల ఉద్రిక్తతలు ముడి చమురుకు భౌగోళిక రాజకీయ ప్రీమియంను జోడించవచ్చని విశ్లేషకులు హెచ్చరిస్తున్నారు, కొన్ని అంచనాలు బ్యారెల్‌కు $150 సంభావ్య ధరలను సూచిస్తున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "33b85adad3bb892d5f2a64de8924949d",
+      "title": "Israeli strikes trigger explosions at Tehran international airport, ball of fire seen — Video",
+      "summary": "US-Israel, Iran war: The video emerged after the Israeli military said it was carrying out an “extensive” wave of strikes against regime targets in Iran’s capital.",
+      "url": "https://www.livemint.com/news/world/israeli-strikes-trigger-ball-of-fire-at-tehran-international-airport-video-emerges-11772859261082.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/IRAN-ISRAEL-US-WAR-4_1772859516166_1772859530545.jpg",
+      "published_at": "2026-03-07T05:02:23.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇజ్రాయెల్ దాడులు టెహ్రాన్ అంతర్జాతీయ విమానాశ్రయంలో పేలుళ్లను ప్రేరేపించాయి, అగ్ని బంతి కనిపించింది - వీడియో",
+      "summary_te": "యుఎస్-ఇజ్రాయెల్, ఇరాన్ యుద్ధం: ఇరాన్ రాజధానిలో పాలన లక్ష్యాలకు వ్యతిరేకంగా \"విస్తృతమైన\" దాడులను చేపడుతున్నట్లు ఇజ్రాయెల్ మిలటరీ చెప్పిన తర్వాత వీడియో ఉద్భవించింది.",
+      "translated": true
+    },
     {
       "id": "6983d8080e42e7845c93cdb10644a5aa",
       "title": "Vivek Oberoi reveals anxiety he felt on Mumbai to Dubai flight amid Mid East conflict: 'Spent entire journey with...'",
@@ -16,6 +58,20 @@
       "language": "en",
       "title_te": "వివేక్ ఒబెరాయ్ మిడ్ ఈస్ట్ వివాదం మధ్య ముంబై నుండి దుబాయ్ విమానంలో తాను అనుభవించిన ఆందోళనను వెల్లడించాడు: 'మొత్తం ప్రయాణాన్ని గడిపాను...'",
       "summary_te": "ముంబై నుండి దుబాయ్ ఫ్లైట్ తర్వాత వివేక్ ఒబెరాయ్ అబ్ ఎమోషనల్ హోమ్‌కమింగ్ సందేశాన్ని పంచుకున్నారు. మిడ్ ఈస్ట్ వివాదం మధ్య విమానంలో తాను అనుభవించిన ఆందోళనను వెల్లడించినందుకు అతను UAE నాయకత్వం మరియు ఎమిరేట్స్ విమానయాన సంస్థకు కృతజ్ఞతలు తెలిపాడు.",
+      "translated": true
+    },
+    {
+      "id": "9843b4a7ab91d6c4189399c645c2a5cc",
+      "title": "Share of equity mutual funds in portfolio of women investor surge to 32% in 5 years : Report",
+      "summary": "Indian women investors are increasingly shifting from fixed deposits to equity mutual funds, with their portfolio share rising significantly. They are now building goal-mapped portfolios, embracing a more sophisticated understanding of risk, and demonstrating maturity during market downturns. AI is aiding their research, but human judgment remains key in investment decisions.",
+      "url": "https://economictimes.indiatimes.com/mf/mf-news/share-of-equity-mutual-funds-in-portfolio-of-women-investor-surge-to-32-in-5-years-report/articleshow/129195266.cms",
+      "image": null,
+      "published_at": "2026-03-07T04:37:52.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మహిళా పెట్టుబడిదారుల పోర్ట్‌ఫోలియోలో ఈక్విటీ మ్యూచువల్ ఫండ్స్ వాటా 5 సంవత్సరాలలో 32%కి పెరిగింది: నివేదిక",
+      "summary_te": "భారతీయ మహిళా పెట్టుబడిదారులు ఫిక్స్‌డ్ డిపాజిట్ల నుండి ఈక్విటీ మ్యూచువల్ ఫండ్స్‌కి మారుతున్నారు, వారి పోర్ట్‌ఫోలియో షేర్ గణనీయంగా పెరుగుతుంది. వారు ఇప్పుడు గోల్-మ్యాప్డ్ పోర్ట్‌ఫోలియోలను నిర్మిస్తున్నారు, రిస్క్ గురించి మరింత అధునాతనమైన అవగాహనను స్వీకరిస్తున్నారు మరియు మార్కెట్ తిరోగమనాల సమయంలో పరిపక్వతను ప్రదర్శిస్తున్నారు. AI వారి పరిశోధనలకు సహాయం చేస్తోంది, అయితే పెట్టుబడి నిర్ణయాలలో మానవ తీర్పు కీలకంగా ఉంటుంది.",
       "translated": true
     },
     {
@@ -188,7 +244,7 @@
     },
     {
       "id": "9ea12fcf8f9415a5693605ca8ef2633a",
-      "title": "Flight Status 7 March LIVE: Qatar aviation authority says partial air services will resume for repatriation and cargo",
+      "title": "Flight Status 7 March LIVE: IndiGo announces five flights to West Asia, Qatar authority says partial services to resume",
       "summary": "Flight Status LIVE Updates: The Civil Aviation Ministry informed that flight operations have been disrupted due to ongoing developments in West Asia and airspace restrictions in the region. Stay tuned for latest flight status in Dubai, Kuwait, Bahrain, Fujairah and more.",
       "url": "https://www.livemint.com/news/world/flight-status-live-update-dubai-doha-abu-dhabi-emirates-air-india-indigo-etihad-qatar-airways-india-flights-march-7-2026-11772847697277.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/AIRPORT-8_1772847870602_1772847883348.jpg",
@@ -196,22 +252,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "విమాన స్థితి మార్చి 7 లైవ్: స్వదేశానికి మరియు కార్గో కోసం పాక్షిక విమాన సేవలు తిరిగి ప్రారంభమవుతాయని ఖతార్ ఏవియేషన్ అథారిటీ తెలిపింది",
+      "title_te": "ఫ్లైట్ స్టేటస్ 7 మార్చి లైవ్: ఇండిగో పశ్చిమాసియాకు ఐదు విమానాలను ప్రకటించింది, పాక్షిక సేవలు తిరిగి ప్రారంభమవుతాయని ఖతార్ అథారిటీ తెలిపింది",
       "summary_te": "ఫ్లైట్ స్టేటస్ లైవ్ అప్‌డేట్‌లు: పశ్చిమాసియాలో కొనసాగుతున్న పరిణామాలు మరియు ఈ ప్రాంతంలోని గగనతల పరిమితుల కారణంగా విమాన కార్యకలాపాలకు అంతరాయం ఏర్పడిందని పౌర విమానయాన మంత్రిత్వ శాఖ తెలియజేసింది. దుబాయ్, కువైట్, బహ్రెయిన్, ఫుజైరా మరియు మరిన్నింటిలో తాజా విమాన స్థితి కోసం వేచి ఉండండి.",
-      "translated": true
-    },
-    {
-      "id": "4db3276b87f38239e22c65ce9a3d069c",
-      "title": "Stocks, rupee become casualty of war amid weak sentiment",
-      "summary": "Indian equities experienced their steepest weekly loss in over a year, with the Nifty and Sensex falling significantly due to escalating West Asian conflict fears. Persistent foreign outflows and rising oil prices further pressured sentiment, causing the rupee to hit a record low despite central bank intervention. Analysts anticipate continued weakness unless a ceasefire is reached.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-rupee-become-casualty-of-war-amid-weak-sentiment/articleshow/129189184.cms",
-      "image": null,
-      "published_at": "2026-03-07T01:50:45.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "బలహీనమైన సెంటిమెంట్ మధ్య స్టాక్స్, రూపాయి యుద్ధానికి గురయ్యాయి",
-      "summary_te": "పశ్చిమాసియా సంఘర్షణ భయాల కారణంగా నిఫ్టీ మరియు సెన్సెక్స్ గణనీయంగా పడిపోవడంతో, భారతీయ ఈక్విటీలు ఒక సంవత్సరంలో వారి అత్యంత ప్రతి వారం నష్టాన్ని చవిచూశాయి. నిరంతర విదేశీ ప్రవాహాలు మరియు పెరుగుతున్న చమురు ధరలు సెంటిమెంట్‌ను మరింత ఒత్తిడికి గురి చేశాయి, దీనివల్ల సెంట్రల్ బ్యాంక్ జోక్యం ఉన్నప్పటికీ రూపాయి రికార్డు స్థాయికి పడిపోయింది. కాల్పుల విరమణ కుదరకపోతే బలహీనత కొనసాగుతుందని విశ్లేషకులు అంచనా వేస్తున్నారు.",
       "translated": true
     },
     {
@@ -327,20 +369,6 @@
       "translated": true
     },
     {
-      "id": "f7fbc1b4fe4b974837d94e7eb68eb916",
-      "title": "RBI asks banks to give client info on forex deals, positions",
-      "summary": "The Reserve Bank of India is gathering information on foreign exchange deals from banks. This move aims to understand if significant bets are being placed against the Indian rupee. The central bank is looking at client transactions and bank positions. This data will help the RBI manage currency fluctuations and make informed decisions to control volatility in the coming days.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-asks-banks-to-give-client-info-on-forex-deals-positions/articleshow/129189394.cms",
-      "image": null,
-      "published_at": "2026-03-06T19:19:10.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఫారెక్స్ డీల్స్, పొజిషన్లపై క్లయింట్ సమాచారం ఇవ్వాలని బ్యాంకులను RBI కోరింది",
-      "summary_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా బ్యాంకుల నుంచి విదేశీ మారకపు లావాదేవీలపై సమాచారాన్ని సేకరిస్తోంది. ఈ చర్య భారత రూపాయికి వ్యతిరేకంగా గణనీయమైన పందెం వేయబడుతుందో లేదో అర్థం చేసుకోవడానికి ఉద్దేశించబడింది. సెంట్రల్ బ్యాంక్ క్లయింట్ లావాదేవీలు మరియు బ్యాంక్ స్థానాలను చూస్తోంది. ఈ డేటా RBI కరెన్సీ హెచ్చుతగ్గులను నిర్వహించడానికి మరియు రాబోయే రోజుల్లో అస్థిరతను నియంత్రించడానికి సమాచార నిర్ణయాలు తీసుకోవడంలో సహాయపడుతుంది.",
-      "translated": true
-    },
-    {
       "id": "f5da4b8b53a2d0b0282d02ab599be380",
       "title": "Trump issues stern warning to Iran amid Middle East conflict, says, ‘you will face absolute guaranteed death…’",
       "summary": "US President Trump stated that talks with Iran are off unless it surrenders unconditionally.&nbsp;",
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "క్యూబా ప్రభుత్వం త్వరలోనే పతనం కానుందని ట్రంప్ అన్నారు.",
       "summary_te": "జనవరి 9 నుండి క్యూబా చమురును దిగుమతి చేసుకోలేదు, ఇది విమానాల తగ్గింపులకు దారితీసింది మరియు దాని ఆర్థిక సంక్షోభాన్ని మరింత దిగజార్చింది. దీర్ఘకాలిక US వాణిజ్య ఆంక్షల మధ్య విద్యుత్ కోతలు మరియు కొరతతో ద్వీపం పోరాడుతున్నందున, క్యూబా ఆర్థిక వ్యవస్థను దెబ్బతీసినందుకు ట్రంప్‌పై ఆరోపణలు తలెత్తాయి.",
-      "translated": true
-    },
-    {
-      "id": "730ada69a926968d10a2f0cee138b261",
-      "title": "‘There is no shortage of energy in India’: Hardeep Singh Puri reassures consumers amid global supply concerns",
-      "summary": "“Our priority is to ensure availability of affordable and sustainable fuel for our citizens, and we are doing it comfortably. There is no shortage of energy in India and there is no cause of worry for our energy consumers,” the minister posted on X.",
-      "url": "https://www.livemint.com/news/india/there-is-no-shortage-of-energy-in-india-hardeep-singh-puri-reassures-consumers-amid-global-supply-concerns-11772815604042.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Hardeep_Puri_1706008005471_1772816159912.JPG",
-      "published_at": "2026-03-06T17:00:24.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'భారతదేశంలో ఇంధన కొరత లేదు': ప్రపంచ సరఫరా ఆందోళనల మధ్య వినియోగదారులకు హర్దీప్ సింగ్ పూరి భరోసా ఇచ్చారు",
-      "summary_te": "\"మా పౌరులకు సరసమైన మరియు స్థిరమైన ఇంధనం లభ్యతను నిర్ధారించడం మా ప్రాధాన్యత, మరియు మేము దానిని సౌకర్యవంతంగా చేస్తున్నాము. భారతదేశంలో ఇంధన కొరత లేదు మరియు మా ఇంధన వినియోగదారులకు ఆందోళన చెందాల్సిన అవసరం లేదు,\" అని మంత్రి X లో పోస్ట్ చేసారు.",
-      "translated": true
-    },
-    {
-      "id": "6c9adf52a5b57a9feed094ea90f38602",
-      "title": "Quote of the day by Donald Trump on thinking big: 'If you are going to be thinking anything...'",
-      "summary": "This quote by Donald Trump reflects a mindset centred on ambition, confidence and visionary thinking. The statement is often associated with entrepreneurship and leadership and tells people not to think small but to think bigger and aim for bigger things.",
-      "url": "https://www.livemint.com/news/world/quote-of-the-day-by-donald-trump-i-like-to-think-big-if-you-are-going-to-be-thinking-anything-11772813251118.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/trump_1772408496582_1772408496711_1772813930780.jpg",
-      "published_at": "2026-03-06T16:48:24.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "పెద్దగా ఆలోచించడంపై డొనాల్డ్ ట్రంప్ ఈ రోజు కోట్: 'మీరు ఏదైనా ఆలోచిస్తే...'",
-      "summary_te": "డొనాల్డ్ ట్రంప్ యొక్క ఈ కోట్ ఆశయం, విశ్వాసం మరియు దూరదృష్టితో కూడిన ఆలోచనపై కేంద్రీకృతమై ఉన్న మనస్తత్వాన్ని ప్రతిబింబిస్తుంది. ప్రకటన తరచుగా వ్యవస్థాపకత మరియు నాయకత్వంతో ముడిపడి ఉంటుంది మరియు చిన్నదిగా ఆలోచించవద్దని, పెద్దగా ఆలోచించమని మరియు పెద్ద విషయాలను లక్ష్యంగా పెట్టుకోవాలని ప్రజలకు చెబుతుంది.",
       "translated": true
     },
     {
