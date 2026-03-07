@@ -1,21 +1,49 @@
 {
-  "updated_at": "2026-03-07T18:29:40.865Z",
-  "updated_at_IST": "7/3/2026, 11:59:40 pm",
+  "updated_at": "2026-03-07T19:26:03.838Z",
+  "updated_at_IST": "8/3/2026, 12:56:03 am",
   "category": "business",
   "count": 50,
   "articles": [
     {
+      "id": "7ae32f1d28fb29c6f4f765220421b403",
+      "title": "Air India, Air India Express operate extra flights on March 8 to UAE cities to support stranded travellers",
+      "summary": "Air India and Air India Express said they are continuing scheduled flights to Jeddah and Muscat. The airlines are also operating additional non-scheduled flights on 8 March, including extra services to Dubai and other UAE cities to assist stranded passengers.",
+      "url": "https://www.livemint.com/news/india/air-india-air-india-express-operate-extra-flights-on-march-8-to-uae-cities-to-support-stranded-travellers-11772907381654.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/Air_India_A350-900_1713508027779_1772909794191.jpg",
+      "published_at": "2026-03-07T18:57:48.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఎయిర్ ఇండియా, ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ మార్చి 8న ఒంటరిగా ఉన్న ప్రయాణికులకు మద్దతుగా UAE నగరాలకు అదనపు విమానాలను నడుపుతున్నాయి",
+      "summary_te": "ఎయిర్ ఇండియా మరియు ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ జెడ్డా మరియు మస్కట్‌లకు షెడ్యూల్ చేసిన విమానాలను కొనసాగిస్తున్నట్లు తెలిపారు. ఎయిర్‌లైన్స్ మార్చి 8న అదనపు నాన్-షెడ్యూల్డ్ విమానాలను కూడా నడుపుతున్నాయి, ఇందులో ఒంటరిగా ఉన్న ప్రయాణీకులకు సహాయం చేయడానికి దుబాయ్ మరియు ఇతర UAE నగరాలకు అదనపు సేవలు ఉన్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "740a9045d7255e26b2661450576fdb78",
+      "title": "In Asia, India secured best trade deal with US: Piyush Goyal",
+      "summary": "India has secured the best trade deal with the United States among its competitors. Commerce and Industry Minister Piyush Goyal highlighted the strong relationship between the two nations. He emphasized that the US economy is the world's largest and cannot be overlooked. India is actively building a global network of trade partnerships.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/in-asia-india-secured-best-trade-deal-with-us-piyush-goyal/articleshow/129228514.cms",
+      "image": null,
+      "published_at": "2026-03-07T18:01:30.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఆసియాలో, అమెరికాతో భారత్ అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది: పీయూష్ గోయల్",
+      "summary_te": "భారతదేశం తన పోటీదారులలో యునైటెడ్ స్టేట్స్‌తో అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది. వాణిజ్యం మరియు పరిశ్రమల శాఖ మంత్రి పీయూష్ గోయల్ రెండు దేశాల మధ్య బలమైన సంబంధాలను ఎత్తిచూపారు. అమెరికా ఆర్థిక వ్యవస్థ ప్రపంచంలోనే అతిపెద్దదని, దీనిని విస్మరించలేమని ఆయన ఉద్ఘాటించారు. భారతదేశం ప్రపంచ వాణిజ్య భాగస్వామ్య నెట్‌వర్క్‌ను చురుకుగా నిర్మిస్తోంది.",
+      "translated": true
+    },
+    {
       "id": "8205d7770cf3cd996c55d6c7f85a4070",
       "title": "Peru nightclub bombing: At least 33 injured after massive blast",
-      "summary": "At least 33 people were injured after a pre-dawn explosion at the Dali nightclub in Trujillo, Peru, according to AP.",
+      "summary": "A pre-dawn explosion at Trujillo’s Dali nightclub injured at least 33 people, including three minors, with five in serious condition. The blast follows a previous explosion in the city. La Libertad faces rising crime and extortion, contributing to Peru’s ongoing organized-crime crisis",
       "url": "https://www.livemint.com/news/world/peru-nightclub-bombing-injured-death-toll-11772903937978.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/pexels-photo-35982176_1772905094201_1772905110619.jpeg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/pexels-photo-35982176_1772905094201_1772905110619_1772908869234.jpeg",
       "published_at": "2026-03-07T17:23:11.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
       "title_te": "పెరూ నైట్‌క్లబ్ బాంబు దాడి: భారీ పేలుడు తర్వాత కనీసం 33 మంది గాయపడ్డారు",
-      "summary_te": "AP ప్రకారం, పెరూలోని ట్రుజిల్లోలోని డాలీ నైట్‌క్లబ్‌లో తెల్లవారుజామున పేలుడు సంభవించిన తరువాత కనీసం 33 మంది గాయపడ్డారు.",
+      "summary_te": "ట్రుజిల్లో డాలీ నైట్‌క్లబ్‌లో తెల్లవారుజామున జరిగిన పేలుడులో ముగ్గురు మైనర్‌లతో సహా కనీసం 33 మంది గాయపడ్డారు, ఐదుగురి పరిస్థితి విషమంగా ఉంది. నగరంలో గతంలో జరిగిన పేలుడు తర్వాత ఈ పేలుడు సంభవించింది. లా లిబర్టాడ్ పెరుగుతున్న నేరాలు మరియు దోపిడీని ఎదుర్కొంటోంది, పెరూ యొక్క కొనసాగుతున్న వ్యవస్థీకృత-నేర సంక్షోభానికి దోహదపడింది",
       "translated": true
     },
     {
@@ -43,7 +71,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యుఎస్-ఇజ్రాయెల్, ఇరాన్ వివాదం: పెజెష్కియాన్ క్షమాపణ నుండి యుఎఇ మొదటి వ్యాఖ్య వరకు ట్రంప్ హెచ్చరిక వరకు - అగ్ర నవీకరణలు",
-      "summary_te": "ఇరాన్‌లో యుఎస్-ఇజ్రాయెల్ యుద్ధం ఎనిమిదో రోజుకు చేరుకుంది, మధ్యప్రాచ్యం అంతటా దాడులు మరియు ప్రతీకార దాడులు తీవ్రమవుతున్నాయి. సుప్రీం లీడర్ అలీ ఖమేనీ మరణం తర్వాత ప్రతీకారం తీర్చుకుంటామని ఇరాన్ ప్రతిజ్ఞ చేసింది, అయితే ప్రాంతీయ ఉద్రిక్తతలు పెరుగుతున్న నేపథ్యంలో UAE క్షిపణులు మరియు డ్రోన్‌లను అడ్డుకున్నట్లు నివేదించింది.",
+      "summary_te": "ఇరాన్‌లో యుఎస్-ఇజ్రాయెల్ యుద్ధం ఎనిమిదవ రోజుకు చేరుకుంది, మధ్యప్రాచ్యం అంతటా దాడులు మరియు ప్రతీకార దాడులు తీవ్రమవుతున్నాయి. సుప్రీం లీడర్ అలీ ఖమేనీ మరణం తర్వాత ప్రతీకారం తీర్చుకుంటామని ఇరాన్ ప్రతిజ్ఞ చేసింది, అయితే ప్రాంతీయ ఉద్రిక్తతలు పెరుగుతున్న నేపథ్యంలో UAE క్షిపణులు మరియు డ్రోన్‌లను అడ్డుకున్నట్లు నివేదించింది.",
       "translated": true
     },
     {
@@ -341,20 +369,6 @@
       "translated": true
     },
     {
-      "id": "4b9f3f5ea7bb8d71c408d84c6309eb34",
-      "title": "Iran-US War: Which countries are involved in the conflict and what are they up to?",
-      "summary": "The US-Iran conflict, now in its second week, involves significant military action and regional impacts. Attacks have escalated across the Middle East, affecting various countries, including the UAE, Saudi Arabia, and Iraq, with casualties and damage reported.",
-      "url": "https://www.livemint.com/news/world/iranus-war-which-countries-are-involved-in-the-conflict-11772884106997.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/IRAN-CRISIS-EMIRATES-8_1772877698598_1772877711860_1772884333815.JPG",
-      "published_at": "2026-03-07T12:01:52.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్-అమెరికా యుద్ధం: ఏ దేశాలు సంఘర్షణలో ఉన్నాయి మరియు వారు ఏమి చేస్తున్నారు?",
-      "summary_te": "US-ఇరాన్ వివాదం, ఇప్పుడు దాని రెండవ వారంలో, గణనీయమైన సైనిక చర్య మరియు ప్రాంతీయ ప్రభావాలను కలిగి ఉంది. మధ్యప్రాచ్యం అంతటా దాడులు పెరిగాయి, UAE, సౌదీ అరేబియా మరియు ఇరాక్‌తో సహా వివిధ దేశాలను ప్రభావితం చేశాయి, మరణాలు మరియు నష్టం నివేదించబడింది.",
-      "translated": true
-    },
-    {
       "id": "92e665b709eee8c06d5344487c0392a1",
       "title": "Dalal Street Week Ahead: Defensive, Stock-Specific Approach Advised to Protect Gains",
       "summary": "Indian markets experienced a sharp downturn this week, with the Nifty closing significantly lower and testing a crucial 100-week moving average support. Rising volatility and weakening market breadth signal caution for investors. While some sectors like Infrastructure and Pharma show relative strength, others are under pressure, suggesting a defensive approach is advised.",
@@ -604,20 +618,6 @@
       "language": "en",
       "title_te": "జనవరిలో తొలిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
       "summary_te": "పరిమిత బాధ్యత భాగస్వామ్యాలు (LLPలు) కోసం నెలవారీ రిజిస్ట్రేషన్లు జనవరిలో మొదటిసారిగా 10,000ను అధిగమించాయి, ఇది సంవత్సరానికి 60% పెరిగింది. కంపెనీ ఇన్‌కార్పొరేషన్‌లు కూడా దాదాపు 39% గణనీయంగా పెరిగాయి. US మరియు EU లతో ఇటీవలి వాణిజ్య ఒప్పందాలు మరియు అనుకూలమైన పన్ను విధానాల ద్వారా ఊపందుకున్న బలమైన దేశీయ వృద్ధి దృక్పథం ఈ పెరుగుదలలకు కారణమని చెప్పవచ్చు.",
-      "translated": true
-    },
-    {
-      "id": "2269ac28e379b481383acd5ee0d048dc",
-      "title": "India must boost capital markets so Indians grow with economy: Larry Fink, chief executive, BlackRock",
-      "summary": "BlackRock CEO Larry Fink urges India to prioritize domestic capital markets over foreign inflows for sustained economic participation. He highlights India's advanced financial infrastructure, from digital payments to asset tokenization, as a strong foundation for growth. Fink also downplayed AI bubble concerns, emphasizing underinvestment risks, especially in the US, amidst China's progress.",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-must-boost-capital-markets-so-indians-grow-with-economy-larry-fink-chief-executive-blackrock/articleshow/127918099.cms",
-      "image": null,
-      "published_at": "2026-02-05T00:25:00.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "భారతదేశం తప్పనిసరిగా క్యాపిటల్ మార్కెట్‌లను పెంచాలి కాబట్టి భారతీయులు ఆర్థిక వ్యవస్థతో ఎదగాలి: లారీ ఫింక్, చీఫ్ ఎగ్జిక్యూటివ్, బ్లాక్‌రాక్",
-      "summary_te": "బ్లాక్‌రాక్ సీఈఓ లారీ ఫింక్, స్థిరమైన ఆర్థిక భాగస్వామ్యం కోసం విదేశీ ఇన్‌ఫ్లోల కంటే దేశీయ మూలధన మార్కెట్‌లకు ప్రాధాన్యత ఇవ్వాలని భారతదేశాన్ని కోరారు. డిజిటల్ చెల్లింపుల నుండి అసెట్ టోకనైజేషన్ వరకు భారతదేశం యొక్క అధునాతన ఆర్థిక మౌలిక సదుపాయాలను వృద్ధికి బలమైన పునాదిగా ఆయన హైలైట్ చేశారు. ఫింక్ కూడా AI బబుల్ ఆందోళనలను తగ్గించింది, చైనా పురోగతి మధ్య ముఖ్యంగా USలో తక్కువ పెట్టుబడి ప్రమాదాలను నొక్కి చెప్పింది.",
       "translated": true
     },
     {
