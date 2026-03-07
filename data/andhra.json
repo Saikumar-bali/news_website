@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T06:36:13.639Z",
-  "updated_at_IST": "7/3/2026, 12:06:13 pm",
+  "updated_at": "2026-03-07T07:34:13.285Z",
+  "updated_at_IST": "7/3/2026, 1:04:13 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "ab724f59fa7e07ace9cec201b66c9ca3",
+      "title": "CM Naidu calls for speedy execution of prioritised irrigation projects, especially Polavaram",
+      "summary": "CM Naidu prioritised quality construction, feedback from international experts and coordination with central government officials, in Polavaram project’s review meeting",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cm-naidu-calls-for-speedy-execution-of-prioritised-irrigation-projects-especially-polavaram/article70714624.ece",
+      "image": "https://th-i.thgim.com/public/incoming/do5liq/article70714690.ece/alternates/LANDSCAPE_1200/Linking-TTD-gheGC1FJ6D9N.3.jpg.jpg",
+      "published_at": "2026-03-07T05:09:28.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఇరిగేషన్ ప్రాజెక్టులు, ముఖ్యంగా పోలవరం త్వరితగతిన పూర్తి చేయాలని సీఎం నాయుడు పిలుపునిచ్చారు",
+      "summary_te": "పోలవరం ప్రాజెక్టు సమీక్షా సమావేశంలో నాణ్యమైన నిర్మాణం, అంతర్జాతీయ నిపుణుల అభిప్రాయం, కేంద్ర ప్రభుత్వ అధికారులతో సమన్వయం వంటి అంశాలకు సీఎం నాయుడు ప్రాధాన్యత ఇచ్చారు.",
+      "translated": true
+    },
     {
       "id": "7c3516fd35154137aa7aeae270dd072a",
       "title": "With women forming half its workforce, Sri City bets on inclusive employment",

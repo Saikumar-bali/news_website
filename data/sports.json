@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T06:36:13.639Z",
-  "updated_at_IST": "7/3/2026, 12:06:13 pm",
+  "updated_at": "2026-03-07T07:34:13.285Z",
+  "updated_at_IST": "7/3/2026, 1:04:13 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "bc737e717ae90904232234af29dc90a3",
+      "title": "Perry, O'Neill all-but end Tasmania's Shield final hopes",
+      "summary": "The home side were promisingly placed on 170 for 2 but suffered a middle order collapse which decided the game",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527175.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414464.jpg",
+      "published_at": "2026-03-07T06:48:44.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పెర్రీ, ఓ'నీల్ ఆల్-బట్ టాస్మానియా షీల్డ్ ఫైనల్ ఆశలను ముగించారు",
+      "summary_te": "ఆతిథ్య జట్టు 2 వికెట్లకు 170 పరుగుల వద్ద ఆశాజనకంగా ఉంది, అయితే మిడిల్ ఆర్డర్ పతనానికి గురైంది, ఇది గేమ్‌ను నిర్ణయించింది.",
+      "translated": true
+    },
     {
       "id": "917cb540cf74214bd0212615f111631c",
       "title": "Mixed-soil pitch set to offer minimal turn and good bounce for India-NZ final",
@@ -15,7 +29,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారత్-NZ ఫైనల్‌కు మినిమల్ టర్న్ మరియు మంచి బౌన్స్ అందించడానికి మిశ్రమ నేల పిచ్ సెట్ చేయబడింది",
-      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒక మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
+      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒకే ఒక్క మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "థోర్న్‌టన్ కెరీర్-బెస్ట్ హాల్ సాధించిన తర్వాత తల చౌకగా పడిపోయింది",
       "summary_te": "న్యూ సౌత్ వేల్స్ మిడిల్ మరియు లోయర్ ఆర్డర్ రెండో స్థానం కోసం రేసులో కీలకమైన పరుగులు అందించింది",
-      "translated": true
-    },
-    {
-      "id": "85968261a65d9f30fb6d708f72b8b167",
-      "title": "Sam Harper shines to put Victoria on top on 14-wicket day",
-      "summary": "Harper continued his stunning form making 93 as Victoria posted 222, with Meredith taking 4 for 53, before Tasmania slumped to 52 for 4",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526911.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414375.jpg",
-      "published_at": "2026-03-05T08:10:16.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సామ్ హార్పర్ 14 వికెట్ల రోజున విక్టోరియాను అగ్రస్థానంలో నిలిపాడు",
-      "summary_te": "హార్పర్ తన అద్భుతమైన ఫామ్‌ను కొనసాగించి 93 పరుగులతో విక్టోరియా 222 పరుగులు చేశాడు, మెరెడిత్ 53 పరుగులకు 4 వికెట్లు తీసుకున్నాడు, టాస్మానియా 4 వికెట్లకు 52కి పడిపోయింది.",
       "translated": true
     }
   ]
