@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-06T23:30:02.372Z",
-  "updated_at_IST": "7/3/2026, 5:00:02 am",
+  "updated_at": "2026-03-07T01:07:26.625Z",
+  "updated_at_IST": "7/3/2026, 6:37:26 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "b6ed1be50fb205b95e9b52d2c88d6896",
+      "title": "Domestic LPG price hiked by ₹60, commercial cylinder up ₹115 from today — check new rates here",
+      "summary": "Domestic LPG price hiked by ₹60 amid West Asia conflict",
+      "url": "https://www.livemint.com/news/india/domestic-lpg-price-hiked-by-rs-60-commercial-cylinder-up-rs-115-from-today-check-new-rates-here-11772841970784.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/PTI03-06-2026-000179B-0_1772842950990_1772842960029.jpg",
+      "published_at": "2026-03-07T00:14:20.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "దేశీయ LPG ధర ₹60 పెరిగింది, వాణిజ్య సిలిండర్ ఈరోజు నుండి ₹115 పెరిగింది — కొత్త రేట్లు ఇక్కడ చూడండి",
+      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య దేశీయ LPG ధర ₹60 పెరిగింది",
+      "translated": true
+    },
+    {
+      "id": "e2ec9ff288fd849e37d4571e6b54f32a",
+      "title": "Israel Iran attack: Donald Trump says 'unconditional surrender' is when Iran...",
+      "summary": "In a post on TRUTH social media earlier, US President Donald Trump called for Iran's “unconditional surrender” saying, “There will be no deal with Iran except UNCONDITIONAL SURRENDER!” What does he mean?",
+      "url": "https://www.livemint.com/news/world/israel-iran-attack-us-donald-trump-says-unconditional-surrender-is-when-iran-11772841476852.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/TRUMP-INTER-MIAMI-36_1772816477940_1772817413249_1772841520730.jpg",
+      "published_at": "2026-03-07T00:00:20.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇజ్రాయెల్ ఇరాన్ దాడి: డొనాల్డ్ ట్రంప్ 'షరతులు లేని లొంగుబాటు' ఇరాన్...",
+      "summary_te": "అంతకుముందు ట్రూత్ సోషల్ మీడియాలో ఒక పోస్ట్‌లో, అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ ఇరాన్ యొక్క “షరతులు లేని లొంగిపోవడానికి” పిలుపునిచ్చారు, “ఇరాన్‌తో షరతులు లేని లొంగిపోవడం తప్ప ఎటువంటి ఒప్పందం ఉండదు!” అతను అర్థం ఏమిటి?",
+      "translated": true
+    },
     {
       "id": "a87a22ee750b8e5591bce0783489e3ce",
       "title": "Robert F. Kennedy Jr. asks: ‘Is a drink with 180 grams of sugar safe?’ in latest Dunkin’ criticism",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "షారూఖ్ ఖాన్ యొక్క కోట్ ఆఫ్ ది డే: 'కష్టపడి చదవండి, కష్టపడి పని చేయండి...'",
       "summary_te": "కోట్ విద్య మరియు అభ్యాసాన్ని నొక్కి చెబుతుంది మరియు \"కష్టపడి చదవండి\" అని చెప్పడం ద్వారా షారుఖ్ ఖాన్ విజయానికి పునాదిగా జ్ఞానం యొక్క ప్రాముఖ్యతను హైలైట్ చేశాడు. సారాంశంలో, క్రమశిక్షణతో కూడిన అభ్యాసం మరియు ఉత్సుకతతో విజయం ప్రారంభమవుతుందని అతను నొక్కి చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "c0f1da5c4c06d02c5d85c9311b5b2d13",
-      "title": "US jobs report: 92,000 jobs cut in February, says BLS; unemployment rate climbs to 4.4%",
-      "summary": "US employers unexpectedly cut hiring in February, with nonfarm payrolls dropping by 92,000 and the unemployment rate rising to 4.4%. This decline was reportedly influenced by reduced health care employment due to strike activity, raising concerns about labor market strength.",
-      "url": "https://www.livemint.com/news/us-news/us-jobs-report-92-000-jobs-cut-in-february-says-bls-unemployment-rate-climbs-to-44-11772802936332.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/logo/Ldf_1769827647263_1769827652727_1772805912483.jpg",
-      "published_at": "2026-03-06T14:11:51.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "US ఉద్యోగాల నివేదిక: ఫిబ్రవరిలో 92,000 ఉద్యోగాలు తగ్గించబడ్డాయి, BLS చెప్పింది; నిరుద్యోగం రేటు 4.4 శాతానికి పెరిగింది",
-      "summary_te": "US యజమానులు ఊహించని విధంగా ఫిబ్రవరిలో నియామకాలను తగ్గించారు, నాన్‌ఫార్మ్ పేరోల్‌లు 92,000 తగ్గాయి మరియు నిరుద్యోగిత రేటు 4.4%కి పెరిగింది. సమ్మె కార్యాచరణ కారణంగా తగ్గిన ఆరోగ్య సంరక్షణ ఉపాధి కారణంగా ఈ క్షీణత ప్రభావితమైందని, లేబర్ మార్కెట్ బలం గురించి ఆందోళనలు వ్యక్తం చేశాయి.",
-      "translated": true
-    },
-    {
-      "id": "a9345a9e8f781982759146a4fbb935dc",
-      "title": "Trump issues ultimatum to Iran: ‘No deal except unconditional surrender’",
-      "summary": "Posting on Truth Social, Trump said Iran could have a “great future” after surrendering and selecting new leaders, pledging that the US and its partners would work to restore the country economically, while invoking the slogan “Make Iran Great Again (MIGA).”",
-      "url": "https://www.livemint.com/news/us-news/donald-trump-issues-ultimatum-to-iran-no-deal-except-unconditional-surrender-11772805636589.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/06/1600x900/trump_1772408496582_1772408496711_1772805891819.jpg",
-      "published_at": "2026-03-06T14:07:40.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్‌కు ట్రంప్ అల్టిమేటం జారీ చేశారు: ‘షరతులు లేని లొంగుబాటు తప్ప ఒప్పందం లేదు’",
-      "summary_te": "ట్రూత్ సోషల్‌లో పోస్ట్ చేస్తూ, కొత్త నాయకులను లొంగిపోయిన తర్వాత మరియు ఎంపిక చేసిన తర్వాత ఇరాన్‌కు “గొప్ప భవిష్యత్తు” ఉంటుందని ట్రంప్ అన్నారు, అమెరికా మరియు దాని భాగస్వాములు దేశాన్ని ఆర్థికంగా పునరుద్ధరించడానికి కృషి చేస్తామని ప్రతిజ్ఞ చేస్తూ, “మేక్ ఇరాన్ గ్రేట్ ఎగైన్ (MIGA)” అనే నినాదాన్ని ప్రయోగించారు.",
       "translated": true
     },
     {
