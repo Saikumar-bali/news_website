@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T08:28:24.322Z",
-  "updated_at_IST": "7/3/2026, 1:58:24 pm",
+  "updated_at": "2026-03-07T09:31:25.993Z",
+  "updated_at_IST": "7/3/2026, 3:01:26 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e91a97b7ef3eaf98f25ecb1e5c957ac8",
+      "title": "Labuschagne takes four but Queensland crash towards defeat",
+      "summary": "A poor forecast for the last day yet deny Western Australia victory but the home side's hopes of reaching the final would still have taken a huge hit",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527191.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414469.jpg",
+      "published_at": "2026-03-07T08:57:12.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "లాబుస్చాగ్నే నాలుగు పడుతుంది కానీ క్వీన్స్లాండ్ ఓటమి వైపు క్రాష్",
+      "summary_te": "చివరి రోజు పేలవమైన అంచనా ఇంకా వెస్ట్రన్ ఆస్ట్రేలియా విజయాన్ని తిరస్కరించింది, అయితే ఫైనల్‌కు చేరుకోవాలనే ఆతిథ్య జట్టు ఆశలు ఇప్పటికీ భారీ విజయాన్ని సాధించాయి.",
+      "translated": true
+    },
     {
       "id": "23c0d277950c640e28427d98aa95b6f7",
       "title": "England, WI and SA to leave India over the weekend on charter flights",
@@ -43,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారత్-NZ ఫైనల్‌కు మినిమల్ టర్న్ మరియు మంచి బౌన్స్ అందించడానికి మిశ్రమ నేల పిచ్ సెట్ చేయబడింది",
-      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒక మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
+      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒకే ఒక్క మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "వెస్ట్రన్ ఆస్ట్రేలియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ పతనం కావడంతో గానన్ ఆలస్యంగా కొట్టాడు",
       "summary_te": "210 తర్వాత ఫాన్నింగ్ 62 పరుగులతో క్వీన్స్‌లాండ్‌ను 37 పరుగులకు వదిలేసి, లాబుస్చాగ్నే మరియు ఖవాజాతో సహా గానన్ మూడు వికెట్లు పడగొట్టాడు.",
-      "translated": true
-    },
-    {
-      "id": "cf62a3c05b3365e2999a44229e7829c7",
-      "title": "Du Plessis: 'You lose the powerplay, you more often than not lose the game'",
-      "summary": "Faf du Plessis feels that South Africa should have worked harder to keep wickets in hand and gone for broke later in the innings when the surface became easier",
-      "url": "https://www.espncricinfo.com/ci/content/story/1526929.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414349.jpg",
-      "published_at": "2026-03-05T08:22:45.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డు ప్లెసిస్: 'మీరు పవర్‌ప్లేను కోల్పోతారు, మీరు తరచుగా ఆటను కోల్పోరు'",
-      "summary_te": "ఫాఫ్ డు ప్లెసిస్, దక్షిణాఫ్రికా వికెట్లను చేతిలో ఉంచుకోవడానికి చాలా కష్టపడి ఉండాల్సిందని మరియు ఉపరితలం తేలికైనప్పుడు ఇన్నింగ్స్‌లో విరిగిపోయిందని భావించాడు.",
       "translated": true
     }
   ]
