@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-07T22:15:05.263Z",
-  "updated_at_IST": "8/3/2026, 3:45:05 am",
+  "updated_at": "2026-03-07T23:24:03.761Z",
+  "updated_at_IST": "8/3/2026, 4:54:03 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "eca642ba88c19ffdb4fe99b272d60676",
+      "title": "Government takes steps to train 85,000 chip designers in 315 institutions",
+      "summary": "India's Chips to Startups programme is training engineers in semiconductor design. Students from 315 institutions are gaining hands-on experience. The government plans to expand this initiative to 500 institutions. This aims to build a strong talent pipeline for the growing global semiconductor industry. The programme is part of India's larger semiconductor mission.",
+      "url": "https://timesofindia.indiatimes.com/india/government-takes-steps-to-train-85000-chip-designers-in-315-institutions/articleshow/129240538.cms",
+      "image": "https://static.toiimg.com/photo/msid-129240583,imgsize-28070.cms",
+      "published_at": "2026-03-07T22:52:26.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "315 సంస్థల్లో 85,000 మంది చిప్ డిజైనర్లకు శిక్షణ ఇచ్చేందుకు ప్రభుత్వం చర్యలు తీసుకుంటోంది",
+      "summary_te": "ఇండియా యొక్క చిప్స్ టు స్టార్టప్ ప్రోగ్రామ్ సెమీకండక్టర్ డిజైన్‌లో ఇంజనీర్లకు శిక్షణనిస్తోంది. 315 విద్యాసంస్థల నుండి విద్యార్థులు అనుభవాన్ని పొందుతున్నారు. ఈ కార్యక్రమాన్ని 500 సంస్థలకు విస్తరించాలని ప్రభుత్వం యోచిస్తోంది. పెరుగుతున్న ప్రపంచ సెమీకండక్టర్ పరిశ్రమ కోసం బలమైన ప్రతిభ పైప్‌లైన్‌ను నిర్మించడం దీని లక్ష్యం. ఈ కార్యక్రమం భారతదేశం యొక్క పెద్ద సెమీకండక్టర్ మిషన్‌లో భాగం.",
+      "translated": true
+    },
+    {
+      "id": "f0491979f2f831d96d8cb2c292015a8e",
+      "title": "LPG price hike: Mamata calls for protests, Sidda seeks PM Modi's ouster",
+      "summary": "Opposition-ruled states are fiercely criticizing the central government over surging LPG prices. West Bengal's Chief Minister urged women to protest on Women's Day against the hike and voter list deletions. Karnataka's CM blamed PM Modi's foreign policy for the price rise, demanding his resignation. Jharkhand's JMM spokesperson pointed to strained ties with Russia as a contributing factor.",
+      "url": "https://timesofindia.indiatimes.com/india/lpg-price-hike-mamata-calls-for-protests-sidda-seeks-pm-modis-ouster/articleshow/129240086.cms",
+      "image": "https://static.toiimg.com/photo/msid-129240482,imgsize-133068.cms",
+      "published_at": "2026-03-07T22:40:29.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "LPG ధరల పెంపు: నిరసనలకు పిలుపునిచ్చిన మమత, సిద్దా ప్రధాని మోడీని గద్దె దించాలని కోరుతున్నారు",
+      "summary_te": "ఎల్పీజీ ధరల పెరుగుదలపై ప్రతిపక్షాల పాలిత రాష్ట్రాలు కేంద్ర ప్రభుత్వంపై తీవ్ర స్థాయిలో విమర్శలు చేస్తున్నాయి. పశ్చిమ బెంగాల్ ముఖ్యమంత్రి మహిళా దినోత్సవం రోజున పెంపుదల మరియు ఓటరు జాబితా తొలగింపుకు వ్యతిరేకంగా మహిళలు నిరసన తెలియజేయాలని కోరారు. ధరల పెరుగుదలకు ప్రధాని మోదీ విదేశాంగ విధానమే కారణమని, ఆయన రాజీనామా చేయాలని కర్ణాటక సీఎం డిమాండ్ చేశారు. జార్ఖండ్‌కు చెందిన JMM ప్రతినిధి రష్యాతో సంబంధాలను దోహదపడే అంశంగా సూచించారు.",
+      "translated": true
+    },
+    {
+      "id": "95fcbafb455edf3dfb243cf906d07d2c",
+      "title": "Doctors warn against frequent use of morning-after pills",
+      "summary": "Women relying on morning-after pills face health risks, doctors warn. Frequent use disrupts hormonal balance and menstrual cycles, with potential long-term reproductive health impacts. These pills are for emergencies, not routine contraception, and do not protect against STIs. Experts urge considering more reliable birth control methods if frequent use is needed.",
+      "url": "https://timesofindia.indiatimes.com/india/doctors-warn-against-frequent-use-of-morning-after-pills/articleshow/129238274.cms",
+      "image": "https://static.toiimg.com/photo/msid-129238523,imgsize-46010.cms",
+      "published_at": "2026-03-07T22:13:42.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఉదయం తర్వాత మాత్రలు తరచుగా వాడకూడదని వైద్యులు హెచ్చరిస్తున్నారు",
+      "summary_te": "ఉదయం తర్వాత మాత్రలపై ఆధారపడే మహిళలు ఆరోగ్య ప్రమాదాలను ఎదుర్కొంటారని వైద్యులు హెచ్చరిస్తున్నారు. తరచుగా ఉపయోగించడం వల్ల హార్మోన్ల సమతుల్యత మరియు ఋతు చక్రాలకు అంతరాయం ఏర్పడుతుంది, సంభావ్య దీర్ఘకాలిక పునరుత్పత్తి ఆరోగ్య ప్రభావాలతో. ఈ మాత్రలు అత్యవసర పరిస్థితుల కోసం, సాధారణ గర్భనిరోధకం కాదు మరియు STIల నుండి రక్షించవు. తరచుగా ఉపయోగించడం అవసరమైతే మరింత విశ్వసనీయమైన గర్భనిరోధక పద్ధతులను పరిగణనలోకి తీసుకోవాలని నిపుణులు కోరుతున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "860050adca61229fc3e52de1ea3d3267",
+      "title": "Yogi Adityanath pays tribute to Uttar Pradesh’s first CM Govind Ballabh Pant on his death anniversary",
+      "summary": "Works of the late leader continue to inspire and guide the State even today, the U.P. CM added",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/yogi-adityanath-pays-tribute-to-uttar-pradeshs-first-cm-govind-ballabh-pant-on-his-death-anniversary/article70716207.ece",
+      "image": "https://th-i.thgim.com/public/incoming/2j0j0q/article70717152.ece/alternates/LANDSCAPE_1200/20260307444L.jpg",
+      "published_at": "2026-03-07T22:06:10.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఉత్తరప్రదేశ్ తొలి ముఖ్యమంత్రి గోవింద్ బల్లభ్ పంత్ వర్ధంతి సందర్భంగా ఆయనకు నివాళులర్పించిన యోగి ఆదిత్యనాథ్",
+      "summary_te": "దివంగత నేత రచనలు నేటికీ రాష్ట్రానికి స్ఫూర్తినిస్తూ, మార్గదర్శకంగా నిలుస్తున్నాయి, యు.పి. సీఎం జోడించారు",
+      "translated": true
+    },
+    {
+      "id": "5e7eb69acd631e6bfefa114047efbeaf",
+      "title": "LPG price hike: Domestic cooking gas cost up by Rs 60 a cylinder",
+      "summary": "Domestic LPG cylinders will now cost Rs 60 more, reaching Rs 913 in Delhi, while commercial prices saw a Rs 114.5 increase. This hike, attributed to global energy market pressures and the West Asia conflict, comes despite government efforts to shield households. Ujjwala beneficiaries will pay Rs 613, with a Rs 300 subsidy.",
+      "url": "https://timesofindia.indiatimes.com/india/cooking-gas-price-up-by-rs-60-a-cylinder/articleshow/129237027.cms",
+      "image": "https://static.toiimg.com/photo/msid-129237147,imgsize-85082.cms",
+      "published_at": "2026-03-07T21:51:29.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "LPG ధర పెంపు: దేశీయ వంట గ్యాస్ సిలిండర్ ధర రూ.60 పెరిగింది",
+      "summary_te": "దేశీయ LPG సిలిండర్ల ధర ఇప్పుడు రూ. 60 ఎక్కువగా ఉంటుంది, ఢిల్లీలో రూ. 913కి చేరుకుంది, వాణిజ్య ధరలు రూ. 114.5 పెరిగాయి. గ్లోబల్ ఎనర్జీ మార్కెట్ ఒత్తిళ్లు మరియు పశ్చిమాసియా సంఘర్షణ కారణంగా ఈ పెంపుదల, గృహాలను రక్షించడానికి ప్రభుత్వం ప్రయత్నాలు చేసినప్పటికీ వచ్చింది. ఉజ్వల లబ్ధిదారులు రూ.300 సబ్సిడీతో రూ.613 చెల్లిస్తారు.",
+      "translated": true
+    },
     {
       "id": "fdf18b8478b3ad87fd71f72df9df4b07",
       "title": "EAM Jaishankar: Let Iranian ship dock on humanitarian grounds",
@@ -20,7 +90,7 @@
     },
     {
       "id": "e405c35be9d58fec78788929ff81dd69",
-      "title": "Delhi heads to summers with hottest March day in 50 yrs, mercury up in north India",
+      "title": "Delhi heads into summers with hottest March day in 50 yrs, mercury up in north India",
       "summary": "Delhi logged a maximum temperature of 35.7 degrees Celsius on Saturday, which is the highest reading logged for the first week of March in the last 50 years.",
       "url": "https://www.hindustantimes.com/india-news/delhi-heads-to-summers-with-hottest-march-day-in-50-yrs-mercury-up-in-north-india-101772916820337.html",
       "image": "https://www.hindustantimes.com/ht-img/img/2026/03/07/1600x900/logo/Delhi-Hot-Day-weather--6_1772919378119_1772919395878.jpg",
@@ -243,17 +313,17 @@
       "translated": true
     },
     {
-      "id": "a190d13fbe80dc534b5e5a288b1868e8",
-      "title": "Jammu and Kashmir: 2 mobiles, being smuggled inside jail, recovered in Doda",
-      "summary": "Authorities at Bhaderwah Jail in Doda district intercepted two mobile phones hidden within a parcel intended for an inmate held under the Public Safety Act. The parcel, addressed to Irshad Ahmad Wani, a resident of Bandipora, was reportedly booked by Mohammed Younis Wani from Pulwama.",
-      "url": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-2-mobiles-being-smuggled-inside-jail-recovered-in-doda/articleshow/129232462.cms",
-      "image": "https://static.toiimg.com/photo/msid-129232555,imgsize-27226.cms",
-      "published_at": "2026-03-07T19:31:15.000Z",
-      "source": "Times of India",
+      "id": "d1362b264ab8b2534cd84f9bafa85b20",
+      "title": "Business leaders call for stronger ecosystems that empower women at Thaaragai 2026 summit",
+      "summary": "Women leaders and entrepreneurs from various sectors came together at Thaaragai 2026, a summit hosted by the Confederation of Indian Industry (CII) Indian Women Network (IWN) Tamil Nadu.“Platforms like Thaaragai play a vital role in bringing together leaders from industry, government, and academia to share ideas and create solutions that help more women succeed. When women are empowered with the right opportunities and mentorship, they become powerful catalysts for progress,” said Amudhavalli Ranganathan, vice-chairwoman, IWN Tamil Nadu, director of CavinKare, and executive director of CK Group of Educational Institutions.Aravindan Selvaraj, co-founder and executive director of Kauvery Hospitals, shared some statistics on women in the healthcare sector, citing numbers from his hospital chain. “We have 12 hospitals with 2,500 beds and employ 13,000 people. Of them, 70% are women.”He further said: “Once, when we convened a middle management meeting, I realised we had more men [than women]. I thought it was not right, and since then, we have proactively hired women. Today, 70% of our middle management comprise women. If you look at our senior management, 50% are women. At the CXO (Chief Experience Officer) level, we have 20%-30% women.”Savitha Kesav Jagadeesan, Chairwoman, IWN Tamil Nadu & Senior Resident Partner, Kochhar & Co., said, “Tamil Nadu continues to be one of the leading States in India in terms of women’s workforce participation and entrepreneurship, making it even more important that we strengthen ecosystems that enable women to thrive – through access to opportunities, leadership pathways, and supportive policies — that empower them to participate fully in the workforce and society.”A.R. Unnikrishnan, Chairman of CII Tamil Nadu and Managing Director of Saint Gobain India, said the nation cannot be developed by 2047 and Tamil Nadu cannot become a $1 trillion economy without women’s participation.”A white paper on Women, Health, and Safety was also released at the event.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/business-leaders-call-for-stronger-ecosystems-that-empower-women-at-thaaragai-2026-summit/article70715359.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-07T19:30:13.000Z",
+      "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "జమ్మూ కాశ్మీర్: జైలులో అక్రమంగా తరలిస్తున్న 2 మొబైల్స్ దోడాలో స్వాధీనం చేసుకున్నారు",
-      "summary_te": "పబ్లిక్ సేఫ్టీ యాక్ట్ ప్రకారం ఖైదీ కోసం ఉద్దేశించిన పార్శిల్‌లో దాచిన రెండు మొబైల్ ఫోన్‌లను దోడా జిల్లాలోని భదర్వా జైలు అధికారులు స్వాధీనం చేసుకున్నారు. బండిపొరా నివాసి ఇర్షాద్ అహ్మద్ వానీకి సంబంధించిన పార్శిల్‌ను పుల్వామాకు చెందిన మహ్మద్ యూనిస్ వానీ బుక్ చేసినట్లు సమాచారం.",
+      "title_te": "తారాగై 2026 సమ్మిట్‌లో మహిళలను శక్తివంతం చేసే బలమైన పర్యావరణ వ్యవస్థల కోసం వ్యాపార నాయకులు పిలుపునిచ్చారు",
+      "summary_te": "కాన్ఫెడరేషన్ ఆఫ్ ఇండియన్ ఇండస్ట్రీ (CII) ఇండియన్ ఉమెన్ నెట్‌వర్క్ (IWN) తమిళనాడు నిర్వహించిన సమ్మిట్ తారాగై 2026లో వివిధ రంగాలకు చెందిన మహిళా నాయకులు మరియు పారిశ్రామికవేత్తలు కలిసి వచ్చారు. \"పరిశ్రమ, ప్రభుత్వం మరియు విద్యావేత్తల నుండి నాయకులను ఒకచోట చేర్చడంలో తారగై వంటి ప్లాట్‌ఫారమ్‌లు కీలక పాత్ర పోషిస్తాయి. మెంటర్‌షిప్, వారు పురోగతికి శక్తివంతమైన ఉత్ప్రేరకాలు అవుతారు, ”అని కేవిన్‌కేర్ డైరెక్టర్ మరియు CK గ్రూప్ ఆఫ్ ఎడ్యుకేషనల్ ఇనిస్టిట్యూషన్స్ ఎగ్జిక్యూటివ్ డైరెక్టర్ IWN తమిళనాడు వైస్-ఛైర్‌వుమన్ అముధవల్లి రంగనాథన్ అన్నారు. కావేరీ హాస్పిటల్స్ సహ వ్యవస్థాపకుడు మరియు ఎగ్జిక్యూటివ్ డైరెక్టర్ అరవిందన్ సెల్వరాజ్, హెల్త్‌కేర్ రంగంలోని మహిళలకు సంబంధించిన కొన్ని గణాంకాలను పంచుకున్నారు. \"మాకు 2,500 పడకలతో 12 ఆసుపత్రులు ఉన్నాయి మరియు 13,000 మంది ఉద్యోగులున్నారు. వారిలో 70% మంది మహిళలు ఉన్నారు. \"అతను ఇంకా ఇలా అన్నాడు: \"ఒకసారి, మేము మిడిల్ మేనేజ్‌మెంట్ సమావేశాన్ని ఏర్పాటు చేసినప్పుడు, మాకు ఎక్కువ మంది పురుషులు ఉన్నారని నేను గ్రహించాను. ఇది సరైనది కాదని నేను భావించాను, అప్పటి నుండి, మా మధ్య మేనేజ్‌మెంట్ చురుగ్గా మహిళలను నియమించుకున్నాము. 50% మంది మహిళలు CXO (చీఫ్ ఎక్స్‌పీరియన్స్ ఆఫీసర్) స్థాయిలో 20%-30% మంది మహిళలు ఉన్నారు. ”సవితా కేశవ్ జగదీశన్, చైర్‌వుమన్, IWN తమిళనాడు & సీనియర్ రెసిడెంట్ పార్టనర్, కొచ్చర్ & కో., “తమిళనాడు మరింత కృషి చేయడంలో మరియు భాగస్వామ్యానికి సంబంధించి భారతదేశంలోని ప్రముఖ రాష్ట్రాలలో ఒకటిగా కొనసాగుతోంది. మహిళలు అభివృద్ధి చెందడానికి వీలు కల్పించే పర్యావరణ వ్యవస్థలను బలోపేతం చేయడం ముఖ్యం - అవకాశాలను పొందడం, నాయకత్వ మార్గాలు మరియు సహాయక విధానాల ద్వారా - శ్రామికశక్తి మరియు సమాజంలో పూర్తిగా పాల్గొనడానికి వారిని శక్తివంతం చేస్తుంది. ”A.R. CII తమిళనాడు చైర్మన్ మరియు సెయింట్ గోబైన్ ఇండియా మేనేజింగ్ డైరెక్టర్ ఉన్నికృష్ణన్ మాట్లాడుతూ, 2047 నాటికి దేశం అభివృద్ధి చెందదని, మహిళల భాగస్వామ్యం లేకుండా తమిళనాడు 1 ట్రిలియన్ డాలర్ల ఆర్థిక వ్యవస్థగా మారదని అన్నారు. ”ఈ కార్యక్రమంలో మహిళలు, ఆరోగ్యం మరియు భద్రతపై శ్వేతపత్రాన్ని కూడా విడుదల చేశారు.",
       "translated": true
     },
     {
@@ -285,20 +355,6 @@
       "translated": true
     },
     {
-      "id": "0db47645640a71e9413588d70067cbd1",
-      "title": "Jammu: NIA court rejects bail plea of terror funding accused",
-      "summary": "A Jammu NIA court denied bail to Tanvir Ahmed Wani, accused in a terror funding case. Wani allegedly conspired with Pakistani traders, importing goods beyond limits via under-invoicing to generate profits for terror outfits like Hizbul Mujahideen and Lashkar-e-Taiba. Incriminating materials were found at his residence.",
-      "url": "https://timesofindia.indiatimes.com/india/jammu-nia-court-rejects-bail-plea-of-terror-funding-accused/articleshow/129232161.cms",
-      "image": "https://static.toiimg.com/photo/msid-129232252,imgsize-45848.cms",
-      "published_at": "2026-03-07T19:23:51.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "జమ్మూ: ఉగ్రవాదానికి నిధులు సమకూర్చిన నిందితుల బెయిల్ పిటిషన్‌ను ఎన్‌ఐఏ కోర్టు తిరస్కరించింది",
-      "summary_te": "ఉగ్రవాదులకు నిధులు సమకూర్చిన కేసులో నిందితుడైన తన్వీర్ అహ్మద్ వానీకి జమ్మూ ఎన్ఐఏ కోర్టు బెయిల్ నిరాకరించింది. హిజ్బుల్ ముజాహిదీన్ మరియు లష్కరే తోయిబా వంటి ఉగ్రవాద సంస్థలకు లాభాలు ఆర్జించేందుకు అండర్ ఇన్‌వాయిస్ ద్వారా పరిమితికి మించి వస్తువులను దిగుమతి చేసుకున్న పాకిస్తానీ వ్యాపారులతో వనీ కుట్ర పన్నాడని ఆరోపించారు. అతని నివాసంలో నేరారోపణ సామాగ్రిని కనుగొన్నారు.",
-      "translated": true
-    },
-    {
       "id": "5dbbc80667be925ae8223fe986d981a5",
       "title": "Minister lays foundation for two check dams across Palar, Ponnai near Katpadi",
       "summary": "Minister for Water Resources and Katpadi MLA Duraimurugan virtually laid the foundation stone for two check dams across Palar and its tributary Ponnai river near Katpadi in Vellore on Saturday. The project seeks to prevent inundation of the town during monsoon and also to help recharge of groundwater in surrounding villages for irrigation.Officials of the Water Resources Department (WRD) said that the two new check dams will help irrigate at least 1,200 hectares of farmland in the region. “Also, local bodies can sink borewells along the new facility to draw water for consumption,” S. Ramkumar, Assistant Engineer (AE), WRD (Katpadi), told The Hindu.Along with Vellore MP D.M. Kathir Anand, Collector V.R. Subbulaxmi inspected the site where the work will be taken up. “As the region along Palar is arid with farmers having to depend on deep bore wells for irrigation, new check dams will help to store excess rainwater and increase groundwater level. More such check dams across the river should be built,” said V. Kandan, a farmer.Funded by NABARD under the Permanent Floods Restoration Scheme 2025-26, the two check dams will be built at a total cost of ₹69.52 crore. The check dam across Palar will be 470 metres long with a total storage capacity of 10.27 mcft (million cubic feet). The new facility across Ponneri river will be 198 metres long and total storage capacity of 7.36 mcft (million cubic feet). The total height of each facility will be 1.5 feet.Each check dam, on an average, can discharge 80,000 cusecs of excess rainwater. During its full capacity, water at each check dam covers at least 120 acres. For farmers, the new check dams will help recharge at least 315 farm wells in the region. Around 10-12 farming villages will get benefitted as groundwater level will increase to around three kms radius from these check dams.",
@@ -310,20 +366,6 @@
       "language": "en",
       "title_te": "కాట్పాడి సమీపంలోని పాలార్, పొన్నాయ్ మీదుగా రెండు చెక్ డ్యామ్‌లకు మంత్రి శంకుస్థాపన చేశారు",
       "summary_te": "జలవనరుల శాఖ మంత్రి మరియు కాట్పాడి ఎమ్మెల్యే దురైమురుగన్ శనివారం వేలూరులోని కాట్పాడి సమీపంలో పాలార్ మరియు దాని ఉపనది పొన్నై నదిపై రెండు చెక్ డ్యామ్‌లకు శంకుస్థాపన చేశారు. ఈ ప్రాజెక్ట్ వర్షాకాలంలో పట్టణం ముంపునకు గురికాకుండా నిరోధించడానికి మరియు నీటిపారుదల కోసం చుట్టుపక్కల గ్రామాలలో భూగర్భ జలాలను రీఛార్జ్ చేయడంలో సహాయపడటానికి ప్రయత్నిస్తుంది. ఈ రెండు కొత్త చెక్ డ్యామ్‌లు ఈ ప్రాంతంలోని కనీసం 1,200 హెక్టార్ల వ్యవసాయ భూములకు సాగునీరు అందించడానికి సహాయపడతాయని జలవనరుల శాఖ (WRD) అధికారులు తెలిపారు. \"అలాగే, స్థానిక సంస్థలు వినియోగానికి నీటిని తీసుకోవడానికి కొత్త సౌకర్యంతో పాటు బోర్‌వెల్‌లను మునిగిపోతాయి,\" S. రామ్‌కుమార్, అసిస్టెంట్ ఇంజనీర్ (AE), WRD (కాట్పాడి), ది హిందూతో అన్నారు. వెల్లూరు MP D.Mతో పాటు. కతిర్ ఆనంద్, కలెక్టర్ వి.ఆర్. పనులు చేపట్టే స్థలాన్ని సుబ్బులక్ష్మి పరిశీలించారు. పాలార్ వెంబడి ఉన్న ప్రాంతం రైతులు నీటిపారుదల కోసం లోతైన బోరు బావులపై ఆధారపడాల్సిన అవసరం ఉన్నందున, కొత్త చెక్ డ్యామ్‌లు అదనపు వర్షపు నీటిని నిల్వ చేయడానికి మరియు భూగర్భజలాల స్థాయిని పెంచడానికి సహాయపడతాయి. నదికి అడ్డంగా మరిన్ని చెక్ డ్యామ్‌లు నిర్మించాలి,\" అని రైతు వి. కందన్ అన్నారు. నాబార్డ్ నిధులతో శాశ్వత వరదల పునరుద్ధరణ పథకం కింద 25-202 చెక్కు 202. ₹69.52 కోట్లు. పాలార్ మీదుగా చెక్ డ్యాం 470 మీటర్ల పొడవుతో 10.27 mcft (మిలియన్ క్యూబిక్ అడుగులు) మొత్తం నిల్వ సామర్థ్యంతో ఉంటుంది. పొన్నేరి నది మీదుగా కొత్త సౌకర్యం 198 మీటర్ల పొడవు మరియు మొత్తం నిల్వ సామర్థ్యం 7.36 mcft (మిలియన్ క్యూబిక్ అడుగులు) ఉంటుంది. ఒక్కో సదుపాయం మొత్తం ఎత్తు 1.5 అడుగులు. ఒక్కో చెక్ డ్యాం సగటున 80,000 క్యూసెక్కుల అదనపు వర్షపు నీటిని విడుదల చేయవచ్చు. దాని పూర్తి సామర్థ్యంలో, ప్రతి చెక్ డ్యామ్ వద్ద కనీసం 120 ఎకరాలకు నీరు ఉంటుంది. రైతులకు, కొత్త చెక్ డ్యామ్‌లు ఈ ప్రాంతంలో కనీసం 315 వ్యవసాయ బావులను రీఛార్జ్ చేయడానికి సహాయపడతాయి. ఈ చెక్‌డ్యామ్‌ల ద్వారా భూగర్భజలాలు మూడు కిలోమీటర్ల పరిధిలో పెరగడం వల్ల దాదాపు 10-12 వ్యవసాయ గ్రామాలు ప్రయోజనం పొందుతాయి.",
-      "translated": true
-    },
-    {
-      "id": "cec2c00f12a5631f7feb145ba1ba499d",
-      "title": "Kashmir: Visually impaired youth cracks UPSC; daily-wager father recounts yrs of struggle",
-      "summary": "In Bandipora, Kashmir, Irfan Ahmad Lone, a visually impaired youth, has achieved a remarkable feat by clearing the UPSC civil services exams with a rank of 957. Despite facing severe vision loss in childhood due to accidents, Irfan pursued his education with unwavering determination, graduating from JNU and working before his civil services success.",
-      "url": "https://timesofindia.indiatimes.com/india/visually-impaired-kashmir-youth-cracks-civil-services-daily-wager-father-recounts-years-of-struggle/articleshow/129231949.cms",
-      "image": "https://static.toiimg.com/photo/msid-129232089,imgsize-100228.cms",
-      "published_at": "2026-03-07T19:18:58.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "కాశ్మీర్: దృష్టి లోపం ఉన్న యువత UPSCని ఛేదించారు; దినసరి కూలీ తండ్రి ఏళ్ల పోరాటాన్ని గుర్తుచేసుకున్నాడు",
-      "summary_te": "కాశ్మీర్‌లోని బందిపొరాలో, ఇర్ఫాన్ అహ్మద్ లోన్ అనే దృష్టి లోపం ఉన్న యువకుడు UPSC సివిల్ సర్వీసెస్ పరీక్షలలో 957 ర్యాంక్‌తో ఉత్తీర్ణత సాధించి అద్భుతమైన ఫీట్ సాధించాడు. బాల్యంలో ప్రమాదాల కారణంగా తీవ్రమైన చూపు కోల్పోయినప్పటికీ, ఇర్ఫాన్ తన విద్యాభ్యాసాన్ని అచంచలమైన దృఢ సంకల్పంతో, సివిల్ సర్వీస్‌లో ఉత్తీర్ణత సాధించి జెఎన్‌యులో విజయం సాధించాడు.",
       "translated": true
     },
     {
@@ -691,6 +733,20 @@
       "translated": true
     },
     {
+      "id": "b7248753ae45b9627d79ede7f7846d48",
+      "title": "First citizenship under CAA: Assam woman gets relief after detention",
+      "summary": "In a remarkable milestone for citizenship rights, Dipali Das, a resilient 60-year-old woman from Cachar district in Assam, has proudly become the first beneficiary of the Indian Citizenship Amendment Act (CAA). After being declared a foreigner and confined to a transit camp for years, her journey took a hopeful turn when she was granted bail during the pandemic.",
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/first-citizenship-under-caa-assam-woman-becomes-first-to-receive-citizenship-under-caa-ends-two-year-detention-and-uncertainty-over-her-status/articleshow/129228516.cms",
+      "image": "https://static.toiimg.com/photo/msid-129239938,imgsize-76220.cms",
+      "published_at": "2026-03-07T18:00:28.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "CAA కింద మొదటి పౌరసత్వం: అస్సాం మహిళ నిర్బంధం తర్వాత ఉపశమనం పొందింది",
+      "summary_te": "పౌరసత్వ హక్కుల కోసం చెప్పుకోదగిన మైలురాయిలో, అస్సాంలోని కాచర్ జిల్లాకు చెందిన 60 ఏళ్ల వృద్ధురాలు దిపాలి దాస్, భారతీయ పౌరసత్వ సవరణ చట్టం (CAA) యొక్క మొదటి లబ్ధిదారురాలిగా గర్వంగా మారింది. విదేశీయుడిగా ప్రకటించబడి, కొన్నేళ్లుగా రవాణా శిబిరానికి పరిమితమైన తర్వాత, మహమ్మారి సమయంలో ఆమెకు బెయిల్ మంజూరు కావడంతో ఆమె ప్రయాణం ఆశాజనక మలుపు తిరిగింది.",
+      "translated": true
+    },
+    {
       "id": "7a312d2dfdb463816dd6d3fd7244f163",
       "title": "\"Very Sick People\": Trump On Iran Leaders Killed In US-Israel Strikes",
       "summary": "US President Donald Trump said that the people who were killed in US-Israeli attacks were \"sick people, very sick people\". According to the Iranian authorities, Operation Epic Fury has resulted in the deaths of more than 1,330 people so far.",
@@ -814,34 +870,6 @@
       "language": "en",
       "title_te": "కొట్టాయంలోని నాలుగు దశాబ్దాల నాటి ఫ్యామిలీ గ్యారేజీని యువతుల ద్వయం పునరుద్ధరించింది",
       "summary_te": "అమృత, శ్రుతిమోల్‌లు కొట్టాయంలోని పొంక్‌నమ్‌ పట్టణంలోని 'రింగూస్‌ ఆటో వర్క్స్‌'లో వారి బావమరిది శివదాసన్‌కు చెందిన 'రింగూస్‌ ఆటో వర్క్స్‌'లో మూడేళ్లుగా పనిచేస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "1f9183a18f2b48e9fc90171f66f019c3",
-      "title": "Women entrepreneurs face disparity in fundraising",
-      "summary": "‘Women founders continue to build resilient, high-potential businesses, yet the share of capital reaching them remains disproportionately small’",
-      "url": "https://www.thehindu.com/news/national/karnataka/women-entrepreneurs-face-disparity-in-fundraising/article70716736.ece",
-      "image": "https://th-i.thgim.com/public/incoming/8jk1il/article70716901.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-07%20at%2021.48.21.jpeg",
-      "published_at": "2026-03-07T17:42:14.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మహిళా పారిశ్రామికవేత్తలు నిధుల సేకరణలో అసమానతలను ఎదుర్కొంటారు",
-      "summary_te": "'మహిళా వ్యవస్థాపకులు స్థితిస్థాపకంగా, అధిక సంభావ్య వ్యాపారాలను నిర్మించడం కొనసాగిస్తున్నారు, అయినప్పటికీ వారికి చేరే మూలధనం యొక్క వాటా చాలా తక్కువగా ఉంటుంది'",
-      "translated": true
-    },
-    {
-      "id": "d018b0dc9a9f36894e1d29a7c4ab9d86",
-      "title": "Jawahirullah urges Union government to roll back LPG price hike",
-      "summary": "He says the move will impose an additional burden on the public",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/jawahirullah-urges-union-government-to-roll-back-lpg-price-hike/article70715528.ece",
-      "image": "https://th-i.thgim.com/public/incoming/4tvlp4/article70716893.ece/alternates/LANDSCAPE_1200/BVR_9821_01.JPG",
-      "published_at": "2026-03-07T17:41:37.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "LPG ధరల పెంపును ఉపసంహరించుకోవాలని జవహిరుల్లా కేంద్ర ప్రభుత్వాన్ని కోరారు",
-      "summary_te": "ఈ చర్య వల్ల ప్రజలపై అదనపు భారం పడుతుందని అంటున్నారు",
       "translated": true
     },
     {
@@ -1167,20 +1195,6 @@
       "translated": true
     },
     {
-      "id": "0092ba07fd7415b8e21e472b4b1e9842",
-      "title": "England leave, WI and SA stuck in India; Ex-captain slams ICC over unequal treatment",
-      "summary": "Michael Vaughan has criticized the ICC's unequal treatment of teams exiting the T20 World Cup, highlighting England's swift charter flight home while West Indies and South Africa remain stranded in Kolkata. He argued that a team's influence at the ICC should not dictate their post-elimination travel arrangements, emphasizing fair treatment for all.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/england-leave-wi-and-sa-stuck-in-india-former-captain-slams-icc-over-unequal-treatment/articleshow/129220288.cms",
-      "image": "https://static.toiimg.com/photo/msid-129220375,imgsize-1329956.cms",
-      "published_at": "2026-03-07T14:58:43.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇంగ్లాండ్ వదిలి, WI మరియు SA భారతదేశంలో చిక్కుకుపోయాయి; అసమానంగా వ్యవహరించడంపై మాజీ కెప్టెన్ ఐసిసిని నిందించాడు",
-      "summary_te": "T20 ప్రపంచ కప్ నుండి నిష్క్రమించే జట్లను ICC అసమానంగా ప్రవర్తించడాన్ని మైఖేల్ వాఘన్ విమర్శించారు, వెస్టిండీస్ మరియు దక్షిణాఫ్రికా కోల్‌కతాలో చిక్కుకుపోయిన ఇంగ్లాండ్ యొక్క స్విఫ్ట్ చార్టర్ ఫ్లైట్ హైలైట్. ICCలో జట్టు ప్రభావం వారి ఎలిమినేషన్ తర్వాత ప్రయాణ ఏర్పాట్లను నిర్దేశించకూడదని, అందరికీ న్యాయమైన చికిత్సను నొక్కిచెప్పాలని అతను వాదించాడు.",
-      "translated": true
-    },
-    {
       "id": "06b0151cf67cc776d19abf21d2ee96cd",
       "title": "Madras High Court Pushes For Symbolic Puja Atop Pillar Amid Deepam Row",
       "summary": "The Madurai Bench of the Madras High Court has pushed for a symbolic puja at the hilltop Deepathoon pillar in Thirupparankundram, even as contempt proceedings continue over the alleged failure to implement earlier court orders.",
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "ఉత్తరాఖండ్: ఢిల్లీ పర్యాటకురాలిపై అత్యాచారయత్నం, దోపిడీకి పాల్పడిన ట్యాక్సీ డ్రైవర్ అరెస్ట్",
       "summary_te": "39 ఏళ్ల టాక్సీ డ్రైవర్‌ను ఉత్తరాఖండ్‌లోని నైనిటాల్ జిల్లాలో హల్ద్వానీ సమీపంలో ఢిల్లీకి చెందిన 22 ఏళ్ల మహిళా టూరిస్ట్‌పై అత్యాచారం, దాడి చేసి దోచుకోవడానికి ప్రయత్నించినందుకు అరెస్టు చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "c43f05a3cd8080ce3d63fdd95795c30b",
-      "title": "Girl in frame, aunt in shadows: Could North Korea get its first female supreme leader?",
-      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/the-girl-in-the-frame-and-an-aunt-in-the-shadows-could-north-korea-get-its-first-female-supreme-leader/articleshow/129214480.cms",
-      "image": "https://static.toiimg.com/photo/msid-129217621,imgsize-2102943.cms",
-      "published_at": "2026-03-07T13:46:51.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఫ్రేమ్‌లో అమ్మాయి, నీడలో అత్త: ఉత్తర కొరియా మొదటి మహిళా సుప్రీం నాయకుడిని పొందగలదా?",
-      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     }
   ]
