@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-08T09:31:22.727Z",
-  "updated_at_IST": "8/3/2026, 3:01:22 pm",
+  "updated_at": "2026-03-08T10:27:44.498Z",
+  "updated_at_IST": "8/3/2026, 3:57:44 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "40429c4121c7ae5501e706c0dc9607a6",
+      "title": "West Indies, South Africa to fly out of India in the early hours of Tuesday",
+      "summary": "The travel plans of teams like West Indies and South Africa, as well as England and Zimbabwe, had to be changed because of the crisis in West Asia",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527331.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413700/413765.jpg",
+      "published_at": "2026-03-08T09:55:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వెస్టిండీస్, దక్షిణాఫ్రికా మంగళవారం తెల్లవారుజామున భారత్ నుండి బయలుదేరుతాయి",
+      "summary_te": "పశ్చిమాసియాలో సంక్షోభం కారణంగా వెస్టిండీస్ మరియు దక్షిణాఫ్రికా, అలాగే ఇంగ్లాండ్ మరియు జింబాబ్వే వంటి జట్ల ప్రయాణ ప్రణాళికలను మార్చవలసి వచ్చింది.",
+      "translated": true
+    },
     {
       "id": "6ac9bb3799397b0216c5b19d95556c66",
       "title": "Australia give Healy fitting farewell with ten-wicket demolition of India",
@@ -324,20 +338,6 @@
       "language": "en",
       "title_te": "పాకిస్థాన్‌తో జరిగే వన్డే సిరీస్‌కు బంగ్లాదేశ్ జట్టులోకి లిట్టన్ దాస్ తిరిగి వచ్చాడు",
       "summary_te": "ఫాస్ట్ బౌలర్లు నహిద్ రానా మరియు షోరిఫుల్ ఇస్లాం కూడా మూడు వన్డేలకు చేర్చబడ్డారు",
-      "translated": true
-    },
-    {
-      "id": "422beb6b3acab6fcf2beb69300c93306",
-      "title": "India in final after edging high-scoring thriller against England",
-      "summary": "Samson's 89 trumped Bethell's 105 on a night of pulsating drama, studded with 499 runs in 40 overs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527004.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414395.jpg",
-      "published_at": "2026-03-06T03:08:20.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఇంగ్లండ్‌పై అత్యధిక స్కోరింగ్ థ్రిల్లర్‌ను ఎడ్జ్ చేసి భారత్ ఫైనల్‌కు చేరుకుంది",
-      "summary_te": "శాంసన్ 89 పరుగులతో బెథెల్ 105 పరుగులతో 40 ఓవర్లలో 499 పరుగులు సాధించాడు.",
       "translated": true
     },
     {
