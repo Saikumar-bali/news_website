@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-08T14:27:22.128Z",
-  "updated_at_IST": "8/3/2026, 7:57:22 pm",
+  "updated_at": "2026-03-08T15:25:14.355Z",
+  "updated_at_IST": "8/3/2026, 8:55:14 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "7bf9dfe43b6c45a6a2f7030dc66f368d",
+      "title": "Muzumdar: Facing pink ball under lights a 'different challenge'",
+      "summary": "India coach takes heart from performances of debutants Rawal and Satghare despite ten-wicket defeat",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527361.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/372400/372422.jpg",
+      "published_at": "2026-03-08T14:40:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ముజుందార్: లైట్ల కింద పింక్ బాల్‌ను ఎదుర్కోవడం 'డిఫరెంట్ ఛాలెంజ్'",
+      "summary_te": "పది వికెట్ల పరాజయం పాలైనప్పటికీ, అరంగేట్ర ఆటగాళ్లు రావల్ మరియు సత్‌ఘరేల ప్రదర్శనల నుండి భారత కోచ్ హృదయాన్ని పొందాడు",
+      "translated": true
+    },
     {
       "id": "a55596dbcfda0de5e3434a1869471acb",
       "title": "New Zealand bowl with Duffy in for McConchie, India unchanged",
@@ -267,7 +281,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారత్-NZ ఫైనల్‌కు మినిమల్ టర్న్ మరియు మంచి బౌన్స్ అందించడానికి మిశ్రమ నేల పిచ్ సెట్ చేయబడింది",
-      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒకే ఒక్క మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
+      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒక మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఓ'నీల్ బాల్ మరియు బ్యాటింగ్‌తో మెరుస్తున్నాడు కానీ టాస్మానియా బౌలర్లు వారికి అవకాశం ఇచ్చారు",
       "summary_te": "ఓ'నీల్ 17 పరుగులకు 3 వికెట్లు తీసుకుని టాస్మానియాను 91 పరుగుల వద్ద అవుట్ చేశాడు, అయితే విక్టోరియా 193 పరుగులకు ఆలౌటైంది, టాస్మానియా 0 వికెట్ల నష్టానికి 47 పరుగులు చేయడంతో ఆట ముగిసే సమయానికి విజయానికి మరో 279 పరుగులు చేయాల్సి ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "4ce00757d4d5e0ce644f8dca625b472f",
-      "title": "Du Plessis: Bumrah in the XI is 'like having a genie'",
-      "summary": "Jasprit Bumrah \"a superpower that any captain will dream of\", Faf du Plessis says after India quick changes the T20 World Cup semi-final against England with a special 18th over",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527041.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414413.jpg",
-      "published_at": "2026-03-06T02:26:51.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డు ప్లెసిస్: XIలో బుమ్రా 'జెనీని కలిగి ఉన్నాడు'",
-      "summary_te": "జస్ప్రీత్ బుమ్రా \"ఏ కెప్టెన్ అయినా కలలు కనే సూపర్ పవర్\" అని ఫాఫ్ డు ప్లెసిస్ మాట్లాడుతూ, ఇంగ్లాండ్‌తో జరిగిన T20 ప్రపంచ కప్ సెమీ-ఫైనల్‌ను ప్రత్యేక 18వ ఓవర్‌తో భారత్ త్వరగా మార్చిన తర్వాత",
       "translated": true
     }
   ]
