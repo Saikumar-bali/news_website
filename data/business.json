@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-08T21:25:41.266Z",
-  "updated_at_IST": "9/3/2026, 2:55:41 am",
+  "updated_at": "2026-03-08T22:14:27.923Z",
+  "updated_at_IST": "9/3/2026, 3:44:27 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "35e45b08602bb7d741dd3f2377e296a7",
+      "title": "Zohran Mamdani celebrates Iftar at Vikas Khanna's Bungalow — and their connection goes back decades",
+      "summary": "New York City mayor Zohran Mamdani broke his Ramadan fast at Bungalow, chef Vikas Khanna's New York restaurant. What made the evening remarkable was the backstory — Khanna first met Mamdani in 2001, when the future mayor was just eight years old, brought in by his mother, filmmaker Mira Nair.",
+      "url": "https://www.livemint.com/news/trends/zohran-mamdani-celebrates-iftar-at-vikas-khannas-bungalow-and-their-connection-goes-back-decades-watch-video-11773003205504.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/zohran_mamdani_vikas_khanna_1773005918099_1773005918223.jpg",
+      "published_at": "2026-03-08T21:48:08.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "జోహ్రాన్ మమ్దానీ వికాస్ ఖన్నా బంగ్లాలో ఇఫ్తార్ జరుపుకున్నారు - మరియు వారి కనెక్షన్ దశాబ్దాల నాటిది",
+      "summary_te": "న్యూయార్క్ నగర మేయర్ జోహ్రాన్ మమ్దానీ బంగ్లా, చెఫ్ వికాస్ ఖన్నా న్యూయార్క్ రెస్టారెంట్‌లో రంజాన్ ఉపవాసాన్ని విరమించారు. సాయంత్రానికి విశేషమైన నేపథ్యం ఏమిటంటే - ఖన్నా మొదటిసారిగా 2001లో మమదానీని కలిశారు, కాబోయే మేయర్‌కు కేవలం ఎనిమిదేళ్ల వయస్సు ఉన్నప్పుడు, అతని తల్లి, చిత్రనిర్మాత మీరా నాయర్ తీసుకువచ్చారు.",
+      "translated": true
+    },
     {
       "id": "f098945abdcfd940865753d9d26311fc",
       "title": "US Treasury Secretary says ‘working with global oil producers, consumers to maintain stability in energy markets’",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఇరాన్-యుద్ధం LIVE: కువైట్ విమానాశ్రయం, బహ్రెయిన్ డీశాలినేషన్ యూనిట్ దెబ్బతింది; ‘అమెరికా స్థావరాలపై దాడి చేయడం కాదు...’ అని ఇరాన్ స్పష్టం చేసింది.",
       "summary_te": "వెస్ట్ ఆసియా క్రైసిస్ లైవ్ అప్‌డేట్‌లు: సంఘర్షణ యొక్క తొమ్మిదవ రోజున, IRGC \"ఆపరేషన్ ట్రూ ప్రామిస్ 4\" యొక్క 23వ వేవ్‌ను ప్రారంభించినట్లు ప్రకటించింది. ప్రాంతం అంతటా ఆక్రమిత భూభాగాలు మరియు అమెరికా స్థావరాలలోని లక్ష్యాలకు వ్యతిరేకంగా కొత్త తరం క్షిపణి వ్యవస్థలను ఉపయోగించినట్లు IRGC తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "0d511567e0fabb9895c5f0340ee85b8b",
-      "title": "Bihar boy’s LA turnaround: He's an IITian who lost job, had a painful breakup and now sells ₹730 chai in California",
-      "summary": "Born in a small town in Bihar, Prabhakar said his father tried running several businesses over the years, but none worked out. Despite the financial strain, his parents remained firm believers in the power of education",
-      "url": "https://www.livemint.com/news/trends/bihar-boy-s-la-turnaround-hes-an-iitian-who-lost-job-had-a-painful-breakup-and-now-sells-rs-730-chai-in-california-11772975454877.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Bihar_1772980592521_1772980597114.jpg",
-      "published_at": "2026-03-08T14:37:11.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "బీహార్ కుర్రాడి LA టర్న్‌అరౌండ్: అతను ఉద్యోగం కోల్పోయాడు, బాధాకరంగా విడిపోయారు మరియు ఇప్పుడు కాలిఫోర్నియాలో ₹730 చాయ్ విక్రయిస్తున్నాడు",
-      "summary_te": "బీహార్‌లోని ఒక చిన్న పట్టణంలో జన్మించిన ప్రభాకర్, తన తండ్రి చాలా సంవత్సరాలుగా అనేక వ్యాపారాలను నిర్వహించడానికి ప్రయత్నించారని, అయితే ఏదీ ఫలించలేదని చెప్పారు. ఆర్థిక ఒత్తిడి ఉన్నప్పటికీ, అతని తల్లిదండ్రులు విద్య యొక్క శక్తిని గట్టిగా విశ్వసించారు",
       "translated": true
     },
     {
