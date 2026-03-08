@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-07T23:24:03.761Z",
-  "updated_at_IST": "8/3/2026, 4:54:03 am",
+  "updated_at": "2026-03-08T01:10:20.088Z",
+  "updated_at_IST": "8/3/2026, 6:40:20 am",
   "category": "telangana",
   "count": 24,
   "articles": [
+    {
+      "id": "6dde86a3dc606fabaca1a04c55702a54",
+      "title": "From traffic junctions to night patrols, Hyderabad’s women in uniform take the frontline",
+      "summary": "For these women in uniform, directing traffic, solving cases and showing up for duty, every day is already Women’s Day",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/womens-day-specialfrom-traffic-junctions-to-night-patrols-hyderabads-women-in-uniform-take-the-frontline/article70715618.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ye74ta/article70715587.ece/alternates/LANDSCAPE_1200/DSC2528.jpg",
+      "published_at": "2026-03-08T00:55:20.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ట్రాఫిక్ జంక్షన్ల నుండి రాత్రి గస్తీ వరకు, యూనిఫాంలో హైదరాబాద్ మహిళలు ముందు వరుసలో ఉన్నారు",
+      "summary_te": "యూనిఫాంలో ఉన్న ఈ మహిళలకు, ట్రాఫిక్‌ని నిర్దేశిస్తూ, కేసులను పరిష్కరించి, విధులకు హాజరుకావడానికి, ప్రతి రోజు ఇప్పటికే మహిళా దినోత్సవం",
+      "translated": true
+    },
     {
       "id": "99c96a70dd3e60864e5c62646159d182",
       "title": "Handloom weaver couple’s artistic tribute to ‘Nari Shakti’",
@@ -86,20 +100,6 @@
       "language": "en",
       "title_te": "తెలంగాణ గద్దర్ ఫిల్మ్ అవార్డ్స్ 2025 ప్రకటించింది; చిరంజీవికి ఎన్టీఆర్ జాతీయ చలనచిత్ర అవార్డు లభించింది",
       "summary_te": "తెలంగాణ గద్దర్ ఫిల్మ్ అవార్డ్స్ 2025ని శనివారం (మార్చి 7, 2026) ప్రకటించారు, తెలుగు సినిమాల్లోని విభిన్న వర్గాలలో ప్రతిభను చాటుకున్నారు. ఉగాది సందర్భంగా మార్చి 19న అవార్డుల ప్రదానోత్సవం జరగనుంది. భారతీయ చలనచిత్ర కళాకారుడికి ప్రతిష్టాత్మకమైన ఎన్టీఆర్ జాతీయ చలనచిత్ర అవార్డుకు కొణిదెల చిరంజీవి పేరు పెట్టారు, కమల్ హాసన్ భారతీయ చలనచిత్ర వ్యక్తిత్వానికి పైడి జైరాజ్ ఫిల్మ్ అవార్డుతో సత్కరించారు. నారాయణ రెడ్డి ఫిల్మ్ అవార్డు సుద్దాల అశోక్ తేజకు దక్కుతుంది. ఇతర దిగ్గజాలు సింగీతం శ్రీనివాసరావు, జయసుధ కూడా ప్రత్యేక జీవితకాల సత్కారాలతో గుర్తింపు పొందారు. ఫీచర్ ఫిల్మ్ కేటగిరీలో రాజు వెడ్స్ రాంబాయి మొదటి ఉత్తమ ఫీచర్ ఫిల్మ్‌గా అగ్రస్థానాన్ని కైవసం చేసుకుంది, సాయిలు కాంపటి ఉత్తమ దర్శకుడిగా అవార్డును అందుకుంది. జాతీయ సమగ్రతపై ఫీచర్ ఫిల్మ్. రష్మిక మందన్న ది గర్ల్‌ఫ్రెండ్ కోసం ఉత్తమ ప్రముఖ నటి ట్రోఫీని సొంతం చేసుకుంది. సాంకేతిక విభాగాలు ఛాంపియన్‌గా ఆధిపత్యం చెలాయించాయి, కొరియోగ్రఫీ, ఆర్ట్ డైరెక్షన్ మరియు యాక్షన్‌కి అవార్డులు గెలుచుకుంది. మిరాయ్ దాని స్పెషల్ ఎఫెక్ట్స్, సినిమాటోగ్రఫీ మరియు ఎడిటింగ్ కోసం గుర్తింపు పొందింది.",
-      "translated": true
-    },
-    {
-      "id": "6dde86a3dc606fabaca1a04c55702a54",
-      "title": "Women’s Day Special/From traffic junctions to night patrols, Hyderabad’s women in uniform take the frontline",
-      "summary": "At the busy Kukatpally Y junction on a warm Saturday morning, traffic surged from every direction and in the middle of it all stood a woman traffic constable.Her hands cut through the air with practised precision, halting one stream of vehicles while ushering another forward. Within moments, the knot of vehicles began to loosen. Vehicles moved in disciplined rows through the intersection, following the rhythm of her gestures.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/womens-day-specialfrom-traffic-junctions-to-night-patrols-hyderabads-women-in-uniform-take-the-frontline/article70715618.ece",
-      "image": "https://th-i.thgim.com/public/incoming/prrwm3/article70715587.ece/alternates/LANDSCAPE_1200/DSC2528.jpg",
-      "published_at": "2026-03-07T15:15:12.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "మహిళా దినోత్సవం ప్రత్యేకం/ట్రాఫిక్ జంక్షన్ల నుండి రాత్రి గస్తీ వరకు, యూనిఫాంలో ఉన్న హైదరాబాద్ మహిళలు ముందు వరుసలో ఉన్నారు",
-      "summary_te": "రద్దీగా ఉండే కూకట్‌పల్లి Y జంక్షన్‌లో శనివారం ఉదయం వెచ్చగా ఉండే కూకట్‌పల్లి Y జంక్షన్‌లో, ప్రతి వైపు నుండి ట్రాఫిక్ పెరిగింది మరియు దాని మధ్యలో ఒక మహిళా ట్రాఫిక్ కానిస్టేబుల్ నిలబడి ఉంది. ఆమె చేతులు చాలా ఖచ్చితత్వంతో గాలిని కత్తిరించాయి, మరొకటి ముందుకు వెళుతున్నప్పుడు వాహనాలను ఆపివేసాయి. క్షణాల్లోనే వాహనాల గుట్టు విప్పడం మొదలైంది. ఆమె హావభావాల లయను అనుసరించి ఖండన ద్వారా వాహనాలు క్రమశిక్షణతో కూడిన వరుసలలో కదిలాయి.",
       "translated": true
     },
     {
