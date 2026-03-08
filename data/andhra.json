@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-08T17:26:49.757Z",
-  "updated_at_IST": "8/3/2026, 10:56:49 pm",
+  "updated_at": "2026-03-08T18:29:58.210Z",
+  "updated_at_IST": "8/3/2026, 11:59:58 pm",
   "category": "andhra",
-  "count": 21,
+  "count": 20,
   "articles": [
+    {
+      "id": "d7f361552c2bb0fe96cda71972a96258",
+      "title": "Children lead No-Plastic run on Krishna river bank",
+      "summary": "Over 500 participants join awareness run organised by AWARA and Aravinda Schools to highlight dangers of plastic pollution in Vijayawada",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/children-lead-no-plastic-run-on-krishna-river-bank/article70719550.ece",
+      "image": "https://th-i.thgim.com/public/incoming/uakw2z/article70719789.ece/alternates/LANDSCAPE_1200/08GNRAO-RUN-01%202.jpeg",
+      "published_at": "2026-03-08T16:16:53.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "కృష్ణా నది ఒడ్డున పిల్లలు నో-ప్లాస్టిక్ రన్‌ను నడిపిస్తున్నారు",
+      "summary_te": "విజయవాడలో ప్లాస్టిక్ కాలుష్యం వల్ల కలిగే ప్రమాదాలను ఎత్తిచూపేందుకు AWARA మరియు Aravinda Schools నిర్వహించిన అవగాహన రన్‌లో 500 మందికి పైగా పాల్గొన్నారు",
+      "translated": true
+    },
+    {
+      "id": "31b2c9147b2ff58807adfc67460efed9",
+      "title": "Rumours of export disruption trigger panic selling by aqua farmers in Andhra Pradesh",
+      "summary": "Farmers rush to harvest shrimp and sell at lower prices amid fears of shipping delays; officials say Israel-Iran conflict has little impact on marine exports from the State",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rumours-of-export-disruption-trigger-panic-selling-by-aqua-farmers-in-andhra-pradesh/article70719653.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mpu10o/article70719750.ece/alternates/LANDSCAPE_1200/DSC_0841.JPG",
+      "published_at": "2026-03-08T16:07:19.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఎగుమతి అంతరాయం అనే పుకార్లు ఆంధ్రప్రదేశ్‌లోని ఆక్వా రైతుల విక్రయాలను భయాందోళనలకు గురిచేస్తున్నాయి",
+      "summary_te": "షిప్పింగ్ ఆలస్యం అవుతుందనే భయంతో రైతులు రొయ్యలను కోయడానికి మరియు తక్కువ ధరలకు విక్రయించడానికి పరుగెత్తారు; ఇజ్రాయెల్-ఇరాన్ వివాదం రాష్ట్రం నుండి సముద్ర ఎగుమతులపై తక్కువ ప్రభావం చూపుతుందని అధికారులు చెబుతున్నారు",
+      "translated": true
+    },
+    {
+      "id": "c83d425065afe18f5cdf6f5f80b5238e",
+      "title": "From tariff turbulence to trade resilience, Andhra Pradesh anchors India’s shrimp export growth",
+      "summary": "After a 15% dip in U.S. shipments, Andhra Pradesh shifted 57% of exports to alternative markets, posting over US$2.5 billion in seafood exports in 2024-25",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/from-tariff-turbulence-to-trade-resilience-andhra-pradesh-anchors-indias-shrimp-export-growth/article70703407.ece",
+      "image": "https://th-i.thgim.com/public/incoming/12u3lz/article70703612.ece/alternates/LANDSCAPE_1200/DSC_0865.JPG",
+      "published_at": "2026-03-08T15:49:05.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "సుంకం అల్లకల్లోలం నుండి వాణిజ్య స్థితిస్థాపకత వరకు, భారతదేశం యొక్క రొయ్యల ఎగుమతి వృద్ధికి ఆంధ్ర ప్రదేశ్ ఎంకరేజ్ చేసింది",
+      "summary_te": "U.S. ఎగుమతుల్లో 15% క్షీణత తర్వాత, ఆంధ్రప్రదేశ్ 57% ఎగుమతులను ప్రత్యామ్నాయ మార్కెట్‌లకు మార్చింది, 2024-25లో US$2.5 బిలియన్లకు పైగా మత్స్య ఎగుమతులు జరిగాయి.",
+      "translated": true
+    },
     {
       "id": "dc033b891dd140c185d3a2f82f83a46f",
       "title": "Women empowerment stressed by ministers and officials",
@@ -33,6 +75,20 @@
       "translated": true
     },
     {
+      "id": "f76bf68f9ae6797fc2fad4ed2ae99633",
+      "title": "Quantum leap for tribal girl students in NPTEL exam",
+      "summary": "57 students, mostly girls from a remote Government Degree College in Chintapalli, appear for the quantum computing examination in Visakhapatnam after the Principal pays the ₹500 fee for those who could not afford it on International Women’s Day",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/quantum-leap-for-tribal-girl-students-in-nptel-exam/article70719562.ece",
+      "image": null,
+      "published_at": "2026-03-08T15:39:27.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "NPTEL పరీక్షలో గిరిజన బాలికలకు క్వాంటం లీప్",
+      "summary_te": "57 మంది విద్యార్థులు, చింతపల్లిలోని మారుమూల ప్రభుత్వ డిగ్రీ కళాశాలకు చెందిన బాలికలు, విశాఖపట్నంలో క్వాంటం కంప్యూటింగ్ పరీక్షకు హాజరయ్యారు, అంతర్జాతీయ మహిళా దినోత్సవం రోజున భరించలేని వారికి ప్రిన్సిపాల్ ₹500 ఫీజు చెల్లించారు.",
+      "translated": true
+    },
+    {
       "id": "25f17648db2d2a164e78c3baea838374",
       "title": "More incentives, soft loans for women entrepreneurs says Minister Kondapalli Srinivas",
       "summary": "Minister for MSME and NRI Affairs Kondapalli Srinivas said that the government is keen to encourage women entrepreneurs in the State with special incentives and soft loans from banks to enable them to create employment locally and spur economic activity.Along with Collector S. Ramsundar Reddy, he inaugurated Women’s Day celebrations organised by the State government at the Vizianagaram Police Grounds on Sunday.He said that over 90 lakh women have become members of Self-Help Groups (SHGs), and he hoped that many would soon start small and medium scale industries in their localities with the support of government and banks.In another programme, AP Women Journalists Association leaders Devi Srinivas, Bode Vijayalakshmi, Suneetha Reddy, Adapa Seema and others organised a blood donation camp on the occasion of Women’s Day.They felicitated Child Welfare Committee chairperson of Vizianagaram Himabindu, Rajam Government Degree College Principal Swapna Haindavi, writer G. Maha Lakshmi, advocate G. Sravya, senior teachers Ramanamma, Ch. V Ratnam and others and recalled their contribution to society in the last three decades.",
@@ -44,20 +100,6 @@
       "language": "en",
       "title_te": "మహిళా పారిశ్రామికవేత్తలకు మరిన్ని ప్రోత్సాహకాలు, సాఫ్ట్ లోన్లు: మంత్రి కొండపల్లి శ్రీనివాస్",
       "summary_te": "రాష్ట్రంలో మహిళా పారిశ్రామికవేత్తలకు ప్రత్యేక ప్రోత్సాహకాలు, బ్యాంకుల నుంచి మృదువుగా రుణాలు అందజేసి స్థానికంగా ఉపాధి కల్పనతోపాటు ఆర్థిక కార్యకలాపాలకు శ్రీకారం చుట్టాలని ఎంఎస్‌ఎంఈ, ఎన్‌ఆర్‌ఐ వ్యవహారాల శాఖ మంత్రి కొండపల్లి శ్రీనివాస్‌ అన్నారు.కలెక్టర్‌ ఎస్‌. రాంసుందర్‌రెడ్డితో కలిసి ఆదివారం విజయనగరం పోలీస్‌ గ్రౌండ్‌లో రాష్ట్ర ప్రభుత్వం ఏర్పాటు చేసిన మహిళా దినోత్సవ వేడుకలను ప్రారంభించారు. స్వయం సహాయక సంఘాలు (ఎస్‌హెచ్‌జి), ప్రభుత్వం, బ్యాంకుల సహకారంతో తమ ప్రాంతాల్లో త్వరలో చిన్న, మధ్య తరహా పరిశ్రమలు ప్రారంభమవుతాయని ఆయన ఆకాంక్షించారు.మరో కార్యక్రమంలో ఎపి మహిళా జర్నలిస్టుల సంఘం నాయకులు దేవి శ్రీనివాస్, బోడె విజయలక్ష్మి, సునీతారెడ్డి, అడపా సీమ తదితరులు మహిళా దినోత్సవం సందర్భంగా రక్తదాన శిబిరాన్ని ఏర్పాటు చేశారు. కార్యక్రమంలో ప్రభుత్వ డిగ్రీ కళాశాల ప్రిన్సిపాల్ స్వప్న హైందవి, రచయిత్రి జి. మహా లక్ష్మి, న్యాయవాది జి. శ్రావ్య, సీనియర్ ఉపాధ్యాయులు రమణమ్మ, సిహెచ్. వి రత్నం తదితరులు గత మూడు దశాబ్దాలలో సమాజానికి చేసిన సేవలను గుర్తు చేసుకున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "c7c9cae277cf34d93221bfa44e196ada",
-      "title": "Young doctors advised to prioritise CME for skill enhancement",
-      "summary": "Indian Medical Association’s former State president V.S. Prasad on Sunday (March 8, 2026) said that Continuing Medical Education (CME) is a boon for young doctors as it helps them improve their skills and stay updated on the latest developments in the field. He congratulated doctor Krishna Chaitnya who secured first rank and gold medal in Doctor of Medicine (DM)-Gastroenterology examinations conducted by Dr NTR University of Health Sciences.Dr. Chaitnya completed the super specialty course from Andhra Medical College successfully and secured the highest marks among the students who pursued the Gastroenterology course between 2023 and 2026 from different medical colleges in the State.While congratulating him on the occasion, Dr. Prasad said that students from rural backgrounds could also prove their talent, as was evident from the success of Dr. Chaitnya, who hails from Godiyada village in Gantyada mandal of Vizianagaram district.Dr. Prasad, who is also former dean of IMA’s Association of College of General Practitioners (Chennai), said that doctors of all branches need to focus on academic skills to gain knowledge and perform their duties confidently. Senior advocate and Dr. Chaitnya’s father Bobbili Narasimha Murthy, several doctors Gadi Prasad, Ravi Kishore, G. Dedipya and others were present during the felicitation.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/young-doctors-advised-to-prioritise-cme-for-skill-enhancement/article70718882.ece",
-      "image": "https://th-i.thgim.com/public/incoming/k5tybr/article70719665.ece/alternates/LANDSCAPE_1200/9604_8_3_2026_17_53_21_1_IMG_20260308_WA0023.JPG",
-      "published_at": "2026-03-08T15:33:46.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "యువ వైద్యులు నైపుణ్యం పెంపుదల కోసం సీఎంఈకి ప్రాధాన్యత ఇవ్వాలని సూచించారు",
-      "summary_te": "ఇండియన్ మెడికల్ అసోసియేషన్ మాజీ రాష్ట్ర అధ్యక్షుడు వి. ప్రసాద్ ఆదివారం (మార్చి 8, 2026) యువ వైద్యులకు కంటిన్యూయింగ్ మెడికల్ ఎడ్యుకేషన్ (CME) ఒక వరం అని అన్నారు, ఎందుకంటే ఇది వారి నైపుణ్యాలను మెరుగుపరుస్తుంది మరియు ఈ రంగంలో తాజా పరిణామాలపై నవీకరించబడటానికి సహాయపడుతుంది. డాక్టర్ ఎన్టీఆర్ యూనివర్శిటీ ఆఫ్ హెల్త్ సైన్సెస్ నిర్వహించిన డాక్టర్ ఆఫ్ మెడిసిన్ (డీఎం)-గ్యాస్ట్రోఎంటరాలజీ పరీక్షల్లో ప్రథమ ర్యాంక్ మరియు బంగారు పతకాన్ని సాధించిన డాక్టర్ కృష్ణ చైతన్యను ఆయన అభినందించారు. రాష్ట్రంలోని వివిధ వైద్య కళాశాలల్లో 2023 నుంచి 2026 మధ్య కాలంలో గ్యాస్ట్రోఎంటరాలజీ కోర్సును అభ్యసించిన విద్యార్థుల్లో చైతన్య సూపర్ స్పెషాలిటీ కోర్సును ఆంధ్రా మెడికల్ కళాశాలలో విజయవంతంగా పూర్తి చేసి అత్యధిక మార్కులు సాధించారని ఈ సందర్భంగా అభినందించారు. విజయనగరం జిల్లా. డా. IMA యొక్క అసోషియేషన్ ఆఫ్ కాలేజ్ ఆఫ్ జనరల్ ప్రాక్టీషనర్స్ (చెన్నై) మాజీ డీన్ కూడా అయిన ప్రసాద్ మాట్లాడుతూ, అన్ని బ్రాంచ్‌ల వైద్యులు జ్ఞానం సంపాదించడానికి మరియు తమ విధులను నమ్మకంగా నిర్వహించడానికి విద్యా నైపుణ్యాలపై దృష్టి పెట్టాలని అన్నారు. సన్మాన కార్యక్రమంలో సీనియర్ న్యాయవాది మరియు డాక్టర్ చైతన్య తండ్రి బొబ్బిలి నరసింహ మూర్తి, పలువురు వైద్యులు గాడి ప్రసాద్, రవి కిషోర్, జి. దేదీప్య తదితరులు పాల్గొన్నారు.",
       "translated": true
     },
     {
@@ -240,62 +282,6 @@
       "language": "en",
       "title_te": "పార్వతీపురం హాస్టళ్లలో మెరుగైన సౌకర్యాలు కల్పించాలని ఎస్సీ ప్యానల్ సభ్యులు కోరారు",
       "summary_te": "పార్వతీపురం-మన్యం జిల్లాలోని హాస్టళ్లలో పౌష్టికాహారం సరఫరా చేయాలని, పరిశుభ్రత పాటించాలని సాంఘిక సంక్షేమ శాఖ అధికారులు, వార్డెన్లను ఆంధ్రప్రదేశ్ రాష్ట్ర షెడ్యూల్డ్ కులాల కమిషన్ సభ్యుడు రావాడ సీతారాం కోరారు. ఆదివారం (మార్చి 8, 2026) పార్వతీపురంలో అంతర్జాతీయ మహిళా దినోత్సవం సందర్భంగా సాంఘిక సంక్షేమ శాఖ అధికారులు మరియు వార్డెన్‌లను ఆయన సత్కరించారు. తల్లిదండ్రులు తమ విధులను నిర్వర్తించేటప్పుడు ఎదురయ్యే వివిధ సవాళ్లను చర్చించడానికి హాస్టల్ వార్డెన్‌లతో క్రమం తప్పకుండా హాస్టళ్లను సందర్శించాలని ఆయన కోరారు. శ్రీ సీతారాం మాట్లాడుతూ పార్వతీపురం-మన్యం జిల్లాలోని మారుమూల ప్రాంతాల్లో హాస్టళ్లను నిర్మించి ప్రభుత్వం ఆదుకోవడం వల్లే దళిత సంఘాలకు చెందిన అనేక మంది చిన్నారులు ఉన్నత విద్యను అభ్యసించగలిగారన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "09cd842be715988db951b7f7e61db4a5",
-      "title": "MITS bags national Digital Skilling Excellence Award",
-      "summary": "Madanapalle Institute of Technology and Science (MITS), a deemed-to-be university in Annamayya district, has received the Digital Skilling Excellence Award at the national level, said its founder and chancellor N. Vijaya Bhaskar Choudary on Sunday.According to a press release, the award was received by MITS Vice-Chancellor C. Yuvaraj at a ceremony held in New Delhi.The recognition was presented during the FutureSkills Prime Digital Bharat Talent Conclave–2026, organised under the FutureSkills Prime initiative of the Ministry of Electronics and Information Technology (MeitY), Government of India.The statement said that the award acknowledges MITS’ efforts in strengthening digital skilling and preparing students with industry-relevant technology competencies aligned with national digital transformation goals.On the occasion, Mr. Vijaya Bhaskar Choudary, along with pro-chancellor N. Dwarakanath and executive director Keerthi Nadella, expressed gratitude to NASSCOM for conferring the prestigious recognition on the university.They noted that the honour reflects the institution’s continued focus on promoting advanced digital learning, innovation and industry-oriented training programmes for students, while contributing to the country’s growing digital workforce.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/mits-bags-national-digital-skilling-excellence-award/article70718949.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-08T13:33:24.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "MITS జాతీయ డిజిటల్ స్కిల్లింగ్ ఎక్సలెన్స్ అవార్డును అందుకుంది",
-      "summary_te": "అన్నమయ్య జిల్లాలోని డీమ్డ్ యూనివర్సిటీ అయిన మదనపల్లె ఇన్‌స్టిట్యూట్ ఆఫ్ టెక్నాలజీ అండ్ సైన్స్ (MITS) జాతీయ స్థాయిలో డిజిటల్ స్కిల్లింగ్ ఎక్సలెన్స్ అవార్డును అందుకున్నట్లు దాని వ్యవస్థాపకుడు మరియు ఛాన్సలర్ ఎన్. విజయ భాస్కర్ చౌదరి ఆదివారం తెలిపారు. పత్రికా ప్రకటన ప్రకారం, MITS వైస్-ఛాన్సలర్ సి. ఫ్యూచర్‌స్కిల్స్ ప్రైమ్ డిజిటల్ భారత్ టాలెంట్ కాన్క్లేవ్-2026, భారత ప్రభుత్వ ఎలక్ట్రానిక్స్ అండ్ ఇన్ఫర్మేషన్ టెక్నాలజీ మంత్రిత్వ శాఖ (MeitY) యొక్క ఫ్యూచర్‌స్కిల్స్ ప్రైమ్ ఇనిషియేటివ్ కింద నిర్వహించబడింది. డిజిటల్ నైపుణ్యాన్ని బలోపేతం చేయడంలో MITS చేస్తున్న కృషికి ఈ అవార్డు గుర్తింపునిచ్చిందని ప్రకటన పేర్కొంది. శ్రీ విజయ భాస్కర్ చౌదరి, ప్రో-ఛాన్సలర్ ఎన్. ద్వారకానాథ్ మరియు ఎగ్జిక్యూటివ్ డైరెక్టర్ కీర్తి నాదెళ్లతో కలిసి యూనివర్సిటీకి ప్రతిష్టాత్మకమైన గుర్తింపును అందించినందుకు నాస్కామ్‌కు కృతజ్ఞతలు తెలిపారు. దేశంలో పెరుగుతున్న డిజిటల్ అభ్యాసం, ఆవిష్కరణలు మరియు పరిశ్రమ ఆధారిత శిక్షణా కార్యక్రమాలను ప్రోత్సహించడంలో సంస్థ యొక్క నిరంతర దృష్టిని ఈ గౌరవం ప్రతిబింబిస్తుందని వారు పేర్కొన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "3a2875367369c3abd5414f428b2ce3b3",
-      "title": "Andhra Pradesh Mahila Commission to hold ‘Jan Sunwai’ from March 9 to 13",
-      "summary": "Programme to be held in Nellore, Guntur, Vijayawada, Rajamahendravaram and Visakhapatnam to receive women’s petitions and address their grievances, says the Commission Chairperson",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-mahila-commission-to-hold-jan-sunwai-from-march-9-to-13/article70718795.ece",
-      "image": null,
-      "published_at": "2026-03-08T13:21:31.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఆంధ్రప్రదేశ్ మహిళా కమిషన్ మార్చి 9 నుంచి 13 వరకు ‘జన్ సున్వాయి’ నిర్వహించనుంది",
-      "summary_te": "నెల్లూరు, గుంటూరు, విజయవాడ, రాజమహేంద్రవరం, విశాఖపట్నంలలో మహిళల అర్జీలను స్వీకరించి వారి ఫిర్యాదులను పరిష్కరించేందుకు కార్యక్రమం నిర్వహించనున్నట్లు కమిషన్ చైర్‌పర్సన్ తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "75922d8153a58e30aad62b670da85eb6",
-      "title": "Rowdy-sheeters warned against engaging in unlawful activities",
-      "summary": "Police have launched a series of counselling sessions for rowdy-sheeters and persons with criminal backgrounds across several police stations in Chittoor district.Superintendent of Police (SP) Tushar Dudi and Additional SP Rajashekhar Raju launched the initiative here on Sunday as part of intensified efforts to curb criminal activities in the district.Police personnel at the mandal level called rowdy-sheeters, history-sheeters, and persons known for disruptive behaviour to their respective police stations and counselled them to completely refrain from unlawful activities. During the sessions, the police officials stressed that every citizen must respect the law and conduct themselves responsibly in society.Speaking to the media here, the SP cautioned the target group against engaging in assaults, intimidation, and disputes arising out of minor issues, which often escalate into serious law-and-order problems. The SP advised them to resolve conflicts peacefully and lead a respectful life.The Additional SP informed those who had previously been involved in criminal cases to reform their behaviour. He cautioned that any future involvement in illegal activities would invite strict legal action and that police surveillance of rowdy-sheeters would continue across the district.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rowdy-sheeters-warned-against-engaging-in-unlawful-activities/article70718859.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-08T13:18:38.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "రౌడీషీటర్లు అసాంఘిక కార్యకలాపాలకు పాల్పడవద్దని హెచ్చరించారు",
-      "summary_te": "చిత్తూరు జిల్లాలోని పలు పోలీస్‌స్టేషన్ల పరిధిలో రౌడీషీటర్లు, నేర నేపథ్యం ఉన్న వ్యక్తుల కోసం పోలీసులు కౌన్సెలింగ్‌ను ప్రారంభించారు. జిల్లాలో నేర కార్యకలాపాలను అరికట్టడంలో భాగంగా పోలీసు సూపరింటెండెంట్ (ఎస్పీ) తుషార్ దూడి, అదనపు ఎస్పీ రాజశేఖర్ రాజు ఆదివారం ఇక్కడ చొరవ ప్రారంభించారు. వారి సంబంధిత పోలీసు స్టేషన్లకు విఘాతం కలిగించే ప్రవర్తన మరియు చట్టవిరుద్ధమైన కార్యకలాపాలకు పూర్తిగా దూరంగా ఉండమని వారికి సలహా ఇచ్చింది. సెషన్స్ సందర్భంగా, ప్రతి పౌరుడు చట్టాన్ని గౌరవించాలని మరియు సమాజంలో బాధ్యతాయుతంగా నడుచుకోవాలని పోలీసు అధికారులు నొక్కి చెప్పారు. ఇక్కడ మీడియాతో మాట్లాడుతూ, ఎస్పీ ఇక్కడ మీడియాతో మాట్లాడుతూ, చిన్న సమస్యల వల్ల తలెత్తే దాడులు, బెదిరింపులు మరియు వివాదాలకు పాల్పడకుండా, ఇది తరచుగా తీవ్రమైన శాంతిభద్రతల సమస్యలకు దారితీస్తుందని లక్ష్యంగా పెట్టుకున్నారు. వివాదాలను శాంతియుతంగా పరిష్కరించుకుని గౌరవప్రదమైన జీవితాన్ని గడపాలని ఎస్పీ సూచించారు.అడిషనల్ ఎస్పీ గతంలో క్రిమినల్ కేసుల్లో చిక్కుకున్న వారి ప్రవర్తనను సంస్కరించుకోవాలని సూచించారు. భవిష్యత్తులో చట్టవ్యతిరేక కార్యకలాపాలకు పాల్పడితే కఠిన చర్యలు తప్పవని, జిల్లా వ్యాప్తంగా రౌడీషీటర్లపై పోలీసు నిఘా కొనసాగుతుందని హెచ్చరించారు.",
-      "translated": true
-    },
-    {
-      "id": "a02ee2c0ba0f0435c41339a19a63ff09",
-      "title": "Kumbhabhishekam concludes on a grand note at Kanaka Durga temple in Vijayawada",
-      "summary": "Pontiff of Kanchi Kamakoti Peetham Shankara Vijayendra Saraswati performs the sacred consecration on the Vimana Gopuram as hundreds of devotees witness the rituals atop Indrakeeladri",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kumbhabhishekam-concludes-on-a-grand-note-at-kanaka-durga-temple-in-vijayawada/article70718748.ece",
-      "image": "https://th-i.thgim.com/public/incoming/lh3ki2/article70718994.ece/alternates/LANDSCAPE_1200/10215_8_3_2026_14_41_56_3_08GNRAO_TEMPLE_03.JPG",
-      "published_at": "2026-03-08T12:58:05.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "విజయవాడ కనకదుర్గ ఆలయంలో కుంభాభిషేకం అంగరంగ వైభవంగా ముగిసింది.",
-      "summary_te": "కంచి కామకోటి పీఠం పీఠాధిపతి శంకర విజయేంద్ర సరస్వతి ఇంద్రకీలాద్రిపై పూజా కార్యక్రమాలను వందలాది మంది భక్తులు వీక్షించగా విమాన గోపురంపై పవిత్ర సంప్రోక్షణను నిర్వహించారు.",
       "translated": true
     }
   ]
