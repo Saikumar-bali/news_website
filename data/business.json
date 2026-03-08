@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-08T08:30:44.796Z",
-  "updated_at_IST": "8/3/2026, 2:00:44 pm",
+  "updated_at": "2026-03-08T09:31:22.727Z",
+  "updated_at_IST": "8/3/2026, 3:01:22 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "f0dbb6253aba0b18a98a3485b89e782c",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "summary": "Indian equities extended losses as escalating US-Iran tensions pushed crude prices higher, dampening investor sentiment. Rising US bond yields and a stronger dollar have triggered risk-off behaviour among foreign investors. Analysts say volatility may persist, though selective value-buying opportunities could emerge for long-term investors amid geopolitical uncertainty and market weakness.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/129260972.cms",
+      "image": null,
+      "published_at": "2026-03-08T08:43:02.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్కెట్ కంటే ముందు: సోమవారం స్టాక్ మార్కెట్ చర్యను నిర్ణయించే 10 విషయాలు",
+      "summary_te": "యుఎస్-ఇరాన్ ఉద్రిక్తతలు ముడి చమురు ధరలను పెంచడం, పెట్టుబడిదారుల సెంటిమెంట్‌ను దెబ్బతీయడంతో భారతీయ ఈక్విటీలు నష్టాలను పొడిగించాయి. పెరుగుతున్న US బాండ్ ఈల్డ్‌లు మరియు బలమైన డాలర్ విదేశీ పెట్టుబడిదారులలో రిస్క్-ఆఫ్ ప్రవర్తనను ప్రేరేపించాయి. భౌగోళిక రాజకీయ అనిశ్చితి మరియు మార్కెట్ బలహీనత మధ్య దీర్ఘకాలిక పెట్టుబడిదారులకు ఎంపిక విలువ-కొనుగోలు అవకాశాలు ఉద్భవించినప్పటికీ, అస్థిరత కొనసాగవచ్చని విశ్లేషకులు అంటున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "bf7069afbd4982736cc94959a38f8931",
+      "title": "US stocks fell, GIFT Nifty down nearly 300 points and oil nears $100. How will stock market react on Monday?",
+      "summary": "Indian equities are set for a weak start on Monday after global markets ended the week sharply lower. Rising crude oil prices following escalating Middle East tensions and a selloff in US stocks have dampened sentiment. Analysts warn markets may remain volatile as investors track oil prices, foreign flows and geopolitical developments.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-stocks-fell-gift-nifty-down-nearly-300-points-and-oil-nears-100-how-will-stock-market-react-on-monday/articleshow/129260572.cms",
+      "image": null,
+      "published_at": "2026-03-08T08:33:06.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "US స్టాక్స్ పడిపోయాయి, GIFT నిఫ్టీ దాదాపు 300 పాయింట్లు పడిపోయింది మరియు చమురు $100కి చేరుకుంది. సోమవారం స్టాక్ మార్కెట్ ఎలా స్పందిస్తుంది?",
+      "summary_te": "గ్లోబల్ మార్కెట్లు వారంలో భారీగా నష్టపోయిన తర్వాత సోమవారం భారతీయ ఈక్విటీలు బలహీనంగా ప్రారంభమయ్యాయి. మిడిల్ ఈస్ట్ ఉద్రిక్తతల కారణంగా పెరుగుతున్న ముడి చమురు ధరలు మరియు యుఎస్ స్టాక్‌లలో అమ్మకాలు సెంటిమెంట్‌ను దెబ్బతీశాయి. పెట్టుబడిదారులు చమురు ధరలు, విదేశీ ప్రవాహాలు మరియు భౌగోళిక రాజకీయ పరిణామాలను ట్రాక్ చేయడం వల్ల మార్కెట్లు అస్థిరంగా ఉండవచ్చని విశ్లేషకులు హెచ్చరిస్తున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "83062dc253d1cfe12d5ee54c1eb25969",
+      "title": "India’s most powerful women: Nita Ambani, Gita Gopinath, Sudha Murty and more; check who tops the list",
+      "summary": "Fortune India's 2025 ranking features influential women leaders across various sectors. Top figures include Nita Ambani, Gita Gopinath and Sudha Murty, among others.",
+      "url": "https://www.livemint.com/news/india/indias-most-powerful-women-nita-ambani-gita-gopinath-sudha-murty-and-more-check-who-tops-the-list-11772956850250.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Powerful_1772957727923_1772957747432.jpg",
+      "published_at": "2026-03-08T08:18:35.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "భారతదేశం యొక్క అత్యంత శక్తివంతమైన మహిళలు: నీతా అంబానీ, గీతా గోపీనాథ్, సుధా మూర్తి మరియు మరిన్ని; జాబితాలో ఎవరు అగ్రస్థానంలో ఉన్నారో తనిఖీ చేయండి",
+      "summary_te": "ఫార్చ్యూన్ ఇండియా యొక్క 2025 ర్యాంకింగ్‌లో వివిధ రంగాలలో ప్రభావవంతమైన మహిళా నాయకులు ఉన్నారు. ప్రముఖ వ్యక్తులలో నీతా అంబానీ, గీతా గోపీనాథ్ మరియు సుధా మూర్తి తదితరులు ఉన్నారు.",
+      "translated": true
+    },
     {
       "id": "d0edc60e4817b547e41954c8c6456e92",
       "title": "Iran war news: Fresh strikes target Tehran’s energy resources; oil supply shock deepens — 15 points",
@@ -131,34 +173,6 @@
       "translated": true
     },
     {
-      "id": "d181c8fc2ca6f888c8985c8c87f704b1",
-      "title": "Equity mutual funds lose up to 11% last week; international funds hit the worst. Check top 10 laggards",
-      "summary": "Equity mutual funds lost upto 11% last week (March 2 to March 7). International funds were among the worst hit. Here are the top 10 losers. (Source: ACE MF)",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/equity-mutual-funds-lose-up-to-11-last-week-international-funds-hit-the-worst-check-top-10-laggards/weekly-scorecard/slideshow/129253595.cms",
-      "image": null,
-      "published_at": "2026-03-08T05:29:21.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈక్విటీ మ్యూచువల్ ఫండ్స్ గత వారం 11% వరకు నష్టపోతాయి; అంతర్జాతీయ నిధులు దారుణంగా దెబ్బతిన్నాయి. టాప్ 10 వెనుకబడిన వాటిని తనిఖీ చేయండి",
-      "summary_te": "ఈక్విటీ మ్యూచువల్ ఫండ్స్ గత వారం (మార్చి 2 నుండి మార్చి 7 వరకు) 11% వరకు నష్టపోయాయి. అంతర్జాతీయ నిధులు ఎక్కువగా దెబ్బతిన్నాయి. టాప్ 10 ఓడిపోయిన వారు ఇక్కడ ఉన్నారు. (మూలం: ACE MF)",
-      "translated": true
-    },
-    {
-      "id": "7f0e1980f143274fc7b4b49f833b8191",
-      "title": "Fear, oil shocks and volatility: Why investor behavior matters more than ever",
-      "summary": "Indian markets face volatility due to global tensions. Investors often desire stability but markets respond to real risks like rising oil prices and geopolitical events. Success hinges on disciplined behavior, not predictions. Staying invested through downturns allows for long-term compounding. Those who manage risk and resist panic selling will be rewarded over time.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fear-oil-shocks-and-volatility-why-investor-behavior-matters-more-than-ever/articleshow/129253239.cms",
-      "image": null,
-      "published_at": "2026-03-08T05:28:45.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "భయం, చమురు షాక్‌లు మరియు అస్థిరత: పెట్టుబడిదారుల ప్రవర్తన గతంలో కంటే ఎందుకు ఎక్కువ ముఖ్యమైనది",
-      "summary_te": "ప్రపంచ ఉద్రిక్తతల కారణంగా భారత మార్కెట్లు ఒడిదుడుకులను ఎదుర్కొంటున్నాయి. పెట్టుబడిదారులు తరచుగా స్థిరత్వాన్ని కోరుకుంటారు కానీ మార్కెట్లు పెరుగుతున్న చమురు ధరలు మరియు భౌగోళిక రాజకీయ సంఘటనల వంటి నిజమైన నష్టాలకు ప్రతిస్పందిస్తాయి. విజయం క్రమశిక్షణతో కూడిన ప్రవర్తనపై ఆధారపడి ఉంటుంది, అంచనాలు కాదు. తిరోగమనాల ద్వారా పెట్టుబడి పెట్టడం దీర్ఘకాలిక సమ్మేళనానికి అనుమతిస్తుంది. ప్రమాదాన్ని నిర్వహించే మరియు భయాందోళనలను నిరోధించే వారికి కాలక్రమేణా రివార్డ్ ఇవ్వబడుతుంది.",
-      "translated": true
-    },
-    {
       "id": "87e43cee8386761b69776a885357bab9",
       "title": "5 IPOs to open this week. Check GMPs to track listing sentiments",
       "summary": "India's primary market is set for another busy week with five IPOs opening for subscription, including four mainboard issues and one SME listing. However, grey market signals suggest that investor enthusiasm remains muted, with most upcoming offerings showing little to no grey market premium (GMP) so far. The cautious sentiment comes after a weak run for recent IPO listings and broader volatility in equity markets.",
@@ -216,16 +230,16 @@
     },
     {
       "id": "12b12f2b9323b67fda5c22fb241bd1f9",
-      "title": "Happy International Women's Day 2026 wishes: Best 200+ women's day 2026 images, GIFs, WhatsApp status, messages, quotes",
-      "summary": "On this day, the world celebrates the resilience, leadership, and determination of working women who continue to shape a better and more inclusive future.",
+      "title": "Happy International Women's Day 2026 wishes: Best 250+ women's day 2026 images, GIFs, WhatsApp status, messages, quotes",
+      "summary": "On this day, the world celebrates the resilience, leadership, and determination of working women who continue to shape a better and more inclusive future. Here are top 250+ women's day 2026 images, GIFs, WhatsApp status, messages, quotes",
       "url": "https://www.livemint.com/news/trends/happy-international-womens-day-2026-wishes-best-womens-day-2026-images-gifs-whatsapp-status-messages-instagram-11772933254143.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/8cdc4db2037701f6523e90607861717d_1772935278671_1772935297985.jpg",
       "published_at": "2026-03-08T03:22:07.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026: ఉత్తమ 200+ మహిళా దినోత్సవం 2026 చిత్రాలు, GIFలు, WhatsApp స్థితి, సందేశాలు, కోట్‌లు",
-      "summary_te": "ఈ రోజున, మెరుగైన మరియు మరింత సమగ్ర భవిష్యత్తును రూపొందించడం కొనసాగించే శ్రామిక మహిళల స్థితిస్థాపకత, నాయకత్వం మరియు సంకల్పాన్ని ప్రపంచం జరుపుకుంటుంది.",
+      "title_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026: ఉత్తమ 250+ మహిళా దినోత్సవం 2026 చిత్రాలు, GIFలు, WhatsApp స్థితి, సందేశాలు, కోట్‌లు",
+      "summary_te": "ఈ రోజున, మెరుగైన మరియు మరింత సమగ్ర భవిష్యత్తును రూపొందించడం కొనసాగించే శ్రామిక మహిళల స్థితిస్థాపకత, నాయకత్వం మరియు సంకల్పాన్ని ప్రపంచం జరుపుకుంటుంది. ఇక్కడ టాప్ 250+ మహిళా దినోత్సవం 2026 చిత్రాలు, GIFలు, WhatsApp స్థితి, సందేశాలు, కోట్‌లు ఉన్నాయి",
       "translated": true
     },
     {
@@ -286,7 +300,7 @@
     },
     {
       "id": "16eaec3ac97675cde117a01a5b6d0845",
-      "title": "Flight Status 8 March LIVE Updates: Air India, IndiGO announces additional flights for West Asia amid conflict; details",
+      "title": "Flight Status 8 March LIVE Updates: Air India, IndiGo announce additional flights for West Asia amid conflict",
       "summary": "Flight Status LIVE: IndiGo said it will operate flights to eight destinations in the Middle East today. Stay with Mint for the latest updates on flights status…",
       "url": "https://www.livemint.com/news/world/flight-status-live-update-abu-dhabi-dubai-doha-air-india-emirates-etihad-indigo-qatar-airways-india-flights-march-8-2026-11772931938479.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Airport-T3-4_1772932526547_1772932551624.jpg",
@@ -294,7 +308,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "విమాన స్థితి 8 మార్చి లైవ్ అప్‌డేట్‌లు: ఎయిర్ ఇండియా, ఇండిగో వివాదాల మధ్య పశ్చిమాసియాకు అదనపు విమానాలను ప్రకటించింది; వివరాలు",
+      "title_te": "విమాన స్థితి మార్చి 8 లైవ్ అప్‌డేట్‌లు: ఎయిర్ ఇండియా, ఇండిగో వివాదాల మధ్య పశ్చిమాసియాకు అదనపు విమానాలను ప్రకటించాయి",
       "summary_te": "ఫ్లైట్ స్టేటస్ లైవ్: ఇండిగో ఈరోజు మధ్యప్రాచ్యంలోని ఎనిమిది గమ్యస్థానాలకు విమానాలను నడుపుతుందని తెలిపింది. విమానాల స్థితికి సంబంధించిన తాజా అప్‌డేట్‌ల కోసం మింట్‌తో ఉండండి…",
       "translated": true
     },
@@ -314,7 +328,7 @@
     },
     {
       "id": "83f0d28fa2d21c63de102bc4ad62c5f2",
-      "title": "Happy International Women's Day 2026 wishes: 250+ Messages for WhatsApp, Instagram because she deserves the perfect one",
+      "title": "Happy International Women's Day 2026 wishes: 300+ Messages for WhatsApp, Instagram because she deserves the perfect one",
       "summary": "Happy International Women's Day 2026 wishes: This year, the United Nations 2026 International Women's Day theme is “Rights. Justice. Action. For ALL Women and Girls,” focusing on structural accountability, closing justice gaps, and defending rights.",
       "url": "https://www.livemint.com/news/trends/international-womens-day-2026-here-are-20-whatsapp-facebook-wishes-to-share-with-family-friends-11772928982981.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/womens_day__1772929090615_1772929090799.jpg",
@@ -322,7 +336,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026 శుభాకాంక్షలు: WhatsApp, Instagram కోసం 250+ సందేశాలు ఎందుకంటే ఆమె పరిపూర్ణమైనది",
+      "title_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026 శుభాకాంక్షలు: WhatsApp, Instagram కోసం 300+ సందేశాలు ఎందుకంటే ఆమె పరిపూర్ణమైనది",
       "summary_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026 శుభాకాంక్షలు: ఈ సంవత్సరం, ఐక్యరాజ్యసమితి 2026 అంతర్జాతీయ మహిళా దినోత్సవం థీమ్ \"హక్కులు. న్యాయం. చర్య. అన్ని మహిళలు మరియు బాలికల కోసం,\" నిర్మాణాత్మక జవాబుదారీతనం, న్యాయపరమైన అంతరాలను మూసివేయడం మరియు హక్కులను రక్షించడం.",
       "translated": true
     },
@@ -379,7 +393,7 @@
       "category": "business",
       "language": "en",
       "title_te": "నెట్‌ఫ్లిక్స్ మేఘన్ మార్క్లే యొక్క లైఫ్‌స్టైల్ బ్రాండ్ యాజ్ ఎవర్ లాంచ్ ఇయర్ పార్టనర్‌షిప్‌లో పెట్టుబడిదారుగా తిరిగి అడుగు పెట్టింది",
-      "summary_te": "నెట్‌ఫ్లిక్స్ మేఘన్ మార్క్లే యొక్క లైఫ్‌స్టైల్ బ్రాండ్ యాజ్ ఎవర్‌లో పెట్టుబడిదారుగా ఉపసంహరించుకుంది, ఆమె తన తదుపరి దశను స్వతంత్రంగా నడిపించడానికి అనుమతిస్తుంది. బ్రాండ్, ఆహారం మరియు జీవనశైలి ఉత్పత్తులపై దృష్టి సారించింది, మార్క్లే యొక్క నెట్‌ఫ్లిక్స్ సిరీస్‌తో పాటు 11 నెలల క్రితం ప్రారంభించబడింది.",
+      "summary_te": "నెట్‌ఫ్లిక్స్ మేఘన్ మార్క్లే యొక్క లైఫ్‌స్టైల్ బ్రాండ్ యాజ్ ఎవర్‌లో పెట్టుబడిదారుగా ఉపసంహరించుకుంది, ఆమె తన తదుపరి దశను స్వతంత్రంగా నడిపించడానికి అనుమతిస్తుంది. బ్రాండ్, ఆహారం మరియు జీవనశైలి ఉత్పత్తులపై దృష్టి సారిస్తుంది, మార్క్లే యొక్క నెట్‌ఫ్లిక్స్ సిరీస్‌తో పాటు 11 నెలల క్రితం ప్రారంభించబడింది.",
       "translated": true
     },
     {
@@ -436,20 +450,6 @@
       "language": "en",
       "title_te": "ఆసియాలో, అమెరికాతో భారత్ అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది: పీయూష్ గోయల్",
       "summary_te": "భారతదేశం తన పోటీదారులలో యునైటెడ్ స్టేట్స్‌తో అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది. వాణిజ్యం మరియు పరిశ్రమల శాఖ మంత్రి పీయూష్ గోయల్ రెండు దేశాల మధ్య బలమైన సంబంధాలను ఎత్తిచూపారు. అమెరికా ఆర్థిక వ్యవస్థ ప్రపంచంలోనే అతిపెద్దదని, దీనిని విస్మరించలేమని ఆయన ఉద్ఘాటించారు. భారతదేశం ప్రపంచ వాణిజ్య భాగస్వామ్య నెట్‌వర్క్‌ను చురుకుగా నిర్మిస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "8205d7770cf3cd996c55d6c7f85a4070",
-      "title": "Peru nightclub bombing: At least 33 injured after massive blast",
-      "summary": "A pre-dawn explosion at Trujillo’s Dali nightclub injured at least 33 people, including three minors, with five in serious condition. The blast follows a previous explosion in the city. La Libertad faces rising crime and extortion, contributing to Peru’s ongoing organized-crime crisis",
-      "url": "https://www.livemint.com/news/world/peru-nightclub-bombing-injured-death-toll-11772903937978.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/pexels-photo-35982176_1772905094201_1772905110619_1772908869234.jpeg",
-      "published_at": "2026-03-07T17:23:11.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "పెరూ నైట్‌క్లబ్ బాంబు దాడి: భారీ పేలుడు తర్వాత కనీసం 33 మంది గాయపడ్డారు",
-      "summary_te": "ట్రుజిల్లో డాలీ నైట్‌క్లబ్‌లో తెల్లవారుజామున జరిగిన పేలుడులో ముగ్గురు మైనర్‌లతో సహా కనీసం 33 మంది గాయపడ్డారు, ఐదుగురి పరిస్థితి విషమంగా ఉంది. నగరంలో గతంలో జరిగిన పేలుడు తర్వాత ఈ పేలుడు సంభవించింది. లా లిబర్టాడ్ పెరుగుతున్న నేరాలు మరియు దోపిడీని ఎదుర్కొంటోంది, పెరూ యొక్క కొనసాగుతున్న వ్యవస్థీకృత-నేర సంక్షోభానికి దోహదపడింది",
       "translated": true
     },
     {
