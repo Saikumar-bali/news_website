@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-08T19:27:06.808Z",
-  "last_updated_IST": "9/3/2026, 12:57:06 am",
+  "last_updated": "2026-03-08T20:15:03.177Z",
+  "last_updated_IST": "9/3/2026, 1:45:03 am",
   "total_articles": 370,
   "categories": [
-    "andhra",
     "tech",
+    "india",
     "business",
     "sports",
-    "india",
+    "andhra",
     "telangana"
   ],
   "sources": [
-    "The Hindu AP",
     "Dev.to",
-    "LiveMint",
-    "ESPNCricinfo",
     "The Hindu",
     "Times of India",
+    "LiveMint",
+    "ESPNCricinfo",
     "NDTV",
     "Hindustan Times",
+    "The Hindu AP",
     "NDTV India",
     "The Verge",
     "India Today",
@@ -33,11 +33,11 @@
   "feeds_count": 25,
   "data_files": [
     "news.json",
-    "andhra.json",
     "tech.json",
+    "india.json",
     "business.json",
     "sports.json",
-    "india.json",
+    "andhra.json",
     "telangana.json"
   ]
 }

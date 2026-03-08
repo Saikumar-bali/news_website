@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-08T19:27:06.808Z",
-  "updated_at_IST": "9/3/2026, 12:57:06 am",
+  "updated_at": "2026-03-08T20:15:03.177Z",
+  "updated_at_IST": "9/3/2026, 1:45:03 am",
   "category": "telangana",
-  "count": 22,
+  "count": 21,
   "articles": [
+    {
+      "id": "787f500a9fa3b63d16d5f294c5c1c03d",
+      "title": "Journalists’ house sites issue to be resolved soon: CM",
+      "summary": "Chief Minister A. Revanth Reddy assured that the long-pending issue of house sites for journalists would be resolved soon. He made the remarks while felicitating women journalists on the occasion of International Women’s Day.The Chief Minister expressed sympathy over the delay due to legal hassles and indicated that the government was committed to finding a solution. Welcoming the announcement, the Jawaharlal Nehru Journalist Housing Society thanked the Chief Minister for assuring that the issue would be addressed in a positive manner. The society said the Chief Minister had promised to ensure that the matter was resolved in a way that would prevent any future legal or procedural complications.In a statement, Society president R. Ravikanth Reddy, vice-president Nemani Bhaskar, and Director Srikanth expressed gratitude on behalf of nearly 1,000 members and their families for the assurance given by the Chief Minister. However, they urged the government to expedite the allotment process, noting that 75 members of the society had already passed away while waiting for house sites for which they paid money two decades ago.",
+      "url": "https://www.thehindu.com/news/national/telangana/journalists-house-sites-issue-to-be-resolved-soon-cm/article70719853.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-08T16:56:20.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "జర్నలిస్టుల ఇళ్ల స్థలాల సమస్యలను త్వరలో పరిష్కరిస్తాం: సీఎం",
+      "summary_te": "జర్నలిస్టుల ఇళ్ల స్థలాల సమస్య చాలా కాలంగా పెండింగ్‌లో ఉందని త్వరలో పరిష్కరిస్తామని ముఖ్యమంత్రి ఎ.రేవంత్ రెడ్డి హామీ ఇచ్చారు. అంతర్జాతీయ మహిళా దినోత్సవం సందర్భంగా మహిళా జర్నలిస్టులను సత్కరిస్తున్న సందర్భంగా ఆయన ఈ వ్యాఖ్యలు చేశారు.న్యాయపరమైన చిక్కుల కారణంగా జరుగుతున్న జాప్యంపై ముఖ్యమంత్రి సానుభూతి వ్యక్తం చేస్తూ, పరిష్కారానికి ప్రభుత్వం కట్టుబడి ఉందని సూచించారు. ఈ ప్రకటనను స్వాగతించిన జవహర్‌లాల్ నెహ్రూ జర్నలిస్ట్ హౌసింగ్ సొసైటీ, సమస్యను సానుకూలంగా పరిష్కరిస్తామని హామీ ఇచ్చినందుకు ముఖ్యమంత్రికి కృతజ్ఞతలు తెలిపారు. భవిష్యత్తులో ఎలాంటి న్యాయపరమైన లేదా విధానపరమైన చిక్కులు తలెత్తకుండా సమస్యను పరిష్కరిస్తానని ముఖ్యమంత్రి హామీ ఇచ్చారని సొసైటీ తెలిపింది. అయితే రెండు దశాబ్దాల క్రితం డబ్బులు చెల్లించి ఇళ్ల స్థలాల కోసం ఎదురుచూస్తూ సొసైటీకి చెందిన 75 మంది మృత్యువాత పడ్డారని గుర్తించి కేటాయింపు ప్రక్రియను వేగవంతం చేయాలని ప్రభుత్వాన్ని కోరారు.",
+      "translated": true
+    },
     {
       "id": "b939e86a7735fd1256c107c0c2a8cf3f",
       "title": "Glaucoma awareness walk organised in Hyderabad",
@@ -229,20 +243,6 @@
       "translated": true
     },
     {
-      "id": "6dde86a3dc606fabaca1a04c55702a54",
-      "title": "From traffic junctions to night patrols, Hyderabad’s women in uniform take the frontline",
-      "summary": "For these women in uniform, directing traffic, solving cases and showing up for duty, every day is already Women’s Day",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/womens-day-specialfrom-traffic-junctions-to-night-patrols-hyderabads-women-in-uniform-take-the-frontline/article70715618.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ye74ta/article70715587.ece/alternates/LANDSCAPE_1200/DSC2528.jpg",
-      "published_at": "2026-03-08T00:56:51.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ట్రాఫిక్ జంక్షన్ల నుండి రాత్రి గస్తీ వరకు, యూనిఫాంలో హైదరాబాద్ మహిళలు ముందు వరుసలో ఉన్నారు",
-      "summary_te": "యూనిఫాంలో ఉన్న ఈ మహిళలకు, ట్రాఫిక్‌ని నిర్దేశిస్తూ, కేసులను పరిష్కరించి, విధులకు హాజరుకావడానికి, ప్రతి రోజు ఇప్పటికే మహిళా దినోత్సవం",
-      "translated": true
-    },
-    {
       "id": "3b8cf493c85bd2428d16077ca2f167fc",
       "title": "Malkajgiri police arrest five in three cyber fraud cases, victims lose over ₹4.2 crore",
       "summary": "Three cyber fraud cases were detected and five persons were arrested by the Cyber Crime police of the Malkajgiri Commissionerate during the week between March 1 and March 7.The arrested persons were identified as Bala Rohan Jaysikhbhai, Jayadeep Jalarambhai Gondaliya, Mukasam Kadarbin Saidbhai, Kandungan Kunhammed and Balu Deivasingamani. Police said the accused had allegedly provided their bank accounts to cyber fraudsters on a commission basis to route cheated money in investment fraud cases. Investigation revealed links to cybercriminal networks operating across several States.",
@@ -296,20 +296,6 @@
       "language": "en",
       "title_te": "NEP 2020కి అనుగుణంగా విద్యాసంబంధ సంస్కరణలకు వెళ్లాలని TGCHE విశ్వవిద్యాలయాలను కోరింది",
       "summary_te": "తెలంగాణ ఉన్నత విద్యా మండలి (టీజీసీహెచ్‌ఈ) శనివారం రాష్ట్రంలోని విశ్వవిద్యాలయాల వైస్‌ఛాన్సలర్లతో సమావేశమై ఉన్నత విద్యకు సంబంధించిన కీలక విద్యా, విధానపరమైన అంశాలపై చర్చించి, విద్యా ప్రమాణాలను పటిష్టం చేయాలని, జాతీయ విద్యా విధానం 2020కి అనుగుణంగా సంస్కరణలు అమలు చేయాలని కోరారు. నేషనల్ అసెస్‌మెంట్ అండ్ అక్రిడిటేషన్ కౌన్సిల్ (NAAC), నేషనల్ ఇనిస్టిట్యూషనల్ ర్యాంకింగ్ ఫ్రేమ్‌వర్క్ (NIRF), నేషనల్ బోర్డ్ ఆఫ్ అక్రిడిటేషన్ (NBA) మరియు నేషనల్ క్రెడిట్ ఫ్రేమ్‌వర్క్ (NCrF) వంటి అక్రిడిటేషన్ మరియు ర్యాంకింగ్ సిస్టమ్‌లలో ఎక్కువ ప్రయోజనాలను పొందేందుకు విశ్వవిద్యాలయాలు ఉన్నాయి. నిధులు సమకూర్చడం మరియు విశ్వవిద్యాలయాల మొత్తం విద్యా మరియు పరిశోధన పర్యావరణ వ్యవస్థను బలోపేతం చేయడం, అతను చెప్పాడు. దీని ప్రకారం, అంగీకరించిన క్రెడిట్ ఫ్రేమ్‌వర్క్‌లో 3 సంవత్సరాల అండర్-గ్రాడ్యుయేట్ డిగ్రీకి కనీసం 120 క్రెడిట్‌లు, 4 సంవత్సరాల అండర్-గ్రాడ్యుయేట్ డిగ్రీకి 160 క్రెడిట్‌లు ఉంటాయి (ఇది పరిశోధనకు గౌరవాలు/కనీసం. 80 వరకు క్రెడిట్ ప్రోగ్రామ్‌గా నిర్ణయించబడింది), మరియు క్రెడిట్ స్ట్రక్చర్, మైనర్ డిగ్రీలు, క్రెడిట్ ట్రాన్స్‌ఫర్ పాలసీ, మల్టీడిసిప్లినరీ ప్రోగ్రామ్‌లు మరియు మల్టిపుల్ ఎంట్రీ-మల్టిపుల్ ఎగ్జిట్ సిస్టమ్ అమలుపై సమగ్ర మార్గదర్శకాలను సిద్ధం చేయడానికి వైస్-ఛాన్సలర్‌లతో కూడిన కమిటీని ఏర్పాటు చేయండి. TGCHE నుండి అధికారికంగా విడుదల చేసిన ఒక అధికారిక ప్రకటన ప్రకారం, వైస్-ఛాన్సలర్‌లు 2020 కింద ఫ్రేమ్‌వర్క్-20 కింద ఫ్రేమ్‌వర్క్-20 కింద అమలు చేయడానికి ఏకగ్రీవంగా తీర్మానించారు. 2026–27 విద్యా సంవత్సరం నుండి పోస్ట్-గ్రాడ్యుయేట్ ప్రోగ్రామ్‌లు. 2026–27 విద్యా సంవత్సరానికి కాకతీయ విశ్వవిద్యాలయం కామన్ పోస్ట్ గ్రాడ్యుయేట్ ఎంట్రన్స్ టెస్ట్ (CPGET)ని నిర్వహించాలని సమావేశం నిర్ణయించింది. అండర్-గ్రాడ్యుయేట్ ప్రోగ్రామ్‌ల కోసం ఉమ్మడి విద్యా పంచాంగాన్ని తయారు చేయడంలో విశ్వవిద్యాలయాలు TGCHEతో సమన్వయం చేసుకుంటాయి మరియు విశ్వవిద్యాలయ స్థాయిలో విద్యా శాఖ యొక్క ప్రజా పాలన - ప్రగతి ప్రణాళిక 99-రోజుల కార్యాచరణ ప్రణాళికను అమలు చేస్తాయి. ఈ సమావేశంలో TGCHE వైస్ చైర్మన్లు ​​E. పురుషోత్తం మరియు SK పాల్గొన్నారు. మహమూద్, కార్యదర్శి శ్రీరామ్ వెంకటేష్; వైస్ ఛాన్సలర్లు: కుమార్ మొలుగారం (ఉస్మానియా యూనివర్సిటీ), కర్నాటి ప్రతాప్ రెడ్డి (కాకతీయ యూనివర్సిటీ), టి.యాదగిరిరావు (తెలంగాణ యూనివర్సిటీ), ఖాజా అల్తాఫ్ హుస్సేన్ (మహాత్మాగాంధీ యూనివర్సిటీ), జి.ఎన్. శ్రీనివాస్ (పాలమూరు యూనివర్సిటీ), ఉమేష్ కుమార్ (శాతవాహన యూనివర్సిటీ), సూర్య ధనంజయ్ (వీరనారి చాకలి ఐలమ్మ మహిళా విశ్వవిద్యాలయం).",
-      "translated": true
-    },
-    {
-      "id": "93da3e937e2d42e263b2f82de7b4ea8f",
-      "title": "HC sets aside government’s rejection of woman’s request for surrogacy",
-      "summary": "The Telangana High Court set aside the State government’s rejection order of a request by a woman to go for surrogacy to have a child.Justice Nagesh Bheemapaka of the HC, allowing a writ petition filed by a woman, observed that ‘having children carries significant cultural and religious implications promoting familial and social duties crucial for societal continuity’. The judge instructed the officials concerned of the office of the Commissioner of Health and Family Welfare to issue certificate of Essentiality and Eligibility to the petitioner to go ahead with the surrogacy to have a child.The 32-year-old petitioner, a doctor, got married nearly four years ago. She was suffering from Complete Androgen Insensitivity (CAIS) — missing uterus and ovaries. Due to the chromosomal disorder, she could not conceive and hence opted for surrogacy method to have a child. She applied to the District Medical Board as per the Regulation 14 (a) of the Surrogacy Regulation-2021 Act.The Board issued a Medical Indication Certificate in 2023. Later, the woman approached the Second Additional Junior Civil Judge-cum-Tenth Additional Metropolitan Magistrate seeking an order of parentage and custody of the child to be born through surrogacy. In July, 2024, the court granted an order in their favour. Later, she applied to the Commissioner’s office for eligibility certificate only to be rejected.The Commissioner’s office stated that surrogacy was permitted in case of a legally married Indian man and woman and that transgenders were not covered under the Surrogacy Regulation Act. The report said the petitioner request cannot be considered since she had 46XY karyotype chromosome. The verdict said the petitioner with 46XY karyotype chromosome was otherwise healthy but did not have menarche or menstrual period. She, however, was normal in having physical coitus, the judgment said.The Surrogacy Regulation Act was meant to help women suffering from rare disorders and lead a normal married life. The petitioner and her husband were married and their Aadhaar cards confirmed they were within the prescribed age limits. They did not have any surviving child either biologically or through adoption or through surrogacy earlier.Hence, rejection of the woman’s request on the ground of chromosome defect was unwarranted, the judge said.",
-      "url": "https://www.thehindu.com/news/national/telangana/hc-sets-aside-governments-rejection-of-womans-request-for-surrogacy/article70716453.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-07T15:24:00.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "సరోగసీ కోసం మహిళ చేసిన అభ్యర్థనను ప్రభుత్వం తిరస్కరించడాన్ని హైకోర్టు పక్కన పెట్టింది",
-      "summary_te": "సరోగసీ ద్వారా సంతానం పొందాలన్న మహిళ అభ్యర్థనను తిరస్కరించిన రాష్ట్ర ప్రభుత్వ ఉత్తర్వులను తెలంగాణ హైకోర్టు పక్కన పెట్టింది.ఒక మహిళ దాఖలు చేసిన రిట్ పిటిషన్‌ను అనుమతించిన హైకోర్టు న్యాయమూర్తి జస్టిస్ నాగేష్ భీమపాక, ‘పిల్లలను కనడం సామాజిక కొనసాగింపు కోసం కీలకమైన కుటుంబ మరియు సామాజిక విధులను ప్రోత్సహించే ముఖ్యమైన సాంస్కృతిక మరియు మతపరమైన చిక్కులను కలిగి ఉంది’ అని గమనించారు. బిడ్డను కనేందుకు సరోగసీతో ముందుకు వెళ్లేందుకు పిటిషనర్‌కు ఎసెన్షియాలిటీ మరియు ఎలిజిబిలిటీ సర్టిఫికేట్ జారీ చేయాలని ఆరోగ్య మరియు కుటుంబ సంక్షేమ కమిషనర్ కార్యాలయ అధికారులను న్యాయమూర్తి ఆదేశించారు. 32 ఏళ్ల పిటిషనర్, డాక్టర్, దాదాపు నాలుగేళ్ల క్రితం వివాహం చేసుకున్నారు. ఆమె కంప్లీట్ ఆండ్రోజెన్ ఇన్‌సెన్సిటివిటీ (CAIS)తో బాధపడుతోంది - గర్భాశయం మరియు అండాశయాలు తప్పిపోయాయి. క్రోమోజోమ్ డిజార్డర్ కారణంగా, ఆమె గర్భం దాల్చలేకపోయింది, అందుకే బిడ్డను కనేందుకు సరోగసీ పద్ధతిని ఎంచుకుంది. ఆమె సరోగసీ రెగ్యులేషన్-2021 చట్టం యొక్క రెగ్యులేషన్ 14 (a) ప్రకారం జిల్లా మెడికల్ బోర్డుకి దరఖాస్తు చేసింది. బోర్డ్ 2023లో మెడికల్ ఇండికేషన్ సర్టిఫికేట్ జారీ చేసింది. తర్వాత, ఆ మహిళ రెండవ అదనపు జూనియర్ సివిల్ జడ్జి-కమ్-పదో అదనపు మెట్రోపాలిటన్ మేజిస్ట్రేట్‌ను ఆశ్రయించింది. జూలై, 2024లో, కోర్టు వారికి అనుకూలంగా ఉత్తర్వులు ఇచ్చింది. తరువాత, ఆమె అర్హత సర్టిఫికేట్‌ను తిరస్కరించడానికి మాత్రమే కమిషనర్ కార్యాలయానికి దరఖాస్తు చేసింది. చట్టబద్ధంగా వివాహం చేసుకున్న భారతీయ పురుషుడు మరియు స్త్రీ విషయంలో సరోగసీ అనుమతించబడిందని మరియు లింగమార్పిడిదారులు సరోగసీ నియంత్రణ చట్టం కింద కవర్ చేయబడరని కమిషనర్ కార్యాలయం పేర్కొంది. ఆమె 46XY కార్యోటైప్ క్రోమోజోమ్‌ని కలిగి ఉన్నందున పిటిషనర్ అభ్యర్థనను పరిగణించలేమని నివేదిక పేర్కొంది. 46XY కార్యోటైప్ క్రోమోజోమ్‌తో ఉన్న పిటిషనర్ ఆరోగ్యంగా ఉన్నారని, అయితే రుతుక్రమం లేదా రుతుక్రమం లేదని తీర్పు చెప్పింది. అయితే, ఆమె శారీరక సంబంధం కలిగి ఉండటం సాధారణమని తీర్పు చెప్పింది. అరుదైన రుగ్మతలతో బాధపడుతున్న మహిళలకు మరియు సాధారణ వైవాహిక జీవితాన్ని గడపడానికి సరోగసీ నియంత్రణ చట్టం ఉద్దేశించబడింది. పిటిషనర్ మరియు ఆమె భర్త వివాహం చేసుకున్నారు మరియు వారి ఆధార్ కార్డులు వారు నిర్దేశించిన వయోపరిమితిలో ఉన్నారని నిర్ధారించారు. వారికి జీవశాస్త్రపరంగా లేదా దత్తత తీసుకోవడం ద్వారా లేదా అంతకుముందు సరోగసీ ద్వారా జీవించి ఉన్న బిడ్డ ఏదీ లేదు. అందువల్ల, క్రోమోజోమ్ లోపం కారణంగా మహిళ అభ్యర్థనను తిరస్కరించడం అసమంజసమని న్యాయమూర్తి చెప్పారు.",
       "translated": true
     }
   ]
