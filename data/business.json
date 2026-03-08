@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-08T06:41:52.693Z",
-  "updated_at_IST": "8/3/2026, 12:11:52 pm",
+  "updated_at": "2026-03-08T07:37:59.701Z",
+  "updated_at_IST": "8/3/2026, 1:07:59 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "e24e601c438096ff6d47edb0170d8a53",
+      "title": "Quote of the Day by Harmanpreet Kaur on hard work, ambition and destiny: ‘Never stop dreaming…’",
+      "summary": "Harmanpreet Kaur's inspiring words emphasise the importance of dreaming and believing in one's goals. Her journey from Punjab to becoming India's women's cricket captain illustrates resilience and ambition.",
+      "url": "https://www.livemint.com/news/trends/quote-of-the-day-8-march-2026-harmanpreet-kaur-cricket-career-11772952056991.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Harman_1772952701950_1772952708632.jpg",
+      "published_at": "2026-03-08T06:56:08.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "హార్డ్ వర్క్, ఆశయం మరియు విధిపై హర్మన్‌ప్రీత్ కౌర్ రాసిన కోట్ ఆఫ్ ది డే: 'కలలు కనడం ఎప్పుడూ ఆపవద్దు...'",
+      "summary_te": "హర్మన్‌ప్రీత్ కౌర్ స్ఫూర్తిదాయకమైన మాటలు కలలు కనడం మరియు ఒకరి లక్ష్యాలను విశ్వసించడం యొక్క ప్రాముఖ్యతను నొక్కి చెబుతాయి. పంజాబ్ నుండి భారత మహిళా క్రికెట్ కెప్టెన్ అయ్యే వరకు ఆమె ప్రయాణం స్థితిస్థాపకత మరియు ఆశయాన్ని వివరిస్తుంది.",
+      "translated": true
+    },
     {
       "id": "10d5df357d17d361e8aaeefa34428549",
       "title": "60% Enriched Uranium, fortified tunnels, live war: Inside US's reported plan to seize Iran's nuclear stockpile",
@@ -16,6 +30,34 @@
       "language": "en",
       "title_te": "60% సుసంపన్నమైన యురేనియం, బలవర్థకమైన సొరంగాలు, ప్రత్యక్ష యుద్ధం: ఇరాన్ యొక్క అణు నిల్వలను స్వాధీనం చేసుకునేందుకు US యొక్క నివేదించబడిన ప్రణాళిక లోపల",
       "summary_te": "US మరియు ఇజ్రాయెల్ 11 అణు బాంబులకు సరిపోయే 450 కిలోల సుసంపన్నమైన యురేనియంను ఇరాన్ సౌకర్యాల క్రింద ఖననం చేయడానికి ప్రత్యేక దళాల మిషన్‌ను తూకం వేస్తున్నాయి. ఇక్కడ ఏమి ప్లాన్ చేయబడుతోంది మరియు ఎందుకు ముఖ్యమైనది.",
+      "translated": true
+    },
+    {
+      "id": "386d7558fedb5feba1b443a0753c8de8",
+      "title": "Mcap of 8 of top-10 most valued firms erodes by Rs 2.81 lakh cr; SBI biggest laggard",
+      "summary": "The combined market valuation of eight of the top-10 most-valued firms eroded by Rs 2,81,581.53 crore last week, with the State Bank of India taking the biggest hit, in tandem with a weak trend in equities.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-8-of-top-10-most-valued-firms-erodes-by-rs-2-81-lakh-cr-sbi-biggest-laggard/articleshow/129255536.cms",
+      "image": null,
+      "published_at": "2026-03-08T06:20:28.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "టాప్-10 అత్యంత విలువైన సంస్థలలో 8 యొక్క Mcap రూ. 2.81 లక్షల కోట్లు క్షీణించింది; SBI అతిపెద్ద వెనుకబడి ఉంది",
+      "summary_te": "ఈక్విటీలలో బలహీనమైన ధోరణితో స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా అతిపెద్ద హిట్‌తో, టాప్-10 అత్యంత విలువైన సంస్థలలో ఎనిమిది కంపెనీల సంయుక్త మార్కెట్ విలువ గత వారం రూ. 2,81,581.53 కోట్ల మేర క్షీణించింది.",
+      "translated": true
+    },
+    {
+      "id": "2ff3ab85002a74cb7f551cb4dfa02968",
+      "title": "Global oil markets on edge as West Asia unrest triggers new energy shockwave",
+      "summary": "Crude oil prices have surged to near one-year highs as escalating conflict in West Asia threatens key supply routes, particularly the Strait of Hormuz. Rising geopolitical risks, refinery disruptions and tanker delays are pushing prices higher, raising inflation concerns and creating economic vulnerabilities for major Asian importers, including India, China, Japan and South Korea.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-oil-markets-on-edge-as-west-asia-unrest-triggers-new-energy-shockwave/articleshow/129255467.cms",
+      "image": null,
+      "published_at": "2026-03-08T06:18:45.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా అశాంతి కొత్త శక్తి షాక్‌వేవ్‌ను ప్రేరేపిస్తున్నందున ప్రపంచ చమురు మార్కెట్లు అంచున ఉన్నాయి",
+      "summary_te": "పశ్చిమాసియాలో పెరుగుతున్న సంఘర్షణలు కీలక సరఫరా మార్గాలను, ముఖ్యంగా హార్ముజ్ జలసంధిని బెదిరించడంతో ముడి చమురు ధరలు దాదాపు ఒక సంవత్సరం గరిష్ట స్థాయికి చేరుకున్నాయి. పెరుగుతున్న భౌగోళిక రాజకీయ ప్రమాదాలు, రిఫైనరీ అంతరాయాలు మరియు ట్యాంకర్ జాప్యాలు ధరలను పెంచుతున్నాయి, ద్రవ్యోల్బణం ఆందోళనలను పెంచుతున్నాయి మరియు భారతదేశం, చైనా, జపాన్ మరియు దక్షిణ కొరియాతో సహా ప్రధాన ఆసియా దిగుమతిదారులకు ఆర్థిక బలహీనతలను సృష్టిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -75,6 +117,20 @@
       "translated": true
     },
     {
+      "id": "d181c8fc2ca6f888c8985c8c87f704b1",
+      "title": "Equity mutual funds lose up to 11% last week; international funds hit the worst. Check top 10 laggards",
+      "summary": "Equity mutual funds lost upto 11% last week (March 2 to March 7). International funds were among the worst hit. Here are the top 10 losers. (Source: ACE MF)",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/equity-mutual-funds-lose-up-to-11-last-week-international-funds-hit-the-worst-check-top-10-laggards/weekly-scorecard/slideshow/129253595.cms",
+      "image": null,
+      "published_at": "2026-03-08T05:29:21.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈక్విటీ మ్యూచువల్ ఫండ్స్ గత వారం 11% వరకు నష్టపోతాయి; అంతర్జాతీయ నిధులు దారుణంగా దెబ్బతిన్నాయి. టాప్ 10 వెనుకబడిన వాటిని తనిఖీ చేయండి",
+      "summary_te": "ఈక్విటీ మ్యూచువల్ ఫండ్స్ గత వారం (మార్చి 2 నుండి మార్చి 7 వరకు) 11% వరకు నష్టపోయాయి. అంతర్జాతీయ నిధులు ఎక్కువగా దెబ్బతిన్నాయి. టాప్ 10 ఓడిపోయిన వారు ఇక్కడ ఉన్నారు. (మూలం: ACE MF)",
+      "translated": true
+    },
+    {
       "id": "7f0e1980f143274fc7b4b49f833b8191",
       "title": "Fear, oil shocks and volatility: Why investor behavior matters more than ever",
       "summary": "Indian markets face volatility due to global tensions. Investors often desire stability but markets respond to real risks like rising oil prices and geopolitical events. Success hinges on disciplined behavior, not predictions. Staying invested through downturns allows for long-term compounding. Those who manage risk and resist panic selling will be rewarded over time.",
@@ -89,17 +145,17 @@
       "translated": true
     },
     {
-      "id": "b6aa450c434f39da33a6cd0e9a75df6b",
-      "title": "How passive investing could shape women’s investment choices in 2026",
-      "summary": "Women are increasingly shaping India’s mutual fund landscape, with one in four investors now being female. As financial decision-making shifts, many women are adopting structured approaches to investing. Passive strategies such as index funds and ETFs are emerging as practical, low-cost tools for building diversified portfolios and achieving long-term financial goals.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-passive-investing-could-shape-womens-investment-choices-in-2026/articleshow/129252799.cms",
+      "id": "87e43cee8386761b69776a885357bab9",
+      "title": "5 IPOs to open this week. Check GMPs to track listing sentiments",
+      "summary": "India's primary market is set for another busy week with five IPOs opening for subscription, including four mainboard issues and one SME listing. However, grey market signals suggest that investor enthusiasm remains muted, with most upcoming offerings showing little to no grey market premium (GMP) so far. The cautious sentiment comes after a weak run for recent IPO listings and broader volatility in equity markets.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/5-ipos-to-open-this-week-check-gmps-to-track-listing-sentiments/ipo-market-watch/slideshow/129252936.cms",
       "image": null,
-      "published_at": "2026-03-08T05:08:38.000Z",
+      "published_at": "2026-03-08T05:10:37.000Z",
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "నిష్క్రియ పెట్టుబడి 2026లో మహిళల పెట్టుబడి ఎంపికలను ఎలా రూపొందిస్తుంది",
-      "summary_te": "భారతదేశం యొక్క మ్యూచువల్ ఫండ్ ల్యాండ్‌స్కేప్‌ను మహిళలు ఎక్కువగా రూపొందిస్తున్నారు, ప్రతి నలుగురిలో ఒకరు ఇప్పుడు స్త్రీ. ఆర్థిక నిర్ణయాలు తీసుకునే మార్పుల కారణంగా, చాలా మంది మహిళలు పెట్టుబడికి నిర్మాణాత్మక విధానాలను అవలంబిస్తున్నారు. ఇండెక్స్ ఫండ్‌లు మరియు ఇటిఎఫ్‌లు వంటి నిష్క్రియాత్మక వ్యూహాలు విభిన్నమైన పోర్ట్‌ఫోలియోలను నిర్మించడానికి మరియు దీర్ఘకాలిక ఆర్థిక లక్ష్యాలను సాధించడానికి ఆచరణాత్మక, తక్కువ-ధర సాధనాలుగా ఉద్భవించాయి.",
+      "title_te": "ఈ వారంలో 5 IPOలు తెరవబడతాయి. లిస్టింగ్ సెంటిమెంట్‌లను ట్రాక్ చేయడానికి GMPలను తనిఖీ చేయండి",
+      "summary_te": "నాలుగు మెయిన్‌బోర్డ్ ఇష్యూలు మరియు ఒక SME లిస్టింగ్‌తో సహా ఐదు IPOలు సబ్‌స్క్రిప్షన్ కోసం తెరవబడటంతో భారతదేశం యొక్క ప్రాధమిక మార్కెట్ మరొక బిజీ వారానికి సెట్ చేయబడింది. ఏది ఏమైనప్పటికీ, గ్రే మార్కెట్ సంకేతాలు పెట్టుబడిదారుల ఉత్సాహం మ్యూట్‌గా ఉందని సూచిస్తున్నాయి, రాబోయే చాలా ఆఫర్‌లు ఇప్పటివరకు గ్రే మార్కెట్ ప్రీమియం (GMP) తక్కువగా చూపుతున్నాయి. ఈక్విటీ మార్కెట్‌లలో ఇటీవలి IPO లిస్టింగ్‌లు మరియు విస్తృత అస్థిరత కోసం బలహీనమైన పరుగు తర్వాత జాగ్రత్తగా సెంటిమెంట్ వచ్చింది.",
       "translated": true
     },
     {
@@ -117,20 +173,6 @@
       "translated": true
     },
     {
-      "id": "b152162e13c7e3c78341a0b33cba0092",
-      "title": "Top market expert predicts FIIs unlikely to return anytime soon after nearly $2 billion selling in March",
-      "summary": "Foreign investors are pulling money from Indian stocks. Geopolitical tensions and rising oil prices are causing concern. This selling pressure has led to market volatility. Experts believe foreign investors will stay away until global uncertainty eases and oil prices fall. Domestic investors are currently supporting the market. The outlook for Indian equities remains cautious in the near term.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/top-market-expert-predicts-fiis-unlikely-to-return-anytime-soon-after-nearly-2-billion-selling-in-march/articleshow/129251891.cms",
-      "image": null,
-      "published_at": "2026-03-08T04:47:38.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మార్చిలో దాదాపు $2 బిలియన్ల విక్రయం తర్వాత ఎఫ్‌ఐఐలు ఎప్పుడైనా తిరిగి వచ్చే అవకాశం లేదని అగ్ర మార్కెట్ నిపుణులు అంచనా వేస్తున్నారు",
-      "summary_te": "విదేశీ ఇన్వెస్టర్లు భారతీయ స్టాక్స్ నుండి డబ్బును లాగుతున్నారు. భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు పెరుగుతున్న చమురు ధరలు ఆందోళన కలిగిస్తున్నాయి. ఈ అమ్మకాల ఒత్తిడి మార్కెట్ అస్థిరతకు దారితీసింది. అంతర్జాతీయంగా అనిశ్చితి తగ్గి చమురు ధరలు తగ్గే వరకు విదేశీ పెట్టుబడిదారులు దూరంగా ఉంటారని నిపుణులు భావిస్తున్నారు. దేశీయ ఇన్వెస్టర్లు ప్రస్తుతం మార్కెట్‌కు మద్దతు ఇస్తున్నారు. భారతీయ ఈక్విటీల ఔట్‌లుక్ సమీప కాలంలో జాగ్రత్తగా ఉంటుంది.",
-      "translated": true
-    },
-    {
       "id": "421f1673ea16b1f87da61b9f9be061da",
       "title": "Caught on Camera: The scary moment when Michigan tornado hits - video captures devastating visuals",
       "summary": "Photos and videos posted on social media showed flattened homes and downed trees in the lakeside neighbourhood.",
@@ -145,45 +187,17 @@
       "translated": true
     },
     {
-      "id": "8626ff1bb7f7171204ffbfdb8da70bbf",
-      "title": "Market trading guide: Data Patterns among 2 stock recommendations for Monday",
-      "summary": "Indian equities fell over 1% as escalating Middle East tensions pushed crude oil prices higher, weighing on sentiment. Analysts warn sustained oil gains could impact inflation, deficits and monetary policy. Technical analysts recommend Data Patterns and NALCO as potential trades for Monday based on breakout patterns and bullish momentum.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-data-patterns-among-2-stock-recommendations-for-monday/articleshow/129251813.cms",
+      "id": "1cc9ed5a4aad16eb322c10eee01364c8",
+      "title": "10 penny stocks plunge up to 53% in a month - Are you affected?",
+      "summary": "Ten penny stocks with market caps under Rs 1,000 crore and prices below Rs 20 fell 25–53% in one month, highlighting high volatility, liquidity risks, and downside potential in low-priced stocks.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-penny-stocks-plunge-up-to-53-in-a-month-are-you-affected/slideshow/129250397.cms",
       "image": null,
-      "published_at": "2026-03-08T04:41:34.000Z",
+      "published_at": "2026-03-08T03:48:17.000Z",
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "మార్కెట్ ట్రేడింగ్ గైడ్: సోమవారం కోసం 2 స్టాక్ సిఫార్సులలో డేటా నమూనాలు",
-      "summary_te": "సెంటిమెంట్‌పై ప్రభావం చూపుతూ మధ్యప్రాచ్య ఉద్రిక్తతలు ముడి చమురు ధరలను పెంచడంతో భారతీయ ఈక్విటీలు 1% పైగా పడిపోయాయి. నిరంతర చమురు లాభాలు ద్రవ్యోల్బణం, లోటులు మరియు ద్రవ్య విధానాన్ని ప్రభావితం చేయగలవని విశ్లేషకులు హెచ్చరిస్తున్నారు. సాంకేతిక విశ్లేషకులు డేటా ప్యాటర్న్‌లు మరియు NALCOని బ్రేక్‌అవుట్ నమూనాలు మరియు బుల్లిష్ మొమెంటం ఆధారంగా సోమవారం సంభావ్య ట్రేడ్‌లుగా సిఫార్సు చేస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "a1235807e57bea88a0b93bfdf1bdb589",
-      "title": "Women’s Day 2026: How to build right mutual fund portfolio at every life stage",
-      "summary": "Women are increasingly taking charge of their finances. This Women's Day 2026, learn how to build the right mutual fund portfolio at every life stage. Experts advise aligning investments with career, family, and retirement goals. Staying disciplined during market ups and downs is crucial. Avoid common mistakes like delaying investments and neglecting insurance.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/womens-day-2026-how-to-build-right-mutual-fund-portfolio-at-every-life-stage/articleshow/129250662.cms",
-      "image": null,
-      "published_at": "2026-03-08T04:09:59.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మహిళా దినోత్సవం 2026: ప్రతి జీవిత దశలో సరైన మ్యూచువల్ ఫండ్ పోర్ట్‌ఫోలియోను ఎలా నిర్మించాలి",
-      "summary_te": "మహిళలు తమ ఆర్థిక వ్యవహారాలను ఎక్కువగా చూసుకుంటున్నారు. ఈ మహిళా దినోత్సవం 2026, ప్రతి జీవిత దశలో సరైన మ్యూచువల్ ఫండ్ పోర్ట్‌ఫోలియోను ఎలా నిర్మించాలో తెలుసుకోండి. కెరీర్, కుటుంబం మరియు పదవీ విరమణ లక్ష్యాలతో పెట్టుబడులను సర్దుబాటు చేయాలని నిపుణులు సలహా ఇస్తున్నారు. మార్కెట్ హెచ్చు తగ్గుల సమయంలో క్రమశిక్షణతో ఉండడం చాలా ముఖ్యం. పెట్టుబడులను ఆలస్యం చేయడం మరియు బీమాను నిర్లక్ష్యం చేయడం వంటి సాధారణ తప్పులను నివారించండి.",
-      "translated": true
-    },
-    {
-      "id": "36a0c0d3b46f20de1c32c97a5e2712d5",
-      "title": "Sensex, Nifty down 3% in first four March sessions! 5 factors that could decide market mood this week",
-      "summary": "Indian stock markets experienced a significant downturn. The Sensex and Nifty saw sharp declines in the first four March sessions. This selloff wiped out substantial market capitalization. Key factors influencing market sentiment included the escalating US-Israel-Iran conflict, surging crude oil prices, foreign investor outflows, and disappointing US jobs data. Technical indicators also pointed to a bearish outlook for the markets.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-down-3-in-first-four-march-sessions-5-factors-that-could-decide-market-mood-this-week/articleshow/129250226.cms",
-      "image": null,
-      "published_at": "2026-03-08T03:58:32.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "తొలి నాలుగు మార్చి సెషన్లలో సెన్సెక్స్, నిఫ్టీలు 3% క్షీణించాయి! ఈ వారం మార్కెట్ మూడ్‌ని నిర్ణయించే 5 అంశాలు",
-      "summary_te": "భారత స్టాక్ మార్కెట్లు గణనీయమైన పతనాన్ని చవిచూశాయి. మొదటి నాలుగు మార్చి సెషన్లలో సెన్సెక్స్ మరియు నిఫ్టీలు భారీగా క్షీణించాయి. ఈ అమ్మకం గణనీయమైన మార్కెట్ క్యాపిటలైజేషన్‌ను తుడిచిపెట్టేసింది. అమెరికా-ఇజ్రాయెల్-ఇరాన్ వివాదం, పెరుగుతున్న ముడి చమురు ధరలు, విదేశీ పెట్టుబడిదారుల ప్రవాహాలు మరియు నిరాశపరిచిన US ఉద్యోగాల డేటా వంటివి మార్కెట్ సెంటిమెంట్‌ను ప్రభావితం చేసే ముఖ్య అంశాలు. సాంకేతిక సూచికలు కూడా మార్కెట్ల కోసం బేరిష్ ఔట్‌లుక్‌ను సూచించాయి.",
+      "title_te": "ఒక నెలలో 10 పెన్నీ స్టాక్‌లు 53% వరకు పడిపోయాయి - మీరు ప్రభావితమయ్యారా?",
+      "summary_te": "రూ. 1,000 కోట్లలోపు మార్కెట్ క్యాప్‌లు మరియు రూ. 20 కంటే తక్కువ ధరలతో ఉన్న పది పెన్నీ స్టాక్‌లు ఒక నెలలో 25–53% పడిపోయాయి, తక్కువ ధర కలిగిన స్టాక్‌లలో అధిక అస్థిరత, లిక్విడిటీ ప్రమాదాలు మరియు ప్రతికూల సంభావ్యతను హైలైట్ చేసింది.",
       "translated": true
     },
     {
@@ -286,7 +300,7 @@
     },
     {
       "id": "83f0d28fa2d21c63de102bc4ad62c5f2",
-      "title": "Happy International Women's Day 2026 wishes: The only list of 200+ WhatsApp, Instagram, Facebook messages you need today",
+      "title": "Happy International Women's Day 2026 wishes: 250+ Messages for WhatsApp, Instagram because she deserves the perfect one",
       "summary": "Happy International Women's Day 2026 wishes: This year, the United Nations 2026 International Women's Day theme is “Rights. Justice. Action. For ALL Women and Girls,” focusing on structural accountability, closing justice gaps, and defending rights.",
       "url": "https://www.livemint.com/news/trends/international-womens-day-2026-here-are-20-whatsapp-facebook-wishes-to-share-with-family-friends-11772928982981.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/womens_day__1772929090615_1772929090799.jpg",
@@ -294,7 +308,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026: ఈరోజు మీకు అవసరమైన 200+ WhatsApp, Instagram, Facebook సందేశాల జాబితా మాత్రమే",
+      "title_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026 శుభాకాంక్షలు: WhatsApp, Instagram కోసం 250+ సందేశాలు ఎందుకంటే ఆమె పరిపూర్ణమైనది",
       "summary_te": "అంతర్జాతీయ మహిళా దినోత్సవ శుభాకాంక్షలు 2026 శుభాకాంక్షలు: ఈ సంవత్సరం, ఐక్యరాజ్యసమితి 2026 అంతర్జాతీయ మహిళా దినోత్సవం థీమ్ \"హక్కులు. న్యాయం. చర్య. అన్ని మహిళలు మరియు బాలికల కోసం,\" నిర్మాణాత్మక జవాబుదారీతనం, న్యాయపరమైన అంతరాలను మూసివేయడం మరియు హక్కులను రక్షించడం.",
       "translated": true
     },
@@ -436,20 +450,6 @@
       "language": "en",
       "title_te": "Watch | ట్రంప్ సెనేటర్ టెడ్ క్రూజ్‌ను పట్టించుకోలేదు, వైట్ హౌస్ సమావేశంలో మార్కో రూబియోతో గుసగుసలాడాడు",
       "summary_te": "డోనాల్డ్ ట్రంప్ మార్కో రూబియోతో గుసగుసలాడినట్లు కనిపించడంతో టెడ్ క్రజ్ కళాశాల క్రీడలు ఎదుర్కొంటున్న సంక్షోభం గురించి సుమారు 20 సెకన్ల పాటు మాట్లాడాడు, అతను సెనేటర్ వ్యాఖ్యలపై పూర్తిగా దృష్టి పెట్టలేదని సూచించాడు.",
-      "translated": true
-    },
-    {
-      "id": "e7bafff6521a6eb9b77cf96c761fb103",
-      "title": "US-Israel, Iran conflict: From Pezeshkian's apology to UAE first remark to Trump's warning - Top updates",
-      "summary": "The US-Israel war in Iran has entered its eighth day, with strikes and retaliatory attacks intensifying across the Middle East. Iran vowed revenge after Supreme Leader Ali Khamenei’s death, while the UAE reported intercepting missiles and drones amid escalating regional tensions.",
-      "url": "https://www.livemint.com/news/world/usisrael-iran-conflict-from-pezeshkians-apology-to-uae-first-remark-to-trumps-warning-top-updates-11772902585029.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/07/1600x900/logo/IRAN-NUCLEAR--0_1747309176648_1772903137633.JPG",
-      "published_at": "2026-03-07T17:10:18.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుఎస్-ఇజ్రాయెల్, ఇరాన్ వివాదం: పెజెష్కియాన్ క్షమాపణ నుండి యుఎఇ మొదటి వ్యాఖ్య వరకు ట్రంప్ హెచ్చరిక వరకు - అగ్ర నవీకరణలు",
-      "summary_te": "ఇరాన్‌లో యుఎస్-ఇజ్రాయెల్ యుద్ధం ఎనిమిదవ రోజుకు చేరుకుంది, మధ్యప్రాచ్యం అంతటా దాడులు మరియు ప్రతీకార దాడులు తీవ్రమవుతున్నాయి. సుప్రీం లీడర్ అలీ ఖమేనీ మరణం తర్వాత ప్రతీకారం తీర్చుకుంటామని ఇరాన్ ప్రతిజ్ఞ చేసింది, అయితే ప్రాంతీయ ఉద్రిక్తతలు పెరుగుతున్న నేపథ్యంలో UAE క్షిపణులు మరియు డ్రోన్‌లను అడ్డుకున్నట్లు నివేదించింది.",
       "translated": true
     },
     {
