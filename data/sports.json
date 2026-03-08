@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-08T20:15:03.177Z",
-  "updated_at_IST": "9/3/2026, 1:45:03 am",
+  "updated_at": "2026-03-08T21:25:41.266Z",
+  "updated_at_IST": "9/3/2026, 2:55:41 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "b3f18a9c05e758a3c47acf5501d30eec",
+      "title": "Gambhir dedicates T20 World Cup win to Dravid, Laxman",
+      "summary": "\"Stop celebrating milestones, celebrate trophies, because the bigger purpose of a team sport is to win trophies, not score individual runs,\" India coach said",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527447.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414559.jpg",
+      "published_at": "2026-03-08T21:08:41.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గంభీర్ టీ20 ప్రపంచకప్ విజయాన్ని ద్రవిడ్, లక్ష్మణ్‌లకు అంకితమిచ్చాడు",
+      "summary_te": "\"మైలురాళ్లను జరుపుకోవడం మానేయండి, ట్రోఫీలను జరుపుకోండి, ఎందుకంటే జట్టు క్రీడ యొక్క పెద్ద ఉద్దేశ్యం ట్రోఫీలు గెలవడం, వ్యక్తిగత పరుగులు చేయడం కాదు\" అని భారత కోచ్ చెప్పాడు.",
+      "translated": true
+    },
+    {
+      "id": "4490d0db91f9b76a4128f8291a4d149b",
+      "title": "Suryakumar: LA28 Olympic gold the next goal",
+      "summary": "India captain said 'everything changed post-2024' for the white-ball sides",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527442.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414571.jpg",
+      "published_at": "2026-03-08T20:51:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సూర్యకుమార్: LA28 ఒలింపిక్ స్వర్ణం తదుపరి లక్ష్యం",
+      "summary_te": "2024 తర్వాత వైట్ బాల్ సైడ్‌ల కోసం అంతా మారిపోయిందని భారత కెప్టెన్ చెప్పాడు",
+      "translated": true
+    },
+    {
+      "id": "7987e396838336a9052882aa7baf0575",
+      "title": "India crush New Zealand for third T20 World Cup title",
+      "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
+      "published_at": "2026-03-08T20:27:22.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "న్యూజిలాండ్‌ను మట్టికరిపించిన భారత్ మూడో టీ20 ప్రపంచకప్ టైటిల్‌ను కైవసం చేసుకుంది",
+      "summary_te": "అభిషేక్, శాంసన్, కిషన్‌లు హాఫ్ సెంచరీలతో 255 పరుగులు చేసి బుమ్రా చేసిన ఫోర్‌తో భారీ విజయాన్ని సాధించారు.",
+      "translated": true
+    },
     {
       "id": "7713186a258277d958d69537081a8d3b",
       "title": "Abhishek: Coach and captain told me I was going to win big games",
@@ -30,20 +72,6 @@
       "language": "en",
       "title_te": "'విరిగిపోయిన' అనుభూతి తర్వాత టెండూల్కర్ మార్గదర్శకత్వం కోసం శాంసన్ కృతజ్ఞతలు తెలిపాడు",
       "summary_te": "ఐదు మ్యాచ్‌లలో 199.37 స్ట్రైక్ రేట్‌తో 321 పరుగులు చేసిన సంజు శాంసన్ ప్లేయర్ ఆఫ్ ద టోర్నమెంట్‌గా నిలిచాడు.",
-      "translated": true
-    },
-    {
-      "id": "7987e396838336a9052882aa7baf0575",
-      "title": "India crush New Zealand for third T20 World Cup title",
-      "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
-      "published_at": "2026-03-08T18:43:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్‌ను మట్టికరిపించిన భారత్ మూడో టీ20 ప్రపంచకప్ టైటిల్‌ను కైవసం చేసుకుంది",
-      "summary_te": "అభిషేక్, శాంసన్, కిషన్‌లు హాఫ్ సెంచరీలతో 255 పరుగులు చేసి బుమ్రా చేసిన ఫోర్‌తో భారీ విజయాన్ని సాధించారు.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "పెర్రీ, ఓ'నీల్ టాస్మానియా షీల్డ్ ఫైనల్ ఆశలను ముగించారు",
       "summary_te": "ఆతిథ్య జట్టు 2 వికెట్లకు 170 పరుగుల వద్ద ఆశాజనకంగా ఉంది, అయితే మిడిల్ ఆర్డర్ పతనానికి గురైంది, ఇది గేమ్‌ను నిర్ణయించింది.",
-      "translated": true
-    },
-    {
-      "id": "917cb540cf74214bd0212615f111631c",
-      "title": "Mixed-soil pitch set to offer minimal turn and good bounce for India-NZ final",
-      "summary": "The pitch is as good as fresh, having hosted just one match in this T20 World Cup",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527085.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413896.jpg",
-      "published_at": "2026-03-06T15:48:15.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "భారత్-NZ ఫైనల్‌కు మినిమల్ టర్న్ మరియు మంచి బౌన్స్ అందించడానికి మిశ్రమ నేల పిచ్ సెట్ చేయబడింది",
-      "summary_te": "ఈ టీ20 ప్రపంచకప్‌లో కేవలం ఒక మ్యాచ్‌కు ఆతిథ్యమిచ్చిన పిచ్ తాజాగా ఉంది",
-      "translated": true
-    },
-    {
-      "id": "6d495003d453bedf9dcdb7ebb3d5e97b",
-      "title": "England Women head to South Africa after Abu Dhabi cancellation",
-      "summary": "Thirty-player training camp hastily rescheduled for Pretoria due to security situation in UAE",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527110.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/401300/401332.jpg",
-      "published_at": "2026-03-06T13:25:27.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "అబుదాబి రద్దు తర్వాత ఇంగ్లాండ్ మహిళలు దక్షిణాఫ్రికాకు వెళుతున్నారు",
-      "summary_te": "యుఎఇలో భద్రతా పరిస్థితుల కారణంగా ముప్పై మంది ఆటగాళ్ల శిక్షణా శిబిరం ప్రిటోరియాకు త్వరగా షెడ్యూల్ చేయబడింది",
       "translated": true
     }
   ]

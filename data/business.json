@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-08T20:15:03.177Z",
-  "updated_at_IST": "9/3/2026, 1:45:03 am",
+  "updated_at": "2026-03-08T21:25:41.266Z",
+  "updated_at_IST": "9/3/2026, 2:55:41 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "f098945abdcfd940865753d9d26311fc",
+      "title": "US Treasury Secretary says ‘working with global oil producers, consumers to maintain stability in energy markets’",
+      "summary": "US Treasury Secretary Scott Bessent stated the Trump administration is collaborating with major oil producers and consumers to stabilize global energy markets amid the West Asia conflict.&nbsp;",
+      "url": "https://www.livemint.com/news/us-news/us-treasury-secretary-says-working-with-global-oil-producers-consumers-to-maintain-stability-in-energy-markets-11772998895966.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Trump-29_1772998927857_1772998938152.jpg",
+      "published_at": "2026-03-08T20:07:12.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "యుఎస్ ట్రెజరీ సెక్రటరీ మాట్లాడుతూ 'ఇంధన మార్కెట్‌లలో స్థిరత్వాన్ని కొనసాగించడానికి ప్రపంచ చమురు ఉత్పత్తిదారులు, వినియోగదారులతో కలిసి పనిచేయడం'",
+      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య ప్రపంచ ఇంధన మార్కెట్లను స్థిరీకరించేందుకు ట్రంప్ పరిపాలన ప్రధాన చమురు ఉత్పత్తిదారులు మరియు వినియోగదారులతో సహకరిస్తోందని US ట్రెజరీ సెక్రటరీ స్కాట్ బెస్సెంట్ తెలిపారు. ",
+      "translated": true
+    },
     {
       "id": "31725d1837fb57b9ec0cd277f8fa24a4",
       "title": "NYC Police Say IED Was Thrown Near Mamdani’s Residence Saturday",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బీహార్ కుర్రాడి LA టర్న్‌అరౌండ్: అతను ఉద్యోగం కోల్పోయాడు, బాధాకరంగా విడిపోయారు మరియు ఇప్పుడు కాలిఫోర్నియాలో ₹730 చాయ్ విక్రయిస్తున్నాడు",
       "summary_te": "బీహార్‌లోని ఒక చిన్న పట్టణంలో జన్మించిన ప్రభాకర్, తన తండ్రి చాలా సంవత్సరాలుగా అనేక వ్యాపారాలను నిర్వహించడానికి ప్రయత్నించారని, అయితే ఏదీ ఫలించలేదని చెప్పారు. ఆర్థిక ఒత్తిడి ఉన్నప్పటికీ, అతని తల్లిదండ్రులు విద్య యొక్క శక్తిని గట్టిగా విశ్వసించారు",
-      "translated": true
-    },
-    {
-      "id": "685fd5bf1375641f16ca8ea4f475ffb0",
-      "title": "Prank goes wrong: Georgia high school teacher dies after teenagers run him over with pickup truck; all you need to know",
-      "summary": "A Georgia high school teacher, Jason Hughes, died after being run over by a pickup truck while confronting teens who were toilet-papering his home in a prank. An 18-year-old driver faces vehicular homicide and other charges. Hughes was remembered by the community as a devoted teacher and coach.",
-      "url": "https://www.livemint.com/news/us-news/prank-goes-wrong-georgia-high-school-teacher-dies-after-teenagers-run-him-over-with-pickup-truck-all-you-need-to-know-11772978248108.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Jason_Hughes_Georgia_Teacher_1772978734616_1772978734851.jpg",
-      "published_at": "2026-03-08T14:09:48.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "చిలిపి తప్పు జరిగింది: జార్జియా హైస్కూల్ టీచర్ యువకులు పికప్ ట్రక్కుతో అతనిని పరుగెత్తడంతో మరణించాడు; మీరు తెలుసుకోవలసినది",
-      "summary_te": "జార్జియా హైస్కూల్ ఉపాధ్యాయుడు, జాసన్ హ్యూస్, చిలిపిగా తన ఇంటిని టాయిలెట్ పేపర్ చేస్తున్న టీనేజ్‌లను ఎదుర్కుంటున్నప్పుడు పికప్ ట్రక్కు ఢీకొట్టడంతో మరణించాడు. 18 ఏళ్ల డ్రైవర్ వాహన హత్య మరియు ఇతర ఆరోపణలను ఎదుర్కొంటున్నాడు. హ్యూస్‌ను సమాజం అంకితభావంతో కూడిన ఉపాధ్యాయుడిగా మరియు కోచ్‌గా గుర్తుంచుకుంది.",
       "translated": true
     },
     {
