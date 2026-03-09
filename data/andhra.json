@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-09T05:29:37.541Z",
-  "updated_at_IST": "9/3/2026, 10:59:37 am",
+  "updated_at": "2026-03-09T06:59:49.344Z",
+  "updated_at_IST": "9/3/2026, 12:29:49 pm",
   "category": "andhra",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "c8f6715facdfff377524590e3e796968",
+      "title": "Police cane cricket fans in Vijayawada",
+      "summary": "Police resorted to a mild lathi-charge on the cricket fans when they tried to organise a victory rally after India won the ICC T20 World Cup Cricket final match against New Zealand on Sunday. Many students and the youth came on to MG Road after the Indian team won the match. When they came in a rally up to Benz Circle, police resorted to caning them, claiming they were causing a traffic jam.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/police-cane-cricket-fans-in-vijayawada/article70720025.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vlhzd7/article70720109.ece/alternates/LANDSCAPE_1200/DSC_7516.JPG",
+      "published_at": "2026-03-08T19:23:52.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "విజయవాడలో క్రికెట్ అభిమానులపై పోలీసులు లాఠీచార్జి చేశారు",
+      "summary_te": "ఆదివారం న్యూజిలాండ్‌తో జరిగిన ఐసిసి టి 20 ప్రపంచ కప్ క్రికెట్ ఫైనల్ మ్యాచ్‌లో భారత్ గెలిచిన తర్వాత విజయోత్సవ ర్యాలీని నిర్వహించేందుకు ప్రయత్నించిన క్రికెట్ అభిమానులపై పోలీసులు స్వల్ప లాఠీచార్జి చేశారు. ఈ మ్యాచ్‌లో భారత జట్టు గెలుపొందడంతో చాలా మంది విద్యార్థులు, యువకులు ఎంజీ రోడ్డుపైకి వచ్చారు. బెంజ్‌సర్కిల్‌ వరకు ర్యాలీగా వస్తుండగా ట్రాఫిక్‌ జామ్‌కు కారణమవడంతో పోలీసులు లాఠీచార్జి చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "9117460b6f2e5b2fa5d2a553fc9c8b5a",
+      "title": "Governor congratulates Indian cricket team",
+      "summary": "Governor S. Abdul Nazeer congratulated Team India on its spectacular win over New Zealand in the ICC T20 World Cup 2026 final held in Ahmedabad on Sunday. Mr. Abdul Nazeer said the entire nation was proud of the remarkable achievement of the Indian cricket team and commended the players for bringing pride and glory to the country.Chief Minister N. Chandrababu Naidu congratulated Team India on winning the ICC T20 World Cup 2026. In a message on X, he said India had become the first nation ever to capture the tournament trophy three times.Deputy Chief Minister K. Pawan Kalyan congratulated the Indian cricket team on winning the T20 Cricket World Cup and said the victory brought cheer to cricket fans.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/governor-congratulates-indian-cricket-team/article70719972.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-08T18:59:48.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "భారత క్రికెట్ జట్టుకు గవర్నర్ అభినందనలు",
+      "summary_te": "ఆదివారం అహ్మదాబాద్‌లో జరిగిన ICC T20 వరల్డ్ కప్ 2026 ఫైనల్‌లో న్యూజిలాండ్‌పై అద్భుత విజయం సాధించిన టీమిండియాను గవర్నర్ ఎస్. అబ్దుల్ నజీర్ అభినందించారు. అబ్దుల్ నజీర్ మాట్లాడుతూ భారత క్రికెట్ జట్టు అద్భుత విజయాన్ని సాధించినందుకు యావత్ దేశం గర్విస్తోందని, దేశానికి గర్వకారణంగా నిలిచినందుకు ఆటగాళ్లను మెచ్చుకున్నారని అన్నారు.ఐసీసీ టీ20 ప్రపంచకప్ 2026ను గెలుచుకున్న టీమిండియాకు ముఖ్యమంత్రి ఎన్.చంద్రబాబు నాయుడు అభినందనలు తెలిపారు. T20 క్రికెట్ ప్రపంచ కప్‌ను గెలుచుకోవడంపై మరియు ఈ విజయం క్రికెట్ అభిమానులకు ఆనందాన్ని కలిగించిందని అన్నారు.",
+      "translated": true
+    },
     {
       "id": "a155b6d06c7a32f20aef58db439757e3",
       "title": "Andhra Loyola College hosts women’s health awareness for International Women’s Day",
