@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-09T12:44:36.906Z",
-  "updated_at_IST": "9/3/2026, 6:14:36 pm",
+  "updated_at": "2026-03-09T14:11:59.110Z",
+  "updated_at_IST": "9/3/2026, 7:41:59 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a6a59d57d0e1e7fdef768c5827c3f9aa",
+      "title": "Afghanistan-Sri Lanka white-ball series set to be postponed due to West Asia conflict",
+      "summary": "The series was scheduled to be played in the UAE, which has been affected by the ongoing military crisis",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527497.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/406500/406521.jpg",
+      "published_at": "2026-03-09T13:35:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా వివాదం కారణంగా ఆఫ్ఘనిస్తాన్-శ్రీలంక వైట్ బాల్ సిరీస్ వాయిదా పడింది",
+      "summary_te": "కొనసాగుతున్న సైనిక సంక్షోభం కారణంగా ప్రభావితమైన యుఎఇలో సిరీస్ ఆడాల్సి ఉంది",
+      "translated": true
+    },
     {
       "id": "1c3a126474497a5ee249d336e53c0fb7",
       "title": "Litton Das to bat at No. 5 in ODIs against Pakistan",
@@ -15,7 +29,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -29,7 +43,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఇంగ్లాండ్, WI మరియు SA వారాంతంలో చార్టర్ విమానాలలో భారతదేశం నుండి బయలుదేరుతాయి",
       "summary_te": "పశ్చిమాసియాలో గగనతలం మూసివేత కారణంగా వెస్టిండీస్ మార్చి 1 నుండి భారతదేశంలో ఉంది",
-      "translated": true
-    },
-    {
-      "id": "716766e48f92b2d52638695ba1aa5a2c",
-      "title": "Sutherland's sublime century and Hamilton's night-time burst flatten India",
-      "summary": "The timings worked perfectly for Australia who had a new ball under lights and for a brief time were pushing for a two-day finish",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527242.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414471.jpg",
-      "published_at": "2026-03-07T13:23:17.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సదర్లాండ్ యొక్క అద్భుతమైన సెంచరీ మరియు హామిల్టన్ రాత్రి సమయంలో పేలుడు భారతదేశాన్ని చదును చేశాయి",
-      "summary_te": "లైట్ల కింద కొత్త బంతిని కలిగి ఉన్న ఆస్ట్రేలియాకు సమయాలు సరిగ్గా పనిచేశాయి మరియు కొద్దిసేపు రెండు రోజుల ముగింపు కోసం ముందుకు సాగాయి.",
       "translated": true
     }
   ]
