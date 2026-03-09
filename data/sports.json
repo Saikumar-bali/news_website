@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-09T01:10:19.440Z",
-  "updated_at_IST": "9/3/2026, 6:40:19 am",
+  "updated_at": "2026-03-09T03:45:09.865Z",
+  "updated_at_IST": "9/3/2026, 9:15:09 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "7987e396838336a9052882aa7baf0575",
+      "title": "India crush New Zealand for third T20 World Cup title",
+      "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
+      "published_at": "2026-03-09T03:21:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "న్యూజిలాండ్‌ను మట్టికరిపించిన భారత్ మూడో టీ20 ప్రపంచకప్ టైటిల్‌ను కైవసం చేసుకుంది",
+      "summary_te": "అభిషేక్, శాంసన్, కిషన్‌లు హాఫ్ సెంచరీలతో 255 పరుగులు చేసి బుమ్రా చేసిన ఫోర్‌తో భారీ విజయాన్ని సాధించారు.",
+      "translated": true
+    },
     {
       "id": "b3f18a9c05e758a3c47acf5501d30eec",
       "title": "Gambhir dedicates T20 World Cup win to Dravid, Laxman",
@@ -30,20 +44,6 @@
       "language": "en",
       "title_te": "సూర్యకుమార్: LA28 ఒలింపిక్ స్వర్ణం తదుపరి లక్ష్యం",
       "summary_te": "2024 తర్వాత వైట్ బాల్ సైడ్‌ల కోసం అంతా మారిపోయిందని భారత కెప్టెన్ చెప్పాడు",
-      "translated": true
-    },
-    {
-      "id": "7987e396838336a9052882aa7baf0575",
-      "title": "India crush New Zealand for third T20 World Cup title",
-      "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
-      "published_at": "2026-03-08T20:27:22.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్‌ను మట్టికరిపించిన భారత్ మూడో టీ20 ప్రపంచకప్ టైటిల్‌ను కైవసం చేసుకుంది",
-      "summary_te": "అభిషేక్, శాంసన్, కిషన్‌లు హాఫ్ సెంచరీలతో 255 పరుగులు చేసి బుమ్రా చేసిన ఫోర్‌తో భారీ విజయాన్ని సాధించారు.",
       "translated": true
     },
     {
