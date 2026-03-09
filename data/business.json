@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-09T08:44:04.311Z",
-  "updated_at_IST": "9/3/2026, 2:14:04 pm",
+  "updated_at": "2026-03-09T09:48:53.210Z",
+  "updated_at_IST": "9/3/2026, 3:18:53 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "66e2d206188b19bda1b08983c9333831",
+      "title": "Nifty volatility to continue, avoid complacent bets: Rajesh Bhosale",
+      "summary": "Indian equity markets saw a minor recovery on Monday, but experts warn the rally might be short-lived due to persistent volatility. Analysts suggest avoiding aggressive long positions as the market trend remains negative, with key support levels identified at 23,500. While auto stocks like TVS Motor face pressure, the IT sector shows relative strength, with LTIMindtree being a favored pick.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-volatility-to-continue-avoid-complacent-bets-rajesh-bhosale/articleshow/129322567.cms",
+      "image": null,
+      "published_at": "2026-03-09T08:54:56.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "నిఫ్టీ అస్థిరత కొనసాగుతుంది, ఆత్మసంతృప్తి పందాలను నివారించండి: రాజేష్ భోసలే",
+      "summary_te": "భారతీయ ఈక్విటీ మార్కెట్లు సోమవారం స్వల్పంగా పుంజుకున్నాయి, అయితే నిరంతర అస్థిరత కారణంగా ర్యాలీ స్వల్పకాలికంగా ఉండవచ్చని నిపుణులు హెచ్చరిస్తున్నారు. మార్కెట్ ట్రెండ్ ప్రతికూలంగా ఉన్నందున దూకుడు లాంగ్ పొజిషన్‌లను నివారించాలని విశ్లేషకులు సూచిస్తున్నారు, కీలక మద్దతు స్థాయిలు 23,500 వద్ద గుర్తించబడ్డాయి. TVS మోటార్ వంటి ఆటో స్టాక్‌లు ఒత్తిడిని ఎదుర్కొంటున్నప్పటికీ, IT రంగం సాపేక్ష బలాన్ని చూపుతుంది, LTIMindtree ఒక అనుకూలమైన ఎంపిక.",
+      "translated": true
+    },
+    {
+      "id": "d04a16234cf8198869662d42781b12a2",
+      "title": "‘Yikes’: Elon Musk shocked over ChatGPT's role in helping 2 Indian women commit suicide — What did this AI chatbot do?",
+      "summary": "Elon Musk expressed shock over the suicides of two Indian women following ChatGPT interactions. Investigations are ongoing regarding their deaths and digital footprints.",
+      "url": "https://www.livemint.com/news/world/yikes-elon-musk-shocked-over-chatgpts-role-in-helping-2-indian-women-commit-suicide-what-did-this-ai-chatbot-do-11773042353075.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/im-12091268_1770126554825_1773045929345.jpg",
+      "published_at": "2026-03-09T08:49:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘అయ్యో’: ఇద్దరు భారతీయ మహిళలు ఆత్మహత్య చేసుకోవడంలో చాట్‌జిపిటి పాత్రపై ఎలోన్ మస్క్ షాక్ అయ్యారు — ఈ AI చాట్‌బాట్ ఏమి చేసింది?",
+      "summary_te": "ChatGPT పరస్పర చర్యల తర్వాత ఇద్దరు భారతీయ మహిళల ఆత్మహత్యలపై ఎలాన్ మస్క్ దిగ్భ్రాంతి వ్యక్తం చేశారు. వారి మరణాలు మరియు డిజిటల్ పాదముద్రలకు సంబంధించి పరిశోధనలు కొనసాగుతున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "a59437ddd7e73721b581a35d6787f03b",
+      "title": "India remains world’s second-largest arms importer despite push for domestic defence production: SIPRI",
+      "summary": "India remained the world’s second-largest arms importer in 2021–25 despite a slight decline in purchases, reflecting continued security tensions and ongoing defence modernisation, according to SIPRI.",
+      "url": "https://www.livemint.com/news/india/india-remains-world-s-second-largest-arms-importer-despite-push-for-domestic-defence-production-sipri-11773042157022.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/2-0-144603735-sukhoi-4C-0_1681286873653_1773043576373.jpg",
+      "published_at": "2026-03-09T08:27:53.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "దేశీయ రక్షణ ఉత్పత్తికి ఒత్తిడి ఉన్నప్పటికీ భారతదేశం ప్రపంచంలో రెండవ అతిపెద్ద ఆయుధ దిగుమతిదారుగా ఉంది: SIPRI",
+      "summary_te": "SIPRI ప్రకారం, నిరంతర భద్రతా ఉద్రిక్తతలు మరియు కొనసాగుతున్న రక్షణ ఆధునీకరణను ప్రతిబింబిస్తూ, కొనుగోళ్లలో స్వల్ప క్షీణత ఉన్నప్పటికీ, 2021-25లో భారతదేశం ప్రపంచంలో రెండవ అతిపెద్ద ఆయుధ దిగుమతిదారుగా మిగిలిపోయింది.",
+      "translated": true
+    },
     {
       "id": "8b35062750b476566ab8aa600fa5f7a3",
       "title": "Manipuri woman assaulted by group of men in Delhi's Saket, weeks after another racism incident",
@@ -142,20 +184,6 @@
       "language": "en",
       "title_te": "హెచ్చరిక! రిసీవర్లను 'ఇ-పాన్ కార్డ్' డౌన్‌లోడ్ చేయమని అడిగే నకిలీ ఇమెయిల్‌ను ప్రభుత్వం ఫ్లాగ్ చేసింది - మీకు అలాంటి మెయిల్ వస్తే ఏమి చేయాలి",
       "summary_te": "ప్రెస్ ఇన్ఫర్మేషన్ బ్యూరో (PIB) ట్యాగ్‌తో సర్క్యులేట్ అవుతున్న మోసపూరిత ఇమెయిల్ గురించి భారత ప్రభుత్వం పౌరులకు పబ్లిక్ హెచ్చరికను జారీ చేసింది, ఇది గ్రహీతలను 'e-PAN కార్డ్'ని డౌన్‌లోడ్ చేయమని తప్పుగా అడుగుతుంది.",
-      "translated": true
-    },
-    {
-      "id": "cd860b23c18bd62324ce9e6fc51415dc",
-      "title": "War uncertainty deepens market rout; Rajeev Agrawal urges disciplined investing",
-      "summary": "Global stock markets are experiencing high volatility. Geopolitical tensions and rising oil prices are causing sharp sell-offs. Investors are concerned about prolonged conflict and energy supply issues. Experts suggest rotating capital into more attractive companies after corrections. Sectors like financials and renewable energy may offer resilience. A disciplined approach with gradual capital deployment is advised.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/war-uncertainty-deepens-market-rout-rajeev-agrawal-urges-disciplined-investing/articleshow/129315529.cms",
-      "image": null,
-      "published_at": "2026-03-09T06:24:39.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుద్ధ అనిశ్చితి మార్కెట్ పతనాన్ని మరింతగా పెంచుతుంది; రాజీవ్ అగర్వాల్ క్రమశిక్షణతో కూడిన పెట్టుబడిని కోరారు",
-      "summary_te": "గ్లోబల్ స్టాక్ మార్కెట్లు అధిక ఒడిదుడుకులను ఎదుర్కొంటున్నాయి. భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు పెరుగుతున్న చమురు ధరలు పదునైన విక్రయాలకు కారణమవుతున్నాయి. పెట్టుబడిదారులు దీర్ఘకాలిక సంఘర్షణ మరియు శక్తి సరఫరా సమస్యల గురించి ఆందోళన చెందుతున్నారు. దిద్దుబాట్ల తర్వాత మూలధనాన్ని మరింత ఆకర్షణీయమైన కంపెనీలుగా మార్చాలని నిపుణులు సూచిస్తున్నారు. ఆర్థిక మరియు పునరుత్పాదక శక్తి వంటి రంగాలు స్థితిస్థాపకతను అందించవచ్చు. క్రమంగా మూలధన విస్తరణతో క్రమశిక్షణతో కూడిన విధానం సూచించబడుతుంది.",
       "translated": true
     },
     {
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "క్రూడ్ బ్యారెల్‌కు $100 అగ్రస్థానంలో ఉన్నందున చమురు పెరుగుదల 'చెల్లించడానికి చాలా తక్కువ ధర' అని ట్రంప్ చెప్పారు; ధరలు ఎప్పుడు తగ్గుతాయో సూచనలు",
       "summary_te": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ ఇంధన ధరల పెరుగుదలతో అల్లకల్లోలంగా ఉన్న అమెరికన్లకు భరోసా ఇవ్వడానికి ప్రయత్నిస్తున్నారు. మూడు నెలల్లో ముడి చమురు ధరలు రెట్టింపు అయ్యాయి. హార్ముజ్ జలసంధి మూసివేత మధ్య ప్రధాన గల్ఫ్ ఉత్పత్తిదారులు ఉత్పత్తిని తగ్గించారు.",
-      "translated": true
-    },
-    {
-      "id": "35e45b08602bb7d741dd3f2377e296a7",
-      "title": "Zohran Mamdani celebrates Iftar at Vikas Khanna's Bungalow — and their connection goes back decades",
-      "summary": "New York City mayor Zohran Mamdani broke his Ramadan fast at Bungalow, chef Vikas Khanna's New York restaurant. What made the evening remarkable was the backstory — Khanna first met Mamdani in 2001, when the future mayor was just eight years old, brought in by his mother, filmmaker Mira Nair.",
-      "url": "https://www.livemint.com/news/trends/zohran-mamdani-celebrates-iftar-at-vikas-khannas-bungalow-and-their-connection-goes-back-decades-watch-video-11773003205504.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/zohran_mamdani_vikas_khanna_1773005918099_1773005918223.jpg",
-      "published_at": "2026-03-08T21:48:08.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జోహ్రాన్ మమ్దానీ వికాస్ ఖన్నా బంగ్లాలో ఇఫ్తార్ జరుపుకున్నారు - మరియు వారి కనెక్షన్ దశాబ్దాల నాటిది",
-      "summary_te": "న్యూయార్క్ నగర మేయర్ జోహ్రాన్ మమ్దానీ బంగ్లా, చెఫ్ వికాస్ ఖన్నా న్యూయార్క్ రెస్టారెంట్‌లో రంజాన్ ఉపవాసాన్ని విరమించారు. సాయంత్రానికి విశేషమైన నేపథ్యం ఏమిటంటే - ఖన్నా మొదటిసారిగా 2001లో మమదానీని కలిశారు, కాబోయే మేయర్‌కు కేవలం ఎనిమిదేళ్ల వయస్సు ఉన్నప్పుడు, అతని తల్లి, చిత్రనిర్మాత మీరా నాయర్ తీసుకువచ్చారు.",
-      "translated": true
-    },
-    {
-      "id": "f098945abdcfd940865753d9d26311fc",
-      "title": "US Treasury Secretary says ‘working with global oil producers, consumers to maintain stability in energy markets’",
-      "summary": "US Treasury Secretary Scott Bessent stated the Trump administration is collaborating with major oil producers and consumers to stabilize global energy markets amid the West Asia conflict.&nbsp;",
-      "url": "https://www.livemint.com/news/us-news/us-treasury-secretary-says-working-with-global-oil-producers-consumers-to-maintain-stability-in-energy-markets-11772998895966.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/08/1600x900/logo/Trump-29_1772998927857_1772998938152.jpg",
-      "published_at": "2026-03-08T20:07:12.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుఎస్ ట్రెజరీ సెక్రటరీ మాట్లాడుతూ 'ఇంధన మార్కెట్‌లలో స్థిరత్వాన్ని కొనసాగించడానికి ప్రపంచ చమురు ఉత్పత్తిదారులు, వినియోగదారులతో కలిసి పనిచేయడం'",
-      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య ప్రపంచ ఇంధన మార్కెట్లను స్థిరీకరించేందుకు ట్రంప్ పరిపాలన ప్రధాన చమురు ఉత్పత్తిదారులు మరియు వినియోగదారులతో సహకరిస్తోందని US ట్రెజరీ సెక్రటరీ స్కాట్ బెస్సెంట్ తెలిపారు. ",
       "translated": true
     },
     {
