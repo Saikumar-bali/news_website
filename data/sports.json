@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-09T11:40:06.657Z",
-  "updated_at_IST": "9/3/2026, 5:10:06 pm",
+  "updated_at": "2026-03-09T12:44:36.906Z",
+  "updated_at_IST": "9/3/2026, 6:14:36 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "1c3a126474497a5ee249d336e53c0fb7",
+      "title": "Litton Das to bat at No. 5 in ODIs against Pakistan",
+      "summary": "Bangladesh coach Simmons said the wicketkeeper's ability against spin was one of the reasons for the move",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527492.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/406000/406096.jpg",
+      "published_at": "2026-03-09T12:16:09.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
+      "translated": true
+    },
     {
       "id": "099523a095f3d0e559f1c5145713f2fb",
       "title": "Hesson: Pakistan's new faces have 'earned the right to get opportunities'",
@@ -99,7 +113,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "'అతను వెళ్ళడం చూసి బాధగా ఉంది' - NSW షిప్పర్డ్‌ను ట్రోఫీతో పంపించడానికి ప్రేరేపించింది",
-      "summary_te": "వన్-డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించే కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని జోష్ ఫిలిప్ ప్రశంసించాడు.",
+      "summary_te": "జోష్ ఫిలిప్ వన్డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించిన కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని ప్రశంసించాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సదర్లాండ్ యొక్క అద్భుతమైన సెంచరీ మరియు హామిల్టన్ రాత్రి సమయంలో పేలుడు భారతదేశాన్ని చదును చేశాయి",
       "summary_te": "లైట్ల కింద కొత్త బంతిని కలిగి ఉన్న ఆస్ట్రేలియాకు సమయాలు సరిగ్గా పనిచేశాయి మరియు కొద్దిసేపు రెండు రోజుల ముగింపు కోసం ముందుకు సాగాయి.",
-      "translated": true
-    },
-    {
-      "id": "756ee5ee84893ef2fab4e02fd63391d9",
-      "title": "Mulder replaces injured Eathan Bosch for New Zealand T20Is",
-      "summary": "Bosch has been ruled out with a hamstring injury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527230.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401825.jpg",
-      "published_at": "2026-03-07T11:48:29.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్ T20Iలకు గాయపడిన ఈథాన్ బాష్ స్థానంలో ముల్డర్ వచ్చాడు",
-      "summary_te": "బాష్ స్నాయువు గాయంతో జట్టుకు దూరమయ్యాడు",
       "translated": true
     }
   ]
