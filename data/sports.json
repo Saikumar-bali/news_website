@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-03-09T17:53:08.312Z",
-  "updated_at_IST": "9/3/2026, 11:23:08 pm",
+  "updated_at": "2026-03-09T18:47:14.897Z",
+  "updated_at_IST": "10/3/2026, 12:17:14 am",
   "category": "sports",
   "count": 25,
   "articles": [
     {
+      "id": "c53acffebb1ec9840a4340d620f0bb6b",
+      "title": "Bethell named as Birmingham Phoenix captain for 2026 Hundred",
+      "summary": "England batter takes over from Liam Livingstone who has joined London Spirit",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527515.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/386000/386082.jpg",
+      "published_at": "2026-03-09T18:27:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బెథెల్ 2026 వందకు బర్మింగ్‌హామ్ ఫీనిక్స్ కెప్టెన్‌గా ఎంపికయ్యాడు",
+      "summary_te": "లండన్ స్పిరిట్‌లో చేరిన లియామ్ లివింగ్‌స్టోన్ నుండి ఇంగ్లండ్ బ్యాటర్ బాధ్యతలు స్వీకరించాడు",
+      "translated": true
+    },
+    {
       "id": "ae58e8958dc379274142cb701463bcc0",
       "title": "Vibes or fumes? England's McCullum era may have run out of road",
-      "summary": "Flawed but valiant T20 World Cup campaign offers scant proof that Brendon McCullum can recreate the magic",
+      "summary": "Flawed but valiant T20 World Cup campaign offers scant proof that Brendon McCullum can recreate magic",
       "url": "https://www.espncricinfo.com/ci/content/story/1527512.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414581.jpg",
       "published_at": "2026-03-09T17:33:50.000Z",
@@ -71,7 +85,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -85,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -169,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "'అతను వెళ్ళడం చూసి బాధగా ఉంది' - NSW షిప్పర్డ్‌ను ట్రోఫీతో పంపించడానికి ప్రేరేపించింది",
-      "summary_te": "జోష్ ఫిలిప్ వన్డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించిన కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని ప్రశంసించాడు.",
+      "summary_te": "వన్-డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించే కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని జోష్ ఫిలిప్ ప్రశంసించాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "టీ20లు ఆడటం కొనసాగించడానికి లీ తహుహు ODIల నుండి రిటైర్ అయ్యాడు",
       "summary_te": "లీ తహుహు న్యూజిలాండ్ తరపున T20 క్రికెట్ ఆడటం కొనసాగిస్తుంది కానీ 15 ఏళ్ల ODI కెరీర్‌కు సమయం కేటాయించింది.",
-      "translated": true
-    },
-    {
-      "id": "396c2b9d0824e0e2efb51b9266263d0e",
-      "title": "Triumph and disaster: India, New Zealand and a trophy for one",
-      "summary": "India could become the first team to successfully defend the T20 World Cup title; New Zealand are on the hunt for their first World Cup",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527206.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414399.jpg",
-      "published_at": "2026-03-07T18:31:08.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "విజయం మరియు విపత్తు: భారతదేశం, న్యూజిలాండ్ మరియు ఒకరికి ట్రోఫీ",
-      "summary_te": "T20 ప్రపంచ కప్ టైటిల్‌ను విజయవంతంగా కాపాడుకున్న మొదటి జట్టుగా భారతదేశం అవతరిస్తుంది; న్యూజిలాండ్‌ తమ తొలి ప్రపంచకప్‌ వేటలో పడింది",
       "translated": true
     }
   ]

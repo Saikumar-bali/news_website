@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-09T17:53:08.312Z",
-  "last_updated_IST": "9/3/2026, 11:23:08 pm",
-  "total_articles": 398,
+  "last_updated": "2026-03-09T18:47:14.897Z",
+  "last_updated_IST": "10/3/2026, 12:17:14 am",
+  "total_articles": 372,
   "categories": [
     "india",
     "sports",
@@ -13,24 +13,22 @@
   "sources": [
     "The Hindu",
     "ESPNCricinfo",
-    "TechCrunch",
     "Dev.to",
+    "TechCrunch",
     "LiveMint",
-    "Sakshi",
-    "Wired",
     "Hindustan Times",
+    "India Today",
     "Times of India",
-    "NDTV",
     "ZDNet",
-    "The Verge",
+    "NDTV",
+    "Wired",
     "The Hindu Telangana",
+    "The Verge",
     "The Hindu AP",
     "YourStory",
-    "India Today",
     "Economic Times",
     "NDTV India",
-    "Inc42",
-    "Moneycontrol"
+    "Inc42"
   ],
   "feeds_count": 25,
   "data_files": [
