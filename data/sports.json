@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-09T16:58:47.322Z",
-  "updated_at_IST": "9/3/2026, 10:28:47 pm",
+  "updated_at": "2026-03-09T17:53:08.312Z",
+  "updated_at_IST": "9/3/2026, 11:23:08 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ae58e8958dc379274142cb701463bcc0",
+      "title": "Vibes or fumes? England's McCullum era may have run out of road",
+      "summary": "Flawed but valiant T20 World Cup campaign offers scant proof that Brendon McCullum can recreate the magic",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527512.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414581.jpg",
+      "published_at": "2026-03-09T17:33:50.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వైబ్స్ లేదా పొగలు? ఇంగ్లండ్ యొక్క మెకల్లమ్ యుగానికి దారి లేకుండా పోయి ఉండవచ్చు",
+      "summary_te": "లోపభూయిష్టమైన కానీ ధైర్యమైన T20 ప్రపంచ కప్ ప్రచారం బ్రెండన్ మెకల్లమ్ మాయాజాలాన్ని పునఃసృష్టి చేయగలడనడానికి చాలా తక్కువ రుజువును అందిస్తుంది",
+      "translated": true
+    },
+    {
+      "id": "8709cf7995f919ee873d99408af9a1bb",
+      "title": "Devine, Bates and Tahuhu return to New Zealand squad for South Africa T20Is",
+      "summary": "Georgia Plimmer and Flora Devonshire have recovered from injuries and will be part of the series against South Africa",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527511.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389532.jpg",
+      "published_at": "2026-03-09T16:50:34.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డివైన్, బేట్స్ మరియు తహుహు దక్షిణాఫ్రికా T20Iలకు న్యూజిలాండ్ జట్టులోకి తిరిగి వచ్చారు",
+      "summary_te": "జార్జియా ప్లిమ్మర్ మరియు ఫ్లోరా డెవాన్‌షైర్ గాయాల నుండి కోలుకున్నారు మరియు దక్షిణాఫ్రికాతో సిరీస్‌లో భాగం కానున్నారు",
+      "translated": true
+    },
     {
       "id": "abaf2bf0815147f9667fdef8429e10e2",
       "title": "Sri Lanka appoint Gary Kirsten as men's head coach",
@@ -43,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -57,7 +85,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -71,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "'మనం ఒకరినొకరు పైకి లేపాలి' - కిషన్, అభిషేక్ భారత జట్టు నమ్మకాన్ని ప్రశంసించారు",
-      "summary_te": "వ్యక్తిగత పోరాటాలను అధిగమించి ప్రపంచకప్ ఫైనల్‌లో డెలివరీ చేయడంలో భారత్ జట్టు సంస్కృతికి వీరిద్దరూ సహకరించారు",
+      "summary_te": "వ్యక్తిగత పోరాటాలను అధిగమించి ప్రపంచకప్ ఫైనల్‌లో చేరడంలో భారత్ జట్టు సంస్కృతికి వీరిద్దరూ సహకరించారు",
       "translated": true
     },
     {
@@ -99,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గంభీర్: 'మైలురాళ్లను జరుపుకోవడం మానేయండి, ట్రోఫీలను జరుపుకోండి'",
-      "summary_te": "భారత క్రికెట్‌కు చేసిన కృషికి రాహుల్ ద్రవిడ్, వీవీఎస్ లక్ష్మణ్ మరియు అజిత్ అగార్కర్‌లకు కృతజ్ఞతలు తెలిపిన గౌతం గంభీర్",
+      "summary_te": "భారత క్రికెట్‌కు చేసిన కృషికి రాహుల్ ద్రవిడ్, వీవీఎస్ లక్ష్మణ్, అజిత్ అగార్కర్‌లకు కృతజ్ఞతలు తెలిపిన గౌతమ్ గంభీర్",
       "translated": true
     },
     {
@@ -141,7 +169,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "'అతను వెళ్ళడం చూసి బాధగా ఉంది' - NSW షిప్పర్డ్‌ను ట్రోఫీతో పంపించడానికి ప్రేరేపించింది",
-      "summary_te": "జోష్ ఫిలిప్ వన్డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించే కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని ప్రశంసించాడు.",
+      "summary_te": "జోష్ ఫిలిప్ వన్డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించిన కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని ప్రశంసించాడు.",
       "translated": true
     },
     {
@@ -280,7 +308,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "జింబాబ్వేపై అమేలియా కెర్ సెవెన్-ఫర్ స్కిటిల్ న్యూజిలాండ్‌కు వన్డే సిరీస్ విజయాన్ని అందించింది.",
+      "title_te": "జింబాబ్వేపై అమీలియా కెర్ సెవెన్-ఫర్ స్కిటిల్ న్యూజిలాండ్‌కు వన్డే సిరీస్ విజయాన్ని అందించింది.",
       "summary_te": "న్యూజిలాండ్ రెండో వన్డేలో జింబాబ్వేను ఓడించేందుకు కేవలం 45.3 ఓవర్లు మాత్రమే పట్టడంతో మోలీ పెన్‌ఫోల్డ్ మూడు వికెట్లు పడగొట్టింది.",
       "translated": true
     },
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "విజయం మరియు విపత్తు: భారతదేశం, న్యూజిలాండ్ మరియు ఒకరికి ట్రోఫీ",
       "summary_te": "T20 ప్రపంచ కప్ టైటిల్‌ను విజయవంతంగా కాపాడుకున్న మొదటి జట్టుగా భారతదేశం అవతరిస్తుంది; న్యూజిలాండ్‌ తమ తొలి ప్రపంచకప్‌ వేటలో పడింది",
-      "translated": true
-    },
-    {
-      "id": "94d1866d7da7f9615011f3d599efbc51",
-      "title": "Lord's mourns Mick Hunt, legendary groundsman for 49 years",
-      "summary": "Iconic figure oversaw MCC's pitch preparations for almost half a century",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527284.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/279200/279213.jpg",
-      "published_at": "2026-03-07T17:44:51.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "లార్డ్స్ మిక్ హంట్, 49 సంవత్సరాలుగా పురాణ గ్రౌండ్స్‌మెన్‌కు సంతాపం తెలిపారు",
-      "summary_te": "ఐకానిక్ ఫిగర్ దాదాపు అర్ధ శతాబ్దం పాటు MCC యొక్క పిచ్ సన్నాహాలను పర్యవేక్షించాడు",
-      "translated": true
-    },
-    {
-      "id": "d1aa275307dfb26315c8da14a9463449",
-      "title": "'Be courageous in tough situations' - Suryakumar's message to the team",
-      "summary": "\"Of course, there are nerves. There will be butterflies in the stomach. But as I always say, if there is no pressure, there is no fun\"",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527268.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414495.jpg",
-      "published_at": "2026-03-07T15:38:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'కఠినమైన పరిస్థితుల్లో ధైర్యంగా ఉండండి' - సూర్యకుమార్ బృందానికి సందేశం",
-      "summary_te": "\"అఫ్ కోర్స్ నరాలు ఉన్నాయి. కడుపులో సీతాకోక చిలుకలు ఉంటాయి. కానీ నేను ఎప్పటిలానే చెప్పినట్లు ఒత్తిడి లేకపోతే సరదా లేదు\"",
       "translated": true
     }
   ]
