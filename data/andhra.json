@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-09T07:56:44.720Z",
-  "updated_at_IST": "9/3/2026, 1:26:44 pm",
+  "updated_at": "2026-03-09T08:44:04.311Z",
+  "updated_at_IST": "9/3/2026, 2:14:04 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "d4d9860b21623a7810c6e92a0a81d0e0",
+      "title": "Around 30 students fall ill with diarrhoea at AIIMS-Mangalagiri, 10 under observation",
+      "summary": "According to information from the management, the symptoms began on Thursday (March 6) and Friday (March 7) among undergraduate students.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/around-30-students-fall-ill-with-diarrhoea-at-aiims-mangalagiri-10-under-observation/article70721084.ece",
+      "image": null,
+      "published_at": "2026-03-09T05:03:31.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఎయిమ్స్-మంగళగిరిలో సుమారు 30 మంది విద్యార్థులు డయేరియాతో అస్వస్థతకు గురయ్యారు, 10 మంది పరిశీలనలో ఉన్నారు",
+      "summary_te": "యాజమాన్యం నుండి వచ్చిన సమాచారం ప్రకారం, అండర్ గ్రాడ్యుయేట్ విద్యార్థులలో లక్షణాలు గురువారం (మార్చి 6) మరియు శుక్రవారం (మార్చి 7) ప్రారంభమయ్యాయి.",
+      "translated": true
+    },
     {
       "id": "c8f6715facdfff377524590e3e796968",
       "title": "Police cane cricket fans in Vijayawada",
