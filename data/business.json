@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-09T15:59:00.063Z",
-  "updated_at_IST": "9/3/2026, 9:29:00 pm",
+  "updated_at": "2026-03-09T16:58:47.322Z",
+  "updated_at_IST": "9/3/2026, 10:28:47 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "0aa868f69d7a4697a7938283c67111a0",
+      "title": "‘Attack on Cyprus is an attack on Europe,' says Macron as European allies plan to reopen the Strait of Hormuz",
+      "summary": "French President Emmanuel Macron said France and allies are planning a defensive mission to reopen the Strait of Hormuz and escort ships as the US-Israel-Iran war disrupts global trade. He also warned that any attack on Cyprus would be considered an attack on Europe.",
+      "url": "https://www.livemint.com/news/world/attack-on-cyprus-is-an-attack-on-europe-says-macron-as-european-allies-plan-to-reopen-the-strait-of-hormuz-11773071227782.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/PTI02-17-2026-000536B-0_1771343387281_1771343397922_1773071586893.jpg",
+      "published_at": "2026-03-09T16:34:17.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'సైప్రస్‌పై దాడి యూరప్‌పై దాడి' అని యూరోపియన్ మిత్రదేశాలు హార్ముజ్ జలసంధిని తిరిగి తెరవాలని ప్లాన్ చేస్తున్నందున మాక్రాన్ చెప్పారు",
+      "summary_te": "అమెరికా-ఇజ్రాయెల్-ఇరాన్ యుద్ధం ప్రపంచ వాణిజ్యానికి అంతరాయం కలిగిస్తున్నందున హార్ముజ్ జలసంధిని మరియు ఎస్కార్ట్ నౌకలను తిరిగి తెరవడానికి ఫ్రాన్స్ మరియు మిత్రదేశాలు రక్షణాత్మక మిషన్‌ను ప్లాన్ చేస్తున్నాయని ఫ్రెంచ్ అధ్యక్షుడు ఇమ్మాన్యుయేల్ మాక్రాన్ చెప్పారు. సైప్రస్‌పై ఎలాంటి దాడి జరిగినా యూరప్‌పై దాడిగానే పరిగణిస్తామని హెచ్చరించారు.",
+      "translated": true
+    },
+    {
+      "id": "c78e0a19b145ff87d0328671f7f55522",
+      "title": "Meet Bombay Rockers, the Danish-Indian duo behind Dhurandhar 2's breakout song — The comeback nobody saw coming",
+      "summary": "Bombay Rockers, a Danish-Indian duo, gained fame with their debut album and hit single 'Ari Ari.' Their music blends Punjabi folk with Western pop, leading to a strong presence in India. The song is set to feature in the upcoming film Dhurandhar 2, generating significant social media buzz.",
+      "url": "https://www.livemint.com/news/trends/meet-bombay-rockers-the-danish-indian-duo-behind-dhurandhar-2s-breakout-song-ari-ari-the-comeback-nobody-saw-coming-11773070328355.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/bombay_rockers_1773073902150_1773073902344.jpg",
+      "published_at": "2026-03-09T16:34:04.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ధురంధర్ 2 యొక్క అద్భుతమైన పాట వెనుక ఉన్న డానిష్-ఇండియన్ ద్వయం బాంబే రాకర్స్‌ను కలవండి — పునరాగమనం ఎవరూ చూడలేదు",
+      "summary_te": "బాంబే రాకర్స్, డానిష్-ఇండియన్ ద్వయం, వారి తొలి ఆల్బమ్ మరియు హిట్ సింగిల్ 'అరి అరి'తో కీర్తిని పొందింది. వారి సంగీతం పాశ్చాత్య పాప్‌తో పంజాబీ జానపదాలను మిళితం చేస్తుంది, ఇది భారతదేశంలో బలమైన ఉనికికి దారి తీస్తుంది. ఈ పాట రాబోయే చిత్రం ధురంధర్ 2లో ప్రదర్శించబడుతుంది, ఇది గణనీయమైన సోషల్ మీడియా బజ్‌ని సృష్టిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "6198e1df74bddddf0c4045ba71bbe4d4",
+      "title": "FBI probes ‘ISIS-inspired terror act’ after explosives lit outside New York mayor Mamdani’s official residence",
+      "summary": "The Federal Bureau of Investigation and the New York City Police Department are probing an alleged ISIS-inspired terror act after explosive devices were ignited near Gracie Mansion during protests. Zohran Mamdani and his wife were inside but unharmed.",
+      "url": "https://www.livemint.com/news/us-news/fbi-probes-isis-inspired-terror-act-after-explosives-lit-outside-new-york-mayor-mamdani-s-official-residence-11773068535754.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Mamdani-New-York-3_1772304667033_1772304691145_1773068756537.jpg",
+      "published_at": "2026-03-09T15:48:17.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "న్యూయార్క్ మేయర్ మమదానీ అధికారిక నివాసం వెలుపల పేలుడు పదార్థాలు వెలిగించడంతో ఎఫ్‌బిఐ ‘ఐసిస్ ప్రేరేపిత ఉగ్రవాద చర్య’పై దర్యాప్తు చేసింది.",
+      "summary_te": "ఫెడరల్ బ్యూరో ఆఫ్ ఇన్వెస్టిగేషన్ మరియు న్యూయార్క్ సిటీ పోలీస్ డిపార్ట్‌మెంట్ నిరసనల సమయంలో గ్రేసీ మాన్షన్ సమీపంలో పేలుడు పరికరాలను కాల్చిన తర్వాత ISIS-ప్రేరేపిత ఉగ్రవాద చర్యపై విచారణ జరుపుతున్నాయి. జోహ్రాన్ మమ్దానీ మరియు అతని భార్య లోపల ఉన్నారు కానీ క్షేమంగా ఉన్నారు.",
+      "translated": true
+    },
     {
       "id": "6333121e5f86cc8c0ae35c9711c2e2bb",
       "title": "Trump calls on Australia PM Albanese to not send back Iran woman’s soccer team: ‘They will most likely be killed’",
@@ -126,7 +168,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "UPIపై క్రెడిట్ లైన్: ప్రామిస్, ఆపదలు మరియు అవకాశాలు",
+      "title_te": "UPIపై క్రెడిట్ లైన్: వాగ్దానం, ఆపదలు మరియు అవకాశాలు",
       "summary_te": "UPIలో క్రెడిట్ లైన్ల పరిచయం భారతదేశంలో డిజిటల్ ఫైనాన్స్‌ను మార్చగల సామర్థ్యం గురించి పరిశ్రమ నిపుణులలో చర్చను రేకెత్తిస్తోంది. కొందరు దీనిని సహజ పరిణామంగా చూస్తుండగా, మరికొందరు ప్రమాదాలు మరియు సంసిద్ధతపై ఆందోళనలు వ్యక్తం చేస్తున్నారు. సాంప్రదాయ క్రెడిట్ కార్డ్‌లను భర్తీ చేయడానికి ఈ ఆవిష్కరణ సెట్ చేయబడిందా?",
       "translated": true
     },
@@ -355,48 +397,6 @@
       "translated": true
     },
     {
-      "id": "398a167fc8a7d49b21ec4b2261fa3053",
-      "title": "Measles scare in US: Over 100 children exposed in Sacramento County during enrichment programme",
-      "summary": "Measles cases in Washington have surged, with 1,136 reported in early 2026, primarily among unvaccinated youth. As health officials raise alarms over potential outbreaks, the risks of severe illness and complications remain significant, prompting urgent public health responses.",
-      "url": "https://www.livemint.com/news/us-news/measles-scare-in-us-over-100-children-exposed-in-sacramento-county-during-enrichment-programme-11773053195988.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/FILES-US-HEALTH-MEASLES-0_1744000368517_1773053449780.jpg",
-      "published_at": "2026-03-09T11:29:32.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుఎస్‌లో మీజిల్స్ భయాందోళన: శాక్రమెంటో కౌంటీలో సుసంపన్నత కార్యక్రమంలో 100 మందికి పైగా పిల్లలు బహిర్గతమయ్యారు",
-      "summary_te": "వాషింగ్టన్‌లో మీజిల్స్ కేసులు పెరిగాయి, 2026 ప్రారంభంలో 1,136 కేసులు నమోదయ్యాయి, ప్రధానంగా టీకాలు వేయని యువతలో. సంభావ్య వ్యాప్తిపై ఆరోగ్య అధికారులు అలారంలను పెంచడంతో, తీవ్రమైన అనారోగ్యం మరియు సమస్యల ప్రమాదాలు గణనీయంగా ఉంటాయి, తక్షణ ప్రజారోగ్య ప్రతిస్పందనలను ప్రేరేపిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "256652c7b829805a1103a2f48a2dab0e",
-      "title": "‘Should not be accepted as new normal’: Meghalaya Chief Minister on assault of Manipuri woman in Delhi",
-      "summary": "Delhi Police has apprehended a juvenile linked to racial abuse against North East individuals. Following a recent assault in Saket Court, Meghalaya's Chief Minister condemned the violence, urging for action. Police are actively identifying further suspects and supporting the victims.",
-      "url": "https://www.livemint.com/news/should-not-be-accepted-as-new-normal-meghalaya-chief-minister-on-assault-of-manipuri-woman-in-delhi-11773054172425.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Kejriwal-Residence--34_1716467638246_1773055029245.jpg",
-      "published_at": "2026-03-09T11:19:10.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'కొత్త సాధారణమైనదిగా అంగీకరించకూడదు': ఢిల్లీలో మణిపురి మహిళపై దాడిపై మేఘాలయ ముఖ్యమంత్రి",
-      "summary_te": "నార్త్ ఈస్ట్ వ్యక్తులపై జాతి వివక్షతో సంబంధం ఉన్న బాల్యుడిని ఢిల్లీ పోలీసులు అదుపులోకి తీసుకున్నారు. సాకేత్ కోర్టులో ఇటీవల జరిగిన దాడి తరువాత, మేఘాలయ ముఖ్యమంత్రి హింసను ఖండించారు, చర్య తీసుకోవాలని కోరారు. పోలీసులు మరింత ముమ్మరంగా అనుమానితులను గుర్తించి బాధితులను ఆదుకుంటున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "90cd81eb66bc2ad880485134406689f5",
-      "title": "Asim Munir meets Khalid bin Salman as Pakistan, Saudi Arabia mull action to halt Iranian attacks under defence pact",
-      "summary": "Pakistan's military expressed concern over regional stability amid tensions with Iran. High-level discussions with Saudi Arabia focused on joint defence measures against Iranian threats. Protests and violence followed the killing of Iran's leader, complicating Pakistan's own security challenges",
-      "url": "https://www.livemint.com/news/world/pakistans-asim-munir-meets-saudis-khalid-bin-salman-mull-action-to-halt-iranian-attacks-11773053749653.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/IRAN-CRISIS-SAUDI-0_1773055846494_1773055855765.JPG",
-      "published_at": "2026-03-09T11:05:15.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "అసిమ్ మునీర్ ఖలీద్ బిన్ సల్మాన్‌ను కలుసుకున్నాడు, రక్షణ ఒప్పందం ప్రకారం ఇరాన్ దాడులను ఆపడానికి పాకిస్తాన్, సౌదీ అరేబియా చర్యలు తీసుకుంటాయి",
-      "summary_te": "ఇరాన్‌తో ఉద్రిక్తతల మధ్య ప్రాంతీయ స్థిరత్వంపై పాకిస్థాన్ సైన్యం ఆందోళన వ్యక్తం చేసింది. సౌదీ అరేబియాతో ఉన్నత స్థాయి చర్చలు ఇరాన్ బెదిరింపులకు వ్యతిరేకంగా ఉమ్మడి రక్షణ చర్యలపై దృష్టి సారించాయి. ఇరాన్ నాయకుడి హత్య తర్వాత నిరసనలు మరియు హింస, పాకిస్తాన్ యొక్క స్వంత భద్రతా సవాళ్లను క్లిష్టతరం చేసింది",
-      "translated": true
-    },
-    {
       "id": "c35c06fae3e1123ebca447efc787edfc",
       "title": "Strategic oil bets may outperform in current geopolitical crisis: Mark Matthews",
       "summary": "Global markets are grappling with a surge in crude oil prices, with Brent crude exceeding $100. Strategists note that markets are already digesting this shock, impacting Asian markets significantly. India, however, may face less downside due to its recent economic efficiency and ability to purchase Russian oil, though the duration of the conflict remains a key factor.",
@@ -434,7 +434,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "గ్లోబల్ మార్కెట్ | యుఎస్-ఇజ్రాయెల్-ఇరాన్ వివాదం అభివృద్ధి చెందుతున్న-మార్కెట్ల పునరుద్ధరణను పరీక్షించేలా చేసింది",
+      "title_te": "గ్లోబల్ మార్కెట్ | యుఎస్-ఇజ్రాయెల్-ఇరాన్ వివాదం అభివృద్ధి చెందుతున్న మార్కెట్ల పునరుజ్జీవనాన్ని పరీక్షించేలా చేసింది",
       "summary_te": "ఎమర్జింగ్ మార్కెట్ పెట్టుబడులు గణనీయమైన నష్టాలను ఎదుర్కొంటున్నాయి. స్టాక్‌లు, కరెన్సీలు భారీగా పతనమయ్యాయి. బాండ్ రాబడులు పెరిగాయి. అయినప్పటికీ, చాలా పెట్టుబడి సంస్థలు ఈ మార్కెట్ల కోసం దీర్ఘకాలిక దృక్పథం బలంగానే ఉన్నాయని నమ్ముతున్నాయి. వారు US ఆస్తుల నుండి భిన్నత్వం, ఆకర్షణీయమైన వాల్యుయేషన్‌లు మరియు పటిష్టమైన ఆర్థిక వృద్ధిని కీలక డ్రైవర్లుగా పేర్కొంటారు. పెట్టుబడిదారులు మరిన్ని సెక్యూరిటీలను కొనుగోలు చేయడానికి డిప్‌ని ఉపయోగిస్తున్నారు.",
       "translated": true
     },
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "వృద్ధిరేటు, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
-      "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును ఎత్తిచూపారు, అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్ణించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, పన్నుచెల్లింపుదారుల స్థావరాన్ని విస్తరిస్తున్నారని మరియు నిజమైన ఆదాయాలు పెరుగుతున్నాయని పేర్కొంది. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
+      "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును హైలైట్ చేసారు, ఇది అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్గీకరించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, విస్తరిస్తున్న పన్ను చెల్లింపుదారుల స్థావరం మరియు పెరుగుతున్న వాస్తవ ఆదాయాలను ఉటంకిస్తూ. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
       "translated": true
     },
     {
@@ -616,7 +616,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "జనవరిలో తొలిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
+      "title_te": "జనవరిలో మొదటిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
       "summary_te": "పరిమిత బాధ్యత భాగస్వామ్యాలు (LLPలు) కోసం నెలవారీ రిజిస్ట్రేషన్లు జనవరిలో మొదటిసారిగా 10,000ను అధిగమించాయి, ఇది సంవత్సరానికి 60% పెరిగింది. కంపెనీ ఇన్‌కార్పొరేషన్‌లు కూడా దాదాపు 39% గణనీయంగా పెరిగాయి. US మరియు EU లతో ఇటీవలి వాణిజ్య ఒప్పందాలు మరియు అనుకూలమైన పన్ను విధానాల ద్వారా ఊపందుకున్న బలమైన దేశీయ వృద్ధి దృక్పథం ఈ పెరుగుదలలకు కారణమని చెప్పవచ్చు.",
       "translated": true
     },
@@ -841,7 +841,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
