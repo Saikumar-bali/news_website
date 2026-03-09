@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-09T14:11:59.110Z",
-  "updated_at_IST": "9/3/2026, 7:41:59 pm",
+  "updated_at": "2026-03-09T14:57:10.171Z",
+  "updated_at_IST": "9/3/2026, 8:27:10 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "abaf2bf0815147f9667fdef8429e10e2",
+      "title": "Sri Lanka appoint Gary Kirsten as men's head coach",
+      "summary": "Kirsten will take over the reins on April 15 on a two-year contract that runs until April 14 2028",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527505.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/410200/410244.jpg",
+      "published_at": "2026-03-09T14:32:14.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "శ్రీలంక పురుషుల ప్రధాన కోచ్‌గా గ్యారీ కిర్‌స్టన్‌ను నియమించింది",
+      "summary_te": "ఏప్రిల్ 14, 2028 వరకు కొనసాగే రెండేళ్ల కాంట్రాక్ట్‌పై కిర్‌స్టన్ ఏప్రిల్ 15న పగ్గాలు చేపట్టనున్నారు.",
+      "translated": true
+    },
     {
       "id": "a6a59d57d0e1e7fdef768c5827c3f9aa",
       "title": "Afghanistan-Sri Lanka white-ball series set to be postponed due to West Asia conflict",
@@ -29,7 +43,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్‌కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -43,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -127,7 +141,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "'అతను వెళ్ళడం చూసి బాధగా ఉంది' - NSW షిప్పర్డ్‌ను ట్రోఫీతో పంపించడానికి ప్రేరేపించింది",
-      "summary_te": "జోష్ ఫిలిప్ వన్డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించిన కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని ప్రశంసించాడు.",
+      "summary_te": "వన్-డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించే కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని జోష్ ఫిలిప్ ప్రశంసించాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "'కఠినమైన పరిస్థితుల్లో ధైర్యంగా ఉండండి' - సూర్యకుమార్ బృందానికి సందేశం",
       "summary_te": "\"అఫ్ కోర్స్ నరాలు ఉన్నాయి. కడుపులో సీతాకోక చిలుకలు ఉంటాయి. కానీ నేను ఎప్పటిలానే చెప్పినట్లు ఒత్తిడి లేకపోతే సరదా లేదు\"",
-      "translated": true
-    },
-    {
-      "id": "23c0d277950c640e28427d98aa95b6f7",
-      "title": "England, WI and SA to leave India over the weekend on charter flights",
-      "summary": "West Indies have been in India since March 1 due to airspace closures over West Asia",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527194.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413900/413948.jpg",
-      "published_at": "2026-03-07T15:01:52.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఇంగ్లాండ్, WI మరియు SA వారాంతంలో చార్టర్ విమానాలలో భారతదేశం నుండి బయలుదేరుతాయి",
-      "summary_te": "పశ్చిమాసియాలో గగనతలం మూసివేత కారణంగా వెస్టిండీస్ మార్చి 1 నుండి భారతదేశంలో ఉంది",
       "translated": true
     }
   ]

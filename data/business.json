@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-09T14:11:59.110Z",
-  "updated_at_IST": "9/3/2026, 7:41:59 pm",
+  "updated_at": "2026-03-09T14:57:10.171Z",
+  "updated_at_IST": "9/3/2026, 8:27:10 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "4e1f4a4d69b7ca260c8e33f9eefff62b",
+      "title": "Iran-Israel conflict: CBSE postpones class 12 board exams till March 16 in Middle East",
+      "summary": "The CBSE has postponed class 12 board exams in the Middle East until March 16 due to the ongoing Iran-Israel conflict. New dates will be announced later, while further exam schedules will be reviewed on March 14.",
+      "url": "https://www.livemint.com/news/world/iranisrael-conflict-cbse-postpones-class-12-board-exams-till-march-16-in-middle-east-11773065420939.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/CBSE_says_reports_of_board_exam_paper_leak_false__1739782066333_1773065605003.jpg",
+      "published_at": "2026-03-09T14:13:50.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్-ఇజ్రాయెల్ వివాదం: మధ్యప్రాచ్యంలో CBSE 12వ తరగతి బోర్డు పరీక్షలను మార్చి 16 వరకు వాయిదా వేసింది",
+      "summary_te": "ఇరాన్-ఇజ్రాయెల్ వివాదం కారణంగా మధ్యప్రాచ్యంలో CBSE 12వ తరగతి బోర్డు పరీక్షలను మార్చి 16 వరకు వాయిదా వేసింది. కొత్త తేదీలు తర్వాత ప్రకటించబడతాయి, తదుపరి పరీక్షల షెడ్యూల్‌లు మార్చి 14న సమీక్షించబడతాయి.",
+      "translated": true
+    },
+    {
+      "id": "45f20211f305048ef4e70e0d7c65d205",
+      "title": "Credit Line on UPI: Promise, Pitfalls, and Possibilities",
+      "summary": "The introduction of credit lines on UPI is stirring debate among industry experts about its potential to transform digital finance in India. While some see it as a natural evolution, others raise concerns over risks and readiness. Is this innovation set to replace traditional credit cards?",
+      "url": "https://www.livemint.com/news/india/credit-line-on-upi-promise-pitfalls-and-possibilities-11773060954358.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Collage_1773061722839_1773061735317.JPG",
+      "published_at": "2026-03-09T14:10:01.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "UPIపై క్రెడిట్ లైన్: ప్రామిస్, ఆపదలు మరియు అవకాశాలు",
+      "summary_te": "UPIలో క్రెడిట్ లైన్ల పరిచయం భారతదేశంలో డిజిటల్ ఫైనాన్స్‌ను మార్చగల సామర్థ్యం గురించి పరిశ్రమ నిపుణులలో చర్చను రేకెత్తిస్తోంది. కొందరు దీనిని సహజ పరిణామంగా చూస్తుండగా, మరికొందరు ప్రమాదాలు మరియు సంసిద్ధతపై ఆందోళనలు వ్యక్తం చేస్తున్నారు. సాంప్రదాయ క్రెడిట్ కార్డ్‌లను భర్తీ చేయడానికి ఈ ఆవిష్కరణ సెట్ చేయబడిందా?",
+      "translated": true
+    },
+    {
+      "id": "81c19ef1c76ebe931fb58a54614459a0",
+      "title": "Akanksha Singh who ranked 301 in UPSC exam is...: Govt finally clears confusion",
+      "summary": "Two girls, with same name Akanksha Singh and roll number, claimed to have secured rank 301 in the UPSC civil services examination 2025. The UPSC has now cleared the confusion.",
+      "url": "https://www.livemint.com/news/india/akanksha-singh-who-ranked-301-in-upsc-exam-is-govt-finally-clears-confusion-11773064330004.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/CBSE_says_reports_of_board_exam_paper_leak_false__1739782066333_1773064535653.jpg",
+      "published_at": "2026-03-09T13:59:18.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "యూపీఎస్సీ పరీక్షలో 301వ ర్యాంక్ సాధించిన ఆకాంక్ష సింగ్...: ఎట్టకేలకు గందరగోళాన్ని తొలగించిన ప్రభుత్వం",
+      "summary_te": "UPSC సివిల్ సర్వీసెస్ పరీక్ష 2025లో 301వ ర్యాంక్ సాధించినట్లు అదే పేరుతో ఆకాంక్ష సింగ్ మరియు రోల్ నంబర్ ఉన్న ఇద్దరు అమ్మాయిలు పేర్కొన్నారు. UPSC ఇప్పుడు గందరగోళాన్ని తొలగించింది.",
+      "translated": true
+    },
     {
       "id": "1ca0033729a995ab32d96772b6dd1567",
       "title": "Hardik Pandya calls Mahieka Sharma his ‘lucky charm’ after India’s T20 World Cup triumph. Video goes viral",
@@ -62,15 +104,15 @@
     },
     {
       "id": "6b8d6ed23e158abd935c6b6793b2a0f3",
-      "title": "' ₹9 crore spent a day to…’: Jagdambika Pal criticises Opposition's 'immature' behavior in Lok Sabha — As it happened",
-      "summary": "Presiding officer Jagdambika Pal accused the Opposition of wasting taxpayers' money by holding the House “hostage” to its demands.",
+      "title": "‘ ₹9 crore spent a day to…’: Jagdambika Pal criticises Opposition's ‘immature’ behaviour in Lok Sabha — as it happened",
+      "summary": "Presiding officer Jagdambika Pal accused the Opposition of wasting taxpayers' money by holding the House ‘hostage’ to its demands.",
       "url": "https://www.livemint.com/news/india/jagdambika-pal-criticises-opposition-immature-behavior-in-lok-sabha-as-it-happened-rs-9-crore-spent-a-day-to-11773061131025.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/ANI-20260309284-0_1773061241364_1773061248472.jpg",
       "published_at": "2026-03-09T13:07:11.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "'రోజుకు ₹9 కోట్లు ఖర్చుపెట్టారు...': జగదాంబిక పాల్ లోక్‌సభలో ప్రతిపక్షాల 'అపరిపక్వ' ప్రవర్తనను విమర్శించారు - ఇది జరిగినట్లుగా",
+      "title_te": "‘రోజుకు ₹ 9 కోట్లు ఖర్చుపెట్టారు…’: జగదాంబిక పాల్ లోక్‌సభలో ప్రతిపక్షాల ‘అపరిపక్వ’ ప్రవర్తనను విమర్శించింది - ఇది జరిగింది",
       "summary_te": "ప్రతిపక్షాలు తమ డిమాండ్లకు సభను తాకట్టు పెట్టి పన్ను చెల్లింపుదారుల సొమ్మును వృధా చేస్తున్నాయని ప్రిసైడింగ్ అధికారి జగదాంబిక పాల్ ఆరోపించారు.",
       "translated": true
     },
@@ -112,8 +154,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "'చివరి నిమిషంలో గగనతల పరిమితులు' మధ్యప్రాచ్య వివాదం మధ్య మాంచెస్టర్‌కు వెళ్లే విమానం తిరిగి ఢిల్లీకి చేరుకుందని ఇండిగో తెలిపింది",
-      "summary_te": "మిడిల్ ఈస్ట్ వివాదం మధ్య చివరి నిమిషంలో గగనతల పరిమితుల కారణంగా మాంచెస్టర్‌కు వెళ్లే ఇండిగో విమానం 6E 033 ఢిల్లీకి తిరిగి వచ్చింది. ప్రయాణీకులు మరియు సిబ్బందికి భద్రతకు ప్రాధాన్యతనిస్తూనే ప్రయాణాన్ని పునఃప్రారంభించడానికి ఎంపికలను అన్వేషిస్తున్నట్లు ఎయిర్‌లైన్ తెలిపింది.",
+      "title_te": "'చివరి నిమిషంలో గగనతల పరిమితులు' మధ్యప్రాచ్య సంఘర్షణల మధ్య మాంచెస్టర్‌కు వెళ్లే విమానం తిరిగి ఢిల్లీకి చేరుకుందని ఇండిగో తెలిపింది",
+      "summary_te": "మిడిల్ ఈస్ట్ వివాదం మధ్య చివరి నిమిషంలో గగనతల పరిమితుల కారణంగా మాంచెస్టర్‌కు వెళ్లే ఇండిగో విమానం 6E 033 తిరిగి ఢిల్లీకి చేరుకుంది. ప్రయాణీకులు మరియు సిబ్బందికి భద్రతకు ప్రాధాన్యతనిస్తూనే ప్రయాణాన్ని పునఃప్రారంభించడానికి ఎంపికలను అన్వేషిస్తున్నట్లు ఎయిర్‌లైన్ తెలిపింది.",
       "translated": true
     },
     {
@@ -141,7 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యుఎస్-ఇజ్రాయెల్, ఇరాన్ వివాదం: టెహ్రాన్ యొక్క కొత్త అత్యున్నత నాయకుడు మోజ్తాబా ఖమేనీకి రష్యా 'తిరుగులేని మద్దతు'ని ప్రతిజ్ఞ చేసింది",
-      "summary_te": "రష్యా అధ్యక్షుడు వ్లాదిమిర్ పుతిన్ యునైటెడ్ స్టేట్స్ మరియు ఇజ్రాయెల్ దాడుల సమయంలో అలీ ఖమేనీని చంపిన తర్వాత ఇరాన్ యొక్క కొత్త సుప్రీం నాయకుడు మోజ్తాబా ఖమేనీకి \"అచంచలమైన మద్దతు\" ప్రకటించారు. ఇరాన్‌లో నాయకత్వ నిర్ణయాలు తమ అంతర్గత విషయమని, కొత్త నాయకుడిని లక్ష్యంగా చేసుకోవడాన్ని చైనా వ్యతిరేకించింది.",
+      "summary_te": "రష్యా అధ్యక్షుడు వ్లాదిమిర్ పుతిన్ యునైటెడ్ స్టేట్స్ మరియు ఇజ్రాయెల్ దాడుల సమయంలో అలీ ఖమేనీని చంపిన తర్వాత ఇరాన్ యొక్క కొత్త అత్యున్నత నాయకుడు మోజ్తాబా ఖమేనీకి \"తిరుగులేని మద్దతు\" ప్రకటించారు. ఇరాన్‌లో నాయకత్వ నిర్ణయాలు తమ అంతర్గత విషయమని, కొత్త నాయకుడిని లక్ష్యంగా చేసుకోవడాన్ని చైనా వ్యతిరేకించింది.",
       "translated": true
     },
     {
@@ -155,7 +197,7 @@
       "category": "business",
       "language": "en",
       "title_te": "BSE ఇండెక్స్ సర్వీసెస్ BSE SmallCap 500-ఆధారిత మార్కెట్ క్యాప్ మరియు ఫ్యాక్టర్ ఇండెక్స్‌లను ప్రారంభించింది",
-      "summary_te": "BSE ఇండెక్స్ సర్వీసెస్ BSE స్మాల్‌క్యాప్ 500 మరియు నాలుగు కారకాల ఆధారిత సూచికలను ప్రారంభించింది: నాణ్యత 50, మొమెంటం 50, తక్కువ అస్థిరత 50, మరియు మెరుగైన విలువ 50. ఈ నియమాల-ఆధారిత సూచికలు, త్రైమాసికానికి పునర్నిర్మించబడ్డాయి, స్మాల్-క్యాప్ ఈక్విటీలు, బెంచ్‌మార్క్‌లు, పోర్ట్‌ఫోలియో ఫండ్‌లు, పోర్ట్‌మార్క్‌లో బెంచ్‌మార్క్‌లను అందిస్తాయి. పెట్టుబడిదారులు భారతదేశ స్మాల్-క్యాప్ సెగ్మెంట్‌లో విభిన్న కారకాల ఎక్స్‌పోజర్‌లను సంగ్రహిస్తారు.",
+      "summary_te": "BSE ఇండెక్స్ సర్వీసెస్ BSE స్మాల్‌క్యాప్ 500 మరియు నాలుగు కారకాల-ఆధారిత సూచికలను ప్రారంభించింది: నాణ్యత 50, మొమెంటం 50, తక్కువ అస్థిరత 50, మరియు మెరుగైన విలువ 50. ఈ నియమాల-ఆధారిత సూచికలు, త్రైమాసికానికి పునర్నిర్మించబడ్డాయి, స్మాల్-క్యాప్ ఈక్విటీలు, బెంచ్‌మార్క్‌లు, పోర్ట్‌ఫోలియో ఫండ్‌లు, పోర్ట్‌మార్క్‌లో బెంచ్‌మార్క్‌లను అందిస్తాయి. పెట్టుబడిదారులు భారతదేశ స్మాల్-క్యాప్ సెగ్మెంట్‌లో విభిన్న కారకాల ఎక్స్‌పోజర్‌లను సంగ్రహిస్తారు.",
       "translated": true
     },
     {
@@ -168,7 +210,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "DHS షట్‌డౌన్ US అంతటా ప్రయాణానికి అంతరాయం కలిగించింది: TSA సిబ్బంది కొరత కారణంగా హ్యూస్టన్ మరియు న్యూ ఓర్లీన్స్ విమానాశ్రయాలు ఎక్కువగా ప్రభావితమయ్యాయి",
+      "title_te": "DHS షట్‌డౌన్ US అంతటా ప్రయాణానికి అంతరాయం కలిగిస్తుంది: TSA సిబ్బంది కొరత కారణంగా హ్యూస్టన్ మరియు న్యూ ఓర్లీన్స్ విమానాశ్రయాలు ఎక్కువగా ప్రభావితమయ్యాయి",
       "summary_te": "కొనసాగుతున్న DHS షట్‌డౌన్ TSA సిబ్బంది కొరత కారణంగా హ్యూస్టన్ మరియు న్యూ ఓర్లీన్స్‌తో సహా అనేక US విమానాశ్రయాల వద్ద పొడవైన లైన్‌లకు దారితీసింది. ఆలస్యాలు కొనసాగవచ్చు, వేచి ఉండే సమయాలు రెండు గంటల కంటే ఎక్కువగా ఉండే అవకాశం ఉన్నందున ప్రయాణికులు విమానాల కోసం ముందుగానే రావాలని కోరారు.",
       "translated": true
     },
@@ -225,7 +267,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యుఎస్‌లో మీజిల్స్ భయాందోళన: శాక్రమెంటో కౌంటీలో సుసంపన్నత కార్యక్రమంలో 100 మందికి పైగా పిల్లలు బహిర్గతమయ్యారు",
-      "summary_te": "వాషింగ్టన్‌లో మీజిల్స్ కేసులు పెరిగాయి, 2026 ప్రారంభంలో 1,136 కేసులు నమోదయ్యాయి, ప్రధానంగా టీకాలు వేయని యువతలో. ఆరోగ్య అధికారులు సంభావ్య వ్యాప్తిపై హెచ్చరికలను పెంచడంతో, తీవ్రమైన అనారోగ్యం మరియు సమస్యల ప్రమాదాలు గణనీయంగా ఉంటాయి, తక్షణ ప్రజారోగ్య ప్రతిస్పందనలను ప్రేరేపిస్తుంది.",
+      "summary_te": "వాషింగ్టన్‌లో మీజిల్స్ కేసులు పెరిగాయి, 2026 ప్రారంభంలో 1,136 కేసులు నమోదయ్యాయి, ప్రధానంగా టీకాలు వేయని యువతలో. సంభావ్య వ్యాప్తిపై ఆరోగ్య అధికారులు అలారంలను పెంచడంతో, తీవ్రమైన అనారోగ్యం మరియు సమస్యల ప్రమాదాలు గణనీయంగా ఉంటాయి, తక్షణ ప్రజారోగ్య ప్రతిస్పందనలను ప్రేరేపిస్తుంది.",
       "translated": true
     },
     {
@@ -253,7 +295,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అసిమ్ మునీర్ ఖలీద్ బిన్ సల్మాన్‌ను కలుసుకున్నాడు, రక్షణ ఒప్పందం ప్రకారం ఇరాన్ దాడులను ఆపడానికి పాకిస్తాన్, సౌదీ అరేబియా చర్యలు తీసుకుంటాయి",
-      "summary_te": "ఇరాన్‌తో ఉద్రిక్తతల మధ్య ప్రాంతీయ స్థిరత్వంపై పాకిస్థాన్ సైన్యం ఆందోళన వ్యక్తం చేసింది. సౌదీ అరేబియాతో ఉన్నత స్థాయి చర్చలు ఇరాన్ బెదిరింపులకు వ్యతిరేకంగా ఉమ్మడి రక్షణ చర్యలపై దృష్టి సారించాయి. ఇరాన్ నాయకుడి హత్య తరువాత నిరసనలు మరియు హింస, పాకిస్తాన్ యొక్క స్వంత భద్రతా సవాళ్లను క్లిష్టతరం చేసింది",
+      "summary_te": "ఇరాన్‌తో ఉద్రిక్తతల మధ్య ప్రాంతీయ స్థిరత్వంపై పాకిస్థాన్ సైన్యం ఆందోళన వ్యక్తం చేసింది. సౌదీ అరేబియాతో ఉన్నత స్థాయి చర్చలు ఇరాన్ బెదిరింపులకు వ్యతిరేకంగా ఉమ్మడి రక్షణ చర్యలపై దృష్టి సారించాయి. ఇరాన్ నాయకుడి హత్య తర్వాత నిరసనలు మరియు హింస, పాకిస్తాన్ యొక్క స్వంత భద్రతా సవాళ్లను క్లిష్టతరం చేసింది",
       "translated": true
     },
     {
@@ -338,48 +380,6 @@
       "language": "en",
       "title_te": "‘బెంగళూరుకు పిచ్చి ఉంది’: బెంగళూరు టెక్కీ సాధారణ నెలవారీ ఖర్చుగా ₹1.65 లక్షలు ఖర్చు చేస్తాడు; సోషల్ మీడియా స్పందిస్తుంది",
       "summary_te": "బెంగుళూరులోని 32 ఏళ్ల టెక్ ప్రొఫెషనల్ నెలకు ₹1.65 లక్షలు, ప్రధానంగా అద్దె, AI సబ్‌స్క్రిప్షన్‌లు, వైద్య ఖర్చులు మరియు ప్రయాణానికి ఖర్చు చేస్తున్నట్లు వైరల్ పోస్ట్ వెల్లడించింది. ",
-      "translated": true
-    },
-    {
-      "id": "b2dcdd6536775e53ab66a8a5577cd1f6",
-      "title": "‘Coach was their personal studio’: Passenger’s viral post on train chaos sparks conversation about civic sense",
-      "summary": "A passenger travelling from Bilaspur to Lucknow on the Gareebrath Express said his train journey turned into a “live reality show” after a group allegedly blasted music, danced and filmed reels inside the coach. His viral post has reignited a debate online about civic sense during train travel.",
-      "url": "https://www.livemint.com/news/trends/coach-was-their-personal-studio-passenger-s-viral-post-on-train-chaos-sparks-conversation-about-civic-sense-11773049178580.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/Web_Photo_Editor_1773049511508_1773049520971.jpg",
-      "published_at": "2026-03-09T09:49:51.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'కోచ్ వారి వ్యక్తిగత స్టూడియో': రైలు గందరగోళంపై ప్రయాణీకుల వైరల్ పోస్ట్ పౌర భావం గురించి సంభాషణను రేకెత్తిస్తుంది",
-      "summary_te": "గరీబ్రత్ ఎక్స్‌ప్రెస్‌లో బిలాస్‌పూర్ నుండి లక్నోకు ప్రయాణిస్తున్న ఒక ప్రయాణీకుడు తన రైలు ప్రయాణం \"లైవ్ రియాలిటీ షో\"గా మారిందని, ఒక బృందం కోచ్‌లో సంగీతాన్ని పేల్చడం, డ్యాన్స్ చేయడం మరియు చిత్రీకరించడం వంటివి చేశాయని చెప్పాడు. అతని వైరల్ పోస్ట్ రైలు ప్రయాణ సమయంలో పౌర భావం గురించి ఆన్‌లైన్‌లో చర్చను రేకెత్తించింది.",
-      "translated": true
-    },
-    {
-      "id": "e7185410c10f9b4a74eea8d5f0fb4d15",
-      "title": "Migratory bird breaks longest non-stop flight record: How a ‘bar-tailed godwit’ flew 13,560 km for 11 days",
-      "summary": "A bar-tailed godwit, a shorebird weighing only a few hundred grams, completed an astonishing non-stop flight of about 13,560 kilometres from Alaska to Australia without landing even once. Read here to know more about the flight.",
-      "url": "https://www.livemint.com/news/trends/migratory-bird-breaks-longest-non-stop-flight-record-how-a-bar-tailed-godwit-flew-13-560-km-for-11-days-11773046360031.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/jj_1773048788060_1773048788275.jpeg",
-      "published_at": "2026-03-09T09:39:23.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "వలస పక్షి పొడవైన నాన్‌స్టాప్ ఫ్లైట్ రికార్డ్‌ను బద్దలు కొట్టింది: 'బార్-టెయిల్డ్ గాడ్‌విట్' 11 రోజుల పాటు 13,560 కి.మీ.",
-      "summary_te": "బార్-టెయిల్డ్ గాడ్‌విట్, కేవలం కొన్ని వందల గ్రాముల బరువున్న తీరపక్షి, ఒక్కసారి కూడా దిగకుండానే అలాస్కా నుండి ఆస్ట్రేలియా వరకు దాదాపు 13,560 కిలోమీటర్ల నాన్‌స్టాప్ ఫ్లైట్‌ను పూర్తి చేసింది. విమానం గురించి మరింత తెలుసుకోవడానికి ఇక్కడ చదవండి.",
-      "translated": true
-    },
-    {
-      "id": "d04a16234cf8198869662d42781b12a2",
-      "title": "‘Yikes’: Elon Musk shocked over ChatGPT's role in helping 2 Indian women commit suicide — What did this AI chatbot do?",
-      "summary": "Elon Musk expressed shock over the suicides of two Indian women following ChatGPT interactions. Investigations are ongoing regarding their deaths and digital footprints.",
-      "url": "https://www.livemint.com/news/world/yikes-elon-musk-shocked-over-chatgpts-role-in-helping-2-indian-women-commit-suicide-what-did-this-ai-chatbot-do-11773042353075.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/09/1600x900/logo/im-12091268_1770126554825_1773045929345.jpg",
-      "published_at": "2026-03-09T08:49:40.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘అయ్యో’: ఇద్దరు భారతీయ మహిళలు ఆత్మహత్య చేసుకోవడంలో చాట్‌జిపిటి పాత్రపై ఎలోన్ మస్క్ షాక్ అయ్యారు — ఈ AI చాట్‌బాట్ ఏమి చేసింది?",
-      "summary_te": "ChatGPT పరస్పర చర్యల తర్వాత ఇద్దరు భారతీయ మహిళల ఆత్మహత్యలపై ఎలాన్ మస్క్ దిగ్భ్రాంతి వ్యక్తం చేశారు. వారి మరణాలు మరియు డిజిటల్ పాదముద్రలకు సంబంధించి పరిశోధనలు కొనసాగుతున్నాయి.",
       "translated": true
     },
     {
