@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-10T12:43:53.892Z",
-  "updated_at_IST": "10/3/2026, 6:13:53 pm",
+  "updated_at": "2026-03-10T14:06:42.240Z",
+  "updated_at_IST": "10/3/2026, 7:36:42 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "b63674be9988cce19813db7e4878271f",
+      "title": "Afridi focuses on the future as Pakistan go with three debutants",
+      "summary": "After batting in different positions, Mehidy confirmed he will slot in at No. 7 for Bangladesh",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527546.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414585.jpg",
+      "published_at": "2026-03-10T13:04:50.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్ ముగ్గురు అరంగేట్ర ఆటగాళ్లతో వెళ్లడంతో అఫ్రిది భవిష్యత్తుపై దృష్టి సారించాడు",
+      "summary_te": "వివిధ స్థానాల్లో బ్యాటింగ్ చేసిన తర్వాత, బంగ్లాదేశ్ తరపున తాను 7వ స్థానంలో ఉంటానని మెహిదీ ధృవీకరించాడు",
+      "translated": true
+    },
     {
       "id": "f0ecfecd2c56dd52f8b2566832eba302",
       "title": "Casson tasked with leading Western Australia's revival",
@@ -310,20 +324,6 @@
       "language": "en",
       "title_te": "ఫైనల్‌లో మ్యాచ్ విన్నింగ్ స్పెల్‌పై బుమ్రా: 'అన్ని అమలు ప్రణాళిక ప్రకారం జరిగింది'",
       "summary_te": "టీ20లో బుమ్రా 15 పరుగులకు 4 వికెట్లు కోల్పోయి కెరీర్‌లో అత్యుత్తమ ఆటతీరును సాధించి భారత టైటిల్‌ను కైవసం చేసుకున్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "99a8687ddd3f0deb52357bba5032863f",
-      "title": "Samson grateful for Tendulkar's guidance after feeling 'broke'",
-      "summary": "Sanju Samson was the Player of the Tournament for scoring 321 runs in five matches at a strike rate of 199.37",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527422.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414534.jpg",
-      "published_at": "2026-03-09T05:11:30.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'విరిగిపోయిన' అనుభూతి తర్వాత టెండూల్కర్ మార్గదర్శకత్వం కోసం శాంసన్ కృతజ్ఞతలు తెలిపాడు",
-      "summary_te": "ఐదు మ్యాచ్‌లలో 199.37 స్ట్రైక్ రేట్‌తో 321 పరుగులు చేసిన సంజు శాంసన్ ప్లేయర్ ఆఫ్ ద టోర్నమెంట్‌గా నిలిచాడు.",
       "translated": true
     },
     {
