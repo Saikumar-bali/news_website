@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-03-10T05:17:33.527Z",
-  "updated_at_IST": "10/3/2026, 10:47:33 am",
+  "updated_at": "2026-03-10T06:47:30.230Z",
+  "updated_at_IST": "10/3/2026, 12:17:30 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "86626ee85e447ae142c7fcc3f2e17680",
+      "title": "Hayden appointed as Gujarat Titans batting coach",
+      "summary": "This will be Hayden's first coaching stint in the IPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527526.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400288.jpg",
+      "published_at": "2026-03-10T06:26:16.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గుజరాత్ టైటాన్స్ బ్యాటింగ్ కోచ్‌గా హేడెన్ నియమితుడయ్యాడు",
+      "summary_te": "ఐపీఎల్‌లో హేడెన్‌కి ఇదే తొలి కోచింగ్‌",
+      "translated": true
+    },
+    {
+      "id": "b1f37f8074c7cf26b8b7ac798d54471b",
+      "title": "'I've almost rebirthed myself at 38' - Bates targets T20 World Cup after injury layoff",
+      "summary": "With Gaze set to retain her spot at the top, Bates is preparing for a new role in the middle order",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527525.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408414.jpg",
+      "published_at": "2026-03-10T06:16:20.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'నేను దాదాపు 38 సంవత్సరాల వయస్సులో పునర్జన్మ పొందాను' - గాయం తొలగింపు తర్వాత బేట్స్ T20 ప్రపంచ కప్‌ను లక్ష్యంగా చేసుకున్నాడు",
+      "summary_te": "గాజ్ అగ్రస్థానంలో తన స్థానాన్ని నిలుపుకోవడంతో, బేట్స్ మిడిల్ ఆర్డర్‌లో కొత్త పాత్ర కోసం సిద్ధమవుతున్నాడు",
+      "translated": true
+    },
     {
       "id": "d6d96578021603355275ca55ba2b4cc2",
       "title": "Jonassen stands down as Queensland and Brisbane Heat captain",
       "summary": "The allrounder, who has recently returned from injury, had held the roles since 2020",
       "url": "https://www.espncricinfo.com/ci/content/story/1527523.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/391600/391615.jpg",
-      "published_at": "2026-03-10T04:55:59.000Z",
+      "published_at": "2026-03-10T05:08:56.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -127,7 +155,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -141,7 +169,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "భారత్‌పై పది వికెట్ల విధ్వంసంతో ఆస్ట్రేలియా హీలీకి వీడ్కోలు పలికింది",
       "summary_te": "ప్రతీకా రావల్ హాఫ్ సెంచరీ చేసి ఆస్ట్రేలియాను మళ్లీ బ్యాటింగ్ చేసేలా చేసింది, అయితే జార్జియా వోల్ మరియు ఫోబ్ లిచ్‌ఫీల్డ్ 25 పరుగుల స్వల్ప లక్ష్యాన్ని పడగొట్టి కేవలం రెండు రోజుల్లోనే టెస్టును ముగించారు.",
-      "translated": true
-    },
-    {
-      "id": "ca513bc22ddf0a1e80b45f2c3c9ebc95",
-      "title": "Queensland final hopes stay alive as rain thwarts WA",
-      "summary": "Just five overs were bowled on Sunday as the Sheffield Shield match between Western Australia and Queensland finished in a draw",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527316.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414507.jpg",
-      "published_at": "2026-03-08T07:14:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వర్షం WAని అడ్డుకోవడంతో క్వీన్స్‌లాండ్ ఫైనల్ ఆశలు సజీవంగా ఉన్నాయి",
-      "summary_te": "వెస్ట్రన్ ఆస్ట్రేలియా మరియు క్వీన్స్‌లాండ్ మధ్య జరిగిన షెఫీల్డ్ షీల్డ్ మ్యాచ్ డ్రాగా ముగియడంతో ఆదివారం కేవలం ఐదు ఓవర్లు బౌల్ చేయబడ్డాయి.",
-      "translated": true
-    },
-    {
-      "id": "7a92ed8ce413e0e60189dfefcf5af9a9",
-      "title": "Zimbabwe batter Ndhlovu taken for scans after being hit by Illing bouncer",
-      "summary": "\"She's responding now, which is really lovely to hear,\" Zimbabwe coach Kate Ebrahim says of Kelis Ndhlovu",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527307.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414501.jpg",
-      "published_at": "2026-03-08T06:37:14.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "జింబాబ్వే బ్యాటర్ నధ్లోవును ఇల్లింగ్ బౌన్సర్ కొట్టిన తర్వాత స్కాన్ కోసం తీసుకున్నారు",
-      "summary_te": "జింబాబ్వే కోచ్ కేట్ ఎబ్రహీం కెలిస్ నధ్లోవు గురించి మాట్లాడుతూ, \"ఆమె ఇప్పుడు స్పందిస్తోంది, ఇది వినడానికి నిజంగా మనోహరంగా ఉంది.",
       "translated": true
     }
   ]
