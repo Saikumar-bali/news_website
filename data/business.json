@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-10T17:52:46.162Z",
-  "updated_at_IST": "10/3/2026, 11:22:46 pm",
+  "updated_at": "2026-03-10T18:45:00.635Z",
+  "updated_at_IST": "11/3/2026, 12:15:00 am",
   "category": "business",
-  "count": 65,
+  "count": 50,
   "articles": [
+    {
+      "id": "26c44c64ff31f2157c0af3201488ec3b",
+      "title": "NYPD investigates suspicious package near Gracie Mansion, home of Mayor Zohran Mamdani",
+      "summary": "Police shut down vehicular and pedestrian traffic along East End Avenue between East 85th and 87th Streets, as well as East 86th Street between York and East End Avenues and parts of Carl Schurz Park.",
+      "url": "https://www.livemint.com/news/us-news/nypd-investigates-suspicious-package-near-gracie-mansion-home-of-mayor-zohran-mamdani-11773166182964.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/NEW-YORK-MAYOR-EXPLOSIVE-51_1773166591090_1773166602705.JPG",
+      "published_at": "2026-03-10T18:18:20.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "NYPD మేయర్ జోహ్రాన్ మమ్దానీ ఇంటి గ్రేసీ మాన్షన్ సమీపంలో అనుమానాస్పద ప్యాకేజీని పరిశీలిస్తుంది",
+      "summary_te": "ఈస్ట్ 85వ మరియు 87వ వీధుల మధ్య ఈస్ట్ ఎండ్ అవెన్యూ వెంబడి, అలాగే యార్క్ మరియు ఈస్ట్ ఎండ్ అవెన్యూలు మరియు కార్ల్ షుర్జ్ పార్క్ భాగాల మధ్య తూర్పు 86వ వీధిలో వాహనాలు మరియు పాదచారుల ట్రాఫిక్‌ను పోలీసులు మూసివేశారు.",
+      "translated": true
+    },
+    {
+      "id": "a7cb7e1cca1ac9ba59193b2ead66153a",
+      "title": "Maharashtra Ladki Bahin Yojana: 90 lakh beneficiaries struck off list, most in Beed, says report",
+      "summary": "The names were reportedly struck off following an audit. The decision was driven by a sophisticated digital system ‘digital dragnet’ that compared the applicant details with tax and vehicle registration records.",
+      "url": "https://www.livemint.com/news/india/maharashtra-ladki-bahin-yojana-90-lakh-beneficiaries-struck-off-list-most-in-beed-says-report-11773162483211.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/The-Ladki-Bahin-Yojana-entitles-poor-women-aged-21_1773164536364_1773164575545.jpg",
+      "published_at": "2026-03-10T17:46:36.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మహారాష్ట్ర లడ్కీ బహిన్ యోజన: 90 లక్షల మంది లబ్ధిదారులు జాబితా నుండి తొలగించబడ్డారు, ఎక్కువ మంది బీడ్‌లో ఉన్నారని నివేదిక పేర్కొంది",
+      "summary_te": "ఆడిట్ తర్వాత పేర్లు కొట్టివేయబడినట్లు సమాచారం. దరఖాస్తుదారు వివరాలను పన్ను మరియు వాహన రిజిస్ట్రేషన్ రికార్డులతో పోల్చిన అధునాతన డిజిటల్ సిస్టమ్ 'డిజిటల్ డ్రాగ్‌నెట్' ద్వారా ఈ నిర్ణయం తీసుకోబడింది.",
+      "translated": true
+    },
+    {
+      "id": "641563322f292253f9ba32194a582850",
+      "title": "Erika Kirk replaces late husband Charlie Kirk on US Air Force Academy advisory board after Trump appointment",
+      "summary": "The board advises the US Department of Defense on key issues including academic standards, cadet morale and financial management.",
+      "url": "https://www.livemint.com/news/us-news/erika-kirk-replaces-late-husband-charlie-kirk-on-us-air-force-academy-advisory-board-after-trump-appointment-11773163698586.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/USA-TRUMP-CONGRESS-446_1773164210116_1773164233991.JPG",
+      "published_at": "2026-03-10T17:39:16.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ట్రంప్ నియామకం తర్వాత US ఎయిర్ ఫోర్స్ అకాడమీ అడ్వైజరీ బోర్డులో దివంగత భర్త చార్లీ కిర్క్ స్థానంలో ఎరికా కిర్క్ ఉన్నారు",
+      "summary_te": "అకడమిక్ స్టాండర్డ్స్, క్యాడెట్ నైతికత మరియు ఆర్థిక నిర్వహణ వంటి కీలక సమస్యలపై US డిపార్ట్‌మెంట్ ఆఫ్ డిఫెన్స్‌కు బోర్డు సలహా ఇస్తుంది.",
+      "translated": true
+    },
     {
       "id": "6deaf02dfc68114dc220e8f7fdcaccff",
       "title": "Rahul Gandhi keeps promise, attends farmer’s daughter’s wedding in Haryana | See pic",
@@ -70,8 +112,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "పింక్ ఫ్లాయిడ్ ద్వారా కోట్ ఆఫ్ ది డే: 'ఆపై ఒక రోజు మీరు పదేళ్లు వెనుకబడి ఉన్నారని కనుగొన్నారు...'",
-      "summary_te": "రోజర్ వాటర్స్ రచించిన పింక్ ఫ్లాయిడ్ యొక్క 'టైమ్,' జీవితం యొక్క ఆవశ్యకతను మరియు కోల్పోయిన అవకాశాలను విశ్లేషిస్తుంది. పాట యొక్క ప్రతిబింబ సాహిత్యం జీవితం సంసిద్ధత కోసం వేచి ఉండదని శ్రోతలకు గుర్తుచేస్తుంది, నేటి వేగవంతమైన ప్రపంచంలో దాని సందేశాన్ని మరింత సందర్భోచితంగా చేస్తుంది.",
+      "title_te": "పింక్ ఫ్లాయిడ్ యొక్క కోట్ ఆఫ్ ది డే: 'ఆ తర్వాత ఒక రోజు మీరు పదేళ్లు వెనుకబడి ఉన్నారని మీరు కనుగొంటారు...'",
+      "summary_te": "రోజర్ వాటర్స్ రచించిన పింక్ ఫ్లాయిడ్ యొక్క 'టైమ్,' జీవితం యొక్క ఆవశ్యకతను మరియు కోల్పోయిన అవకాశాలను విశ్లేషిస్తుంది. పాట యొక్క ప్రతిబింబ సాహిత్యం శ్రోతలకు జీవితం సంసిద్ధత కోసం వేచి ఉండదని గుర్తుచేస్తుంది, నేటి వేగవంతమైన ప్రపంచంలో దాని సందేశాన్ని మరింత సందర్భోచితంగా చేస్తుంది.",
       "translated": true
     },
     {
@@ -85,7 +127,7 @@
       "category": "business",
       "language": "en",
       "title_te": "విమానం మధ్యలో కాక్‌పిట్‌లో మాజీ క్యాబిన్ సిబ్బంది కూర్చున్న వీడియో వైరల్ కావడంతో ఎయిర్ ఇండియా దర్యాప్తు ప్రారంభించింది",
-      "summary_te": "ఎయిరిండియా మాజీ క్యాబిన్ సిబ్బంది విమానంలో కాక్‌పిట్ లోపల కూర్చున్నట్లు ఆరోపించబడిన వైరల్ వీడియో ఆన్‌లైన్‌లో చర్చకు దారితీసింది. అంతర్గత విచారణ ప్రారంభించినట్లు ఎయిర్‌లైన్స్ తెలిపింది.",
+      "summary_te": "ఎయిర్ ఇండియా మాజీ క్యాబిన్ క్రూ సభ్యుడు విమానంలో కాక్‌పిట్ లోపల కూర్చున్నట్లు ఆరోపించిన వైరల్ వీడియో ఆన్‌లైన్‌లో చర్చకు దారితీసింది. అంతర్గత విచారణ ప్రారంభించినట్లు ఎయిర్‌లైన్స్ తెలిపింది.",
       "translated": true
     },
     {
@@ -141,7 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యుఎస్-ఇజ్రాయెల్-ఇరాన్ యుద్ధం: మంగళవారం 'అత్యంత తీవ్రమైన దాడుల రోజు' అని రక్షణ మంత్రి పీట్ హెగ్‌సేత్ హెచ్చరించారు",
-      "summary_te": "యుఎస్ డిఫెన్స్ సెక్రటరీ పీట్ హెగ్‌సేత్ మాట్లాడుతూ, ఇరాన్‌లో యుఎస్ దాడులు 11వ రోజుకు చేరుకోవడంతో మంగళవారం అత్యంత తీవ్రమైన రోజు అని అన్నారు. ఇరాన్ యొక్క పాలనను కూల్చివేస్తానని ఇజ్రాయెల్ యొక్క PM ప్రతిజ్ఞ చేయగా, టెహ్రాన్ మోజ్తాబా ఖమేనీని సుప్రీం నాయకుడిగా పేర్కొంది మరియు పెరుగుతున్న బెదిరింపులకు వ్యతిరేకంగా డొనాల్డ్ ట్రంప్‌ను హెచ్చరించింది.",
+      "summary_te": "యుఎస్ డిఫెన్స్ సెక్రటరీ పీట్ హెగ్‌సేత్ మాట్లాడుతూ, ఇరాన్‌లో యుఎస్ దాడులు 11వ రోజుకు చేరుకోవడంతో మంగళవారం అత్యంత తీవ్రమైన రోజు. ఇరాన్ పాలనను కూల్చివేస్తానని ఇజ్రాయెల్ యొక్క PM ప్రతిజ్ఞ చేయగా, టెహ్రాన్ మోజ్తాబా ఖమేనీని సుప్రీం నాయకుడిగా పేర్కొంది మరియు పెరుగుతున్న బెదిరింపులకు వ్యతిరేకంగా డొనాల్డ్ ట్రంప్‌ను హెచ్చరించింది.",
       "translated": true
     },
     {
@@ -183,7 +225,7 @@
       "category": "business",
       "language": "en",
       "title_te": "కోట్ ఆఫ్ ది డే: ‘ఏ మ్యాన్ హూ ప్రొక్రాస్టినేట్స్…’ — హంటర్ ఎస్. థాంప్సన్ యొక్క ప్రసిద్ధ పదాల వెనుక జీవిత పాఠం",
-      "summary_te": "హంటర్ S. థాంప్సన్ యొక్క ఉల్లేఖనం, \"తన ఎంపికను వాయిదా వేసే వ్యక్తి తప్పనిసరిగా పరిస్థితిని బట్టి అతని కోసం ఎంపిక చేసుకుంటాడు\" అని నిర్ణయాలను ఆలస్యం చేయడం వల్ల కలిగే ప్రమాదాలను హైలైట్ చేస్తుంది.",
+      "summary_te": "హంటర్ S. థాంప్సన్ యొక్క ఉల్లేఖనం, \"తన ఎంపికను వాయిదా వేసే వ్యక్తి తప్పనిసరిగా పరిస్థితులను బట్టి అతని కోసం ఎంపిక చేసుకుంటాడు\" అని నిర్ణయాలను ఆలస్యం చేయడం వల్ల కలిగే ప్రమాదాలను హైలైట్ చేస్తుంది.",
       "translated": true
     },
     {
@@ -211,7 +253,7 @@
       "category": "business",
       "language": "en",
       "title_te": "పోల్‌లో ఎక్కువ మంది అమెరికన్లు ఇరాన్‌పై దాడిని వ్యతిరేకిస్తున్నారని, 77% మంది ప్రతీకారంగా యుఎస్ గడ్డపై ఉగ్రవాద దాడికి భయపడుతున్నారని చూపిస్తుంది",
-      "summary_te": "మెజారిటీ అమెరికన్ ఓటర్లు ఇరాన్‌లోకి గ్రౌండ్ ట్రూప్‌లను పంపడానికి మద్దతు ఇవ్వరు, అయితే వివాదం త్వరగా ముగుస్తుందని వారు ఆశించరు. చాలా మంది ఇరాన్‌పై అమెరికా దాడికి మద్దతు ఇవ్వనప్పటికీ, ప్రతీకారంగా యుఎస్ గడ్డపై ఉగ్రదాడి జరుగుతుందని చాలా మంది భయపడుతున్నారు",
+      "summary_te": "మెజారిటీ అమెరికన్ ఓటర్లు ఇరాన్‌లోకి గ్రౌండ్ ట్రూప్‌లను పంపడానికి మద్దతు ఇవ్వరు, అయితే వివాదం త్వరగా ముగిసిపోతుందని వారు ఆశించరు. చాలా మంది ఇరాన్‌పై అమెరికా దాడికి మద్దతు ఇవ్వనప్పటికీ, ప్రతీకారంగా యుఎస్ గడ్డపై ఉగ్రదాడి జరుగుతుందని చాలా మంది భయపడుతున్నారు",
       "translated": true
     },
     {
@@ -266,7 +308,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్‌తో యుఎస్-ఇజ్రాయెల్ యుద్ధం ప్రపంచ ఇంధన సరఫరాను మెరుగుపరుస్తుంది కాబట్టి రష్యా కీలక విజేతగా అవతరించగలదని నివేదిక పేర్కొంది",
+      "title_te": "ఇరాన్‌తో యుఎస్-ఇజ్రాయెల్ యుద్ధం ప్రపంచ ఇంధన సరఫరాను మెరుగుపరుస్తుంది కాబట్టి రష్యా కీలక విజేతగా అవతరించవచ్చని నివేదిక పేర్కొంది",
       "summary_te": "ఇరాన్‌తో యుఎస్-ఇజ్రాయెల్ యుద్ధం చమురు ధరలను పెంచింది మరియు గల్ఫ్ ఎగుమతులకు అంతరాయం కలిగించింది. ముడిచమురు ధరలు పెరగడం మరియు పునరుద్ధరించబడిన భారత కొనుగోళ్లు మాస్కో చమురు ఆదాయాలను పెంచడం వల్ల ఇది రష్యాకు ప్రయోజనం చేకూరుస్తుందని విశ్లేషకులు అంటున్నారు. తాత్కాలిక ఆంక్షల ఉపశమనం మరియు బలమైన డిమాండ్ బిలియన్ల అదనపు ఆదాయాన్ని సంపాదించవచ్చు.",
       "translated": true
     },
@@ -294,8 +336,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: మార్టిన్ లూథర్ కింగ్ జూనియర్ యుద్ధంపై — ‘యుద్ధాలు శాంతియుతమైన రేపటిని చెక్కడానికి పేలవమైన ఉలి’",
-      "summary_te": "మధ్యప్రాచ్యంలో ఉద్రిక్తతలు పెరుగుతున్నందున మార్టిన్ లూథర్ కింగ్ జూనియర్ యొక్క యుద్ధం యొక్క ప్రతిబింబం చాలా సందర్భోచితంగా ఉంది, హింస శాశ్వత శాంతిని నిర్మించలేదని ప్రపంచానికి గుర్తుచేస్తుంది.",
+      "title_te": "కోట్ ఆఫ్ ది డే: మార్టిన్ లూథర్ కింగ్ జూ.",
+      "summary_te": "మధ్యప్రాచ్యంలో ఉద్రిక్తతలు పెరుగుతున్నందున మార్టిన్ లూథర్ కింగ్ జూనియర్ యొక్క యుద్ధం యొక్క ప్రతిబింబం లోతుగా సంబంధితంగా ఉంది, హింస శాశ్వత శాంతిని నిర్మించలేదని ప్రపంచానికి గుర్తుచేస్తుంది.",
       "translated": true
     },
     {
@@ -309,7 +351,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎల్బర్స్, KLMలో ఏడు సంవత్సరాల CEO, ఇండిగోలో సగం కాలం కొనసాగారు; డిసెంబర్ గందరగోళం తర్వాత నెలల నడిచింది",
-      "summary_te": "పీటర్ ఎల్బర్స్‌ను భర్తీ చేసే వరకు తాత్కాలికంగా కంపెనీని మేనేజింగ్ డైరెక్టర్ రాహుల్ భాటియా నిర్వహిస్తారని ఎయిర్‌లైన్స్ తెలిపింది.",
+      "summary_te": "పీటర్ ఎల్బర్స్‌ను భర్తీ చేసే వరకు తాత్కాలికంగా కంపెనీని మేనేజింగ్ డైరెక్టర్ రాహుల్ భాటియా నిర్వహిస్తారని ఎయిర్‌లైన్ తెలిపింది.",
       "translated": true
     },
     {
@@ -322,50 +364,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "‘ఇరానియన్ నౌకలను ముంచడం చాలా సరదాగా ఉంటుంది’ అని ట్రంప్ గొప్పలు చెప్పుకుంటున్నారని, 46 మంది సముద్రపు అడుగుభాగంలో పడుకున్నారని చెప్పారు",
-      "summary_te": "డొనాల్డ్ ట్రంప్ కూడా ఇరాన్‌పై యుద్ధంలో విజయం సాధించామని, అయితే 'తగినంతగా గెలవలేదని' పేర్కొన్నారు. పర్షియన్ గల్ఫ్ దేశంపై 'అంతిమ విజయం' అని కూడా ఆయన ప్రతిజ్ఞ చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "16ff4639a66a610ab2b916f28003172e",
-      "title": "Policy shift: India loosens Press Note 3, allowing more China FDI with conditions",
-      "summary": "Cumulative FDI equity inflows from China into India stood at $2.51 billion from April 2000 to March 2025, according to the Department for Promotion of Industry and Internal Trade",
-      "url": "https://www.livemint.com/news/india/india-govt-eases-investment-2020-rules-for-chinese-firms-sign-of-thawing-relation-geopolitics-tariffs-us-west-asia-war-11773145626775.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/dhan_1769747346814_1769747363451_1773145995242.jpeg",
-      "published_at": "2026-03-10T12:35:15.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "విధాన మార్పు: భారతదేశం ప్రెస్ నోట్ 3ని సడలించింది, షరతులతో మరింత చైనా ఎఫ్‌డిఐని అనుమతిస్తుంది",
-      "summary_te": "పరిశ్రమ మరియు అంతర్గత వాణిజ్య ప్రమోషన్ విభాగం ప్రకారం, చైనా నుండి భారతదేశంలోకి సంచిత ఎఫ్‌డిఐ ఈక్విటీ ప్రవాహం ఏప్రిల్ 2000 నుండి మార్చి 2025 వరకు $2.51 బిలియన్లుగా ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "3b884c80e8f198200335484a620741dc",
-      "title": "Donald Trump, Elon Musk’s DOGE cuts hamper US preparedness amid war with Iran: Report",
-      "summary": "Donald Trump empowered Elon Musk’s DOGE to cut federal spending and jobs, but critics say the moves weakened US readiness for crises, cyber threats and evacuations abroad. As the Iran war unfolds, officials are questioning whether the cuts have harmed national security and emergency response.",
-      "url": "https://www.livemint.com/news/us-news/donald-trump-elon-musk-s-doge-cuts-hamper-us-preparedness-amid-war-with-iran-report-11773142895568.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/trump_musk_1758491664700_1758491694957_1773143089920.jpg",
-      "published_at": "2026-03-10T12:31:04.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "డొనాల్డ్ ట్రంప్, ఎలోన్ మస్క్ యొక్క డాగ్ ఇరాన్‌తో యుద్ధం మధ్య యుఎస్ సంసిద్ధతను దెబ్బతీస్తుంది: నివేదిక",
-      "summary_te": "డొనాల్డ్ ట్రంప్ ఫెడరల్ ఖర్చులు మరియు ఉద్యోగాలను తగ్గించడానికి ఎలోన్ మస్క్ యొక్క DOGEకి అధికారం ఇచ్చారు, అయితే విమర్శకులు ఈ చర్యలు సంక్షోభాలు, సైబర్ బెదిరింపులు మరియు విదేశాలకు తరలింపులకు US సంసిద్ధతను బలహీనపరిచాయని చెప్పారు. ఇరాన్ యుద్ధం జరుగుతున్నప్పుడు, కోతలు జాతీయ భద్రత మరియు అత్యవసర ప్రతిస్పందనకు హాని కలిగించాయా అని అధికారులు ప్రశ్నిస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "3541910cfa3f12031c27c2dbe0c96183",
-      "title": "More wheat farmers to seek MSP as prices drop on record output forecast",
-      "summary": "The MSP of ₹2,585 per quintal for the current rabi marketing season is higher than the average open-market price of ₹2,294.82 per quintal as on 7 March. The output is expected to rise to 120 million tonnes this year, surpassing the previous record.",
-      "url": "https://www.livemint.com/news/india/wheat-farmers-msp-prices-drop-record-output-forecast-11773136069831.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/FILES-INDIA-US-TARIFF-TRADE-0_1773144778150_1773144787420.jpg",
-      "published_at": "2026-03-10T12:24:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రికార్డు స్థాయిలో ఉత్పత్తి అంచనాపై ధరలు పడిపోవడంతో ఎక్కువ మంది గోధుమ రైతులు MSPని కోరుతున్నారు",
-      "summary_te": "ప్రస్తుత రబీ మార్కెటింగ్ సీజన్‌లో క్వింటాల్‌కు ₹2,585 MSP, మార్చి 7 నాటికి సగటు బహిరంగ మార్కెట్ ధర క్వింటాల్‌కు ₹2,294.82 కంటే ఎక్కువగా ఉంది. గత రికార్డును అధిగమించి ఈ ఏడాది 120 మిలియన్ టన్నుల ఉత్పత్తి పెరుగుతుందని అంచనా.",
+      "title_te": "సముద్రం అడుగున పడి ఉన్న 46 మంది 'ఇరానియన్ నౌకలను ముంచడం చాలా సరదాగా ఉంది' అని ట్రంప్ గొప్పగా చెప్పుకున్నారు",
+      "summary_te": "డొనాల్డ్ ట్రంప్ కూడా ఇరాన్‌పై యుద్ధంలో విజయం సాధించామని, అయితే 'తగినంతగా గెలవలేదని' పేర్కొన్నారు. పర్షియన్ గల్ఫ్ దేశంపై 'అంతిమ విజయం' అని ఆయన ప్రతిజ్ఞ చేశారు.",
       "translated": true
     },
     {
@@ -379,7 +379,7 @@
       "category": "business",
       "language": "en",
       "title_te": "పారామౌంట్‌తో బిడ్డింగ్ వార్ ఉధృతంగా ట్రంప్ నెట్‌ఫ్లిక్స్ మరియు వార్నర్ బ్రదర్స్ బాండ్లను కొనుగోలు చేశారు",
-      "summary_te": "ప్రభుత్వ వెల్లడి ప్రకారం, స్ట్రీమింగ్ దిగ్గజం వార్నర్ బ్రదర్స్ డిస్కవరీని కొనుగోలు చేయడానికి పారామౌంట్ స్కైడాన్స్‌తో విఫలమైన పోరాటంలో US అధ్యక్షుడు డొనాల్డ్ ట్రంప్ గత మూడు నెలల్లో $1.1 మిలియన్ కంటే ఎక్కువ నెట్‌ఫ్లిక్స్ బాండ్లను కొనుగోలు చేశారు.",
+      "summary_te": "ప్రభుత్వ వెల్లడి ప్రకారం, స్ట్రీమింగ్ దిగ్గజం వార్నర్ బ్రదర్స్ డిస్కవరీని కొనుగోలు చేయడానికి పారామౌంట్ స్కైడాన్స్‌తో పోరాడి విఫలమైనందున US అధ్యక్షుడు డొనాల్డ్ ట్రంప్ గత మూడు నెలల్లో $1.1 మిలియన్ కంటే ఎక్కువ నెట్‌ఫ్లిక్స్ బాండ్లను కొనుగోలు చేశారు.",
       "translated": true
     },
     {
@@ -393,7 +393,7 @@
       "category": "business",
       "language": "en",
       "title_te": "NSE బ్రోకర్లు FY24 మరియు అంతకు ముందు సంవత్సరాల్లో నిలుపుకున్న అదనపు STTని బహిర్గతం చేసి, తిరిగి చెల్లించమని చెబుతుంది",
-      "summary_te": "నేషనల్ స్టాక్ ఎక్స్ఛేంజ్ దాని సభ్యులకు ఏవైనా అదనపు సెక్యూరిటీల లావాదేవీల పన్ను వసూలు చేసి రిపోర్ట్ చేసి చెల్లించాలని ఆదేశించింది. ఇది 2023-24 ఆర్థిక సంవత్సరం మరియు అంతకుముందు సంవత్సరాలకు వసూలు చేసిన పన్నుకు వర్తిస్తుంది. ఆదాయపు పన్ను శాఖ నుండి వచ్చిన అభ్యర్థనను అనుసరించి ఆదేశం. సభ్యులు తప్పనిసరిగా వివరాలను సమర్పించాలి మరియు వడ్డీతో అదనపు పన్నును చెల్లించాలి.",
+      "summary_te": "నేషనల్ స్టాక్ ఎక్స్ఛేంజ్ దాని సభ్యులకు ఏవైనా అదనపు సెక్యూరిటీల లావాదేవీల పన్ను వసూలు చేసి రిపోర్ట్ చేసి చెల్లించాలని ఆదేశించింది. ఇది 2023-24 ఆర్థిక సంవత్సరం మరియు అంతకు ముందు సంవత్సరాలకు వసూలు చేసిన పన్నుకు వర్తిస్తుంది. ఆదాయపు పన్ను శాఖ నుండి వచ్చిన అభ్యర్థనను అనుసరించి ఆదేశం. సభ్యులు తప్పనిసరిగా వివరాలను సమర్పించాలి మరియు అదనపు పన్నును వడ్డీతో చెల్లించాలి.",
       "translated": true
     },
     {
@@ -421,7 +421,7 @@
       "category": "business",
       "language": "en",
       "title_te": "RCF, FACT మరియు ఇతర ఎరువుల నిల్వలు 17% వరకు రాకెట్. ఉప్పెనను ప్రేరేపించేది ఏమిటి?",
-      "summary_te": "పశ్చిమాసియా అంతరాయాల మధ్య కీలక రంగాలకు గ్యాస్ సరఫరాకు ప్రాధాన్యతనిస్తూ ప్రభుత్వం సహజ వాయువు నియంత్రణ ఆర్డర్, 2026 జారీ చేసిన తర్వాత ఎరువుల నిల్వలు పెరిగాయి. ఎరువుల ప్లాంట్లు సగటు గ్యాస్ వినియోగంలో 70% పొందుతాయి. సరఫరా అనిశ్చితి ఉన్నప్పటికీ అమ్మోనియా మరియు యూరియా ఉత్పత్తికి కీలకమైన ఫీడ్‌స్టాక్ లభ్యతను నిర్ధారిస్తుంది కాబట్టి పెట్టుబడిదారులు ఈ చర్యను ఉత్సాహపరిచారు.",
+      "summary_te": "పశ్చిమాసియా అంతరాయాల మధ్య కీలక రంగాలకు గ్యాస్ సరఫరాకు ప్రాధాన్యతనిస్తూ ప్రభుత్వం సహజ వాయువు నియంత్రణ ఆర్డర్, 2026 జారీ చేసిన తర్వాత ఎరువుల నిల్వలు పెరిగాయి. ఎరువుల ప్లాంట్లు సగటు గ్యాస్ వినియోగంలో 70% పొందుతాయి. సరఫరా అనిశ్చితి ఉన్నప్పటికీ అమ్మోనియా మరియు యూరియా ఉత్పత్తికి కీలకమైన ఫీడ్‌స్టాక్ లభ్యతను ఇది నిర్ధారిస్తుంది కాబట్టి పెట్టుబడిదారులు ఈ చర్యను ఉత్సాహపరిచారు.",
       "translated": true
     },
     {
@@ -434,8 +434,8 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "పెట్రోనెట్ LNG, ఇతర గ్యాస్ స్టాక్‌లు 5% వరకు పెరిగాయి, ట్రంప్ యొక్క ఇరాన్ యుద్ధ వ్యాఖ్యలు సరఫరా ఆందోళనలను తగ్గించాయి",
-      "summary_te": "మంగళవారం గ్యాస్ కంపెనీ షేర్లు లాభపడ్డాయి. ఇరాన్‌తో యుద్ధం త్వరలో ముగియవచ్చని అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ చేసిన ప్రకటన ఇది అనుసరించింది. ఇది దీర్ఘకాలిక సరఫరా సమస్యల గురించి ఆందోళనలను తగ్గించింది. అంతకుముందు, ఉద్రిక్తతలు స్టాక్ ధరలలో గణనీయమైన తగ్గుదలకు కారణమయ్యాయి. అనేక భారతీయ నగరాల్లో సరఫరా కొరత మొదలైంది. ఈ వ్యాఖ్యలతో ముడి చమురు ధరలు భారీగా పతనమయ్యాయి.",
+      "title_te": "పెట్రోనెట్ ఎల్‌ఎన్‌జి, ఇతర గ్యాస్ స్టాక్‌లు 5% వరకు పెరిగాయి, ట్రంప్ ఇరాన్ యుద్ధ వ్యాఖ్యలు సరఫరా ఆందోళనలను తగ్గించాయి",
+      "summary_te": "మంగళవారం గ్యాస్ కంపెనీ షేర్లు లాభపడ్డాయి. ఇరాన్‌తో యుద్ధం త్వరలో ముగియవచ్చని అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ చేసిన ప్రకటన ఇది అనుసరించింది. ఇది దీర్ఘకాలిక సరఫరా సమస్యల గురించి ఆందోళనలను తగ్గించింది. అంతకుముందు, ఉద్రిక్తతలు స్టాక్ ధరలలో గణనీయమైన తగ్గుదలకు కారణమయ్యాయి. అనేక భారతీయ నగరాల్లో సరఫరా కొరత మొదలైంది. ఈ వ్యాఖ్యలతో ముడి చమురు ధరలు భారీగా పడిపోయాయి.",
       "translated": true
     },
     {
@@ -463,7 +463,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -477,7 +477,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -574,7 +574,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "పెరిగిన వృద్ధి, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
+      "title_te": "వృద్ధిరేటు, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
       "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును హైలైట్ చేసారు, ఇది అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్గీకరించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, విస్తరిస్తున్న పన్ను చెల్లింపుదారుల స్థావరం మరియు పెరుగుతున్న వాస్తవ ఆదాయాలను ఉటంకిస్తూ. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
       "translated": true
     },
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
-      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు, అయితే వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
+      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -616,218 +616,8 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "జనవరిలో మొదటిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
+      "title_te": "జనవరిలో తొలిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
       "summary_te": "పరిమిత బాధ్యత భాగస్వామ్యాలు (LLPలు) కోసం నెలవారీ రిజిస్ట్రేషన్లు జనవరిలో మొదటిసారిగా 10,000ను అధిగమించాయి, ఇది సంవత్సరానికి 60% పెరిగింది. కంపెనీ ఇన్‌కార్పొరేషన్‌లు కూడా దాదాపు 39% గణనీయంగా పెరిగాయి. US మరియు EU లతో ఇటీవలి వాణిజ్య ఒప్పందాలు మరియు అనుకూలమైన పన్ను విధానాల ద్వారా ఊపందుకున్న బలమైన దేశీయ వృద్ధి దృక్పథం ఈ పెరుగుదలలకు కారణమని చెప్పవచ్చు.",
-      "translated": true
-    },
-    {
-      "id": "6ce8840a6f4d71208a784c6a76680f61",
-      "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
-      "summary": "ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg",
-      "published_at": "2024-04-23T08:11:02.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "HDFC బ్యాంక్ కొనండి; లక్ష్యం రూ. 1,850: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ హెచ్‌డిఎఫ్‌సి బ్యాంక్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో 1,850 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "07ad6d3686606191d0c38a5a29956be0",
-      "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
-      "summary": "Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_1_200.jpg",
-      "published_at": "2024-04-23T08:06:47.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "తేజస్ నెట్‌వర్క్‌లను కొనుగోలు చేయండి; లక్ష్యం రూ. 1100: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay Global Financial, Tejas Networksపై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో 1100 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "fe71a05a028b9442e7ae44ea0ec05a6d",
-      "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-      "summary": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5_200.jpg",
-      "published_at": "2024-04-23T08:06:44.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "బజాజ్ ఫైనాన్స్ కొనండి; లక్ష్యం రూ. 9000: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ బజాజ్ ఫైనాన్స్‌పై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి తన పరిశోధన నివేదికలో ఈ స్టాక్‌పై రూ. 9000 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "3ed642b4e0898c19666e233d53230727",
-      "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-      "summary": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5_200.jpg",
-      "published_at": "2024-04-23T08:06:44.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "బజాజ్ ఫైనాన్స్ కొనండి; లక్ష్యం రూ. 9000: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ బజాజ్ ఫైనాన్స్‌పై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి తన పరిశోధన నివేదికలో ఈ స్టాక్‌పై రూ. 9000 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "a4e9c22c27bac93ab0707b12b3b4eb72",
-      "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
-      "summary": "Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce-2_200.jpg",
-      "published_at": "2024-04-23T07:56:31.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "పెర్సిస్టెంట్ సిస్టమ్స్ తగ్గించండి; లక్ష్యం రూ. 3700: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో రూ. 3700 టార్గెట్ ధరతో పెర్సిస్టెంట్ సిస్టమ్స్‌పై రేటింగ్‌ను తగ్గించాలని సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "39d8f00864f09083eb1698b96c6a36d9",
-      "title": "Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial",
-      "summary": "Emkay Global Financial recommended reduce rating on Aditya Birla Fashion and Retail with a target price of Rs 230 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/r/reduced-378x213_200.jpg",
-      "published_at": "2024-04-23T07:52:33.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆదిత్య బిర్లా ఫ్యాషన్ మరియు రిటైల్‌ను తగ్గించండి; లక్ష్యం రూ. 230: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో ఆదిత్య బిర్లా ఫ్యాషన్ మరియు రిటైల్‌పై రూ. 230 టార్గెట్ ధరతో రేటింగ్‌ను తగ్గించాలని సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "50b371f510a31dd2845a80e6dc6138a6",
-      "title": "Reduce Wipro; target of Rs 410: ICICI Securities",
-      "summary": "ICICI Securities is bullish on Wipro has recommended buy rating on the stock with a target price of Rs 410 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce-5_200.jpg",
-      "published_at": "2024-04-23T06:52:08.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "విప్రోను తగ్గించండి; లక్ష్యం రూ. 410: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో విప్రో షేరుపై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "156bfc0e733271fef0670dfa982068aa",
-      "title": "Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities",
-      "summary": "ICICI Securities is bullish on HDFC Life Insurance Company has recommended buy rating on the stock with a target price of Rs 739 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1-378x213_200.jpg",
-      "published_at": "2024-04-23T06:35:52.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "HDFC లైఫ్ ఇన్సూరెన్స్ కంపెనీని కొనుగోలు చేయండి; లక్ష్యం రూ.739: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ హెచ్‌డిఎఫ్‌సి లైఫ్ ఇన్సూరెన్స్ కంపెనీ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో 739 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "140944b6fe19b782d81ea61c1eecfa83",
-      "title": "Buy Patel Engineering; target of Rs 80: ICICI Direct",
-      "summary": "ICICI Direct is bullish on Patel Engineering recommended buy rating on the stock with a target price of Rs 80 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:35:43.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "పటేల్ ఇంజనీరింగ్ కొనండి; లక్ష్యం రూ. 80: ICICI డైరెక్ట్",
-      "summary_te": "ఐసిఐసిఐ డైరెక్ట్ ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో పటేల్ ఇంజినీరింగ్ షేరుపై రూ. 80 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "121e451e5d45424e2e7e4bc0139fe8f7",
-      "title": "Accumulate Infosys; target of Rs 1531: KR Choksey",
-      "summary": "KR Choksey recommended Accumulate rating on Infosys with a target price of Rs 1531 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2023/200x200/A/Accumulate_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:35:06.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇన్ఫోసిస్‌ను కూడబెట్టు; లక్ష్యం రూ. 1531: KR చోక్సీ",
-      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "55fae405b93a2f6c66910e2c69459400",
-      "title": "Buy Jindal Drilling and Industries; target of Rs 960: Anand Rathi",
-      "summary": "Anand Rathi is bullish on Jindal Drilling and Industries has recommended buy rating on the stock with a target price of Rs 960 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-jindal-drillingindustries-targetrs-960-anand-rathi_17531431.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg",
-      "published_at": "2024-04-23T06:34:28.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "జిందాల్ డ్రిల్లింగ్ మరియు పరిశ్రమలను కొనుగోలు చేయండి; లక్ష్యం రూ. 960: ఆనంద్ రాఠీ",
-      "summary_te": "ఆనంద్ రాఠీ జిందాల్ డ్రిల్లింగ్‌పై బుల్లిష్‌గా ఉన్నారు మరియు ఇండస్ట్రీస్ ఏప్రిల్ 22, 2024 నాటి పరిశోధన నివేదికలో స్టాక్‌పై రూ. 960 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "ce283ffe1b76ec277f2220e24108c8f8",
-      "title": "Buy Navneet Education; target of Rs 182: Prabhudas Lilladher",
-      "summary": "Prabhudas Lilladher is bullish on Navneet Education has recommended buy rating on the stock with a target price of Rs 182 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-navneet-education-targetrs-182-prabhudas-lilladher_17531441.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:34:07.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "నవనీత్ విద్యను కొనుగోలు చేయండి; లక్ష్యం రూ. 182: ప్రభుదాస్ లిల్లాధర్",
-      "summary_te": "నవనీత్ ఎడ్యుకేషన్‌పై ప్రభుదాస్ లిల్లాధర్ బుల్లిష్‌గా ఉన్నారు, ఏప్రిల్ 22, 2024 నాటి పరిశోధన నివేదికలో స్టాక్‌పై రూ. 182 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "2b140a9d594ac3417b355ecd8f7d1254",
-      "title": "Sell Indus Tower; target of Rs 260: ICICI Securities",
-      "summary": "ICICI Securities is bearish on Indus Tower has recommended sell rating on the stock with a target price of Rs 260 in its research report dated April 20, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/sell-indus-tower-targetrs-260-icici-securities_17531381.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2017/200x200/s/sell1-1_200.jpg",
-      "published_at": "2024-04-23T06:26:53.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇండస్ టవర్‌ను అమ్మండి; లక్ష్యం రూ. 260: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఇండస్ టవర్‌పై ఐసిఐసిఐ సెక్యూరిటీస్ బేరిష్‌గా ఉంది, ఏప్రిల్ 20, 2024 నాటి తన పరిశోధన నివేదికలో 260 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై అమ్మకపు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "4ea800090103e23e9c51f55e807c540b",
-      "title": "Buy City Union Bank; target of Rs 170: ICICI Securities",
-      "summary": "ICICI Securities is bullish on City Union Bank has recommended buy rating on the stock with a target price of Rs 170 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-city-union-bank-targetrs-170-icici-securities_17531361.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2017/200x200/s/sell2_200.jpg",
-      "published_at": "2024-04-23T06:16:51.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "సిటీ యూనియన్ బ్యాంక్‌ను కొనుగోలు చేయండి; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "7a32edfb3688f6c2b724ae4c975dafc1",
-      "title": "Buy Hatsun Agro Products; target of Rs 1190: ICICI Securities",
-      "summary": "ICICI Securities is bullish on Hatsun Agro Products recommended buy rating on the stock with a target price of Rs 1190 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-hatsun-agro-products-targetrs-1190-icici-securities_17531371.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:16:43.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "Hatsun ఆగ్రో ఉత్పత్తులను కొనుగోలు చేయండి; లక్ష్యం రూ. 1190: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో హ్యాట్సన్ ఆగ్రో ప్రొడక్ట్స్ షేరుపై రూ. 1190 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -841,7 +631,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
@@ -855,7 +645,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అట్లాంటిక్ 'లవ్ ఫెస్ట్' ఉన్నప్పటికీ, US మరియు చైనాతో సంబంధాలలో EU మూడవ మార్గాన్ని కలిగి ఉంది",
-      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ అన్నప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష స్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
+      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ చెప్పినప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష ప్రతిస్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
       "translated": true
     },
     {
@@ -869,7 +659,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
@@ -911,7 +701,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
