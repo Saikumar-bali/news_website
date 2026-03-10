@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-10T07:46:00.665Z",
-  "updated_at_IST": "10/3/2026, 1:16:00 pm",
+  "updated_at": "2026-03-10T08:40:22.208Z",
+  "updated_at_IST": "10/3/2026, 2:10:22 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "b1f37f8074c7cf26b8b7ac798d54471b",
+      "title": "'I've almost rebirthed myself at 38' - Bates targets T20 World Cup after injury layoff",
+      "summary": "With Gaze set to retain her spot at the top, Bates is preparing for a new role in the middle order",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527525.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408414.jpg",
+      "published_at": "2026-03-10T08:00:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'నేను దాదాపు 38 సంవత్సరాల వయస్సులో పునర్జన్మ పొందాను' - గాయం తొలగింపు తర్వాత బేట్స్ T20 ప్రపంచ కప్‌ను లక్ష్యంగా చేసుకున్నాడు",
+      "summary_te": "గాజ్ అగ్రస్థానంలో తన స్థానాన్ని నిలుపుకోవడంతో, బేట్స్ మిడిల్ ఆర్డర్‌లో కొత్త పాత్ర కోసం సిద్ధమవుతున్నాడు",
+      "translated": true
+    },
+    {
+      "id": "649e2f2bf356c11c065b5bd18d6a1f61",
+      "title": "ICC Board meetings in Doha called off due to West Asia conflict",
+      "summary": "Some ICC meetings will take place virtually over the next few weeks",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527534.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/303000/303035.jpg",
+      "published_at": "2026-03-10T07:55:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా వివాదం కారణంగా దోహాలో ICC బోర్డు సమావేశాలు రద్దయ్యాయి",
+      "summary_te": "కొన్ని ICC సమావేశాలు రాబోయే కొద్ది వారాల్లో వాస్తవంగా జరుగుతాయి",
+      "translated": true
+    },
     {
       "id": "0371501809152ee37dcb43f4da49413d",
       "title": "BCCI announces cash reward of INR 131 crore for India's World Cup-winning side",
@@ -30,20 +58,6 @@
       "language": "en",
       "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
       "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
-      "translated": true
-    },
-    {
-      "id": "b1f37f8074c7cf26b8b7ac798d54471b",
-      "title": "'I've almost rebirthed myself at 38' - Bates targets T20 World Cup after injury layoff",
-      "summary": "With Gaze set to retain her spot at the top, Bates is preparing for a new role in the middle order",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527525.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408414.jpg",
-      "published_at": "2026-03-10T07:03:25.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'నేను దాదాపు 38 సంవత్సరాల వయస్సులో పునర్జన్మ పొందాను' - గాయం తొలగింపు తర్వాత బేట్స్ T20 ప్రపంచ కప్‌ను లక్ష్యంగా చేసుకున్నాడు",
-      "summary_te": "గాజ్ అగ్రస్థానంలో తన స్థానాన్ని నిలుపుకోవడంతో, బేట్స్ మిడిల్ ఆర్డర్‌లో కొత్త పాత్ర కోసం సిద్ధమవుతున్నాడు",
       "translated": true
     },
     {
@@ -183,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -197,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ముజుందార్: లైట్ల కింద పింక్ బాల్‌ను ఎదుర్కోవడం 'డిఫరెంట్ ఛాలెంజ్'",
       "summary_te": "పది వికెట్ల పరాజయం పాలైనప్పటికీ, అరంగేట్ర ఆటగాళ్లు రావల్ మరియు సత్‌ఘరేల ప్రదర్శనల నుండి భారత కోచ్ హృదయాన్ని పొందాడు",
-      "translated": true
-    },
-    {
-      "id": "a55596dbcfda0de5e3434a1869471acb",
-      "title": "New Zealand bowl with Duffy in for McConchie, India unchanged",
-      "summary": "After all the talk of an offspinner against India's left-hand-heavy top order, New Zealand omitted the one who took out de Kock and Rickelton in one over in the semi-final",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527348.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414520.jpg",
-      "published_at": "2026-03-08T13:47:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్ బౌలింగ్‌లో డఫీతో మెక్‌కాంచి, భారత్‌లో ఎలాంటి మార్పు లేదు",
-      "summary_te": "భారతదేశం యొక్క లెఫ్ట్ హ్యాండ్-హెవీ టాప్ ఆర్డర్‌పై ఆఫ్‌స్పిన్నర్ గురించి అన్ని చర్చలు జరిగిన తర్వాత, సెమీ-ఫైనల్‌లో ఒకే ఓవర్‌లో డి కాక్ మరియు రికెల్టన్‌లను అవుట్ చేసిన న్యూజిలాండ్‌ను తొలగించింది.",
       "translated": true
     }
   ]
