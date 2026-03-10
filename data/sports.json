@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-10T03:32:32.075Z",
-  "updated_at_IST": "10/3/2026, 9:02:32 am",
+  "updated_at": "2026-03-10T05:17:33.527Z",
+  "updated_at_IST": "10/3/2026, 10:47:33 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "d6d96578021603355275ca55ba2b4cc2",
+      "title": "Jonassen stands down as Queensland and Brisbane Heat captain",
+      "summary": "The allrounder, who has recently returned from injury, had held the roles since 2020",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527523.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/391600/391615.jpg",
+      "published_at": "2026-03-10T04:55:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "క్వీన్స్‌లాండ్ మరియు బ్రిస్బేన్ హీట్ కెప్టెన్‌గా జోనాస్సెన్ వైదొలిగాడు",
+      "summary_te": "ఇటీవల గాయం నుండి తిరిగి వచ్చిన ఆల్‌రౌండర్ 2020 నుండి పాత్రలను కలిగి ఉన్నాడు",
+      "translated": true
+    },
     {
       "id": "d5f26184eb4d5d03f31279e319a91abe",
       "title": "Zampa steps aside from One-Day Cup final to ensure Sangha can play",
@@ -28,7 +42,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "వెస్టిండీస్ పర్యటన నుండి సదర్లాండ్ విశ్రాంతి తీసుకున్నాడు, మోలినెక్స్ ఆడాలని 'అంచనా'",
+      "title_te": "వెస్టిండీస్ పర్యటన నుండి సదర్లాండ్ విశ్రాంతి తీసుకున్నాడు, మోలినక్స్ ఆడాలని 'అంచనా'",
       "summary_te": "NSW వికెట్ కీపర్ తహ్లియా విల్సన్ తన మొదటి కాల్-అప్ సంపాదించింది, గ్రేస్ హారిస్ తొలగించబడింది",
       "translated": true
     },
@@ -211,7 +225,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "'అతను వెళ్ళడం చూసి బాధగా ఉంది' - NSW షిప్పర్డ్‌ను ట్రోఫీతో పంపించడానికి ప్రేరేపించింది",
-      "summary_te": "వన్-డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించే కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని జోష్ ఫిలిప్ ప్రశంసించాడు.",
+      "summary_te": "జోష్ ఫిలిప్ వన్డే కప్ ఫైనల్‌కు ముందు నిష్క్రమించిన కోచ్ తన కెరీర్‌పై చూపిన ప్రభావాన్ని ప్రశంసించాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "జింబాబ్వే బ్యాటర్ నధ్లోవును ఇల్లింగ్ బౌన్సర్ కొట్టిన తర్వాత స్కాన్ కోసం తీసుకున్నారు",
       "summary_te": "జింబాబ్వే కోచ్ కేట్ ఎబ్రహీం కెలిస్ నధ్లోవు గురించి మాట్లాడుతూ, \"ఆమె ఇప్పుడు స్పందిస్తోంది, ఇది వినడానికి నిజంగా మనోహరంగా ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "0544d48c0af4757664d018fe933bc94f",
-      "title": "Amelia Kerr's seven-for skittles Zimbabwe to set up ODI series win for New Zealand",
-      "summary": "Molly Penfold picked up three wickets to go with Amelia Kerr's haul as New Zealand took just 45.3 overs to beat Zimbabwe in the second ODI",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527299.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414400/414497.jpg",
-      "published_at": "2026-03-08T06:26:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "జింబాబ్వేపై అమీలియా కెర్ సెవెన్-ఫర్ స్కిటిల్ న్యూజిలాండ్‌కు వన్డే సిరీస్ విజయాన్ని అందించింది.",
-      "summary_te": "న్యూజిలాండ్ రెండో వన్డేలో జింబాబ్వేను ఓడించేందుకు కేవలం 45.3 ఓవర్లు మాత్రమే పట్టడంతో మోలీ పెన్‌ఫోల్డ్ మూడు వికెట్లు పడగొట్టింది.",
       "translated": true
     }
   ]
