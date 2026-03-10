@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-10T11:36:37.746Z",
-  "updated_at_IST": "10/3/2026, 5:06:37 pm",
+  "updated_at": "2026-03-10T12:43:53.892Z",
+  "updated_at_IST": "10/3/2026, 6:13:53 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "f0ecfecd2c56dd52f8b2566832eba302",
+      "title": "Casson tasked with leading Western Australia's revival",
+      "summary": "The long-time assistant coach will step into Adam Voges shoes after signing a three-year deal",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527528.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414584.jpg",
+      "published_at": "2026-03-10T11:44:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
+      "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
+      "translated": true
+    },
+    {
+      "id": "9073d53a8422c52be0b8813bc7f35374",
+      "title": "Arshdeep Singh fined, handed demerit point for incident with Daryl Mitchell",
+      "summary": "The incident occurred in the 11th over of NZ's chase in the final, when Arshdeep threw the ball towards the stumps, striking Daryl Mitchell on the pads",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527544.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414551.jpg",
+      "published_at": "2026-03-10T11:36:07.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డారిల్ మిచెల్‌తో జరిగిన ఘటనలో అర్ష్‌దీప్ సింగ్‌కు జరిమానా, డీమెరిట్ పాయింట్‌ను విధించారు",
+      "summary_te": "ఫైనల్‌లో NZ యొక్క ఛేజింగ్‌లో 11వ ఓవర్‌లో, అర్ష్‌దీప్ బంతిని స్టంప్స్ వైపు విసిరినప్పుడు, డారిల్ మిచెల్‌ను ప్యాడ్‌లపై కొట్టడంతో ఈ సంఘటన జరిగింది.",
+      "translated": true
+    },
     {
       "id": "01c2c569a9e454452e5762a8caa9d8bf",
       "title": "Bangladesh, Pakistan start afresh with 2027 World Cup in mind",
@@ -72,20 +100,6 @@
       "language": "en",
       "title_te": "ప్రపంచకప్ గెలిచిన భారత జట్టుకు బీసీసీఐ 131 కోట్ల రూపాయల నగదు బహుమతిని ప్రకటించింది.",
       "summary_te": "ఆదివారం అహ్మదాబాద్‌లో జరిగిన టీ20 ప్రపంచకప్ ఫైనల్లో భారత్ 96 పరుగుల తేడాతో న్యూజిలాండ్‌పై విజయం సాధించింది",
-      "translated": true
-    },
-    {
-      "id": "f0ecfecd2c56dd52f8b2566832eba302",
-      "title": "Casson tasked with leading Western Australia's revival",
-      "summary": "The long-time assistant coach will step into Adam Voges shoes after signing a three-year deal",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527528.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414584.jpg",
-      "published_at": "2026-03-10T07:05:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
-      "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
       "translated": true
     },
     {
@@ -225,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -239,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "అభిషేక్ 'ప్లాన్ ఎలా ఉండబోతుందో తెలుసు' మరియు దానికి కౌంటర్ ఇచ్చాడు డు ప్లెసిస్",
       "summary_te": "న్యూజిలాండ్ ఆలోచన గురించి అనిల్ కుంబ్లే మాట్లాడుతూ, \"ఆ పవర్‌ప్లేలో నలుగురు బౌలర్లు ఉన్నారు, నేను కొంచెం కొంచెం, కొంచెం ఎక్కువగా ఆలోచించాను\"",
-      "translated": true
-    },
-    {
-      "id": "7987e396838336a9052882aa7baf0575",
-      "title": "India crush New Zealand for third T20 World Cup title",
-      "summary": "Abhishek, Samson and Kishan all smashed half-centuries to amass 255 before Bumrah's four-for helped set up a massive win",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527414.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414567.jpg",
-      "published_at": "2026-03-09T03:21:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్‌ను మట్టికరిపించిన భారత్ మూడో టీ20 ప్రపంచకప్ టైటిల్‌ను కైవసం చేసుకుంది",
-      "summary_te": "అభిషేక్, శాంసన్, కిషన్‌లు హాఫ్ సెంచరీలతో 255 పరుగులు చేసి బుమ్రా చేసిన ఫోర్‌తో భారీ విజయాన్ని సాధించారు.",
       "translated": true
     }
   ]
