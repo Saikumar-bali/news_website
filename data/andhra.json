@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-03-10T09:45:07.389Z",
-  "updated_at_IST": "10/3/2026, 3:15:07 pm",
+  "updated_at": "2026-03-10T10:40:16.528Z",
+  "updated_at_IST": "10/3/2026, 4:10:16 pm",
   "category": "andhra",
-  "count": 25,
+  "count": 23,
   "articles": [
+    {
+      "id": "9bbe74284edf385d7cff5a320ec30137",
+      "title": "Acharya Sabha blames government for ghee adulteration in Tirupati laddus",
+      "summary": "Hindu Dharma Acharya Sabha urges greater vigilance in temple administration and says only Dharmic and responsible individuals should manage temple affairs to prevent violations of Shastra norms",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/acharya-sabha-blames-government-for-ghee-adulteration-in-tirupati-laddus/article70723218.ece",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-andhrapradesh/92d8xr/article70617766.ece/alternates/LANDSCAPE_1200/YSRCP-accuses-NGG7FHM8A4.3.jpg.jpg",
+      "published_at": "2026-03-10T04:25:57.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "తిరుపతి లడ్డూలలో నెయ్యి కల్తీకి ప్రభుత్వమే కారణమని ఆచార్య సభ ఆరోపించింది",
+      "summary_te": "ఆలయ నిర్వహణలో మరింత అప్రమత్తంగా ఉండాలని హిందూ ధర్మ ఆచార్య సభ కోరింది మరియు శాస్త్ర నిబంధనల ఉల్లంఘనలను నివారించడానికి ధార్మిక మరియు బాధ్యతగల వ్యక్తులు మాత్రమే ఆలయ వ్యవహారాలను నిర్వహించాలని పేర్కొంది.",
+      "translated": true
+    },
+    {
+      "id": "d39fa97359a4e94eb01d8e9089742406",
+      "title": "A.P.’s first ‘Mahila Jansunwai’ conducted in Nellore",
+      "summary": "Andhra Pradesh Women’s Commission chairperson Dr. Rayapati Sailaja clarified that the commission is committed to ensure that no woman suffers and that strict action will be taken against those who harass women",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/aps-first-mahila-jansunwai-conducted-in-nellore/article70723372.ece",
+      "image": "https://th-i.thgim.com/public/incoming/bdql6m/article70723476.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-09%20at%2020.07.12.jpeg",
+      "published_at": "2026-03-10T03:45:54.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "నెల్లూరులో నిర్వహించిన తొలి ‘మహిళా జాన్సువాయి’ ఎ.పి",
+      "summary_te": "మహిళలకు ఎలాంటి ఇబ్బంది కలగకూడదని, మహిళలను వేధించే వారిపై కఠిన చర్యలు తీసుకుంటామని ఆంధ్రప్రదేశ్ మహిళా కమిషన్ చైర్ పర్సన్ డాక్టర్ రాయపాటి శైలజ స్పష్టం చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "3cfffb9a82235d1792047ef7d0f54dfc",
+      "title": "Farmers urged to prepare for potential El Nino impact",
+      "summary": "El Nino, occurring once every two to seven years, may influence monsoon rainfall and the agricultural sector in the country",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/farmers-urged-to-prepare-for-potential-el-nino-impact/article70723606.ece",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-features/tp-metroplus/pdt74q/article70337314.ece/alternates/LANDSCAPE_1200/29mpFiller2_G1UGLKF7TSDB.5.jpg.jpg",
+      "published_at": "2026-03-10T03:33:10.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఎల్‌నినో ప్రభావానికి రైతులు సిద్ధం కావాలని కోరారు",
+      "summary_te": "ఎల్ నినో, ప్రతి రెండు నుండి ఏడు సంవత్సరాలకు ఒకసారి సంభవిస్తుంది, రుతుపవనాల వర్షపాతం మరియు దేశంలో వ్యవసాయ రంగాన్ని ప్రభావితం చేయవచ్చు",
+      "translated": true
+    },
+    {
+      "id": "47f1eeaf458c6d77c76493fd180e78a0",
+      "title": "YS Sharmila slams Andhra Pradesh government over milk adulteration deaths",
+      "summary": "Y.S. Sharmila Reddy launched a scathing attack on the State government accusing it of criminal negligence and complete failure to ensure food safety",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sharmila-slams-government-over-milk-adulteration-deaths/article70723084.ece",
+      "image": "https://th-i.thgim.com/public/incoming/hco01i/article70723369.ece/alternates/LANDSCAPE_1200/10745_9_6_2025_19_27_33_1_IMG_20250609_WA0136.JPG",
+      "published_at": "2026-03-10T03:18:09.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పాల కల్తీ మరణాలపై ఆంధ్రప్రదేశ్ ప్రభుత్వంపై వైఎస్ షర్మిల మండిపడ్డారు",
+      "summary_te": "వై.ఎస్. రాష్ట్ర ప్రభుత్వం నేరపూరిత నిర్లక్ష్యంగా వ్యవహరిస్తోందని, ఆహార భద్రత విషయంలో పూర్తిగా విఫలమైందని షర్మిలారెడ్డి తీవ్ర స్థాయిలో విరుచుకుపడ్డారు.",
+      "translated": true
+    },
     {
       "id": "13dd92695780bb02a78baaaec85c8bd0",
       "title": "​Bitter milk: On the Rajamahendravaram milk adulteration case",
       "summary": "Detecting violation of rules in time is better than stringent penalties",
       "url": "https://www.thehindu.com/opinion/editorial/bitter-milk-on-the-rajamahendravaram-milk-adulteration-case/article70722654.ece",
       "image": null,
-      "published_at": "2026-03-09T19:39:18.000Z",
+      "published_at": "2026-03-10T03:09:07.000Z",
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
@@ -44,20 +100,6 @@
       "language": "en",
       "title_te": "మహిళా ఉద్యోగులు ప్రజా, సామాజిక సేవల్లో ముందుండాలని కోరారు",
       "summary_te": "మహిళా ఉద్యోగులు ప్రజాసేవతో పాటు సామాజిక సేవలో ముందుండాలని జాయింట్ కలెక్టర్ ఎస్.ఇలక్కియ్య కోరారు. సోమవారం (మార్చి 9, 2026) ఏపీఎన్జీవోస్ హోమ్‌లో ఏపీఎన్జీవో మహిళా విభాగం ఆధ్వర్యంలో నిర్వహించిన మహిళా దినోత్సవ వేడుకల్లో పాల్గొన్న జాయింట్ కలెక్టర్ మాట్లాడుతూ.. కుటుంబాలు, ప్రజాసేవల్లో మహిళలు కీలకపాత్ర పోషిస్తున్నారని అన్నారు. విద్య, పరిపాలన, వ్యాపారం, సైన్స్‌, ఆటలు, క్రీడలు తదితర రంగాల్లో మహిళలు విజయగాథలు రచిస్తున్నారని జాయింట్‌ కలెక్టర్‌ కొనియాడారు. అంతర్జాతీయ మహిళా దినోత్సవంతో.",
-      "translated": true
-    },
-    {
-      "id": "3cfffb9a82235d1792047ef7d0f54dfc",
-      "title": "Farmers urged to prepare for potential El Nino impact",
-      "summary": "In the backdrop of possible El Nino conditions developing in 2026, farmers should take advance precautions and plan agricultural activities accordingly, said Acharya N.G. Ranga Agricultural University (ANGRAU) Vice-Chancellor R. Sarada Jayalakshmi Devi.In a press statement, she said that the natural phenomenon, occurring once every two to seven years, may influence monsoon rainfall and the agricultural sector in the country. El Nino is a climatic condition that occurs when sea surface temperatures in the central and eastern Pacific Ocean rise above normal levels, she explained. When it develops, it can lead to significant changes in global wind circulation patterns, rainfall distribution, and temperatures. Scientists change how El Nino is labelled to keep up with temperature spikes",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/farmers-urged-to-prepare-for-potential-el-nino-impact/article70723606.ece",
-      "image": "https://th-i.thgim.com/public/todays-paper/tp-features/tp-metroplus/pdt74q/article70337314.ece/alternates/LANDSCAPE_1200/29mpFiller2_G1UGLKF7TSDB.5.jpg.jpg",
-      "published_at": "2026-03-09T17:50:34.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఎల్‌నినో ప్రభావానికి రైతులు సిద్ధం కావాలని కోరారు",
-      "summary_te": "2026లో ఎల్‌నినో పరిస్థితులు ఏర్పడే అవకాశం ఉన్న నేపథ్యంలో రైతులు ముందస్తు జాగ్రత్తలు తీసుకోవాలని, తదనుగుణంగా వ్యవసాయ కార్యకలాపాలను ప్లాన్ చేసుకోవాలని ఆచార్య ఎన్.జి. రంగా వ్యవసాయ విశ్వవిద్యాలయం (ANGRAU) వైస్-ఛాన్సలర్ R. శారద జయలక్ష్మి దేవి. ఒక పత్రికా ప్రకటనలో, ఆమె మాట్లాడుతూ, ప్రతి రెండు నుండి ఏడు సంవత్సరాలకు ఒకసారి సంభవించే సహజ దృగ్విషయం దేశంలో రుతుపవనాల వర్షపాతం మరియు వ్యవసాయ రంగాన్ని ప్రభావితం చేస్తుందని అన్నారు. ఎల్ నినో అనేది మధ్య మరియు తూర్పు పసిఫిక్ మహాసముద్రంలో సముద్ర ఉపరితల ఉష్ణోగ్రతలు సాధారణ స్థాయి కంటే పెరిగినప్పుడు ఏర్పడే వాతావరణ పరిస్థితి అని ఆమె వివరించారు. ఇది అభివృద్ధి చెందినప్పుడు, ఇది ప్రపంచ గాలి ప్రసరణ నమూనాలు, వర్షపాతం పంపిణీ మరియు ఉష్ణోగ్రతలలో గణనీయమైన మార్పులకు దారితీస్తుంది. ఉష్ణోగ్రతల పెరుగుదలకు అనుగుణంగా ఎల్ నినో లేబుల్ ఎలా ఉంటుందో శాస్త్రవేత్తలు మార్చారు",
       "translated": true
     },
     {
@@ -131,20 +173,6 @@
       "translated": true
     },
     {
-      "id": "d39fa97359a4e94eb01d8e9089742406",
-      "title": "A.P.’s first ‘Mahila Jansunwai’ conducted in Nellore",
-      "summary": "Andhra Pradesh Women’s Commission chairperson Dr. Rayapati Sailaja conducted the first ‘Mahila Jansunwai’ in Nellore on Monday (March 9, 2026). She received complaints from 30 women, out of which, the officials solved some of them on the spot. Andhra Pradesh Mahila Commission to hold ‘Jan Sunwai’ from March 9 to 13",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/aps-first-mahila-jansunwai-conducted-in-nellore/article70723372.ece",
-      "image": "https://th-i.thgim.com/public/incoming/bdql6m/article70723476.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-09%20at%2020.07.12.jpeg",
-      "published_at": "2026-03-09T15:23:53.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "నెల్లూరులో నిర్వహించిన తొలి ‘మహిళా జాన్సువాయి’ ఎ.పి",
-      "summary_te": "ఆంధ్రప్రదేశ్ మహిళా కమిషన్ చైర్ పర్సన్ డాక్టర్ రాయపాటి శైలజ సోమవారం (మార్చి 9, 2026) నెల్లూరులో తొలి ‘మహిళా జాన్సువాయి’ నిర్వహించారు. ఆమె 30 మంది మహిళల నుండి ఫిర్యాదులను స్వీకరించారు, వాటిలో కొన్నింటిని అధికారులు అక్కడికక్కడే పరిష్కరించారు. ఆంధ్రప్రదేశ్ మహిళా కమిషన్ మార్చి 9 నుంచి 13 వరకు ‘జన్ సున్వాయి’ నిర్వహించనుంది",
-      "translated": true
-    },
-    {
       "id": "50ec1940ed6be00ee994aa4f5bbde21e",
       "title": "AIIMS surgeons successfully re-attach amputated arm of man",
       "summary": "A team of plastic surgeons at AIIMS-Mangalagiri re-attached an amputated arm of a man who suffered an accident at worksite through the successful procedure of a trans-humeral (mid-arm) amputation replantation.According to a press release from AIIMS on Monday, it is reportedly the first time a microsurgical procedure such as this has been performed in the State. The 25-year-old patient, a native of Jharkhand who works as a mill machine-load operator in a road construction company near Hanuman Junction, sustained a severe crush injury to his left arm after it got trapped in a tar machine on February 22. The patient was brought to AIIMS the same day.Considering the severity of the injury and the limited window for successful replantation, the patient was informed about the slim chances of limb survival. Despite the challenges, the doctors decided to proceed with emergency limb replantation.In a eight-hour-long procedure, the team, led by Shanthakumar Shivalingappa, successfully re-attached the amputated upper arm by reconstructing major blood vessels, stabilising the bone, and repairing muscles and soft tissues.Five days after the initial surgery, the surgical wound over the arm was successfully covered with a skin graft. Secondary procedures, including nerve reconstruction and definitive bone fixation, are planned for a later stage.The patient is currently stable and recovering in the ward.",
@@ -173,20 +201,6 @@
       "translated": true
     },
     {
-      "id": "9bbe74284edf385d7cff5a320ec30137",
-      "title": "Acharya Sabha blames government for ghee adulteration in Tirupati laddus",
-      "summary": "Hindu Dharma Acharya Sabha urges greater vigilance in temple administration and says only Dharmic and responsible individuals should manage temple affairs to prevent violations of Shastra norms",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/acharya-sabha-blames-government-for-ghee-adulteration-in-tirupati-laddus/article70723218.ece",
-      "image": null,
-      "published_at": "2026-03-09T15:11:44.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "తిరుపతి లడ్డూలలో నెయ్యి కల్తీకి ప్రభుత్వమే కారణమని ఆచార్య సభ ఆరోపించింది",
-      "summary_te": "ఆలయ నిర్వహణలో మరింత అప్రమత్తంగా ఉండాలని హిందూ ధర్మ ఆచార్య సభ కోరింది మరియు శాస్త్ర నిబంధనల ఉల్లంఘనలను నివారించడానికి ధార్మిక మరియు బాధ్యతగల వ్యక్తులు మాత్రమే ఆలయ వ్యవహారాలను నిర్వహించాలని పేర్కొంది.",
-      "translated": true
-    },
-    {
       "id": "3fbe6bea9803d956a38a0bf0b66e52b7",
       "title": "SAAP chief extends financial aid to athlete battling kidney infection",
       "summary": "Sports Authority of Andhra Pradesh (SAAP) Chairman A. Ravi Naidu on Monday visited international powerlifting athlete Bollineni Chandrika, who is currently admitted to a private hospital in the city for kidney infection. He wished her a speedy recovery.Praising Ms. Chandrika for having brought laurels to the State, Mr. Ravi Naidu said her courage and determination serve as an inspiration to the youth. He extended a financial aid of ₹1 lakh to help her with her medical treatment.Mr. Ravi Naidu said the State government’s policy is to identify talented athletes and encourage them by providing all necessary support. There will not be shortage of assistance of any kind for their welfare, he added.",
@@ -198,20 +212,6 @@
       "language": "en",
       "title_te": "SAAP చీఫ్ కిడ్నీ ఇన్ఫెక్షన్‌తో పోరాడుతున్న అథ్లెట్‌కు ఆర్థిక సహాయాన్ని అందించారు",
       "summary_te": "ప్రస్తుతం కిడ్నీ ఇన్‌ఫెక్షన్‌తో నగరంలోని ఓ ప్రైవేట్ ఆసుపత్రిలో చేరిన అంతర్జాతీయ పవర్‌లిఫ్టింగ్ అథ్లెట్ బొల్లినేని చంద్రికను స్పోర్ట్స్ అథారిటీ ఆఫ్ ఆంధ్రప్రదేశ్ (సాప్) చైర్మన్ ఎ. రవి నాయుడు సోమవారం పరామర్శించారు. ఆమె త్వరగా కోలుకోవాలని ఆయన ఆకాంక్షించారు. రాష్ట్రానికి కీర్తి ప్రతిష్టలు తెచ్చిన శ్రీమతి చంద్రికను కొనియాడుతూ, శ్రీ రవి నాయుడు ఆమె ధైర్యం మరియు సంకల్పం యువతకు స్ఫూర్తిగా నిలుస్తాయని అన్నారు. ఆమె వైద్య చికిత్సకు సహాయం చేయడానికి అతను ₹1 లక్ష ఆర్థిక సహాయాన్ని అందించాడు. ప్రతిభావంతులైన క్రీడాకారులను గుర్తించి వారికి అవసరమైన అన్ని సహకారాన్ని అందించడం ద్వారా వారిని ప్రోత్సహించడమే రాష్ట్ర ప్రభుత్వ విధానమని రవినాయుడు అన్నారు. వారి సంక్షేమం కోసం ఎలాంటి సహాయానికి కొరత ఉండదని ఆయన తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "47f1eeaf458c6d77c76493fd180e78a0",
-      "title": "Sharmila slams government over milk adulteration deaths",
-      "summary": "Andhra Pradesh Congress Committee (APCC) President Y.S. Sharmila Reddy launched a scathing attack on the State government accusing it of criminal negligence and complete failure to ensure food safety. ​Bitter milk: On the Rajamahendravaram milk adulteration case",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sharmila-slams-government-over-milk-adulteration-deaths/article70723084.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hco01i/article70723369.ece/alternates/LANDSCAPE_1200/10745_9_6_2025_19_27_33_1_IMG_20250609_WA0136.JPG",
-      "published_at": "2026-03-09T15:02:57.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "పాల కల్తీ మరణాలపై ప్రభుత్వంపై షర్మిల మండిపడ్డారు",
-      "summary_te": "ఆంధ్రప్రదేశ్ కాంగ్రెస్ కమిటీ (ఏపీసీసీ) అధ్యక్షుడు వై.ఎస్. రాష్ట్ర ప్రభుత్వం నేరపూరిత నిర్లక్ష్యంతో పాటు ఆహార భద్రత విషయంలో పూర్తిగా విఫలమైందని ఆరోపిస్తూ షర్మిలారెడ్డి తీవ్ర స్థాయిలో విరుచుకుపడ్డారు. చేదు పాలు: రాజమహేంద్రవరం పాల కల్తీ కేసుపై",
       "translated": true
     },
     {
@@ -324,34 +324,6 @@
       "language": "en",
       "title_te": "కొత్త టీచర్ ఎడ్యుకేషన్ ప్రోగ్రామ్ కోసం విజ్ఞాన్ యూనివర్సిటీ NCTE ఆమోదం పొందింది",
       "summary_te": "గుంటూరు జిల్లా చేబ్రోలు మండలం వడ్లమూడి గ్రామంలోని విజ్ఞాన్ యూనివర్సిటీకి 2026-27 విద్యా సంవత్సరం నుంచి ఇంటిగ్రేటెడ్ టీచర్ ఎడ్యుకేషన్ ప్రోగ్రామ్ (ఐటీఈపీ) ప్రవేశపెట్టేందుకు నేషనల్ కౌన్సిల్ ఫర్ టీచర్ ఎడ్యుకేషన్ (ఎన్‌సీటీఈ) నుంచి ఆమోదం లభించిందని ఇన్‌ఛార్జ్ వైస్ ఛాన్సలర్ కె.వి. కృష్ణ కిషోర్ సోమవారం ప్రకటించారు. విజ్ఞాన్ విద్యాసంస్థల ఛైర్మన్ లావు రత్తయ్య మాట్లాడుతూ ఆధునిక బోధన మరియు సాంకేతికతతో కూడిన అభ్యాసంతో విషయ పరిజ్ఞానాన్ని మిళితం చేయడం ద్వారా “నేషన్ బిల్డర్‌లను” పెంపొందించడం ఈ కార్యక్రమం లక్ష్యం. భవిష్యత్ ఉపాధ్యాయులకు ఆచరణాత్మకంగా బహిర్గతం చేసేందుకు ప్రత్యేక ప్రయోగశాలలు, వనరుల కేంద్రాలు మరియు అనుభవపూర్వక శిక్షణా సౌకర్యాలను ఏర్పాటు చేసినట్లు ఆయన పేర్కొన్నారు. జాతీయ పరీక్షా సంస్థ నిర్వహించే జాతీయ సాధారణ ప్రవేశ పరీక్ష (NCET) ద్వారా అడ్మిషన్లు నిర్వహించబడతాయి, ఉపాధ్యాయుల విద్య కోసం జాతీయ పాఠ్య ప్రణాళిక ఫ్రేమ్‌వర్క్‌కు అనుగుణంగా పాఠ్యాంశాలు ఉంటాయి. పాఠశాలలు మరియు తరగతి గదులు.",
-      "translated": true
-    },
-    {
-      "id": "cb16992187163d19851438d27bd39764",
-      "title": "Woman ‘dies’ of suffocation on RTC bus",
-      "summary": "A 50-year-old woman reportedly died of suffocation on an APSRTC bus at Jangareddygudem town in Eluru district on Sunday.A native of Gopalapuram village in East Godavari district, M. Jyothi, boarded the bus which was packed with commuters. After some time, she collapsed and reportedly died due to a breathing problem.The Jangareddygudem police registered a case and initiated an investigation. Speaking to The Hindu on Monday, Jangareddygudem Assistant Superintendent of Police (ASP) Susmitha Ramanathan said that police are investigating the case thoroughly. “We are waiting for the post-mortem report,” the ASP said.Kovvur Depot Manager Abhiram Naik said 48 persons were travelling in the ‘Pallevelugu’ service when the bus reached Jangareddygudem. However, Mr. Naik did not provide the stage-wise occupancy ratio of the passenger bus.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/woman-dies-of-suffocation-on-rtc-bus/article70722613.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-09T14:27:29.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఆర్టీసీ బస్సులో ఊపిరాడక మహిళ ‘మృతి’",
-      "summary_te": "ఏలూరు జిల్లా జంగారెడ్డిగూడెం పట్టణంలో ఆదివారం APSRTC బస్సులో ఊపిరాడక 50 ఏళ్ల మహిళ మృతి చెందింది. తూర్పుగోదావరి జిల్లా గోపాలపురం గ్రామానికి చెందిన ఎం. జ్యోతి ప్రయాణికులతో నిండిపోయిన బస్సులో ఎక్కింది. కొంతసేపటికి ఆమె కుప్పకూలిపోయి శ్వాస తీసుకోవడంలో సమస్య కారణంగా మృతి చెందినట్లు సమాచారం. జంగారెడ్డిగూడెం పోలీసులు కేసు నమోదు చేసి దర్యాప్తు ప్రారంభించారు. ఈ మేరకు సోమవారం జంగారెడ్డిగూడెం అసిస్టెంట్‌ సూపరింటెండెంట్‌ ఆఫ్‌ పోలీస్‌ (ఏఎస్పీ) సుస్మిత రామనాథన్‌ ‘ది హిందూ’తో మాట్లాడుతూ.. పోలీసులు కేసును క్షుణ్ణంగా విచారిస్తున్నారని తెలిపారు. పోస్టుమార్టం నివేదిక కోసం ఎదురు చూస్తున్నామని ఏఎస్పీ తెలిపారు. బస్ జంగారెడ్డిగూడెం చేరుకునేసరికి పల్లెవెలుగు సర్వీసులో 48 మంది ప్రయాణిస్తున్నట్లు కొవ్వూరు డిపో మేనేజర్ అభిరామ్ నాయక్ తెలిపారు. అయితే, శ్రీ నాయక్ ప్యాసింజర్ బస్సు స్టేజ్ వారీ ఆక్యుపెన్సీ రేషియోను అందించలేదు.",
-      "translated": true
-    },
-    {
-      "id": "c2f47bf0c071a764853a7bf6d151f154",
-      "title": "It took 20 months to rectify ‘wrongdoings’ of the previous govt., says A.P. CM",
-      "summary": "The State will continue on the development trajectory only if the government is given an opportunity to continue for successive terms like in Gujarat, says Chief Minister",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/it-took-20-months-to-rectify-wrongdoings-of-the-previous-govt-says-ap-cm/article70722875.ece",
-      "image": "https://th-i.thgim.com/public/incoming/jo0t5r/article70723085.ece/alternates/LANDSCAPE_1200/9604_9_3_2026_18_16_34_2_IMG_20260309_WA0025.JPG",
-      "published_at": "2026-03-09T14:26:49.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "గత ప్రభుత్వ తప్పిదాలను సరిదిద్దేందుకు 20 నెలల సమయం పట్టిందని ఏపీ సీఎం",
-      "summary_te": "గుజరాత్‌లో మాదిరిగానే ప్రభుత్వం వరుసగా కొనసాగే అవకాశం ఇస్తేనే రాష్ట్రం అభివృద్ధి పథంలో కొనసాగుతుందని ముఖ్యమంత్రి చెప్పారు.",
       "translated": true
     }
   ]

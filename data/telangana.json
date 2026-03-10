@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-10T09:45:07.389Z",
-  "updated_at_IST": "10/3/2026, 3:15:07 pm",
+  "updated_at": "2026-03-10T10:40:16.528Z",
+  "updated_at_IST": "10/3/2026, 4:10:16 pm",
   "category": "telangana",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "b8a7eefb938b9b83684547fccb7a602a",
+      "title": "LPG shortage looms large, but Hyderabad haleem to stay on menu",
+      "summary": "The dish is cooked in wood-fired ovens known as ‘bhatti’. Restaurateurs say regular food served to the personnel working in the restaurant industry is likely to be affected.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/lpg-shortage-looms-large-but-hyderabad-haleem-to-stay-on-menu/article70725434.ece",
+      "image": "https://th-i.thgim.com/public/incoming/guzw9v/article70725522.ece/alternates/LANDSCAPE_1200/DSC_7030.jpg",
+      "published_at": "2026-03-10T07:28:19.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "LPG కొరత తీవ్రంగా ఉంది, కానీ హైదరాబాద్ హలీమ్ మెనూలో కొనసాగుతుంది",
+      "summary_te": "ఈ వంటకాన్ని 'భట్టి' అని పిలిచే చెక్కతో కాల్చిన ఓవెన్లలో వండుతారు. రెస్టారెంట్ పరిశ్రమలో పనిచేసే సిబ్బందికి అందించే రెగ్యులర్ ఫుడ్ దెబ్బతినే అవకాశం ఉందని రెస్టారెంట్లు అంటున్నారు.",
+      "translated": true
+    },
     {
       "id": "80c3e4fca14adbf5310a04090c26acaf",
       "title": "Over 5,000 litres of adulterated cooking oil seized in Gachibowli; expired wheat flour repackaged for sale",
