@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-10T20:32:42.414Z",
-  "updated_at_IST": "11/3/2026, 2:02:42 am",
+  "updated_at": "2026-03-10T21:32:09.975Z",
+  "updated_at_IST": "11/3/2026, 3:02:09 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "016921fbe6a576c243d9fa47dcd4dd21",
+      "title": "140 troops wounded, 8 severely in 10-day war with Iran, majority sustain minor injuries, Pentagon says",
+      "summary": "Chief Pentagon Spokesman Sean Parnell added that 108 of the wounded service members had already returned to duty, while the eight seriously injured troops were receiving the highest level of medical care.",
+      "url": "https://www.livemint.com/news/us-news/140-troops-wounded-8-severely-in-10-day-war-with-iran-majority-sustain-minor-injuries-pentagon-says-11773174841266.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/DIGNIFIED-TRANSFER-HELD-FOR-6-SOLDIERS-KILLED-I_1773175265665_1773175265777.jpg",
+      "published_at": "2026-03-10T20:47:38.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్‌తో 10 రోజుల యుద్ధంలో 140 మంది సైనికులు గాయపడ్డారు, 8 మంది తీవ్రంగా గాయపడ్డారు, మెజారిటీకి స్వల్ప గాయాలయ్యాయి, పెంటగాన్ తెలిపింది",
+      "summary_te": "గాయపడిన 108 మంది సైనికులు ఇప్పటికే తిరిగి విధుల్లో చేరారని, తీవ్రంగా గాయపడిన ఎనిమిది మంది సైనికులు అత్యున్నత స్థాయి వైద్య సంరక్షణను పొందుతున్నారని చీఫ్ పెంటగాన్ ప్రతినిధి సీన్ పార్నెల్ తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "67c0cfaa4b6817d1bb0679df960477a6",
       "title": "NASA's 1,323-pound satellite to re-enter earth today: Will it crash or burn up? Can we watch the re-entry? What we know",
@@ -352,20 +366,6 @@
       "language": "en",
       "title_te": "కెనడాలోని టొరంటోలోని US కాన్సులేట్ వెలుపల తుపాకీ కాల్పులు నివేదించబడ్డాయి; సంఘటనను పోలీసులు విచారిస్తున్నారు",
       "summary_te": "టొరంటోలోని యుఎస్ కాన్సులేట్ వద్ద తుపాకీ కాల్పులు జరిగినట్లు నివేదించబడిన తరువాత కెనడాలోని పోలీసులు దర్యాప్తు చేస్తున్నారు, అయితే ఎటువంటి గాయాలు నివేదించబడలేదు. నార్వేలోని ఓస్లోలోని యుఎస్ రాయబార కార్యాలయ ప్రవేశానికి అనుమానాస్పదమైన పేలుడు పరికరం దెబ్బతినడంతో ఈ సంఘటన జరిగింది, ఇక్కడ పోలీసులు ఇప్పటికీ నిందితుడి కోసం వెతుకుతున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "5934612428dffec459723d463cfcb96c",
-      "title": "Quote of the Day: Martin Luther King Jr. on war — ‘Wars are poor chisels for carving out peaceful tomorrows’",
-      "summary": "Martin Luther King Jr.’s reflection on war remains deeply relevant as tensions escalate in the Middle East, reminding the world that violence cannot build a lasting peace.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-martin-luther-king-jr-on-war-wars-are-poor-chisels-for-carving-out-peaceful-tomorrows-11773148492041.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/US-King-Lee-Holiday-0_1737386320420_1773148514779.jpg",
-      "published_at": "2026-03-10T13:24:35.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: మార్టిన్ లూథర్ కింగ్ జూ.",
-      "summary_te": "మధ్యప్రాచ్యంలో ఉద్రిక్తతలు పెరుగుతున్నందున మార్టిన్ లూథర్ కింగ్ జూనియర్ యొక్క యుద్ధం యొక్క ప్రతిబింబం లోతుగా సంబంధితంగా ఉంది, హింస శాశ్వత శాంతిని నిర్మించలేదని ప్రపంచానికి గుర్తుచేస్తుంది.",
       "translated": true
     },
     {
