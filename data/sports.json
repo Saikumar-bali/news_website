@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-10T08:40:22.208Z",
-  "updated_at_IST": "10/3/2026, 2:10:22 pm",
+  "updated_at": "2026-03-10T09:45:07.389Z",
+  "updated_at_IST": "10/3/2026, 3:15:07 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "8ce35066781f6b8f1bdc3922360109d8",
+      "title": "Zimbabwe's Ndhlovu ruled out of third ODI after concussion scare",
+      "summary": "She is currently recovering and remains under medical observation following the incident",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527536.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414501.jpg",
+      "published_at": "2026-03-10T09:10:14.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కంకషన్ భయంతో జింబాబ్వే ఆటగాడు నధ్లోవు మూడో వన్డేకు దూరమయ్యాడు",
+      "summary_te": "ఆమె ప్రస్తుతం కోలుకుంటోంది మరియు సంఘటన తర్వాత వైద్య పరిశీలనలో ఉంది",
+      "translated": true
+    },
     {
       "id": "b1f37f8074c7cf26b8b7ac798d54471b",
       "title": "'I've almost rebirthed myself at 38' - Bates targets T20 World Cup after injury layoff",
       "summary": "With Gaze set to retain her spot at the top, Bates is preparing for a new role in the middle order",
       "url": "https://www.espncricinfo.com/ci/content/story/1527525.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408414.jpg",
-      "published_at": "2026-03-10T08:00:39.000Z",
+      "published_at": "2026-03-10T08:40:14.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "అభిషేక్: నేను పెద్ద గేమ్‌లు గెలుస్తానని కోచ్ మరియు కెప్టెన్ నాకు చెప్పారు",
       "summary_te": "విజయం తర్వాత సూర్యకుమార్ యాదవ్, వరుణ్ చక్రవర్తి, శివమ్ దూబే తదితరులు కూడా స్పందించారు",
-      "translated": true
-    },
-    {
-      "id": "7bf9dfe43b6c45a6a2f7030dc66f368d",
-      "title": "Muzumdar: Facing pink ball under lights a 'different challenge'",
-      "summary": "India coach takes heart from performances of debutants Rawal and Satghare despite ten-wicket defeat",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527361.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/372400/372422.jpg",
-      "published_at": "2026-03-08T14:40:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ముజుందార్: లైట్ల కింద పింక్ బాల్‌ను ఎదుర్కోవడం 'డిఫరెంట్ ఛాలెంజ్'",
-      "summary_te": "పది వికెట్ల పరాజయం పాలైనప్పటికీ, అరంగేట్ర ఆటగాళ్లు రావల్ మరియు సత్‌ఘరేల ప్రదర్శనల నుండి భారత కోచ్ హృదయాన్ని పొందాడు",
       "translated": true
     }
   ]
