@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-03-10T06:47:30.230Z",
-  "updated_at_IST": "10/3/2026, 12:17:30 pm",
+  "updated_at": "2026-03-10T07:46:00.665Z",
+  "updated_at_IST": "10/3/2026, 1:16:00 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
-      "id": "86626ee85e447ae142c7fcc3f2e17680",
-      "title": "Hayden appointed as Gujarat Titans batting coach",
-      "summary": "This will be Hayden's first coaching stint in the IPL",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527526.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400288.jpg",
-      "published_at": "2026-03-10T06:26:16.000Z",
+      "id": "0371501809152ee37dcb43f4da49413d",
+      "title": "BCCI announces cash reward of INR 131 crore for India's World Cup-winning side",
+      "summary": "India beat NZ by 96 runs in Ahmedabad in the T20 World Cup final on Sunday",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527527.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414562.jpg",
+      "published_at": "2026-03-10T07:06:08.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "గుజరాత్ టైటాన్స్ బ్యాటింగ్ కోచ్‌గా హేడెన్ నియమితుడయ్యాడు",
-      "summary_te": "ఐపీఎల్‌లో హేడెన్‌కి ఇదే తొలి కోచింగ్‌",
+      "title_te": "ప్రపంచకప్ గెలిచిన భారత జట్టుకు బీసీసీఐ 131 కోట్ల రూపాయల నగదు బహుమతిని ప్రకటించింది.",
+      "summary_te": "ఆదివారం అహ్మదాబాద్‌లో జరిగిన టీ20 ప్రపంచకప్ ఫైనల్లో భారత్ 96 పరుగుల తేడాతో న్యూజిలాండ్‌పై విజయం సాధించింది",
+      "translated": true
+    },
+    {
+      "id": "f0ecfecd2c56dd52f8b2566832eba302",
+      "title": "Casson tasked with leading Western Australia's revival",
+      "summary": "The long-time assistant coach will step into Adam Voges shoes after signing a three-year deal",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527528.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414584.jpg",
+      "published_at": "2026-03-10T07:05:10.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
+      "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
       "translated": true
     },
     {
@@ -24,12 +38,40 @@
       "summary": "With Gaze set to retain her spot at the top, Bates is preparing for a new role in the middle order",
       "url": "https://www.espncricinfo.com/ci/content/story/1527525.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408414.jpg",
-      "published_at": "2026-03-10T06:16:20.000Z",
+      "published_at": "2026-03-10T07:03:25.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "'నేను దాదాపు 38 సంవత్సరాల వయస్సులో పునర్జన్మ పొందాను' - గాయం తొలగింపు తర్వాత బేట్స్ T20 ప్రపంచ కప్‌ను లక్ష్యంగా చేసుకున్నాడు",
       "summary_te": "గాజ్ అగ్రస్థానంలో తన స్థానాన్ని నిలుపుకోవడంతో, బేట్స్ మిడిల్ ఆర్డర్‌లో కొత్త పాత్ర కోసం సిద్ధమవుతున్నాడు",
+      "translated": true
+    },
+    {
+      "id": "d5f26184eb4d5d03f31279e319a91abe",
+      "title": "Zampa steps aside from One-Day Cup final to ensure Sangha can play",
+      "summary": "The Australia legspinner was keen to play against Tasmania but did not want to stand in the way of his younger team-mate",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527518.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/383500/383558.jpg",
+      "published_at": "2026-03-10T06:57:17.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సంఘ ఆడగలదని నిర్ధారించుకోవడానికి జంపా వన్డే కప్ ఫైనల్ నుండి తప్పుకున్నాడు",
+      "summary_te": "ఆస్ట్రేలియా లెగ్ స్పిన్నర్ టాస్మానియాతో ఆడేందుకు ఆసక్తిగా ఉన్నాడు కానీ తన యువ సహచరుడి మార్గంలో నిలబడటానికి ఇష్టపడలేదు.",
+      "translated": true
+    },
+    {
+      "id": "86626ee85e447ae142c7fcc3f2e17680",
+      "title": "Hayden appointed as Gujarat Titans batting coach",
+      "summary": "This will be Hayden's first coaching stint in the IPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527526.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400288.jpg",
+      "published_at": "2026-03-10T06:39:24.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గుజరాత్ టైటాన్స్ బ్యాటింగ్ కోచ్‌గా హేడెన్ నియమితుడయ్యాడు",
+      "summary_te": "ఐపీఎల్‌లో హేడెన్‌కి ఇదే తొలి కోచింగ్‌",
       "translated": true
     },
     {
@@ -44,20 +86,6 @@
       "language": "en",
       "title_te": "క్వీన్స్‌లాండ్ మరియు బ్రిస్బేన్ హీట్ కెప్టెన్‌గా జోనాస్సెన్ వైదొలిగాడు",
       "summary_te": "ఇటీవల గాయం నుండి తిరిగి వచ్చిన ఆల్‌రౌండర్ 2020 నుండి పాత్రలను కలిగి ఉన్నాడు",
-      "translated": true
-    },
-    {
-      "id": "d5f26184eb4d5d03f31279e319a91abe",
-      "title": "Zampa steps aside from One-Day Cup final to ensure Sangha can play",
-      "summary": "The Australia legspinner was keen to play against Tasmania but did not want to stand in the way of his younger team-mate",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527518.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/383500/383558.jpg",
-      "published_at": "2026-03-10T00:16:51.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సంఘ ఆడగలదని నిర్ధారించుకోవడానికి జంపా వన్డే కప్ ఫైనల్ నుండి తప్పుకున్నాడు",
-      "summary_te": "ఆస్ట్రేలియా లెగ్ స్పిన్నర్ టాస్మానియాతో ఆడేందుకు ఆసక్తిగా ఉన్నాడు కానీ తన యువ సహచరుడి మార్గంలో నిలబడటానికి ఇష్టపడలేదు.",
       "translated": true
     },
     {
@@ -155,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
+      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమ్మన్స్ స్పిన్‌ను ఎదుర్కొనేందుకు వికెట్ కీపర్ సామర్థ్యం ఒక కారణమని చెప్పాడు",
       "translated": true
     },
     {
@@ -169,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
+      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్లను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "న్యూజిలాండ్ బౌలింగ్‌లో డఫీతో మెక్‌కాంచి, భారత్‌లో ఎలాంటి మార్పు లేదు",
       "summary_te": "భారతదేశం యొక్క లెఫ్ట్ హ్యాండ్-హెవీ టాప్ ఆర్డర్‌పై ఆఫ్‌స్పిన్నర్ గురించి అన్ని చర్చలు జరిగిన తర్వాత, సెమీ-ఫైనల్‌లో ఒకే ఓవర్‌లో డి కాక్ మరియు రికెల్టన్‌లను అవుట్ చేసిన న్యూజిలాండ్‌ను తొలగించింది.",
-      "translated": true
-    },
-    {
-      "id": "40429c4121c7ae5501e706c0dc9607a6",
-      "title": "West Indies, South Africa to fly out of India in the early hours of Tuesday",
-      "summary": "The travel plans of teams like West Indies and South Africa, as well as England and Zimbabwe, had to be changed because of the crisis in West Asia",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527331.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413700/413765.jpg",
-      "published_at": "2026-03-08T10:08:41.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్టిండీస్, దక్షిణాఫ్రికా మంగళవారం తెల్లవారుజామున భారత్ నుండి బయలుదేరుతాయి",
-      "summary_te": "పశ్చిమాసియాలో సంక్షోభం కారణంగా వెస్టిండీస్ మరియు దక్షిణాఫ్రికా, అలాగే ఇంగ్లాండ్ మరియు జింబాబ్వే వంటి జట్ల ప్రయాణ ప్రణాళికలను మార్చవలసి వచ్చింది.",
-      "translated": true
-    },
-    {
-      "id": "6ac9bb3799397b0216c5b19d95556c66",
-      "title": "Australia give Healy fitting farewell with ten-wicket demolition of India",
-      "summary": "Pratika Rawal scored a half-century to make Australia bat again, but Georgia Voll and Phoebe Litchfield knocked off the paltry 25-run target to finish the Test in just over two days",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527317.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414506.jpg",
-      "published_at": "2026-03-08T07:44:31.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "భారత్‌పై పది వికెట్ల విధ్వంసంతో ఆస్ట్రేలియా హీలీకి వీడ్కోలు పలికింది",
-      "summary_te": "ప్రతీకా రావల్ హాఫ్ సెంచరీ చేసి ఆస్ట్రేలియాను మళ్లీ బ్యాటింగ్ చేసేలా చేసింది, అయితే జార్జియా వోల్ మరియు ఫోబ్ లిచ్‌ఫీల్డ్ 25 పరుగుల స్వల్ప లక్ష్యాన్ని పడగొట్టి కేవలం రెండు రోజుల్లోనే టెస్టును ముగించారు.",
       "translated": true
     }
   ]
