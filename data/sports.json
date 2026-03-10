@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-10T10:40:16.528Z",
-  "updated_at_IST": "10/3/2026, 4:10:16 pm",
+  "updated_at": "2026-03-10T11:36:37.746Z",
+  "updated_at_IST": "10/3/2026, 5:06:37 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "01c2c569a9e454452e5762a8caa9d8bf",
+      "title": "Bangladesh, Pakistan start afresh with 2027 World Cup in mind",
+      "summary": "Pakistan have six uncapped players in their squad while Bangladesh are set to try a new middle order combination",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527541.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/396900/396937.jpg",
+      "published_at": "2026-03-10T11:15:10.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
+      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
+      "translated": true
+    },
     {
       "id": "8ce35066781f6b8f1bdc3922360109d8",
       "title": "Zimbabwe's Ndhlovu ruled out of third ODI after concussion scare",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "న్యూజిలాండ్‌ను మట్టికరిపించిన భారత్ మూడో టీ20 ప్రపంచకప్ టైటిల్‌ను కైవసం చేసుకుంది",
       "summary_te": "అభిషేక్, శాంసన్, కిషన్‌లు హాఫ్ సెంచరీలతో 255 పరుగులు చేసి బుమ్రా చేసిన ఫోర్‌తో భారీ విజయాన్ని సాధించారు.",
-      "translated": true
-    },
-    {
-      "id": "7713186a258277d958d69537081a8d3b",
-      "title": "Abhishek: Coach and captain told me I was going to win big games",
-      "summary": "Suryakumar Yadav, Varun Chakravarthy, Shivam Dube and others also react after the victory",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527405.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414525.jpg",
-      "published_at": "2026-03-08T19:06:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "అభిషేక్: నేను పెద్ద గేమ్‌లు గెలుస్తానని కోచ్ మరియు కెప్టెన్ నాకు చెప్పారు",
-      "summary_te": "విజయం తర్వాత సూర్యకుమార్ యాదవ్, వరుణ్ చక్రవర్తి, శివమ్ దూబే తదితరులు కూడా స్పందించారు",
       "translated": true
     }
   ]
