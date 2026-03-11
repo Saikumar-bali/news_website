@@ -1,23 +1,9 @@
 {
-  "updated_at": "2026-03-11T16:50:39.452Z",
-  "updated_at_IST": "11/3/2026, 10:20:39 pm",
+  "updated_at": "2026-03-11T17:53:29.315Z",
+  "updated_at_IST": "11/3/2026, 11:23:29 pm",
   "category": "telangana",
-  "count": 31,
+  "count": 23,
   "articles": [
-    {
-      "id": "0c6c0c70e03935139f5917ca470304b0",
-      "title": "'Liquor policy case appeal should be transferred to another bench'",
-      "summary": "'Liquor policy case appeal should be transferred to another bench' tvenkatesh Wed, 03/11/2026 - 22:00",
-      "url": "https://www.sakshi.com/telugu-news/national/arvind-kejriwal-writes-delhi-hc-chief-justice-2730768",
-      "image": null,
-      "published_at": "2026-03-11T16:30:41.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "‘మద్యం పాలసీ కేసు అప్పీలును మరో బెంచ్‌కు బదిలీ చేయాలి‘",
-      "summary_te": "‘మద్యం పాలసీ కేసు అప్పీలును మరో బెంచ్‌కు బదిలీ చేయాలి‘ tvenkatesh Wed, 03/11/2026 - 22:00",
-      "translated": true
-    },
     {
       "id": "4a5eec002807133cd4b15216c36bb99f",
       "title": "LPG cylinder shortage forces Hyderabad hotels to scale down menus, possible closure clouds establishments",
@@ -33,45 +19,31 @@
       "translated": true
     },
     {
-      "id": "3a1ee0e47dcbd752f34113ea503ec770",
-      "title": "Gujarat signed a two-time winning coach",
-      "summary": "Gujarat signs deal with two-time winning coach johnpaul Wed, 03/11/2026 - 21:37",
-      "url": "https://www.sakshi.com/telugu-news/sports/gujarat-titans-sign-two-time-ipl-winning-coach-rediscover-victory-mantra-2730767",
-      "image": null,
-      "published_at": "2026-03-11T16:07:35.000Z",
-      "source": "Sakshi",
+      "id": "d69fc6b5b69a148d5d1cb8e9d42988a2",
+      "title": "KTR flays Speaker’s verdict on defector MLAs, terms it undemocratic, shocking",
+      "summary": "HYDERABADWorking president of the Bharat Rashtra Samithi (BRS) K.T. Rama Rao has strongly condemned the Telangana Assembly Speaker’s decision on the disqualification petitions against MLAs defected from BRS to the ruling Congress, calling it highly undemocratic and shocking.Reacting to the Speaker’s ruling on disqualification petitions against Danam Nagender and Kadiyam Srihari on Wednesday, he alleged that the decision was taken under tremendous pressure from Congress leader Rahul Gandhi, and accused the Congress leadership of orchestrating the entire episode.He observed that the Speaker had virtually no independence in the matter and that the Congress party itself was directly managing the defection operations in the State. The Speaker’s decision represented a direct assault on democracy and the Constitution of India - and the principal architect behind this unethical move was Rahul Gandhi, he alleged.Mr. Rama Rao alleged that Mr. Rahul Gandhi was encouraging such unethical political activities for the sake of massive money flows reaching AICC from Telangana and described the developments as part of a politically motivated operation. He questioned the moral authority of Mr. Gandhi and the Congress party to speak about defections.Criticising Mr. Gandhi’s political stance, the BRS leader said the Congress leader claiming to be the defender of the Constitution while encouraging defections simultaneously is unfortunate. He asked the Congress party to justify how an MLA (Danam Nagender) who had won on a BRS B-Form could contest as a Congress candidate for Lok Sabha without resigning from BRS - or the Assembly - and escape disqualification.He remarked that in the history of independent India, rarely had a Speaker delivered such a controversial decision. He said the BRS would be ready to felicitate those responsible for such a “historic” decision.“All the evidence is already in the public domain. The Election Commission records clearly show which B-Form the MLA used to contest the Assembly election and which B-Form he used to contest for Parliament. What further inquiry is needed?” he asked.Mr. Rama Rao also faulted Mr. Gandhi for talking about automatic disqualification if someone defects (a promise made in the Congress manifesto for the 2024 Lok Sabha elections).",
+      "url": "https://www.thehindu.com/news/national/telangana/ktr-flays-speakers-verdict-on-defector-mlas-terms-it-undemocratic-shocking/article70731993.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/eir90d/article70731987.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%206.10.01%20PM.jpeg",
+      "published_at": "2026-03-11T15:47:43.000Z",
+      "source": "The Hindu Telangana",
       "category": "telangana",
-      "language": "te",
-      "title_te": "టూ టైమ్‌ విన్నింగ్‌ కోచ్‌తో ఒప్పందం చేసుకున్న గుజరాత్‌",
-      "summary_te": "టూ టైమ్‌ విన్నింగ్‌ కోచ్‌తో ఒప్పందం చేసుకున్న గుజరాత్‌ johnpaul Wed, 03/11/2026 - 21:37",
+      "language": "en",
+      "title_te": "ఫిరాయింపు ఎమ్మెల్యేలపై స్పీకర్‌ ఇచ్చిన తీర్పు అప్రజాస్వామికమని, దిగ్భ్రాంతికరమని కేటీఆర్ మండిపడ్డారు",
+      "summary_te": "హైదరాబాద్‌: భారత రాష్ట్ర సమితి (బీఆర్‌ఎస్‌) వర్కింగ్‌ ప్రెసిడెంట్‌ కె.టి. బీఆర్‌ఎస్‌ నుంచి అధికార కాంగ్రెస్‌లోకి ఫిరాయించిన ఎమ్మెల్యేలపై తెలంగాణ అసెంబ్లీ స్పీకర్‌ తీసుకున్న నిర్ణయం అప్రజాస్వామికమని, దిగ్భ్రాంతికరమని రామారావు తీవ్రంగా ఖండిస్తున్నారు. దానం నాగేందర్‌, కడియం శ్రీహరిలపై అనర్హత పిటిషన్లపై బుధవారం స్పీకర్‌ ఇచ్చిన తీర్పుపై స్పందించారు. ఈ విషయంలో స్పీకర్‌కు వాస్తవంగా ఎలాంటి స్వతంత్రం లేదని, రాష్ట్రంలో ఫిరాయింపు కార్యకలాపాలను కాంగ్రెస్ పార్టీయే నేరుగా నిర్వహిస్తోందని గమనించారు. స్పీకర్ నిర్ణయం ప్రజాస్వామ్యం మరియు భారత రాజ్యాంగంపై ప్రత్యక్ష దాడిని సూచిస్తుంది - మరియు ఈ అనైతిక చర్య వెనుక ప్రధాన వాస్తుశిల్పి రాహుల్ గాంధీ అని ఆయన ఆరోపించారు. తెలంగాణ నుంచి ఏఐసీసీకి పెద్దఎత్తున ధన ప్రవాహాలు చేరడం కోసమే రాహుల్ గాంధీ ఇలాంటి అనైతిక రాజకీయ కార్యకలాపాలను ప్రోత్సహిస్తున్నారని రామారావు ఆరోపిస్తూ, ఈ పరిణామాలను రాజకీయ ప్రేరేపిత ఆపరేషన్‌లో భాగంగా అభివర్ణించారు. ఫిరాయింపుల గురించి మాట్లాడే నైతిక అధికారం శ్రీ గాంధీకి, కాంగ్రెస్ పార్టీకి ఏమిటని ఆయన ప్రశ్నించారు. గాంధీ రాజకీయ వైఖరిని విమర్శిస్తూ, కాంగ్రెస్ నాయకుడు ఏకకాలంలో ఫిరాయింపులను ప్రోత్సహిస్తూనే తాను రాజ్యాంగ రక్షకుడినని చెప్పుకోవడం దురదృష్టకరమని బీఆర్‌ఎస్ నాయకుడు అన్నారు. బీఆర్‌ఎస్ బీ-ఫారంపై గెలిచిన ఎమ్మెల్యే (దానం నాగేందర్) బీఆర్‌ఎస్‌కు లేదా అసెంబ్లీకి రాజీనామా చేయకుండా లోక్‌సభకు కాంగ్రెస్ అభ్యర్థిగా ఎలా పోటీ చేసి అనర్హత వేటు నుంచి తప్పించుకోగలిగారో సమర్థించుకోవాలని ఆయన కాంగ్రెస్ పార్టీని కోరారు. అటువంటి \"చారిత్రక\" నిర్ణయానికి కారణమైన వారిని అభినందించడానికి BRS సిద్ధంగా ఉంటుందని ఆయన అన్నారు. \"అన్ని ఆధారాలు ఇప్పటికే ప్రజల డొమైన్‌లో ఉన్నాయి. ఎన్నికల సంఘం రికార్డులు స్పష్టంగా ఉన్నాయి, అసెంబ్లీ ఎన్నికల్లో ఎమ్మెల్యే ఏ బి-ఫారంతో పోటీ చేసారో మరియు అతను పార్లమెంటుకు పోటీ చేసిన బి-ఫారమ్‌ను ఉపయోగించారు. ఇంకా ఏమి విచారణ అవసరం?\" అని అడిగాడు. ఎవరైనా ఫిరాయింపులకు పాల్పడితే ఆటోమేటిక్ అనర్హత (2024 లోక్‌సభ ఎన్నికల కోసం కాంగ్రెస్ మేనిఫెస్టోలో చేసిన వాగ్దానం) గురించి మాట్లాడినందుకు రామారావు శ్రీ గాంధీని తప్పుబట్టారు.",
       "translated": true
     },
     {
-      "id": "1aa6e5fb8260ae886f78daaa346a65c9",
-      "title": "If he lost his job within 3 days.. what did this AI engineer do..",
-      "summary": "If you lose your job within 3 days.. what did this AI engineer do.. gbalaji Wed, 03/11/2026 - 21:06",
-      "url": "https://www.sakshi.com/telugu-news/business/fired-just-3-days-ai-engineer-now-earns-8-times-more-year-later-2730766",
-      "image": null,
-      "published_at": "2026-03-11T15:36:10.000Z",
-      "source": "Sakshi",
+      "id": "5f88eb87ddd5e8c36351a036adb37b11",
+      "title": "SSC Exams 2026: OMR sheet is attached to the answer booklet",
+      "summary": "The Secondary School Certificate public examinations 2026 will continue the system of OMR sheet attached to the answer booklet, like the way it was conducted last year. The Optical Mark Recognition sheet, divided into part 1 and 2, is a crucial document to record candidate’s name, roll number, signature of the candidate and invigilator, test details, and later marks allotment. Candidates can view the sample of the OMR sheet and answer booklet placed on www.bse.telangana.gov.in and http://schooledu.telangana.gov.in/ to familiarise themselves with the format.",
+      "url": "https://www.thehindu.com/news/national/telangana/ssc-exams-2026-omr-sheet-is-attached-to-the-answer-booklet/article70732020.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-11T15:38:35.000Z",
+      "source": "The Hindu Telangana",
       "category": "telangana",
-      "language": "te",
-      "title_te": "3 రోజుల్లోనే ఉద్యోగం పోతే.. ఈ ఏఐ ఇంజనీర్ ఏం చేసిందంటే..",
-      "summary_te": "3 రోజుల్లోనే ఉద్యోగం పోతే.. ఈ ఏఐ ఇంజనీర్ ఏం చేసిందంటే.. gbalaji Wed, 03/11/2026 - 21:06",
-      "translated": true
-    },
-    {
-      "id": "ee4b7db618b65ca2ff59bc37ed929a76",
-      "title": "War to the final stage.. Trump is good news",
-      "summary": "War to final stage.. Trump good news tvenkatesh Wed, 03/11/2026 - 21:03",
-      "url": "https://www.sakshi.com/telugu-news/international/trump-claims-us-has-crippled-iran%E2%80%99s-targets-2730765",
-      "image": null,
-      "published_at": "2026-03-11T15:33:47.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "తుది దశకు యుద్ధం.. ట్రంప్‌ గుడ్‌న్యూస్‌",
-      "summary_te": "తుది దశకు యుద్ధం.. ట్రంప్‌ గుడ్‌న్యూస్‌ tvenkatesh Wed, 03/11/2026 - 21:03",
+      "language": "en",
+      "title_te": "SSC పరీక్షలు 2026: OMR షీట్ ఆన్సర్ బుక్‌లెట్‌కి జోడించబడింది",
+      "summary_te": "సెకండరీ స్కూల్ సర్టిఫికేట్ పబ్లిక్ పరీక్షలు 2026 ఆన్సర్ బుక్‌లెట్‌కు జోడించిన OMR షీట్ వ్యవస్థను గత సంవత్సరం నిర్వహించిన విధంగానే కొనసాగిస్తుంది. ఆప్టికల్ మార్క్ రికగ్నిషన్ షీట్, పార్ట్ 1 మరియు 2గా విభజించబడింది, అభ్యర్థి పేరు, రోల్ నంబర్, అభ్యర్థి మరియు ఇన్విజిలేటర్ సంతకం, పరీక్ష వివరాలు మరియు తరువాత మార్కుల కేటాయింపును రికార్డ్ చేయడానికి కీలకమైన పత్రం. అభ్యర్థులు www.bse.telangana.gov.in మరియు http://schooledu.telangana.gov.in/లో ఉంచిన OMR షీట్ మరియు ఆన్సర్ బుక్‌లెట్ నమూనాను వీక్షించవచ్చు.",
       "translated": true
     },
     {
@@ -89,20 +61,6 @@
       "translated": true
     },
     {
-      "id": "3556e410eb74625ec165de3527f1b483",
-      "title": "Promotions of 'Mr. From Home' movie as variety",
-      "summary": "'Mr From Home' Movie Promotions as Variety divyagoud Wed, 03/11/2026 - 20:41",
-      "url": "https://www.sakshi.com/telugu-news/movies/mr-work-home-promotions-stalls-2730764",
-      "image": null,
-      "published_at": "2026-03-11T15:11:27.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "వెరైటీగా 'మిస్టర్‌ ఫ్రమ్‌ హోమ్‌' సినిమా ప్రమోషన్స్‌",
-      "summary_te": "వెరైటీగా 'మిస్టర్‌ ఫ్రమ్‌ హోమ్‌' సినిమా ప్రమోషన్స్‌ divyagoud Wed, 03/11/2026 - 20:41",
-      "translated": true
-    },
-    {
       "id": "83b00d2e2567de516f5772ceac3f7401",
       "title": "Medha Patkar calls for suspension of March 13 unveiling of Musi project plan",
       "summary": "Prominent social activist Medha Patkar has addressed a letter to the Chief Minister A. Revanth Reddy requesting him to champion the betterment of Musi river along with the riverine communities, but not at the expense of each other. She urged him to shun any violence against people in Mahatma Gandhi’s name.Ms. Patkar, representing the All India Rivers Forum and National Alliance of People’s Movements (NAPM), has called for the immediate suspension of the proposed unveiling of the Detailed Project Plans for Phase-1 of Musi River Rejuvenation scheduled for March 13, to which she is one among the official invitees.The present framework excludes the voices of the directly affected families, environmental experts and social activists, and in a democracy grounded in participatory governance, such omissions render the proceedings antithetical to true partnership, she mentioned.Musi Riverfront Development is one among over 100 similar riverfront initiatives planned predominantly in states governed by BJP and its allies, many of which have raised profound social and environmental apprehensions, she said citing the example of Sabarmati project which received several directives and corrective measures from the Gujarat High Court.Listing the history of the Musi project since the late 1990s, Ms. Patkar noted that it is likely to displace thousands of households while endangering heritage structures. Recent demolitions have already affected approximately 300 homes, with the provided alternative tenements falling short of residents’ needs and disrupting livelihoods.Highlighting the exemption of social impact assessment for the project, she expressed concern that instead of repealing the amendment to the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 by the previous government, the Congress government has invoked this very provision for the exemption.Ms.Patkar also found problematic the piecemeal approach to the Detailed Project Report devoid of cumulative impact assessment, and said for a project of this scale, advancing without deliberations with the affected families and appropriate legal and clearance processes would inflict irreversible harm on the ecosystem and socio-economic fabric of the state.She sought public release of detailed project plan for the entire project in English, Telugu and Urdu, with a minimum 60 day period fo submission of suggestions and objections. Detailed dialogue with the affected communities, public hearings in the affected areas, constitution of an independent committee for comprehensive review of the project from a river basin approach, immediate withdrawal of all land acquisition notices, and passage of a legislation in the Telangana State Assembly to repeal the amendments to the land acquisition legislation to restore it to its original form were other demands made by the activist.",
@@ -114,20 +72,6 @@
       "language": "en",
       "title_te": "మూసీ ప్రాజెక్ట్ ప్లాన్‌ను మార్చి 13న ఆవిష్కరించాలని మేధా పాట్కర్ పిలుపునిచ్చారు",
       "summary_te": "నదీతీర వర్గాలతో పాటు మూసీ నది అభివృద్ధికి పాటుపడాలని, అయితే పరస్పరం నష్టపోవద్దని కోరుతూ ప్రముఖ సామాజిక కార్యకర్త మేధా పాట్కర్ ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డికి లేఖ రాశారు. మహాత్మాగాంధీ పేరుతో ప్రజలపై ఎలాంటి హింసాకాండకు దూరంగా ఉండాలని ఆమె కోరారు. ఆల్ ఇండియా రివర్స్ ఫోరమ్ మరియు నేషనల్ అలయన్స్ ఆఫ్ పీపుల్స్ మూవ్‌మెంట్స్ (NAPM)కి ప్రాతినిధ్యం వహిస్తున్న పాట్కర్, మార్చి 13న జరగనున్న మూసీ నది పునరుజ్జీవనం యొక్క ఫేజ్-1 కోసం సవివరమైన ప్రాజెక్ట్ ప్లాన్‌ల ప్రతిపాదిత ఆవిష్కరణను వెంటనే నిలిపివేయాలని పిలుపునిచ్చారు. దీనికి అధికారిక ఆహ్వానితులలో ఆమె ఒకరు. భాగస్వామ్య పాలనలో ప్రజాస్వామ్యం నెలకొని ఉంది, ఇటువంటి లోపాలు నిజమైన భాగస్వామ్యానికి విరుద్ధమైన చర్యలను సూచిస్తాయి, ఆమె పేర్కొన్నారు. బిజెపి మరియు దాని మిత్రపక్షాలు పాలించే రాష్ట్రాల్లో ప్రధానంగా ప్రణాళిక చేయబడిన 100 కి పైగా నదీతీర కార్యక్రమాలలో మూసీ రివర్ ఫ్రంట్ అభివృద్ధి ఒకటి. గుజరాత్ హైకోర్టు నుండి. 1990ల చివరి నుండి మూసీ ప్రాజెక్ట్ యొక్క చరిత్రను జాబితా చేస్తూ, Ms. పాట్కర్ వారసత్వ కట్టడాలను ప్రమాదంలో పడే సమయంలో వేలాది గృహాలను స్థానభ్రంశం చేసే అవకాశం ఉందని పేర్కొన్నారు. ఇటీవలి కూల్చివేతలు ఇప్పటికే దాదాపు 300 గృహాలను ప్రభావితం చేశాయి, అందించిన ప్రత్యామ్నాయ గృహాలు నివాసితుల అవసరాలకు తగ్గడం మరియు జీవనోపాధికి అంతరాయం కలిగించాయి. ప్రాజెక్ట్ కోసం సామాజిక ప్రభావ మదింపు మినహాయింపును ఎత్తిచూపుతూ, న్యాయమైన పరిహారం మరియు పారదర్శకత హక్కుకు సవరణను రద్దు చేయడానికి బదులు, మునుపటి భూసేకరణ మరియు పునరావాస చట్టం 20 ద్వారా ఆమె ఆందోళన వ్యక్తం చేసింది. ప్రభుత్వం, కాంగ్రెస్ ప్రభుత్వం మినహాయింపు కోసం ఈ నిబంధనను అమలులోకి తెచ్చింది. సంచిత ప్రభావ అంచనా లేకుండా సవివరమైన ప్రాజెక్ట్ రిపోర్ట్‌కు ముక్కలుగా ఉండే విధానం కూడా సమస్యాత్మకంగా ఉందని శ్రీమతి పాట్కర్ కనుగొన్నారు మరియు ఈ స్థాయి ప్రాజెక్ట్ కోసం, బాధిత కుటుంబాలతో చర్చలు లేకుండా ముందుకు సాగడం మరియు తగిన చట్టపరమైన మరియు క్లియరెన్స్ ప్రక్రియలు కోలుకోలేని విధంగా హాని కలిగిస్తాయని చెప్పారు. స్టేట్ బాధిత వర్గాలతో సవివరమైన చర్చలు, ప్రభావిత ప్రాంతాల్లో బహిరంగ విచారణలు, నదీ పరీవాహక ప్రాంత ప్రాజెక్టుపై సమగ్ర సమీక్షకు స్వతంత్ర కమిటీ ఏర్పాటు, భూసేకరణ నోటీసులన్నింటినీ తక్షణమే ఉపసంహరించుకోవడం, భూసేకరణకు చేసిన సవరణలను రద్దు చేసేందుకు తెలంగాణ రాష్ట్ర అసెంబ్లీలో చట్టాన్ని ఆమోదించడం తదితర డిమాండ్లను ఉద్యమకారులు రూపొందించారు.",
-      "translated": true
-    },
-    {
-      "id": "871b07b43139d5b0ab3968dc5c5bb4ee",
-      "title": "IPL 2026: Sunrisers schedule is this..!",
-      "summary": "IPL 2026: Sunrisers schedule is this..! johnpaul Wed, 03/11/2026 - 20:36",
-      "url": "https://www.sakshi.com/telugu-news/sports/srh-ipl-schedule-2026-fixtures-venues-full-squad-date-and-time-2730763",
-      "image": null,
-      "published_at": "2026-03-11T15:06:19.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "IPL 2026: సన్‌రైజర్స్‌ షెడ్యూల్‌ ఇదే..!",
-      "summary_te": "IPL 2026: సన్‌రైజర్స్‌ షెడ్యూల్‌ ఇదే..! johnpaul Wed, 03/11/2026 - 20:36",
       "translated": true
     },
     {
@@ -145,20 +89,6 @@
       "translated": true
     },
     {
-      "id": "ca484bafc349cf790b393e55bcd73a6b",
-      "title": "'Cyber ​​net in the name of gas booking'",
-      "summary": "'Cyber ​​net in the name of gas booking' dsudheer Wed, 03/11/2026 - 20:28",
-      "url": "https://www.sakshi.com/telugu-news/telangana/cyber-%E2%80%8B%E2%80%8Bcriminals-lay-trap-using-gas-book-sajjanar-issues-warning-2730762",
-      "image": null,
-      "published_at": "2026-03-11T14:58:25.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "'గ్యాస్ బుకింగ్ పేరుతో సైబర్ వల'",
-      "summary_te": "'గ్యాస్ బుకింగ్ పేరుతో సైబర్ వల' dsudheer Wed, 03/11/2026 - 20:28",
-      "translated": true
-    },
-    {
       "id": "307f88d7f4d9b0b3b284a97f49f2f591",
       "title": "Social media profiles promoting illegal betting apps taken down",
       "summary": "The cyber crime wing of the Hyderabad police have taken down 124 social media profiles that were promoting illegal online betting and gaming platforms through hundreds of paid advertisements targeting Indian users.Officials said the action followed a month-long surveillance and intelligence-based operation during which investigators identified the profiles running 539 paid advertisements across multiple social media platforms. The advertisements promoted various online betting and gaming applications and websites.",
@@ -169,21 +99,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "చట్టవిరుద్ధమైన బెట్టింగ్ యాప్‌లను ప్రచారం చేసే సోషల్ మీడియా ప్రొఫైల్‌లు తీసివేయబడ్డాయి",
-      "summary_te": "భారతీయ వినియోగదారులను లక్ష్యంగా చేసుకుని వందలాది చెల్లింపు ప్రకటనల ద్వారా అక్రమ ఆన్‌లైన్ బెట్టింగ్ మరియు గేమింగ్ ప్లాట్‌ఫారమ్‌లను ప్రోత్సహిస్తున్న 124 సోషల్ మీడియా ప్రొఫైల్‌లను హైదరాబాద్ పోలీసుల సైబర్ క్రైమ్ విభాగం తొలగించింది. నెలరోజుల నిఘా మరియు నిఘా ఆధారిత ఆపరేషన్‌లో ఈ చర్యను పరిశోధకులు గుర్తించారు. ప్రకటనలు వివిధ ఆన్‌లైన్ బెట్టింగ్ మరియు గేమింగ్ అప్లికేషన్‌లు మరియు వెబ్‌సైట్‌లను ప్రచారం చేశాయి.",
-      "translated": true
-    },
-    {
-      "id": "da0f53ccbbdfaa6be80976d68edce639",
-      "title": "Fear of war.. Should you hide liquid cash??",
-      "summary": "Fear of war.. Should you hide liquid cash?? tvenkatesh Wed, 03/11/2026 - 20:19",
-      "url": "https://www.sakshi.com/telugu-news/telangana/war-rumors-spark-experts-clarify-truth-about-liquid-cash-hoarding-2730761",
-      "image": null,
-      "published_at": "2026-03-11T14:49:35.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "యుద్ధ భయం.. లిక్విడ్‌ క్యాష్‌ దాచుకోవాలా??",
-      "summary_te": "యుద్ధ భయం.. లిక్విడ్‌ క్యాష్‌ దాచుకోవాలా?? tvenkatesh Wed, 03/11/2026 - 20:19",
+      "summary_te": "భారతీయ వినియోగదారులను లక్ష్యంగా చేసుకుని వందలాది చెల్లింపు ప్రకటనల ద్వారా అక్రమ ఆన్‌లైన్ బెట్టింగ్ మరియు గేమింగ్ ప్లాట్‌ఫారమ్‌లను ప్రోత్సహిస్తున్న 124 సోషల్ మీడియా ప్రొఫైల్‌లను హైదరాబాద్ పోలీసుల సైబర్ క్రైమ్ వింగ్ తొలగించింది. నెలరోజుల నిఘా మరియు ఇంటెలిజెన్స్ ఆధారిత ఆపరేషన్ తర్వాత ఈ చర్యను పరిశోధకులు గుర్తించారు. ప్రకటనలు వివిధ ఆన్‌లైన్ బెట్టింగ్ మరియు గేమింగ్ అప్లికేషన్‌లు మరియు వెబ్‌సైట్‌లను ప్రచారం చేశాయి.",
       "translated": true
     },
     {
@@ -215,20 +131,6 @@
       "translated": true
     },
     {
-      "id": "5770bf6cfa5fb280c4b57c260e79ac5d",
-      "title": "AI has entered the US administrative and legislative process",
-      "summary": "AI Paga pavankumar Wed, 03/11/2026 - 20:10",
-      "url": "https://www.sakshi.com/telugu-news/business/us-senate-embraces-ai-revolution-chatgpt-gemini-copilot-approved-2730749",
-      "image": null,
-      "published_at": "2026-03-11T14:40:00.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "యూఎస్‌ పరిపాలన, శాసన ప్రక్రియలో ఏఐ పాగా",
-      "summary_te": "యూఎస్‌ పరిపాలన, శాసన ప్రక్రియలో ఏఐ పాగా pavankumar Wed, 03/11/2026 - 20:10",
-      "translated": true
-    },
-    {
       "id": "c8fa9304e90eeed244ce8187af22dc69",
       "title": "GMR School of Aviation, Gati Shakti Vishwavidyalaya tie up to bridge aviation MRO skill gap",
       "summary": "The GMR School of Aviation, located in Hyderabad, has partnered with Gati Shakti Vishwavidyalaya to address the growing skill gap in the country’s aviation industry. The collaboration aims to integrate academic learning with industry-oriented technical training, enabling students to gain specialised knowledge and hands-on exposure aligned with real-world Maintenance, Repair and Overhaul (MRO) requirements.Through the partnership, students will gain access to a specialised curriculum for the B.Sc. (Aircraft Maintenance Engineering) programme that is recognised under the relevant regulatory and academic frameworks. The partnership was announced during the inaugural session of the MRO South Asia Summit 2026 held in New Delhi on Wednesday, March 11.",
@@ -254,20 +156,6 @@
       "language": "en",
       "title_te": "LPG సంక్షోభంపై కేంద్రంపై పెద్దపల్లి ఎంపీ మండిపడ్డారు",
       "summary_te": "దేశాన్ని పట్టి పీడిస్తున్న లిక్విఫైడ్ పెట్రోలియం గ్యాస్ (ఎల్‌పీజీ) సంక్షోభాన్ని బీజేపీ నేతలు పట్టించుకోవడం లేదని పెద్దపల్లి కాంగ్రెస్ ఎంపీ గడ్డం వంశీకృష్ణ ఆరోపించారు. ప్రజలు,\" శ్రీ. వంశీ బుధవారం న్యూఢిల్లీలోని పార్లమెంట్ వెలుపల విలేకరులతో అన్నారు. సంక్షోభం యొక్క క్యాస్కేడింగ్ ప్రభావాలను ఆయన హైలైట్ చేశారు, ఆటో పరిశ్రమ తిరోగమనంలో ఉందని, టెక్స్‌టైల్ రంగం \"ముగిసిందని\" మరియు రెస్టారెంట్లు మరియు హోటళ్లు షట్‌డౌన్ మోడ్‌లో ఉన్నాయని పేర్కొన్నారు. \"మీరు చూస్తే, జొమాటో, జెప్టో మరియు ఈ కొత్త యుగం యాప్‌లన్నీ - పెద్ద సంఖ్యలో గిగ్ వర్కర్లను నియమించుకోండి. రెస్టారెంట్లు డౌన్ అయినప్పుడు, హోటల్ పరిశ్రమ మూసివేయబడినప్పుడు, ఇది గిగ్ వర్కర్లపై ప్రభావం చూపుతుంది మరియు నిరుద్యోగం పెరుగుతుంది,\" అని ఆయన జోడించారు, పెరుగుతున్న ఈ నిరుద్యోగంపై చర్చ లేకపోవడాన్ని ఎత్తి చూపారు. ప్రజల ఆగ్రహానికి మధ్య ప్రభుత్వం మౌనంగా ఉండటాన్ని వంశీ ప్రశ్నించారు. \"నిన్న, బిజెపి నాయకులు ఇదంతా ఫేక్ న్యూస్ అని మరియు ఎల్‌పిజి మరియు లిక్విఫైడ్ నేచురల్ గ్యాస్ (ఎల్‌ఎన్‌జి)కి కొరత లేదని ప్రకటనలు ఇస్తున్నారు. మరి ఈ రోజు సామాన్యులు ఎందుకు వీధుల్లోకి వస్తున్నారు?\" అని అడిగాడు.",
-      "translated": true
-    },
-    {
-      "id": "1c9b6cc2d25acc2cebac732b15abc850",
-      "title": "T20 WC: Shocked ICC.. Defended by Gambhir",
-      "summary": "T20 WC: Shocked ICC.. Defended Gambhir Sushma Wed, 03/11/2026 - 19:56",
-      "url": "https://www.sakshi.com/telugu-news/sports/even-if-he-hadnt-said-sorry-gambhir-arshdeep-daryl-mitchell-clash-2730759",
-      "image": null,
-      "published_at": "2026-03-11T14:26:43.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "T20 WC: షాకిచ్చిన ఐసీసీ.. సమర్థించిన గంభీర్‌",
-      "summary_te": "T20 WC: షాకిచ్చిన ఐసీసీ.. సమర్థించిన గంభీర్‌ Sushma Wed, 03/11/2026 - 19:56",
       "translated": true
     },
     {
@@ -427,15 +315,15 @@
     {
       "id": "986395671e69f2f037b1fe53f91f1073",
       "title": "Hyderabad cyber crime police arrest four in online betting fraud linked to ₹1.5 crore loss",
-      "summary": "Four persons were arrested by the cyber crime wing of the Hyderabad police for supplying SIM cards that were used by an online betting fraud network which cheated a city resident of around ₹1.5 crore.The accused were identified as Mohammed Saeed Uddin alias Farid (26), a private employee who had earlier worked in Dubai and is a resident of Fatehsha Nagar in Santosh Nagar; Mohammed Tajuddin (31), an auto driver from Moinbagh; Mohammed Yunus alias Arbaaz (25), a businessman from Moinbagh; and Md Ayub (24), a private employee also from Moinbagh.",
+      "summary": "",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-cyber-crime-police-arrest-four-in-online-betting-fraud-linked-to-15-crore-loss/article70731000.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "image": null,
       "published_at": "2026-03-11T13:15:48.000Z",
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
       "title_te": "హైదరాబాద్ సైబర్ క్రైమ్ పోలీసులు ఆన్‌లైన్ బెట్టింగ్ మోసానికి సంబంధించి నలుగురిని అరెస్టు చేశారు ₹1.5 కోట్ల నష్టం",
-      "summary_te": "సిటీ నివాసిని సుమారు ₹1.5 కోట్ల మోసం చేసిన ఆన్‌లైన్ బెట్టింగ్ మోసం నెట్‌వర్క్ ద్వారా ఉపయోగించిన సిమ్ కార్డులను సరఫరా చేసినందుకు నలుగురు వ్యక్తులను హైదరాబాద్ పోలీసుల సైబర్ క్రైమ్ వింగ్ అరెస్టు చేసింది. నిందితులను మహ్మద్ సయీద్ ఉద్దీన్ అలియాస్ ఫరీద్ (26)గా గుర్తించారు, ఇంతకుముందు దుబాయ్‌లో పనిచేసి, దుబాయ్‌లోని ఫతేషా నగర్‌లో నివసిస్తున్నారు; మొయిన్‌బాగ్‌కు చెందిన మహ్మద్ తాజుద్దీన్ (31), ఆటో డ్రైవర్; మొయిన్‌బాగ్‌కు చెందిన వ్యాపారవేత్త మహ్మద్ యూనస్ అలియాస్ అర్బాజ్ (25); మరియు Md అయూబ్ (24), మోయిన్‌బాగ్‌కు చెందిన ప్రైవేట్ ఉద్యోగి.",
+      "summary_te": "",
       "translated": true
     }
   ]

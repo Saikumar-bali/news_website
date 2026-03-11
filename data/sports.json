@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-03-11T16:50:39.452Z",
-  "updated_at_IST": "11/3/2026, 10:20:39 pm",
+  "updated_at": "2026-03-11T17:53:29.315Z",
+  "updated_at_IST": "11/3/2026, 11:23:29 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "64f5310f8c06d6f8863b71877c0343b0",
+      "title": "The Hundred 2026: How the women's teams stack up after the auction",
+      "summary": "All the eight squads with each player's winning bid at the auction",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527706.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414614.jpg",
+      "published_at": "2026-03-11T17:27:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ది హండ్రెడ్ 2026: వేలం తర్వాత మహిళల జట్లు ఎలా ఉన్నాయి",
+      "summary_te": "వేలంలో ప్రతి ఆటగాడి విజేత బిడ్‌తో మొత్తం ఎనిమిది స్క్వాడ్‌లు",
+      "translated": true
+    },
     {
       "id": "a778b9dbe80f565ce5d86be07b577574",
       "title": "Hesson: Pakistan left 'exposed' with the bat by Nahid Rana",
       "summary": "Pakistan coach said they went into a shell and will have to turn things around quickly after a chastening loss",
       "url": "https://www.espncricinfo.com/ci/content/story/1527703.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
-      "published_at": "2026-03-11T16:22:50.000Z",
+      "published_at": "2026-03-11T16:35:43.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సంఘ ఆడగలదని నిర్ధారించుకోవడానికి జంపా వన్డే కప్ ఫైనల్ నుండి తప్పుకున్నాడు",
       "summary_te": "ఆస్ట్రేలియా లెగ్ స్పిన్నర్ టాస్మానియాతో ఆడేందుకు ఆసక్తిగా ఉన్నాడు కానీ తన యువ సహచరుడి మార్గంలో నిలబడటానికి ఇష్టపడలేదు.",
-      "translated": true
-    },
-    {
-      "id": "d6d96578021603355275ca55ba2b4cc2",
-      "title": "Jonassen stands down as Queensland and Brisbane Heat captain",
-      "summary": "The allrounder, who has recently returned from injury, had held the roles since 2020",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527523.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/391600/391615.jpg",
-      "published_at": "2026-03-10T05:08:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "క్వీన్స్‌లాండ్ మరియు బ్రిస్బేన్ హీట్ కెప్టెన్‌గా జోనాస్సెన్ వైదొలిగాడు",
-      "summary_te": "ఇటీవల గాయం నుండి తిరిగి వచ్చిన ఆల్‌రౌండర్ 2020 నుండి పాత్రలను కలిగి ఉన్నాడు",
       "translated": true
     }
   ]
