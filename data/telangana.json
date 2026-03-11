@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-11T12:43:13.058Z",
-  "updated_at_IST": "11/3/2026, 6:13:13 pm",
+  "updated_at": "2026-03-11T14:10:02.423Z",
+  "updated_at_IST": "11/3/2026, 7:40:02 pm",
   "category": "telangana",
-  "count": 22,
+  "count": 17,
   "articles": [
+    {
+      "id": "4a5eec002807133cd4b15216c36bb99f",
+      "title": "LPG cylinder shortage forces Hyderabad hotels to scale down menus, possible closure clouds establishments",
+      "summary": "The uncertainty over LPG cylinder availability has forced operators of restaurants in Hyderabad to rethink kitchen operations, reduce the number of dishes prepared and ration available gas supplies to keep outlets running for as long as possible.Rajesh Reddy Paduru, founder of Tazaa Tiffins, which operates multiple outlets in Hyderabad, said his outlets currently have LPG stock that may last up to a week, but the lack of clarity over future supply has created operational concerns. “We are planning to adjust menus to conserve gas. Items such as vada, puri and Mysore bhajji may be limited to specific hours of the day, while dishes like dosa and idli will continue to be served throughout the day,” he said.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/lpg-cylinder-shortage-forces-hyderabad-hotels-to-scale-down-menus-possible-closure-clouds-establishments/article70730036.ece",
+      "image": "https://th-i.thgim.com/public/incoming/u3codc/article70730637.ece/alternates/LANDSCAPE_1200/_DSC0039.JPG",
+      "published_at": "2026-03-11T10:55:52.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఎల్‌పిజి సిలిండర్ కొరత కారణంగా హైదరాబాద్ హోటళ్లలో మెనూలు తగ్గుముఖం పట్టాయి, మూతపడే అవకాశం ఉంది.",
+      "summary_te": "ఎల్‌పిజి సిలిండర్ లభ్యతపై అనిశ్చితి కారణంగా హైదరాబాద్‌లోని రెస్టారెంట్ల నిర్వాహకులు వంటగది కార్యకలాపాలను పునరాలోచించవలసి వచ్చింది, వంటల సంఖ్యను తగ్గించడం మరియు రేషన్ అందుబాటులో ఉన్న గ్యాస్ సరఫరాలను వీలైనంత ఎక్కువ కాలం పాటు కొనసాగించడం కోసం. భవిష్యత్ సరఫరాపై స్పష్టత కార్యాచరణ ఆందోళనలను సృష్టించింది. \"మేము గ్యాస్‌ను ఆదా చేయడానికి మెనులను సర్దుబాటు చేయడానికి ప్లాన్ చేస్తున్నాము. వడ, పూరీ మరియు మైసూర్ భజ్జీ వంటి వస్తువులు రోజులోని నిర్దిష్ట గంటలకే పరిమితం కావచ్చు, అయితే దోస మరియు ఇడ్లీ వంటి వంటకాలు రోజంతా వడ్డించడం కొనసాగుతుంది,\" అని అతను చెప్పాడు.",
+      "translated": true
+    },
+    {
+      "id": "2507f99ab480fc2e657b1000a43ca35f",
+      "title": "Air India Express Hyderabad–Phuket flight suffers nose-wheel damage after hard landing, Phuket airport runway shut",
+      "summary": "The flight made a hard landing on arrival, damaging its nose wheel and leaving the aircraft stranded on the airport’s only runway",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/air-india-express-hyderabadphuket-flight-suffers-nose-wheel-damage-after-hard-landing-phuket-airport-runway-shut/article70730353.ece",
+      "image": "https://th-i.thgim.com/public/incoming/z4hgdd/article70730460.ece/alternates/LANDSCAPE_1200/IMG_Air_India_Express_ne_2_1_VCDLU4VE.jpg",
+      "published_at": "2026-03-11T10:19:32.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ హైదరాబాద్-ఫుకెట్ విమానం హార్డ్ ల్యాండింగ్ తర్వాత ముక్కు-చక్రం దెబ్బతింది, ఫుకెట్ విమానాశ్రయం రన్‌వే మూసివేయబడింది",
+      "summary_te": "విమానం రాగానే గట్టిగా ల్యాండింగ్ అయింది, దాని ముక్కు చక్రం దెబ్బతింది మరియు విమానాశ్రయం యొక్క ఏకైక రన్‌వేపై విమానం నిలిచిపోయింది.",
+      "translated": true
+    },
     {
       "id": "39ca9346d73b7285112303c7e31b9e12",
       "title": "Hyderabad Hostels Association issues notice cautioning of LPG shortage, recommend limited items on menu",
@@ -85,7 +113,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "తెలంగాణ ఎమ్మెల్యేల అనర్హత పిటిషన్లపై స్పీకర్ ఇచ్చిన తీర్పును బీఆర్ఎస్, ప్రజాస్వామ్యంపై దాడిగా అభివర్ణించింది",
-      "summary_te": "నిత్యం రాజ్యాంగాన్ని మోస్తున్న ప్రతిపక్ష నేత రాహుల్ గాంధీని మాజీ మంత్రి నిరంజన్ రెడ్డి హేళన చేశారు",
+      "summary_te": "నిత్యం రాజ్యాంగాన్ని మోసే ప్రతిపక్ష నేత రాహుల్ గాంధీని మాజీ మంత్రి నిరంజన్ రెడ్డి హేళన చేశారు",
       "translated": true
     },
     {
@@ -154,7 +182,7 @@
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
-      "title_te": "ముగ్గురు దొంగలు మరియు ఒక రిసీవర్‌ను అరెస్టు చేశారు, ₹ 13 లక్షల విలువైన దోపిడిని స్వాధీనం చేసుకున్నారు",
+      "title_te": "ముగ్గురు దొంగలు మరియు ఒక రిసీవర్ అరెస్ట్, ₹ 13 లక్షల విలువైన దోపిడి స్వాధీనం",
       "summary_te": "ముగ్గురు అలవాటైన ఇంటి దొంగలు మరియు దొంగిలించిన సొత్తు రిసీవర్‌ను మంగళవారం కీసర పోలీసుల సమన్వయంతో హైదరాబాద్ కమిషనర్ టాస్క్ ఫోర్స్ అరెస్టు చేశారు, పోలీసులు సుమారు ₹13 లక్షల విలువైన దొంగిలించబడిన ఆభరణాలు మరియు వాహనాలను స్వాధీనం చేసుకున్నారు. నిందితులను 28 ఏళ్ల మునితాని అమర్ రాజ్ కుమార్ రెడ్డి అలియాస్ బొమ్మగా గుర్తించారు; 32 ఏళ్ల అబ్దుల్ లతీఫ్ ఖా మరియు 32 ఏళ్ల గులాం హుస్సేన్ ఖాన్, 24 ఏళ్ల గోపాలపురం ప్రణీత్ చారి దొంగిలించిన సొత్తును కొనుగోలు చేసినందుకు అరెస్టు చేశారు.",
       "translated": true
     },
@@ -183,7 +211,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "హైదరాబాద్‌లో కల్తీ అల్లం-వెల్లుల్లి పేస్ట్‌ను తయారు చేస్తున్న వ్యక్తిని అరెస్టు చేశారు",
-      "summary_te": "హైదరాబాద్‌లో అపరిశుభ్రమైన పరిస్థితుల్లో కల్తీ అల్లం-వెల్లుల్లి పేస్ట్‌ను తయారు చేసి విక్రయిస్తున్న 50 ఏళ్ల వ్యక్తిని అరెస్టు చేశారు. ఖైరతాబాద్‌లోని మల్లపల్లి మండలం నగర్‌లోని నగర్‌లోని హాయిరతబాద్ మండలం మల్లపల్లి సమీపంలోని కమిషనర్ టాస్క్ ఫోర్స్ ఆధ్వర్యంలో షెహజాదా ఫుడ్ మాస్టర్ అనే యూనిట్ యజమాని మహ్మద్ ఫరూఖ్ అనే నిందితుడు పట్టుబడ్డాడు. పోలీసు స్టేషన్.",
+      "summary_te": "హైదరాబాద్‌లో అపరిశుభ్రమైన పరిస్థితుల్లో కల్తీ అల్లం-వెల్లుల్లి పేస్ట్‌ను తయారు చేసి విక్రయిస్తున్న 50 ఏళ్ల వ్యక్తిని అరెస్టు చేశారు. ఖైరతాబాద్‌లోని మల్లపల్లి మండలం నగర్‌లోని హాయిరతాబాద్‌లోని నగర్‌లోని మల్లపల్లి సమీపంలోని కమిషనర్ టాస్క్ ఫోర్స్ ఆధ్వర్యంలో షెహజాదా ఫుడ్ మాస్టర్ అనే యూనిట్ యజమాని మహ్మద్ ఫరూఖ్ అనే నిందితుడు పట్టుబడ్డాడు. పోలీసు స్టేషన్.",
       "translated": true
     },
     {
@@ -196,7 +224,7 @@
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
-      "title_te": "ఆర్‌సి పురంలోని ఆలయంలో దొంగలు ఆభరణాలతో దోచుకున్నారు",
+      "title_te": "ఆర్‌సి పురంలోని దేవాలయం నుంచి దొంగలు ఆభరణాలతో దోచుకున్నారు",
       "summary_te": "ఆర్‌సి పురం మండలం అశోక్‌నగర్‌ కాలనీలో గల శ్రీ వర సిద్ధి వినాయక స్వామి ఆలయంలో సోమవారం (మార్చి 9) రాత్రి గుర్తుతెలియని దుండగులు సుమారు ఆరు తులాల బంగారు ఆభరణాలు, వెండి వస్తువులను లాక్కెళ్లారు.మంగళవారం తెల్లవారుజామున ఆలయ పూజారి ప్రాంగణం తెరిచి చూడగా ఆభరణాలు మాయమైన విషయం తెలిసిందే.",
       "translated": true
     },
@@ -212,104 +240,6 @@
       "language": "en",
       "title_te": "తీన్మార్ మల్లన్న పిటిషన్‌ను సీజే బెంచ్ ముందు ఉంచారు",
       "summary_te": "రాష్ట్రంలోని వివిధ ప్రాంతాల్లో తనపై నమోదైన కేసులన్నింటినీ ప్రజాప్రతినిధులపై విచారిస్తున్న ప్రత్యేక కోర్టుకు బదిలీ చేసేలా ఆదేశాలు ఇవ్వాలని కోరుతూ ఎమ్మెల్సీ చింతపండు నవీన్ అలియాస్ తీన్మార్ మల్లన్న దాఖలు చేసిన రిట్ పిటిషన్‌ను హైకోర్టు ప్రధాన న్యాయమూర్తి ధర్మాసనం ముందు ఉంచాలని తెలంగాణ హైకోర్టు న్యాయమూర్తి జస్టిస్ ఎన్.తుకారాంజీ రిజిస్ట్రీని ఆదేశించారు. రాష్ట్రంలోని వివిధ ప్రాంతాల్లో తనపై అనేక క్రిమినల్ కేసులు నమోదయ్యాయని పేర్కొంటూ ఎమ్మెల్సీ రిట్ పిటిషన్ దాఖలు చేశారు. తనపై పెండింగ్‌లో ఉన్న కేసులన్నింటినీ ఎమ్మెల్యేలు, ఎంపీల ప్రత్యేక కోర్టుకు బదిలీ చేయాలని ప్రభుత్వాన్ని ఆదేశించాలని ఆయన కోరారు. ఎమ్మెల్యేలు, ఎంపీలపై నమోదైన కేసులను ప్రత్యేక కోర్టుల ద్వారా త్వరగా విచారించి పరిష్కరించాలని అశ్వినీ కుమారి ఉపాధ్యాయ్‌ దాఖలు చేసిన పిటిషన్‌లో సుప్రీంకోర్టు తన ఉత్తర్వుల్లో పేర్కొంది. ఎమ్మెల్యేలు, ఎంపీలపై కేసులను సుప్రీంకోర్టు నిర్ద్వంద్వంగా పేర్కొన్నదని ప్రభుత్వ ప్లీడర్ సమర్థించారు. ఎమ్మెల్సీలపై నమోదైన కేసుల గురించి ఆ ఉత్తర్వుల్లో ప్రత్యేకంగా ప్రస్తావించలేదు.కానీ ఎమ్మెల్సీలను కూడా ఎమ్మెల్యేలతో సమానంగా పరిగణించాలని, ఆయనపై నమోదైన కేసులను న్యాయమైన, త్వరితగతిన విచారణ నిమిత్తం ఎమ్మెల్యేలు, ఎంపీల కోసం నియమించిన కోర్టుకు బదిలీ చేయాలని ఎమ్మెల్సీ తరపు న్యాయవాది వాదించారు.",
-      "translated": true
-    },
-    {
-      "id": "fa95baabfc4e07df0dcb8c18703f6018",
-      "title": "Gig workers warn of potential LPG shortage impact on livelihood",
-      "summary": "Gig workers on Tuesday stated that a possible shortage of LPG and CNG supplies in parts of the country could severely affect platform workers, especially those engaged in app-based transport and delivery services.The Telangana Gig and Platform Workers’ Union (TGPWU) and the Indian Federation of App-Based Transport Workers (IFAT) said the ongoing international conflict and disruptions in fuel logistics could affect LPG and CNG supplies over the next one to two days.According to the unions, thousands of drivers operate LPG and CNG vehicles while working on app-based platforms such as Ola, Uber and Rapido. These workers rely on uninterrupted access to affordable fuel to sustain their daily livelihoods. Any disruption in supply could lead to long queues at fuel stations, fewer trips and an immediate loss of income for drivers already grappling with rising operational costs.TGPWU and IFAT urged both the Central and State governments to closely monitor the situation and ensure uninterrupted LPG and CNG supply in urban centres. They also appealed to aggregator companies to support workers through transparent communication and to avoid imposing penalties for service disruptions beyond their control.Shaik Salauddin, an office bearer of the unions, said, “Restaurant aggregators could face difficulties if hotels, restaurants and home-based kitchens experience disruptions due to LPG shortages, potentially affecting order volumes and earnings.” Related StoriesLPG shortage looms large, but Hyderabad haleem to stay on menu",
-      "url": "https://www.thehindu.com/news/national/telangana/gig-workers-warn-of-potential-lpg-shortage-impact-on-livelihood/article70726617.ece",
-      "image": "https://th-i.thgim.com/public/incoming/uyunvh/article70728083.ece/alternates/LANDSCAPE_1200/_DSC0397.JPG",
-      "published_at": "2026-03-10T16:30:03.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "Gig కార్మికులు జీవనోపాధిపై సంభావ్య LPG కొరత ప్రభావం గురించి హెచ్చరిస్తున్నారు",
-      "summary_te": "దేశంలోని కొన్ని ప్రాంతాలలో ఎల్‌పిజి మరియు సిఎన్‌జి సరఫరాల కొరత ప్లాట్‌ఫారమ్ కార్మికులను, ముఖ్యంగా యాప్ ఆధారిత రవాణా మరియు డెలివరీ సేవలలో నిమగ్నమై ఉన్నవారిని తీవ్రంగా ప్రభావితం చేస్తుందని గిగ్ వర్కర్లు మంగళవారం పేర్కొన్నారు. తెలంగాణ గిగ్ మరియు ప్లాట్‌ఫాం వర్కర్స్ యూనియన్ (టిజిపిడబ్ల్యుయు) మరియు ఇండియన్ ఫెడరేషన్ ఆఫ్ యాప్-బేస్డ్ ట్రాన్స్‌పోర్ట్ వర్కర్స్ (ఐఎఫ్ఎటి) ఎల్‌జిపిలో కొనసాగుతున్న అంతర్జాతీయ వివాదాలు మరియు అంతరాయాలను ప్రభావితం చేయగలవు. రాబోయే ఒకటి నుండి రెండు రోజులలో. యూనియన్ల ప్రకారం, వేలాది మంది డ్రైవర్లు Ola, Uber మరియు Rapido వంటి యాప్ ఆధారిత ప్లాట్‌ఫారమ్‌లలో పనిచేస్తున్నప్పుడు LPG మరియు CNG వాహనాలను నడుపుతున్నారు. ఈ కార్మికులు తమ దైనందిన జీవనోపాధిని కొనసాగించడానికి సరసమైన ఇంధనం కోసం నిరంతరాయ ప్రాప్యతపై ఆధారపడతారు. సరఫరాలో ఏదైనా అంతరాయం ఏర్పడితే ఇంధన స్టేషన్‌ల వద్ద పొడవైన క్యూలు, తక్కువ ట్రిప్పులు మరియు ఇప్పటికే పెరుగుతున్న నిర్వహణ ఖర్చులతో డ్రైవర్‌లకు తక్షణ ఆదాయాన్ని కోల్పోయే అవకాశం ఉంది. TGPWU మరియు IFAT కేంద్ర మరియు రాష్ట్ర ప్రభుత్వాలు రెండూ పరిస్థితిని నిశితంగా పర్యవేక్షించాలని మరియు పట్టణ కేంద్రాలలో నిరంతరాయంగా LPG మరియు CNG సరఫరాను నిర్ధారించాలని కోరారు. పారదర్శకమైన కమ్యూనికేషన్ ద్వారా కార్మికులకు మద్దతు ఇవ్వాలని మరియు వారి నియంత్రణకు మించిన సేవా అంతరాయాలకు జరిమానాలు విధించకుండా ఉండాలని వారు అగ్రిగేటర్ కంపెనీలకు విజ్ఞప్తి చేశారు. యూనియన్‌ల ఆఫీస్ బేరర్ షేక్ సలావుద్దీన్ మాట్లాడుతూ, \"హోటళ్లు, రెస్టారెంట్లు మరియు గృహ ఆధారిత వంటశాలలు ఎల్‌పిజి కొరత కారణంగా అంతరాయాలను ఎదుర్కొంటే, రెస్టారెంట్ అగ్రిగేటర్లు ఇబ్బందులు ఎదుర్కొంటారు.\" సంబంధిత కథనాలుLPG కొరత ఎక్కువగా ఉంది, అయితే హైదరాబాద్ హలీం మెనులో ఉంటుంది",
-      "translated": true
-    },
-    {
-      "id": "f098b80314ae7d63a5d0b1e65645d111",
-      "title": "BRS to introduce Private Member Bill in Assembly seeking legal backing to six guarantees",
-      "summary": "Working president of BRS KTR says half of the Congress government’s tenure lapsed with most of the promises remaining unkept",
-      "url": "https://www.thehindu.com/news/national/telangana/brs-to-introduce-private-member-bill-in-assembly-seeking-legal-backing-to-six-guarantees/article70727957.ece",
-      "image": "https://th-i.thgim.com/public/news/national/telangana/daesfk/article70727952.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-10%20at%205.34.34%20PM.jpeg",
-      "published_at": "2026-03-10T16:00:05.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఆరు హామీలకు చట్టపరమైన మద్దతు కోరుతూ అసెంబ్లీలో ప్రైవేట్ మెంబర్ బిల్లును ప్రవేశపెట్టడానికి BRS",
-      "summary_te": "కాంగ్రెస్ ప్రభుత్వ హయాంలో సగం కాలం గడిచిపోయిందని, చాలా హామీలు అమలుకు నోచుకోలేదని బీఆర్‌ఎస్ వర్కింగ్ ప్రెసిడెంట్ కేటీఆర్ అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "d613d23ab4010e4a06e9774420a7d856",
-      "title": "CSIR-IICT to hold meet with MSMEs on March 13",
-      "summary": "Around 60 medium, small-scale and micro enterprises (MSME) industry members from sectors, including chemicals, APIs, polymers, food, energy and environmental technologies, will participate in an industry interaction meet being organised by the CSIR–Indian Institute of Chemical Technology (CSIR-IICT) ‘Laghu Udyog Bharati’ on Friday (March 13). The programme aims to strengthen industry–research partnerships and promote technology transfer opportunities for MSMEs, highlighting CSIR-IICT’s indigenous technologies and translational research innovations, said a press release on Tuesday.",
-      "url": "https://www.thehindu.com/news/national/telangana/csir-iict-to-hold-meet-with-msmes-on-march-13/article70727832.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-10T15:54:33.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "CSIR-IICT మార్చి 13న MSMEలతో సమావేశం కానుంది",
-      "summary_te": "రసాయనాలు, APIలు, పాలిమర్‌లు, ఆహారం, శక్తి మరియు పర్యావరణ సాంకేతికతలతో సహా రంగాలకు చెందిన దాదాపు 60 మంది మధ్యస్థ, చిన్న-స్థాయి మరియు సూక్ష్మ పరిశ్రమల (MSME) పరిశ్రమ సభ్యులు CSIR-ఇండియన్ ఇన్‌స్టిట్యూట్ ఆఫ్ కెమికల్ టెక్నాలజీ (CSIR-IICT) ‘లఘు ఉద్యోగ్ భారతి’ 1 శుక్రవారము 13న నిర్వహిస్తున్న పరిశ్రమల పరస్పర సమావేశంలో పాల్గొంటారు. ఈ కార్యక్రమం పరిశ్రమ-పరిశోధన భాగస్వామ్యాలను బలోపేతం చేయడం మరియు MSMEలకు సాంకేతిక బదిలీ అవకాశాలను ప్రోత్సహించడం, CSIR-IICT యొక్క స్వదేశీ సాంకేతికతలు మరియు అనువాద పరిశోధన ఆవిష్కరణలను హైలైట్ చేయడం లక్ష్యంగా పెట్టుకుందని మంగళవారం ఒక పత్రికా ప్రకటన తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "c9139f8afe1badaa1b495f704a77913c",
-      "title": "Actor Lavanya Tripathi files cyber crime complaint over abusive Instagram posts",
-      "summary": "Actor Lavanya Tripathi lodged a complaint with the Cyber Crime wing of the Hyderabad Police on Tuesday alleging harassment and defamatory posts targeting her on social media.In her complaint, the actor stated that certain Instagram accounts have been posting abusive comments and objectionable content directed at her and her family members. She alleged that these accounts have been sharing posts intending to damage her reputation and personal life.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/actor-lavanya-tripathi-files-cyber-crime-complaint-over-abusive-instagram-posts/article70727799.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-10T15:46:00.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఇన్‌స్టాగ్రామ్‌లో అనుచిత పోస్ట్‌లపై నటి లావణ్య త్రిపాఠి సైబర్ క్రైమ్ ఫిర్యాదు చేసింది",
-      "summary_te": "నటి లావణ్య త్రిపాఠి మంగళవారం హైదరాబాద్ పోలీస్ సైబర్ క్రైమ్ వింగ్‌లో ఫిర్యాదు చేసింది, సోషల్ మీడియాలో తనను లక్ష్యంగా చేసుకుని వేధింపులు మరియు పరువు నష్టం కలిగించే పోస్ట్‌లను ఆరోపిస్తూ, తన ఫిర్యాదులో, నటుడు తన ఫిర్యాదులో, కొన్ని ఇన్‌స్టాగ్రామ్ ఖాతాలు తనపై మరియు తన కుటుంబ సభ్యులపై అనుచిత వ్యాఖ్యలు మరియు అభ్యంతరకరమైన కంటెంట్‌ను పోస్ట్ చేస్తున్నాయని పేర్కొంది. తన ప్రతిష్టను, వ్యక్తిగత జీవితాన్ని దెబ్బతీసేలా ఈ ఖాతాలు పోస్ట్‌లు చేస్తున్నాయని ఆమె ఆరోపించారు.",
-      "translated": true
-    },
-    {
-      "id": "f886e06bbc55bc949e0b055ae58d1935",
-      "title": "Telangana records ‘highest-ever’ energy consumption on March 9",
-      "summary": "Deputy CM Bhatti Vikramarka hails power utilities’ discipline in ensuring quality supply",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-records-highest-ever-energy-consumption-on-march-9/article70727738.ece",
-      "image": null,
-      "published_at": "2026-03-10T15:40:14.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "తెలంగాణ మార్చి 9న ‘అత్యధిక’ విద్యుత్ వినియోగాన్ని నమోదు చేసింది",
-      "summary_te": "నాణ్యమైన సరఫరాను నిర్ధారించడంలో విద్యుత్ వినియోగాల క్రమశిక్షణను డిప్యూటీ సీఎం భట్టి విక్రమార్క ప్రశంసించారు",
-      "translated": true
-    },
-    {
-      "id": "25eba74319848debb5631bc72c536dc8",
-      "title": "Officials asked to prepare plans for temple development in view of Godavari pushkarams",
-      "summary": "Cabinet panel for establishment of connectivity to pushkaram sites",
-      "url": "https://www.thehindu.com/news/national/telangana/officials-asked-to-prepare-plans-for-temple-development-in-view-of-godavari-pushkarams/article70726464.ece",
-      "image": null,
-      "published_at": "2026-03-10T15:37:04.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "గోదావరి పుష్కరాల దృష్ట్యా ఆలయ అభివృద్ధికి అధికారులు ప్రణాళికలు సిద్ధం చేయాలని కోరారు",
-      "summary_te": "పుష్కర ప్రదేశాలకు కనెక్టివిటీ ఏర్పాటుకు క్యాబినెట్ ప్యానెల్",
-      "translated": true
-    },
-    {
-      "id": "c3408ac744012bab3a1b470f8b2c17f4",
-      "title": "‘Make-in-India’ heavyweight torpedoes on the way with VEM–TKMS agreement",
-      "summary": "Hyderabad-based VEM Technologies and German firm TKMS have signed a strategic ‘Teaming Agreement’ for joint production of torpedoes in India, including technology transfer and the co-development of a “Make‑in‑India” heavyweight torpedo.The agreement lays the foundation for a long-term joint venture to supply the Indian market with modern heavyweight torpedoes, strengthening the country’s technological independence and expanding the domestic defence industry, the companies said in a press release.This marks the next phase of collaboration between TKMS and VEM Technologies — a defence firm specialising in the design, development and manufacture of weapon and air-based systems - after the two sides signed a memorandum of understanding in September 2025.“We are completing the next important milestone in our strategic partnership with VEM and underlining our commitment to the ‘Make‑in‑India’ initiative. The transfer of our torpedo technology enables VEM to make a decisive contribution to strengthening the Indian Navy and India’s technological independence,” said Michael Ozegowski, executive vice president of ATLAS ELEKTRONIK (a TKMS segment).In the first phase, the agreement will enable production of a heavyweight torpedo for the Indian Navy’s existing submarine fleet. The companies added that deeper cooperation in future torpedo programmes is also being explored. In the medium term, the partnership is expected to lead to the formation of a joint venture between VEM and TKMS to supply high‑quality heavyweight torpedoes to the Indian market and tap new export opportunities.TKMS, a 185‑year‑old company, is one of the world’s leading naval firms with more than 9,100 employees across three shipyards - Kiel, Wismar and Itajaí (Brazil) - and several global locations. It supplies submarines, naval surface vessels, maritime electronics and security technologies. Around 3,300 employees work at its Kiel yard, the largest shipbuilding location in Germany, the release added.",
-      "url": "https://www.thehindu.com/news/national/telangana/make-in-india-heavyweight-torpedoes-on-the-way-with-vemtkms-agreement/article70726578.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-10T15:30:58.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "VEM-TKMS ఒప్పందంతో 'మేక్-ఇన్-ఇండియా' హెవీవెయిట్ టార్పెడోలు దారిలో ఉన్నాయి",
-      "summary_te": "హైదరాబాద్‌కు చెందిన VEM టెక్నాలజీస్ మరియు జర్మన్ సంస్థ TKMS భారతదేశంలో టార్పెడోల ఉమ్మడి ఉత్పత్తి కోసం వ్యూహాత్మక 'టీమింగ్ అగ్రిమెంట్'పై సంతకం చేశాయి, ఇందులో సాంకేతికత బదిలీ మరియు \"మేక్-ఇన్-ఇండియా\" హెవీవెయిట్ టార్పెడో యొక్క సహ-అభివృద్ధి కూడా ఉన్నాయి. ఈ ఒప్పందం భార‌తీయ జాయింట్ వెంచర్‌తో దీర్ఘకాల జాయింట్ వెంచర్‌తో సప్లై చేయడానికి పునాది వేస్తుంది. దేశం యొక్క సాంకేతిక స్వాతంత్ర్యం మరియు దేశీయ రక్షణ పరిశ్రమను విస్తరించడం, కంపెనీలు ఒక పత్రికా ప్రకటనలో పేర్కొన్నాయి. ఇది TKMS మరియు VEM టెక్నాలజీస్ మధ్య సహకారం యొక్క తదుపరి దశను సూచిస్తుంది - ఇది ఆయుధ మరియు వాయు ఆధారిత వ్యవస్థల రూపకల్పన, అభివృద్ధి మరియు తయారీలో ప్రత్యేకత కలిగిన రక్షణ సంస్థ - సెప్టెంబరు 2025లో అవగాహన ఒప్పందంపై సంతకం చేసిన తర్వాత, మేము తదుపరి ముఖ్యమైన భాగస్వామిగా ఉన్నాము. VEM మరియు 'మేక్-ఇన్-ఇండియా' చొరవకు మా నిబద్ధతను నొక్కి చెప్పడం, మా టార్పెడో టెక్నాలజీని బదిలీ చేయడం వలన భారత నౌకాదళం మరియు భారతదేశం యొక్క సాంకేతిక స్వాతంత్ర్యం బలోపేతం చేయడానికి VEM నిర్ణయాత్మక సహకారం అందించడానికి వీలు కల్పిస్తుంది, ”అని ATLAS ELEKTRONIK యొక్క ఎగ్జిక్యూటివ్ వైస్ ప్రెసిడెంట్ మైఖేల్ ఓజెగోవ్స్కీ అన్నారు. భారత నావికాదళం యొక్క ప్రస్తుత జలాంతర్గామి విమానాల కోసం హెవీవెయిట్ టార్పెడో. భవిష్యత్తులో టార్పెడో కార్యక్రమాలలో లోతైన సహకారం కూడా అన్వేషించబడుతుందని కంపెనీలు జోడించాయి. మధ్యస్థ కాలంలో, భారత మార్కెట్‌కు అధిక-నాణ్యత హెవీవెయిట్ టార్పెడోలను సరఫరా చేయడానికి మరియు కొత్త ఎగుమతి అవకాశాలను ఉపయోగించుకోవడానికి VEM మరియు TKMS మధ్య జాయింట్ వెంచర్ ఏర్పాటుకు ఈ భాగస్వామ్యం దారి తీస్తుందని భావిస్తున్నారు. TKMS, 185 ఏళ్ల కంపెనీ, ప్రపంచంలోని ప్రముఖ నౌకాదళ సంస్థల్లో ఒకటి, ఇది 9,100 కంటే ఎక్కువ మంది ఉద్యోగులతో మూడు కిల్యార్డ్ ఉద్యోగులతో ఉంది. (బ్రెజిల్) - మరియు అనేక ప్రపంచ స్థానాలు. ఇది జలాంతర్గాములు, నౌకాదళ ఉపరితల నౌకలు, సముద్ర ఎలక్ట్రానిక్స్ మరియు భద్రతా సాంకేతికతలను సరఫరా చేస్తుంది. జర్మనీలో అతిపెద్ద నౌకానిర్మాణ ప్రదేశం అయిన కీల్ యార్డ్‌లో దాదాపు 3,300 మంది ఉద్యోగులు పనిచేస్తున్నారు.",
       "translated": true
     }
   ]

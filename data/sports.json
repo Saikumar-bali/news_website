@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-11T12:43:13.058Z",
-  "updated_at_IST": "11/3/2026, 6:13:13 pm",
+  "updated_at": "2026-03-11T14:10:02.423Z",
+  "updated_at_IST": "11/3/2026, 7:40:02 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "fa5ac6f5ef4b479a5e394fcc4f0c4af9",
+      "title": "RCB vs SRH to kick off IPL 2026 in Bengaluru on March 28",
+      "summary": "The IPL has released the schedule for the first 20 matches of the season including four double-headers",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527318.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401653.jpg",
+      "published_at": "2026-03-11T13:51:45.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మార్చి 28న బెంగళూరులో RCB vs SRH IPL 2026ని ప్రారంభించనుంది",
+      "summary_te": "ఐపీఎల్ నాలుగు డబుల్ హెడ్‌లతో సహా సీజన్‌లోని మొదటి 20 మ్యాచ్‌ల షెడ్యూల్‌ను విడుదల చేసింది",
+      "translated": true
+    },
+    {
+      "id": "48064bac2e7e1ef1b3ab02f1318e81d4",
+      "title": "Beth Mooney, Sophie Devine earn £210,000 Hundred paydays",
+      "summary": "Dani Gibson sold for £190,000 as franchises splash out on first morning of women's auction",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527669.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414624.jpg",
+      "published_at": "2026-03-11T13:25:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బెత్ మూనీ, సోఫీ డివైన్ £210,000 వందల చెల్లింపు రోజులు సంపాదిస్తారు",
+      "summary_te": "డాని గిబ్సన్ £190,000కి అమ్ముడయ్యాయి, ఎందుకంటే మహిళల వేలం మొదటి ఉదయం ఫ్రాంచైజీలు స్ప్లాష్ చేయబడ్డాయి",
+      "translated": true
+    },
+    {
+      "id": "850527ee5a0811238f66501cc41ae17b",
+      "title": "Nahid Rana and Tanzid Hasan complete Pakistan's demolition in opening ODI",
+      "summary": "Rana's maiden five-wicket haul in ODIs shot out Pakistan for 114 before Tanzid made easy work of the chase with a rapid half-century",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527660.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414612.jpg",
+      "published_at": "2026-03-11T12:37:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "నాహిద్ రానా మరియు తాంజిద్ హసన్ ఓపెనింగ్ ODIలో పాకిస్తాన్‌ను కూల్చివేసారు",
+      "summary_te": "రానా వన్డేల్లో తొలి ఐదు వికెట్లు పడగొట్టి పాకిస్థాన్‌ను 114 పరుగులకే ఆలౌట్ చేయడంతో పాటు టాంజిద్ వేగవంతమైన అర్ధ సెంచరీతో సులువుగా ఛేదించాడు.",
+      "translated": true
+    },
     {
       "id": "562f9efce50a780d7f65a02c17826252",
       "title": "Patterson guides NSW to One-Day Cup title in rain-hit contest",
@@ -16,20 +58,6 @@
       "language": "en",
       "title_te": "రెయిన్-హిట్ కాంటెస్ట్‌లో NSWని వన్-డే కప్ టైటిల్‌కి ప్యాటర్సన్ మార్గనిర్దేశం చేశాడు",
       "summary_te": "వాష్ అవుట్ నుండి 12 నిమిషాల తర్వాత మ్యాచ్ ప్రతి జట్టుకు 22 ఓవర్లకు తగ్గించబడింది మరియు టాస్మానియా 5 వికెట్లకు 25 పరుగులకు కుప్పకూలింది.",
-      "translated": true
-    },
-    {
-      "id": "850527ee5a0811238f66501cc41ae17b",
-      "title": "Nahid Rana five-for dismantles Pakistan",
-      "summary": "Only a 32-run tenth-wicket parnership helped Pakistan go past the 100-run mark after Rana picked up his maiden five-wicket haul in ODIs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527660.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414612.jpg",
-      "published_at": "2026-03-11T11:22:06.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "నహిద్ రాణా ఐదు పరుగులతో పాకిస్థాన్‌ను చిత్తు చేశాడు",
-      "summary_te": "రానా వన్డేల్లో తన తొలి ఐదు వికెట్లు తీసిన తర్వాత 32 పరుగుల పదో వికెట్ భాగస్వామ్యం మాత్రమే పాకిస్తాన్ 100 పరుగుల మార్కును దాటడానికి సహాయపడింది.",
       "translated": true
     },
     {
@@ -71,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
-      "summary_te": "పాకిస్తాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కలయికను ప్రయత్నించడానికి సిద్ధంగా ఉంది",
+      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
       "translated": true
     },
     {
@@ -99,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పింక్ బాల్ యాషెస్ టెస్టు ఇప్పటికీ క్రికెట్ ఆస్ట్రేలియా ప్రణాళికల్లో భాగం",
-      "summary_te": "వచ్చే మార్చిలో జరిగే 150వ వార్షికోత్సవ టెస్ట్ డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
+      "summary_te": "వచ్చే మార్చిలో 150వ వార్షికోత్సవ టెస్టు డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
       "translated": true
     },
     {
@@ -169,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్‌తో జరిగిన తొలి వన్డేలో పాకిస్థాన్ నలుగురు అరంగేట్రం ఆటగాళ్లను రంగంలోకి దించనుంది",
-      "summary_te": "సాహిబ్జాదా ఫర్హాన్, షామిల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
+      "summary_te": "సాహిబ్జాదా ఫర్హాన్, షమీల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
       "translated": true
     },
     {
@@ -211,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "డారిల్ మిచెల్‌తో జరిగిన ఘటనలో అర్ష్‌దీప్ సింగ్‌కు జరిమానా, డీమెరిట్ పాయింట్‌ను విధించారు",
-      "summary_te": "ఫైనల్‌లో NZ ఛేజింగ్‌లో 11వ ఓవర్‌లో, అర్ష్‌దీప్ బంతిని స్టంప్స్ వైపు విసిరి, డారిల్ మిచెల్‌ను ప్యాడ్‌లపై కొట్టినప్పుడు ఈ సంఘటన జరిగింది.",
+      "summary_te": "ఫైనల్‌లో NZ యొక్క ఛేజింగ్‌లో 11వ ఓవర్‌లో, అర్ష్‌దీప్ బంతిని స్టంప్స్ వైపు విసిరినప్పుడు, డారిల్ మిచెల్‌ను ప్యాడ్‌లపై కొట్టడంతో ఈ సంఘటన జరిగింది.",
       "translated": true
     },
     {
@@ -225,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "కంకషన్ భయంతో జింబాబ్వే ఆటగాడు నధ్లోవు మూడో వన్డేకు దూరమయ్యాడు",
-      "summary_te": "ఆమె ప్రస్తుతం కోలుకుంది మరియు సంఘటన తర్వాత వైద్య పరిశీలనలో ఉంది",
+      "summary_te": "ఆమె ప్రస్తుతం కోలుకుంటోంది మరియు సంఘటన తర్వాత వైద్య పరిశీలనలో ఉంది",
       "translated": true
     },
     {
@@ -322,36 +350,8 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "వెస్టిండీస్ పర్యటన నుండి సదర్లాండ్ విశ్రాంతి తీసుకున్నాడు, మోలినెక్స్ ఆడాలని 'అంచనా'",
+      "title_te": "వెస్టిండీస్ పర్యటన నుండి సదర్లాండ్ విశ్రాంతి తీసుకున్నాడు, మోలినక్స్ ఆడాలని 'అంచనా'",
       "summary_te": "NSW వికెట్ కీపర్ తహ్లియా విల్సన్ తన మొదటి కాల్-అప్ సంపాదించింది, గ్రేస్ హారిస్ తొలగించబడింది",
-      "translated": true
-    },
-    {
-      "id": "c53acffebb1ec9840a4340d620f0bb6b",
-      "title": "Bethell named as Birmingham Phoenix captain for 2026 Hundred",
-      "summary": "England batter takes over from Liam Livingstone who has joined London Spirit",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527515.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/386000/386082.jpg",
-      "published_at": "2026-03-09T18:38:26.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బెథెల్ 2026 వందకు బర్మింగ్‌హామ్ ఫీనిక్స్ కెప్టెన్‌గా ఎంపికయ్యాడు",
-      "summary_te": "లండన్ స్పిరిట్‌లో చేరిన లియామ్ లివింగ్‌స్టోన్ నుండి ఇంగ్లండ్ బ్యాటర్ బాధ్యతలు స్వీకరించాడు",
-      "translated": true
-    },
-    {
-      "id": "ae58e8958dc379274142cb701463bcc0",
-      "title": "Vibes or fumes? England's McCullum era may have run out of road",
-      "summary": "Flawed but valiant T20 World Cup campaign offers scant proof that Brendon McCullum can recreate magic",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527512.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414581.jpg",
-      "published_at": "2026-03-09T17:33:50.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వైబ్స్ లేదా పొగలు? ఇంగ్లండ్ యొక్క మెకల్లమ్ యుగానికి దారి లేకుండా పోయి ఉండవచ్చు",
-      "summary_te": "లోపభూయిష్టమైన కానీ ధైర్యమైన T20 ప్రపంచ కప్ ప్రచారం బ్రెండన్ మెకల్లమ్ మాయాజాలాన్ని పునఃసృష్టి చేయగలడనడానికి చాలా తక్కువ రుజువును అందిస్తుంది",
       "translated": true
     }
   ]
