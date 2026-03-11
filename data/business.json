@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-11T19:47:35.532Z",
-  "updated_at_IST": "12/3/2026, 1:17:35 am",
+  "updated_at": "2026-03-11T20:34:30.945Z",
+  "updated_at_IST": "12/3/2026, 2:04:30 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "45bacd28cc11d478b3ac1e34ed0aa8d6",
+      "title": "Oil shock, inflation pressures dampen RBI rate-cut hopes",
+      "summary": "Economists believe India's policy interest rate cuts are unlikely to continue due to West Asia crisis-driven inflation risks and the fading of a favorable base effect. Sustained foreign outflows and a weakening rupee could also force the Reserve Bank of India to reconsider further easing, potentially even a hike.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/oil-shock-inflation-pressures-dampen-rbi-rate-cut-hopes/articleshow/129478050.cms",
+      "image": null,
+      "published_at": "2026-03-11T19:31:43.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "చమురు షాక్, ద్రవ్యోల్బణం ఒత్తిళ్లు ఆర్‌బీఐ రేట్ల కోత ఆశలను తగ్గించాయి",
+      "summary_te": "పశ్చిమాసియా సంక్షోభం-ఆధారిత ద్రవ్యోల్బణం ప్రమాదాలు మరియు అనుకూలమైన బేస్ ఎఫెక్ట్ క్షీణించడం వల్ల భారతదేశం యొక్క పాలసీ వడ్డీ రేటు తగ్గింపులు కొనసాగే అవకాశం లేదని ఆర్థిక నిపుణులు భావిస్తున్నారు. నిరంతర విదేశీ ప్రవాహాలు మరియు క్షీణిస్తున్న రూపాయి కూడా రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియాను మరింత సడలింపుపై పునరాలోచించవలసి ఉంటుంది, సంభావ్య పెంపుదల కూడా.",
+      "translated": true
+    },
+    {
+      "id": "46db84dc6fa52de4fabc6fa9caa3aa85",
+      "title": "West Asia conflict could hurt agri input availability: UPL Executive",
+      "summary": "Geopolitical tensions and disruptions in the Strait of Hormuz are driving up agricultural input costs, with fertilizer prices already surging 50-80%. While shipping, insurance, and energy costs have climbed, immediate agrochemical availability for the upcoming kharif season remains stable due to pre-built inventories.",
+      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/west-asia-conflict-could-hurt-agri-input-availability-upl-executive/articleshow/129477522.cms",
+      "image": null,
+      "published_at": "2026-03-11T19:14:49.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా వివాదం వ్యవసాయ ఇన్‌పుట్ లభ్యతను దెబ్బతీస్తుంది: UPL ఎగ్జిక్యూటివ్",
+      "summary_te": "హార్ముజ్ జలసంధిలో భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు అంతరాయాలు వ్యవసాయ ఇన్‌పుట్ ఖర్చులను పెంచుతున్నాయి, ఎరువుల ధరలు ఇప్పటికే 50-80% పెరిగాయి. షిప్పింగ్, బీమా మరియు ఇంధన ఖర్చులు పెరిగినప్పటికీ, ముందుగా నిర్మించిన ఇన్వెంటరీల కారణంగా రాబోయే ఖరీఫ్ సీజన్‌లో తక్షణ వ్యవసాయ రసాయన లభ్యత స్థిరంగా ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "dc4ed5a4bf3db5d695dba3529602cc68",
+      "title": "Diversion of stranded cargo to new markets under review",
+      "summary": "India is assessing the diversion of export cargoes stranded by the West Asia crisis to alternative markets. The commerce ministry is seeking details from goods exporters on rerouting options and has also reached out to services exporters to gauge potential risks to trade, including movement restrictions and technology reliance.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/diversion-of-stranded-cargo-to-new-markets-under-review/articleshow/129477351.cms",
+      "image": null,
+      "published_at": "2026-03-11T19:09:56.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "స్ట్రాండ్డ్ కార్గోను కొత్త మార్కెట్‌లకు మళ్లించడం సమీక్షలో ఉంది",
+      "summary_te": "పశ్చిమాసియా సంక్షోభంలో చిక్కుకున్న ఎగుమతి కార్గోలను ప్రత్యామ్నాయ మార్కెట్లకు మళ్లించడాన్ని భారతదేశం అంచనా వేస్తోంది. వాణిజ్య మంత్రిత్వ శాఖ రీరూటింగ్ ఎంపికలపై వస్తువుల ఎగుమతిదారుల నుండి వివరాలను కోరుతోంది మరియు కదలిక పరిమితులు మరియు టెక్నాలజీ రిలయన్స్‌తో సహా వాణిజ్యానికి సంభావ్య నష్టాలను అంచనా వేయడానికి సేవల ఎగుమతిదారులను కూడా చేరుకుంది.",
+      "translated": true
+    },
     {
       "id": "162abbb0d51e9543320dbce8a0670dfd",
       "title": "Oil tanker seized by US in relation to Venezuela set to transfer crude to smaller vessel",
@@ -20,7 +62,7 @@
     },
     {
       "id": "75359bd9ff7a23d621aad9940990e448",
-      "title": "Farooq Abdullah escapes gun attack outside marriage hall in Jammu; police overpower assailant",
+      "title": "Farooq Abdullah escape gun attack at marriage function in Jammu; police overpower assailant",
       "summary": "The attack occurred at the Greater Kailash locality in Jammu when Abdullah and Deputy Chief Minister Surinder Choudhary were leaving a marriage function.",
       "url": "https://www.livemint.com/news/india/farooq-abdullah-escapes-gun-attack-outside-jammu-marriage-hall-police-overpower-assailant-11773253584149.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/PTI12-27-2024-000260A-0_1737692763684_1773253842431.jpg",
@@ -28,7 +70,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఫరూక్ అబ్దుల్లా జమ్మూలోని మ్యారేజ్ హాల్ వెలుపల తుపాకీ దాడి నుండి తప్పించుకున్నాడు; పోలీసులు దుండగుడిని మట్టుబెట్టారు",
+      "title_te": "జమ్మూలో వివాహ కార్యక్రమంలో ఫరూక్ అబ్దుల్లా తుపాకీ దాడి నుండి తప్పించుకున్నారు; పోలీసులు దుండగుడిని మట్టుబెట్టారు",
       "summary_te": "జమ్మూలోని గ్రేటర్ కైలాష్ ప్రాంతంలో అబ్దుల్లా, ఉపముఖ్యమంత్రి సురిందర్ చౌదరి వివాహ వేడుక నుండి బయలుదేరుతున్న సమయంలో ఈ దాడి జరిగింది.",
       "translated": true
     },
@@ -169,7 +211,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హార్ముజ్ జలసంధి దిగ్బంధనం కారణంగా పర్షియన్ గల్ఫ్‌లో చిక్కుకున్న 28 భారత జెండాలతో కూడిన నౌకలు",
-      "summary_te": "హార్ముజ్ జలసంధి దిగ్బంధనం కారణంగా పర్షియన్ గల్ఫ్‌లో 778 మంది నావికులతో కూడిన 28 భారతీయ పతాక నౌకలు చిక్కుకుపోయాయి. ప్రభుత్వం వారి భద్రతను పర్యవేక్షిస్తోంది, అయితే భారతదేశ సహజ వాయువు సరఫరా ప్రభావితమవుతుంది, పరిశ్రమలకు సరఫరా కోతలను మరియు గృహ వినియోగానికి ప్రాధాన్యతనిస్తుంది.",
+      "summary_te": "హార్ముజ్ జలసంధి దిగ్బంధనం కారణంగా పర్షియన్ గల్ఫ్‌లో 778 మంది నావికులతో కూడిన 28 భారతీయ జెండాలతో కూడిన ఓడలు చిక్కుకుపోయాయి. ప్రభుత్వం వారి భద్రతను పర్యవేక్షిస్తోంది, అయితే భారతదేశ సహజ వాయువు సరఫరా ప్రభావితమవుతుంది, పరిశ్రమలకు సరఫరా కోతలను మరియు గృహ వినియోగానికి ప్రాధాన్యతనిస్తుంది.",
       "translated": true
     },
     {
@@ -238,7 +280,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "‘లక్ష్యానికి ఆచరణాత్మకంగా ఏమీ లేదు’: ఇరాన్ యుద్ధం ‘త్వరలో’ ముగుస్తుందని ట్రంప్ చెప్పారు",
+      "title_te": "'లక్ష్యానికి ఆచరణాత్మకంగా ఏమీ లేదు': ఇరాన్ యుద్ధం 'త్వరలో' ముగుస్తుందని ట్రంప్ చెప్పారు",
       "summary_te": "సైనిక ఆపరేషన్ ఇప్పటికే ఇరాన్ సామర్థ్యాలకు భారీ నష్టాన్ని కలిగించిందని ట్రంప్ నొక్కి చెప్పారు.",
       "translated": true
     },
@@ -281,7 +323,7 @@
       "category": "business",
       "language": "en",
       "title_te": "చూడండి: నోయిడా నుండి గురుగ్రామ్ వరకు 3 యువకులు తరగతికి చేరుకుంటారు, ఇంటర్నెట్ ఇలా చెబుతోంది: ‘హ్యాట్స్ ఆఫ్’",
-      "summary_te": "నోయిడాకు చెందిన ముగ్గురు 19 ఏళ్ల యువకులు నోయిడా సెక్టార్ 18 నుండి గురుగ్రామ్‌లోని వారి కళాశాల వరకు నడుస్తున్న అసాధారణ ప్రయాణానికి ప్రయత్నించిన తర్వాత వైరల్ అయ్యారు. లోధీ రోడ్ మరియు ఇండియా గేట్ వంటి ఢిల్లీ ల్యాండ్‌మార్క్‌ల మీదుగా వారి ప్రయాణం ఇంటర్నెట్ దృష్టిని ఆకర్షించింది.",
+      "summary_te": "నోయిడాకు చెందిన ముగ్గురు 19 ఏళ్ల యువకులు నోయిడా సెక్టార్ 18 నుండి గురుగ్రామ్‌లోని వారి కళాశాల వరకు నడుస్తున్న అసాధారణ ప్రయాణానికి ప్రయత్నించిన తర్వాత వైరల్ అయ్యారు. లోధి రోడ్ మరియు ఇండియా గేట్ వంటి ఢిల్లీ ల్యాండ్‌మార్క్‌ల మీదుగా వారి ప్రయాణం ఇంటర్నెట్ దృష్టిని ఆకర్షించింది.",
       "translated": true
     },
     {
@@ -295,7 +337,7 @@
       "category": "business",
       "language": "en",
       "title_te": "భారతదేశం యొక్క అణుశక్తి మిషన్: ₹20,000 కోట్ల కేటాయింపు, రెక్టార్‌లను అమర్చడానికి BARC, 100 GW సామర్థ్యం లక్ష్యం — తాజా నవీకరణలు",
-      "summary_te": "డిపార్ట్‌మెంట్ ఆఫ్ అటామిక్ ఎనర్జీ భారతదేశ అణుశక్తి మిషన్ కోసం బడ్జెట్‌లోని ₹20,000 కోట్ల నిధుల నుండి చిన్న మాడ్యులర్ రియాక్టర్ల అభివృద్ధిని చేపడుతోంది. ప్లాన్ చేసిన వాటిని ఇక్కడ చూడండి:",
+      "summary_te": "డిపార్ట్‌మెంట్ ఆఫ్ అటామిక్ ఎనర్జీ, భారతదేశం యొక్క అణుశక్తి మిషన్ కోసం బడ్జెట్ యొక్క ₹20,000 కోట్ల నిధుల నుండి చిన్న మాడ్యులర్ రియాక్టర్‌ల అభివృద్ధిని చేపడుతోంది. ప్లాన్ చేసిన వాటిని ఇక్కడ చూడండి:",
       "translated": true
     },
     {
@@ -323,7 +365,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అరుణా షాన్‌బాగ్ ఎవరు? ఆమె 42 ఏళ్ల కోమా భారతదేశం యొక్క మొదటి నిష్క్రియ అనాయాస తీర్పుకు ఎలా మార్గం సుగమం చేసింది",
-      "summary_te": "తన జీవితాన్ని ముగించాలని షాన్‌బాగ్ కుటుంబం చేసిన అభ్యర్థనను సుప్రీంకోర్టు తిరస్కరించింది మరియు ఆమె 2015లో 66 ఏళ్ల వయసులో న్యుమోనియాతో మరణించింది. కానీ కఠినమైన రక్షణలు మరియు న్యాయపరమైన ఆమోదంతో నిష్క్రియాత్మక అనాయాస మరణాన్ని గుర్తిస్తూ అది ఒక మైలురాయి అభిప్రాయాన్ని జారీ చేసింది.",
+      "summary_te": "తన జీవితాన్ని ముగించాలని షాన్‌బాగ్ కుటుంబం చేసిన అభ్యర్థనను సుప్రీంకోర్టు తిరస్కరించింది మరియు ఆమె 2015లో 66 సంవత్సరాల వయసులో న్యుమోనియాతో మరణించింది. కానీ అది కఠినమైన రక్షణలతో మరియు న్యాయపరమైన ఆమోదంతో నిష్క్రియాత్మక అనాయాస మరణాన్ని గుర్తిస్తూ ఒక మైలురాయి అభిప్రాయాన్ని జారీ చేసింది.",
       "translated": true
     },
     {
@@ -477,7 +519,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -491,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -523,20 +565,6 @@
       "translated": true
     },
     {
-      "id": "bfd201bb08bd97c232ed44cfd25210e5",
-      "title": "India-US trade deal: Trade team heading to Washington next week for legal pact",
-      "summary": "India's chief negotiator Darpan Jain will lead a delegation to Washington next week to finalize the legal agreement for the India-US trade deal, aiming for a March signing. The visit follows the finalization of an interim trade agreement framework, with virtual talks ongoing to translate contours into a legal pact.",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-trade-team-heading-to-washington-next-week-for-legal-pact/articleshow/128434425.cms",
-      "image": null,
-      "published_at": "2026-02-16T18:34:48.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "భారతదేశం-అమెరికా వాణిజ్య ఒప్పందం: చట్టపరమైన ఒప్పందం కోసం వాణిజ్య బృందం వచ్చే వారం వాషింగ్టన్‌కు వెళుతుంది",
-      "summary_te": "భారతదేశం యొక్క ప్రధాన సంధానకర్త దర్పణ్ జైన్ వచ్చే వారం వాషింగ్టన్‌కు వెళ్లే ప్రతినిధి బృందానికి నాయకత్వం వహించి, మార్చిలో సంతకం చేయాలనే లక్ష్యంతో భారతదేశం-యుఎస్ వాణిజ్య ఒప్పందం కోసం చట్టపరమైన ఒప్పందాన్ని ఖరారు చేస్తారు. సందర్శన మధ్యంతర వాణిజ్య ఒప్పంద ఫ్రేమ్‌వర్క్ యొక్క ముగింపును అనుసరిస్తుంది, ఆకృతులను చట్టపరమైన ఒప్పందంగా అనువదించడానికి వర్చువల్ చర్చలు కొనసాగుతున్నాయి.",
-      "translated": true
-    },
-    {
       "id": "5837cb57df72a37e2365cde95ae44119",
       "title": "Bangladesh’s interests come first, says BNP chairman and PM-designate Tarique Rahman",
       "summary": "Bangladesh's new leader Tarique Rahman states national interest and public welfare are paramount. His party, the BNP, is set to govern after a long absence. The BNP is seeking the extradition of former Prime Minister Sheikh Hasina from India. Rahman, son of former leaders, faces expectations for significant change. Relations with India are a key focus for the new administration.",
@@ -547,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -561,35 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "be4cc8e1caf62a4197bd8c234d7e3a4f",
-      "title": "New CPI series explained: What changed, why it matters, and what’s new",
-      "summary": "India's statistics ministry has updated the Consumer Price Index (CPI) base year to 2024 from 2012, reflecting evolving household consumption patterns. The revised index includes more items, expanded price collection, and incorporates online market data, aiming for a more accurate measure of inflation for monetary policy.",
-      "url": "https://economictimes.indiatimes.com/news/et-explains/new-cpi-series-explained-what-changed-why-it-matters-and-whats-new/articleshow/128272218.cms",
-      "image": null,
-      "published_at": "2026-02-12T18:38:50.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "కొత్త CPI సిరీస్ వివరించబడింది: ఏమి మార్చబడింది, ఎందుకు ముఖ్యమైనది మరియు కొత్తది ఏమిటి",
-      "summary_te": "భారతదేశ గణాంకాల మంత్రిత్వ శాఖ 2012 నుండి 2024కి వినియోగదారుల ధరల సూచిక (CPI) బేస్ ఇయర్‌ని అప్‌డేట్ చేసింది, ఇది అభివృద్ధి చెందుతున్న గృహ వినియోగ విధానాలను ప్రతిబింబిస్తుంది. సవరించిన ఇండెక్స్‌లో మరిన్ని అంశాలు, విస్తరించిన ధరల సేకరణ మరియు ఆన్‌లైన్ మార్కెట్ డేటాను పొందుపరిచారు, ద్రవ్య విధానానికి ద్రవ్యోల్బణాన్ని మరింత ఖచ్చితమైన కొలమానం కోసం లక్ష్యంగా పెట్టుకున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "614cd022ce8a677245c6d438d4230c3a",
-      "title": "Elevated growth, low inflation no fluke: FM Nirmala Sitharaman",
-      "summary": "Finance Minister Nirmala Sitharaman highlighted India's strong economic performance, characterized by high growth and low inflation, attributing it to government reforms. She refuted claims of middle-class suppression, citing an expanding taxpayer base and rising real incomes. The budget aims to guide India towards developed nation status by 2047.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/elevated-growth-low-inflation-no-fluke-fm-nirmala-sitharaman/articleshow/128271371.cms",
-      "image": null,
-      "published_at": "2026-02-12T18:18:00.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "పెరిగిన వృద్ధి, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
-      "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును హైలైట్ చేసారు, ఇది అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్గీకరించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, విస్తరిస్తున్న పన్ను చెల్లింపుదారుల స్థావరం మరియు పెరుగుతున్న వాస్తవ ఆదాయాలను ఉటంకిస్తూ. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -603,7 +603,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
-      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు, అయితే వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
+      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -631,7 +631,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
@@ -645,7 +645,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అట్లాంటిక్ 'లవ్ ఫెస్ట్' ఉన్నప్పటికీ, US మరియు చైనాతో సంబంధాలలో EU మూడవ మార్గాన్ని కలిగి ఉంది",
-      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ అన్నప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష స్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
+      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ చెప్పినప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష ప్రతిస్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
       "translated": true
     },
     {
@@ -701,7 +701,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
