@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-11T03:30:54.360Z",
-  "updated_at_IST": "11/3/2026, 9:00:54 am",
+  "updated_at": "2026-03-11T05:20:28.948Z",
+  "updated_at_IST": "11/3/2026, 10:50:28 am",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "ea115840d4a8890cf570ae1e70b1d9dd",
+      "title": "Who are Clayton Fuller and Shawn Harris, candidates in the Georgia runoff election to replace Marjorie Taylor Greene?",
+      "summary": "Clayton Fuller and Shawn Harris will compete in a runoff for Georgia's 14th Congressional District on April 7. Harris, a retired Army general, received the most votes, followed closely by Fuller, backed by Trump. The winner will serve until 2026 and campaign for a full term starting in 2027.",
+      "url": "https://www.livemint.com/news/us-news/who-are-clayton-fuller-and-shawn-harris-candidates-in-the-georgia-runoff-election-to-replace-marjorie-taylor-greene-11773202640259.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/USA-ELECTION-FBI-49_1769693268180_1769693279469_1773202759820.JPG",
+      "published_at": "2026-03-11T04:25:13.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్జోరీ టేలర్ గ్రీన్ స్థానంలో జార్జియా రన్ఆఫ్ ఎన్నికలలో క్లేటన్ ఫుల్లర్ మరియు షాన్ హారిస్ ఎవరు?",
+      "summary_te": "క్లేటన్ ఫుల్లర్ మరియు షాన్ హారిస్ ఏప్రిల్ 7న జార్జియా యొక్క 14వ కాంగ్రెషనల్ డిస్ట్రిక్ట్‌కు రన్ఆఫ్‌లో పోటీ చేస్తారు. రిటైర్డ్ ఆర్మీ జనరల్ అయిన హారిస్ అత్యధిక ఓట్లను పొందారు, ఆ తర్వాత ట్రంప్ మద్దతుతో ఫుల్లర్‌కు దగ్గరగా ఉన్నారు. విజేత 2026 వరకు పని చేస్తాడు మరియు 2027 నుండి పూర్తి కాలానికి ప్రచారం చేస్తాడు.",
+      "translated": true
+    },
+    {
+      "id": "62b02cf627cd0ce8ce5c6c56d9a6461d",
+      "title": "Titanic-style statute of Trump and Epstein surfaces near Capitol Hill — ‘tragic love story...’ | Viral video",
+      "summary": "A life-sized statue depicting Donald Trump and Jeffrey Epstein in a Titanic-inspired pose has surfaced near Capitol Hill. Titled ‘King of the World’, the life‑sized sculpture mocks their alleged friendship with a plaque referencing parties, travel and secret sketches.",
+      "url": "https://www.livemint.com/news/world/titanicstyle-statute-of-trump-and-epstein-surfaces-near-capitol-hill-tragic-love-story-viral-video-11773194780739.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/US-GOLDEN-STATUE-OF-DONALD-TRUMP-AND-JEFFREY-EPSTE_1773195023789_1773195023940.jpg",
+      "published_at": "2026-03-11T03:46:37.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "క్యాపిటల్ హిల్ సమీపంలో ట్రంప్ మరియు ఎప్స్టీన్ ఉపరితలాల టైటానిక్ తరహా శాసనం — ‘విషాద ప్రేమకథ...’ | వైరల్ వీడియో",
+      "summary_te": "క్యాపిటల్ హిల్ సమీపంలో టైటానిక్-ప్రేరేపిత భంగిమలో డొనాల్డ్ ట్రంప్ మరియు జెఫ్రీ ఎప్స్టీన్‌లను చిత్రీకరించే జీవిత-పరిమాణ విగ్రహం కనిపించింది. 'కింగ్ ఆఫ్ ది వరల్డ్' పేరుతో, జీవిత-పరిమాణ శిల్పం పార్టీలు, ప్రయాణం మరియు రహస్య స్కెచ్‌లను సూచించే ఫలకంతో వారి ఆరోపించిన స్నేహాన్ని అపహాస్యం చేస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "f3c39483c59a00ebeced8da1f44b3b59",
+      "title": "Iran-US war: The real reason Trump is letting India buy Russian oil again",
+      "summary": "The US has allowed India to accept Russian oil already at sea to secure energy supplies during the Iran conflict, according to White House Press Secretary Karoline Leavitt.",
+      "url": "https://www.livemint.com/news/world/iranus-war-the-real-reason-trump-is-letting-india-buy-russian-oil-again-iranian-oil-market-price-energy-supplies-11773199118124.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/modi_1730885704065_1773199318776.jpg",
+      "published_at": "2026-03-11T03:40:23.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్-అమెరికా యుద్ధం: రష్యా చమురును మళ్లీ కొనుగోలు చేయడానికి ట్రంప్ భారత్‌ను అనుమతించడానికి అసలు కారణం",
+      "summary_te": "వైట్‌హౌస్ ప్రెస్ సెక్రటరీ కరోలిన్ లీవిట్ ప్రకారం, ఇరాన్ వివాదం సమయంలో ఇంధన సరఫరాలను సురక్షితంగా ఉంచడానికి ఇప్పటికే సముద్రంలో రష్యా చమురును అంగీకరించడానికి అమెరికా భారతదేశాన్ని అనుమతించింది.",
+      "translated": true
+    },
+    {
+      "id": "03746fd6d79f27e117738a10cc7655b9",
+      "title": "Canada ready to seize opportunity, says PM Carney amid oil crisis - ‘India’s energy demand rising fastest globally'",
+      "summary": "As the global oil crisis deepens, Canadian PM Mark Carney highlights the opportunity for Canada to meet India's rapidly rising energy needs, positioning the country as a potential energy superpower. This comes as disruptions in oil supply escalate due to geopolitical tensions in West Asia.",
+      "url": "https://www.livemint.com/news/world/canada-ready-to-seize-opportunity-pm-carney-amid-global-oil-crisis-india-s-energy-demand-rising-fastest-globally-lpg-11773197987173.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/PTI03-02-2026-000115B-0_1772440172161_1772440201203_1773198976432.jpg",
+      "published_at": "2026-03-11T03:38:11.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కెనడా అవకాశాన్ని చేజిక్కించుకోవడానికి సిద్ధంగా ఉంది, చమురు సంక్షోభం మధ్య PM కార్నీ చెప్పారు - 'భారతదేశ ఇంధన డిమాండ్ ప్రపంచవ్యాప్తంగా వేగంగా పెరుగుతోంది'",
+      "summary_te": "ప్రపంచ చమురు సంక్షోభం తీవ్రమవుతున్నందున, కెనడా ప్రధానమంత్రి మార్క్ కార్నీ భారతదేశం యొక్క వేగంగా పెరుగుతున్న ఇంధన అవసరాలను తీర్చడానికి కెనడాకు అవకాశాన్ని హైలైట్ చేశారు, దేశాన్ని సంభావ్య శక్తి సూపర్ పవర్‌గా ఉంచారు. పశ్చిమాసియాలో భౌగోళిక రాజకీయ ఉద్రిక్తతల కారణంగా చమురు సరఫరాలో అంతరాయాలు పెరుగుతున్నందున ఇది వస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "63f721fc8221dc5a14f89af7ea0bbfd9",
+      "title": "Is Benjamin Netanyahu Dead? Death rumours of Israeli PM in airstrikes flood social media; Jerusalem says…",
+      "summary": "Iran's Fars news agency claimed Khaibar missiles hit Netanyahu's office. Rumours of his death circulated on social media after he vanished from public view.&nbsp;",
+      "url": "https://www.livemint.com/news/world/is-benjamin-netanyahu-dead-death-rumours-of-israeli-pm-in-airstrikes-flood-social-media-jerusalem-says-11773193725822.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/IRAN-CRISIS-TURKEY-PROTEST-43_1773194141821_1773194158022.JPG",
+      "published_at": "2026-03-11T03:29:28.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "బెంజమిన్ నెతన్యాహు చనిపోయారా? వైమానిక దాడుల్లో ఇజ్రాయెల్ ప్రధాని మరణ పుకార్లు సోషల్ మీడియాను ముంచెత్తుతున్నాయి; జెరూసలేం చెప్పింది…",
+      "summary_te": "ఖైబర్ క్షిపణులు నెతన్యాహు కార్యాలయాన్ని తాకినట్లు ఇరాన్ వార్తా సంస్థ ఫార్స్ పేర్కొంది. అతను ప్రజల దృష్టి నుండి అదృశ్యమైన తర్వాత అతని మరణం గురించి పుకార్లు సోషల్ మీడియాలో వ్యాపించాయి. ",
+      "translated": true
+    },
     {
       "id": "5c4cfc9ff152dd6814e01cd332a7de6e",
       "title": "Amid DHS shutdown, White House breaks silence: ‘To every American stuck in endless TSA lines — thank a Democrat’",
@@ -35,7 +105,7 @@
     {
       "id": "c27f75c0da0fbf5a68ace543312e433d",
       "title": "Iran issues death threat to Donald Trump after US president's 'Death, Fire and Fury' warning: ‘Watch out for yourself’",
-      "summary": "Ali Larijani, Iran's top security official, rebuked President Trump for his threats, emphasising Iran's resilience and invoking the 'spirit of Ashura' as a source of courage. He warned Trump to be cautious, asserting that Iran would not be intimidated by American pressure.",
+      "summary": "Ali Larijani, Iran's top security official, rebukes US President Donald Trump for his threats. He emphasises Iran's resilience and invokes the 'spirit of Ashura' as a source of courage. He warns Trump to be cautious, asserting that Iran would not be intimidated by American pressure.",
       "url": "https://www.livemint.com/news/world/iran-issues-death-threat-to-donald-trump-after-us-presidents-death-fire-and-fury-warning-watch-out-for-yourself-11773196019440.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/TOPSHOT-US-IRAN-WAR-POLITICS-TRUMP-0_1773196408430_1773196431254.jpg",
       "published_at": "2026-03-11T02:37:59.000Z",
@@ -43,7 +113,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అమెరికా అధ్యక్షుడి 'డెత్, ఫైర్ అండ్ ఫ్యూరీ' హెచ్చరిక తర్వాత ఇరాన్ డొనాల్డ్ ట్రంప్‌కు మరణ బెదిరింపులను జారీ చేసింది: 'మీ కోసం జాగ్రత్తగా ఉండండి'",
-      "summary_te": "ఇరాన్ యొక్క అత్యున్నత భద్రతా అధికారి అలీ లారిజానీ, అధ్యక్షుడు ట్రంప్‌ను అతని బెదిరింపులకు మందలించారు, ఇరాన్ యొక్క స్థితిస్థాపకతను నొక్కిచెప్పారు మరియు ధైర్యానికి మూలంగా 'అషురా యొక్క ఆత్మ'ను ప్రేరేపించారు. అమెరికా ఒత్తిడికి ఇరాన్ బెదిరిపోదని ట్రంప్‌ను హెచ్చరించాడు.",
+      "summary_te": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ బెదిరింపులపై ఇరాన్ అత్యున్నత భద్రతా అధికారి అలీ లారిజానీ మందలించారు. అతను ఇరాన్ యొక్క స్థితిస్థాపకతను నొక్కిచెప్పాడు మరియు ధైర్యానికి మూలంగా 'ఆషూరా యొక్క ఆత్మ'ను ప్రేరేపిస్తాడు. అమెరికా ఒత్తిడికి ఇరాన్ బెదిరిపోదని ఆయన ట్రంప్‌ను హెచ్చరిస్తున్నారు.",
       "translated": true
     },
     {
@@ -84,7 +154,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "US-ఇరాన్ యుద్ధం: EAM జైశంకర్ ఇరాన్ విదేశాంగ మంత్రి అరాఘితో మాట్లాడాడు - 'టచ్‌లో ఉండటానికి అంగీకరించాడు'",
+      "title_te": "US-ఇరాన్ యుద్ధం: EAM జైశంకర్ ఇరాన్ విదేశాంగ మంత్రి అరాఘీతో మాట్లాడాడు - 'టచ్‌లో ఉండటానికి అంగీకరించాడు'",
       "summary_te": "యుఎస్-ఇరాన్ వివాదం తీవ్రమవుతున్న తరుణంలో, భారత విదేశాంగ మంత్రి ఎస్ జైశంకర్ వివాదానికి సంబంధించి ఇరాన్ కౌంటర్ సయ్యద్ అబ్బాస్ అరాఘితో క్లిష్టమైన చర్చలు జరుపుతున్నారు.",
       "translated": true
     },
@@ -132,15 +202,15 @@
     },
     {
       "id": "0c9a74e086da9fcb5c295e19cb66aa7e",
-      "title": "LPG Shortage News Today LIVE: Commercial units face 20% PNG supply cut; Induction stove purchase rises",
+      "title": "LPG Shortage News Today LIVE: LPG auto gas price surges to ₹80 in Bengaluru, gas stations shut down",
       "summary": "LPG Shortage News Today LIVE: Chennai Hotels Association and Bangalore Hotels Association claimed that commercial LPG supply to restaurants have taken a massive hit, therefore ‘the hotels will be closed' from today, 11 March",
       "url": "https://www.livemint.com/news/india/lpg-shortage-today-11-march-cylinder-indian-oil-hindustan-petroleum-mumbai-bengaluru-kolkata-chennai-hyderabad-11773186735057.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/2-0-216740799-LPG-F2-0_1680786264013_1773186843064.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/INDIA-WAR-IRAN-US-ISRAEL-ECONOMY-GAS-1_1773202906692_1773202920177.jpg",
       "published_at": "2026-03-11T00:31:23.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "LPG కొరత న్యూస్ టుడే లైవ్: వాణిజ్య యూనిట్లు 20% PNG సరఫరా కోతను ఎదుర్కొంటాయి; ఇండక్షన్ స్టవ్ కొనుగోలు పెరుగుతుంది",
+      "title_te": "LPG కొరత న్యూస్ టుడే లైవ్: బెంగళూరులో ఎల్‌పిజి ఆటో గ్యాస్ ధర ₹80కి పెరిగింది, గ్యాస్ స్టేషన్లు మూసివేయబడ్డాయి",
       "summary_te": "LPG కొరత న్యూస్ టుడే లైవ్: చెన్నై హోటల్స్ అసోసియేషన్ మరియు బెంగుళూరు హోటల్స్ అసోసియేషన్ రెస్టారెంట్‌లకు వాణిజ్య LPG సరఫరా భారీగా దెబ్బతిన్నాయని, అందువల్ల ఈరోజు, 11 మార్చి నుండి 'హోటళ్లు మూసివేయబడతాయి' అని పేర్కొన్నారు.",
       "translated": true
     },
@@ -239,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎనర్జీ సెసీ క్రిస్ రైట్ వాదనకు విరుద్ధంగా హార్ముజ్ జలసంధి ద్వారా US నావికాదళం ఆయిల్ ట్యాంకర్‌ను పంపడాన్ని వైట్ హౌస్ ఖండించింది.",
-      "summary_te": "మార్కెట్లను ప్రభావితం చేసేందుకు అమెరికా అధికారులు తప్పుడు సమాచారాన్ని వ్యాప్తి చేస్తున్నారని ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీ ఆరోపించారు.",
+      "summary_te": "ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీ అమెరికా అధికారులు మార్కెట్లను ప్రభావితం చేయడానికి తప్పుడు సమాచారాన్ని వ్యాప్తి చేస్తున్నారని ఆరోపించారు.",
       "translated": true
     },
     {
@@ -351,7 +421,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్రంప్ నియామకం తర్వాత US ఎయిర్ ఫోర్స్ అకాడమీ అడ్వైజరీ బోర్డులో దివంగత భర్త చార్లీ కిర్క్ స్థానంలో ఎరికా కిర్క్ ఉన్నారు",
-      "summary_te": "అకడమిక్ స్టాండర్డ్స్, క్యాడెట్ నైతికత మరియు ఆర్థిక నిర్వహణ వంటి కీలక సమస్యలపై US డిపార్ట్‌మెంట్ ఆఫ్ డిఫెన్స్‌కి బోర్డు సలహా ఇస్తుంది.",
+      "summary_te": "అకడమిక్ స్టాండర్డ్స్, క్యాడెట్ నైతికత మరియు ఆర్థిక నిర్వహణ వంటి కీలక సమస్యలపై US డిపార్ట్‌మెంట్ ఆఫ్ డిఫెన్స్‌కు బోర్డు సలహా ఇస్తుంది.",
       "translated": true
     },
     {
@@ -366,76 +436,6 @@
       "language": "en",
       "title_te": "హర్యానాలో రైతు కూతురి వివాహానికి హాజరైన రాహుల్ గాంధీ హామీని నిలబెట్టుకున్నారు | చిత్రాన్ని చూడండి",
       "summary_te": "2023లో తొలిసారిగా పరిచయమైన రైతు సంజయ్ మాలిక్ కుమార్తె తనూ వివాహానికి హాజరయ్యేందుకు రాహుల్ గాంధీ సోనిపట్‌లోని మదీనా గ్రామాన్ని సందర్శించారు.",
-      "translated": true
-    },
-    {
-      "id": "3791c079e959ab84832c2b951d4034da",
-      "title": "Registration in UP to become mandatory for Ola, Uber and other ride-hailing apps",
-      "summary": "The Uttar Pradesh government has made state registration mandatory for ride-hailing services like Ola and Uber to enhance passenger safety. Drivers must pass medical exams and police verifications, and companies will pay fees for licensing and renewal.&nbsp;",
-      "url": "https://www.livemint.com/news/india/registration-in-up-to-become-mandatory-for-ola-uber-and-other-ride-hailing-apps-11773163111422.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/Chief-minister-Yogi-Adityanath-was-apprised-of-iss_1773163345109_1773163351683.jpg",
-      "published_at": "2026-03-10T17:22:56.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "Ola, Uber మరియు ఇతర రైడ్-హెయిలింగ్ యాప్‌లకు UPలో రిజిస్ట్రేషన్ తప్పనిసరి",
-      "summary_te": "ప్రయాణీకుల భద్రతను పెంచేందుకు ఉత్తరప్రదేశ్ ప్రభుత్వం ఓలా మరియు ఉబర్ వంటి రైడ్-హెయిలింగ్ సేవలకు రాష్ట్ర రిజిస్ట్రేషన్ తప్పనిసరి చేసింది. డ్రైవర్లు తప్పనిసరిగా వైద్య పరీక్షలు మరియు పోలీసు ధృవీకరణలలో ఉత్తీర్ణులై ఉండాలి మరియు లైసెన్సింగ్ మరియు పునరుద్ధరణ కోసం కంపెనీలు రుసుము చెల్లిస్తాయి. ",
-      "translated": true
-    },
-    {
-      "id": "857c4d76de44f79e0e89273cc6e20ce8",
-      "title": "UK sends warship HMS Dragon to Eastern Mediterranean after Cyprus drone attack",
-      "summary": "Britain has deployed the Royal Navy destroyer HMS Dragon to the eastern Mediterranean more than a week after a drone struck its RAF Akrotiri base in Cyprus, an attack linked to escalating tensions following US and Israeli strikes on Iran.&nbsp;",
-      "url": "https://www.livemint.com/news/world/uk-sends-warship-hms-dragon-to-eastern-mediterranean-after-cyprus-drone-attack-11773161848405.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/BRITAIN-IRAN-US-ISRAEL-WAR-DEFENCE-2_1773161962389_1773161976193.jpg",
-      "published_at": "2026-03-10T17:03:27.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సైప్రస్ డ్రోన్ దాడి తర్వాత UK యుద్ధనౌక HMS డ్రాగన్‌ను తూర్పు మధ్యధరా ప్రాంతానికి పంపింది",
-      "summary_te": "బ్రిటన్ రాయల్ నేవీ డిస్ట్రాయర్ HMS డ్రాగన్‌ను సైప్రస్‌లోని దాని RAF అక్రోటిరి స్థావరాన్ని డ్రోన్ కొట్టిన వారం రోజుల తర్వాత తూర్పు మధ్యధరా ప్రాంతంలో మోహరించింది, ఈ దాడి ఇరాన్‌పై US మరియు ఇజ్రాయెల్ దాడుల తరువాత పెరుగుతున్న ఉద్రిక్తతలతో ముడిపడి ఉంది. ",
-      "translated": true
-    },
-    {
-      "id": "335f5fd8430a0b4c76868738144c4b6a",
-      "title": "LPG shortage: PM Modi asks ministers to ensure Indian consumers do not suffer due to conflict",
-      "summary": "PM Modi has been proactive in ensuring that Indian consumers do not face the brunt of higher petroleum prices, as India is a net importer of crude oil and natural gas.",
-      "url": "https://www.livemint.com/news/india/lpg-shortage-pm-modi-asks-ministers-to-ensure-indian-consumers-do-not-suffer-due-to-conflict-impact-11773158348041.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/PTI01-18-2026-000587B-0_1773161915555_1773161929537.jpg",
-      "published_at": "2026-03-10T17:01:45.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "LPG కొరత: వివాదం కారణంగా భారతీయ వినియోగదారులు ఇబ్బంది పడకుండా చూడాలని ప్రధాని మోదీ మంత్రులను కోరారు",
-      "summary_te": "భారతదేశం ముడి చమురు మరియు సహజ వాయువు యొక్క నికర దిగుమతిదారుగా ఉన్నందున, అధిక పెట్రోలియం ధరల భారాన్ని భారతీయ వినియోగదారులు ఎదుర్కోకుండా చూసుకోవడంలో PM మోడీ చురుకుగా ఉన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "9ca0d898c304535c1652860b2e48fbe6",
-      "title": "Quote of the Day by Pink Floyd: ‘And then one day you find ten years have got behind you…’",
-      "summary": "Pink Floyd's 'Time,' written by Roger Waters, explores the urgency of life and missed opportunities. The song's reflective lyrics remind listeners that life doesn't wait for readiness, making its message increasingly relevant in today's fast-paced world.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-by-pink-floyd-and-then-one-day-you-find-ten-years-have-got-behind-you-11773158153701.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/pink_floyd_1773158145507_1773158145647.webp",
-      "published_at": "2026-03-10T16:44:42.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "పింక్ ఫ్లాయిడ్ ద్వారా కోట్ ఆఫ్ ది డే: 'ఆపై ఒక రోజు మీరు పదేళ్లు వెనుకబడి ఉన్నారని కనుగొన్నారు...'",
-      "summary_te": "రోజర్ వాటర్స్ రచించిన పింక్ ఫ్లాయిడ్ యొక్క 'టైమ్,' జీవితం యొక్క ఆవశ్యకతను మరియు కోల్పోయిన అవకాశాలను విశ్లేషిస్తుంది. పాట యొక్క ప్రతిబింబ సాహిత్యం జీవితం సంసిద్ధత కోసం వేచి ఉండదని శ్రోతలకు గుర్తుచేస్తుంది, నేటి వేగవంతమైన ప్రపంచంలో దాని సందేశాన్ని మరింత సందర్భోచితంగా చేస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "67aaf67b7d7e7a8ebceff39ece13c480",
-      "title": "Air India launches investigation after viral video shows ex-cabin crew sitting in cockpit mid-flight",
-      "summary": "A viral video allegedly showing a former Air India cabin crew member sitting inside the cockpit during a flight has sparked debate online. The airline says it has launched an internal investigation.",
-      "url": "https://www.livemint.com/news/trends/air-india-launches-investigation-after-viral-video-shows-ex-cabin-crew-sitting-in-cockpit-midflight-11773159750366.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/10/1600x900/logo/air_india_1773159738765_1773159746592.jpg",
-      "published_at": "2026-03-10T16:42:00.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "విమానం మధ్యలో కాక్‌పిట్‌లో మాజీ క్యాబిన్ సిబ్బంది కూర్చున్న వీడియో వైరల్ కావడంతో ఎయిర్ ఇండియా దర్యాప్తు ప్రారంభించింది",
-      "summary_te": "ఎయిరిండియా మాజీ క్యాబిన్ సిబ్బంది విమానంలో కాక్‌పిట్ లోపల కూర్చున్నట్లు ఆరోపించబడిన వైరల్ వీడియో ఆన్‌లైన్‌లో చర్చకు దారితీసింది. అంతర్గత విచారణ ప్రారంభించినట్లు ఎయిర్‌లైన్స్ తెలిపింది.",
       "translated": true
     },
     {
@@ -463,7 +463,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -477,7 +477,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -574,7 +574,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "పెరిగిన వృద్ధి, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
+      "title_te": "వృద్ధిరేటు, తక్కువ ద్రవ్యోల్బణం తగ్గలేదు: ఎఫ్‌ఎం నిర్మలా సీతారామన్",
       "summary_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ భారతదేశం యొక్క బలమైన ఆర్థిక పనితీరును హైలైట్ చేసారు, ఇది అధిక వృద్ధి మరియు తక్కువ ద్రవ్యోల్బణంతో వర్గీకరించబడింది, దీనికి ప్రభుత్వ సంస్కరణలే కారణమని పేర్కొన్నారు. ఆమె మధ్యతరగతి అణచివేతకు సంబంధించిన వాదనలను తోసిపుచ్చారు, విస్తరిస్తున్న పన్ను చెల్లింపుదారుల స్థావరం మరియు పెరుగుతున్న వాస్తవ ఆదాయాలను ఉటంకిస్తూ. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదా దిశగా భారతదేశాన్ని నడిపించడం బడ్జెట్ లక్ష్యం.",
       "translated": true
     },
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
-      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు, అయితే వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
+      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -616,7 +616,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "జనవరిలో మొదటిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
+      "title_te": "జనవరిలో తొలిసారిగా LLP రిజిస్ట్రేషన్‌లు 10,000 మార్క్‌ను దాటాయి",
       "summary_te": "పరిమిత బాధ్యత భాగస్వామ్యాలు (LLPలు) కోసం నెలవారీ రిజిస్ట్రేషన్లు జనవరిలో మొదటిసారిగా 10,000ను అధిగమించాయి, ఇది సంవత్సరానికి 60% పెరిగింది. కంపెనీ ఇన్‌కార్పొరేషన్‌లు కూడా దాదాపు 39% గణనీయంగా పెరిగాయి. US మరియు EU లతో ఇటీవలి వాణిజ్య ఒప్పందాలు మరియు అనుకూలమైన పన్ను విధానాల ద్వారా ఊపందుకున్న బలమైన దేశీయ వృద్ధి దృక్పథం ఈ పెరుగుదలలకు కారణమని చెప్పవచ్చు.",
       "translated": true
     },
@@ -715,7 +715,7 @@
       "category": "business",
       "language": "en",
       "title_te": "విప్రోను తగ్గించండి; లక్ష్యం రూ. 410: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో విప్రో షేరుపై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
+      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి తన పరిశోధన నివేదికలో విప్రో స్టాక్‌పై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -813,7 +813,7 @@
       "category": "business",
       "language": "en",
       "title_te": "సిటీ యూనియన్ బ్యాంక్‌ను కొనుగోలు చేయండి; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
+      "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేయడంపై ICICI సెక్యూరిటీస్ బుల్లిష్‌గా ఉంది.",
       "translated": true
     },
     {
@@ -841,7 +841,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
@@ -855,7 +855,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అట్లాంటిక్ 'లవ్ ఫెస్ట్' ఉన్నప్పటికీ, US మరియు చైనాతో సంబంధాలలో EU మూడవ మార్గాన్ని కలిగి ఉంది",
-      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ అన్నప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష స్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
+      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ చెప్పినప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష ప్రతిస్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
       "translated": true
     },
     {
@@ -911,7 +911,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
