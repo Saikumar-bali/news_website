@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-11T18:49:51.805Z",
-  "updated_at_IST": "12/3/2026, 12:19:51 am",
+  "updated_at": "2026-03-11T19:47:35.532Z",
+  "updated_at_IST": "12/3/2026, 1:17:35 am",
   "category": "andhra",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "bf0bce429f30bb05493ce64924409564",
+      "title": "Minister urged to expedite construction work on medical colleges",
+      "summary": "Praja Arogya Vedika (PAV) wrote to Minister for Health, Medical Education and Family Welfare, Satya Kumar Yadav, urging him to expedite the remaining construction work on newly-sanctioned medical colleges and operationalise them at the earliest, before the beginning of the academic year, for the benefit of students.In the letter, they wrote that the construction of medical colleges and associated facilities in many districts were either completed or nearing completion. Only limited additional funding and administrative action was required to complete the remaining work.If the government takes immediate steps to allocate the required budget, complete the remaining of construction work, and recruit the necessary faculty and staff, these colleges can be made ready for admissions in the upcoming academic year, they said.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-urged-to-expedite-construction-work-on-medical-colleges/article70731796.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-11T17:32:48.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "మెడికల్ కాలేజీల నిర్మాణ పనులను వేగవంతం చేయాలని మంత్రి కోరారు",
+      "summary_te": "కొత్తగా మంజూరైన మెడికల్ కాలేజీల్లో మిగిలిన నిర్మాణ పనులను వేగవంతం చేయాలని, విద్యా సంవత్సరం ప్రారంభానికి ముందే వాటిని ప్రారంభించాలని, విద్యార్థుల ప్రయోజనాల కోసం వాటిని త్వరగా ప్రారంభించాలని ప్రజా ఆరోగ్య వేదిక (పీఏవీ) ఆరోగ్య, వైద్య విద్య, కుటుంబ సంక్షేమ శాఖ మంత్రి సత్యకుమార్ యాదవ్‌కు లేఖ రాసింది. మిగిలిన పనులు పూర్తి చేసేందుకు పరిమితమైన అదనపు నిధులు, పరిపాలనాపరమైన చర్యలు మాత్రమే అవసరమన్నారు. ప్రభుత్వం తక్షణమే అవసరమైన బడ్జెట్‌ను కేటాయించి, మిగిలిన నిర్మాణ పనులను పూర్తి చేసి, అవసరమైన అధ్యాపకులు మరియు సిబ్బందిని నియమించడానికి చర్యలు తీసుకుంటే, ఈ కళాశాలలను రాబోయే విద్యా సంవత్సరంలో అడ్మిషన్లకు సిద్ధం చేయవచ్చని వారు చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "4aafcd8e49a0e798bf7a8a4b57f735e9",
+      "title": "APSSDC, OMCAP sign MoU with Apollo MedSkills to facilitate overseas jobs for youth",
+      "summary": "The Andhra Pradesh State Skill Development Corporation (APSSDC), Overseas Manpower Company Andhra Pradesh Limited (OMCAP) and Apollo MedSkills Limited (AMSL) signed a Memorandum of Understanding (MoU) to create overseas employment opportunities for youth from Andhra Pradesh, particularly in the healthcare and allied sectors.APSSDC Executive Director D. Manohar in a press release said that under the partnership, the Corporation will facilitate candidate mobilisation, data management and coordination of training activities, while OMCAP will serve as the nodal agency for overseas recruitment in compliance with the Emigration Act, 1983. Apollo MedSkills Limited will act as the academic and training partner, delivering specialised programmes aligned with international healthcare standards and supporting overseas placements for qualified candidates.The initiative aims to train and facilitate overseas placements for 500 candidates in the first phase, with the potential to expand to 1,000 candidates during the first year, said Mr. Manohar, adding that the APSSDC may extend financial support of up to ₹15,000 per candidate towards training costs, as per approved norms.Managing Director and CEO of APSSDC, G. Ganesh Kumar, said the collaboration reflects the State’s commitment in preparing youth for global employment opportunities through internationally aligned training and structured overseas placement pathways. “By partnering with Apollo MedSkills, we aim to create opportunities for skilled youth from Andhra Pradesh to access rewarding careers in the global healthcare sector,” he added.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apssdc-omcap-sign-mou-with-apollo-medskills-to-facilitate-overseas-jobs-for-youth/article70731788.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-11T17:07:10.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "APSSDC, OMCAP యువతకు విదేశీ ఉద్యోగాలను సులభతరం చేయడానికి అపోలో మెడ్‌స్కిల్స్‌తో అవగాహన ఒప్పందంపై సంతకం చేశాయి",
+      "summary_te": "ఆంధ్ర ప్రదేశ్ రాష్ట్ర నైపుణ్యాభివృద్ధి సంస్థ (APSSDC), ఓవర్సీస్ మ్యాన్‌పవర్ కంపెనీ ఆంధ్రప్రదేశ్ లిమిటెడ్ (OMCAP) మరియు అపోలో మెడ్‌స్కిల్స్ లిమిటెడ్ (AMSL) ఆంధ్రప్రదేశ్‌లోని యువతకు విదేశీ ఉపాధి అవకాశాలను కల్పించడానికి అవగాహన ఒప్పందం (MOU) పై సంతకం చేశాయి, ముఖ్యంగా ఆరోగ్య సంరక్షణ మరియు అనుబంధ రంగాలలో. కార్పొరేషన్ అభ్యర్థుల సమీకరణ, డేటా నిర్వహణ మరియు శిక్షణ కార్యకలాపాల సమన్వయాన్ని సులభతరం చేస్తుంది, అయితే OMCAP వలస చట్టం, 1983కి అనుగుణంగా విదేశీ నియామకాలకు నోడల్ ఏజెన్సీగా పనిచేస్తుంది. అపోలో మెడ్‌స్కిల్స్ లిమిటెడ్ అకడమిక్ మరియు శిక్షణ భాగస్వామిగా వ్యవహరిస్తుంది. మొదటి దశలో 500 మంది అభ్యర్థులకు విదేశీ ప్లేస్‌మెంట్‌లకు శిక్షణ ఇవ్వడం మరియు సులభతరం చేయడం లక్ష్యంగా పెట్టుకున్నామని, మొదటి సంవత్సరంలో 1,000 మంది అభ్యర్థులకు విస్తరించే అవకాశం ఉందని, APSSDC ప్రతి అభ్యర్థికి శిక్షణ ఖర్చుల కోసం ₹15,000 వరకు ఆర్థిక సహాయాన్ని అందజేస్తుందని, ఆమోదించిన నిబంధనల ప్రకారం APSDC మేనేజింగ్ డైరెక్టర్ మరియు CEO గణేష్ కుమార్ తెలిపారు. అంతర్జాతీయంగా సమీకృత శిక్షణ మరియు నిర్మాణాత్మక విదేశీ ప్లేస్‌మెంట్ మార్గాల ద్వారా ప్రపంచ ఉపాధి అవకాశాల కోసం యువతను సిద్ధం చేయడంలో. \"అపోలో మెడ్‌స్కిల్స్‌తో భాగస్వామ్యం చేయడం ద్వారా, ఆంధ్రప్రదేశ్‌లోని నైపుణ్యం కలిగిన యువతకు ప్రపంచ ఆరోగ్య సంరక్షణ రంగంలో రివార్డింగ్ కెరీర్‌లను యాక్సెస్ చేయడానికి అవకాశాలను సృష్టించడం మా లక్ష్యం\" అని ఆయన చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "4dfd4c65201d19776c003c43f7927e0d",
       "title": "Fire destroys plastic pipes in Amaravati",
@@ -112,7 +140,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "వైఎస్‌ఆర్‌సిపి ఎన్ని అడ్డంకులు వచ్చినా అభివృద్ధి ఆగదని హెచ్‌ఆర్‌డి మంత్రి లోకేష్ అన్నారు",
+      "title_te": "వైఎస్‌ఆర్‌సీపీ ఎన్ని అడ్డంకులు వచ్చినా అభివృద్ధి ఆగదని హెచ్‌ఆర్‌డీ మంత్రి లోకేశ్ అన్నారు",
       "summary_te": "వైజాగ్‌లో గూగుల్‌కు భూమి కేటాయింపును సవాలు చేస్తూ హైకోర్టులో పిల్ దాఖలయ్యిందని పేర్కొంటూ సోషల్ మీడియా పోస్ట్‌ను ప్రస్తావిస్తూ, వైఎస్‌ఆర్‌సిపి అధ్యక్షుడు జగన్ మోహన్ రెడ్డి ఆంధ్రప్రదేశ్ యువత మరియు అభివృద్ధిపై ఎందుకు ద్వేషం కలిగి ఉన్నారని మంత్రి ప్రశ్నించారు.",
       "translated": true
     },
