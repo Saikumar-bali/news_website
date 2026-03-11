@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-11T15:49:34.624Z",
-  "updated_at_IST": "11/3/2026, 9:19:34 pm",
+  "updated_at": "2026-03-11T16:50:39.452Z",
+  "updated_at_IST": "11/3/2026, 10:20:39 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a778b9dbe80f565ce5d86be07b577574",
+      "title": "Hesson: Pakistan left 'exposed' with the bat by Nahid Rana",
+      "summary": "Pakistan coach said they went into a shell and will have to turn things around quickly after a chastening loss",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527703.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
+      "published_at": "2026-03-11T16:22:50.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
+      "translated": true
+    },
     {
       "id": "86626ee85e447ae142c7fcc3f2e17680",
       "title": "Hayden appointed as Gujarat Titans batting coach",
@@ -226,20 +240,6 @@
       "language": "en",
       "title_te": "బంగ్లాదేశ్‌తో జరిగిన తొలి వన్డేలో పాకిస్థాన్ నలుగురు అరంగేట్రం ఆటగాళ్లను రంగంలోకి దించనుంది",
       "summary_te": "సాహిబ్జాదా ఫర్హాన్, షమీల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "abaf2bf0815147f9667fdef8429e10e2",
-      "title": "Sri Lanka appoint Gary Kirsten as men's head coach",
-      "summary": "Kirsten will take over the reins on April 15 on a two-year contract that runs until April 14 2028",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527505.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/410200/410244.jpg",
-      "published_at": "2026-03-10T14:27:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "శ్రీలంక పురుషుల ప్రధాన కోచ్‌గా గ్యారీ కిర్‌స్టన్‌ను నియమించింది",
-      "summary_te": "ఏప్రిల్ 14, 2028 వరకు కొనసాగే రెండేళ్ల కాంట్రాక్ట్‌పై కిర్‌స్టన్ ఏప్రిల్ 15న పగ్గాలు చేపట్టనున్నారు.",
       "translated": true
     },
     {

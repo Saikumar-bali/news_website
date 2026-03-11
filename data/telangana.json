@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-03-11T15:49:34.624Z",
-  "updated_at_IST": "11/3/2026, 9:19:34 pm",
+  "updated_at": "2026-03-11T16:50:39.452Z",
+  "updated_at_IST": "11/3/2026, 10:20:39 pm",
   "category": "telangana",
-  "count": 32,
+  "count": 31,
   "articles": [
+    {
+      "id": "0c6c0c70e03935139f5917ca470304b0",
+      "title": "'Liquor policy case appeal should be transferred to another bench'",
+      "summary": "'Liquor policy case appeal should be transferred to another bench' tvenkatesh Wed, 03/11/2026 - 22:00",
+      "url": "https://www.sakshi.com/telugu-news/national/arvind-kejriwal-writes-delhi-hc-chief-justice-2730768",
+      "image": null,
+      "published_at": "2026-03-11T16:30:41.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "‘మద్యం పాలసీ కేసు అప్పీలును మరో బెంచ్‌కు బదిలీ చేయాలి‘",
+      "summary_te": "‘మద్యం పాలసీ కేసు అప్పీలును మరో బెంచ్‌కు బదిలీ చేయాలి‘ tvenkatesh Wed, 03/11/2026 - 22:00",
+      "translated": true
+    },
+    {
+      "id": "4a5eec002807133cd4b15216c36bb99f",
+      "title": "LPG cylinder shortage forces Hyderabad hotels to scale down menus, possible closure clouds establishments",
+      "summary": "The uncertainty over LPG cylinder availability has forced operators of restaurants in Hyderabad to rethink kitchen operations, reduce the number of dishes prepared and ration available gas supplies to keep outlets running for as long as possible. Some restaurant chains have raised prices. Others are planning to shut down if the situation worsens.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/lpg-cylinder-shortage-forces-hyderabad-hotels-to-scale-down-menus-possible-closure-clouds-establishments/article70730036.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/8wyfbi/article70732230.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%208.54.31%20PM.jpeg",
+      "published_at": "2026-03-11T16:07:58.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఎల్‌పిజి సిలిండర్ కొరత కారణంగా హైదరాబాద్ హోటళ్లలో మెనూలు తగ్గుముఖం పట్టాయి, మూతపడే అవకాశం ఉంది.",
+      "summary_te": "ఎల్‌పిజి సిలిండర్ లభ్యతపై అనిశ్చితి హైదరాబాద్‌లోని రెస్టారెంట్ల నిర్వాహకులు వంటగది కార్యకలాపాలను పునరాలోచించవలసి వచ్చింది, తయారుచేసిన వంటల సంఖ్యను తగ్గించింది మరియు రేషన్ అందుబాటులో ఉన్న గ్యాస్ సరఫరాలను వీలైనంత ఎక్కువ కాలం పాటు అవుట్‌లెట్‌లను కొనసాగించేలా చేసింది. కొన్ని రెస్టారెంట్ చైన్‌లు ధరలను పెంచాయి. మరికొందరు పరిస్థితి విషమిస్తే మూసివేయాలని యోచిస్తున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "3a1ee0e47dcbd752f34113ea503ec770",
+      "title": "Gujarat signed a two-time winning coach",
+      "summary": "Gujarat signs deal with two-time winning coach johnpaul Wed, 03/11/2026 - 21:37",
+      "url": "https://www.sakshi.com/telugu-news/sports/gujarat-titans-sign-two-time-ipl-winning-coach-rediscover-victory-mantra-2730767",
+      "image": null,
+      "published_at": "2026-03-11T16:07:35.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "టూ టైమ్‌ విన్నింగ్‌ కోచ్‌తో ఒప్పందం చేసుకున్న గుజరాత్‌",
+      "summary_te": "టూ టైమ్‌ విన్నింగ్‌ కోచ్‌తో ఒప్పందం చేసుకున్న గుజరాత్‌ johnpaul Wed, 03/11/2026 - 21:37",
+      "translated": true
+    },
+    {
+      "id": "1aa6e5fb8260ae886f78daaa346a65c9",
+      "title": "If he lost his job within 3 days.. what did this AI engineer do..",
+      "summary": "If you lose your job within 3 days.. what did this AI engineer do.. gbalaji Wed, 03/11/2026 - 21:06",
+      "url": "https://www.sakshi.com/telugu-news/business/fired-just-3-days-ai-engineer-now-earns-8-times-more-year-later-2730766",
+      "image": null,
+      "published_at": "2026-03-11T15:36:10.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "3 రోజుల్లోనే ఉద్యోగం పోతే.. ఈ ఏఐ ఇంజనీర్ ఏం చేసిందంటే..",
+      "summary_te": "3 రోజుల్లోనే ఉద్యోగం పోతే.. ఈ ఏఐ ఇంజనీర్ ఏం చేసిందంటే.. gbalaji Wed, 03/11/2026 - 21:06",
+      "translated": true
+    },
+    {
+      "id": "ee4b7db618b65ca2ff59bc37ed929a76",
+      "title": "War to the final stage.. Trump is good news",
+      "summary": "War to final stage.. Trump good news tvenkatesh Wed, 03/11/2026 - 21:03",
+      "url": "https://www.sakshi.com/telugu-news/international/trump-claims-us-has-crippled-iran%E2%80%99s-targets-2730765",
+      "image": null,
+      "published_at": "2026-03-11T15:33:47.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "తుది దశకు యుద్ధం.. ట్రంప్‌ గుడ్‌న్యూస్‌",
+      "summary_te": "తుది దశకు యుద్ధం.. ట్రంప్‌ గుడ్‌న్యూస్‌ tvenkatesh Wed, 03/11/2026 - 21:03",
+      "translated": true
+    },
+    {
+      "id": "409658c865f12b212ef405a9a0a98113",
+      "title": "House site pattas distributed, Indiramma houses sanctioned to eligible poor people on Bhoodan lands in Velugumatla",
+      "summary": "A model colony will be constructed with all amenities for the poor people in Velugumatla in Khammam city in such a way that people from other States in the country will come and visit it, said Deputy Chief Minister Mallu Bhatti Vikramarka.He said that the remaining 16 acres of land in Velugumatla, after distributing house sites to the poor, will be utilised for the construction of a Telangana Public School and other government educational institutions.He was speaking after distributing house site pattas to the eligible beneficiaries among the displaced poor people on Bhoodan lands in Velugumatla along with Ministers Tummala Nageshwara Rao and Ponguleti Srinivas Reddy at the Integrated District Offices Complex (IDOC) in Khammam on Wednesday.The move comes close on the heels of the recent demolition of a little over 700 houses during an ‘eviction drive’ on Bhoodan lands at Velugumatla on February 24, 2026.",
+      "url": "https://www.thehindu.com/news/national/telangana/house-site-pattas-distributed-indiramma-houses-sanctioned-to-eligible-poor-people-on-bhoodan-lands-in-velugumatla/article70731688.ece",
+      "image": "https://th-i.thgim.com/public/incoming/w1tj83/article70732036.ece/alternates/LANDSCAPE_1200/Bhatti1.jpg",
+      "published_at": "2026-03-11T15:26:38.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "వెలుగుమట్లలో భూదాన్ భూముల్లో అర్హులైన పేదలకు ఇళ్ల స్థలాల పట్టాల పంపిణీ, ఇందిరమ్మ ఇళ్లు మంజూరు",
+      "summary_te": "ఖమ్మం నగరంలోని వెలుగుమట్లలో పేదల కోసం దేశంలోని ఇతర రాష్ట్రాల వారు వచ్చి సందర్శించే విధంగా అన్ని సౌకర్యాలతో మోడల్ కాలనీ నిర్మిస్తామని ఉపముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క తెలిపారు.వెలుగుమట్లలో మిగిలిన 16 ఎకరాల భూమిలో పేదలకు ఇళ్ల స్థలాలు పంపిణీ చేసి తెలంగాణ ప్రభుత్వ పాఠశాలల నిర్మాణాలు చేపడతామన్నారు. బుధవారం ఖమ్మంలోని సమీకృత జిల్లా కార్యాలయాల సముదాయంలో (ఐడీఓసీ) వెలుగుమట్లలోని భూదాన్ భూముల్లోని నిర్వాసిత నిరుపేదలకు ఇళ్లస్థలాల పట్టాలను మంత్రులు తుమ్మల నాగేశ్వరరావు, పొంగులేటి శ్రీనివాస్‌రెడ్డిలతో కలిసి పంపిణీ చేశారు. ఫిబ్రవరి 24, 2026న వెలుగుమట్ల.",
+      "translated": true
+    },
     {
       "id": "3556e410eb74625ec165de3527f1b483",
       "title": "Promotions of 'Mr. From Home' movie as variety",
@@ -19,6 +103,20 @@
       "translated": true
     },
     {
+      "id": "83b00d2e2567de516f5772ceac3f7401",
+      "title": "Medha Patkar calls for suspension of March 13 unveiling of Musi project plan",
+      "summary": "Prominent social activist Medha Patkar has addressed a letter to the Chief Minister A. Revanth Reddy requesting him to champion the betterment of Musi river along with the riverine communities, but not at the expense of each other. She urged him to shun any violence against people in Mahatma Gandhi’s name.Ms. Patkar, representing the All India Rivers Forum and National Alliance of People’s Movements (NAPM), has called for the immediate suspension of the proposed unveiling of the Detailed Project Plans for Phase-1 of Musi River Rejuvenation scheduled for March 13, to which she is one among the official invitees.The present framework excludes the voices of the directly affected families, environmental experts and social activists, and in a democracy grounded in participatory governance, such omissions render the proceedings antithetical to true partnership, she mentioned.Musi Riverfront Development is one among over 100 similar riverfront initiatives planned predominantly in states governed by BJP and its allies, many of which have raised profound social and environmental apprehensions, she said citing the example of Sabarmati project which received several directives and corrective measures from the Gujarat High Court.Listing the history of the Musi project since the late 1990s, Ms. Patkar noted that it is likely to displace thousands of households while endangering heritage structures. Recent demolitions have already affected approximately 300 homes, with the provided alternative tenements falling short of residents’ needs and disrupting livelihoods.Highlighting the exemption of social impact assessment for the project, she expressed concern that instead of repealing the amendment to the Right to Fair Compensation and Transparency in Land Acquisition, Rehabilitation and Resettlement Act, 2013 by the previous government, the Congress government has invoked this very provision for the exemption.Ms.Patkar also found problematic the piecemeal approach to the Detailed Project Report devoid of cumulative impact assessment, and said for a project of this scale, advancing without deliberations with the affected families and appropriate legal and clearance processes would inflict irreversible harm on the ecosystem and socio-economic fabric of the state.She sought public release of detailed project plan for the entire project in English, Telugu and Urdu, with a minimum 60 day period fo submission of suggestions and objections. Detailed dialogue with the affected communities, public hearings in the affected areas, constitution of an independent committee for comprehensive review of the project from a river basin approach, immediate withdrawal of all land acquisition notices, and passage of a legislation in the Telangana State Assembly to repeal the amendments to the land acquisition legislation to restore it to its original form were other demands made by the activist.",
+      "url": "https://www.thehindu.com/news/national/telangana/medha-patkar-calls-for-suspension-of-march-13-unveiling-of-musi-project-plan/article70731787.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-11T15:09:38.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మూసీ ప్రాజెక్ట్ ప్లాన్‌ను మార్చి 13న ఆవిష్కరించాలని మేధా పాట్కర్ పిలుపునిచ్చారు",
+      "summary_te": "నదీతీర వర్గాలతో పాటు మూసీ నది అభివృద్ధికి పాటుపడాలని, అయితే పరస్పరం నష్టపోవద్దని కోరుతూ ప్రముఖ సామాజిక కార్యకర్త మేధా పాట్కర్ ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డికి లేఖ రాశారు. మహాత్మాగాంధీ పేరుతో ప్రజలపై ఎలాంటి హింసాకాండకు దూరంగా ఉండాలని ఆమె కోరారు. ఆల్ ఇండియా రివర్స్ ఫోరమ్ మరియు నేషనల్ అలయన్స్ ఆఫ్ పీపుల్స్ మూవ్‌మెంట్స్ (NAPM)కి ప్రాతినిధ్యం వహిస్తున్న పాట్కర్, మార్చి 13న జరగనున్న మూసీ నది పునరుజ్జీవనం యొక్క ఫేజ్-1 కోసం సవివరమైన ప్రాజెక్ట్ ప్లాన్‌ల ప్రతిపాదిత ఆవిష్కరణను వెంటనే నిలిపివేయాలని పిలుపునిచ్చారు. దీనికి అధికారిక ఆహ్వానితులలో ఆమె ఒకరు. భాగస్వామ్య పాలనలో ప్రజాస్వామ్యం నెలకొని ఉంది, ఇటువంటి లోపాలు నిజమైన భాగస్వామ్యానికి విరుద్ధమైన చర్యలను సూచిస్తాయి, ఆమె పేర్కొన్నారు. బిజెపి మరియు దాని మిత్రపక్షాలు పాలించే రాష్ట్రాల్లో ప్రధానంగా ప్రణాళిక చేయబడిన 100 కి పైగా నదీతీర కార్యక్రమాలలో మూసీ రివర్ ఫ్రంట్ అభివృద్ధి ఒకటి. గుజరాత్ హైకోర్టు నుండి. 1990ల చివరి నుండి మూసీ ప్రాజెక్ట్ యొక్క చరిత్రను జాబితా చేస్తూ, Ms. పాట్కర్ వారసత్వ కట్టడాలను ప్రమాదంలో పడే సమయంలో వేలాది గృహాలను స్థానభ్రంశం చేసే అవకాశం ఉందని పేర్కొన్నారు. ఇటీవలి కూల్చివేతలు ఇప్పటికే దాదాపు 300 గృహాలను ప్రభావితం చేశాయి, అందించిన ప్రత్యామ్నాయ గృహాలు నివాసితుల అవసరాలకు తగ్గడం మరియు జీవనోపాధికి అంతరాయం కలిగించాయి. ప్రాజెక్ట్ కోసం సామాజిక ప్రభావ మదింపు మినహాయింపును ఎత్తిచూపుతూ, న్యాయమైన పరిహారం మరియు పారదర్శకత హక్కుకు సవరణను రద్దు చేయడానికి బదులు, మునుపటి భూసేకరణ మరియు పునరావాస చట్టం 20 ద్వారా ఆమె ఆందోళన వ్యక్తం చేసింది. ప్రభుత్వం, కాంగ్రెస్ ప్రభుత్వం మినహాయింపు కోసం ఈ నిబంధనను అమలులోకి తెచ్చింది. సంచిత ప్రభావ అంచనా లేకుండా సవివరమైన ప్రాజెక్ట్ రిపోర్ట్‌కు ముక్కలుగా ఉండే విధానం కూడా సమస్యాత్మకంగా ఉందని శ్రీమతి పాట్కర్ కనుగొన్నారు మరియు ఈ స్థాయి ప్రాజెక్ట్ కోసం, బాధిత కుటుంబాలతో చర్చలు లేకుండా ముందుకు సాగడం మరియు తగిన చట్టపరమైన మరియు క్లియరెన్స్ ప్రక్రియలు కోలుకోలేని విధంగా హాని కలిగిస్తాయని చెప్పారు. స్టేట్ బాధిత వర్గాలతో సవివరమైన చర్చలు, ప్రభావిత ప్రాంతాల్లో బహిరంగ విచారణలు, నదీ పరీవాహక ప్రాంత ప్రాజెక్టుపై సమగ్ర సమీక్షకు స్వతంత్ర కమిటీ ఏర్పాటు, భూసేకరణ నోటీసులన్నింటినీ తక్షణమే ఉపసంహరించుకోవడం, భూసేకరణకు చేసిన సవరణలను రద్దు చేసేందుకు తెలంగాణ రాష్ట్ర అసెంబ్లీలో చట్టాన్ని ఆమోదించడం తదితర డిమాండ్లను ఉద్యమకారులు రూపొందించారు.",
+      "translated": true
+    },
+    {
       "id": "871b07b43139d5b0ab3968dc5c5bb4ee",
       "title": "IPL 2026: Sunrisers schedule is this..!",
       "summary": "IPL 2026: Sunrisers schedule is this..! johnpaul Wed, 03/11/2026 - 20:36",
@@ -30,6 +128,20 @@
       "language": "te",
       "title_te": "IPL 2026: సన్‌రైజర్స్‌ షెడ్యూల్‌ ఇదే..!",
       "summary_te": "IPL 2026: సన్‌రైజర్స్‌ షెడ్యూల్‌ ఇదే..! johnpaul Wed, 03/11/2026 - 20:36",
+      "translated": true
+    },
+    {
+      "id": "f82b9bbd5df989ef220ec0042f181086",
+      "title": "Congress MP flays TDP remark on State formation",
+      "summary": "Congress MP from Bhongir Chamala Kiran Kumar Reddy on Wednesday flayed the remarks made by fellow MP from Andhra Pradesh Lavu Sri Krishna Devarayulu on the formation of Telangana State.The Bhongir MP speaking in response to comments made during the discussion on a no-confidence motion in the Lok Sabha presided over by Speaker Om Birla, objected to Devarayalu’s criticism of the process through which the Telangana Statehood Bill was passed in the Parliament.The TDP leader reportedly described February 14, 2014, as a “black day” and alleged that the Telangana Bill was passed after closing the doors of the Lok Sabha. The TDP MP faulted the then Speaker Meira Kumar for clearing the legislation.Mr. Kiran Kumar Reddy asserted that the Telangana Statehood Bill was passed constitutionally in the Lok Sabha. He questioned whether Devarayalu was unaware that TDP president and Andhra Pradesh Chief Minister N. Chandrababu Naidu had extended written support for the formation of Telangana at the time.",
+      "url": "https://www.thehindu.com/news/national/telangana/congress-mp-flays-tdp-remark-on-state-formation/article70731461.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-11T15:02:18.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "రాష్ట్ర ఏర్పాటుపై టీడీపీ వ్యాఖ్యలపై కాంగ్రెస్ ఎంపీ మండిపడ్డారు",
+      "summary_te": "తెలంగాణ రాష్ట్ర ఏర్పాటుపై ఆంధ్రప్రదేశ్‌కి చెందిన తోటి ఎంపీ లావు శ్రీకృష్ణదేవరాయలు చేసిన వ్యాఖ్యలపై కాంగ్రెస్ ఎంపీ భోంగిర్ చామల కిరణ్ కుమార్ రెడ్డి బుధవారం మండిపడ్డారు. స్పీకర్ ఓం బిర్లా అధ్యక్షతన లోక్‌సభలో అవిశ్వాస తీర్మానంపై చర్చ సందర్భంగా చేసిన వ్యాఖ్యలపై భోంగిర్ ఎంపీ స్పందిస్తూ. 14, 2014ను \"బ్లాక్ డే\"గా పరిగణించి, లోక్‌సభ తలుపులు మూసివేసి తెలంగాణ బిల్లును ఆమోదించారని ఆరోపించారు. చట్టాన్ని క్లియర్ చేసినందుకు అప్పటి స్పీకర్ మీరా కుమార్‌ను టీడీపీ ఎంపీ తప్పుబట్టారు. తెలంగాణ రాష్ట్ర ఏర్పాటు బిల్లు లోక్‌సభలో రాజ్యాంగబద్ధంగానే ఆమోదం పొందిందని కిరణ్‌కుమార్‌రెడ్డి అన్నారు. ఆ సమయంలో తెదేపా అధ్యక్షుడు, ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి ఎన్.చంద్రబాబు నాయుడు తెలంగాణ ఏర్పాటుకు రాతపూర్వకంగా మద్దతు తెలిపారని దేవరాయలుకు తెలియదా అని ప్రశ్నించారు.",
       "translated": true
     },
     {
@@ -229,20 +341,6 @@
       "translated": true
     },
     {
-      "id": "3fd3420f93f758a4daaa1cbc591205d1",
-      "title": "300 kg of rotten meat seized",
-      "summary": "300 kg rotten meat seized tvenkatesh Wed, 03/11/2026 - 19:34",
-      "url": "https://www.sakshi.com/telugu-news/telangana/police-seize-300-kg-rotten-meat-hyderabad-2730758",
-      "image": null,
-      "published_at": "2026-03-11T14:04:53.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "300 కేజీల కుళ్లిపోయిన మాంసం స్వాధీనం",
-      "summary_te": "300 కేజీల కుళ్లిపోయిన మాంసం స్వాధీనం tvenkatesh Wed, 03/11/2026 - 19:34",
-      "translated": true
-    },
-    {
       "id": "cc9cfebce54d43eef615b0cb9e8427e2",
       "title": "Congress leader blames Centre for LPG shortage",
       "summary": "Congress MLCDr. Balmoor Venkat has strongly criticised the Central Government, holding it responsible for the ongoing gas shortage in the country.Speaking to media after a meeting Civil Supplies Commissioner here on Wednesday, he alleged that Prime Minister Narendra Modi’s diplomatic stance with Israel has led oil‑producing nations to halt fuel supplies to India, while neutral countries continue to receive uninterrupted supplies. “The Centre failed to anticipate such a situation and acted negligently,” he said.Dr. Venkat pointed out that the Centre initially claimed India had reserves sufficient for 74 days despite the war crisis, but has now changed its stance, admitting there are no gas reserves. He said the government has ordered a halt to commercial supply, continuing only domestic distribution, which has created confusion among States.",
@@ -254,20 +352,6 @@
       "language": "en",
       "title_te": "ఎల్‌పీజీ కొరతకు కేంద్రమే కారణమని కాంగ్రెస్ నేత ఆరోపించారు",
       "summary_te": "కాంగ్రెస్ ఎమ్మెల్సీ డా. దేశంలో కొనసాగుతున్న గ్యాస్ కొరతకు కేంద్ర ప్రభుత్వమే కారణమని బల్మూర్ వెంకట్ తీవ్రంగా విమర్శించారు.బుధవారం ఇక్కడ పౌరసరఫరాల కమిషనర్‌తో సమావేశమైన అనంతరం మీడియాతో మాట్లాడుతూ ఇజ్రాయెల్‌తో ప్రధాని నరేంద్ర మోదీ దౌత్య వైఖరి కారణంగా చమురు ఉత్పత్తి దేశాలు భారత్‌కు ఇంధన సరఫరాను నిలిపివేసాయని ఆరోపించారు. \"కేంద్రం అటువంటి పరిస్థితిని అంచనా వేయడంలో విఫలమైంది మరియు నిర్లక్ష్యంగా వ్యవహరించింది\" అని ఆయన అన్నారు. యుద్ధ సంక్షోభం ఉన్నప్పటికీ భారతదేశం వద్ద 74 రోజులకు సరిపడా నిల్వలు ఉన్నాయని మొదట కేంద్రం చెప్పిందని, కానీ ఇప్పుడు గ్యాస్ నిల్వలు లేవని అంగీకరించి తన వైఖరిని మార్చుకున్నారని వెంకట్ ఎత్తి చూపారు. వాణిజ్య సరఫరాను నిలిపివేయాలని ప్రభుత్వం ఆదేశించిందని, దేశీయ పంపిణీని మాత్రమే కొనసాగించడం వల్ల రాష్ట్రాల మధ్య గందరగోళం ఏర్పడిందని ఆయన అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "b32e849f743d3d522dfc486a0afe435d",
-      "title": "Van crashes into barricades: Chaos at White House",
-      "summary": "Van crashes into barricades: Chaos at White House tskumari Wed, 03/11/2026 - 19:32",
-      "url": "https://www.sakshi.com/telugu-news/international/white-house-area-shut-down-after-van-breaches-security-barricade-2730757",
-      "image": null,
-      "published_at": "2026-03-11T14:02:46.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "బ్యారికేడ్లపైకి దూసుకొచ్చి ఢీకొట్టిన వ్యాన్ : వైట్‌హౌస్‌ వద్ద కలకలం",
-      "summary_te": "బ్యారికేడ్లపైకి దూసుకొచ్చి ఢీకొట్టిన వ్యాన్ : వైట్‌హౌస్‌ వద్ద కలకలం tskumari Wed, 03/11/2026 - 19:32",
       "translated": true
     },
     {
@@ -299,20 +383,6 @@
       "translated": true
     },
     {
-      "id": "32ab30b841d637b36604ec0a9f440bf6",
-      "title": "IPL 2026 schedule release",
-      "summary": "IPL 2026 Schedule Released johnpaul Wed, 03/11/2026 - 19:15",
-      "url": "https://www.sakshi.com/telugu-news/sports/ipl-2026-defending-champions-rcb-will-face-srh-season-opener-2730756",
-      "image": null,
-      "published_at": "2026-03-11T13:45:23.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "ఐపీఎల్‌ 2026 షెడ్యూల్‌ విడుదల",
-      "summary_te": "ఐపీఎల్‌ 2026 షెడ్యూల్‌ విడుదల johnpaul Wed, 03/11/2026 - 19:15",
-      "translated": true
-    },
-    {
       "id": "ed310897bc184d420cce13c1f28ec86d",
       "title": "Red Corner Notice issued against accused in 2016 fatal Banjara Hills crash",
       "summary": "The Banjara Hills police have secured a Red Corner Notice against a man accused in a fatal road accident nearly a decade ago that claimed the lives of a nine-year-old girl and two of her relatives.Police said the notice was issued against K. Vishnu Vineeth, who left India during the course of the trial and is believed to be in the United States. The step was taken to ensure his presence as the case is scheduled to come up for hearing in a local court.",
@@ -341,20 +411,6 @@
       "translated": true
     },
     {
-      "id": "3ffe463df02d28d82a7f99b48b3c6dc5",
-      "title": "Wife still asks for money: Sivakarthikeyan",
-      "summary": "Wife still asks for money: Sivakarthikeyan divyagoud Wed, 03/11/2026 - 19:10",
-      "url": "https://www.sakshi.com/telugu-news/movies/sivakarthikeyan-i-ask-aarthi-money-buy-ticket-2730755",
-      "image": null,
-      "published_at": "2026-03-11T13:40:09.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "ఇప్పటికీ భార్యనే డబ్బు అడుగుతా: శివకార్తికేయన్‌",
-      "summary_te": "ఇప్పటికీ భార్యనే డబ్బు అడుగుతా: శివకార్తికేయన్‌ divyagoud Wed, 03/11/2026 - 19:10",
-      "translated": true
-    },
-    {
       "id": "d11c6dac5feafea07a9b29c9bf16c163",
       "title": "208 arrested in crackdown against mule bank account networks",
       "summary": "A total of 208 people were arrested during a Statewide crackdown by the Telangana police targeting mule bank account networks allegedly used to facilitate cyber frauds across India.The enforcement drive, titled “Operation Crackdown 1.0”, was launched on February 25 and was led by the Telangana State Cyber Security Bureau (TGCSB). The operation aimed to identify and dismantle networks that allowed cybercriminals to route fraudulent transactions through bank accounts opened in Telangana.",
@@ -380,76 +436,6 @@
       "language": "en",
       "title_te": "హైదరాబాద్ సైబర్ క్రైమ్ పోలీసులు ఆన్‌లైన్ బెట్టింగ్ మోసానికి సంబంధించి నలుగురిని అరెస్టు చేశారు ₹1.5 కోట్ల నష్టం",
       "summary_te": "సిటీ నివాసిని సుమారు ₹1.5 కోట్ల మోసం చేసిన ఆన్‌లైన్ బెట్టింగ్ మోసం నెట్‌వర్క్ ద్వారా ఉపయోగించిన సిమ్ కార్డులను సరఫరా చేసినందుకు నలుగురు వ్యక్తులను హైదరాబాద్ పోలీసుల సైబర్ క్రైమ్ వింగ్ అరెస్టు చేసింది. నిందితులను మహ్మద్ సయీద్ ఉద్దీన్ అలియాస్ ఫరీద్ (26)గా గుర్తించారు, ఇంతకుముందు దుబాయ్‌లో పనిచేసి, దుబాయ్‌లోని ఫతేషా నగర్‌లో నివసిస్తున్నారు; మొయిన్‌బాగ్‌కు చెందిన మహ్మద్ తాజుద్దీన్ (31), ఆటో డ్రైవర్; మొయిన్‌బాగ్‌కు చెందిన వ్యాపారవేత్త మహ్మద్ యూనస్ అలియాస్ అర్బాజ్ (25); మరియు Md అయూబ్ (24), మోయిన్‌బాగ్‌కు చెందిన ప్రైవేట్ ఉద్యోగి.",
-      "translated": true
-    },
-    {
-      "id": "4a5eec002807133cd4b15216c36bb99f",
-      "title": "LPG cylinder shortage forces Hyderabad hotels to scale down menus, possible closure clouds establishments",
-      "summary": "The uncertainty over LPG cylinder availability has forced operators of restaurants in Hyderabad to rethink kitchen operations, reduce the number of dishes prepared and ration available gas supplies to keep outlets running for as long as possible. Some restaurant chains have raised prices. Others are planning to shut down if the situation worsens.At one of the tiffin centres in Hyderabad, a notice pasted inside the premises read: “Due to gas and oil shortage, ₹10 extra will be charged on each item. Please cooperate.” The message reflected the growing impact of the LGP cylinder shortage in eateries across the city.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/lpg-cylinder-shortage-forces-hyderabad-hotels-to-scale-down-menus-possible-closure-clouds-establishments/article70730036.ece",
-      "image": "https://th-i.thgim.com/public/incoming/u3codc/article70730637.ece/alternates/LANDSCAPE_1200/_DSC0039.JPG",
-      "published_at": "2026-03-11T10:55:52.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఎల్‌పిజి సిలిండర్ కొరత కారణంగా హైదరాబాద్ హోటళ్లలో మెనూలు తగ్గుముఖం పట్టాయి, మూతపడే అవకాశం ఉంది.",
-      "summary_te": "ఎల్‌పిజి సిలిండర్ లభ్యతపై అనిశ్చితి హైదరాబాద్‌లోని రెస్టారెంట్ల నిర్వాహకులు వంటగది కార్యకలాపాలను పునరాలోచించవలసి వచ్చింది, తయారుచేసిన వంటల సంఖ్యను తగ్గించింది మరియు రేషన్ అందుబాటులో ఉన్న గ్యాస్ సరఫరాలను వీలైనంత ఎక్కువ కాలం పాటు అవుట్‌లెట్‌లను కొనసాగించేలా చేసింది. కొన్ని రెస్టారెంట్ చైన్‌లు ధరలను పెంచాయి. మరికొందరు పరిస్థితి మరింత దిగజారితే మూసివేయాలని యోచిస్తున్నారు. హైదరాబాద్‌లోని ఒక టిఫిన్ సెంటర్‌లో, ఆవరణలో అతికించిన నోటీసులో ఇలా ఉంది: \"గ్యాస్ మరియు ఆయిల్ కొరత కారణంగా, ప్రతి వస్తువుపై ₹10 అదనంగా వసూలు చేయబడుతుంది. దయచేసి సహకరించండి.\" నగరంలోని తినుబండారాలలో ఎల్‌జిపి సిలిండర్ కొరత పెరుగుతున్న ప్రభావాన్ని సందేశం ప్రతిబింబిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "2507f99ab480fc2e657b1000a43ca35f",
-      "title": "Air India Express Hyderabad–Phuket flight suffers nose-wheel damage after hard landing, Phuket airport runway shut",
-      "summary": "The flight made a hard landing on arrival, damaging its nose wheel and leaving the aircraft stranded on the airport’s only runway",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/air-india-express-hyderabadphuket-flight-suffers-nose-wheel-damage-after-hard-landing-phuket-airport-runway-shut/article70730353.ece",
-      "image": "https://th-i.thgim.com/public/incoming/z4hgdd/article70730460.ece/alternates/LANDSCAPE_1200/IMG_Air_India_Express_ne_2_1_VCDLU4VE.jpg",
-      "published_at": "2026-03-11T10:19:32.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ హైదరాబాద్-ఫుకెట్ విమానం హార్డ్ ల్యాండింగ్ తర్వాత ముక్కు-చక్రం దెబ్బతింది, ఫుకెట్ విమానాశ్రయం రన్‌వే మూసివేయబడింది",
-      "summary_te": "విమానం రాగానే గట్టిగా ల్యాండింగ్ అయింది, దాని ముక్కు చక్రం దెబ్బతింది మరియు విమానాశ్రయం యొక్క ఏకైక రన్‌వేపై విమానం నిలిచిపోయింది.",
-      "translated": true
-    },
-    {
-      "id": "f69242f6c4ea80812c11df34aa0afca1",
-      "title": "Additional measures to ensure domestic LPG supplies likely",
-      "summary": "Increase in spacing between two supplies, supply of refills with 10-kg cooking gas may be evaluated if the situation West Asia war triggered prolongs",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/additional-measures-to-ensure-domestic-lpg-supplies-likely-in-telangana/article70727879.ece",
-      "image": "https://th-i.thgim.com/public/incoming/w8ox07/article70729997.ece/alternates/LANDSCAPE_1200/_DSC0428.JPG",
-      "published_at": "2026-03-11T08:18:15.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "దేశీయ LPG సరఫరాలను నిర్ధారించడానికి అదనపు చర్యలు",
-      "summary_te": "రెండు సరఫరాల మధ్య అంతరం పెరగడం, పశ్చిమాసియా యుద్ధం కారణంగా పరిస్థితులు కొనసాగితే 10 కిలోల వంటగ్యాస్‌తో రీఫిల్‌ల సరఫరాను అంచనా వేయవచ్చు.",
-      "translated": true
-    },
-    {
-      "id": "c4b6db30b4d0caa59b35852585b6a99b",
-      "title": "Drinking water supplied once in five days, residents of Secunderabad Cantonment Ward-5 raise alarm",
-      "summary": "Residents of colonies and basties in Ward-5 under the Secunderabad Cantonment Board (SCB) have raised concerns over severe drinking water shortages, stating that water is currently being supplied only once every five to six days, causing hardship for local families.The SCB’s Ward-5 includes areas such as R&D Defence Colony and nearby localities around Patny, Paigah Colony, Indiramma Nagar and Viman Nagar. It has an estimated population of around 45,000 to 50,000 residents.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/drinking-water-supplied-once-in-five-days-residents-of-secunderabad-cantonment-ward-5-raise-alarm/article70729723.ece",
-      "image": "https://th-i.thgim.com/public/incoming/t0qdb7/article70730024.ece/alternates/LANDSCAPE_1200/iStock-1207552962.jpg",
-      "published_at": "2026-03-11T07:49:14.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఐదు రోజులకు ఒకసారి సరఫరా అవుతున్న తాగునీరు, సికింద్రాబాద్ కంటోన్మెంట్ వార్డు-5 వాసులు అప్రమత్తం",
-      "summary_te": "సికింద్రాబాద్ కంటోన్మెంట్ బోర్డు (ఎస్‌సిబి) పరిధిలోని వార్డు-5లోని కాలనీలు, బస్తీల వాసులు తీవ్ర తాగునీటి ఎద్దడిపై ఆందోళనకు దిగారు, ప్రస్తుతం ఐదారు రోజులకు ఒకసారి మాత్రమే నీరు సరఫరా అవుతుందని, దీంతో స్థానిక కుటుంబాలకు ఇబ్బందులు ఎదురవుతున్నాయని పేర్కొన్నారు. ఇది సుమారు 45,000 నుండి 50,000 మంది నివాసితులుగా అంచనా వేయబడింది.",
-      "translated": true
-    },
-    {
-      "id": "f43a9ac97318742486b93f6ddd6f1f5e",
-      "title": "Shiv Pratap Shukla sworn in as Telangana Governor",
-      "summary": "Telangana High Court Chief Justice Aparesh Kumar Singh administers oath of office at Lok Bhavan",
-      "url": "https://www.thehindu.com/news/national/telangana/shiv-pratap-shukla-sworn-in-as-telangana-governor/article70729919.ece",
-      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/6me0w/article70730160.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%2012.59.57%20PM%201.jpeg",
-      "published_at": "2026-03-11T07:38:27.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "తెలంగాణ గవర్నర్‌గా శివప్రతాప్ శుక్లా ప్రమాణ స్వీకారం చేశారు",
-      "summary_te": "తెలంగాణ హైకోర్టు ప్రధాన న్యాయమూర్తి అపరేష్ కుమార్ సింగ్ లోక్ భవన్‌లో ప్రమాణ స్వీకారం చేయించారు",
       "translated": true
     }
   ]

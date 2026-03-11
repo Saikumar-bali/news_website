@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-11T15:49:34.624Z",
-  "updated_at_IST": "11/3/2026, 9:19:34 pm",
+  "updated_at": "2026-03-11T16:50:39.452Z",
+  "updated_at_IST": "11/3/2026, 10:20:39 pm",
   "category": "andhra",
-  "count": 21,
+  "count": 24,
   "articles": [
+    {
+      "id": "09e33c4ffaebf3d217db6ac819c4578d",
+      "title": "SVIMS ‘Pink Bus’ screens 42,000 rural women for cancer",
+      "summary": "Screening camp organised at the Community Health Centre at Naravaripalle, the Chief Minister’s ancestral village",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/svims-pink-bus-screens-42000-rural-women-for-cancer/article70731498.ece",
+      "image": "https://th-i.thgim.com/public/incoming/65lspn/article70731969.ece/alternates/LANDSCAPE_1200/10215_11_3_2026_14_37_49_1_WHATSAPPIMAGE2026_03_11AT15548PM.JPEG",
+      "published_at": "2026-03-11T15:11:29.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "SVIMS ‘పింక్ బస్’ 42,000 మంది గ్రామీణ మహిళలకు క్యాన్సర్‌ను పరీక్షించింది",
+      "summary_te": "ముఖ్యమంత్రి స్వగ్రామం నారావారిపల్లెలోని కమ్యూనిటీ హెల్త్ సెంటర్‌లో స్క్రీనింగ్ క్యాంపు నిర్వహించారు.",
+      "translated": true
+    },
+    {
+      "id": "30301275b0ec37adacc13eb702b505a5",
+      "title": "Ongole GGH holds mock drill to test mass casualty response",
+      "summary": "Hospital staff simulate road accident scenario and activate Orange Alert to assess rapid response and coordination with 108 ambulance services",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ongole-ggh-holds-mock-drill-to-test-mass-casualty-response/article70731392.ece",
+      "image": "https://th-i.thgim.com/public/incoming/i0mf27/article70731948.ece/alternates/LANDSCAPE_1200/10215_11_3_2026_15_1_51_1_DSC_8954JPG.JPEG",
+      "published_at": "2026-03-11T15:08:51.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఒంగోలు GGH మాస్ క్యాజువాలిటీ రెస్పాన్స్‌ని పరీక్షించడానికి మాక్ డ్రిల్‌ను నిర్వహిస్తుంది",
+      "summary_te": "ఆసుపత్రి సిబ్బంది రోడ్డు ప్రమాద దృష్టాంతాన్ని అనుకరిస్తారు మరియు 108 అంబులెన్స్ సేవలతో వేగవంతమైన ప్రతిస్పందన మరియు సమన్వయాన్ని అంచనా వేయడానికి ఆరెంజ్ హెచ్చరికను సక్రియం చేస్తారు",
+      "translated": true
+    },
     {
       "id": "223b633569862ae0727269d72503f003",
       "title": "140 Indians, including 60 Telugus, stuck in Bahrain airlifted to Kochi",
@@ -16,6 +44,34 @@
       "language": "en",
       "title_te": "బహ్రెయిన్‌లో చిక్కుకున్న 60 మంది తెలుగువారితో సహా 140 మంది భారతీయులను విమానంలో కొచ్చికి తరలించారు.",
       "summary_te": "పర్యాటకులు ఇప్పుడు ఆంధ్రప్రదేశ్ మరియు తెలంగాణలలోని వారి స్వస్థలాలకు వెళుతున్నారు",
+      "translated": true
+    },
+    {
+      "id": "ba4b2db8ebc865c85217568e30bb384e",
+      "title": "Kadapa MP seeks new railway line to boost local economy",
+      "summary": "Avinash Reddy urges Railways to act on Andhra Pradesh’s proposal to link Pulivendula, Muddanur and Puttaparthi, citing connectivity to cement plants and the Kopparthi industrial estate",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-mp-seeks-new-railway-line-to-boost-local-economy/article70731579.ece",
+      "image": "https://th-i.thgim.com/public/incoming/k6sif3/article70731806.ece/alternates/LANDSCAPE_1200/10215_11_3_2026_19_28_52_1_WHATSAPPIMAGE2026_03_11AT70152PM.JPEG",
+      "published_at": "2026-03-11T14:57:21.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "స్థానిక ఆర్థిక వ్యవస్థను పెంచేందుకు కడప ఎంపీ కొత్త రైల్వే లైన్‌ను కోరుతున్నారు",
+      "summary_te": "సిమెంట్ ప్లాంట్లు, కొప్పర్తి ఇండస్ట్రియల్ ఎస్టేట్‌కు అనుసంధానం చేస్తూ పులివెందుల, ముద్దనూరు, పుట్టపర్తిలను అనుసంధానం చేయాలన్న ఆంధ్రప్రదేశ్ ప్రతిపాదనపై చర్యలు తీసుకోవాలని అవినాష్ రెడ్డి రైల్వేని కోరారు.",
+      "translated": true
+    },
+    {
+      "id": "335dd1325191799442dc605c138b159b",
+      "title": "Andhra Pradesh explores Artificial Intelligence-based cultural tourism initiatives",
+      "summary": "Tourism Department and Eros Innovation decide to work together to explore technological partnerships that connect culture, digital innovation, and tourism",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-explores-artificial-intelligence-based-cultural-tourism-initiatives/article70731639.ece",
+      "image": "https://th-i.thgim.com/public/incoming/9ejve/article70731871.ece/alternates/LANDSCAPE_1200/10215_11_3_2026_20_17_47_1_WHATSAPPIMAGE2026_03_11AT75616PM.JPEG",
+      "published_at": "2026-03-11T14:57:14.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ ఆధారిత సాంస్కృతిక పర్యాటక కార్యక్రమాలను ఆంధ్రప్రదేశ్ అన్వేషిస్తుంది",
+      "summary_te": "సంస్కృతి, డిజిటల్ ఆవిష్కరణలు మరియు పర్యాటకాన్ని అనుసంధానించే సాంకేతిక భాగస్వామ్యాలను అన్వేషించడానికి పర్యాటక శాఖ మరియు ఎరోస్ ఇన్నోవేషన్ కలిసి పనిచేయాలని నిర్ణయించుకున్నాయి.",
       "translated": true
     },
     {
@@ -282,20 +338,6 @@
       "language": "en",
       "title_te": "ఏపీలో నేటి నుంచి రెండు రోజుల కలెక్టర్ల సదస్సు ప్రారంభం కానుంది",
       "summary_te": "వివిధ సంక్షేమ పథకాలు, అభివృద్ధి పనుల అమలుపై సమీక్షించేందుకు రెండు రోజుల కలెక్టర్ల సదస్సు మార్చి 11 నుంచి సచివాలయంలో జరగనుంది. ముఖ్యమంత్రి ఎన్. చంద్రబాబు నాయుడు అధ్యక్షతన సచివాలయంలోని ఐదో బ్లాక్‌లో సమావేశం జరగనుంది. సంక్షేమ పథకాలు మరియు అభివృద్ధి పనులను సమీక్షించడంతో పాటు, జీఎస్టీ వృద్ధి, స్వర్ణాంధ్ర 2047 విజన్, మౌలిక సదుపాయాలు మరియు శాంతిభద్రతలను అందించడంపై సమావేశంలో చర్చించనున్నారు. జిఎస్‌డిపి మరియు జిల్లాలవారీగా సాధించిన లక్ష్యాలు మరియు లక్ష్యాలను నాయుడు సమీక్షిస్తారు. సదస్సులో రెండో రోజు ఆరోగ్యం, సంక్షేమ పథకాలు, సూపర్ సిక్స్ పథకాల అమలు, శాంతిభద్రతలపై చర్చిస్తారు. సాయంత్రం జరిగే సెషన్‌లో జిల్లాల పోలీసు సూపరింటెండెంట్‌లు పాల్గొంటారు, అక్కడ డిజిపి రాష్ట్రంలో శాంతిభద్రతలపై ప్రజెంటేషన్ ఇస్తారు.",
-      "translated": true
-    },
-    {
-      "id": "f63802f5fd126212ad75c9b4d15c45b4",
-      "title": "YVU to conduct four convocations on March 13",
-      "summary": "As many as 11,664 candidates of Yogi Vemana University (YVU) will receive degrees in absentia at the convocation for four consecutive academic years, which will be conducted on March 13 (Friday).Addressing a media conference here on Tuesday, Vice-Chancellor Bellamkonda Rajasekhar stated that the Governor and Chancellor S. Abdul Nazeer would participate in the 11th (2020-21), 12th (2021-22), 13th (2022-23) and 14th (2023-24) convocation, which will be conducted simultaneously, and present the degrees to the candidates.A total of 1,194 postgraduate, 11,664 undergraduate, and 70 Ph.D. scholars will receive their respective degrees at the convocation.Mr. Rajasekhar said that the 21-year-old YVU posed a tough competition to the age-old universities in the State in terms of high-end research and global recognition, pointing to the A grade accorded by National Assessment and Accreditation Council (NAAC) and the impressive rating given by National Institutional Ranking Framework (NIRF).On the social facet, the varsity’s NSS unit had adopted 131 villages in Kadapa district to ensure their overall development.Registrar in-charge Padma, principal T. Srinivas, controller of examinations K.S.V. Krishna Rao and C.P. Brown Library director Parvathi also took part.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/yvu-to-conduct-four-convocations-on-march-13/article70727264.ece",
-      "image": "https://th-i.thgim.com/public/incoming/bcl8aq/article70727927.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-10%20at%2018.25.42.jpeg",
-      "published_at": "2026-03-10T15:51:17.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "వైవీయూ మార్చి 13న నాలుగు కాన్వకేషన్లు నిర్వహించనుంది",
-      "summary_te": "మార్చి 13 (శుక్రవారం)న నిర్వహించనున్న కాన్వొకేషన్‌లో యోగి వేమన విశ్వవిద్యాలయం (వైవీయూ)కి చెందిన 11,664 మంది అభ్యర్థులు వరుసగా నాలుగు విద్యా సంవత్సరాల పాటు గైర్హాజరీ పట్టాలను అందుకోనున్నారు. మంగళవారం ఇక్కడ మీడియా సమావేశంలో వైస్ ఛాన్సలర్ బెల్లంకొండ రాజశేఖర్ పాల్గొంటారని గవర్నర్ 1వ అబ్దుల్, ఛాన్స్‌లర్ తెలిపారు. (2020-21), 12వ (2021-22), 13వ (2022-23) మరియు 14వ (2023-24) స్నాతకోత్సవాలు ఏకకాలంలో నిర్వహించబడతాయి మరియు అభ్యర్థులకు డిగ్రీలు అందించబడతాయి. మొత్తం 1,194 పోస్ట్ గ్రాడ్యుయేట్, 11,664 అండర్ గ్రాడ్యుయేట్, 11,664 అండర్ గ్రాడ్యుయేట్ పండితులు కాన్వకేషన్‌లో వారి సంబంధిత డిగ్రీలను స్వీకరిస్తారు. నేషనల్ అసెస్‌మెంట్ అండ్ అక్రిడిటేషన్ కౌన్సిల్ (NAAC) అందించిన A గ్రేడ్ మరియు నేషనల్ ఇన్‌స్టిట్యూషనల్ ర్యాంకింగ్ Framework (NIRSS Framework, NIRSS Framework) అందించిన అద్భుతమైన రేటింగ్‌ను చూపుతూ 21 ఏళ్ల YVU అత్యాధునిక పరిశోధన మరియు ప్రపంచ గుర్తింపు పరంగా రాష్ట్రంలోని పురాతన విశ్వవిద్యాలయాలకు గట్టి పోటీనిస్తుందని రాజశేఖర్ చెప్పారు. కడప జిల్లాలో 131 గ్రామాలను దత్తత తీసుకుని వాటి సమగ్ర అభివృద్ధికి కృషి చేశారు. ఇన్‌ఛార్జ్ రిజిస్ట్రార్ పద్మ, ప్రిన్సిపాల్ టి. శ్రీనివాస్, పరీక్షల నియంత్రణాధికారి కె.ఎస్.వి. కృష్ణారావు మరియు సి.పి. బ్రౌన్ లైబ్రరీ డైరెక్టర్ పార్వతి కూడా పాల్గొన్నారు.",
       "translated": true
     }
   ]
