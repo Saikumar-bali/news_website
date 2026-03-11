@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-11T17:53:29.315Z",
-  "updated_at_IST": "11/3/2026, 11:23:29 pm",
+  "updated_at": "2026-03-11T18:49:51.805Z",
+  "updated_at_IST": "12/3/2026, 12:19:51 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "48064bac2e7e1ef1b3ab02f1318e81d4",
+      "title": "Beth Mooney, Sophie Devine earn £210,000 Hundred paydays",
+      "summary": "Dani Gibson sold for £190,000 as franchises splash out on first morning of women's auction",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527669.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414624.jpg",
+      "published_at": "2026-03-11T17:59:55.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బెత్ మూనీ, సోఫీ డివైన్ £210,000 వందల చెల్లింపు రోజులు సంపాదిస్తారు",
+      "summary_te": "డాని గిబ్సన్ £190,000కి అమ్ముడయ్యాయి, ఎందుకంటే మహిళల వేలం మొదటి ఉదయం ఫ్రాంచైజీలు స్ప్లాష్ చేయబడ్డాయి",
+      "translated": true
+    },
+    {
+      "id": "3c6f4e968d47bf437e2e193ecf343959",
+      "title": "West Indies and SA players to fly home on commercial flights",
+      "summary": "The ICC provided an update on both teams' travel plans on Wednesday morning",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527547.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413829.jpg",
+      "published_at": "2026-03-11T17:48:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వెస్టిండీస్ మరియు SA ఆటగాళ్ళు వాణిజ్య విమానాలలో స్వదేశానికి వెళ్లాలి",
+      "summary_te": "బుధవారం ఉదయం ఇరు జట్ల ప్రయాణ ప్రణాళికలపై ఐసీసీ తాజా సమాచారం అందించింది",
+      "translated": true
+    },
     {
       "id": "64f5310f8c06d6f8863b71877c0343b0",
       "title": "The Hundred 2026: How the women's teams stack up after the auction",
@@ -72,20 +100,6 @@
       "language": "en",
       "title_te": "మార్చి 28న బెంగళూరులో RCB vs SRH IPL 2026ని ప్రారంభించనుంది",
       "summary_te": "ఐపీఎల్ నాలుగు డబుల్ హెడ్‌లతో సహా సీజన్‌లోని మొదటి 20 మ్యాచ్‌ల షెడ్యూల్‌ను విడుదల చేసింది",
-      "translated": true
-    },
-    {
-      "id": "48064bac2e7e1ef1b3ab02f1318e81d4",
-      "title": "Beth Mooney, Sophie Devine earn £210,000 Hundred paydays",
-      "summary": "Dani Gibson sold for £190,000 as franchises splash out on first morning of women's auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527669.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414624.jpg",
-      "published_at": "2026-03-11T13:25:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బెత్ మూనీ, సోఫీ డివైన్ £210,000 వందల చెల్లింపు రోజులు సంపాదిస్తారు",
-      "summary_te": "డాని గిబ్సన్ £190,000కి అమ్ముడయ్యాయి, ఎందుకంటే మహిళల వేలం మొదటి ఉదయం ఫ్రాంచైజీలు స్ప్లాష్ చేయబడ్డాయి",
       "translated": true
     },
     {
@@ -184,20 +198,6 @@
       "language": "en",
       "title_te": "పింక్ బాల్ యాషెస్ టెస్టు ఇప్పటికీ క్రికెట్ ఆస్ట్రేలియా ప్రణాళికల్లో భాగం",
       "summary_te": "వచ్చే మార్చిలో 150వ వార్షికోత్సవ టెస్టు డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
-      "translated": true
-    },
-    {
-      "id": "3c6f4e968d47bf437e2e193ecf343959",
-      "title": "West Indies and SA players to fly home on commercial flights",
-      "summary": "The ICC provided an update on both teams' travel plans on Wednesday morning",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527547.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413829.jpg",
-      "published_at": "2026-03-11T03:05:49.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్టిండీస్ మరియు SA ఆటగాళ్ళు వాణిజ్య విమానాలలో స్వదేశానికి వెళ్లాలి",
-      "summary_te": "బుధవారం ఉదయం ఇరు జట్ల ప్రయాణ ప్రణాళికలపై ఐసీసీ తాజా సమాచారం అందించింది",
       "translated": true
     },
     {
