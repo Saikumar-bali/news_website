@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-11T06:48:14.375Z",
-  "updated_at_IST": "11/3/2026, 12:18:14 pm",
+  "updated_at": "2026-03-11T07:49:59.676Z",
+  "updated_at_IST": "11/3/2026, 1:19:59 pm",
   "category": "andhra",
-  "count": 22,
+  "count": 24,
   "articles": [
     {
       "id": "be12f18d0989d20aea59a3be20e7e62f",
@@ -30,6 +30,34 @@
       "language": "en",
       "title_te": "గల్ఫ్ ఉద్రిక్తతలు ఆంధ్రప్రదేశ్‌లో LPG సరఫరా ఆందోళనలను ప్రేరేపించాయి",
       "summary_te": "25 నుండి 30 రోజుల వరకు దేశీయ స్టాక్‌లు సరిపోతాయని, హోర్ముజ్ జలసంధి సమీపంలో షిప్పింగ్ అనిశ్చితి మధ్య హోటళ్లు వాణిజ్య సిలిండర్ రీఫిల్‌లపై పరిమితులను నివేదించినట్లు అధికారులు తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "223b633569862ae0727269d72503f003",
+      "title": "140 Indians, including 60 Telugus, stuck in Bahrain airlifted to Kochi",
+      "summary": "The tourists are now travelling to their hometowns in Andhra Pradesh and Telangana",
+      "url": "https://www.thehindu.com/news/national/telangana/140-indians-including-60-telugus-stuck-in-bahrain-airlifted-to-kochi/article70729443.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/49nb3z/article70729468.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-11%20at%209.27.18%20AM.jpeg",
+      "published_at": "2026-03-11T04:30:38.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "బహ్రెయిన్‌లో చిక్కుకున్న 60 మంది తెలుగువారితో సహా 140 మంది భారతీయులను విమానంలో కొచ్చికి తరలించారు.",
+      "summary_te": "పర్యాటకులు ఇప్పుడు ఆంధ్రప్రదేశ్ మరియు తెలంగాణలలోని వారి స్వస్థలాలకు వెళుతున్నారు",
+      "translated": true
+    },
+    {
+      "id": "414dfd5cdd3020b20f62d80681d05068",
+      "title": "VIT-AP University to collaborate with EESL to promote energy efficiency on campus",
+      "summary": "The announcement was made during the ongoing Energy Conservation Week at the VIT-AP campus in Amaravati.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-university-to-collaborate-with-eesl-to-promote-energy-efficiency-on-campus/article70728012.ece",
+      "image": "https://th-i.thgim.com/public/incoming/k18rko/article70729389.ece/alternates/LANDSCAPE_1200/10215_10_3_2026_20_53_13_2_KKK_9960A1.JPG",
+      "published_at": "2026-03-11T03:06:39.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "క్యాంపస్‌లో శక్తి సామర్థ్యాన్ని ప్రోత్సహించడానికి EESLతో సహకరించడానికి VIT-AP విశ్వవిద్యాలయం",
+      "summary_te": "అమరావతిలోని వీఐటీ-ఏపీ క్యాంపస్‌లో జరుగుతున్న ఇంధన సంరక్షణ వారోత్సవాల సందర్భంగా ఈ ప్రకటన చేశారు.",
       "translated": true
     },
     {
