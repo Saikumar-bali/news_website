@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-11T08:39:22.152Z",
-  "updated_at_IST": "11/3/2026, 2:09:22 pm",
+  "updated_at": "2026-03-11T09:44:54.694Z",
+  "updated_at_IST": "11/3/2026, 3:14:54 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "983b3e99bcc60c52cadbbb1c93ad56dd",
+      "title": "Quote of the Day by Rupert Murdoch on power, politics, business: ‘Big will not beat small anymore…’",
+      "summary": "Rupert Murdoch's insight reveals that in today's fast-evolving landscape, agility is paramount. Large corporations risk obsolescence as nimble startups and individual innovators disrupt traditional models.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-rupert-murdoch-on-power-politics-business-big-will-not-beat-small-anymore-11773219904719.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/Rupert_Murdoch_1773220067005_1773220075245.jpg",
+      "published_at": "2026-03-11T09:19:27.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అధికారం, రాజకీయాలు, వ్యాపారంపై రూపెర్ట్ మర్డోక్ రాసిన కోట్ ఆఫ్ ది డే: 'పెద్దది ఇకపై చిన్నదని కొట్టదు...'",
+      "summary_te": "నేటి వేగంగా అభివృద్ధి చెందుతున్న ప్రకృతి దృశ్యంలో, చురుకుదనం చాలా ముఖ్యమైనదని రూపర్ట్ మర్డోక్ యొక్క అంతర్దృష్టి వెల్లడిస్తుంది. అతి చురుకైన స్టార్టప్‌లు మరియు వ్యక్తిగత ఆవిష్కర్తలు సాంప్రదాయ నమూనాలకు అంతరాయం కలిగించడం వల్ల పెద్ద సంస్థలు పాతదశకు గురవుతాయి.",
+      "translated": true
+    },
+    {
+      "id": "dbad1760f3e7e08a59c4216ad079b1fa",
+      "title": "Power sector remains a safe bet for investors amid volatility: Gautam Trivedi",
+      "summary": "West Asian geopolitical tensions and volatile oil prices are making investors cautious. Gautam Trivedi of Nepean Capital sees no immediate buying opportunity due to ongoing conflict. The crisis impacts global energy supplies and economies like India. Trivedi focuses on long-term structural demand sectors like data centers, AI, and the power sector, emphasizing company-specific changes over thematic trends.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/power-sector-remains-a-safe-bet-for-investors-amid-volatility-gautam-trivedi/articleshow/129450346.cms",
+      "image": null,
+      "published_at": "2026-03-11T09:00:07.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "విద్యుత్ రంగం అస్థిరత మధ్య పెట్టుబడిదారులకు సురక్షితమైన పందెం: గౌతమ్ త్రివేది",
+      "summary_te": "పశ్చిమాసియా భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు అస్థిర చమురు ధరలు పెట్టుబడిదారులను అప్రమత్తం చేస్తున్నాయి. నేపియన్ క్యాపిటల్‌కు చెందిన గౌతమ్ త్రివేది కొనసాగుతున్న సంఘర్షణ కారణంగా వెంటనే కొనుగోలు చేసే అవకాశం లేదు. ఈ సంక్షోభం ప్రపంచ ఇంధన సరఫరాలు మరియు భారతదేశం వంటి ఆర్థిక వ్యవస్థలపై ప్రభావం చూపుతుంది. త్రివేది డేటా సెంటర్లు, AI మరియు పవర్ సెక్టార్ వంటి దీర్ఘకాలిక నిర్మాణాత్మక డిమాండ్ రంగాలపై దృష్టి సారిస్తుంది, ఇతివృత్త ధోరణులపై కంపెనీ-నిర్దిష్ట మార్పులను నొక్కి చెబుతుంది.",
+      "translated": true
+    },
     {
       "id": "099199667df26d66d5c3c0c68bd9a177",
       "title": "Greater Noida Horror: 25-year-old MBA student dies by suicide after jumping from 13th floor",
@@ -30,20 +58,6 @@
       "language": "en",
       "title_te": "LPG సంక్షోభం: మీ నగరంలో - ఢిల్లీ, ముంబై, కోల్‌కతా, బెంగళూరులో 14.2 కిలోల వంట గ్యాస్ సిలిండర్ ధర ఎంత ఉందో తనిఖీ చేయండి.",
       "summary_te": "భారతదేశంలో LPG సిలిండర్ ధరలు పెరిగాయి, డొమెస్టిక్ గ్యాస్ ₹60 మరియు కమర్షియల్ ₹144 పెరిగింది. ఇరాన్‌తో యుఎస్-ఇజ్రాయెల్ యుద్ధం నుండి ఉత్పన్నమైన సరఫరా అంతరాయాల కారణంగా ఈ పెంపు గృహాలు మరియు రెస్టారెంట్లపై భారం పడుతోంది. ",
-      "translated": true
-    },
-    {
-      "id": "bd8967dfa9c7d812940b2c11f3e24d98",
-      "title": "Pankaj Pandey flags risks in aviation, sees better opportunities in hotels and steel",
-      "summary": "Market participants are closely watching evolving factors impacting sectors. Leadership shifts at InterGlobe Aviation and supply chain disruptions are key concerns. Electronics manufacturing shows promise with new policies. Energy stocks are seen as trading plays. Steel producers stand out with strong price appreciation. Investors face a dynamic landscape with selective opportunities.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/pankaj-pandey-flags-risks-in-aviation-sees-better-opportunities-in-hotels-and-steel/articleshow/129446872.cms",
-      "image": null,
-      "published_at": "2026-03-11T07:49:20.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "పంకజ్ పాండే విమానయానంలో నష్టాలను ధ్వజమెత్తారు, హోటల్‌లు మరియు స్టీల్‌లో మెరుగైన అవకాశాలను చూస్తున్నారు",
-      "summary_te": "మార్కెట్ పార్టిసిపెంట్లు రంగాలపై ప్రభావం చూపే పరిణామ కారకాలను నిశితంగా గమనిస్తున్నారు. ఇంటర్‌గ్లోబ్ ఏవియేషన్‌లో లీడర్‌షిప్ మార్పులు మరియు సరఫరా గొలుసు అంతరాయాలు కీలక ఆందోళనలు. ఎలక్ట్రానిక్స్ తయారీ కొత్త విధానాలతో వాగ్దానాన్ని చూపుతుంది. ఎనర్జీ స్టాక్‌లను ట్రేడింగ్ ప్లేస్‌గా చూస్తారు. ఉక్కు ఉత్పత్తిదారులు బలమైన ధరల పెరుగుదలతో నిలుస్తారు. పెట్టుబడిదారులు ఎంపిక అవకాశాలతో డైనమిక్ ల్యాండ్‌స్కేప్‌ను ఎదుర్కొంటారు.",
       "translated": true
     },
     {
@@ -76,7 +90,7 @@
     },
     {
       "id": "140a6441a04fa8d3a244748d27f77db8",
-      "title": "Induction cooktops sell out in major cities as LPG crisis deepens in India",
+      "title": "India’s LPG crisis has a surprise beneficiary; it is 'sold out' on Blinkit, Swiggy Instamart",
       "summary": "Induction cooktops are out of stock in major cities amid consumer panic over potential LPG supply disruptions stemming from the US-Iran conflict. Platforms like Blinkit and Zepto show many models sold out, particularly in areas reliant on LPG.",
       "url": "https://www.livemint.com/news/india/induction-cooktops-sell-out-in-major-cities-as-lpg-crisis-deepens-in-india-11773209738016.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/cylinder_1709869691565_1773210902835.jpg",
@@ -84,7 +98,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "భారతదేశంలో LPG సంక్షోభం తీవ్రమవుతున్నందున ఇండక్షన్ కుక్‌టాప్‌లు ప్రధాన నగరాల్లో అమ్ముడయ్యాయి",
+      "title_te": "భారతదేశం యొక్క LPG సంక్షోభం ఒక ఆశ్చర్యకరమైన లబ్ధిదారుని కలిగి ఉంది; ఇది బ్లింకిట్, స్విగ్గీ ఇన్‌స్టామార్ట్‌లో అమ్ముడుపోయింది",
       "summary_te": "US-ఇరాన్ వివాదం నుండి ఉత్పన్నమయ్యే సంభావ్య LPG సరఫరా అంతరాయాలపై వినియోగదారుల భయాందోళనల మధ్య ఇండక్షన్ కుక్‌టాప్‌లు ప్రధాన నగరాల్లో స్టాక్‌లో లేవు. Blinkit మరియు Zepto వంటి ప్లాట్‌ఫారమ్‌లు ముఖ్యంగా LPGపై ఆధారపడే ప్రాంతాల్లో చాలా మోడల్‌లు అమ్ముడయ్యాయి.",
       "translated": true
     },
@@ -394,20 +408,6 @@
       "language": "en",
       "title_te": "LPG కొరత న్యూస్ టుడే లైవ్: IRCTC స్టేషన్ క్యాటరింగ్ యూనిట్లను మైక్రోవేవ్, ఇండక్షన్ ఉపయోగించమని కోరింది",
       "summary_te": "LPG కొరత న్యూస్ టుడే లైవ్: కోల్‌కతా, ముంబై, బెంగళూరు వంటి ప్రధాన నగరాల్లో ఇండక్షన్ కుక్‌టాప్‌లు అమ్ముడవుతున్నందున కొరత మధ్య గ్యాస్‌ను సంరక్షించాలని ఏజెన్సీలు నినాదాలు చేస్తున్నాయి, IRCTC ఆదేశాలు జారీ చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "0478d53be8aef11426e39d61af8359ea",
-      "title": "Trump announces 'historic' $300 billion oil refinery in Texas, thanks 'partners in India, Reliance'",
-      "summary": "Donald Trump announced a $300 billion oil refinery project in Brownsville, Texas, the first new US refinery in 50 years, and publicly thanked “partners in India, Reliance” for backing the historic energy investment.",
-      "url": "https://www.livemint.com/news/us-news/trump-announces-historic-300b-texas-refinery-deal-america-first-refining-says-thank-you-to-partners-in-india-reliance-11773187256103.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/hqdefault_1773214771400_1773214774755.jpg",
-      "published_at": "2026-03-11T00:24:52.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "టెక్సాస్‌లో 'చారిత్రక' $300 బిలియన్ల చమురు శుద్ధి కర్మాగారాన్ని ట్రంప్ ప్రకటించారు, 'భారతదేశంలో భాగస్వాములు, రిలయన్స్' ధన్యవాదాలు",
-      "summary_te": "డొనాల్డ్ ట్రంప్ టెక్సాస్‌లోని బ్రౌన్స్‌విల్లేలో $300 బిలియన్ల ఆయిల్ రిఫైనరీ ప్రాజెక్ట్‌ను ప్రకటించారు, ఇది 50 సంవత్సరాలలో మొట్టమొదటి కొత్త US రిఫైనరీ, మరియు చారిత్రాత్మక ఇంధన పెట్టుబడికి మద్దతు ఇచ్చినందుకు \"భారతదేశంలో భాగస్వాములు, రిలయన్స్\"కి బహిరంగంగా ధన్యవాదాలు తెలిపారు.",
       "translated": true
     },
     {

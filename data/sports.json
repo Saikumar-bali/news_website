@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-11T08:39:22.152Z",
-  "updated_at_IST": "11/3/2026, 2:09:22 pm",
+  "updated_at": "2026-03-11T09:44:54.694Z",
+  "updated_at_IST": "11/3/2026, 3:14:54 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c0b718eca07950fde7a8df169b9352f3",
+      "title": "Kishan jumps to second in T20I batting rankings",
+      "summary": "Varun was the joint-highest wicket-taking but lost the No. 1 spot among bowlers to Afghanistan's Rashid",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527636.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414125.jpg",
+      "published_at": "2026-03-11T09:11:05.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "టీ20 బ్యాటింగ్ ర్యాంకింగ్స్‌లో కిషన్ రెండో స్థానానికి ఎగబాకాడు",
+      "summary_te": "వరుణ్ ఉమ్మడి అత్యధిక వికెట్లు తీసినప్పటికీ బౌలర్లలో నంబర్ 1 స్థానాన్ని ఆఫ్ఘనిస్తాన్ ఆటగాడు రషీద్ కోల్పోయాడు.",
+      "translated": true
+    },
     {
       "id": "3f175d8be14858078da475e0a4d3b88f",
       "title": "Bangladesh opt to field, Pakistan hand four debuts",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "పశ్చిమాసియా వివాదం కారణంగా ఆఫ్ఘనిస్తాన్-శ్రీలంక వైట్ బాల్ సిరీస్ వాయిదా పడింది",
       "summary_te": "కొనసాగుతున్న సైనిక సంక్షోభం కారణంగా ప్రభావితమైన యుఎఇలో సిరీస్ ఆడాల్సి ఉంది",
-      "translated": true
-    },
-    {
-      "id": "1c3a126474497a5ee249d336e53c0fb7",
-      "title": "Litton Das to bat at No. 5 in ODIs against Pakistan",
-      "summary": "Bangladesh coach Simmons said the wicketkeeper's ability against spin was one of the reasons for the move",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527492.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/406000/406096.jpg",
-      "published_at": "2026-03-09T12:16:09.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
-      "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
       "translated": true
     }
   ]
