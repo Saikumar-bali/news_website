@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-11T05:20:28.948Z",
-  "updated_at_IST": "11/3/2026, 10:50:28 am",
+  "updated_at": "2026-03-11T06:48:14.375Z",
+  "updated_at_IST": "11/3/2026, 12:18:14 pm",
   "category": "andhra",
-  "count": 23,
+  "count": 22,
   "articles": [
+    {
+      "id": "be12f18d0989d20aea59a3be20e7e62f",
+      "title": "Guidelines issued to check milk adulteration in A.P.",
+      "summary": "Awareness campaigns in public places and on social media platforms planned in the aftermath of 12 deaths due to consumption of adulterated milk in Rajamahendravaram",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/guidelines-issued-to-check-milk-adulteration-in-ap/article70726175.ece",
+      "image": "https://th-i.thgim.com/public/incoming/9seq83/article70727216.ece/alternates/LANDSCAPE_1200/10237_25_2_2026_19_26_43_1_DSC_0052.JPG",
+      "published_at": "2026-03-11T05:26:04.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఏపీలో పాల కల్తీని అరికట్టేందుకు మార్గదర్శకాలు జారీ",
+      "summary_te": "రాజమహేంద్రవరంలో కల్తీ పాల వినియోగంతో 12 మంది మరణించిన నేపథ్యంలో బహిరంగ ప్రదేశాల్లో, సోషల్ మీడియా వేదికలపై అవగాహన కార్యక్రమాలు",
+      "translated": true
+    },
+    {
+      "id": "f0786647dafa50b51ba3e9478db35fe6",
+      "title": "Gulf tensions trigger LPG supply concerns in Andhra Pradesh",
+      "summary": "Domestic stocks adequate for 25 to 30 days, say officials as hotels report restrictions on commercial cylinder refills amid shipping uncertainty near Strait of Hormuz",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/gulf-tensions-trigger-lpg-supply-concerns-in-andhra-pradesh/article70727655.ece",
+      "image": "https://th-i.thgim.com/public/incoming/uwj3vi/article70727786.ece/alternates/LANDSCAPE_1200/VSP11_LPG%205.JPG",
+      "published_at": "2026-03-11T05:15:02.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "గల్ఫ్ ఉద్రిక్తతలు ఆంధ్రప్రదేశ్‌లో LPG సరఫరా ఆందోళనలను ప్రేరేపించాయి",
+      "summary_te": "25 నుండి 30 రోజుల వరకు దేశీయ స్టాక్‌లు సరిపోతాయని, హోర్ముజ్ జలసంధి సమీపంలో షిప్పింగ్ అనిశ్చితి మధ్య హోటళ్లు వాణిజ్య సిలిండర్ రీఫిల్‌లపై పరిమితులను నివేదించినట్లు అధికారులు తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "62dfdc39d07d2fe67a43adb67e22e40e",
       "title": "Andhra CM Naidu orders steps to minimise impact of West Asia conflict",
@@ -16,20 +44,6 @@
       "language": "en",
       "title_te": "పశ్చిమాసియా వివాదాల ప్రభావాన్ని తగ్గించేందుకు చర్యలు తీసుకోవాలని ఆంధ్రా సీఎం నాయుడు ఆదేశించారు",
       "summary_te": "ఇతర రంగాలను సమీక్షిస్తూ, రాష్ట్రవ్యాప్తంగా పాఠశాలలు మరియు కళాశాలల్లో నాణ్యమైన మధ్యాహ్న భోజనాన్ని అందించడం మరియు తరగతి గదులను పరిశుభ్రంగా నిర్వహించడంపై దృష్టి పెట్టాలని నాయుడు అధికారులను కోరారు.",
-      "translated": true
-    },
-    {
-      "id": "f0786647dafa50b51ba3e9478db35fe6",
-      "title": "Gulf tensions trigger LPG supply concerns in Andhra Pradesh",
-      "summary": "Domestic stocks adequate for 25 to 30 days, say officials as hotels report restrictions on commercial cylinder refills amid shipping uncertainty near Strait of Hormuz",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/gulf-tensions-trigger-lpg-supply-concerns-in-andhra-pradesh/article70727655.ece",
-      "image": "https://th-i.thgim.com/public/incoming/uwj3vi/article70727786.ece/alternates/LANDSCAPE_1200/VSP11_LPG%205.JPG",
-      "published_at": "2026-03-10T17:49:21.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "గల్ఫ్ ఉద్రిక్తతలు ఆంధ్రప్రదేశ్‌లో LPG సరఫరా ఆందోళనలను ప్రేరేపించాయి",
-      "summary_te": "25 నుండి 30 రోజుల వరకు దేశీయ స్టాక్‌లు సరిపోతాయని, హోర్ముజ్ జలసంధి సమీపంలో షిప్పింగ్ అనిశ్చితి మధ్య హోటళ్లు వాణిజ్య సిలిండర్ రీఫిల్‌లపై పరిమితులను నివేదించినట్లు అధికారులు తెలిపారు.",
       "translated": true
     },
     {
@@ -257,20 +271,6 @@
       "translated": true
     },
     {
-      "id": "be12f18d0989d20aea59a3be20e7e62f",
-      "title": "Guidelines issued to check milk adulteration in A.P.",
-      "summary": "Awareness campaigns in public places and on social media platforms planned in the aftermath of 12 deaths due to consumption of adulterated milk in Rajamahendravaram",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/guidelines-issued-to-check-milk-adulteration-in-ap/article70726175.ece",
-      "image": "https://th-i.thgim.com/public/incoming/9seq83/article70727216.ece/alternates/LANDSCAPE_1200/10237_25_2_2026_19_26_43_1_DSC_0052.JPG",
-      "published_at": "2026-03-10T13:56:17.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఏపీలో పాల కల్తీని అరికట్టేందుకు మార్గదర్శకాలు జారీ",
-      "summary_te": "రాజమహేంద్రవరంలో కల్తీ పాల వినియోగంతో 12 మంది మరణించిన నేపథ్యంలో బహిరంగ ప్రదేశాల్లో, సోషల్ మీడియా వేదికలపై అవగాహన కార్యక్రమాలు",
-      "translated": true
-    },
-    {
       "id": "0d40a89ae1576bf41d2a27760f5346c4",
       "title": "Visakhapatnam chosen for high-energy proton accelerator",
       "summary": "Facility to power India’s long-term thorium-based nuclear programme",
@@ -310,20 +310,6 @@
       "language": "en",
       "title_te": "ఉగాది మహోత్సవాలకు శ్రీశైలం దేవస్థానం ముస్తాబైంది.",
       "summary_te": "రానున్న ‘ఉగాది మహోత్సవాల’కు పకడ్బందీ ఏర్పాట్లు చేయాలని శ్రీశైలం దేవస్థానం కార్యనిర్వహణాధికారి ఎం. శ్రీనివాసరావు అధికారులను కోరారు. మార్చి 16 నుంచి ప్రారంభం కానున్న శ్రీ భ్రమరాంబ మల్లికార్జున స్వామి మహోత్సవాల సందర్భంగా భక్తులు అధిక సంఖ్యలో తరలివచ్చే ఏర్పాట్లను శ్రీనివాసరావు సమీక్షించారు. ఉగాది పండుగకు ముందుగానే కర్ణాటక నుంచి భక్తులు అధిక సంఖ్యలో ఆలయానికి చేరుకుంటారని, భక్తులను అప్రమత్తంగా ఉండాలని శ్రీనువైశ్యరావు అధికారులను కోరారు. మార్చి 16 తర్వాత.. మార్చి 15 వరకు నాలుగు సమయాల్లో ‘స్పర్శ దర్శనం’ అనుమతించబడుతుందని తెలిపారు. నిర్ణీత స్లాట్ల ప్రకారం స్పర్శ దర్శనం మరియు అలంకార దర్శనం రెండింటినీ సమన్వయం చేసి అందించాలని క్యూ లైన్లు మరియు ఆలయ విభాగాన్ని నిర్వహించే అధికారులను ఆయన కోరారు. క్యూ లైన్లలో వేచి ఉన్న భక్తులకు తాగునీరు, అల్పాహారం అందించాలని, ఫ్యాన్లు, కూలర్లు పని చేసేలా చూడాలని శ్రీనివాసరావు అధికారులను ఆదేశించారు. క్యూ లైన్ల నిర్వహణలో స్థానిక పోలీసులతో సమన్వయం చేసుకోవాలని విజిలెన్స్, సెక్యూరిటీ వింగ్ అధికారులను శ్రీనివాసరావు ఆదేశించారు. వెంకటాపురం, నాగలూటి, దామెరకుంట్ల, పెద్దచెరువు, మాతంబావి, భీముని కొలువు, కైలాస ద్వారం మీదుగా కాలినడకన వచ్చే భక్తులు ఆలయ పట్టణానికి చేరుకోవడం ప్రారంభించారని ఆయన పేర్కొన్నారు. భక్తులకు ప్రత్యేకంగా తాగునీటి ఏర్పాట్లను అటవీశాఖ అధికారులతో సమన్వయం చేయాలని ఆయన కోరారు.అటవీ మార్గం గుండా కాలినడకన వచ్చే భక్తులకు అన్నదాతలు, అన్నదాతలు అందించాలని ఈఓ అధికారులను కోరారు.",
-      "translated": true
-    },
-    {
-      "id": "b4e5642821fbe309ecfe20acdc7f199f",
-      "title": "Rayanapadu Amrit Bharat railway station to be inaugurated soon",
-      "summary": "The Indian Railways has redeveloped the station at a cost of ₹19.90 crore in the first phase of the scheme, says Additional DRM (Infrastructure) Edwin",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rayanapadu-amrit-bharat-railway-station-to-be-inaugurated-soon/article70726221.ece",
-      "image": "https://th-i.thgim.com/public/incoming/2w8spy/article70727079.ece/alternates/LANDSCAPE_1200/Rayanapadu%20Railway%20Station.JPG",
-      "published_at": "2026-03-10T13:41:32.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "రాయనపాడు అమృత్ భారత్ రైల్వే స్టేషన్ త్వరలో ప్రారంభం",
-      "summary_te": "ఈ పథకం యొక్క మొదటి దశలో భారతీయ రైల్వే స్టేషన్‌ను ₹19.90 కోట్లతో తిరిగి అభివృద్ధి చేసింది, అదనపు DRM (ఇన్‌ఫ్రాస్ట్రక్చర్) ఎడ్విన్ చెప్పారు",
       "translated": true
     }
   ]

@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-11T05:20:28.948Z",
-  "updated_at_IST": "11/3/2026, 10:50:28 am",
+  "updated_at": "2026-03-11T06:48:14.375Z",
+  "updated_at_IST": "11/3/2026, 12:18:14 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "01c2c569a9e454452e5762a8caa9d8bf",
+      "title": "Bangladesh, Pakistan start afresh with 2027 World Cup in mind",
+      "summary": "Pakistan have six uncapped players in their squad while Bangladesh are set to try a new middle order combination",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527541.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414585.jpg",
+      "published_at": "2026-03-11T05:18:18.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
+      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
+      "translated": true
+    },
     {
       "id": "42fae62849d704b238fbc35f59a73741",
       "title": "Amelia Kerr's all-round brilliance seals NZ's 3-0 sweep over Zimbabwe",
       "summary": "The new New Zealand captain scored 80 before returning to claim 5 for 22, including a hat-trick, as Zimbabwe were bundled out cheaply",
       "url": "https://www.espncricinfo.com/ci/content/story/1527626.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414598.jpg",
-      "published_at": "2026-03-11T04:54:48.000Z",
+      "published_at": "2026-03-11T05:02:11.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -72,20 +86,6 @@
       "language": "en",
       "title_te": "దక్షిణాఫ్రికాతో జరిగే T20I సిరీస్‌లో కెప్టెన్సీ బాధ్యతలను సాంట్నర్, లాథమ్ పంచుకోనున్నారు",
       "summary_te": "జేడెన్ లెనాక్స్ మరియు కాటేన్ క్లార్క్ తొలి T20I కాల్-అప్‌లను సంపాదిస్తారు",
-      "translated": true
-    },
-    {
-      "id": "01c2c569a9e454452e5762a8caa9d8bf",
-      "title": "Bangladesh, Pakistan start afresh with 2027 World Cup in mind",
-      "summary": "Pakistan have six uncapped players in their squad while Bangladesh are set to try a new middle order combination",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527541.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/396900/396937.jpg",
-      "published_at": "2026-03-10T16:21:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
-      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
       "translated": true
     },
     {
