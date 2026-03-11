@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-11T07:49:59.676Z",
-  "updated_at_IST": "11/3/2026, 1:19:59 pm",
+  "updated_at": "2026-03-11T08:39:22.152Z",
+  "updated_at_IST": "11/3/2026, 2:09:22 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "3f175d8be14858078da475e0a4d3b88f",
+      "title": "Bangladesh opt to field, Pakistan hand four debuts",
+      "summary": "Sahibzada Farhan, Maaz Sadaqat, Shamyl Hussain and Abdul Samad are the four debutants for the visitors",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527634.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414216.jpg",
+      "published_at": "2026-03-11T08:18:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బంగ్లాదేశ్ ఫీల్డింగ్ ఎంచుకుంది, పాకిస్తాన్ నాలుగు అరంగేట్రం చేసింది",
+      "summary_te": "సాహిబ్జాదా ఫర్హాన్, మాజ్ సదాకత్, షామిల్ హుస్సేన్ మరియు అబ్దుల్ సమద్ సందర్శకులకు నలుగురు అరంగేట్రం.",
+      "translated": true
+    },
     {
       "id": "01c2c569a9e454452e5762a8caa9d8bf",
       "title": "Bangladesh, Pakistan start afresh with 2027 World Cup in mind",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "లిట్టన్ దాస్ పాకిస్థాన్‌తో వన్డేల్లో 5వ స్థానంలో బ్యాటింగ్‌కు దిగాడు",
       "summary_te": "బంగ్లాదేశ్ కోచ్ సిమన్స్ మాట్లాడుతూ వికెట్ కీపర్ స్పిన్‌ను ఎదుర్కోవడం కూడా ఈ చర్యకు ఒక కారణమని చెప్పాడు",
-      "translated": true
-    },
-    {
-      "id": "099523a095f3d0e559f1c5145713f2fb",
-      "title": "Hesson: Pakistan's new faces have 'earned the right to get opportunities'",
-      "summary": "Pakistan have six uncapped players on Bangladesh tour, with Hesson keen to test them in conditions that challenge visiting sides",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527490.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414227.jpg",
-      "published_at": "2026-03-09T11:08:19.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హెస్సన్: పాకిస్తాన్ కొత్త ముఖాలు 'అవకాశాలను పొందే హక్కును సంపాదించాయి'",
-      "summary_te": "బంగ్లాదేశ్ టూర్‌లో పాకిస్తాన్ ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లను కలిగి ఉంది, హెస్సన్ సందర్శించే జట్టులను సవాలు చేసే పరిస్థితులలో వారిని పరీక్షించడానికి ఆసక్తిగా ఉన్నాడు.",
       "translated": true
     }
   ]
