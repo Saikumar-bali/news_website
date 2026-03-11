@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-03-11T14:10:02.423Z",
-  "updated_at_IST": "11/3/2026, 7:40:02 pm",
+  "updated_at": "2026-03-11T14:54:13.177Z",
+  "updated_at_IST": "11/3/2026, 8:24:13 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "86626ee85e447ae142c7fcc3f2e17680",
+      "title": "Hayden appointed as Gujarat Titans batting coach",
+      "summary": "Former India wicketkeeper Vijay Dahiya has been recruited as assistant coach",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527526.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400288.jpg",
+      "published_at": "2026-03-11T14:34:10.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గుజరాత్ టైటాన్స్ బ్యాటింగ్ కోచ్‌గా హేడెన్ నియమితుడయ్యాడు",
+      "summary_te": "భారత మాజీ వికెట్ కీపర్ విజయ్ దహియా అసిస్టెంట్ కోచ్‌గా నియమితుడయ్యాడు",
+      "translated": true
+    },
+    {
+      "id": "2df434d3e717ea5f2ab6f6e7a5d9ea02",
+      "title": "Will O'Rourke on the verge of returning to action from back injury",
+      "summary": "\"Will's been like a bull in a china shop wanting to get back on the park, but understands he's an important resource,\" selector Larsen says",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527696.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/397800/397825.jpg",
+      "published_at": "2026-03-11T14:30:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "విల్ ఓ'రూర్కే వెన్ను గాయం నుండి తిరిగి చర్య తీసుకునే అంచున ఉన్నాడు",
+      "summary_te": "\"చైనా షాప్‌లోని ఎద్దులాగా పార్క్‌లోకి తిరిగి రావాలనుకుంటాడు, కానీ అతను ఒక ముఖ్యమైన వనరు అని అర్థం చేసుకున్నాడు\" అని సెలెక్టర్ లార్సెన్ చెప్పారు",
+      "translated": true
+    },
     {
       "id": "fa5ac6f5ef4b479a5e394fcc4f0c4af9",
       "title": "RCB vs SRH to kick off IPL 2026 in Bengaluru on March 28",
       "summary": "The IPL has released the schedule for the first 20 matches of the season including four double-headers",
       "url": "https://www.espncricinfo.com/ci/content/story/1527318.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401653.jpg",
-      "published_at": "2026-03-11T13:51:45.000Z",
+      "published_at": "2026-03-11T13:58:05.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -313,20 +341,6 @@
       "translated": true
     },
     {
-      "id": "86626ee85e447ae142c7fcc3f2e17680",
-      "title": "Hayden appointed as Gujarat Titans batting coach",
-      "summary": "This will be Hayden's first coaching stint in the IPL",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527526.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400288.jpg",
-      "published_at": "2026-03-10T06:39:24.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "గుజరాత్ టైటాన్స్ బ్యాటింగ్ కోచ్‌గా హేడెన్ నియమితుడయ్యాడు",
-      "summary_te": "ఐపీఎల్‌లో హేడెన్‌కి ఇదే తొలి కోచింగ్‌",
-      "translated": true
-    },
-    {
       "id": "d6d96578021603355275ca55ba2b4cc2",
       "title": "Jonassen stands down as Queensland and Brisbane Heat captain",
       "summary": "The allrounder, who has recently returned from injury, had held the roles since 2020",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "క్వీన్స్‌లాండ్ మరియు బ్రిస్బేన్ హీట్ కెప్టెన్‌గా జోనాస్సెన్ వైదొలిగాడు",
       "summary_te": "ఇటీవల గాయం నుండి తిరిగి వచ్చిన ఆల్‌రౌండర్ 2020 నుండి పాత్రలను కలిగి ఉన్నాడు",
-      "translated": true
-    },
-    {
-      "id": "e47a4e731b1c870a45cc44a416e37d1a",
-      "title": "Sutherland rested from West Indies tour, Molineux 'expected' to play",
-      "summary": "NSW wicketkeeper Tahlia Wilson has earned her first call-up while Grace Harris has been dropped",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527516.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414256.jpg",
-      "published_at": "2026-03-09T23:29:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్టిండీస్ పర్యటన నుండి సదర్లాండ్ విశ్రాంతి తీసుకున్నాడు, మోలినక్స్ ఆడాలని 'అంచనా'",
-      "summary_te": "NSW వికెట్ కీపర్ తహ్లియా విల్సన్ తన మొదటి కాల్-అప్ సంపాదించింది, గ్రేస్ హారిస్ తొలగించబడింది",
       "translated": true
     }
   ]
