@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-12T16:59:29.657Z",
-  "updated_at_IST": "12/3/2026, 10:29:29 pm",
+  "updated_at": "2026-03-12T17:55:43.746Z",
+  "updated_at_IST": "12/3/2026, 11:25:43 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "46505b120528ad5cd8342dd80ee4ad39",
+      "title": "US-Israel-Iran conflict: Trump administration considers waiving Jones Act; here's all you need to know about it",
+      "summary": "The Trump administration is considering a temporary waiver of the Jones Act to keep energy and agricultural shipments moving between US ports amid supply disruptions linked to the Iran conflict. The move aims to ease rising fuel prices by allowing foreign ships to transport goods domestically.",
+      "url": "https://www.livemint.com/news/us-news/usisraeliran-conflict-trump-administration-considers-waiving-jones-act-heres-all-you-need-to-know-about-it-11773335054282.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/ISRAEL-IRAN-CONFLICT-167_1750318328084_1773335190087.jpg",
+      "published_at": "2026-03-12T17:21:54.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US-ఇజ్రాయెల్-ఇరాన్ వివాదం: ట్రంప్ పరిపాలన జోన్స్ చట్టాన్ని రద్దు చేయాలని భావిస్తుంది; మీరు దాని గురించి తెలుసుకోవలసినది ఇక్కడ ఉంది",
+      "summary_te": "ఇరాన్ వివాదంతో ముడిపడి ఉన్న సరఫరా అంతరాయాల మధ్య యుఎస్ పోర్టుల మధ్య ఇంధనం మరియు వ్యవసాయ సరుకులను తరలించడానికి జోన్స్ చట్టం యొక్క తాత్కాలిక మినహాయింపును ట్రంప్ పరిపాలన పరిశీలిస్తోంది. విదేశీ నౌకలు దేశీయంగా వస్తువులను రవాణా చేయడానికి అనుమతించడం ద్వారా పెరుగుతున్న ఇంధన ధరలను తగ్గించడం ఈ చర్య లక్ష్యం.",
+      "translated": true
+    },
+    {
+      "id": "18bbafcc42f87ce5458df0c9550e2ce7",
+      "title": "Ronald Reagan airport's Concourse D evacuated after suspicious package discovered, authorities later issue all-clear",
+      "summary": "Airport authorities said passengers were temporarily moved out of Concourse D in Terminal 2 after the item was found in a break room, triggering a security response.",
+      "url": "https://www.livemint.com/news/us-news/ronald-reagan-airports-concourse-d-evacuated-after-suspicious-package-discovered-authorities-later-issue-allclear-11773333545322.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/NSP_Sharad_Pawar_1721267050573_1773334082772.PNG",
+      "published_at": "2026-03-12T16:51:10.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అనుమానాస్పద ప్యాకేజీ కనుగొనబడిన తర్వాత రోనాల్డ్ రీగన్ విమానాశ్రయం యొక్క కాన్కోర్స్ D ఖాళీ చేయబడింది, అధికారులు తర్వాత పూర్తి స్పష్టత ఇచ్చారు",
+      "summary_te": "ఎయిర్‌పోర్ట్ అధికారులు తాత్కాలికంగా టెర్మినల్ 2లోని కాన్‌కోర్స్ D నుండి బ్రేక్ రూమ్‌లో ఐటెమ్ కనుగొనబడిన తర్వాత భద్రతా ప్రతిస్పందనను ప్రేరేపించడంతో తాత్కాలికంగా తరలించబడ్డారని తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "c30286ec923ed03d84adb98e2aa4bd86",
+      "title": "West Asia crisis: IGL assures uninterrupted PNG, CNG supply amid LPG shortage concerns",
+      "summary": "IGL's assurance has come amid global energy market disruptions caused by the escalating conflict in the Middle East involving the United States, Israel and Iran.",
+      "url": "https://www.livemint.com/news/india/west-asia-crisis-igl-assures-uninterrupted-png-cng-supply-amid-lpg-shortage-concerns-11773330286113.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/CNG-Crisis-1_1773333429994_1773333478677.jpg",
+      "published_at": "2026-03-12T16:44:17.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా సంక్షోభం: ఎల్‌పిజి కొరత ఆందోళనల మధ్య నిరంతరాయంగా పిఎన్‌జి, సిఎన్‌జి సరఫరాకు ఐజిఎల్ హామీ ఇచ్చింది",
+      "summary_te": "యునైటెడ్ స్టేట్స్, ఇజ్రాయెల్ మరియు ఇరాన్‌లతో ముడిపడి ఉన్న మధ్యప్రాచ్యంలో పెరుగుతున్న సంఘర్షణ కారణంగా ప్రపంచ ఇంధన మార్కెట్ అంతరాయాల మధ్య IGL యొక్క హామీ వచ్చింది.",
+      "translated": true
+    },
     {
       "id": "4aa4d22c42220f195457a95a35f7de57",
       "title": "Heart-wrenching video shows Iranian mother comforting child during bombing: 'Don’t be scared...'",
@@ -20,22 +62,22 @@
     },
     {
       "id": "dfef201c7ced746f2152da4f2e0cd9b2",
-      "title": "Oil tanker transit through Hormuz secured as Jaishankar holds calls with Iran's Araghchi amid West Asia conflict: Report",
+      "title": "Oil tanker transit through Hormuz stabilised after Jaishankar speaks to Iran's Araghchi amid West Asia conflict: Report",
       "summary": "MEA spokesperson Randhir Jaiswal also said that India is working to ensure the safety of its 9,000 nationals in Iran, with several students and others returning home through embassy assistance",
       "url": "https://www.livemint.com/news/india/oil-tanker-transit-through-hormuz-secured-as-jaishankar-holds-calls-with-irans-araghchi-amid-west-asia-conflict-report-11773056297767.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/breaking_news_1545650155659_1773332761275.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/ANI-20260312241-0_1773334473075_1773334481538.jpg",
       "published_at": "2026-03-12T16:25:57.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "పశ్చిమాసియా వివాదాల మధ్య జైశంకర్ ఇరాన్‌కు చెందిన ఆరాఘితో కాల్స్ చేయడంతో హోర్ముజ్ ద్వారా చమురు ట్యాంకర్ రవాణా సురక్షితం: నివేదిక",
+      "title_te": "పశ్చిమాసియా వివాదం మధ్య జైశంకర్ ఇరాన్‌కు చెందిన ఆరాఘితో మాట్లాడిన తర్వాత హోర్ముజ్ ద్వారా చమురు ట్యాంకర్ రవాణా స్థిరీకరించబడింది: నివేదిక",
       "summary_te": "MEA ప్రతినిధి రణధీర్ జైస్వాల్ ఇరాన్‌లోని 9,000 మంది పౌరుల భద్రతను నిర్ధారించడానికి భారతదేశం కృషి చేస్తోందని, అనేక మంది విద్యార్థులు మరియు ఇతరులు ఎంబసీ సహాయం ద్వారా స్వదేశానికి తిరిగి వస్తున్నారని చెప్పారు.",
       "translated": true
     },
     {
       "id": "147d7b92de6a58696bb504b4249d993f",
       "title": "Indian nationals stranded in Qatar have these two options to leave war-hit region — embassy open on March 13-14",
-      "summary": "The India Embassy in Qatar informed that it continues to facilitate temporary transit visas valid for 96 hours for Saudi Arabia.",
+      "summary": "The Indian Embassy in Qatar informs that it continues to facilitate temporary transit visas valid for 96 hours for Saudi Arabia.",
       "url": "https://www.livemint.com/news/world/indian-nationals-stranded-in-qatar-have-these-two-options-to-leave-war-hit-region-embassy-open-on-march-1314-11773331168230.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/IRAN-CRISIS-AIRLINES-CARGO-1_1773331482322_1773331493922.JPG",
       "published_at": "2026-03-12T16:13:31.000Z",
@@ -43,7 +85,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఖతార్‌లో చిక్కుకుపోయిన భారతీయ పౌరులు యుద్ధ బాధిత ప్రాంతాన్ని విడిచిపెట్టడానికి ఈ రెండు ఎంపికలు ఉన్నాయి - మార్చి 13-14 తేదీలలో రాయబార కార్యాలయం తెరవబడుతుంది",
-      "summary_te": "సౌదీ అరేబియాకు 96 గంటలపాటు చెల్లుబాటు అయ్యే తాత్కాలిక ట్రాన్సిట్ వీసాలను సులభతరం చేయడం కొనసాగిస్తున్నట్లు ఖతార్‌లోని భారత రాయబార కార్యాలయం తెలియజేసింది.",
+      "summary_te": "సౌదీ అరేబియా కోసం 96 గంటలపాటు చెల్లుబాటు అయ్యే తాత్కాలిక రవాణా వీసాలను సులభతరం చేయడం కొనసాగిస్తున్నట్లు ఖతార్‌లోని భారత రాయబార కార్యాలయం తెలియజేస్తోంది.",
       "translated": true
     },
     {
@@ -322,7 +364,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఎల్‌పిజి, క్రూడ్, పెట్రోల్ మరియు డీజిల్‌కు కొరత లేదని హర్దీప్ పూరి చెప్పారు, అయితే దీని కోసం ప్రత్యామ్నాయ ఇంధనాలను ఉపయోగించమని కోరారు... | టాప్ పాయింట్లు",
+      "title_te": "ఎల్‌పిజి, క్రూడ్, పెట్రోల్ మరియు డీజిల్‌కు కొరత లేదని హర్దీప్ పూరి చెప్పారు, అయితే ప్రత్యామ్నాయ ఇంధనాలను ఉపయోగించమని కోరారు... | టాప్ పాయింట్లు",
       "summary_te": "ఇరాన్, ఇజ్రాయెల్ మరియు యుఎస్ మధ్య పశ్చిమాసియాలో కొనసాగుతున్న సంఘర్షణ నేపథ్యంలో ఎల్‌పిజి “కొరత” మరియు ప్రపంచ ఇంధన సరఫరాకు అంతరాయం కలిగించే ప్రశ్నలకు చమురు మంత్రి హర్దీప్ సింగ్ పూరి గురువారం వివరణాత్మక ప్రతిస్పందనను ఇచ్చారు. అతను చెప్పినది ఇక్కడ ఉంది:",
       "translated": true
     },
@@ -380,48 +422,6 @@
       "language": "en",
       "title_te": "అయతుల్లా ఖమేనీ సంతాప పుస్తకంపై సంతకం చేయడంపై ఆలస్యం వాదనలను భారతదేశం ఖండించింది - 'అసలు సమాచారం లేని వ్యాఖ్యలు'",
       "summary_te": "ఐదు రోజుల ఆలస్యం తర్వాత భారతదేశం పుస్తకంపై సంతకం చేసిందనే పుకార్లను ప్రస్తావిస్తూ, MEA ప్రతినిధి మాట్లాడుతూ, అటువంటి వాదనలు చేసే వారు వ్యాఖ్యానించే ముందు వారి సమాచారాన్ని ధృవీకరించాలని మరియు నవీకరించాలని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "65e3b871abbabdb64e000b8f4782bf4c",
-      "title": "Xi-Trump meeting: US launches trade probe against China over ‘unfair’ practices; will it worsen ties?",
-      "summary": "The US has launched Section 301 trade investigations targeting China ahead of a Trump–Xi summit. Washington cites concerns over industrial overcapacity and forced labour, while analysts say tariffs remain Trump’s key negotiating tool. China’s exports continue to surge despite global criticism.",
-      "url": "https://www.livemint.com/news/us-news/xitrump-meeting-us-launches-trade-probe-against-china-over-unfair-practices-will-it-worsen-ties-11773315859936.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/FILES-COMBO-US-CHINA-DIPLOMACY-TRADE_1773316269964_1773316270113.jpg",
-      "published_at": "2026-03-12T12:27:46.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "Xi-ట్రంప్ సమావేశం: 'అన్యాయమైన' పద్ధతులపై చైనాకు వ్యతిరేకంగా US వాణిజ్య విచారణను ప్రారంభించింది; ఇది సంబంధాలను మరింత దిగజార్చుతుందా?",
-      "summary_te": "ట్రంప్-జి సమ్మిట్‌కు ముందు చైనాను లక్ష్యంగా చేసుకుని అమెరికా సెక్షన్ 301 వాణిజ్య పరిశోధనలను ప్రారంభించింది. వాషింగ్టన్ పారిశ్రామిక ఓవర్ కెపాసిటీ మరియు బలవంతపు శ్రమపై ఆందోళనలను ఉదహరించింది, అయితే విశ్లేషకులు సుంకాలు ట్రంప్ యొక్క కీలక చర్చల సాధనంగా ఉన్నాయని చెప్పారు. ప్రపంచవ్యాప్త విమర్శలు ఉన్నప్పటికీ చైనా ఎగుమతులు పెరుగుతూనే ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "959493c0c40fec0a4ed71f2e03827fb1",
-      "title": "High alert ahead of Oscars 2026? Security tightened after FBI flags possible Iran drone threat",
-      "summary": "Authorities in Los Angeles are tightening security ahead of the 98th Academy Awards following an FBI alert warning of potential drone threats linked to escalating tensions in the Middle East.&nbsp;",
-      "url": "https://www.livemint.com/news/world/high-alert-ahead-of-oscars-2026-security-tightened-as-iran-drone-threat-surfaces-11773317018935.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/oscars_1772487317433_1772487335418_1773317138150.jpg",
-      "published_at": "2026-03-12T12:16:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆస్కార్ 2026కి ముందు హై అలర్ట్? ఇరాన్ డ్రోన్ ముప్పు పొంచి ఉందని FBI ఫ్లాగ్ చేయడంతో భద్రతను కట్టుదిట్టం చేశారు",
-      "summary_te": "మధ్యప్రాచ్యంలో పెరుగుతున్న ఉద్రిక్తతలతో ముడిపడి ఉన్న సంభావ్య డ్రోన్ బెదిరింపుల గురించి FBI హెచ్చరిక తర్వాత లాస్ ఏంజిల్స్‌లోని అధికారులు 98వ అకాడమీ అవార్డుల ముందు భద్రతను కట్టుదిట్టం చేస్తున్నారు. ",
-      "translated": true
-    },
-    {
-      "id": "a7c58c1dc7b6c9d4d8b52eacbf119dd4",
-      "title": "‘Shri Ram ke paas bhi cylinder nahi hai’: Ashneer Grover reacts to LPG shortage at Gurugram school",
-      "summary": "India LPG Cylinder Shortage: A screenshot of the email revealed that the school had asked parents to make alternate arrangements from next week.",
-      "url": "https://www.livemint.com/news/trends/shri-ram-ke-paas-bhi-cylinder-nahi-hai-ashneer-grover-reacts-to-lpg-shortage-at-gurugram-school-11773316470388.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/INDIA-WAR-IRAN-US-ISRAEL-ECONOMY-GAS-1_1773202906692_1773202920177_1773316668274.jpg",
-      "published_at": "2026-03-12T12:13:36.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'శ్రీ రామ్ కే పాస్ భీ సిలిండర్ నహీ హై': గురుగ్రామ్ పాఠశాలలో LPG కొరతపై అష్నీర్ గ్రోవర్ స్పందించారు",
-      "summary_te": "ఇండియా ఎల్‌పిజి సిలిండర్ కొరత: వచ్చే వారం నుండి ప్రత్యామ్నాయ ఏర్పాట్లు చేయాలని పాఠశాల తల్లిదండ్రులను కోరినట్లు ఇమెయిల్ స్క్రీన్‌షాట్ వెల్లడించింది.",
       "translated": true
     },
     {
@@ -519,7 +519,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేయిస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
-      "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
+      "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిస్వా శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
     {
@@ -561,7 +561,7 @@
       "category": "business",
       "language": "en",
       "title_te": "2047 నాటికి విక్షిత్ భారత్ కోసం ‘ఛాంపియన్ CPSE’లను ప్రభుత్వం ప్లాన్ చేస్తుంది, నీతి ఆయోగ్ రోడ్‌మ్యాప్ త్వరలో",
-      "summary_te": "'ఛాంపియన్' ప్రభుత్వ రంగ సంస్థలను రూపొందించేందుకు భారత్ సిద్ధమవుతోంది. ఈ సంస్థలు ఆర్థిక వృద్ధిని మరియు సాంకేతికతను పెంచుతాయి. 2047 నాటికి భారతదేశాన్ని అభివృద్ధి చెందిన దేశంగా మార్చడం లక్ష్యం. ఈ కంపెనీలు నిర్ణయాలు మరియు ప్రతిభను నియమించుకోవడంలో మరింత స్వేచ్ఛను పొందుతాయి. మెరుగైన పనితీరు కోసం వారు కొత్త సాంకేతికతలను ఉపయోగిస్తారు.",
+      "summary_te": "'ఛాంపియన్' ప్రభుత్వ రంగ సంస్థలను రూపొందించేందుకు భారత్ సిద్ధమవుతోంది. ఈ సంస్థలు ఆర్థిక వృద్ధిని మరియు సాంకేతికతను పెంచుతాయి. 2047 నాటికి భారతదేశాన్ని అభివృద్ధి చెందిన దేశంగా మార్చడం లక్ష్యం. ఈ కంపెనీలు నిర్ణయాలు మరియు ప్రతిభను నియమించుకోవడంలో మరింత స్వేచ్ఛను పొందుతాయి. మెరుగైన పనితీరు కోసం వారు కొత్త సాంకేతికతలను ఉపయోగించనున్నారు.",
       "translated": true
     },
     {
@@ -617,7 +617,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎప్స్టీన్ అరెస్టు తర్వాత ఆమె డబ్బును తరలించి, కొన్నాళ్లపాటు ఘిస్లైన్ మాక్స్‌వెల్‌ను UBS బ్యాంకింగ్ చేసింది",
-      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత సహా మాక్స్‌వెల్ కోసం UBS మిలియన్ల కొద్దీ నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీశాయి.",
+      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత కూడా UBS మాక్స్‌వెల్ కోసం మిలియన్ల మందిని నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీసింది.",
       "translated": true
     },
     {
@@ -841,7 +841,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
@@ -869,7 +869,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ట్విటర్ యొక్క ఇండియా పాలసీ హెడ్ దిగిపోతుంది; మార్చిలో పరివర్తన ఉంటుంది",
-      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్‌లను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి స్వీకరించే ముగింపులో ఉన్నందున ఇది వచ్చింది.",
+      "summary_te": "శాన్-ఫ్రాన్సిస్కో ఆధారిత సంస్థ రైతుల నిరసనల గురించి ట్వీట్ చేసే కొన్ని హ్యాండిల్స్‌ను బ్లాక్ చేయడం మరియు అన్‌బ్లాక్ చేయడం అనే సమస్యపై భారత ప్రభుత్వం నుండి అందుతున్న ముగింపులో ఉన్నందున ఇది వచ్చింది.",
       "translated": true
     },
     {
@@ -883,7 +883,7 @@
       "category": "business",
       "language": "en",
       "title_te": "PLI పథకం కింద IT హార్డ్‌వేర్ తయారీకి ప్రభుత్వం రూ. 7,500 కోట్లను ఉంచవచ్చు",
-      "summary_te": "ఈ పథకం కింద ఇన్సెంటివ్‌ల కోసం చూస్తున్న విదేశీ కంపెనీలు నాలుగేళ్లలో రూ. 500 కోట్లు పెట్టుబడి పెట్టాల్సి రావచ్చని, దేశీయ సంస్థల థ్రెషోల్డ్ ఐదేళ్లకు రూ. 20 కోట్ల వరకు ఉంటుందని పేరు వెల్లడించడానికి ఇష్టపడని వర్గాలు తెలిపాయి.",
+      "summary_te": "ఈ పథకం కింద ప్రోత్సాహకాల కోసం చూస్తున్న విదేశీ కంపెనీలు నాలుగేళ్లలో రూ. 500 కోట్లు పెట్టుబడి పెట్టాల్సి రావచ్చని, దేశీయ సంస్థల థ్రెషోల్డ్ ఐదేళ్లకు రూ. 20 కోట్ల వరకు ఉంటుందని పేరు వెల్లడించడానికి ఇష్టపడని వర్గాలు తెలిపాయి.",
       "translated": true
     },
     {
@@ -911,7 +911,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
