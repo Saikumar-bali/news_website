@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-12T20:34:58.721Z",
-  "last_updated_IST": "13/3/2026, 2:04:58 am",
+  "last_updated": "2026-03-12T21:34:14.194Z",
+  "last_updated_IST": "13/3/2026, 3:04:14 am",
   "total_articles": 378,
   "categories": [
     "tech",
@@ -11,18 +11,18 @@
     "andhra"
   ],
   "sources": [
-    "Wired",
     "Dev.to",
-    "The Hindu",
-    "Times of India",
-    "LiveMint",
     "India Today",
+    "The Hindu",
+    "LiveMint",
+    "Times of India",
+    "TechCrunch",
+    "Wired",
     "NDTV",
     "ESPNCricinfo",
     "The Verge",
     "NDTV India",
     "Inc42",
-    "TechCrunch",
     "Hindustan Times",
     "ZDNet",
     "The Hindu Telangana",
