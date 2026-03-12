@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T03:41:31.740Z",
-  "updated_at_IST": "12/3/2026, 9:11:31 am",
+  "updated_at": "2026-03-12T05:24:03.891Z",
+  "updated_at_IST": "12/3/2026, 10:54:03 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "f05e7dffdaf299b187138b895241fbd6",
+      "title": "Lisa Keightley 'disappointed' at lack of female head coaches in women's Hundred",
+      "summary": "MI London head coach was the only woman in her role among the eight teams at Wednesday's historic auction",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527719.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414627.jpg",
+      "published_at": "2026-03-12T03:51:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
+      "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
+      "translated": true
+    },
     {
       "id": "d45135e6e59db66bd744c0f1c63e2577",
       "title": "Patterson reflects on 'wild' day after New South Wales seize their chance",
@@ -16,20 +30,6 @@
       "language": "en",
       "title_te": "న్యూ సౌత్ వేల్స్ తమ అవకాశాన్ని చేజిక్కించుకున్న తర్వాత ప్యాటర్సన్ 'వైల్డ్' రోజును ప్రతిబింబిస్తుంది",
       "summary_te": "వన్-డే కప్ ఫైనల్ రద్దు కావడానికి కేవలం నిమిషాల్లోనే టాస్మానియా టైటిల్‌ను అందజేసేది",
-      "translated": true
-    },
-    {
-      "id": "f05e7dffdaf299b187138b895241fbd6",
-      "title": "Lisa Keightley 'disappointed' at lack of female head coaches in women's Hundred",
-      "summary": "MI London head coach was the only woman in her role among the eight teams at Wednesday's historic auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527719.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414627.jpg",
-      "published_at": "2026-03-11T23:01:22.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
-      "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
     {
