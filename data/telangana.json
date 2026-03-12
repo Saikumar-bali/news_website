@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-12T08:40:33.597Z",
-  "updated_at_IST": "12/3/2026, 2:10:33 pm",
+  "updated_at": "2026-03-12T09:45:18.318Z",
+  "updated_at_IST": "12/3/2026, 3:15:18 pm",
   "category": "telangana",
-  "count": 24,
+  "count": 23,
   "articles": [
+    {
+      "id": "82eb4e21dced44a8d60ff67bb1303341",
+      "title": "The crisis of the Left in Telangana",
+      "summary": "The CPI (M) needs to find a way to convert its ground-level support to votes",
+      "url": "https://www.thehindu.com/opinion/op-ed/the-crisis-of-the-left-in-telangana/article70732466.ece",
+      "image": "https://th-i.thgim.com/public/incoming/a28zt6/article67748422.ece/alternates/LANDSCAPE_1200/MEMAU_7_2_2021_15_38_17_2_1001.JPG",
+      "published_at": "2026-03-12T07:04:40.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "తెలంగాణలో వామపక్షాల సంక్షోభం",
+      "summary_te": "సీపీఐ (ఎం) తన గ్రౌండ్‌ లెవల్‌ మద్దతును ఓట్‌గా మార్చుకునే మార్గాన్ని వెతకాలి",
+      "translated": true
+    },
+    {
+      "id": "6ad1adfb3855520cf46a2c088f40caaa",
+      "title": "Telangana | Toll-free 1967 to report LPG supply issues",
+      "summary": "Telangana Civil Supplies Department Enforcement Wing seized 22 domestic cylinders, 25 small cylinders, and multiple gas refilling devices during searches conducted in Warangal, Hanumakonda and Karmanghat of Hyderabad on Monday. The crackdown was launched against illegal diversion and pilferage of domestic LPG cylinders. The officials urged people not to overbook LPG cylinders. People can dial the department’s toll-free number 1967 if they experience issues pertaining to LPG cylinders, illegal commercial use, or other aspects related to Civil Supplies.",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-toll-free-1967-to-report-lpg-issues/article70732108.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mbi3sn/article70733887.ece/alternates/LANDSCAPE_1200/liquified%20petroleum%20gas%20LPG%20cylinders%2016.jpg",
+      "published_at": "2026-03-12T06:36:30.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "తెలంగాణ | LPG సరఫరా సమస్యలను నివేదించడానికి టోల్-ఫ్రీ 1967",
+      "summary_te": "తెలంగాణ పౌరసరఫరాల శాఖ ఎన్‌ఫోర్స్‌మెంట్ వింగ్ సోమవారం హైదరాబాద్‌లోని వరంగల్, హనుమకొండ, కర్మన్‌ఘాట్‌లో నిర్వహించిన సోదాల్లో 22 డొమెస్టిక్ సిలిండర్లు, 25 చిన్న సిలిండర్లు, బహుళ గ్యాస్ రీఫిల్లింగ్ పరికరాలను స్వాధీనం చేసుకున్నారు. డొమెస్టిక్ ఎల్‌పిజి సిలిండర్ల అక్రమ దారి మళ్లింపు మరియు దోపిడీకి వ్యతిరేకంగా అణిచివేత ప్రారంభించబడింది. ఎల్‌పిజి సిలిండర్‌లను ఓవర్‌బుక్ చేయవద్దని అధికారులు ప్రజలను కోరారు. ప్రజలు LPG సిలిండర్‌లు, అక్రమ వాణిజ్య వినియోగం లేదా పౌర సరఫరాలకు సంబంధించిన ఇతర అంశాలకు సంబంధించిన సమస్యలను ఎదుర్కొంటే డిపార్ట్‌మెంట్ యొక్క టోల్-ఫ్రీ నంబర్ 1967కు డయల్ చేయవచ్చు.",
+      "translated": true
+    },
+    {
+      "id": "af868b9d0b40bda8cc4c43973c395888",
+      "title": "Two students heading to exam killed in Shamshabad hit-and-run accident",
+      "summary": "Two students who were on their way to take an Intermediate examination were killed in a hit-and-run accident on Thursday (March 12, 2026) morning.The victims were identified as 22-year-old Bikki , and 17-year-old Suraj, a student. Both were residents of Kothur in Rangareddy district and originally hailed from Bihar and Uttar Pradesh respectively.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-students-heading-to-exam-killed-in-shamshabad-hit-and-run-accident/article70733964.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-12T06:30:16.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "శంషాబాద్‌లో పరీక్షకు వెళ్తున్న ఇద్దరు విద్యార్థులు ఢీకొని మృతి చెందారు",
+      "summary_te": "గురువారం (మార్చి 12, 2026) ఉదయం ఇంటర్మీడియట్ పరీక్ష రాయడానికి వెళుతున్న ఇద్దరు విద్యార్థులు హిట్ అండ్ రన్ ప్రమాదంలో మరణించారు. బాధితులను 22 ఏళ్ల బిక్కి మరియు 17 ఏళ్ల సూరజ్, విద్యార్థిగా గుర్తించారు. వీరిద్దరూ రంగారెడ్డి జిల్లాలోని కొత్తూరు వాసులు మరియు వాస్తవానికి వరుసగా బీహార్ మరియు ఉత్తరప్రదేశ్‌కు చెందినవారు.",
+      "translated": true
+    },
     {
       "id": "b3b875894cc0dd12f2b4af6edb509151",
       "title": "Announce ₹3 lakh for each family, construct houses on same land: KTR on Velugumatla houses demolitions",
@@ -30,20 +72,6 @@
       "language": "en",
       "title_te": "అపరిశుభ్రమైన పరిస్థితుల్లో కల్తీ అల్లం పేస్టును తయారు చేస్తున్న ఇద్దరిని హైదరాబాద్ పోలీసులు అరెస్ట్ చేశారు",
       "summary_te": "నిందితులు చెడిపోయిన ముడి పదార్థాలు మరియు రసాయనాలను ఉపయోగించి అపరిశుభ్రమైన పరిస్థితులలో అల్లం పేస్ట్‌ను తయారు చేశారని ఆరోపించారు.",
-      "translated": true
-    },
-    {
-      "id": "6ad1adfb3855520cf46a2c088f40caaa",
-      "title": "Telangana | Toll-free 1967 to report LPG issues",
-      "summary": "Telangana Civil Supplies Department Enforcement Wing seized 22 domestic cylinders, 25 small cylinders, and multiple gas refilling devices during searches conducted in Warangal, Hanumakonda and Karmanghat of Hyderabad on Monday. The crackdown was launched against illegal diversion and pilferage of domestic LPG cylinders. The officials urged people not to overbook LPG cylinders. People can dial the department’s toll-free number 1967 if they experience issues pertaining to LPG cylinders, illegal commercial use, or other aspects related to Civil Supplies.",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-toll-free-1967-to-report-lpg-issues/article70732108.ece",
-      "image": "https://th-i.thgim.com/public/incoming/mbi3sn/article70733887.ece/alternates/LANDSCAPE_1200/liquified%20petroleum%20gas%20LPG%20cylinders%2016.jpg",
-      "published_at": "2026-03-12T05:18:05.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "తెలంగాణ | LPG సమస్యలను నివేదించడానికి టోల్-ఫ్రీ 1967",
-      "summary_te": "తెలంగాణ పౌరసరఫరాల శాఖ ఎన్‌ఫోర్స్‌మెంట్ వింగ్ సోమవారం హైదరాబాద్‌లోని వరంగల్, హనుమకొండ, కర్మన్‌ఘాట్‌లో నిర్వహించిన సోదాల్లో 22 డొమెస్టిక్ సిలిండర్లు, 25 చిన్న సిలిండర్లు, బహుళ గ్యాస్ రీఫిల్లింగ్ పరికరాలను స్వాధీనం చేసుకున్నారు. డొమెస్టిక్ ఎల్‌పిజి సిలిండర్ల అక్రమ దారి మళ్లింపు మరియు దోపిడీకి వ్యతిరేకంగా అణిచివేత ప్రారంభించబడింది. ఎల్‌పిజి సిలిండర్‌లను ఓవర్‌బుక్ చేయవద్దని అధికారులు ప్రజలను కోరారు. ప్రజలు LPG సిలిండర్‌లు, అక్రమ వాణిజ్య వినియోగం లేదా పౌర సరఫరాలకు సంబంధించిన ఇతర అంశాలకు సంబంధించిన సమస్యలను ఎదుర్కొంటే డిపార్ట్‌మెంట్ యొక్క టోల్-ఫ్రీ నంబర్ 1967కు డయల్ చేయవచ్చు.",
       "translated": true
     },
     {
@@ -100,20 +128,6 @@
       "language": "en",
       "title_te": "మూడో డిస్కమ్ ఏర్పాటు ప్రక్రియ ప్రారంభమైంది",
       "summary_te": "హైదరాబాద్, రాష్ట్ర ప్రభుత్వం బుధవారం ఉత్తర్వులు జారీ చేయడం ద్వారా మూడవ డిస్కమ్ - తెలంగాణ రైతు పవర్ డిస్ట్రిబ్యూషన్ కంపెనీ లిమిటెడ్ (TGRPDCL) స్థాపన ప్రక్రియను ప్రారంభించింది. సదరన్ డిస్కమ్ (TGSPDCL) నుండి ముషారఫ్ అలీ ఫరూఖీని కొత్త డిస్కామ్‌కి మార్చడం ద్వారా కొత్త డిస్కామ్‌కి ఇది ఇప్పటికే ఛైర్మన్ మరియు మేనేజింగ్ డైరెక్టర్‌గా పేరు పెట్టింది. ప్రభుత్వ ఆదేశానుసారం, కొత్త డిస్కామ్‌ని రైతు డిస్కామ్‌గా పిలవబడుతుంది, విద్యుత్ సరఫరా మరియు పంపిణీ వ్యాపారం, ఎలక్ట్రిక్ కొనుగోలు, అమ్మకం, దిగుమతి మరియు పంపిణీ వ్యవస్థతో సహా - ఎలక్ట్రిక్ ఎగుమతి, అమ్మకం, దిగుమతి మరియు పంపిణీ వ్యవస్థ. సుంకం ఖరారు, బిల్లింగ్ మరియు వాటి సేకరణ. ఇంకా, వ్యవసాయం, లిఫ్ట్ ఇరిగేషన్ పథకాలు (LIS), మిశ్రమ రక్షిత నీటి సరఫరా పథకాలు/మిషన్ భగీరథ, హైదరాబాద్ మెట్రోపాలిటన్ వాటర్ సప్లై అండ్ సీవరేజ్ బోర్డ్ (HMWSSB) మరియు మునిసిపల్ వాటర్ సప్లయ్ బోర్డ్ (HMWSSB) మరియు మునిసిపల్ నీటి కనెక్షన్లు (ప్రత్యేకమైన విద్యుత్ సరఫరా కేటగిరీలు, పురపాలక భాగస్వామ్య వర్గాల నుండి అందించడం) వంటి వర్గాల కోసం అటువంటి వ్యాపారాన్ని కొనసాగించడానికి ఏదైనా ఒప్పందాలను కుదుర్చుకుంటుంది. కొత్త డిస్కమ్ విద్యుత్ కొనుగోలు ఒప్పందం (PPA) వాటా కేటాయింపు, కొత్త వ్యవసాయ కనెక్షన్‌ల ఆన్‌బోర్డింగ్, ఆస్తుల నిర్వహణ మరియు నిర్వహణ (DTRలు మరియు LT లైన్లు), DTR మీటరింగ్ ద్వారా వినియోగించే శక్తిని లెక్కించడం మరియు లిఫ్ట్ ఇరిగేషన్ కోసం వినియోగదారు మీటరింగ్, CPWS మరియు HMWSSB, దాని నియంత్రణ డైరెక్టర్లను నియమించింది. కొత్త డిస్కమ్ - వి. తిరుపతి రెడ్డి (ఫైనాన్స్), పి. కృష్ణా రెడ్డి (రెవెన్యూ & లీగల్), వి. మోహన్ రావు (ప్రాజెక్ట్‌లు) మరియు ఎన్. నరసింహులు (ఆపరేషన్, పర్సనల్, ఎనర్జీ ఆడిట్ మరియు ఇతరులు). TGRPDCLకి అవసరమైన కార్యాచరణ మరియు పరిపాలనా సిబ్బంది డిప్యూటేషన్, రిక్రూట్‌మెంట్ మరియు ఔట్‌సోర్సింగ్‌పై ఉంటారు. కొత్త డిస్కామ్ ఏప్రిల్ 1 నుండి పని చేస్తుంది మరియు ప్రస్తుతానికి దాని కార్యాలయం మింట్ కాంపౌండ్‌లోని TGSPDCL కార్పొరేట్ కార్యాలయంలోని బ్లాక్-బిలో ఉంటుంది. వ్యవసాయ రంగానికి విద్యుత్ సరఫరాపై దృష్టి కేంద్రీకరించడం, సేవా సామర్థ్యాన్ని మెరుగుపరచడం మరియు రాష్ట్రవ్యాప్తంగా ఉన్న రైతులకు మెరుగైన మరియు మరింత విశ్వసనీయమైన సేవలను అందించడం ప్రభుత్వం లక్ష్యం.",
-      "translated": true
-    },
-    {
-      "id": "82eb4e21dced44a8d60ff67bb1303341",
-      "title": "The crisis of the Left in Telangana",
-      "summary": "The CPI (M) needs to find a way to convert its ground-level support to votes",
-      "url": "https://www.thehindu.com/opinion/op-ed/the-crisis-of-the-left-in-telangana/article70732466.ece",
-      "image": "https://th-i.thgim.com/public/incoming/a28zt6/article67748422.ece/alternates/LANDSCAPE_1200/MEMAU_7_2_2021_15_38_17_2_1001.JPG",
-      "published_at": "2026-03-11T18:40:38.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "తెలంగాణలో వామపక్షాల సంక్షోభం",
-      "summary_te": "సీపీఐ (ఎం) తన గ్రౌండ్‌ లెవల్‌ మద్దతును ఓట్‌గా మార్చుకునే మార్గాన్ని వెతకాలి",
       "translated": true
     },
     {
@@ -310,34 +324,6 @@
       "language": "en",
       "title_te": "ఎక్కువ కాలం నిల్వ ఉంచిన పప్పును తాజాగా విక్రయిస్తున్న మాంసం వ్యాపారిని హైదరాబాద్ పోలీసులు అరెస్ట్ చేశారు",
       "summary_te": "41 ఏళ్ల మాంసం వ్యాపారిని మంగళ్‌హాట్ పోలీసులు అరెస్టు చేశారు, ఎక్కువ కాలం నిల్వ ఉంచిన మరియు అపరిశుభ్రమైన మేక మరియు గొర్రెలను తాజాది అని తప్పుడు చెబుతూ వినియోగదారులకు విక్రయిస్తున్నారు. మంగళ్‌హాట్‌లోని అమర్ నగర్ కాలనీలో నివసిస్తున్న నిందితుడు మహ్మద్ అఫ్రోజ్‌ను మార్చి 10న మంగల్‌కొండ, మంగల్‌కొండ పోలీసు బృందం సంయుక్తంగా నిర్వహించిన దాడిలో పట్టుకున్నారు. గ్రేటర్ హైదరాబాద్ మున్సిపల్ కార్పొరేషన్ (GHMC).",
-      "translated": true
-    },
-    {
-      "id": "581b4aa32f91f5cc0112d6523c70c48c",
-      "title": "Two minors detained in Miyapur bicycle theft cases, nine cycles recovered",
-      "summary": "Two minor boys were taken into custody by the Miyapur police in connection with a series of bicycle thefts reported from apartment complexes in the Mathrusri Nagar area and recovered nine stolen bicycles from them.Police said the thefts had been reported from several apartments in the locality in recent weeks. During the investigation, officers collected and analysed CCTV footage from cameras installed in the colony, which helped them identify the two boys involved in the thefts.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-minors-detained-in-miyapur-bicycle-theft-cases-nine-cycles-recovered/article70731379.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-11T14:13:33.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "మియాపూర్ సైకిల్ చోరీ కేసుల్లో ఇద్దరు మైనర్లు అదుపులోకి, తొమ్మిది సైకిళ్లు స్వాధీనం",
-      "summary_te": "మాతృశ్రీ నగర్ ప్రాంతంలోని అపార్ట్‌మెంట్ కాంప్లెక్స్‌లలో వరుస సైకిళ్ల చోరీలకు సంబంధించి ఇద్దరు మైనర్ బాలురను మియాపూర్ పోలీసులు అదుపులోకి తీసుకున్నారు మరియు వారి నుండి తొమ్మిది దొంగిలించిన సైకిళ్లను స్వాధీనం చేసుకున్నారు. ఇటీవలి వారాల్లో ఈ ప్రాంతంలోని అనేక అపార్ట్‌మెంట్లలో దొంగతనాలు నమోదయ్యాయని పోలీసులు తెలిపారు. విచారణలో, అధికారులు కాలనీలో అమర్చిన కెమెరాల నుండి సిసిటివి ఫుటేజీని సేకరించి విశ్లేషించారు, ఇది దొంగతనాలకు పాల్పడిన ఇద్దరు అబ్బాయిలను గుర్తించడంలో వారికి సహాయపడింది.",
-      "translated": true
-    },
-    {
-      "id": "15df3b7104fb78b1c71e8ef2ec4e35ab",
-      "title": "AI-powered Anganwadi centre launched in Hyderabad to enhance early childhood learning",
-      "summary": "An Anganwadi centre located in Esamia Bazar locality of Hyderabad has been transformed into an AI-augmented learning space aimed at improving early childhood education through technology-enabled teaching and play-based development. The initiative, started on a pilot basis at a single centre, combines artificial intelligence tools, interactive learning materials and redesigned physical infrastructure to support holistic development among young children. The centre was inaugurated by Panchayat Raj and Rural Development Minister Danasari Anasuya (Seethakka) on Tuesday.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/ai-powered-anganwadi-centre-launched-in-hyderabad-to-enhance-early-childhood-learning/article70727041.ece",
-      "image": "https://th-i.thgim.com/public/incoming/12c4ov/article70727429.ece/alternates/LANDSCAPE_1200/IMG-20260310-WA0037.jpg",
-      "published_at": "2026-03-11T14:08:49.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "బాల్య విద్యను మెరుగుపరచడానికి AI ఆధారిత అంగన్‌వాడీ కేంద్రం హైదరాబాద్‌లో ప్రారంభించబడింది",
-      "summary_te": "హైదరాబాద్‌లోని ఇసామియా బజార్ ప్రాంతంలో ఉన్న ఒక అంగన్‌వాడీ కేంద్రం సాంకేతిక పరిజ్ఞానంతో కూడిన బోధన మరియు ఆట-ఆధారిత అభివృద్ధి ద్వారా బాల్య విద్యను మెరుగుపరచడానికి ఉద్దేశించిన AI-అగ్మెంటెడ్ లెర్నింగ్ స్పేస్‌గా మార్చబడింది. ఒకే కేంద్రంలో పైలట్ ప్రాతిపదికన ప్రారంభించబడిన ఈ చొరవ, కృత్రిమ మేధస్సు సాధనాలు, ఇంటరాక్టివ్ లెర్నింగ్ మెటీరియల్స్ మరియు చిన్న పిల్లలలో సమగ్ర అభివృద్ధికి తోడ్పడేందుకు రీడిజైన్ చేయబడిన భౌతిక మౌలిక సదుపాయాలను మిళితం చేస్తుంది. ఈ కేంద్రాన్ని పంచాయతీరాజ్, గ్రామీణాభివృద్ధి శాఖ మంత్రి దనసరి అనసూయ (సీతక్క) మంగళవారం ప్రారంభించారు.",
       "translated": true
     }
   ]

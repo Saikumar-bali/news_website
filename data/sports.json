@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T08:40:33.597Z",
-  "updated_at_IST": "12/3/2026, 2:10:33 pm",
+  "updated_at": "2026-03-12T09:45:18.318Z",
+  "updated_at_IST": "12/3/2026, 3:15:18 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "d9bf663617b538ace8a8e9f73e9afaaf",
+      "title": "Pakistan look to raise their game as Bangladesh target quick series win",
+      "summary": "Bangladesh played a flawless game in the first ODI, and Pakistan, who fielded four debutant batters there, might want to bring Haris Rauf in to strengthen their bowling attack",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527752.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
+      "published_at": "2026-03-12T08:57:01.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "translated": true
+    },
     {
       "id": "fde26af948112ee7f58befc9a7a7a30c",
       "title": "Karnataka government-appointed experts to conduct final Chinnaswamy inspection on March 13",
@@ -29,7 +43,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
       "translated": true
     },
     {
@@ -56,7 +70,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
@@ -127,7 +141,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
       "translated": true
     },
     {
@@ -336,22 +350,8 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుజ్జీవనానికి నాయకత్వం వహించే బాధ్యతను కాసన్ తీసుకున్నాడు",
+      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
       "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
-      "translated": true
-    },
-    {
-      "id": "9073d53a8422c52be0b8813bc7f35374",
-      "title": "Arshdeep Singh fined, handed demerit point for incident with Daryl Mitchell",
-      "summary": "The incident occurred in the 11th over of NZ's chase in the final, when Arshdeep threw the ball towards the stumps, striking Daryl Mitchell on the pads",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527544.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414551.jpg",
-      "published_at": "2026-03-10T11:36:07.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డారిల్ మిచెల్‌తో జరిగిన ఘటనలో అర్ష్‌దీప్ సింగ్‌కు జరిమానా, డీమెరిట్ పాయింట్‌ను విధించారు",
-      "summary_te": "ఫైనల్‌లో NZ యొక్క ఛేజింగ్‌లో 11వ ఓవర్‌లో, అర్ష్‌దీప్ బంతిని స్టంప్స్ వైపు విసిరినప్పుడు, డారిల్ మిచెల్‌ను ప్యాడ్‌లపై కొట్టడంతో ఈ సంఘటన జరిగింది.",
       "translated": true
     }
   ]
