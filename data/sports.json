@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T14:53:49.851Z",
-  "updated_at_IST": "12/3/2026, 8:23:49 pm",
+  "updated_at": "2026-03-12T15:59:11.138Z",
+  "updated_at_IST": "12/3/2026, 9:29:11 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "40b769009b9cb6aa4aaba38a98d72d26",
+      "title": "If England win T20 World Cup, women's Hundred will change hugely, says Malolan Rangarajan",
+      "summary": "\"You will have a lot more girls and parents encouraging them, 'Come watch the game!',\" says the London Spirit assistant coach",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527783.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414641.jpg",
+      "published_at": "2026-03-12T15:36:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "టీ20 ప్రపంచకప్‌ను ఇంగ్లండ్‌ గెలిస్తే మహిళల సెంచరీ భారీగా మారుతుందని మలోలన్‌ రంగరాజన్‌ అన్నారు.",
+      "summary_te": "\"మీకు చాలా మంది అమ్మాయిలు మరియు తల్లిదండ్రులు వారిని ప్రోత్సహిస్తారు, 'రండి గేమ్ చూడండి!',\" అని లండన్ స్పిరిట్ అసిస్టెంట్ కోచ్ చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "0e7659a0d663336cb3268498e7670240",
       "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
@@ -57,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -98,7 +112,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
@@ -281,7 +295,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
-      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
+      "summary_te": "పాకిస్తాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కలయికను ప్రయత్నించడానికి సిద్ధంగా ఉంది",
       "translated": true
     },
     {
@@ -309,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పింక్ బాల్ యాషెస్ టెస్టు ఇప్పటికీ క్రికెట్ ఆస్ట్రేలియా ప్రణాళికల్లో భాగం",
-      "summary_te": "వచ్చే మార్చిలో 150వ వార్షికోత్సవ టెస్టు డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
+      "summary_te": "వచ్చే మార్చిలో జరిగే 150వ వార్షికోత్సవ టెస్ట్ డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "దక్షిణాఫ్రికాతో జరిగే T20I సిరీస్‌లో కెప్టెన్సీ బాధ్యతలను సాంట్నర్, లాథమ్ పంచుకోనున్నారు",
       "summary_te": "జేడెన్ లెనాక్స్ మరియు కాటేన్ క్లార్క్ తొలి T20I కాల్-అప్‌లను సంపాదిస్తారు",
-      "translated": true
-    },
-    {
-      "id": "b63674be9988cce19813db7e4878271f",
-      "title": "Afridi focuses on the future as Pakistan go with new top order",
-      "summary": "After batting in different positions, Mehidy confirmed he will slot in at No. 7 for Bangladesh",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527546.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414585.jpg",
-      "published_at": "2026-03-10T16:02:19.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పాకిస్థాన్ కొత్త టాప్ ఆర్డర్‌తో వెళ్లడంతో అఫ్రిది భవిష్యత్తుపై దృష్టి సారించాడు",
-      "summary_te": "వివిధ స్థానాల్లో బ్యాటింగ్ చేసిన తర్వాత, బంగ్లాదేశ్ తరపున తాను 7వ స్థానంలో ఉంటానని మెహిదీ ధృవీకరించాడు",
       "translated": true
     }
   ]
