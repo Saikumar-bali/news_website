@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-12T09:45:18.318Z",
-  "updated_at_IST": "12/3/2026, 3:15:18 pm",
+  "updated_at": "2026-03-12T10:39:53.446Z",
+  "updated_at_IST": "12/3/2026, 4:09:53 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "77b72719d83e0a65ee45695d194226f0",
+      "title": "Thomas O'Connor upstages dad Shayne with 13-wicket haul",
+      "summary": "Thomas rewrote family history and Otago records, bagging a match haul of 13 wickets in the Plunket Shield",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527746.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414633.jpg",
+      "published_at": "2026-03-12T09:41:47.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "థామస్ ఓ'కానర్ 13 వికెట్లతో తన తండ్రి షేన్‌ను వేదికపైకి తెచ్చాడు",
+      "summary_te": "థామస్ కుటుంబ చరిత్ర మరియు ఒటాగో రికార్డులను తిరగరాశాడు, ప్లంకెట్ షీల్డ్‌లో 13 వికెట్ల మ్యాచ్ హాల్ సాధించాడు",
+      "translated": true
+    },
+    {
+      "id": "85dede184db85bfb8bf767cfd20368d5",
+      "title": "Handscomb finds a way in another season favouring bowlers",
+      "summary": "The Sheffield Shield has again been dominated by the bowlers, which continues a broader debate around the balance of the red-ball game in Australia",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527739.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414631.jpg",
+      "published_at": "2026-03-12T09:39:37.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "translated": true
+    },
     {
       "id": "d9bf663617b538ace8a8e9f73e9afaaf",
       "title": "Pakistan look to raise their game as Bangladesh target quick series win",
@@ -33,20 +61,6 @@
       "translated": true
     },
     {
-      "id": "85dede184db85bfb8bf767cfd20368d5",
-      "title": "Handscomb finds a way in another season favouring bowlers",
-      "summary": "The Sheffield Shield has again been dominated by the bowlers, which continues a broader debate around the balance of the red-ball game in Australia",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527739.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414631.jpg",
-      "published_at": "2026-03-12T06:46:48.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
-      "translated": true
-    },
-    {
       "id": "9c20ce1c23aabe6debf43a121ee6be47",
       "title": "Bim10 corruption: Javon Searles among three provisionally suspended",
       "summary": "Team owner Chitranjan Rathod and official Trevon Griffith also charged under anti-corruption codes",
@@ -70,7 +84,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
@@ -141,7 +155,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బంగ్లాదేశ్‌తో జరిగిన తొలి వన్డేలో పాకిస్థాన్ నలుగురు అరంగేట్రం ఆటగాళ్లను రంగంలోకి దించనుంది",
       "summary_te": "సాహిబ్జాదా ఫర్హాన్, షమీల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "f0ecfecd2c56dd52f8b2566832eba302",
-      "title": "Casson tasked with leading Western Australia's revival",
-      "summary": "The long-time assistant coach will step into Adam Voges shoes after signing a three-year deal",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527528.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414584.jpg",
-      "published_at": "2026-03-10T11:44:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
-      "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
       "translated": true
     }
   ]
