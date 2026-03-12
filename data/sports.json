@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T12:43:22.242Z",
-  "updated_at_IST": "12/3/2026, 6:13:22 pm",
+  "updated_at": "2026-03-12T14:07:49.141Z",
+  "updated_at_IST": "12/3/2026, 7:37:49 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0e7659a0d663336cb3268498e7670240",
+      "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
+      "summary": "Abrar becomes first Pakistan player bought by an Indian-owned team; Sussex allrounder James Coles goes for £390,000",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405784.jpg",
+      "published_at": "2026-03-12T13:41:44.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సన్‌రైజర్స్ లీడ్స్ హండ్రెడ్ వేలంలో పాకిస్థాన్ స్పిన్నర్ అబ్రార్ అహ్మద్‌తో ఒప్పందం చేసుకుంది",
+      "summary_te": "అబ్రార్ భారతదేశానికి చెందిన జట్టు కొనుగోలు చేసిన మొదటి పాకిస్తాన్ ఆటగాడు; ససెక్స్ ఆల్‌రౌండర్ జేమ్స్ కోల్స్ £390,000కి చేరాడు",
+      "translated": true
+    },
     {
       "id": "77b72719d83e0a65ee45695d194226f0",
       "title": "Thomas O'Connor upstages dad Shayne with 13-wicket haul",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "పాకిస్థాన్ కొత్త టాప్ ఆర్డర్‌తో వెళ్లడంతో అఫ్రిది భవిష్యత్తుపై దృష్టి సారించాడు",
       "summary_te": "వివిధ స్థానాల్లో బ్యాటింగ్ చేసిన తర్వాత, బంగ్లాదేశ్ తరపున తాను 7వ స్థానంలో ఉంటానని మెహిదీ ధృవీకరించాడు",
-      "translated": true
-    },
-    {
-      "id": "15fa55993c8ca45bb854728a7bb0617b",
-      "title": "Pakistan to field four debutants during first ODI against Bangladesh",
-      "summary": "Sahibzada Farhan, Shamyl Hussain, Abdul Samad and Maaz Sadaqat will put on a competitive Pakistan ODI shirt for the first time",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527603.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414219.jpg",
-      "published_at": "2026-03-10T16:00:47.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బంగ్లాదేశ్‌తో జరిగిన తొలి వన్డేలో పాకిస్థాన్ నలుగురు అరంగేట్రం ఆటగాళ్లను రంగంలోకి దించనుంది",
-      "summary_te": "సాహిబ్జాదా ఫర్హాన్, షమీల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
       "translated": true
     }
   ]
