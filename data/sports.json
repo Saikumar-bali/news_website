@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-12T06:50:51.264Z",
-  "updated_at_IST": "12/3/2026, 12:20:51 pm",
+  "updated_at": "2026-03-12T07:52:55.069Z",
+  "updated_at_IST": "12/3/2026, 1:22:55 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "fde26af948112ee7f58befc9a7a7a30c",
+      "title": "Karnataka government-appointed experts to conduct final Chinnaswamy inspection on March 13",
+      "summary": "An approval, which the KSCA expects to come through, will mean an official seal on the Bengaluru stadium to host IPL 2026 and other matches",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527745.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/275600/275679.jpg",
+      "published_at": "2026-03-12T07:16:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మార్చి 13న చిన్నస్వామి తుది తనిఖీకి కర్ణాటక ప్రభుత్వం నియమించిన నిపుణులు",
+      "summary_te": "IPL 2026 మరియు ఇతర మ్యాచ్‌లకు ఆతిథ్యం ఇవ్వడానికి బెంగళూరు స్టేడియంపై అధికారిక ముద్ర వేయబడిందని KSCA అంచనా వేసింది.",
+      "translated": true
+    },
+    {
+      "id": "85dede184db85bfb8bf767cfd20368d5",
+      "title": "Handscomb finds a way in another season favouring bowlers",
+      "summary": "The Sheffield Shield has again been dominated by the bowlers, which continues a broader debate around the balance of the red-ball game in Australia",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527739.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414631.jpg",
+      "published_at": "2026-03-12T06:46:48.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "translated": true
+    },
     {
       "id": "9c20ce1c23aabe6debf43a121ee6be47",
       "title": "Bim10 corruption: Javon Searles among three provisionally suspended",
@@ -99,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
       "translated": true
     },
     {
@@ -211,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
-      "summary_te": "పాకిస్తాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కలయికను ప్రయత్నించడానికి సిద్ధంగా ఉంది",
+      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
       "translated": true
     },
     {
@@ -239,7 +267,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పింక్ బాల్ యాషెస్ టెస్టు ఇప్పటికీ క్రికెట్ ఆస్ట్రేలియా ప్రణాళికల్లో భాగం",
-      "summary_te": "వచ్చే మార్చిలో జరిగే 150వ వార్షికోత్సవ టెస్ట్ డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
+      "summary_te": "వచ్చే మార్చిలో 150వ వార్షికోత్సవ టెస్టు డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
       "translated": true
     },
     {
@@ -295,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్‌తో జరిగిన తొలి వన్డేలో పాకిస్థాన్ నలుగురు అరంగేట్రం ఆటగాళ్లను రంగంలోకి దించనుంది",
-      "summary_te": "సాహిబ్జాదా ఫర్హాన్, షామిల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
+      "summary_te": "సాహిబ్జాదా ఫర్హాన్, షమీల్ హుస్సేన్, అబ్దుల్ సమద్ మరియు మాజ్ సదాకత్ తొలిసారిగా పోటీ పాకిస్థాన్ వన్డే షర్ట్‌ను ధరించనున్నారు.",
       "translated": true
     },
     {
@@ -308,7 +336,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుద్ధరణకు నాయకత్వం వహించే బాధ్యత కాసన్‌కు అప్పగించబడింది",
+      "title_te": "వెస్ట్రన్ ఆస్ట్రేలియా యొక్క పునరుజ్జీవనానికి నాయకత్వం వహించే బాధ్యతను కాసన్ తీసుకున్నాడు",
       "summary_te": "మూడు సంవత్సరాల ఒప్పందంపై సంతకం చేసిన తర్వాత దీర్ఘకాల అసిస్టెంట్ కోచ్ ఆడమ్ వోజెస్ షూస్‌లోకి అడుగుపెడతాడు",
       "translated": true
     },
@@ -323,35 +351,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "డారిల్ మిచెల్‌తో జరిగిన ఘటనలో అర్ష్‌దీప్ సింగ్‌కు జరిమానా, డీమెరిట్ పాయింట్‌ను విధించారు",
-      "summary_te": "ఫైనల్‌లో NZ ఛేజింగ్‌లో 11వ ఓవర్‌లో, అర్ష్‌దీప్ బంతిని స్టంప్స్ వైపు విసిరి, డారిల్ మిచెల్‌ను ప్యాడ్‌లపై కొట్టినప్పుడు ఈ సంఘటన జరిగింది.",
-      "translated": true
-    },
-    {
-      "id": "8ce35066781f6b8f1bdc3922360109d8",
-      "title": "Zimbabwe's Ndhlovu ruled out of third ODI after concussion scare",
-      "summary": "She is currently recovering and remains under medical observation following the incident",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527536.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414501.jpg",
-      "published_at": "2026-03-10T09:10:14.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కంకషన్ భయంతో జింబాబ్వే ఆటగాడు నధ్లోవు మూడో వన్డేకు దూరమయ్యాడు",
-      "summary_te": "ఆమె ప్రస్తుతం కోలుకుంది మరియు సంఘటన తర్వాత వైద్య పరిశీలనలో ఉంది",
-      "translated": true
-    },
-    {
-      "id": "b1f37f8074c7cf26b8b7ac798d54471b",
-      "title": "'I've almost rebirthed myself at 38' - Bates targets T20 World Cup after injury layoff",
-      "summary": "With Gaze set to retain her spot at the top, Bates is preparing for a new role in the middle order",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527525.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408414.jpg",
-      "published_at": "2026-03-10T08:40:14.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'నేను దాదాపు 38 సంవత్సరాల వయస్సులో పునర్జన్మ పొందాను' - గాయం తొలగింపు తర్వాత బేట్స్ T20 ప్రపంచ కప్‌ను లక్ష్యంగా చేసుకున్నాడు",
-      "summary_te": "గాజ్ అగ్రస్థానంలో తన స్థానాన్ని నిలుపుకోవడంతో, బేట్స్ మిడిల్ ఆర్డర్‌లో కొత్త పాత్ర కోసం సిద్ధమవుతున్నాడు",
+      "summary_te": "ఫైనల్‌లో NZ యొక్క ఛేజింగ్‌లో 11వ ఓవర్‌లో, అర్ష్‌దీప్ బంతిని స్టంప్స్ వైపు విసిరినప్పుడు, డారిల్ మిచెల్‌ను ప్యాడ్‌లపై కొట్టడంతో ఈ సంఘటన జరిగింది.",
       "translated": true
     }
   ]

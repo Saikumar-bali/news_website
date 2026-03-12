@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-12T06:50:51.264Z",
-  "updated_at_IST": "12/3/2026, 12:20:51 pm",
+  "updated_at": "2026-03-12T07:52:55.069Z",
+  "updated_at_IST": "12/3/2026, 1:22:55 pm",
   "category": "business",
-  "count": 65,
+  "count": 50,
   "articles": [
+    {
+      "id": "f4d9c1ad5ee883b710ae51ac97bd6441",
+      "title": "‘Salesman was obnoxious, rude’: Vir Sanghvi scorns snobbish staff at Delhi's luxury stores in Vasant Kunj mall",
+      "summary": "Indian journalist Vir Sanghvi criticized the snobbish behaviour of salespeople at luxury stores in Delhi. He questioned the superiority complex of employees working for foreign brands, sparking a debate on social media about customer treatment in luxury retail.&nbsp;",
+      "url": "https://www.livemint.com/news/trends/salesman-was-obnoxious-rude-vir-sanghvi-scorns-snobbish-staff-at-delhis-luxury-stores-in-vasant-kunj-mall-11773297004770.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/kk_1773299885078_1773299885305.jpeg",
+      "published_at": "2026-03-12T07:32:44.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘సేల్స్ మాన్ అసహ్యంగా, మొరటుగా ఉన్నాడు’: ఢిల్లీలోని వసంత్ కుంజ్ మాల్‌లోని లగ్జరీ స్టోర్స్‌లో స్నోబిష్ సిబ్బందిని వీర్ సంఘ్వి అవమానించాడు",
+      "summary_te": "ఢిల్లీలోని లగ్జరీ స్టోర్స్‌లో సేల్‌స్పెప్‌ల అసభ్య ప్రవర్తనను భారతీయ జర్నలిస్టు వీర్ సంఘ్వి విమర్శించారు. విలాసవంతమైన రిటైల్‌లో కస్టమర్ ట్రీట్‌మెంట్ గురించి సోషల్ మీడియాలో చర్చకు దారితీసిన అతను విదేశీ బ్రాండ్‌ల కోసం పనిచేస్తున్న ఉద్యోగుల సుపీరియోరిటీ కాంప్లెక్స్‌ను ప్రశ్నించారు. ",
+      "translated": true
+    },
+    {
+      "id": "c8306d94723e2d3fca1bdabce55dafad",
+      "title": "How much does a LPG cylinder cost today? Check rates in your city — Delhi, Mumbai, Kolkata, Bengaluru",
+      "summary": "LPG cylinder prices in India have surged amid supply disruptions from geopolitical tensions, fueling a black market. Details here.",
+      "url": "https://www.livemint.com/news/india/how-much-does-a-lpg-cylinder-cost-today-check-rates-in-your-city-delhi-mumbai-kolkata-bengaluru-11773295352748.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/LPG_1773299910029_1773299910242.jpg",
+      "published_at": "2026-03-12T07:19:01.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈ రోజు LPG సిలిండర్ ధర ఎంత? మీ నగరంలో ధరలను తనిఖీ చేయండి — ఢిల్లీ, ముంబై, కోల్‌కతా, బెంగళూరు",
+      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతల నుండి సరఫరా అంతరాయాల మధ్య భారతదేశంలో LPG సిలిండర్ ధరలు పెరిగాయి, బ్లాక్ మార్కెట్‌కు ఆజ్యం పోసింది. వివరాలు ఇక్కడ.",
+      "translated": true
+    },
+    {
+      "id": "6d85be14f561d1736c4729c70b4eda52",
+      "title": "Iran-US war: Citi, StanChart evacuate Dubai offices; HSBC shuts Qatar branches",
+      "summary": "Citigroup and Standard Chartered are evacuating their Dubai offices and asking staff to work from home, following threats from Iran to target Gulf banking interests.&nbsp;",
+      "url": "https://www.livemint.com/news/world/iranus-war-citi-stanchart-evacuate-dubai-offices-hsbc-shuts-qatar-branches-11773294203774.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/IRAN-CRISIS-GULF-BANKS-0_1773295568150_1773295579237.JPG",
+      "published_at": "2026-03-12T06:38:59.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్-యుఎస్ యుద్ధం: సిటీ, స్టాన్‌చార్ట్ దుబాయ్ కార్యాలయాలను ఖాళీ చేయడం; HSBC ఖతార్ శాఖలను మూసివేసింది",
+      "summary_te": "గల్ఫ్ బ్యాంకింగ్ ప్రయోజనాలను లక్ష్యంగా చేసుకునేందుకు ఇరాన్ నుండి వచ్చిన బెదిరింపులను అనుసరించి సిటీ గ్రూప్ మరియు స్టాండర్డ్ చార్టర్డ్ తమ దుబాయ్ కార్యాలయాలను ఖాళీ చేసి సిబ్బందిని ఇంటి నుండి పని చేయమని అడుగుతున్నాయి. ",
+      "translated": true
+    },
     {
       "id": "37b788ff301ac7ae36a59d6dea51d724",
       "title": "Who is Farman Khan? Viral 'Mahakumbh' girl Monalisa marries boyfriend at Kerala temple amid police protection",
@@ -43,49 +85,35 @@
       "category": "business",
       "language": "en",
       "title_te": "తల్లిదండ్రుల ఆదాయం మాత్రమే OBC క్రీమీ లేయర్ స్థితిని నిర్ణయించదని SC చెప్పింది: 'కృత్రిమ వ్యత్యాసాన్ని సృష్టించడం కాదు...'",
-      "summary_te": "OBC క్రీమీ లేయర్ హోదాను కేవలం తల్లిదండ్రుల ఆదాయంపై మాత్రమే నిర్ణయించలేమని, రిజర్వేషన్ అర్హత కోసం ప్రభుత్వోద్యోగుల కంటే PSU మరియు ప్రైవేట్ రంగ ఉద్యోగుల పిల్లలను భిన్నంగా చూడడం శత్రు వివక్షకు సమానమని సుప్రీం కోర్టు తీర్పునిచ్చింది.",
+      "summary_te": "OBC క్రీమీ లేయర్ హోదాను కేవలం తల్లిదండ్రుల ఆదాయంపై మాత్రమే నిర్ణయించలేమని, రిజర్వేషన్ అర్హత కోసం ప్రభుత్వోద్యోగులకు భిన్నంగా PSU మరియు ప్రైవేట్ రంగ ఉద్యోగుల పిల్లలను చూడటం శత్రు వివక్షకు సమానమని సుప్రీం కోర్టు తీర్పునిచ్చింది.",
       "translated": true
     },
     {
       "id": "2dbac2e5cfdac16c271bd2bd70c651dc",
-      "title": "Supreme Court grants bail to Kashmiri separatist leader Shabir Ahmed Shah in terror funding case",
+      "title": "Who is Shabir Ahmed Shah? Supreme Court grants bail to Kashmiri separatist leader in terror funding case",
       "summary": "The Supreme Court has granted bail to Kashmiri separatist leader Shabir Ahmed Shah in a case related to terror funding.",
       "url": "https://www.livemint.com/news/india/supreme-court-grants-bail-to-kashmiri-separatist-leader-shabir-ahmed-shah-in-terror-funding-case-11773295697547.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/Supreme-Court-3_1770271910541_1770271928968_1773295985944.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/shabirsht-k2sF-_1773297273377_1773297273534.jpg",
       "published_at": "2026-03-12T06:13:16.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఉగ్రవాదులకు నిధులు సమకూర్చిన కేసులో కాశ్మీరీ వేర్పాటువాద నేత షబీర్ అహ్మద్ షాకు సుప్రీంకోర్టు బెయిల్ మంజూరు చేసింది",
+      "title_te": "షబీర్ అహ్మద్ షా ఎవరు? ఉగ్రవాదానికి నిధులు సమకూర్చిన కేసులో కాశ్మీరీ వేర్పాటువాద నేతకు సుప్రీంకోర్టు బెయిల్ మంజూరు చేసింది",
       "summary_te": "ఉగ్రవాదులకు నిధులు సమకూర్చిన కేసులో కాశ్మీరీ వేర్పాటువాద నేత షబీర్ అహ్మద్ షాకు సుప్రీంకోర్టు బెయిల్ మంజూరు చేసింది.",
       "translated": true
     },
     {
-      "id": "51345861b49946d3bea5c5a660d51e20",
-      "title": "Amid market volatility, Neeraj Dewan sees opportunities in these three sectors",
-      "summary": "Indian stock markets face volatility due to geopolitical tensions and rising energy prices, disrupting recent stability. Despite caution, market expert Neeraj Dewan identifies selective long-term opportunities in sectors like energy, defensives, food delivery platforms, auto, and select PSU stocks, advising gradual accumulation on dips.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/amid-market-volatility-neeraj-dewan-sees-opportunities-in-these-three-sectors/articleshow/129494484.cms",
-      "image": null,
-      "published_at": "2026-03-12T06:12:37.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మార్కెట్ అస్థిరత మధ్య, నీరజ్ దేవాన్ ఈ మూడు రంగాలలో అవకాశాలను చూస్తున్నాడు",
-      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు పెరుగుతున్న ఇంధన ధరల కారణంగా భారతీయ స్టాక్ మార్కెట్లు అస్థిరతను ఎదుర్కొంటున్నాయి, ఇది ఇటీవలి స్థిరత్వానికి భంగం కలిగిస్తుంది. జాగ్రత్తగా ఉన్నప్పటికీ, మార్కెట్ నిపుణుడు నీరజ్ దేవాన్ ఎనర్జీ, డిఫెన్సివ్‌లు, ఫుడ్ డెలివరీ ప్లాట్‌ఫారమ్‌లు, ఆటో మరియు సెలెక్ట్ చేసిన PSU స్టాక్‌ల వంటి రంగాలలో ఎంపిక చేసిన దీర్ఘకాలిక అవకాశాలను గుర్తిస్తూ, డిప్స్‌లో క్రమంగా చేరడం గురించి సలహా ఇస్తున్నారు.",
-      "translated": true
-    },
-    {
       "id": "0d8247572b0a064d07cb94542d3075e1",
-      "title": "Saudi crude ship docks at Mumbai for the first time since US-Iran war broke out",
-      "summary": "A Liberian vessel carrying over 135,000 metric tonnes of Saudi crude has docked at Mumbai - the first India-bound tanker to complete the passage since US-Iran war began.",
+      "title": "Saudi crude vessel docks in Mumbai; first India‑bound tanker via Strait of Hormuz since US‑Iran war",
+      "summary": "A Liberian-flagged vessel carrying over 135,000 metric tonnes of Saudi crude has docked in Mumbai - the first India-bound tanker to transit the Strait of Hormuz since the US-Iran war began.",
       "url": "https://www.livemint.com/news/world/two-wins-for-indias-energy-supply-saudi-arabia-crude-ship-docks-at-mumbai-port-first-since-iran-war-11773292628757.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/EL-SALVADOR-ENERGY--3_1773294026827_1773294039518.JPG",
       "published_at": "2026-03-12T05:53:02.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "అమెరికా-ఇరాన్ యుద్ధం మొదలైన తర్వాత తొలిసారిగా సౌదీ క్రూడ్ షిప్ ముంబైలో దిగింది",
-      "summary_te": "135,000 మెట్రిక్ టన్నుల సౌదీ క్రూడ్‌ను తీసుకెళ్తున్న లైబీరియన్ నౌక ముంబైలో డాక్ చేయబడింది - US-ఇరాన్ యుద్ధం ప్రారంభమైన తర్వాత మార్గాన్ని పూర్తి చేసిన మొదటి భారతదేశానికి వెళ్లే ట్యాంకర్.",
+      "title_te": "ముంబైలో సౌదీ క్రూడ్ ఓడ రేవులు; యుఎస్-ఇరాన్ యుద్ధం తర్వాత హార్ముజ్ జలసంధి మీదుగా భారత్‌కు వెళ్లే మొదటి ట్యాంకర్",
+      "summary_te": "135,000 మెట్రిక్ టన్నుల సౌదీ క్రూడ్‌ని తీసుకెళ్తున్న లైబీరియన్ జెండాతో కూడిన ఓడ ముంబైలో చేరుకుంది - US-ఇరాన్ యుద్ధం ప్రారంభమైన తర్వాత హార్ముజ్ జలసంధిని రవాణా చేసిన మొదటి భారతదేశం-బౌండ్ ట్యాంకర్.",
       "translated": true
     },
     {
@@ -98,7 +126,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "‘ఈ యుద్ధాన్ని ముగించే ఏకైక మార్గం...’ ఇరాన్ అధ్యక్షుడు మసౌద్ పెజెష్కియాన్ అమెరికాతో సంధి కోసం కీలక డిమాండ్లను పునరుద్ఘాటించారు.",
+      "title_te": "‘ఈ యుద్ధాన్ని ముగించడానికి ఏకైక మార్గం...’ ఇరాన్ అధ్యక్షుడు మసౌద్ పెజెష్కియాన్ అమెరికాతో సంధి కోసం కీలక డిమాండ్లను పునరుద్ఘాటించారు.",
       "summary_te": "ఆపరేషన్ ఎపిక్ ఫ్యూరీని ప్రారంభించిన తరువాత, యుఎస్ మరియు ఇజ్రాయెల్ సైనిక విజయాలు ఉన్నప్పటికీ ఇరాన్ నాయకత్వాన్ని మార్చడానికి చాలా కష్టపడ్డాయి. కాల్పుల విరమణను కోరకూడదని ఇరాన్ పట్టుబట్టింది మరియు పెరుగుతున్న చమురు ధరల మధ్య గల్ఫ్ దేశాలు శాంతి కోసం ఒత్తిడి చేయడంతో ప్రాంతీయ ఉద్రిక్తతలు పెరుగుతాయి.",
       "translated": true
     },
@@ -113,7 +141,7 @@
       "category": "business",
       "language": "en",
       "title_te": "గ్లోబల్ మార్కెట్ | మార్కెట్ తదుపరి కదలికను ఏమి నిర్ణయించగలదో అనురాగ్ సింగ్",
-      "summary_te": "పెరుగుతున్న చమురు ధరలు మరియు పశ్చిమాసియా ఉద్రిక్తతలు మార్కెట్ అస్థిరతను సృష్టిస్తున్నాయి, పెట్టుబడిదారులు శక్తి ప్రవాహాలు మరియు భౌగోళిక రాజకీయ వ్యూహాన్ని చూస్తున్నారు. ఇరాన్ సామర్థ్యాలను కూల్చివేసి, హార్ముజ్ జలసంధిని సురక్షితం చేయడమే అమెరికా మరియు ఇజ్రాయెల్ లక్ష్యంగా పెట్టుకున్నాయని మార్కెట్ నిపుణుడు అనురాగ్ సింగ్ అభిప్రాయపడ్డారు. ఈక్విటీ మార్కెట్లు బలహీనమైన ఆదాయాలలో ధరను కలిగి ఉన్నాయి, అయితే అత్యవసర చమురు విడుదలలు తాత్కాలిక ఉపశమనాన్ని అందిస్తాయి.",
+      "summary_te": "పెరుగుతున్న చమురు ధరలు మరియు పశ్చిమాసియా ఉద్రిక్తతలు మార్కెట్ అస్థిరతను సృష్టిస్తున్నాయి, పెట్టుబడిదారులు శక్తి ప్రవాహాలు మరియు భౌగోళిక రాజకీయ వ్యూహాన్ని చూస్తున్నారు. ఇరాన్ సామర్థ్యాలను కూల్చివేసి హార్ముజ్ జలసంధిని సురక్షితం చేయడమే అమెరికా మరియు ఇజ్రాయెల్ లక్ష్యంగా పెట్టుకున్నాయని మార్కెట్ నిపుణుడు అనురాగ్ సింగ్ అభిప్రాయపడ్డారు. ఈక్విటీ మార్కెట్లు బలహీనమైన ఆదాయాలలో ధరను కలిగి ఉన్నాయి, అయితే అత్యవసర చమురు విడుదలలు తాత్కాలిక ఉపశమనాన్ని అందిస్తాయి.",
       "translated": true
     },
     {
@@ -127,7 +155,21 @@
       "category": "business",
       "language": "en",
       "title_te": "ఈరోజు మీ నగరంలో పెట్రోల్, డీజిల్ ధరలు: మార్చి 12న బెంగళూరు, ముంబై, ఢిల్లీ, హైదరాబాద్, చెన్నైలో ఇంధన ధరలను తనిఖీ చేయండి",
-      "summary_te": "అంతర్జాతీయంగా చమురు ధరలు పెరుగుతున్నప్పటికీ భారతదేశంలో పెట్రోలు మరియు డీజిల్ ధరలు మార్చి 12 న స్థిరంగా ఉన్నాయి. నగరాల వారీగా ధరలు మారుతూ ఉంటాయి, హైదరాబాద్ మరియు పాట్నా అధిక రేట్లను నమోదు చేస్తున్నాయి, ఢిల్లీ మరియు లక్నో రాష్ట్రాల పన్ను వ్యత్యాసాల కారణంగా తక్కువ ధరలను అందిస్తున్నాయి. ",
+      "summary_te": "అంతర్జాతీయంగా చమురు ధరలు పెరుగుతున్నప్పటికీ భారతదేశంలో పెట్రోలు మరియు డీజిల్ ధరలు మార్చి 12 న స్థిరంగా ఉన్నాయి. నగరాల వారీగా ధరలు మారుతూ ఉంటాయి, హైదరాబాద్ మరియు పాట్నా అధిక రేట్లను నమోదు చేస్తాయి, అయితే ఢిల్లీ మరియు లక్నోలు రాష్ట్రాల పన్ను వ్యత్యాసాల కారణంగా తక్కువ ధరలను అందిస్తున్నాయి. ",
+      "translated": true
+    },
+    {
+      "id": "86f80c7d8333851bfc79570e5bb70cba",
+      "title": "Jio IPO delay among 2 reasons why Jefferies cuts Bharti Airtel’s target price",
+      "summary": "Jefferies has cut its target price on Bharti Airtel to Rs 2,250 from Rs 2,575, citing a potential delay in the Reliance Jio IPO and concerns over Bharti’s entry into the NBFC business. The brokerage expects tariff hikes to be pushed to December 2026 but maintains a Buy rating, saying the stock still offers favourable risk-reward.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-delay-among-2-reasons-why-jefferies-cuts-bharti-airtels-target-price/articleshow/129492285.cms",
+      "image": null,
+      "published_at": "2026-03-12T04:52:42.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "Jio IPO ఆలస్యం భారతి ఎయిర్‌టెల్ లక్ష్య ధరను జెఫరీస్ తగ్గించడానికి 2 కారణాలలో ఒకటి",
+      "summary_te": "రిలయన్స్ జియో ఐపిఓలో జాప్యం మరియు ఎన్‌బిఎఫ్‌సి వ్యాపారంలోకి భారతి ప్రవేశంపై ఆందోళనలు కారణంగా జెఫరీస్ భారతీ ఎయిర్‌టెల్‌పై టార్గెట్ ధరను రూ.2,575 నుండి రూ.2,250కి తగ్గించింది. బ్రోకరేజ్ టారిఫ్ పెంపుదల డిసెంబర్ 2026కి నెట్టబడుతుందని అంచనా వేస్తుంది, అయితే స్టాక్ ఇప్పటికీ అనుకూలమైన రిస్క్-రివార్డ్‌ను అందిస్తుందని చెబుతూ కొనుగోలు రేటింగ్‌ను కొనసాగిస్తుంది.",
       "translated": true
     },
     {
@@ -154,7 +196,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "పెంటగాన్, పీట్ హెగ్‌సేత్ యొక్క 'అసహ్యకరమైన' ఫోటోల గురించి US-ఇరాన్ సంఘర్షణ బ్రీఫింగ్‌ల నుండి ఫోటోగ్రాఫర్‌లను నిరోధించినట్లు నివేదించబడింది.",
+      "title_te": "పీట్ హెగ్‌సేత్ యొక్క 'అసహ్యకరమైన' ఫోటోలపై US-ఇరాన్ సంఘర్షణ బ్రీఫింగ్‌ల నుండి ఫోటోగ్రాఫర్‌లను పెంటగాన్ నిరోధించినట్లు నివేదించబడింది.",
       "summary_te": "అసోసియేటెడ్ ప్రెస్, రాయిటర్స్ మరియు గెట్టి ఇమేజెస్‌కి చెందిన ఫోటోగ్రాఫర్‌లు మార్చి 2న జాయింట్ చీఫ్స్ ఆఫ్ స్టాఫ్ ఛైర్మన్‌తో మీడియాతో మీడియాతో మాట్లాడిన ఫోటోలను మీడియా సంస్థలు ప్రచురించిన తర్వాత నిషేధించబడ్డాయి.",
       "translated": true
     },
@@ -183,7 +225,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'హారెండస్లీ హై' ఛార్జీలు, బాంబు భయాలు వసంత ప్రయాణ ప్రణాళికలను మెరుగుపరుస్తాయి",
-      "summary_te": "కైరా గుణవన్ స్ప్రింగ్ బ్రేక్ ప్లాన్‌లు ఇప్పుడే ఆవిరైపోయాయి. UKలోని 21 ఏళ్ల ఇండోనేషియా విద్యార్థి తన ఎమిరేట్స్ ఫ్లైట్ ఇంటికి దుబాయ్ మీదుగా జకార్తాకు బయలుదేరింది, మధ్యప్రాచ్య కలహాల కారణంగా చివరి నిమిషంలో స్క్రబ్‌ను రిస్క్ చేయడానికి ఇష్టపడలేదు - లేదా యుద్ధంలో దెబ్బతిన్న ప్రాంతం నుండి మళ్లించడానికి మూడు రెట్లు చెల్లించాలి.",
+      "summary_te": "కైరా గుణవన్ స్ప్రింగ్ బ్రేక్ ప్లాన్‌లు ఇప్పుడే ఆవిరైపోయాయి. UKలోని 21 ఏళ్ల ఇండోనేషియా విద్యార్థి తన ఎమిరేట్స్ ఫ్లైట్ ఇంటికి దుబాయ్ మీదుగా జకార్తాకు బయలుదేరింది, మిడిల్ ఈస్టర్న్ కలహాల కారణంగా చివరి నిమిషంలో స్క్రబ్‌ను రిస్క్ చేయడానికి ఇష్టపడలేదు - లేదా యుద్ధంలో దెబ్బతిన్న ప్రాంతం నుండి తిరిగి వెళ్లడానికి మూడు రెట్లు చెల్లించాలి.",
       "translated": true
     },
     {
@@ -197,7 +239,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఈరోజు బంగారం, వెండి ధరలు: వెండి ధర రూ. 2,000 తగ్గింది, డాలర్ సురక్షిత డిమాండ్‌ను అధిగమించడంతో బంగారం స్వల్పంగా తగ్గింది. పెట్టుబడిదారులు ఏమి చేయాలి?",
-      "summary_te": "బులియన్ డిమాండ్‌పై యుఎస్ డాలర్ బరువు పెరగడంతో బంగారం మరియు వెండి ధరలు గురువారం తగ్గాయి. MCXలో, వెండి కిలోకు రూ. 2,000 పైగా తగ్గింది, బంగారం స్వల్పంగా తగ్గింది. కరెన్సీ హెచ్చుతగ్గులు, భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు ముడి చమురు ధరల కదలికల మధ్య అస్థిరత కొనసాగుతుందని విశ్లేషకులు భావిస్తున్నారు, తాజా స్థానాలను ప్రారంభించే ముందు వేచి ఉండాలని పెట్టుబడిదారులకు సలహా ఇస్తున్నారు.",
+      "summary_te": "బులియన్ డిమాండ్‌పై యుఎస్ డాలర్ బరువు పెరగడంతో బంగారం మరియు వెండి ధరలు గురువారం తగ్గాయి. MCXలో, వెండి కిలోకు రూ. 2,000 పైగా తగ్గింది, బంగారం స్వల్పంగా తగ్గింది. కరెన్సీ హెచ్చుతగ్గులు, భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు ముడి చమురు ధరల కదలికల మధ్య అస్థిరత కొనసాగుతుందని విశ్లేషకులు భావిస్తున్నారు, తాజా స్థానాలను ప్రారంభించడానికి ముందు వేచి ఉండాలని పెట్టుబడిదారులకు సలహా ఇస్తున్నారు.",
       "translated": true
     },
     {
@@ -210,7 +252,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "మార్చిలో ఢిల్లీలో అత్యధిక ఉష్ణోగ్రతలు నమోదయ్యాయి, పాదరసం 38°C ఎగురుతుంది - వేడి తరంగాలను తగ్గించడానికి తేలికపాటి వర్షాలు; IMD యొక్క సూచన ఇక్కడ ఉంది",
+      "title_te": "మార్చిలో ఢిల్లీలో అత్యధిక ఉష్ణోగ్రతలు నమోదయ్యాయి, పాదరసం 38 డిగ్రీల సెల్సియస్‌కి ఎగురుతుంది - హీట్‌వేవ్‌ను తగ్గించడానికి తేలికపాటి వర్షాలు; IMD యొక్క సూచన ఇక్కడ ఉంది",
       "summary_te": "మార్చిలో ఢిల్లీలో రికార్డు స్థాయిలో ఉష్ణోగ్రతలు నమోదవుతున్నాయి, పాదరసం 38 డిగ్రీల సెల్సియస్‌కు చేరుకుంది. 3 రోజుల్లో జల్లుల తర్వాత వేడిగాలులు తగ్గే అవకాశం ఉంది. IMD యొక్క సూచనను ఇక్కడ తనిఖీ చేయండి.",
       "translated": true
     },
@@ -238,8 +280,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఫరూఖ్ అబ్దుల్లాకు దగ్గరి షేవ్: 20 ఏళ్లుగా జమ్మూ కాశ్మీర్ మాజీ సిఎంను చంపాలనుకున్నాడు, సాయుధుడు పోలీసులకు చెప్పాడు",
-      "summary_te": "జమ్మూకశ్మీర్‌ మాజీ ముఖ్యమంత్రి ఫరూక్‌ అబ్దుల్లాను ఓ వివాహ వేడుకలో హత్య చేసేందుకు ఓ దుండగుడు ప్రయత్నించాడు. కమల్ సింగ్ జమ్వాల్ అనే షూటర్ 20 ఏళ్లుగా దాడికి ప్లాన్ చేసినట్లు పేర్కొన్నాడు. ఘటన సమయంలో అతడు మద్యం మత్తులో ఉన్నట్లు గుర్తించిన పోలీసులు ఉగ్రవాదాన్ని తోసిపుచ్చారు.",
+      "title_te": "ఫరూక్ అబ్దుల్లా కోసం షేవ్ చేయి: 20 ఏళ్లుగా జమ్మూ కాశ్మీర్ మాజీ సీఎంను చంపాలనుకున్నాడు, సాయుధుడు పోలీసులకు చెప్పాడు",
+      "summary_te": "జమ్మూకశ్మీర్‌ మాజీ ముఖ్యమంత్రి ఫరూక్‌ అబ్దుల్లా పెళ్లి వేడుకలో హత్యాయత్నానికి పాల్పడ్డాడు. కమల్ సింగ్ జమ్వాల్ అనే షూటర్ 20 ఏళ్లుగా దాడికి ప్లాన్ చేసినట్లు పేర్కొన్నాడు. ఘటన సమయంలో అతడు మద్యం మత్తులో ఉన్నట్లు గుర్తించిన పోలీసులు ఉగ్రవాదాన్ని తోసిపుచ్చారు.",
       "translated": true
     },
     {
@@ -252,7 +294,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "డైస్లెక్సిక్‌గా ఉన్నందుకు గావిన్ న్యూసోమ్‌పై ట్రంప్ చేసిన ఆకస్మిక తిరస్కారానికి 'బ్రెయిన్-డెడ్ మూర్న్' క్లాప్-బ్యాక్ వచ్చింది",
+      "title_te": "డైస్లెక్సిక్‌గా ఉన్నందుకు గావిన్ న్యూసోమ్‌పై ట్రంప్ ఆకస్మిక తిరుగుబాటు 'బ్రెయిన్-డెడ్ మూర్న్' క్లాప్-బ్యాక్‌తో కలుసుకున్నారు",
       "summary_te": "అంతకుముందు కెంటుకీలో, ట్రంప్ తన డైస్లెక్సియా గురించి బహిరంగంగా మాట్లాడినందుకు న్యూసోమ్‌ను ఎగతాళి చేస్తూ, \"యునైటెడ్ స్టేట్స్ అధ్యక్షుడికి అభిజ్ఞా లోపం ఉండకూడదనుకుంటున్నాను\" అని తన ప్రసంగాన్ని సుదీర్ఘంగా గడిపారు.",
       "translated": true
     },
@@ -266,7 +308,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కాలిఫోర్నియాలో ‘ఆశ్చర్యకరమైన దాడి’కి ఇరాన్ కుట్ర చేసిందా? ట్రంప్ యొక్క ఆపరేషన్ ఎపిక్ ఫ్యూరీ మధ్య FBI హెచ్చరిక గురించి మనకు ఏమి తెలుసు",
+      "title_te": "కాలిఫోర్నియాలో ఇరాన్ ‘ఆశ్చర్యకరమైన దాడి’కి కుట్ర చేసిందా? ట్రంప్ యొక్క ఆపరేషన్ ఎపిక్ ఫ్యూరీ మధ్య FBI హెచ్చరిక గురించి మనకు ఏమి తెలుసు",
       "summary_te": "మిడిల్ ఈస్ట్‌లో పెరుగుతున్న ఉద్రిక్తతల మధ్య, కాలిఫోర్నియా గవర్నర్ గావిన్ న్యూసోమ్ కార్యాలయం భద్రతా అధికారులతో కలిసి హాని కలిగించే ప్రదేశాల చుట్టూ గస్తీని పెంచడానికి పని చేస్తోంది. సంభావ్య ఇరాన్ డ్రోన్ దాడుల గురించి FBI హెచ్చరిక జారీ చేసిన తర్వాత ఇది జరిగింది.",
       "translated": true
     },
@@ -281,7 +323,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అన్యాయమైన వాణిజ్య పద్ధతుల కోసం అమెరికా స్కానర్‌లో భారత్? జామీసన్ గ్రీర్ ప్రోబ్స్ ప్రకటించాడు, కొత్త టారిఫ్‌లు విధించబడవచ్చని హెచ్చరించాడు",
-      "summary_te": "ట్రంప్ యొక్క టారిఫ్ ప్రోగ్రామ్‌ను బలహీనపరిచిన సుప్రీం కోర్టు తీర్పు తర్వాత టారిఫ్ ఒత్తిడిని పునర్నిర్మించడానికి 16 మంది వాణిజ్య భాగస్వాములలో అదనపు పారిశ్రామిక సామర్థ్యం మరియు బలవంతపు కార్మికులపై US కొత్త వాణిజ్య పరిశోధనలను ప్రారంభిస్తోంది.",
+      "summary_te": "ట్రంప్ యొక్క టారిఫ్ ప్రోగ్రామ్‌ను బలహీనపరిచిన సుప్రీం కోర్టు తీర్పు తర్వాత టారిఫ్ ఒత్తిడిని పునర్నిర్మించడానికి 16 మంది వ్యాపార భాగస్వాములలో అదనపు పారిశ్రామిక సామర్థ్యం మరియు బలవంతపు కార్మికులపై US కొత్త వాణిజ్య పరిశోధనలను ప్రారంభిస్తోంది.",
       "translated": true
     },
     {
@@ -308,8 +350,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "జేక్ పాల్ ఇంకా పోటీ చేయని రాజకీయ పదవికి ట్రంప్ ఆమోదం తెలిపారు; YMCA డ్యాన్స్‌లో ద్వయం విరుచుకుపడింది | వీడియో",
-      "summary_te": "బాక్సర్ తన పోడ్‌క్యాస్ట్‌లో కనిపించమని అడిగాడని చెప్పడం ద్వారా ట్రంప్ పాల్‌ను ప్రేక్షకులకు పరిచయం చేశాడు, అతను మొదట అధ్యక్షుడిగా చేయడానికి ఇష్టపడలేదు.",
+      "title_te": "అతను ఇంకా పోటీ చేయని రాజకీయ పదవి కోసం జేక్ పాల్‌ను ట్రంప్ ఆమోదించారు; YMCA డ్యాన్స్‌లో ద్వయం విరుచుకుపడింది | వీడియో",
+      "summary_te": "బాక్సర్ తన పోడ్‌కాస్ట్‌లో కనిపించమని అడిగాడని చెప్పడం ద్వారా ట్రంప్ పాల్‌ను ప్రేక్షకులకు పరిచయం చేశాడు, అతను మొదట అధ్యక్షుడిగా చేయడానికి ఇష్టపడలేదు.",
       "translated": true
     },
     {
@@ -323,7 +365,7 @@
       "category": "business",
       "language": "en",
       "title_te": "డొనాల్డ్ ట్రంప్‌ను చైనా అపహాస్యం చేసింది: వైట్‌హౌస్‌లో అమెరికా అధ్యక్షుడి గుంపు ప్రార్థన వైరల్ జోక్‌గా మారింది, 'ప్రపంచం అతనిని చూసి నవ్వుతోంది'",
-      "summary_te": "ఒక వైరల్ వైట్ హౌస్ ప్రార్థన వీడియో చైనాలో అనుకరణ ధోరణిని రేకెత్తించింది, ఇక్కడ చిన్న-వ్యాపార యజమానులు అమ్మకాలను పెంచడానికి ప్రార్థనను హాస్యాస్పదంగా అనుకరించారు. ఇది డౌయిన్ మరియు వీబో వంటి ప్లాట్‌ఫారమ్‌లలో హాస్య కంటెంట్ యొక్క తరంగానికి దారితీసింది.",
+      "summary_te": "ఒక వైరల్ వైట్ హౌస్ ప్రార్థన వీడియో చైనాలో అనుకరణ ధోరణిని రేకెత్తించింది, ఇక్కడ చిన్న-వ్యాపార యజమానులు అమ్మకాలను పెంచడానికి ప్రార్థనను హాస్యాస్పదంగా అనుకరించారు. ఇది డౌయిన్ మరియు వీబో వంటి ప్లాట్‌ఫారమ్‌లలో హాస్య కంటెంట్ యొక్క తరంగాలకు దారితీసింది.",
       "translated": true
     },
     {
@@ -337,7 +379,7 @@
       "category": "business",
       "language": "en",
       "title_te": "నేడు వాతావరణం: పాదరసం 42°C తాకడంతో IMD యొక్క హీట్ వేవ్ హెచ్చరికపై గుజరాత్; పలు రాష్ట్రాల్లో త్వరలో ఉపశమనం కలిగించే వర్షాలు",
-      "summary_te": "భారతదేశం మార్చిలో అత్యధిక ఉష్ణోగ్రతలను ఎదుర్కొంటున్నందున, ఉత్తర మరియు ఈశాన్య రాష్ట్రాలలో రాబోయే వర్షపాతంతో భారతదేశంలో అధిక ఉష్ణోగ్రతల నుండి ఉపశమనం లభిస్తుందని IMD అంచనా వేసింది. పూర్తి వాతావరణ సూచనను ఇక్కడ చూడండి.",
+      "summary_te": "భారతదేశం మార్చిలో అత్యధిక ఉష్ణోగ్రతలను ఎదుర్కొంటున్నందున, ఉత్తర మరియు ఈశాన్య రాష్ట్రాలలో రాబోయే వర్షపాతంతో భారతదేశంలో అధిక ఉష్ణోగ్రతల నుండి ఉపశమనం లభిస్తుందని IMD అంచనా వేసింది. పూర్తి వాతావరణ సూచనను ఇక్కడ తనిఖీ చేయండి.",
       "translated": true
     },
     {
@@ -370,15 +412,15 @@
     },
     {
       "id": "251674939bece95df3f0400f00998093",
-      "title": "US-Iran war news LIVE: Indian national killed as Iran's 'suicide' boat hits US-owned tanker Safesea Vishnu",
+      "title": "US-Iran war news LIVE: Saudi Arabia intercepts drone heading to Shaybah oilfield",
       "summary": "US-Iran war news LIVE: Iran has been striking oil infrastructure in Gulf Arab states and has effectively halted cargo movement through the narrow Strait of Hormuz—a key route that normally carries about one‑fifth of the world’s traded oil. Get US-Iran war news LIVE Updates here on Mint.",
       "url": "https://www.livemint.com/news/world/usiran-war-news-live-iran-warns-oil-could-cost-200-as-war-disrupts-shipping-trump-says-dont-want-to-leave-early-11773272979421.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/IRAN-CRISIS-IRAQ-TANKERS-3_1773287953928_1773287972083.JPG",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/IRAN-CRISIS-SAUDI-ARAMCO-0_1773298299525_1773298310712.JPG",
       "published_at": "2026-03-12T00:21:11.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "యుఎస్-ఇరాన్ వార్ న్యూస్ లైవ్: ఇరాన్ యొక్క 'ఆత్మహత్య' పడవ US యాజమాన్యంలోని ట్యాంకర్ సేఫ్సీ విష్ణుని ఢీకొనడంతో భారతీయ పౌరుడు మరణించాడు",
+      "title_te": "US-ఇరాన్ యుద్ధ వార్తలు ప్రత్యక్ష ప్రసారం: సౌదీ అరేబియా షైబా ఆయిల్‌ఫీల్డ్‌కు వెళుతున్న డ్రోన్‌ను అడ్డుకుంది",
       "summary_te": "US-ఇరాన్ యుద్ధ వార్తలు లైవ్: ఇరాన్ గల్ఫ్ అరబ్ దేశాలలో చమురు మౌలిక సదుపాయాలను దెబ్బతీస్తోంది మరియు హార్ముజ్ యొక్క ఇరుకైన జలసంధి ద్వారా సరుకు రవాణాను సమర్థవంతంగా నిలిపివేసింది-ఇది సాధారణంగా ప్రపంచంలోని వర్తకం చేసే చమురులో ఐదవ వంతును తీసుకువెళ్లే కీలక మార్గం. మింట్‌లో US-ఇరాన్ యుద్ధ వార్తల లైవ్ అప్‌డేట్‌లను ఇక్కడ పొందండి.",
       "translated": true
     },
@@ -394,48 +436,6 @@
       "language": "en",
       "title_te": "మార్కెట్ అస్థిరత రాబోయే IPOలను వెయిట్ అండ్ వాచ్ మోడ్‌లో ఉంచుతుంది",
       "summary_te": "పెరుగుతున్న పశ్చిమాసియా సంఘర్షణ మరియు ఈక్విటీ మార్కెట్ అస్థిరత రాబోయే IPOలతో కంపెనీలను పాజ్ చేయడానికి మరియు లాంచ్ టైమ్‌లైన్‌లను తిరిగి అంచనా వేయడానికి కారణమవుతున్నాయి. పెట్టుబడిదారుల సెంటిమెంట్ జాగ్రత్తగా ఉండటంతో, చాలా మంది లాంచ్‌లను ఆలస్యం చేస్తున్నారు, తక్కువ విలువలను అంగీకరించే బదులు మెరుగైన మార్కెట్ పరిస్థితుల కోసం వేచి ఉండటానికి ఇష్టపడతారు. ఈ వ్యూహాత్మక విధానం చంచలమైన ద్వితీయ మార్కెట్‌లో పెట్టుబడిదారుల ఆకలిపై ఆందోళనలచే నడపబడుతుంది.",
-      "translated": true
-    },
-    {
-      "id": "23b68f62dbb7462f2b9ab40c7aad37be",
-      "title": "LPG Shortage News Today LIVE: Chapati, Dosa, tea, coffee vanish from menus; attempts on to control crisis, says Govt",
-      "summary": "LPG Shortage News Today LIVE: Union Minister of State for Petroleum and Natural Gas Suresh Gopi on Thursday said efforts are underway to control the LPG crisis and that new avenues are opening for India to secure additional supplies. Catch LIVE Updates with Mint",
-      "url": "https://www.livemint.com/news/india/lpg-shortage-news-today-12-march-cylinder-indian-oil-hindustan-petroleum-png-iran-war-bengaluru-mumbai-kolkata-delhi-11773272172823.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/12/1600x900/logo/A-roadside-eatery-at-Connaught-Place-that-has-down_1773291910428_1773291918955.jpg",
-      "published_at": "2026-03-12T00:13:11.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "LPG కొరత న్యూస్ టుడే లైవ్: చపాతీ, దోస, టీ, కాఫీలు మెనుల నుండి మాయమవుతాయి; సంక్షోభాన్ని నియంత్రించేందుకు ప్రయత్నిస్తున్నామని ప్రభుత్వం తెలిపింది",
-      "summary_te": "ఎల్‌పిజి కొరత న్యూస్ టుడే లైవ్: ఎల్‌పిజి సంక్షోభాన్ని నియంత్రించడానికి ప్రయత్నాలు జరుగుతున్నాయని, అదనపు సరఫరాలను పొందేందుకు భారతదేశానికి కొత్త మార్గాలు తెరుచుకుంటున్నాయని కేంద్ర పెట్రోలియం మరియు సహజ వాయువు శాఖ సహాయ మంత్రి సురేష్ గోపి గురువారం అన్నారు. మింట్‌తో లైవ్ అప్‌డేట్‌లను చూడండి",
-      "translated": true
-    },
-    {
-      "id": "ee1894f9ce912861100789b84d9b05c8",
-      "title": "Centre reviews workplace accountability standards after new labour codes",
-      "summary": "The study by the Bureau of Indian Standards will assess the relevance of the existing framework in light of recent policy and regulatory changes aimed at strengthening labour protections.",
-      "url": "https://www.livemint.com/news/india/centre-reviews-workplace-accountability-standards-after-new-labour-codes-11773225981495.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/Accountability_1773227859835_1773227874047.png",
-      "published_at": "2026-03-11T23:30:50.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కొత్త లేబర్ కోడ్‌ల తర్వాత వర్క్‌ప్లేస్ జవాబుదారీ ప్రమాణాలను కేంద్రం సమీక్షిస్తుంది",
-      "summary_te": "బ్యూరో ఆఫ్ ఇండియన్ స్టాండర్డ్స్ అధ్యయనం, కార్మిక రక్షణలను బలోపేతం చేయడానికి ఉద్దేశించిన ఇటీవలి విధానం మరియు నియంత్రణ మార్పుల వెలుగులో ప్రస్తుత ఫ్రేమ్‌వర్క్ యొక్క ఔచిత్యాన్ని అంచనా వేస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "53d732ba6237390963c085e54ac3b2e1",
-      "title": "‘They’ve lost their Navy, Air Force, radar, leaders are gone,’ Trump claims on Iran military",
-      "summary": "“Our military is the best…they’re hitting them very hard,” Trump said, noting that Iranian forces have lost their navy, air force, radar, and leaders.",
-      "url": "https://www.livemint.com/news/us-news/theyve-lost-their-navy-air-force-radar-leaders-are-gone-trump-claims-on-iran-military-11773256589058.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/11/1600x900/logo/Trump-11_1773258820717_1773258832025.jpg",
-      "published_at": "2026-03-11T21:24:59.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'వారు తమ నేవీ, ఎయిర్ ఫోర్స్, రాడార్‌లను కోల్పోయారు, నాయకులు పోయారు' అని ఇరాన్ మిలిటరీపై ట్రంప్ పేర్కొన్నారు",
-      "summary_te": "ఇరాన్ బలగాలు తమ నౌకాదళం, వైమానిక దళం, రాడార్ మరియు నాయకులను కోల్పోయాయని పేర్కొన్న ట్రంప్, \"మా మిలిటరీ అత్యుత్తమమైనది... వారు వారిని చాలా తీవ్రంగా కొట్టారు\" అని ట్రంప్ అన్నారు.",
       "translated": true
     },
     {
@@ -505,7 +505,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆసియాలో, అమెరికాతో భారత్ అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది: పీయూష్ గోయల్",
-      "summary_te": "భారతదేశం తన పోటీదారులలో యునైటెడ్ స్టేట్స్‌తో అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది. వాణిజ్యం మరియు పరిశ్రమల శాఖ మంత్రి పీయూష్ గోయల్ రెండు దేశాల మధ్య బలమైన సంబంధాలను ఎత్తిచూపారు. అమెరికా ఆర్థిక వ్యవస్థ ప్రపంచంలోనే అతిపెద్దదని, దీనిని విస్మరించలేమని ఆయన ఉద్ఘాటించారు. ప్రపంచ వాణిజ్య భాగస్వామ్య నెట్‌వర్క్‌ను భారతదేశం చురుకుగా నిర్మిస్తోంది.",
+      "summary_te": "భారతదేశం తన పోటీదారులలో యునైటెడ్ స్టేట్స్‌తో అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది. వాణిజ్యం మరియు పరిశ్రమల శాఖ మంత్రి పీయూష్ గోయల్ రెండు దేశాల మధ్య బలమైన సంబంధాలను ఎత్తిచూపారు. అమెరికా ఆర్థిక వ్యవస్థ ప్రపంచంలోనే అతిపెద్దదని, దీనిని విస్మరించలేమని ఆయన ఉద్ఘాటించారు. భారతదేశం ప్రపంచ వాణిజ్య భాగస్వామ్య నెట్‌వర్క్‌ను చురుకుగా నిర్మిస్తోంది.",
       "translated": true
     },
     {
@@ -519,7 +519,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -603,7 +603,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
-      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు, అయితే వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
+      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -621,216 +621,6 @@
       "translated": true
     },
     {
-      "id": "6ce8840a6f4d71208a784c6a76680f61",
-      "title": "Buy HDFC Bank; target of Rs 1,850: ICICI Securities",
-      "summary": "ICICI Securities is bullish on HDFC Bank has recommended buy rating on the stock with a target price of Rs 1,850 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-bank-targetrs-1850-icici-securities_17531671.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg",
-      "published_at": "2024-04-23T08:11:02.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "HDFC బ్యాంక్ కొనండి; లక్ష్యం రూ. 1,850: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ హెచ్‌డిఎఫ్‌సి బ్యాంక్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో 1,850 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "07ad6d3686606191d0c38a5a29956be0",
-      "title": "Buy Tejas Networks; target of Rs 1100: Emkay Global Financial",
-      "summary": "Emkay Global Financial is bullish on Tejas Networks has recommended buy rating on the stock with a target price of Rs 1100 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-tejas-networks-targetrs-1100-emkay-global-financial_17531621.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_1_200.jpg",
-      "published_at": "2024-04-23T08:06:47.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "తేజస్ నెట్‌వర్క్‌లను కొనుగోలు చేయండి; లక్ష్యం రూ. 1100: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay Global Financial, Tejas Networksపై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో 1100 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "fe71a05a028b9442e7ae44ea0ec05a6d",
-      "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-      "summary": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531641.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5_200.jpg",
-      "published_at": "2024-04-23T08:06:44.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "బజాజ్ ఫైనాన్స్ కొనండి; లక్ష్యం రూ. 9000: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ బజాజ్ ఫైనాన్స్‌పై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి తన పరిశోధన నివేదికలో ఈ స్టాక్‌పై రూ. 9000 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "3ed642b4e0898c19666e233d53230727",
-      "title": "Buy Bajaj Finance; target of Rs 9000: Emkay Global Financial",
-      "summary": "Emkay Global Financial is bullish on Bajaj Finance has recommended buy rating on the stock with a target price of Rs 9000 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-bajaj-finance-targetrs-9000-emkay-global-financial_17531631.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_5_200.jpg",
-      "published_at": "2024-04-23T08:06:44.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "బజాజ్ ఫైనాన్స్ కొనండి; లక్ష్యం రూ. 9000: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ బజాజ్ ఫైనాన్స్‌పై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి తన పరిశోధన నివేదికలో ఈ స్టాక్‌పై రూ. 9000 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "a4e9c22c27bac93ab0707b12b3b4eb72",
-      "title": "Reduce Persistent Systems; target of Rs 3700: Emkay Global Financial",
-      "summary": "Emkay Global Financial recommended reduce rating on Persistent Systems with a target price of Rs 3700 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/reduce-persistent-systems-targetrs-3700-emkay-global-financial_17531581.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce-2_200.jpg",
-      "published_at": "2024-04-23T07:56:31.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "పెర్సిస్టెంట్ సిస్టమ్స్ తగ్గించండి; లక్ష్యం రూ. 3700: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో రూ. 3700 టార్గెట్ ధరతో పెర్సిస్టెంట్ సిస్టమ్స్‌పై రేటింగ్‌ను తగ్గించాలని సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "39d8f00864f09083eb1698b96c6a36d9",
-      "title": "Reduce Aditya Birla Fashion and Retail; target of Rs 230: Emkay Global Financial",
-      "summary": "Emkay Global Financial recommended reduce rating on Aditya Birla Fashion and Retail with a target price of Rs 230 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/reduce-aditya-birla-fashionretail-targetrs-230-emkay-global-financial_17531571.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/r/reduced-378x213_200.jpg",
-      "published_at": "2024-04-23T07:52:33.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆదిత్య బిర్లా ఫ్యాషన్ మరియు రిటైల్‌ను తగ్గించండి; లక్ష్యం రూ. 230: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్ ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో ఆదిత్య బిర్లా ఫ్యాషన్ మరియు రిటైల్‌పై రూ. 230 టార్గెట్ ధరతో రేటింగ్‌ను తగ్గించాలని సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "50b371f510a31dd2845a80e6dc6138a6",
-      "title": "Reduce Wipro; target of Rs 410: ICICI Securities",
-      "summary": "ICICI Securities is bullish on Wipro has recommended buy rating on the stock with a target price of Rs 410 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/reduce-wipro-targetrs-410-icici-securities_17531461.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2023/200x200/R/Reduce-5_200.jpg",
-      "published_at": "2024-04-23T06:52:08.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "విప్రోను తగ్గించండి; లక్ష్యం రూ. 410: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో విప్రో షేరుపై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "156bfc0e733271fef0670dfa982068aa",
-      "title": "Buy HDFC Life Insurance Company; target of Rs 739: ICICI Securities",
-      "summary": "ICICI Securities is bullish on HDFC Life Insurance Company has recommended buy rating on the stock with a target price of Rs 739 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-hdfc-life-insurance-company-targetrs-739-icici-securities_17531391.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1-378x213_200.jpg",
-      "published_at": "2024-04-23T06:35:52.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "HDFC లైఫ్ ఇన్సూరెన్స్ కంపెనీని కొనుగోలు చేయండి; లక్ష్యం రూ.739: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ హెచ్‌డిఎఫ్‌సి లైఫ్ ఇన్సూరెన్స్ కంపెనీ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో 739 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "140944b6fe19b782d81ea61c1eecfa83",
-      "title": "Buy Patel Engineering; target of Rs 80: ICICI Direct",
-      "summary": "ICICI Direct is bullish on Patel Engineering recommended buy rating on the stock with a target price of Rs 80 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-patel-engineering-targetrs-80-icici-direct_17531401.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:35:43.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "పటేల్ ఇంజనీరింగ్ కొనండి; లక్ష్యం రూ. 80: ICICI డైరెక్ట్",
-      "summary_te": "ఐసిఐసిఐ డైరెక్ట్ ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో పటేల్ ఇంజినీరింగ్ షేరుపై రూ. 80 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "121e451e5d45424e2e7e4bc0139fe8f7",
-      "title": "Accumulate Infosys; target of Rs 1531: KR Choksey",
-      "summary": "KR Choksey recommended Accumulate rating on Infosys with a target price of Rs 1531 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/accumulate-infosys-targetrs-1531-kr-choksey_17531411.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2023/200x200/A/Accumulate_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:35:06.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇన్ఫోసిస్‌ను కూడబెట్టు; లక్ష్యం రూ. 1531: KR చోక్సీ",
-      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "55fae405b93a2f6c66910e2c69459400",
-      "title": "Buy Jindal Drilling and Industries; target of Rs 960: Anand Rathi",
-      "summary": "Anand Rathi is bullish on Jindal Drilling and Industries has recommended buy rating on the stock with a target price of Rs 960 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-jindal-drillingindustries-targetrs-960-anand-rathi_17531431.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy-378x213_200.jpg",
-      "published_at": "2024-04-23T06:34:28.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "జిందాల్ డ్రిల్లింగ్ మరియు పరిశ్రమలను కొనుగోలు చేయండి; లక్ష్యం రూ. 960: ఆనంద్ రాఠీ",
-      "summary_te": "ఆనంద్ రాఠీ జిందాల్ డ్రిల్లింగ్‌పై బుల్లిష్‌గా ఉన్నారు మరియు ఇండస్ట్రీస్ ఏప్రిల్ 22, 2024 నాటి పరిశోధన నివేదికలో స్టాక్‌పై రూ. 960 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "ce283ffe1b76ec277f2220e24108c8f8",
-      "title": "Buy Navneet Education; target of Rs 182: Prabhudas Lilladher",
-      "summary": "Prabhudas Lilladher is bullish on Navneet Education has recommended buy rating on the stock with a target price of Rs 182 in its research report dated April 22, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-navneet-education-targetrs-182-prabhudas-lilladher_17531441.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:34:07.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "నవనీత్ విద్యను కొనుగోలు చేయండి; లక్ష్యం రూ. 182: ప్రభుదాస్ లిల్లాధర్",
-      "summary_te": "నవనీత్ ఎడ్యుకేషన్‌పై ప్రభుదాస్ లిల్లాధర్ బుల్లిష్‌గా ఉన్నారు, ఏప్రిల్ 22, 2024 నాటి పరిశోధన నివేదికలో స్టాక్‌పై రూ. 182 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "2b140a9d594ac3417b355ecd8f7d1254",
-      "title": "Sell Indus Tower; target of Rs 260: ICICI Securities",
-      "summary": "ICICI Securities is bearish on Indus Tower has recommended sell rating on the stock with a target price of Rs 260 in its research report dated April 20, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/sell-indus-tower-targetrs-260-icici-securities_17531381.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2017/200x200/s/sell1-1_200.jpg",
-      "published_at": "2024-04-23T06:26:53.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇండస్ టవర్‌ను అమ్మండి; లక్ష్యం రూ. 260: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఇండస్ టవర్‌పై ఐసిఐసిఐ సెక్యూరిటీస్ బేరిష్‌గా ఉంది, ఏప్రిల్ 20, 2024 నాటి తన పరిశోధన నివేదికలో 260 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై అమ్మకపు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "4ea800090103e23e9c51f55e807c540b",
-      "title": "Buy City Union Bank; target of Rs 170: ICICI Securities",
-      "summary": "ICICI Securities is bullish on City Union Bank has recommended buy rating on the stock with a target price of Rs 170 in its research report dated April 21, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-city-union-bank-targetrs-170-icici-securities_17531361.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2017/200x200/s/sell2_200.jpg",
-      "published_at": "2024-04-23T06:16:51.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "సిటీ యూనియన్ బ్యాంక్‌ను కొనుగోలు చేయండి; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "7a32edfb3688f6c2b724ae4c975dafc1",
-      "title": "Buy Hatsun Agro Products; target of Rs 1190: ICICI Securities",
-      "summary": "ICICI Securities is bullish on Hatsun Agro Products recommended buy rating on the stock with a target price of Rs 1190 in its research report dated April 23, 2024.",
-      "url": "https://www.moneycontrol.com/news/recommendations/buy-hatsun-agro-products-targetrs-1190-icici-securities_17531371.html",
-      "image": "https://www.moneycontrol.com/news_image_files/2024/200x200/B/Buy_1280x720_3_200.jpg",
-      "published_at": "2024-04-23T06:16:43.000Z",
-      "source": "Moneycontrol",
-      "category": "business",
-      "language": "en",
-      "title_te": "Hatsun ఆగ్రో ఉత్పత్తులను కొనుగోలు చేయండి; లక్ష్యం రూ. 1190: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో హ్యాట్సన్ ఆగ్రో ప్రొడక్ట్స్ షేరుపై రూ. 1190 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
-      "translated": true
-    },
-    {
       "id": "8af717ed0aad50c92d91567417eac5b8",
       "title": "Apple faces Indian engineer’s bias lawsuit",
       "summary": "Anita Nariani Schulze is part of the Sindhi minority. Her complaint alleges that her senior and direct managers, both male, consistently excluded her from meetings while inviting her male counterparts, criticised her, micromanaged her work and deprived her of bonuses, despite positive performance evaluations and significant team contributions.",
@@ -841,7 +631,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
@@ -855,7 +645,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అట్లాంటిక్ 'లవ్ ఫెస్ట్' ఉన్నప్పటికీ, US మరియు చైనాతో సంబంధాలలో EU మూడవ మార్గాన్ని కలిగి ఉంది",
-      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ అన్నప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష స్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
+      "summary_te": "కానీ హాజరైన ఇద్దరు సీనియర్ రాయబారులు బ్లింకెన్ చెప్పినప్పుడు బ్రస్సెల్స్‌లో గుమిగూడిన మంత్రుల నుండి ప్రత్యక్ష ప్రతిస్పందన లేదని చెప్పారు: \"మేము కలిసి చైనాను వెనక్కి నెట్టాలి మరియు ఐక్యతలో బలాన్ని ప్రదర్శించాలి.\"",
       "translated": true
     },
     {
@@ -911,7 +701,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
