@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T15:59:11.138Z",
-  "updated_at_IST": "12/3/2026, 9:29:11 pm",
+  "updated_at": "2026-03-12T16:59:29.657Z",
+  "updated_at_IST": "12/3/2026, 10:29:29 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0e7659a0d663336cb3268498e7670240",
+      "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
+      "summary": "Abrar becomes first Pakistan player bought by an Indian-owned team; Sussex allrounder James Coles goes for £390,000",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405784.jpg",
+      "published_at": "2026-03-12T16:32:49.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సన్‌రైజర్స్ లీడ్స్ హండ్రెడ్ వేలంలో పాకిస్థాన్ స్పిన్నర్ అబ్రార్ అహ్మద్‌తో ఒప్పందం చేసుకుంది",
+      "summary_te": "అబ్రార్ భారతదేశానికి చెందిన జట్టు కొనుగోలు చేసిన మొదటి పాకిస్తాన్ ఆటగాడు; ససెక్స్ ఆల్‌రౌండర్ జేమ్స్ కోల్స్ £390,000కి చేరాడు",
+      "translated": true
+    },
     {
       "id": "40b769009b9cb6aa4aaba38a98d72d26",
       "title": "If England win T20 World Cup, women's Hundred will change hugely, says Malolan Rangarajan",
@@ -16,20 +30,6 @@
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌ను ఇంగ్లండ్‌ గెలిస్తే మహిళల సెంచరీ భారీగా మారుతుందని మలోలన్‌ రంగరాజన్‌ అన్నారు.",
       "summary_te": "\"మీకు చాలా మంది అమ్మాయిలు మరియు తల్లిదండ్రులు వారిని ప్రోత్సహిస్తారు, 'రండి గేమ్ చూడండి!',\" అని లండన్ స్పిరిట్ అసిస్టెంట్ కోచ్ చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "0e7659a0d663336cb3268498e7670240",
-      "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
-      "summary": "Abrar becomes first Pakistan player bought by an Indian-owned team; Sussex allrounder James Coles goes for £390,000",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405784.jpg",
-      "published_at": "2026-03-12T14:25:30.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సన్‌రైజర్స్ లీడ్స్ హండ్రెడ్ వేలంలో పాకిస్థాన్ స్పిన్నర్ అబ్రార్ అహ్మద్‌తో ఒప్పందం చేసుకుంది",
-      "summary_te": "అబ్రార్ భారతదేశానికి చెందిన జట్టు కొనుగోలు చేసిన మొదటి పాకిస్తాన్ ఆటగాడు; ససెక్స్ ఆల్‌రౌండర్ జేమ్స్ కోల్స్ £390,000కి చేరాడు",
       "translated": true
     },
     {
@@ -71,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -112,7 +112,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
@@ -295,7 +295,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్, పాకిస్తాన్ 2027 ప్రపంచకప్‌ను దృష్టిలో ఉంచుకుని కొత్తగా ప్రారంభమవుతాయి",
-      "summary_te": "పాకిస్తాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కలయికను ప్రయత్నించడానికి సిద్ధంగా ఉంది",
+      "summary_te": "పాకిస్థాన్ జట్టులో ఆరుగురు అన్‌క్యాప్డ్ ఆటగాళ్లు ఉండగా, బంగ్లాదేశ్ కొత్త మిడిల్ ఆర్డర్ కాంబినేషన్‌ను ప్రయత్నించేందుకు సిద్ధంగా ఉంది",
       "translated": true
     },
     {
@@ -323,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పింక్ బాల్ యాషెస్ టెస్టు ఇప్పటికీ క్రికెట్ ఆస్ట్రేలియా ప్రణాళికల్లో భాగం",
-      "summary_te": "వచ్చే మార్చిలో జరిగే 150వ వార్షికోత్సవ టెస్ట్ డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
+      "summary_te": "వచ్చే మార్చిలో 150వ వార్షికోత్సవ టెస్టు డే-నైట్ పోటీగా ఉంటుంది, మొదటి మూడు రోజులు 90,000 మంది ప్రేక్షకులు వస్తారని అంచనా.",
       "translated": true
     },
     {
