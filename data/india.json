@@ -1,9 +1,149 @@
 {
-  "updated_at": "2026-03-12T19:46:45.573Z",
-  "updated_at_IST": "13/3/2026, 1:16:45 am",
+  "updated_at": "2026-03-12T20:34:58.721Z",
+  "updated_at_IST": "13/3/2026, 2:04:58 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "68566d12779b3885f63cd859db9295ea",
+      "title": "Behind the crumbling walls of Bihar’s Balirajgarh Fort, a tale of monumental neglect",
+      "summary": "The approval, issued by the ASI on February 26, is valid for a year and authorises the agency’s Patna Circle to undertake excavation at the site, officially listed as the ‘Remains of Ancient Fort of Garh’",
+      "url": "https://www.thehindu.com/news/national/bihar/behind-the-crumbling-walls-of-bihars-balirajgarh-fort-a-tale-of-monumental-neglect/article70736677.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Delhi/hlgp7a/article70736689.ece/alternates/LANDSCAPE_1200/bali.jfif",
+      "published_at": "2026-03-12T20:02:10.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బీహార్‌లోని బలిరాజ్‌గఢ్ కోట శిథిలమైన గోడల వెనుక, స్మారక నిర్లక్ష్యానికి సంబంధించిన కథ",
+      "summary_te": "ఫిబ్రవరి 26న ASI జారీ చేసిన ఆమోదం ఒక సంవత్సరం పాటు చెల్లుబాటవుతుంది మరియు అధికారికంగా 'గర్హ్ పురాతన కోట అవశేషాలు'గా జాబితా చేయబడిన స్థలంలో తవ్వకాలు చేపట్టేందుకు ఏజెన్సీ పాట్నా సర్కిల్‌కు అధికారం ఇస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "9c81c40ae82ea88ed6ae5af7b436954e",
+      "title": "Need balance between privacy and public interest: SC",
+      "summary": "The Supreme Court stated that public interest cannot justify broad access to private information of public officials, emphasizing a balance with the right to privacy. The court will consider a petition challenging the Digital Personal Data Protection Act's restrictions, which a petitioner argued nullifies RTI provisions for accessing background data of appointees and could enable state surveillance.",
+      "url": "https://timesofindia.indiatimes.com/india/need-balance-between-privacy-and-public-interest-sc/articleshow/129523621.cms",
+      "image": "https://static.toiimg.com/photo/msid-129523670,imgsize-25718.cms",
+      "published_at": "2026-03-12T20:00:55.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "గోప్యత మరియు ప్రజా ప్రయోజనాల మధ్య సమతుల్యత అవసరం: SC",
+      "summary_te": "గోప్యత హక్కుతో సమతుల్యతను నొక్కి చెబుతూ, ప్రభుత్వ అధికారుల ప్రైవేట్ సమాచారానికి విస్తృత ప్రాప్యతను ప్రజా ప్రయోజనాలను సమర్థించలేమని సుప్రీంకోర్టు పేర్కొంది. డిజిటల్ పర్సనల్ డేటా ప్రొటెక్షన్ యాక్ట్ యొక్క పరిమితులను సవాలు చేస్తూ దాఖలైన పిటిషన్‌ను కోర్టు పరిశీలిస్తుంది, ఒక పిటిషనర్ నియమితులైన వారి బ్యాక్‌గ్రౌండ్ డేటాను యాక్సెస్ చేయడానికి RTI నిబంధనలను రద్దు చేసి రాష్ట్ర నిఘాను ప్రారంభించవచ్చని వాదించారు.",
+      "translated": true
+    },
+    {
+      "id": "f275be8f2e3bafb5664a4ba96b604579",
+      "title": "Oppn may submit notice for CEC’s removal to presiding officer of one House of Parliament today",
+      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/opposition-likely-to-submit-notice-for-cecs-removal-to-presiding-officer-of-one-house-today/articleshow/129523452.cms",
+      "image": "https://static.toiimg.com/photo/msid-129523444,imgsize-243306.cms",
+      "published_at": "2026-03-12T19:51:49.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "CEC తొలగింపు కోసం Oppn ఈరోజు పార్లమెంట్ యొక్క ఒక సభ ప్రిసైడింగ్ అధికారికి నోటీసును సమర్పించవచ్చు",
+      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. మీరు అటువంటి ప్రాసెసింగ్‌ను అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "a1db7a6a5640d08ce0270db26e500ea0",
+      "title": "Kochi Corporation weighs fresh options as KSINC faces criticism over ro-ro service",
+      "summary": "Move comes after councillors across party lines voiced sharp criticism of KSINC over mounting losses and urged the civic body to identify a new operator to ease its financial burden",
+      "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-weighs-fresh-options-as-ksinc-faces-criticism-over-ro-ro-service/article70735793.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4trtjj/article70736674.ece/alternates/LANDSCAPE_1200/Kochi-CorporatiG68FLDQMF.3.jpg.jpg",
+      "published_at": "2026-03-12T19:49:23.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "KSINC రో-రో సర్వీస్‌పై విమర్శలను ఎదుర్కొంటున్నందున కొచ్చి కార్పొరేషన్ తాజా ఎంపికలను పరిశీలిస్తుంది",
+      "summary_te": "పార్టీలకు అతీతంగా కౌన్సిలర్లు పెరుగుతున్న నష్టాలపై KSINC పై తీవ్ర విమర్శలు చేయడం మరియు దాని ఆర్థిక భారాన్ని తగ్గించుకోవడానికి కొత్త ఆపరేటర్‌ను గుర్తించాలని పౌర సంస్థను కోరారు.",
+      "translated": true
+    },
+    {
+      "id": "208af070431c1d7d781a3576d62d416e",
+      "title": "LPG crisis: PM Modi hits out at those creating panic; asks States to monitor black marketers, hoarders",
+      "summary": "The prime minister also said the government is actively working on multiple fronts, and in the past few days, he spoke with the leaders of several countries about the developments in West Asia",
+      "url": "https://www.thehindu.com/news/national/pm-modi-hits-out-at-those-creating-panic-on-lpg-asks-states-to-monitor-black-marketers-hoarders/article70736696.ece",
+      "image": "https://th-i.thgim.com/public/incoming/68xslv/article70736751.ece/alternates/LANDSCAPE_1200/20260312538L.jpg",
+      "published_at": "2026-03-12T19:48:18.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "LPG సంక్షోభం: భయాందోళనలు సృష్టించే వారిపై ప్రధాని మోదీ విరుచుకుపడ్డారు; బ్లాక్ మార్కెటర్లు, హోర్డర్లను పర్యవేక్షించాలని రాష్ట్రాలను కోరింది",
+      "summary_te": "ప్రభుత్వం అనేక రంగాల్లో చురుకుగా పనిచేస్తోందని, గత కొద్దిరోజులుగా పశ్చిమాసియాలో జరుగుతున్న పరిణామాలపై పలు దేశాల నేతలతో మాట్లాడానని ప్రధాని చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "90124d035080ab1ac3e1ac0ccaeb9ec7",
+      "title": "Oil ship arrives in Mumbai from Saudi port amid Gulf war; another vessel on way",
+      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/oil-ship-captained-by-indian-arrives-in-mumbai-from-saudi-port-amid-gulf-war-another-vessel-on-way-to-india/articleshow/129523102.cms",
+      "image": "https://static.toiimg.com/photo/msid-129523290,imgsize-125122.cms",
+      "published_at": "2026-03-12T19:44:28.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "గల్ఫ్ యుద్ధం మధ్య సౌదీ నౌకాశ్రయం నుండి చమురు నౌక ముంబైకి చేరుకుంది; మార్గంలో మరొక నౌక",
+      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. మీరు అటువంటి ప్రాసెసింగ్‌ను అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "4f92f049e94de81680f639f6d7cc3bc4",
+      "title": "Kerala nurses on the warpath over long-overdue wage revision",
+      "summary": "Hundreds of nurses working in private hospitals across Kerala are on an indefinite strike in pursuit of their demands, including a wage revision. Aathira Haridas listens to the grievances of the protesters",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-nurses-on-the-warpath-over-long-overdue-wage-revision/article70734307.ece",
+      "image": "https://th-i.thgim.com/public/incoming/z6goms/article70736415.ece/alternates/LANDSCAPE_1200/Nurse02.JPG",
+      "published_at": "2026-03-12T19:41:55.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "చాలా కాలంగా బకాయిపడిన వేతన సవరణపై కేరళ నర్సులు పోరాటం చేస్తున్నారు",
+      "summary_te": "కేరళ వ్యాప్తంగా ప్రైవేటు ఆసుపత్రుల్లో పనిచేస్తున్న వందలాది మంది నర్సులు వేతన సవరణ సహా తమ డిమాండ్ల సాధన కోసం నిరవధిక సమ్మె చేస్తున్నారు. నిరసనకారుల మనోవేదనలను ఆతిర హరిదాస్ విన్నారు",
+      "translated": true
+    },
+    {
+      "id": "862b7868f0ca548096238f297fae79f1",
+      "title": "CCTV cameras, control centre installed in Ambur town to prevent crime",
+      "summary": "Residents and the civic body in Ambur town in Tirupattur have come together to install 64 CCTV cameras with a centralised control centre, covering all 36 wards for better surveillance.Along with municipal officials, police and residents, Ambur MLA A.C. Vilwanathan inaugurated the centralised control centre for CCTV cameras at Ambur Town police station on Thursday.The entire project was implemented at a cost of ₹18 lakh from the general funds of the civic body. “The cameras will be monitored round-the-clock by the local police and maintained by the civic body. The cameras will help in monitoring movement of vehicles and people as the town is located along the national highway,” S. Muthusamy, Commissioner, Ambur municipality, told The Hindu.Municipal officials said that at present, the town has CCTV cameras that are mostly installed by individuals and commercial establishments on their own. The cameras provided by the civic body in support of residents were meant for the entire town and surrounding areas to prevent crime.As per plan, the centralised control centre at Ambur police station will be managed by a sub-inspector with two constables round-the-clock. Earlier, the police used to depend on cameras installed by individuals in front of their houses to investigate cases. Most of these cameras have less clarity with respect to the images captured by them. On the other hand, the newly-installed cameras are equipped with high resolution lenses for better clarity.Residents said they were concerned over rising cases of bike theft, chain snatching, and suspected drug use in the area. It had prompted them to urge the local ward members and the civic body to install CCTV cameras at identified vulnerable spots in the town.Subsequently, a necessary resolution was also passed at the monthly council meeting of the municipality to provide adequate funds for the work. “The initiative by the municipality helps to provide a systematic surveillance of the neighbourhood to prevent crime. It will also help in better coordination between the police, the civic body and the residents for ensuring public safety,” said Mohammed Ibrahim, a resident.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cctv-cameras-control-centre-installed-in-ambur-town-to-prevent-crime/article70735316.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-12T19:40:49.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "నేరాల నివారణకు అంబూరు పట్టణంలో సీసీ కెమెరాలు, కంట్రోల్‌ సెంటర్‌ ఏర్పాటు చేశారు",
+      "summary_te": "తిరుపత్తూరులోని అంబూర్ పట్టణంలో నిర్వాసితులు, ప్రజాప్రతినిధులు సంయుక్తంగా 64 సీసీటీవీ కెమెరాలను ఏర్పాటు చేసి, మెరుగైన నిఘా కోసం మొత్తం 36 వార్డుల్లో 64 సీసీటీవీ కెమెరాలను ఏర్పాటు చేశారు. మునిసిపల్ అధికారులు, పోలీసులు, నిర్వాసితులతో కలిసి అంబూర్‌ ఎమ్మెల్యే ఏసీ విల్వనాథన్‌ గురువారం అంబూర్‌ టౌన్‌ నుంచి రూ. పౌర శరీరం యొక్క. ఈ కెమెరాలను స్థానిక పోలీసులు 24 గంటలూ పర్యవేక్షిస్తారు మరియు పౌరసంఘం నిర్వహిస్తుంది. పట్టణం జాతీయ రహదారి వెంబడి ఉన్నందున వాహనాలు మరియు ప్రజల కదలికలను పర్యవేక్షించడంలో కెమెరాలు సహాయపడతాయని అంబూర్ మునిసిపాలిటీ కమిషనర్ ఎస్.ముత్తుసామి ది హిందూతో అన్నారు. ప్రస్తుతం పట్టణంలో తమ సొంతంగా మరియు వాణిజ్య సంస్థల్లో సిసిటివి కెమెరాలు ఉన్నాయని మున్సిపల్ అధికారులు తెలిపారు. నివాసితులకు మద్దతుగా పౌర సంఘం అందించిన కెమెరాలు నేరాలను నిరోధించడానికి మొత్తం పట్టణం మరియు పరిసర ప్రాంతాల కోసం ఉద్దేశించబడ్డాయి. ప్రణాళిక ప్రకారం, అంబూర్ పోలీస్ స్టేషన్‌లోని కేంద్రీకృత నియంత్రణ కేంద్రాన్ని ఇద్దరు కానిస్టేబుళ్లతో ఒక సబ్-ఇన్‌స్పెక్టర్ రౌండ్-ది-క్లాక్ నిర్వహిస్తారు. గతంలో కేసుల దర్యాప్తు కోసం పోలీసులు తమ ఇళ్ల ముందు అమర్చుకునే కెమెరాలపైనే ఆధారపడేవారు. ఈ కెమెరాల్లో చాలా వరకు వాటి ద్వారా క్యాప్చర్ చేయబడిన చిత్రాలకు సంబంధించి తక్కువ స్పష్టత ఉంటుంది. మరోవైపు, కొత్తగా అమర్చిన కెమెరాలు మంచి స్పష్టత కోసం హై రిజల్యూషన్ లెన్స్‌లతో అమర్చబడి ఉన్నాయి. ఈ ప్రాంతంలో పెరుగుతున్న బైక్ దొంగతనాలు, చైన్ స్నాచింగ్‌లు మరియు అనుమానాస్పద మాదకద్రవ్యాల వినియోగంపై నివాసితులు ఆందోళన చెందుతున్నారు. పట్టణంలోని గుర్తించిన దుర్బల ప్రదేశాలలో సీసీ కెమెరాలు ఏర్పాటు చేయాలని స్థానిక వార్డు సభ్యులు మరియు పౌరసరఫరాల సంస్థను కోరాలని ఇది వారిని ప్రేరేపించింది. తదనంతరం, మున్సిపాలిటీ యొక్క నెలవారీ కౌన్సిల్ సమావేశంలో పనికి తగిన నిధులు మంజూరు చేయడానికి అవసరమైన తీర్మానం కూడా ఆమోదించబడింది. \"మున్సిపాలిటీ చొరవ నేరాలను నిరోధించడానికి పొరుగు ప్రాంతాలపై క్రమబద్ధమైన నిఘాను అందించడంలో సహాయపడుతుంది. ఇది ప్రజా భద్రతకు భరోసా కోసం పోలీసులు, పౌర సంస్థ మరియు నివాసితుల మధ్య మెరుగైన సమన్వయంలో కూడా సహాయపడుతుంది,\" అని నివాసి మహ్మద్ ఇబ్రహీం అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "000cd34293378439a87b2dce23f81128",
+      "title": "Class 1 student falls through cracked bus floor in Agra, crushed by rear wheels",
+      "summary": "Class 1 student falls through cracked bus floor in Agra, crushed by rear wheels",
+      "url": " https://www.indiatoday.in/india/story/class-1-student-falls-through-crack-in-school-bus-floor-crushed-by-rear-wheels-in-agra-2881196-2026-03-13?utm_source=rss ",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/class-1-student-killed-after-falling-through-broken-school-bus-floor-in-agra-123227387-16x9_0.jpg?VersionId=sXmhqRu09FlF5igN1r4_c2ZeM26.IOq4",
+      "published_at": "2026-03-12T19:37:28.000Z",
+      "source": "India Today",
+      "category": "india",
+      "language": "en",
+      "title_te": "1వ తరగతి విద్యార్థి ఆగ్రాలో పగిలిన బస్ ఫ్లోర్ గుండా పడిపోయాడు, వెనుక చక్రాలకు నలిగిపోయాడు",
+      "summary_te": "1వ తరగతి విద్యార్థి ఆగ్రాలో పగిలిన బస్ ఫ్లోర్ గుండా పడిపోయాడు, వెనుక చక్రాలకు నలిగిపోయాడు",
+      "translated": true
+    },
+    {
+      "id": "c1ecebde673ac375e52178fab2ae3662",
+      "title": "HC disqualification of SNDP Yogam director board a test of Kerala govt.’s mettle",
+      "summary": "Given Vellappally Natesan’s close ties with the ruling establishment, the Kerala government will have a tough task abiding by the High Court’s directive to temporarily take charge of the Yogam and to set up a provisional board to oversee affairs till elections are held",
+      "url": "https://www.thehindu.com/news/national/kerala/hc-disqualification-of-sndp-yogam-director-boarda-test-of-kerala-govts-mettle/article70735868.ece",
+      "image": null,
+      "published_at": "2026-03-12T19:37:02.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఎస్‌ఎన్‌డిపి యోగం డైరెక్టర్ బోర్డుపై హైకోర్టు అనర్హత వేటు వేయడం కేరళ ప్రభుత్వ పటిమకు పరీక్ష",
+      "summary_te": "పాలకవర్గంతో వెల్లపల్లి నటేశన్‌కు ఉన్న సన్నిహిత సంబంధాల దృష్ట్యా, యోగంపై తాత్కాలికంగా బాధ్యతలు చేపట్టాలని, ఎన్నికలు జరిగే వరకు వ్యవహారాలను పర్యవేక్షించేందుకు తాత్కాలిక బోర్డును ఏర్పాటు చేయాలన్న హైకోర్టు ఆదేశాలకు కట్టుబడి కేరళ ప్రభుత్వం కఠినంగా వ్యవహరించాల్సి ఉంటుంది.",
+      "translated": true
+    },
     {
       "id": "7b1481b2c1c4e2e53e3199d05b877fbb",
       "title": "LDF’s development narrative in Kollam constituency will face a stiff challenge from UDF",
@@ -28,8 +168,8 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "పాలనా వైఫల్యాలపై రాంచందర్‌రావు ధ్వజమెత్తారు, ప్రజా కష్టాలపై సీఎం దృష్టి సారించాలని కోరారు",
-      "summary_te": "కూల్చివేతలకు ప్రాధాన్యత ఇవ్వకుండా రైతులు, విద్యార్థులు, ప్రభుత్వ ఉద్యోగులు ఎదుర్కొంటున్న తక్షణ కష్టాలపై దృష్టి సారించాలని భారతీయ జనతా పార్టీ (బిజెపి) తెలంగాణ విభాగం ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డిని కోరింది. పార్టీ అధ్యక్షుడు ఎన్. రాంచందర్ రావు గురువారం ముఖ్యమంత్రికి రాసిన బహిరంగ లేఖలో శ్రీ రెడ్డి తన కార్యాలయ పరిమితుల నుండి బయటపడాలని పిలుపునిచ్చారు. అవసరమైన ప్రజాసేవలు అధ్వాన్నంగా కుటుంబాలను తరలించడం.. ‘‘తెలంగాణ సమాజం ఎదుర్కొంటున్న కష్టాలు ముఖ్యమంత్రి దృష్టికి చేరకపోవడం చాలా దురదృష్టకరం’’ అని రావు అన్నారు. మూసీ సుందరీకరణ, గాంధీ సరోవర్ వంటి ప్రాజెక్టులకు సంబంధించిన కూల్చివేతలతో పరిపాలన నిమగ్నమై ఉందని ఆయన ఆరోపించారు. ఈ ప్రాజెక్టుల వల్ల రంగారెడ్డి, ఖమ్మం జిల్లాలు నిర్వాసితులవుతున్నాయి. రైతులకు ‘రైతు భరోసా’ చెల్లింపుల్లో జాప్యం, పెట్టుబడి సాయం లేకపోవడంతో పెరిగిన వ్యవసాయ అప్పులు, పంటలు నష్టపోయి రైతు ఆత్మహత్యలకు దారితీసిన సాగునీటి కొరతతో సహా ప్రభుత్వం ‘లోపించిన’ ఆరు కీలక రంగాలను రావు వివరించారు. అనిశ్చితి. వాగ్దానం చేసిన ఉద్యోగ క్యాలెండర్ మరియు రెండు లక్షల ప్రభుత్వ పోస్టుల భర్తీకి నిబద్ధత కూడా నెరవేరలేదు. దాదాపు 12,000 కోట్ల రూపాయల రిటైర్‌మెంట్‌ బెనిఫిట్‌లు ఇంకా అందలేదని, కార్పొరేట్‌ ఆసుపత్రుల్లో హెల్త్‌ కార్డులు అందకపోవడంతో చాలా మంది రిటైర్డ్‌ ఉద్యోగులు అత్యవసర వైద్యం చేయించుకోలేకపోతున్నారని బిజెపి నేత పేర్కొన్నారు. వృద్ధాప్య, వికలాంగుల పింఛన్‌లను రెట్టింపు చేస్తామన్న హామీలు రెండేళ్లయినా అమలు కాలేదన్నారు. మునిసిపల్ బాడీలు నిధుల కొరత మరియు విరిగిన మురుగునీటి వ్యవస్థలతో సహా సరిపోని పౌర మౌలిక సదుపాయాల కారణంగా నిర్బంధించబడుతున్నాయని శ్రీ రావు పేర్కొన్నారు. అతను ప్రభుత్వ ఆరోగ్య సంరక్షణ స్థితిని \"దయనీయమైనది\"గా అభివర్ణించాడు మరియు MBBS అడ్మిషన్లలో గందరగోళం కారణంగా స్థానిక / స్థానికేతర హోదాపై న్యాయపోరాటానికి విద్యార్థులను బలవంతం చేశాయి.",
+      "title_te": "‘పరిపాలన వైఫల్యాలు’ అని రాంచందర్‌రావు ధ్వజమెత్తారు, ప్రజా కష్టాలపై సీఎం దృష్టి సారించాలని కోరారు",
+      "summary_te": "కూల్చివేతలకు ప్రాధాన్యత ఇవ్వకుండా రైతులు, విద్యార్థులు, ప్రభుత్వ ఉద్యోగులు ఎదుర్కొంటున్న తక్షణ కష్టాలపై దృష్టి సారించాలని భారతీయ జనతా పార్టీ (బిజెపి) తెలంగాణ విభాగం ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డిని కోరింది. పార్టీ అధ్యక్షుడు ఎన్. రాంచందర్ రావు గురువారం ముఖ్యమంత్రికి రాసిన బహిరంగ లేఖలో శ్రీ రెడ్డి తన కార్యాలయ పరిమితుల నుండి బయటపడాలని పిలుపునిచ్చారు. అవసరమైన ప్రజాసేవలు అధ్వాన్నంగా కుటుంబాలను తరలించడం.‘‘తెలంగాణ సమాజంలోని కష్టాలు ముఖ్యమంత్రి దృష్టికి వెళ్లకపోవడం చాలా దురదృష్టకరం’’ అని రావు అన్నారు. మూసీ సుందరీకరణ, గాంధీ సరోవర్ వంటి ప్రాజెక్టులకు సంబంధించిన కూల్చివేతలతో పరిపాలన నిమగ్నమైపోయిందని ఆయన ఆరోపించారు. ఈ ప్రాజెక్టుల కారణంగా రంగారెడ్డి, ఖమ్మం జిల్లాలు నిర్వాసితులవుతున్నాయి. రైతులకు ‘రైతు భరోసా’ చెల్లింపుల్లో జాప్యం, పెట్టుబడి సాయం లేకపోవడంతో పెరిగిన వ్యవసాయ అప్పులు, పంటలు నష్టపోయి రైతు ఆత్మహత్యలకు దారితీసిన సాగునీటి కొరతతో సహా ప్రభుత్వం ‘లోపించిన’ ఆరు కీలక రంగాలను రావు వివరించారు. అనిశ్చితి. వాగ్దానం చేసిన ఉద్యోగ క్యాలెండర్ మరియు రెండు లక్షల ప్రభుత్వ ఉద్యోగాల భర్తీకి నిబద్ధత కూడా నెరవేరలేదు. The BJP leader claimed that nearly ₹12,000 crore in retirement benefits are yet to be disbursed, leaving many retired employees unable to afford essential medical treatment what with the health cards not being accepted in corporarte hospitals.Promises to double old‑age and disability pensions have not been implemented even two years into the government’s tenure, he said, leaving vulnerable groups without adequate support. మునిసిపల్ బాడీలు నిధుల కొరత మరియు విరిగిన మురుగునీటి వ్యవస్థలతో సహా సరిపోని పౌర మౌలిక సదుపాయాల కారణంగా నిర్బంధించబడుతున్నాయని శ్రీ రావు పేర్కొన్నారు. అతను ప్రభుత్వ ఆరోగ్య సంరక్షణ స్థితిని \"దయనీయమైనది\"గా అభివర్ణించాడు మరియు MBBS అడ్మిషన్లలో గందరగోళం కారణంగా స్థానిక / స్థానికేతర హోదాపై న్యాయపోరాటానికి విద్యార్థులను బలవంతం చేశాయి.",
       "translated": true
     },
     {
@@ -42,8 +182,22 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఇరాక్‌లో జరిగిన దాడిలో US యాజమాన్యంలోని చమురు ట్యాంకర్ దగ్ధం, భారతీయ సిబ్బంది మృతి; మరొక ఓడ కొట్టబడింది",
+      "title_te": "ఇరాక్‌లో దాడిలో US యాజమాన్యంలోని చమురు ట్యాంకర్ దగ్ధం, భారతీయ సిబ్బంది మృతి; మరో ఓడ తగిలింది",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "fe953e94f5c230b97014754d67617ba2",
+      "title": "NASA Says \"On Track\" For Artemis 2 Launch As Soon As April 1",
+      "summary": "NASA said Thursday that the long-delayed launch of the Artemis 2 mission, part of the US push to return to the Moon by 2028, could come as soon as April 1.",
+      "url": "https://www.ndtv.com/science/nasa-says-on-track-for-artemis-2-launch-as-soon-as-april-1-11207842#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/sgd5t2a8_nasa-artemis_625x300_13_March_26.jpeg",
+      "published_at": "2026-03-12T19:28:00.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఆర్టెమిస్ 2 లాంచ్ కోసం ఏప్రిల్ 1 నాటికి \"ట్రాక్‌లో ఉంది\" అని NASA తెలిపింది",
+      "summary_te": "2028 నాటికి చంద్రునిపైకి తిరిగి రావాలనే US పుష్‌లో భాగమైన ఆర్టెమిస్ 2 మిషన్ యొక్క దీర్ఘకాల ప్రయోగం ఏప్రిల్ 1 నాటికి రావచ్చని NASA గురువారం తెలిపింది.",
       "translated": true
     },
     {
@@ -85,7 +239,7 @@
       "category": "india",
       "language": "en",
       "title_te": "Dy. SP సీనియారిటీ సవరణ జరుగుతోంది; కమిటీ నివేదికను అనుసరించి పదోన్నతులు: పరమేశ్వర",
-      "summary_te": "నాన్‌ఐపీఎస్‌ పోస్టులకు పదోన్నతి పొందేందుకు అర్హులైన డిప్యూటీ సూపరింటెండెంట్‌ ఆఫ్‌ పోలీస్‌ (డీఎస్పీ) సీనియారిటీ జాబితాను సవరించే ప్రక్రియ కొనసాగుతోందని, ఈ అంశాన్ని పరిశీలించిన కమిటీ నివేదిక అందిస్తే చర్యలు తీసుకుంటామని హోంమంత్రి జి. పరమేశ్వర గురువారం తెలిపారు. డివై.ఎస్‌పి కేడర్‌లో రిటైర్డ్ సాంఘిక సంక్షేమ అధికారి చిన్నమారయ్య నేతృత్వంలోని కమిటీని ఏర్పాటు చేశామని, ఆ కమిటీ తన నివేదికను సమర్పించిన తర్వాత అర్హులైన ఎస్‌పిలకు ఐపిఎస్‌యేతర అధికారులుగా పదోన్నతులు కల్పించేందుకు చర్యలు తీసుకుంటామని పరమేశ్వర తెలిపారు. రిక్రూట్‌మెంట్ మరియు ప్రమోషన్లు.Mr. పుట్టన్న మాట్లాడుతూ పలువురు అధికారులు డివైగా పనిచేస్తున్నారు. ఎస్పీలు గత ఎనిమిదేళ్లుగా ఐపీఎస్‌యేతర ర్యాంకులకు పదోన్నతి పొందేందుకు అర్హులు, కానీ పదోన్నతులు పొందలేదు. మంజూరైన 112 మందిలో డి. రాష్ట్రంలో ఎస్పీ పోస్టులు, కేవలం 50% అధికారులకు మాత్రమే పదోన్నతి లభించిందని, ఐపీఎస్ అధికారుల లాబీయింగ్‌ వల్ల రాష్ట్ర కేడర్‌ అధికారులు సూపరింటెండెంట్‌ ఆఫ్‌ పోలీస్‌ (ఎస్‌పీ), డిప్యూటీ ఇన్‌స్పెక్టర్‌ జనరల్‌ (డీఐజీ) వంటి పదవులకు మించి ఎదగడానికి పరిమిత అవకాశాలు ఉన్నాయని ఆరోపించారు. ఉన్నత పదవులకు. మూడు నెలల క్రితమే 33 మంది అధికారులు డీఐజీ స్థాయికి పదోన్నతి పొందారని, వారిలో చాలామంది కర్ణాటకకు చెందినవారేనని ఆయన తెలిపారు. ప్రభుత్వం పొరుగు రాష్ట్రాలలో ప్రమోషన్ మరియు రిక్రూట్‌మెంట్ పద్ధతులను కూడా పరిశీలిస్తుంది మరియు మార్పులు అవసరమైతే చర్యలు తీసుకుంటుంది.",
+      "summary_te": "నాన్‌ఐపీఎస్‌ పోస్టులకు పదోన్నతి పొందేందుకు అర్హులైన డిప్యూటీ సూపరింటెండెంట్‌ ఆఫ్‌ పోలీస్‌ (డీఎస్పీ) సీనియారిటీ జాబితాను సవరించే ప్రక్రియ కొనసాగుతోందని, ఈ అంశాన్ని పరిశీలించిన కమిటీ నివేదిక అందిస్తే చర్యలు తీసుకుంటామని హోంమంత్రి జి. పరమేశ్వర గురువారం తెలిపారు. డివై.ఎస్‌పి కేడర్‌లో రిటైర్డ్ సాంఘిక సంక్షేమ అధికారి చిన్నమారయ్య నేతృత్వంలోని కమిటీని ఏర్పాటు చేశామని, ఆ కమిటీ తన నివేదికను సమర్పించిన తర్వాత అర్హులైన ఎస్‌పిలకు ఐపిఎస్‌యేతర అధికారులుగా పదోన్నతులు కల్పించేందుకు చర్యలు తీసుకుంటామని పరమేశ్వర తెలిపారు. recruitment and promotions.Mr. పుట్టన్న మాట్లాడుతూ పలువురు అధికారులు డివైగా పనిచేస్తున్నారు. ఎస్పీలు గత ఎనిమిదేళ్లుగా ఐపీఎస్‌యేతర ర్యాంకులకు పదోన్నతి పొందేందుకు అర్హులు, కానీ పదోన్నతులు పొందలేదు. మంజూరైన 112 మందిలో డి. రాష్ట్రంలో ఎస్పీ పోస్టులు, కేవలం 50% అధికారులకు మాత్రమే పదోన్నతి లభించిందని, ఐపీఎస్ అధికారుల లాబీయింగ్‌ వల్ల రాష్ట్ర కేడర్‌ అధికారులు సూపరింటెండెంట్‌ ఆఫ్‌ పోలీస్‌ (ఎస్‌పీ), డిప్యూటీ ఇన్‌స్పెక్టర్‌ జనరల్‌ (డీఐజీ) వంటి పదవులకు మించి ఎదగడానికి పరిమిత అవకాశాలు ఉన్నాయని ఆరోపించారు. ఉన్నత పదవులకు. మూడు నెలల క్రితమే 33 మంది అధికారులు డీఐజీ స్థాయికి పదోన్నతి పొందారని, వారిలో చాలామంది కర్ణాటకకు చెందినవారేనని ఆయన తెలిపారు. ప్రభుత్వం పొరుగు రాష్ట్రాలలో ప్రమోషన్ మరియు రిక్రూట్‌మెంట్ పద్ధతులను కూడా పరిశీలిస్తుంది మరియు మార్పులు అవసరమైతే చర్యలు తీసుకుంటుంది.",
       "translated": true
     },
     {
@@ -99,7 +253,7 @@
       "category": "india",
       "language": "en",
       "title_te": "మొజ్తాబా ఖమేనీ యొక్క 1వ ప్రకటనకు కొన్ని గంటల ముందు, అతను కోమాలో ఉన్నట్లు నివేదికలు పేర్కొన్నాయి",
-      "summary_te": "నివేదికలు ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్, మొజ్తాబా ఖమేనీ, వైమానిక దాడి తరువాత తీవ్రంగా గాయపడి కోమాలో ఉన్నారని, బహుశా అవయవాలను కోల్పోయి మరియు తీవ్రమైన అంతర్గత గాయాలతో బాధపడుతున్నారని సూచిస్తున్నాయి. ఇరాన్ స్టేట్ టీవీ ప్రతీకారం తీర్చుకుంటానని ఒక ప్రకటనను ప్రసారం చేయడంతో ఇది జరిగింది, అయితే ప్రభుత్వ సలహాదారు అతను \"సురక్షితంగా మరియు మంచిగా ఉన్నాడని పేర్కొన్నాడు.",
+      "summary_te": "నివేదికలు ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్, మొజ్తాబా ఖమేనీ, వైమానిక దాడి తరువాత తీవ్రంగా గాయపడి కోమాలో ఉన్నారని, బహుశా అవయవాలను కోల్పోయి మరియు తీవ్రమైన అంతర్గత గాయాలతో బాధపడుతున్నారని సూచిస్తున్నాయి. ఇరాన్ ప్రభుత్వ టీవీ ప్రతీకారం తీర్చుకుంటానని ఒక ప్రకటనను ప్రసారం చేయడంతో ఇది జరిగింది, అయితే ప్రభుత్వ సలహాదారు అతను \"సురక్షితంగా మరియు మంచిగా ఉన్నాడని పేర్కొన్నాడు.",
       "translated": true
     },
     {
@@ -126,8 +280,8 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "పశ్చిమాసియా పతనం: రాష్ట్రాలు/యుటిలు మూడు నెలల ముందుగానే ఆహార ధాన్యాలను ఎత్తివేయాలని కోరాయి",
-      "summary_te": "రుణం కోసం నెలవారీ వాయిదా మొత్తాన్ని నిర్ణయించండి SIPల ద్వారా చేసిన పెట్టుబడులపై రాబడిని అంచనా వేయండి, PPF చెక్ మెచ్యూరిటీ మొత్తం మరియు FDపై ఆర్జించిన వడ్డీని కనుగొనండి, NPS కింద సేకరించబడిన పెన్షన్ మొత్తం మరియు కార్పస్‌ను అంచనా వేయండి A మ్యూచువల్ ఫండ్ కాలిక్యులేటర్ మేము సేవలను అందించడానికి కుకీలు మరియు ఇతర పెట్టుబడులను ట్రాక్ చేయడంలో మేము టెక్నాలజీలు మరియు ఇతర పెట్టుబడుల యొక్క భవిష్యత్తు విలువను అంచనా వేయడానికి సహాయపడుతుంది. వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడం, సైట్ ట్రాఫిక్‌ను విశ్లేషించడం మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడం కోసం మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడం. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "title_te": "పశ్చిమాసియా పతనం: రాష్ట్రాలు/యూటీలు మూడు నెలల ముందుగానే ఆహార ధాన్యాలను ఎత్తివేయాలని కోరాయి",
+      "summary_te": "రుణం కోసం నెలవారీ వాయిదా మొత్తాన్ని నిర్ణయించండి SIPల ద్వారా చేసిన పెట్టుబడులపై రాబడిని అంచనా వేయండి, PPF చెక్ మెచ్యూరిటీ మొత్తం మరియు FDపై ఆర్జించిన వడ్డీని కనుగొనండి, NPS కింద సేకరించబడిన పెన్షన్ మొత్తం మరియు కార్పస్‌ను అంచనా వేయండి A మ్యూచువల్ ఫండ్ కాలిక్యులేటర్ మేము సేవలను అందించడానికి కుకీలు మరియు ఇతర పెట్టుబడులను ట్రాక్ చేయడంలో మేము టెక్నాలజీలు మరియు ఇతర పెట్టుబడుల యొక్క భవిష్యత్తు విలువను అంచనా వేయడానికి సహాయపడుతుంది. వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడం, సైట్ ట్రాఫిక్‌ను విశ్లేషించడం మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడం కోసం మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడం. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. మీరు అటువంటి ప్రాసెసింగ్‌ను అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -155,7 +309,35 @@
       "category": "india",
       "language": "en",
       "title_te": "మహిళలు, చిన్నారులు అసురక్షితంగా ఉంటే సమాజం నాగరికత సంతరించుకోదని కమల్‌హాసన్‌ అన్నారు",
-      "summary_te": "మక్కల్ నీది మయ్యం (ఎంఎన్‌ఎం) వ్యవస్థాపకుడు, రాజ్యసభ ఎంపీ కమల్‌హాసన్‌ మాట్లాడుతూ మహిళలు, పిల్లలకు రక్షణ కల్పించలేని సమాజం నాగరికతగా చెప్పుకోజాలదని అన్నారు. మంచి వ్యక్తులు మౌనంగా ఉన్నప్పుడు, తప్పు చేయడం క్రమంగా సాధారణమైపోతుందని ఆయన అన్నారు. 32 ఏళ్ల క్రితం తాను చూసిన సామాజిక అన్యాయాలను చూసి తీవ్ర ఆందోళనకు గురైనప్పుడు, 32 ఏళ్ల క్రితం తన మహానటి సినిమా ద్వారా వ్యక్తీకరించిన భావాన్ని నటుడు-రాజకీయ నాయకుడు గుర్తు చేసుకున్నారు, మరియు ఇప్పటికీ పరిస్థితి మారలేదని, అప్పుడు తనకు కలిగిన కోపం తనలో కొనసాగుతుందని అన్నారు. తమిళనాడులో ఇటీవల జరిగిన రెండు కేసుల నేపథ్యంలో బాలికలు తీవ్ర నేరాలకు గురవుతున్న నేపథ్యంలో హాసన్ ఈ వ్యాఖ్యలు చేశారు.",
+      "summary_te": "మక్కల్ నీది మయ్యం (ఎంఎన్‌ఎం) వ్యవస్థాపకుడు, రాజ్యసభ ఎంపీ కమల్‌హాసన్‌ మాట్లాడుతూ మహిళలు, పిల్లలకు రక్షణ కల్పించలేని సమాజం నాగరికతగా చెప్పుకోజాలదని అన్నారు. మంచి వ్యక్తులు మౌనంగా ఉన్నప్పుడు, తప్పు చేయడం క్రమంగా సాధారణమైపోతుందని ఆయన అన్నారు. 32 ఏళ్ల క్రితం తాను చూసిన సామాజిక అన్యాయాలను చూసి తీవ్ర ఆందోళనకు గురైనప్పుడు, 32 ఏళ్ల క్రితం తన మహానటి సినిమా ద్వారా వ్యక్తీకరించిన భావాన్ని నటుడు-రాజకీయ నాయకుడు గుర్తు చేసుకున్నారు, మరియు ఇప్పటికీ పరిస్థితి మారలేదని, అప్పుడు తనకు కలిగిన కోపం తనలో కొనసాగుతుందని అన్నారు. తమిళనాడులో ఇటీవల జరిగిన కొన్ని కేసుల్లో బాలికలు తీవ్ర నేరాలకు గురవుతున్న నేపథ్యంలో హాసన్ ఈ వ్యాఖ్యలు చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "8881becd55f51e48feee447d77ffa650",
+      "title": "Delhi Metro Enthusiast Felicitated For Riding First Train On All New Corridors",
+      "summary": "Union Minister of State for Housing and Urban Affairs Tokhan Sahu felicitated Anil Marwah, a dedicated enthusiast of the Delhi Metro, for his personal milestone of riding the first train on the opening day of every newly inaugurated metro corridor.",
+      "url": "https://www.ndtv.com/india-news/delhi-metro-enthusiast-felicitated-for-riding-first-train-on-all-new-corridors-11207769#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/2lv4k7fc_delhi-metro-enthusiast-felicitated-for-riding-first-train-on-all-new-corridors_625x300_13_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-12T18:50:48.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "అన్ని కొత్త కారిడార్‌లలో మొదటి రైలును నడిపినందుకు ఢిల్లీ మెట్రో ఔత్సాహికుని సత్కరించారు",
+      "summary_te": "కొత్తగా ప్రారంభించబడిన ప్రతి మెట్రో కారిడార్ ప్రారంభ రోజున మొదటి రైలును నడిపిన తన వ్యక్తిగత మైలురాయి కోసం ఢిల్లీ మెట్రో పట్ల అంకితభావంతో ఉన్న అనిల్ మార్వాను కేంద్ర గృహనిర్మాణ మరియు పట్టణ వ్యవహారాల శాఖ సహాయ మంత్రి తోఖాన్ సాహు సత్కరించారు.",
+      "translated": true
+    },
+    {
+      "id": "658ec6a924c183da62b10906c3b1ce43",
+      "title": "\"Expressed Concern Over Loss Of Lives\": PM Holds Talks With Iran President",
+      "summary": "Underlining India's commitment to peace and dialogue, Prime Minister Narendra Modi on Thursday \"expressed deep concern\" over the escalating situation in the Middle East in a telephonic conversation with Iranian president Masoud Pezeshkian.",
+      "url": "https://www.ndtv.com/india-news/iran-war-latest-news-expressed-deep-concern-pm-narendra-modi-discusses-middle-east-situation-with-iran-president-11207560#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/2jengr0k_iran-war-afp_650x400_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-12T18:47:28.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "\"ప్రాణాల నష్టంపై ఆందోళన వ్యక్తం చేశారు\": ఇరాన్ అధ్యక్షుడితో చర్చలు జరిపిన PM",
+      "summary_te": "శాంతి మరియు చర్చలకు భారతదేశం యొక్క నిబద్ధతను నొక్కిచెబుతూ, ప్రధానమంత్రి నరేంద్ర మోడీ గురువారం ఇరాన్ అధ్యక్షుడు మసౌద్ పెజెష్కియాన్‌తో టెలిఫోనిక్ సంభాషణలో మధ్యప్రాచ్యంలో పెరుగుతున్న పరిస్థితులపై \"తీవ్ర ఆందోళన\" వ్యక్తం చేశారు.",
       "translated": true
     },
     {
@@ -169,7 +351,7 @@
       "category": "india",
       "language": "en",
       "title_te": "OBC క్రీమీలేయర్‌పై సుప్రీంకోర్టు తీర్పు సామాజిక న్యాయం సాధించిన విజయం: T.N. సీఎం స్టాలిన్",
-      "summary_te": "తమిళనాడు ముఖ్యమంత్రి ఎం.కె. ఇతర వెనుకబడిన తరగతుల (OBC) కేటగిరీ కింద రిజర్వేషన్ల కోసం 'క్రీమీ లేయర్' హోదాను తల్లిదండ్రుల ఆదాయం ఆధారంగా మాత్రమే నిర్ణయించలేమని ప్రకటించిన సుప్రీం కోర్టు తీర్పును స్టాలిన్ గురువారం స్వాగతించారు. X పై పోస్ట్‌లో, Mr. స్టాలిన్ మాట్లాడుతూ, సంవత్సరాల పోరాటం తర్వాత OBC న్యాయానికి ఈ తీర్పు నిర్ణయాత్మక విజయం అని అన్నారు. ఈ తీర్పు నిజమైన OBC ఔత్సాహికులను తప్పుగా మినహాయించకుండా కాపాడుతుందని, సివిల్ సర్వీసెస్ అర్హతపై హైకోర్టు తీర్పులను సమర్థిస్తుందని, ఉద్యోగ రంగాల్లో శత్రు వివక్షను తిరస్కరిస్తుంది మరియు సామాజిక వెనుకబాటుతనాన్ని సరిదిద్దాలనే రిజర్వేషన్ల లక్ష్యాన్ని పునరుద్ఘాటిస్తుందని ఆయన అన్నారు. రాజ్యాంగ ప్రాతిపదికన రిజర్వేషన్ల ప్రాతిపదికన బలహీన వర్గాల) కోటాను తొలగించారని ఆయన అన్నారు. మండల్ కమిషన్ సిఫార్సులను అమలు చేసి మూడు దశాబ్దాలు గడిచినా నేటికీ అనేక OBC పోస్టులు ప్రధాన సంస్థలు మరియు కేంద్ర ప్రభుత్వంలో భర్తీ చేయబడలేదు. డిఎంకె అఖిల భారత కోటా మెడికల్ సీట్లలో 27% ఒబిసి రిజర్వేషన్‌తో సహా సామాజిక న్యాయం కోసం నిరంతరం పోరాడుతోంది. \"సామాజిక న్యాయం కోసం మా సాధన కొనసాగుతోంది,\" అని ఆయన అన్నారు. సివిల్ సర్వీసెస్ పరీక్షలో ఉత్తీర్ణత సాధించినప్పటికీ, వారికి సరైన స్థానం నిరాకరించబడిన OBC అభ్యర్థులకు సూపర్‌న్యూమరీ సీట్లను సృష్టించాలని మరియు రాజ్యాంగ సమానత్వ స్ఫూర్తితో ఈ అన్యాయాన్ని సరిదిద్దాలని స్టాలిన్ కేంద్ర ప్రభుత్వాన్ని కోరారు.",
+      "summary_te": "తమిళనాడు ముఖ్యమంత్రి ఎం.కె. ఇతర వెనుకబడిన తరగతుల (OBC) కేటగిరీ కింద రిజర్వేషన్ల కోసం 'క్రీమీ లేయర్' హోదాను తల్లిదండ్రుల ఆదాయం ఆధారంగా మాత్రమే నిర్ణయించలేమని ప్రకటించిన సుప్రీం కోర్టు తీర్పును స్టాలిన్ గురువారం స్వాగతించారు. X పై పోస్ట్‌లో, Mr. స్టాలిన్ మాట్లాడుతూ, సంవత్సరాల పోరాటం తర్వాత OBC న్యాయానికి ఈ తీర్పు నిర్ణయాత్మక విజయం అని అన్నారు. ఈ తీర్పు నిజమైన OBC ఔత్సాహికులను తప్పుగా మినహాయించకుండా కాపాడుతుందని, సివిల్ సర్వీసెస్ అర్హతపై హైకోర్టు తీర్పులను సమర్థిస్తుందని, ఉద్యోగ రంగాల్లో శత్రు వివక్షను తిరస్కరిస్తుంది మరియు సామాజిక వెనుకబాటుతనాన్ని సరిచేయాలనే రిజర్వేషన్ల లక్ష్యాన్ని పునరుద్ఘాటిస్తుందని ఆయన అన్నారు. రాజ్యాంగ ప్రాతిపదికన రిజర్వేషన్ల ప్రాతిపదికన బలహీన వర్గాల) కోటాను తొలగించారని ఆయన అన్నారు. మండల్ కమిషన్ సిఫార్సులను అమలు చేసి మూడు దశాబ్దాలు గడిచినా నేటికీ అనేక OBC పోస్టులు ప్రధాన సంస్థలు మరియు కేంద్ర ప్రభుత్వంలో భర్తీ చేయబడలేదు. డిఎంకె అఖిల భారత కోటా మెడికల్ సీట్లలో 27% OBC రిజర్వేషన్‌తో సహా సామాజిక న్యాయం కోసం నిరంతరం పోరాడింది. \"సామాజిక న్యాయం కోసం మా సాధన కొనసాగుతోంది,\" అని ఆయన అన్నారు. సివిల్ సర్వీసెస్ పరీక్షలో ఉత్తీర్ణత సాధించినప్పటికీ, వారికి సరైన స్థానం నిరాకరించబడిన OBC అభ్యర్థులకు సూపర్‌న్యూమరీ సీట్లను సృష్టించాలని మరియు రాజ్యాంగ సమానత్వ స్ఫూర్తితో ఈ అన్యాయాన్ని సరిదిద్దాలని స్టాలిన్ కేంద్ర ప్రభుత్వాన్ని కోరారు.",
       "translated": true
     },
     {
@@ -196,7 +378,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "ఇరాన్-ఇజ్రాయెల్ వార్ లైవ్ అప్‌డేట్‌లు: బాగ్దాద్‌లోని ఇరాక్-సిరియా సరిహద్దు సమీపంలో దాడులు 11 మంది ఇరాన్-మద్దతుగల ఫైటర్లను చంపాయి",
+      "title_te": "ఇరాన్-ఇజ్రాయెల్ వార్ లైవ్ అప్‌డేట్‌లు: బాగ్దాద్‌లోని ఇరాక్-సిరియా సరిహద్దు సమీపంలో దాడులు 11 మంది ఇరాన్-మద్దతుగల యోధులను చంపాయి",
       "summary_te": "యుఎస్-ఇజ్రాయెల్-ఇరాన్ వార్ లైవ్ అప్‌డేట్‌లు: విదేశాంగ మంత్రి (ఇఎఎమ్) ఎస్ జైశంకర్ మరియు అతని ఇరాన్ కౌంటర్ అబ్బాస్ అరాఘి మధ్య చర్చల తరువాత ఇరాన్ హార్ముజ్ జలసంధి గుండా వెళ్ళడానికి భారతదేశం జెండాతో కూడిన ట్యాంకర్లను అనుమతించింది.",
       "translated": true
     },
@@ -210,7 +392,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "సాయుధ వ్యక్తి మిచిగాన్ సినగోగ్‌లోకి వాహనం దూసుకెళ్లాడు, సెక్యూరిటీ కాల్చి చంపాడు",
+      "title_te": "సాయుధ వ్యక్తి మిచిగాన్ ప్రార్థనా మందిరంలోకి వాహనం దూసుకెళ్లి, సెక్యూరిటీ కాల్చి చంపాడు",
       "summary_te": "డెట్రాయిట్ శివారు ప్రాంతంలో ఉన్న దేశంలోని అతిపెద్ద సంస్కరణల ప్రార్థనా మందిరంలోకి రైఫిల్‌తో ఆయుధాలు ధరించిన ఒక వ్యక్తి వాహనాన్ని ఢీకొట్టాడు మరియు భద్రతా దళాలచే కాల్చి చంపబడ్డాడు, ది అసోసియేటెడ్ ప్రెస్షాస్ నివేదించింది.",
       "translated": true
     },
@@ -229,20 +411,6 @@
       "translated": true
     },
     {
-      "id": "658ec6a924c183da62b10906c3b1ce43",
-      "title": "\"Expressed Concern Over Loss Of Lives\": PM Holds Talks With Iran President",
-      "summary": "Underlining India's commitment to peace and dialogue, Prime Minister Narendra Modi on Thursday \"expressed deep concern\" over the escalating situation in the Middle East in a telephonic conversation with Iranian president Masoud Pezeshkian.",
-      "url": "https://www.ndtv.com/india-news/iran-war-latest-news-expressed-deep-concern-pm-narendra-modi-discusses-middle-east-situation-with-iran-president-11207560#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/2jengr0k_iran-war-afp_650x400_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-12T18:30:35.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "\"ప్రాణాల నష్టంపై ఆందోళన వ్యక్తం చేశారు\": ఇరాన్ అధ్యక్షుడితో చర్చలు జరిపిన PM",
-      "summary_te": "శాంతి మరియు చర్చలకు భారతదేశం యొక్క నిబద్ధతను నొక్కిచెబుతూ, ప్రధానమంత్రి నరేంద్ర మోడీ గురువారం ఇరాన్ అధ్యక్షుడు మసౌద్ పెజెష్కియాన్‌తో టెలిఫోనిక్ సంభాషణలో మధ్యప్రాచ్యంలో పెరుగుతున్న పరిస్థితులపై \"తీవ్ర ఆందోళన\" వ్యక్తం చేశారు.",
-      "translated": true
-    },
-    {
       "id": "52e092b03f93f4b1fb063d4d1ab326f9",
       "title": "\"It Is Like Auctions\": Electric Stove Demand Goes Through The Roof Amid LPG Crisis",
       "summary": "Storekeepers say that sales that would normally take a month have been completed within just three days, leaving many outlets with empty shelves and forcing buyers to compete with each other for the remaining stock.",
@@ -252,7 +420,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "\"ఇది వేలంలా ఉంది\": ఎల్‌పిజి సంక్షోభం మధ్య ఎలక్ట్రిక్ స్టవ్ డిమాండ్ పైకప్పు గుండా వెళుతుంది",
+      "title_te": "\"ఇది వేలం వంటిది\": ఎల్‌పిజి సంక్షోభం మధ్య ఎలక్ట్రిక్ స్టవ్ డిమాండ్ పైకప్పు గుండా వెళుతుంది",
       "summary_te": "సాధారణంగా నెల రోజులు పట్టే విక్రయాలు కేవలం మూడు రోజుల్లోనే పూర్తయ్యాయని, దీంతో చాలా ఔట్‌లెట్‌లు ఖాళీ షెల్ఫ్‌లతో మిగిలిపోయాయని, మిగిలిన స్టాక్‌ కోసం కొనుగోలుదారులు ఒకరితో ఒకరు పోటీ పడాల్సి వస్తోందని దుకాణదారులు చెబుతున్నారు.",
       "translated": true
     },
@@ -323,7 +491,7 @@
       "category": "india",
       "language": "en",
       "title_te": "మధ్యప్రదేశ్ కుంకుమపువ్వు ట్యాగ్‌లతో 40 లక్షల విచ్చలవిడి పశువులను ట్యాగ్ చేయనుంది",
-      "summary_te": "రోడ్లు మరియు పొలాల మీద పెరుగుతున్న విచ్చలవిడి పశువుల బెడదను ఎదుర్కోవటానికి ఉద్దేశించిన ఒక ప్రధాన అడుగులో, దాదాపు 40 లక్షల విచ్చలవిడి పశువులను ప్రత్యేక 12 అంకెల కుంకుమపు గుర్తింపు ట్యాగ్‌లతో ట్యాగ్ చేయాలనే మధ్యప్రదేశ్ ప్రతిపాదనకు కేంద్రం నుండి సూత్రప్రాయ ఆమోదం లభించింది.",
+      "summary_te": "రోడ్లు మరియు పొలాల మీద పెరుగుతున్న విచ్చలవిడి పశువుల బెడదను ఎదుర్కోవడానికి ఉద్దేశించిన ఒక ప్రధాన అడుగులో, దాదాపు 40 లక్షల విచ్చలవిడి పశువులకు ప్రత్యేకమైన 12 అంకెల కుంకుమ గుర్తింపు ట్యాగ్‌లతో ట్యాగ్ చేయాలనే మధ్యప్రదేశ్ ప్రతిపాదనకు కేంద్రం నుండి సూత్రప్రాయ ఆమోదం లభించింది.",
       "translated": true
     },
     {
@@ -336,7 +504,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "'లోతైన ఆందోళన': ప్రధాని మోదీ ఇరాన్ అధ్యక్షుడితో మాట్లాడుతూ, భారతీయుల భద్రత మరియు ఇంధన ప్రవాహాలపై ధ్వజమెత్తారు",
+      "title_te": "'లోతైన ఆందోళన': ప్రధాని మోదీ ఇరాన్ అధ్యక్షుడితో మాట్లాడారు, భారతీయుల భద్రత మరియు ఇంధన ప్రవాహాలపై ధ్వజమెత్తారు",
       "summary_te": "TOI న్యూస్ డెస్క్ అనేది ప్రపంచవ్యాప్తంగా ఉన్న టైమ్స్ ఆఫ్ ఇండియా పాఠకులకు అత్యంత ప్రస్తుత మరియు సమగ్రమైన వార్తలు మరియు అప్‌డేట్‌లను అందించడానికి 24 గంటలూ పనిచేసే అంకితమైన మరియు అలసిపోని జర్నలిస్టుల బృందాన్ని కలిగి ఉంది. జర్నలిజంలో శ్రేష్ఠతకు తిరుగులేని నిబద్ధతతో, విస్తృత శ్రేణి అంశాలపై బ్రేకింగ్ న్యూస్, లోతైన విశ్లేషణ మరియు తెలివైన నివేదికలను సేకరించడం, ధృవీకరించడం మరియు అందించడంలో మా బృందం ముందంజలో ఉంది. TOI న్యూస్ డెస్క్ అనేది ఎప్పటికప్పుడు అభివృద్ధి చెందుతున్న గ్లోబల్ ల్యాండ్‌స్కేప్‌కు సమాచారం అందించడానికి మరియు కనెక్ట్ అవ్వడానికి మీ విశ్వసనీయ మూలం, మా పాఠకులు అత్యంత ముఖ్యమైన తాజా పరిణామాలను కలిగి ఉన్నారని నిర్ధారిస్తుంది.\" మరింత చదవండి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. వెబ్‌సైట్. ఈ వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి, మీరు ఈ కుకీల వినియోగానికి సమ్మతిస్తున్నారు, అటువంటి ప్రాసెసింగ్‌ను మీరు ఆక్షేపించాలనుకుంటే, దయచేసి మా ';Q+=' కుకీ పాలసీలో వివరించిన సూచనలను చదవండి '; Q+=' గోప్యతా విధానం= దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='ని సమీక్షించండి",
       "translated": true
     },
@@ -350,7 +518,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "బంగ్లాదేశ్, శ్రీలంక మరియు మాల్దీవుల నుండి ఇంధన సరఫరా కోసం భారతదేశం అభ్యర్థనలను స్వీకరించిందని MEA తెలిపింది",
+      "title_te": "బంగ్లాదేశ్, శ్రీలంక మరియు మాల్దీవుల నుండి ఇంధన సరఫరాల కోసం భారతదేశం అభ్యర్థనలను స్వీకరించిందని MEA తెలిపింది",
       "summary_te": "భారతదేశం యొక్క రిఫైనింగ్ కెపాసిటీ, మన స్వంత అవసరాలు మరియు డీజిల్ లభ్యత నిర్ణయాలు తీసుకునేటప్పుడు కారకాలుగా ఉంటాయి, MEA ప్రతినిధి రణధీర్ జైస్వాల్ అన్నారు.",
       "translated": true
     },
@@ -365,7 +533,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇరాన్ బాలికల పాఠశాలపై జరిగిన క్షిపణి దాడిపై భారత్ విచారం వ్యక్తం చేసింది",
-      "summary_te": "పశ్చిమాసియా సంఘర్షణల మధ్య పౌర భద్రతను కోరుతూ ఇరాన్ బాలికల పాఠశాలపై యుఎస్ క్షిపణి దాడిలో చిన్నారులు మరణించినందుకు భారతదేశం విచారం వ్యక్తం చేసింది.",
+      "summary_te": "పశ్చిమాసియా సంఘర్షణల మధ్య పౌర భద్రతను కోరుతూ ఇరాన్ బాలికల పాఠశాలపై యుఎస్ క్షిపణి దాడిలో పిల్లలు మరణించినందుకు భారతదేశం విచారం వ్యక్తం చేసింది.",
       "translated": true
     },
     {
@@ -435,7 +603,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఎవ నమ్మవా ఎవ నమ్మవా బిల్లును క్యాబినెట్ క్లియర్ చేసింది",
-      "summary_te": "గౌరవం మరియు సంప్రదాయం (ఎవ నమ్మవా ఎవ నమ్మవా) బిల్లు, 2026 పేరుతో వివాహం మరియు నివారణ మరియు నేరాల నిషేధంలో కర్ణాటక స్వేచ్ఛా స్వేచ్ఛను రాష్ట్ర మంత్రివర్గం గురువారం ఆమోదించింది. గురువారం రాత్రి జరిగిన క్యాబినెట్ సమావేశంలో ఈ నిర్ణయం వెలువడింది మరియు ప్రస్తుతం జరుగుతున్న శాసనసభ బడ్జెట్ సెషన్‌లో ఈ నిర్ణయం వెలువడే అవకాశం ఉంది. గతంలో ఉన్న బిల్లుకు కొన్ని సవరణలతో బిల్లు వచ్చిందని సంబంధిత వర్గాలు తెలిపాయి. క్యాబినెట్ అడ్వర్టైజ్‌మెంట్ పాలసీ, 2026.₹800-కోటికి కూడా ఆమోదం తెలిపింది. కొత్త స్టేడియం అనేకల్ తాలూకాలోని సూర్య నగర్ 4వ ఫేజ్‌లో నిర్మించనున్న కొత్త అంతర్జాతీయ స్టేడియం కోసం రాష్ట్ర మంత్రివర్గం కూడా డెక్‌లను క్లియర్ చేసింది. ₹1,980 కోట్లతో 75 ఎకరాల్లో KHB సూర్య స్పోర్ట్స్ విలేజ్‌ను నిర్మించాలని ప్రాథమిక ప్రణాళిక ఉండగా, రాష్ట్ర ప్రభుత్వం కొత్త స్టేడియం కాన్సెప్ట్‌తో ముందుకు వెళ్లాలని కేబినెట్ నిర్ణయించింది. M. చిన్నస్వామి స్టేడియం ముందు RCB తొలి IPL విజయోత్సవ వేడుకల సందర్భంగా జరిగిన తొక్కిసలాటలో 11 మంది ప్రాణాలు కోల్పోయారు.",
+      "summary_te": "గౌరవం మరియు సంప్రదాయం (ఎవ నమ్మవా ఎవ నమ్మవా) బిల్లు, 2026 పేరుతో వివాహం మరియు నివారణ మరియు నేరాల నిషేధంలో కర్ణాటక స్వేచ్ఛా స్వేచ్ఛను రాష్ట్ర మంత్రివర్గం గురువారం ఆమోదించింది. గురువారం రాత్రి జరిగిన క్యాబినెట్ సమావేశంలో ఈ నిర్ణయం వెలువడింది మరియు ప్రస్తుతం జరుగుతున్న శాసనసభ బడ్జెట్ సెషన్‌లో ఈ నిర్ణయం వెలువడే అవకాశం ఉంది. గతంలో ఉన్న బిల్లుకు కొన్ని సవరణలతో బిల్లు వచ్చిందని సంబంధిత వర్గాలు తెలిపాయి. క్యాబినెట్ అడ్వర్టైజ్‌మెంట్ పాలసీ, 2026.₹800-కోటికి కూడా ఆమోదం తెలిపింది. కొత్త స్టేడియం అనేకల్ తాలూకాలోని సూర్య నగర్ 4వ ఫేజ్‌లో నిర్మించనున్న కొత్త అంతర్జాతీయ స్టేడియం కోసం రాష్ట్ర మంత్రివర్గం డెక్‌లను కూడా క్లియర్ చేసింది. ₹1,980 కోట్లతో 75 ఎకరాల్లో కెహెచ్‌బి సూర్య స్పోర్ట్స్ విలేజ్‌ను నిర్మించాలని ప్రాథమిక ప్రణాళిక ఉండగా, రాష్ట్ర ప్రభుత్వం కొత్త స్టేడియం కాన్సెప్ట్‌తో ముందుకు వెళ్లాలని కేబినెట్ నిర్ణయించింది. M. చిన్నస్వామి స్టేడియం ముందు RCB తొలి IPL విజయోత్సవ వేడుకల సందర్భంగా జరిగిన తొక్కిసలాటలో 11 మంది ప్రాణాలు కోల్పోయారు.",
       "translated": true
     },
     {
@@ -476,7 +644,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "యుఎస్ సినాగోగ్‌లో షూటింగ్; దాడిలో అనుమానితుడు మృతి చెందాడు",
+      "title_te": "US సినాగోగ్‌లో షూటింగ్; దాడిలో అనుమానితుడు మృతి చెందాడు",
       "summary_te": "సినాగోగ్ పైకప్పు నుండి పొగలు కమ్ముకోవడంతో, చురుకైన షూటర్ యొక్క నివేదికల నేపథ్యంలో పోలీసులు డెట్రాయిట్ సమీపంలోని టెంపుల్ ఇజ్రాయెల్‌కు చేరుకున్నారు. ఒక ట్రక్కు భవనంపైకి దూసుకెళ్లినట్లు నివేదించబడింది, ఇది భారీ చట్ట అమలు ప్రతిస్పందనను ప్రేరేపించింది. ముగుస్తున్న భద్రతా సంఘటనపై అధికారులు దర్యాప్తు చేస్తున్నందున ఈ ప్రాంతంలోని యూదు సంస్థలు ముందుజాగ్రత్తగా లాక్‌డౌన్‌లోకి ప్రవేశించాలని సూచించబడ్డాయి.",
       "translated": true
     },
@@ -533,7 +701,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పాల ఉత్పత్తిదారులకు BAMUL నుండి ఉగాది బోనస్",
-      "summary_te": "2025-2026 ఆర్థిక సంవత్సరం ముగిసే నాటికి బెంగళూరు మిల్క్ యూనియన్ లిమిటెడ్ (BAMUL) రికార్డు స్థాయిలో ₹3,400 కోట్ల టర్నోవర్ నమోదు చేస్తుందని అంచనా వేస్తున్నందున, ఏప్రిల్ 1 నుంచి మార్చి 31 వరకు పాలను కొనుగోలు చేసిన 1.27 లక్షల మంది రైతులకు లీటరుకు ₹1 ‘ఉగాది బోనస్’గా చెల్లించాలని నిర్ణయించింది. ఈ సంవత్సరం లీటర్ల పాలు, మరియు 'ఉగాది బోనస్' దాదాపు ₹ 59.39 కోట్ల వ్యయం అవుతుంది. సగటున, రోజుకు 16 నుండి 18 లక్షల లీటర్ల పాలను సేకరిస్తారు, పాల సంఘం రోజువారీ సగటు సేకరణ 24 లక్షలకు చేరుకోవాలని లక్ష్యంగా పెట్టుకుంది. గత ఏడాది ₹ 500 కోట్లు, టర్నోవర్ సుమారు ₹ 2,900 కోట్లు ” అని BAMUL ప్రెసిడెంట్ D.K. సురేష్ గురువారం ఇక్కడ విలేకరులతో అన్నారు. రాబోయే సంవత్సరాల్లో రూ.5,000 కోట్ల టర్నోవర్‌ని చేరుకోవడమే లక్ష్యంగా బముల్‌ లక్ష్యంగా పెట్టుకున్నట్లు తెలిపారు. రైతులకు ఉగాది బోనస్‌ చెల్లించడమే కాకుండా క్యాజువల్‌ కార్మికులకు ₹ 5,000 చెల్లించాలని, కార్మికులకు రూ.4.68 కోట్ల డీఏ బకాయిలు చెల్లించాలని, గత మూడేళ్లలో కన్ఫర్మ్‌కాని కార్మికుల నియామకాన్ని నిర్ధారించాలని పాల సంఘం నిర్ణయించిందని తెలిపారు. BAMUL 2,300 పాల సహకార సంఘాలకు ₹15,000 అందజేస్తుంది, దీని ధర సుమారు ₹3.45 కోట్లు.",
+      "summary_te": "2025-2026 ఆర్థిక సంవత్సరం ముగిసే నాటికి బెంగళూరు మిల్క్ యూనియన్ లిమిటెడ్ (BAMUL) రికార్డు స్థాయిలో ₹3,400 కోట్ల టర్నోవర్ నమోదు చేస్తుందని అంచనా వేస్తున్నందున, ఏప్రిల్ 1 నుంచి మార్చి 31 వరకు పాలను కొనుగోలు చేసిన 1.27 లక్షల మంది రైతులకు లీటరుకు ₹1 ‘ఉగాది బోనస్’గా చెల్లించాలని నిర్ణయించింది. ఈ సంవత్సరం లీటర్ల పాలు, మరియు 'ఉగాది బోనస్' దాదాపు ₹ 59.39 కోట్ల వ్యయం అవుతుంది. సగటున, రోజుకు 16 నుండి 18 లక్షల లీటర్ల పాలను సేకరిస్తారు, పాల సంఘం రోజువారీ సగటు సేకరణ 24 లక్షలకు చేరుకోవాలని లక్ష్యంగా పెట్టుకుంది. గత ఏడాది ₹ 500 కోట్లు, టర్నోవర్ సుమారు ₹ 2,900 కోట్లు ” అని BAMUL ప్రెసిడెంట్ D.K. సురేష్ గురువారం ఇక్కడ విలేకరులతో అన్నారు. రాబోయే సంవత్సరాల్లో రూ.5,000 కోట్ల టర్నోవర్‌ని చేరుకోవడమే లక్ష్యంగా బముల్‌ లక్ష్యంగా పెట్టుకున్నట్లు తెలిపారు. రైతులకు ఉగాది బోనస్‌ చెల్లించడమే కాకుండా క్యాజువల్‌ కార్మికులకు ₹ 5,000 చెల్లించాలని, కార్మికులకు రూ.4.68 కోట్ల డీఏ బకాయిలు చెల్లించాలని, గత మూడేళ్లలో కన్ఫర్మ్‌కాని కార్మికుల నియామకాన్ని నిర్ధారించాలని పాల సంఘం నిర్ణయించిందని తెలిపారు. BAMUL ప్రతి 2,300 పాల సహకార సంఘాలకు ₹15,000 అందజేస్తుంది, దీని ధర సుమారు ₹3.45 కోట్లు.",
       "translated": true
     },
     {
@@ -561,21 +729,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇరాన్ హార్ముజ్ జలసంధి ద్వారా భారతీయ నౌకలను అనుమతిస్తున్నట్లు నివేదికలు 'అకాల': కేంద్రం",
-      "summary_te": "గల్ఫ్ లోపల అలాగే ఒమన్ గల్ఫ్‌లో హోర్ముజ్ జలసంధికి సమీపంలో చిక్కుకున్న మర్చంట్ నేవీ షిప్‌లను లక్ష్యంగా చేసుకోవడం పట్ల భారత్ ఆందోళన వ్యక్తం చేస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "4973a27b17f65c599fb2bd7f5c70ec36",
-      "title": "Beer sales drop by 14.59% in Karnataka; govt. cites Andhra excise policy, weather",
-      "summary": "The Karnataka government on Thursday acknowledged a decline in liquor sales in the State, attributing the drop in beer sales to the new excise policy in Andhra Pradesh, as well as heavy rains and colder weather conditions in some districts.Replying to a question from Congress member Nagaraj Yadav in the Legislative Council, Floor leader N.S. Boseraju answered on behalf of the Excise Minister.He said that as per the latest figures, the State had generated ₹37,531 crore in excise revenue, which is about ₹4,000 crore short of the target set for the current financial year. “Compared to the previous year, beer sales have declined by 14.59% as of January-end in 2025-26,” he said.Mr. Boseraju said the government had constituted a Resource Mobilisation Committee to analyse the current tax structure and suggest measures to improve revenue collection. Further steps will be taken after examining the committee’s recommendations, he added.He said the new excise policy in Andhra Pradesh had affected liquor sales in border districts such as Kolar, Chickballapur, Tumakuru, Chitradurga, Ballari, and Raichur, as fewer customers from neighbouring States were travelling to Karnataka to purchase liquor.In some districts, excess rainfall and unusually cold weather had contributed to the decline in beer consumption, he said.The government has also taken steps to curb the illegal transportation of liquor from Goa. The Excise Department has established three permanent excise checkposts in border areas, and vehicles travelling on highways are being inspected. Staff at these checkposts are rotated every 15 days to ensure effective enforcement, Mr. Boseraju said.He added that arrack production, sale, and consumption are permitted in Andhra Pradesh and Telangana, and steps are being taken to prevent its entry into Karnataka. Public awareness campaigns are also being conducted in villages and wards about the harmful effects of consuming arrack mixed with chloral hydrate (CH) powder, which is reportedly available in those States.Vehicle and person checks in border areas have been intensified to prevent such substances from entering the State, he added.",
-      "url": "https://www.thehindu.com/news/national/karnataka/beer-sales-drop-by-1459-in-karnataka-govt-cites-andhra-excise-policy-weather/article70735157.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7kb0pz/article70736561.ece/alternates/LANDSCAPE_1200/Beer_27.jpg",
-      "published_at": "2026-03-12T17:20:23.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కర్ణాటకలో బీర్ అమ్మకాలు 14.59% తగ్గాయి; ప్రభుత్వం ఆంధ్రా ఎక్సైజ్ పాలసీ, వాతావరణాన్ని ఉదహరించారు",
-      "summary_te": "ఆంధ్రప్రదేశ్‌లో కొత్త ఎక్సైజ్ పాలసీ కారణంగా బీర్ల విక్రయాలు తగ్గుముఖం పట్టాయని, అలాగే కొన్ని జిల్లాల్లో భారీ వర్షాలు, చల్లటి వాతావరణ పరిస్థితుల కారణంగా రాష్ట్రంలో మద్యం అమ్మకాలు తగ్గుముఖం పట్టాయని కర్ణాటక ప్రభుత్వం గురువారం అంగీకరించింది. ఎక్సైజ్ మంత్రి తరపున బోసరాజు సమాధానమిచ్చారు. తాజా లెక్కల ప్రకారం, రాష్ట్రం ₹ 37,531 కోట్ల ఎక్సైజ్ ఆదాయాన్ని ఆర్జించిందని, ఇది ప్రస్తుత ఆర్థిక సంవత్సరంలో నిర్దేశించిన లక్ష్యం కంటే ₹ 4,000 కోట్లు తక్కువగా ఉందని ఆయన అన్నారు. \"గత సంవత్సరంతో పోల్చితే, 2025-26లో జనవరి చివరి నాటికి బీర్ అమ్మకాలు 14.59% తగ్గాయి\" అని ఆయన చెప్పారు. ప్రస్తుత పన్నుల నిర్మాణాన్ని విశ్లేషించి, ఆదాయ వసూళ్లను మెరుగుపరిచే చర్యలను సూచించేందుకు ప్రభుత్వం వనరుల సమీకరణ కమిటీని ఏర్పాటు చేసిందని బోసరాజు తెలిపారు. కమిటీ సిఫార్సులను పరిశీలించిన తర్వాత తదుపరి చర్యలు తీసుకుంటామని ఆయన తెలిపారు.ఆంధ్రప్రదేశ్‌లో కొత్త ఎక్సైజ్ పాలసీ కారణంగా సరిహద్దు జిల్లాలైన కోలార్, చిక్‌బల్లాపూర్, తుమకూరు, చిత్రదుర్గ, బళ్లారి, రాయచూరు వంటి జిల్లాల్లో మద్యం అమ్మకాలపై ప్రభావం పడిందని, పొరుగు రాష్ట్రాల నుంచి తక్కువ మంది వినియోగదారులు మద్యం కొనుగోలుకు కర్ణాటకకు వెళ్లడంతో అసాధారణ వర్షపాతం నమోదైంది. వినియోగం, అతను చెప్పాడు. గోవా నుండి అక్రమ మద్యం రవాణాను అరికట్టడానికి ప్రభుత్వం కూడా చర్యలు తీసుకుంది. ఎక్సైజ్ శాఖ సరిహద్దు ప్రాంతాల్లో మూడు శాశ్వత ఎక్సైజ్ చెక్‌పోస్టులను ఏర్పాటు చేసి, హైవేలపై ప్రయాణించే వాహనాలను తనిఖీ చేస్తోంది. ఈ చెక్‌పోస్టుల వద్ద సిబ్బందిని ప్రతి 15 రోజులకోసారి తిప్పుతూ, సమర్థవంతంగా అమలు చేసేలా చూస్తామని బోసరాజు తెలిపారు.ఆంధ్రప్రదేశ్ మరియు తెలంగాణల్లో అరక్‌ల ఉత్పత్తి, విక్రయం మరియు వినియోగానికి అనుమతి ఉందని, కర్నాటకలోకి రాకుండా చర్యలు తీసుకుంటున్నామని తెలిపారు. ఆ రాష్ట్రాల్లో అందుబాటులో ఉన్న క్లోరల్ హైడ్రేట్ (సిహెచ్) పౌడర్‌తో కూడిన అరక్‌ను సేవించడం వల్ల కలిగే దుష్ప్రభావాల గురించి గ్రామాలు మరియు వార్డులలో ప్రజలకు అవగాహన ప్రచారాలు కూడా నిర్వహిస్తున్నారు. రాష్ట్రంలోకి ప్రవేశించకుండా నిరోధించడానికి సరిహద్దు ప్రాంతాలలో వాహనాలు మరియు వ్యక్తుల తనిఖీలను ముమ్మరం చేసినట్లు ఆయన తెలిపారు.",
+      "summary_te": "హోర్ముజ్ జలసంధికి సమీపంలో గల్ఫ్ లోపల అలాగే ఒమన్ గల్ఫ్‌లో చిక్కుకున్న మర్చంట్ నేవీ షిప్‌లను లక్ష్యంగా చేసుకోవడం పట్ల భారతదేశం ఆందోళన వ్యక్తం చేస్తోంది.",
       "translated": true
     },
     {
@@ -593,20 +747,6 @@
       "translated": true
     },
     {
-      "id": "764d028245b2a02572b5e5d06cd25704",
-      "title": "KESAHC holds workshop on new curriculum for allied health professions",
-      "summary": "A one-day workshop on the new curricula to be introduced nationally from academic year 2026-27 in allied and healthcare professional institutions was organised by the Kerala State Allied and Healthcare Council (KESAHC) here on Tuesday.KESAHC was constituted in the State under the National Commission for Allied and Healthcare Professions Act 2021. KESAHC regulates, standardises, and registers over 50 categories of allied and healthcare professionals to ensure quality education and ethical standards.S. Gopakumar, Registrar of the Kerala University of Health Sciences, who inaugurated the workshop, said that KUHS was finalising the procedures for implementing the new curriculum.The new competency-based curricula for ten allied and healthcare professions, is being introduced nationally by the Union Health Ministry, in collaboration with the NCAHP, so that globally competent allied and healthcare professionals can be produced to address the growing demand for these professionals. The new national curricula, which is expected to set a benchmark for the quality of healthcare professionals, will also ensure uniformity of skillsThe Principals of various allied and healthcare professional colleges in Kerala participated in the workshopThe chairperson of KESAHC, Abdunnasir M., presided. The Director of Medical Education K. V. Viswanathan, Joint Director of Medical Education T. V. Anupam Kumar, Kavitha Ravi, Dean of the Allied and Healthcare Department, KUHS, among others, participated.",
-      "url": "https://www.thehindu.com/news/national/kerala/kesahc-holds-workshop-on-new-curriculum-for-allied-health-professions/article70736269.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-12T17:18:27.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "KESAHC అనుబంధ ఆరోగ్య వృత్తుల కోసం కొత్త పాఠ్యాంశాలపై వర్క్‌షాప్‌ను నిర్వహిస్తుంది",
-      "summary_te": "అనుబంధ మరియు ఆరోగ్య సంరక్షణ వృత్తిపరమైన సంస్థలలో 2026-27 విద్యా సంవత్సరం నుండి జాతీయంగా ప్రవేశపెట్టబోయే కొత్త పాఠ్యాంశాలపై ఒక-రోజు వర్క్‌షాప్‌ను కేరళ స్టేట్ అలైడ్ అండ్ హెల్త్‌కేర్ కౌన్సిల్ (KESAHC) మంగళవారం ఇక్కడ నిర్వహించింది. KESAHC నేషనల్ కమీషన్ ఫర్ అలైడ్ అండ్ హెల్త్‌కేర్ ప్రొఫెషన్స్, 20HC 1 రెగ్యులేషన్స్ చట్టం ప్రకారం రాష్ట్రంలో ఏర్పాటు చేయబడింది. నాణ్యమైన విద్య మరియు నైతిక ప్రమాణాలను నిర్ధారించడానికి అనుబంధ మరియు ఆరోగ్య సంరక్షణ నిపుణుల యొక్క 50 వర్గాలకు పైగా నమోదు చేసింది.S. వర్క్‌షాప్‌ను ప్రారంభించిన కేరళ యూనివర్శిటీ ఆఫ్ హెల్త్ సైన్సెస్ రిజిస్ట్రార్ గోపకుమార్ మాట్లాడుతూ, కొత్త పాఠ్యాంశాలను అమలు చేయడానికి KUHS విధివిధానాలను ఖరారు చేస్తోందని చెప్పారు. పది అనుబంధ మరియు ఆరోగ్య సంరక్షణ వృత్తులకు కొత్త సామర్థ్య ఆధారిత పాఠ్యాంశాలను కేంద్ర ఆరోగ్య మంత్రిత్వ శాఖ జాతీయంగా ప్రవేశపెడుతోంది, తద్వారా ప్రపంచవ్యాప్తంగా వృత్తిపరమైన డిమాండ్‌ను ఉత్పత్తి చేస్తుంది. ఈ నిపుణులు. కొత్త జాతీయ పాఠ్యాంశాలు, ఆరోగ్య సంరక్షణ నిపుణుల నాణ్యతకు బెంచ్‌మార్క్‌ని నిర్ధారిస్తాయి, నైపుణ్యాల ఏకరూపతను కూడా నిర్ధారిస్తుంది. కేరళలోని వివిధ అనుబంధ మరియు ఆరోగ్య సంరక్షణ వృత్తి కళాశాలల ప్రిన్సిపాల్స్ వర్క్‌షాప్‌లో పాల్గొన్నారు, KESAHC చైర్‌పర్సన్, అబ్దున్నసిర్ M., అధ్యక్షత వహించారు. డైరెక్టర్ ఆఫ్ మెడికల్ ఎడ్యుకేషన్ కె.వి.విశ్వనాథన్, మెడికల్ ఎడ్యుకేషన్ జాయింట్ డైరెక్టర్ టి.వి.అనుపమ్ కుమార్, కెయుహెచ్‌ఎస్ అనుబంధ, ఆరోగ్య సంరక్షణ విభాగం డీన్ కవిత రవి తదితరులు పాల్గొన్నారు.",
-      "translated": true
-    },
-    {
       "id": "74128f9d6716614915237bcaff4bf35a",
       "title": "Iran's Historic Palaces, UNESCO Sites Damaged In US-Israeli Bombing",
       "summary": "US and Israeli strikes on Iran have damaged four cultural and historical sites, including palaces and an ancient mosque.",
@@ -621,20 +761,6 @@
       "translated": true
     },
     {
-      "id": "5a934fef7080cb3ec08a48eb4dc87426",
-      "title": "Kochi Corporation to fast-track Konthuruthy compensation",
-      "summary": "Corporation secretary to initiate steps to distribute compensation to families residing on Konthuruthy river puramboke under the special rehabilitation package approved by the State Cabinet",
-      "url": "https://www.thehindu.com/news/national/kerala/kochi-corporation-to-fast-track-konthuruthy-compensation/article70736316.ece",
-      "image": null,
-      "published_at": "2026-03-12T17:13:48.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కొచ్చి కార్పొరేషన్‌ కొంతురుత్తి నష్టపరిహారాన్ని వేగవంతం చేయాలి",
-      "summary_te": "రాష్ట్ర మంత్రివర్గం ఆమోదించిన ప్రత్యేక పునరావాస ప్యాకేజీ కింద కొంతురుతి నది పురంబోకెలో నివాసముంటున్న కుటుంబాలకు పరిహారం పంపిణీకి చర్యలు తీసుకోవాలని కార్పొరేషన్ కార్యదర్శి",
-      "translated": true
-    },
-    {
       "id": "464b5bf55233ccb36406e30d6d893228",
       "title": "\"Those Trying To Create Panic Over LPG Are Hurting The Country\": PM Modi",
       "summary": "Prime Minister Narendra Modi on Thursday hit out at those trying to create panic on the LPG situation in India, and said they are not only exposing themselves before the people but also hurting the country.",
@@ -646,48 +772,6 @@
       "language": "en",
       "title_te": "\"LPG గురించి భయాందోళనలు సృష్టించడానికి ప్రయత్నిస్తున్న వారు దేశాన్ని దెబ్బతీస్తున్నారు\": ప్రధాని మోదీ",
       "summary_te": "భారతదేశంలో ఎల్‌పిజి పరిస్థితిపై భయాందోళనలు సృష్టించడానికి ప్రయత్నిస్తున్న వారిని ప్రధాని నరేంద్ర మోడీ గురువారం కొట్టారు మరియు వారు ప్రజల ముందు తమను తాము బహిర్గతం చేయడమే కాకుండా దేశాన్ని కూడా బాధపెడుతున్నారని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "12433e37cf6fb1aa01b42e703370da1f",
-      "title": "No shortage of fuel in country, says government",
-      "summary": "There is no shortage of fuel and crude supply is secured, foremost priority of govt. is to provide cooking gas to households, regulation of commercial LPG will prevent black-marketing, says Petroleum Minister",
-      "url": "https://www.thehindu.com/news/national/no-shortage-of-fuel-in-country-says-government/article70735623.ece",
-      "image": "https://th-i.thgim.com/public/incoming/sdovij/article70736542.ece/alternates/LANDSCAPE_1200/20260312327L.jpg",
-      "published_at": "2026-03-12T17:10:34.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "దేశంలో ఇంధన కొరత లేదని ప్రభుత్వం తెలిపింది",
-      "summary_te": "ఇంధనం కొరత లేదు మరియు ముడి సరఫరా సురక్షితం, ప్రభుత్వ ప్రధాన ప్రాధాన్యత. గృహాలకు వంట గ్యాస్ అందించడం, వాణిజ్య LPG నియంత్రణ బ్లాక్ మార్కెటింగ్‌ను నిరోధించగలదని పెట్రోలియం మంత్రి చెప్పారు",
-      "translated": true
-    },
-    {
-      "id": "7bc8331a0ad4c74c77a1f71f8c291d34",
-      "title": "One held for cheating youth of ₹90,000 with job promise",
-      "summary": "The Thampanoor police have arrested a 34-year-old man on the charge of cheating a Neyyattinkara native of ₹90,000.The suspect has been identified as Deepu of Nemom. The police said Deepu told a youth that he was a policeman employed at the Thampanoor police station and that once he resigned, he would ensure that the job went to the youth for a payment of ₹90,000. The accused, arrested by a team led by Thampanoor station house officer Jiju Kumar, was presented in court and remanded in custody.",
-      "url": "https://www.thehindu.com/news/national/kerala/one-held-for-cheating-youth-of-90000-with-job-promise/article70736217.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-12T17:09:31.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఉద్యోగం ఇస్తామని చెప్పి యువతను ₹90,000 మోసం చేసినందుకు ఒకటి పట్టుబడింది",
-      "summary_te": "తంపనూరు పోలీసులు 34 ఏళ్ల వ్యక్తిని 90,000 రూపాయల మోసం చేశాడని నేరం రుజువు చేశారు. నిందితుడిని నెమోమ్‌కు చెందిన దీపుగా గుర్తించారు. తాను తంపనూర్ పోలీస్ స్టేషన్‌లో ఉద్యోగం చేస్తున్నానని, తాను రాజీనామా చేసిన తర్వాత ఉద్యోగం యువతకు ₹90,000 చెల్లించేలా చూస్తానని దీపు ఓ యువకుడితో చెప్పినట్లు పోలీసులు తెలిపారు. తంపనూరు స్టేషన్‌ హౌస్‌ ఆఫీసర్‌ జిజుకుమార్‌ నేతృత్వంలోని బృందం అరెస్టు చేసిన నిందితులను కోర్టులో హాజరుపరిచి రిమాండ్‌కు తరలించారు.",
-      "translated": true
-    },
-    {
-      "id": "27a20294c05b711f77b0bb36fca045e2",
-      "title": "441 new public toilets to be built in Greater Bengaluru area: D.K. Shivakumar",
-      "summary": "Deputy Chief Minister D.K. Shivakumar on Thursday said 441 new public toilets were being constructed in the Greater Bengaluru Authority (GBA) limits, in addition to 388 existing toilets, to improve sanitation facilities across the city.Replying to Congress member Aarthi Krishna in the Legislative Council, Mr. Shivakumar said several measures were being taken to improve the availability and maintenance of public toilets in the city.Ms. Krishna had raised concerns that many public toilets in the GBA limits were not user-friendly and not in usable condition, and suggested that artificial intelligence (AI) be used to monitor cleanliness and maintenance.In response, Mr. Shivakumar said the city currently has about 380 public toilets, of which 65 were being operated by retired pourakarmikas, while 20 were being run by persons with disabilities.Under the Shubhra Bengaluru initiative, 60 toilets would be constructed, he said. In addition, 191 toilets were under construction.He said the Union government had provided ₹13.5 crore under the Swachh Bharat Mission, under which 90 toilets were being built. Another 100 toilets were being constructed under the Brand Bengaluru initiative, primarily aimed at improving facilities for women.“In total, 441 new toilets are being constructed, apart from the 388 existing ones. If members bring to our notice the need for toilets in specific locations, we will examine the availability of land and take steps to construct them,” he said.",
-      "url": "https://www.thehindu.com/news/national/karnataka/441-new-public-toilets-to-be-built-in-greater-bengaluru-area-dk-shivakumar/article70734977.ece",
-      "image": "https://th-i.thgim.com/public/incoming/nrmc6b/article70736536.ece/alternates/LANDSCAPE_1200/D.K.-ShivakumarG38FMM1HR.3.jpg.jpg",
-      "published_at": "2026-03-12T17:09:21.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "గ్రేటర్ బెంగళూరు ప్రాంతంలో 441 ​​కొత్త పబ్లిక్ టాయిలెట్లు నిర్మించబడతాయి: D.K. శివకుమార్",
-      "summary_te": "ఉప ముఖ్యమంత్రి డి.కె. గ్రేటర్ బెంగళూరు అథారిటీ (జీబీఏ) పరిధిలో ప్రస్తుతం ఉన్న 388 మరుగుదొడ్లకు అదనంగా 441 పబ్లిక్ టాయిలెట్లను నిర్మిస్తున్నామని శివకుమార్ గురువారం తెలిపారు. GBA పరిమితుల్లో చాలా పబ్లిక్ టాయిలెట్లు యూజర్ ఫ్రెండ్లీగా లేవని మరియు ఉపయోగించలేని స్థితిలో ఉన్నాయని కృష్ణ ఆందోళన వ్యక్తం చేశారు మరియు పరిశుభ్రత మరియు నిర్వహణను పర్యవేక్షించడానికి ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ (AI)ని ఉపయోగించాలని సూచించారు. దీనికి ప్రతిస్పందనగా, శ్రీ శివకుమార్ మాట్లాడుతూ, నగరంలో ప్రస్తుతం సుమారు 380 పబ్లిక్ టాయిలెట్లు ఉన్నాయని, వాటిలో 65 రిటైర్డ్ పౌరకార్మికులచే నిర్వహించబడుతున్నాయని, 20 బెంగాల్‌లోని వికలాంగులు నిర్వహిస్తున్నారు. 60 మరుగుదొడ్లు నిర్మించనున్నట్లు తెలిపారు. అదనంగా, 191 మరుగుదొడ్లు నిర్మాణంలో ఉన్నాయి. కేంద్ర ప్రభుత్వం స్వచ్ఛ భారత్ మిషన్ కింద ₹ 13.5 కోట్లు అందించిందని, దీని కింద 90 మరుగుదొడ్లు నిర్మిస్తున్నట్లు ఆయన చెప్పారు. బ్రాండ్ బెంగళూరు ఇనిషియేటివ్ కింద మరో 100 మరుగుదొడ్లు నిర్మించబడుతున్నాయి, ప్రధానంగా మహిళల సౌకర్యాలను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ప్రస్తుతం ఉన్న 388 మరుగుదొడ్లు కాకుండా మొత్తం 441 కొత్త మరుగుదొడ్లు నిర్మిస్తున్నారు. నిర్దిష్ట ప్రదేశాలలో మరుగుదొడ్ల ఆవశ్యకతను సభ్యులు మా దృష్టికి తీసుకువస్తే, మేము వాటి స్థలాల లభ్యతను పరిశీలించి, వాటిని నిర్మించడానికి చర్యలు తీసుకుంటాము.",
       "translated": true
     },
     {
@@ -729,21 +813,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇరాన్ వివాదం మధ్య చమురు ధరలను అరికట్టేందుకు 'జోన్స్ యాక్ట్'ను సస్పెండ్ చేయాలని అమెరికా యోచిస్తోంది - చట్టం వివరించింది",
-      "summary_te": "ఇరాన్ వివాదం మరియు పెరుగుతున్న చమురు ధరల మధ్య, ట్రంప్ పరిపాలన జోన్స్ చట్టం యొక్క తాత్కాలిక మాఫీని పరిశీలిస్తోంది. ఈ సముద్ర చట్టం ప్రకారం దేశీయ రవాణా కోసం US నౌకలు అవసరం. విదేశీ-ఫ్లాగ్ ఉన్న నౌకలు దేశీయంగా పనిచేయడానికి అనుమతించడం ద్వారా US పోర్టులకు కీలకమైన శక్తి మరియు వ్యవసాయ ఉత్పత్తుల ఉచిత ప్రవాహాన్ని నిర్ధారించడం ఈ చర్య లక్ష్యం.",
-      "translated": true
-    },
-    {
-      "id": "33814fbe53225a8161e15ee303e48593",
-      "title": "Chinese man arrested for smuggling live ants in test tubes at Nairobi airport",
-      "summary": "Kenyan authorities apprehended a Chinese national at Nairobi's international airport. He was found with over 2,000 live queen ants hidden in his luggage. The insects were carefully packed to survive the journey. This discovery highlights a growing trade in rare insects. Officials are investigating potential links to a larger trafficking network.",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/2000-queen-ants-in-a-suitcase-chinese-man-arrested-for-smuggling-live-ants-in-test-tubes-at-nairobi-airport/articleshow/129515617.cms",
-      "image": "https://static.toiimg.com/photo/msid-129516123,imgsize-820231.cms",
-      "published_at": "2026-03-12T16:25:40.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "నైరోబీ విమానాశ్రయంలో టెస్ట్ ట్యూబ్‌లలో సజీవ చీమలను స్మగ్లింగ్ చేస్తున్న చైనా వ్యక్తిని అరెస్టు చేశారు",
-      "summary_te": "కెన్యా అధికారులు నైరోబీ అంతర్జాతీయ విమానాశ్రయంలో చైనా జాతీయుడిని పట్టుకున్నారు. అతని సామానులో దాచిన 2,000 క్వీన్ చీమలను అతను కనుగొన్నాడు. ప్రయాణంలో జీవించడానికి కీటకాలు జాగ్రత్తగా ప్యాక్ చేయబడ్డాయి. ఈ ఆవిష్కరణ అరుదైన కీటకాలలో పెరుగుతున్న వాణిజ్యాన్ని హైలైట్ చేస్తుంది. పెద్ద ట్రాఫికింగ్ నెట్‌వర్క్‌కు సంభావ్య లింక్‌లను అధికారులు పరిశీలిస్తున్నారు.",
+      "summary_te": "ఇరాన్ వివాదం మరియు పెరుగుతున్న చమురు ధరల మధ్య, ట్రంప్ పరిపాలన జోన్స్ చట్టం యొక్క తాత్కాలిక మాఫీని పరిశీలిస్తోంది. ఈ సముద్ర చట్టం ప్రకారం దేశీయ రవాణా కోసం US నౌకలు అవసరం. విదేశీ ఫ్లాగ్ ఉన్న నౌకలు దేశీయంగా పనిచేయడానికి అనుమతించడం ద్వారా US పోర్టులకు కీలకమైన శక్తి మరియు వ్యవసాయ ఉత్పత్తుల ఉచిత ప్రవాహాన్ని నిర్ధారించడం ఈ చర్య లక్ష్యం.",
       "translated": true
     },
     {
@@ -771,7 +841,7 @@
       "category": "india",
       "language": "en",
       "title_te": "బంగ్లాదేశ్, మాల్దీవులు, శ్రీలంక నుండి ఇంధన సరఫరా అభ్యర్థనలను భారత్ పరిశీలిస్తోంది",
-      "summary_te": "పశ్చిమాసియా వివాదం కారణంగా ఏర్పడిన ఇంధన సంక్షోభం మధ్య బంగ్లాదేశ్, మాల్దీవులు మరియు శ్రీలంక నుండి ఇంధన సరఫరా అభ్యర్థనలను భారతదేశం సమీక్షిస్తోంది.",
+      "summary_te": "పశ్చిమాసియా వివాదం కారణంగా ఏర్పడిన ఇంధన సంక్షోభం మధ్య బంగ్లాదేశ్, మాల్దీవులు మరియు శ్రీలంక నుండి ఇంధన సరఫరా అభ్యర్థనలను భారతదేశం సమీక్షిస్తోంది",
       "translated": true
     },
     {
@@ -887,20 +957,6 @@
       "translated": true
     },
     {
-      "id": "e7538f718334279a53150343c2c012b7",
-      "title": "US-Iran war: How Strait of Hormuz closure impacts global oil supply - explained in 5 charts",
-      "summary": "The Strait of Hormuz, a critical energy route, is effectively blocked due to the escalating US-Israeli war on Iran, halting tankers traffic and forcing oil producers to cut the oil output. Damaged infrastructure and blocked shipping lanes are causing global supply shocks, leading to surging energy prices and economic strain worldwide.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-iran-war-how-the-strait-of-hormuz-closure-impacts-global-oil-supply-explained-in-5-charts/articleshow/129511873.cms",
-      "image": "https://static.toiimg.com/photo/msid-129514230,imgsize-95680.cms",
-      "published_at": "2026-03-12T15:23:35.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "US-ఇరాన్ యుద్ధం: హార్ముజ్ జలసంధి మూసివేత ప్రపంచ చమురు సరఫరాను ఎలా ప్రభావితం చేస్తుంది - 5 చార్ట్‌లలో వివరించబడింది",
-      "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం తీవ్రతరం కావడం, ట్యాంకర్ల ట్రాఫిక్‌ను నిలిపివేయడం మరియు చమురు ఉత్పత్తిదారులను చమురు ఉత్పత్తిని తగ్గించమని బలవంతం చేయడం వల్ల కీలకమైన శక్తి మార్గం అయిన హార్ముజ్ జలసంధి సమర్థవంతంగా నిరోధించబడింది. దెబ్బతిన్న మౌలిక సదుపాయాలు మరియు నిరోధించబడిన షిప్పింగ్ లేన్‌లు ప్రపంచ సరఫరా షాక్‌లకు కారణమవుతున్నాయి, ఇది ప్రపంచవ్యాప్తంగా ఇంధన ధరలు మరియు ఆర్థిక ఒత్తిడికి దారితీస్తోంది.",
-      "translated": true
-    },
-    {
       "id": "7da1b6a3ce3798ee2ce3148f768880e9",
       "title": "Big shift in India’s job market! Why fixed term employment is the new normal",
       "summary": "In simple terms, fixed term employment means hiring an employee directly on the employer’s payroll for a clearly defined period, backed by a written contract.",
@@ -967,7 +1023,7 @@
       "category": "india",
       "language": "en",
       "title_te": "భారత విమానయాన సంస్థలు రియాద్‌కు విమానాలను తిరిగి ప్రారంభించినప్పుడు కేంద్రం పశ్చిమాసియా గగనతలాన్ని పర్యవేక్షిస్తుంది",
-      "summary_te": "సౌదీ అరేబియాలోని రియాద్‌కు మరియు బయలుదేరే విమానాలు మార్చి 12 నుండి పునఃప్రారంభించబడ్డాయి, ఇది భారతదేశం మరియు గల్ఫ్ మధ్య కీలకమైన వాయు కనెక్టివిటీని పునరుద్ధరించడంలో కీలక దశను సూచిస్తుంది.",
+      "summary_te": "సౌదీ అరేబియాలోని రియాద్‌కు మరియు బయలుదేరే విమానాలు మార్చి 12 నుండి పునఃప్రారంభించబడ్డాయి, భారతదేశం మరియు గల్ఫ్ మధ్య కీలకమైన వాయు కనెక్టివిటీని పునరుద్ధరించడంలో కీలక దశగా గుర్తించబడింది.",
       "translated": true
     },
     {
@@ -994,7 +1050,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "భార్య, కూతురిని చంపిన జైపూర్ వ్యక్తి; అరెస్టు వరకు రాత్రంతా మృతదేహాలతోనే ఉంటాడు: పోలీసులు",
+      "title_te": "జైపూర్ వ్యక్తి భార్య, కుమార్తెను చంపాడు; అరెస్టు వరకు రాత్రంతా మృతదేహాలతోనే ఉంటాడు: పోలీసులు",
       "summary_te": "జైపూర్ వ్యక్తి భార్య మరియు కుమార్తెపై కత్తితో దాడి చేశాడు; కస్టడీలోకి తీసుకునే ముందు రాత్రంతా మృతదేహాలతోనే ఉన్నాడని పోలీసులు చెబుతున్నారు",
       "translated": true
     },
@@ -1041,20 +1097,6 @@
       "translated": true
     },
     {
-      "id": "61b602b4d7a2156397551643070fc5d5",
-      "title": "Israel Army Drops Charges Against Soldiers In Palestinian Prisoner Abuse Case",
-      "summary": "The Israeli military says it is dropping charges against five soldiers who were accused of sexually abusing a Palestinian detainee in an encounter partially caught on camera.",
-      "url": "https://www.ndtv.com/world-news/israel-army-drops-charges-against-soldiers-in-palestinian-prisoner-abuse-case-11206513#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/slm5i7ho_israel-military_625x300_12_March_26.jpeg",
-      "published_at": "2026-03-12T15:02:24.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "పాలస్తీనా ఖైదీల దుర్వినియోగం కేసులో సైనికులపై ఇజ్రాయెల్ ఆర్మీ అభియోగాలను ఉపసంహరించుకుంది",
-      "summary_te": "కెమెరాలో పాక్షికంగా చిక్కుకున్న ఎన్‌కౌంటర్‌లో పాలస్తీనా ఖైదీని లైంగికంగా వేధించినట్లు ఆరోపణలు ఎదుర్కొంటున్న ఐదుగురు సైనికులపై అభియోగాలను ఉపసంహరించుకుంటున్నట్లు ఇజ్రాయెల్ సైన్యం తెలిపింది.",
-      "translated": true
-    },
-    {
       "id": "3b475de4384112981ffc190d770cd95d",
       "title": "Rajasthan RTE Lottery 2026-27 Result Out: Check District-Wise School Allotment",
       "summary": "Rajasthan RTE Lottery 2026-27 Result OUT: Following the lottery, parents must complete the reporting and document verification process at the allotted schools by March 16, 2026, using the prescribed format.",
@@ -1075,7 +1117,7 @@
       "url": "https://www.ndtv.com/india-news/what-happened-when-rahul-gandhi-darted-from-lpg-to-anything-in-parliament-11206715#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-03/466ic3p8_om-birla-rahul-gandhi_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-12T14:58:51.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "రాహుల్ గాంధీ పార్లమెంటులో LPG నుండి \"ఏదయినా\" వరకు వెళ్ళినప్పుడు ఏమి జరిగింది",
@@ -1107,7 +1149,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇరాన్ యుద్ధం ఆర్థిక ప్రభావం: US, చైనా, భారతదేశం - విజేతలు మరియు ఓడిపోయినవారు ఎవరు?",
-      "summary_te": "గోల్డ్‌మన్ సాచ్స్ వివరించిన మరింత నిరాశావాద దృక్పథంలో, క్రూడ్ ధరలు బ్యారెల్‌కు సుమారు $100కి చేరుకోవచ్చు మరియు ఎలివేట్‌గా ఉండవచ్చు. ఇటువంటి అభివృద్ధి ప్రపంచ ఆర్థిక వృద్ధిని దాదాపు సగం శాతం తగ్గించగలదు, అదే సమయంలో ద్రవ్యోల్బణాన్ని వచ్చే ఏడాదిలో దాదాపు ఒక శాతం పాయింట్‌కు పెంచుతుంది.",
+      "summary_te": "గోల్డ్‌మన్ సాచ్స్ వివరించిన మరింత నిరాశావాద దృక్పథంలో, క్రూడ్ ధరలు బ్యారెల్‌కు సుమారు $100కి చేరుకోవచ్చు మరియు ఎలివేట్‌గా ఉండవచ్చు. అటువంటి అభివృద్ధి ప్రపంచ ఆర్థిక వృద్ధిని దాదాపు సగం శాతం తగ్గించగలదు, అదే సమయంలో ద్రవ్యోల్బణం వచ్చే ఏడాదిలో దాదాపు ఒక శాతం పెరుగుతుంది.",
       "translated": true
     },
     {
@@ -1275,7 +1317,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పంత్ IPL 2026 - వాచ్‌కి ముందు యువరాజ్ సింగ్‌తో ప్రత్యేక శిక్షణ పొందాడు",
-      "summary_te": "రిషబ్ పంత్, తన వైట్-బాల్ కెరీర్‌ను పునరుద్ధరించాలని లక్ష్యంగా పెట్టుకున్నాడు, ముంబైలో 2011 ప్రపంచ కప్ హీరో యువరాజ్ సింగ్‌తో శిక్షణ పొందాడు. ఇది సాధారణ IPL 2025 సీజన్ తర్వాత పంత్ 269 పరుగులు చేసి లక్నో సూపర్ జెయింట్స్ ఏడవ స్థానంలో నిలిచింది. IPL 2026కి ముందు తన అదృష్టాన్ని మార్చుకోవడానికి యువరాజ్ మార్గదర్శకత్వం తనకు సహాయపడుతుందని పంత్ ఆశిస్తున్నాడు.",
+      "summary_te": "రిషబ్ పంత్, తన వైట్-బాల్ కెరీర్‌ను పునరుద్ధరించే లక్ష్యంతో, ముంబైలో 2011 ప్రపంచ కప్ హీరో యువరాజ్ సింగ్‌తో శిక్షణ పొందాడు. ఇది సాధారణ IPL 2025 సీజన్ తర్వాత పంత్ 269 పరుగులు చేసి లక్నో సూపర్ జెయింట్స్ ఏడవ స్థానంలో నిలిచింది. IPL 2026కి ముందు తన అదృష్టాన్ని మార్చుకోవడానికి యువరాజ్ మార్గదర్శకత్వం సహాయపడుతుందని పంత్ ఆశిస్తున్నాడు.",
       "translated": true
     },
     {
@@ -1290,20 +1332,6 @@
       "language": "en",
       "title_te": "వృద్ధుడు భార్య, కోడలు, మనవరాలిని సుత్తితో చంపాడు",
       "summary_te": "ఒడిశాలోని డియోఘర్ జిల్లాలో ఇంట్లో గొడవల కారణంగా తన కుటుంబంలోని ముగ్గురిని సుత్తితో కొట్టి చంపిన ఓ వృద్ధుడు పరారీలో ఉన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "df78a4277b175b9f1f8944dae1080705",
-      "title": "NDTV Power Play Keralam Highlights | \"Real Kerala Story Written In Our Communal Harmony\": Pinarayi Vijayan",
-      "summary": "NDTV Powerplay Keralam Highlights: As Kerala's political conversation intensifies ahead of the elections, NDTV PowerPlay Keralam brings together the leaders and ideas shaping the state's political future",
-      "url": "https://www.ndtv.com/india-news/ndtv-power-play-keralam-live-updates-kerala-conclave-pinarayi-vijayan-to-address-on-keralam-model-shashi-tharoor-rajeev-chandrasekhar-john-brittas-11203193#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/tekiv58k_pinarayi-vijayan-_625x300_12_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-12T13:27:28.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "NDTV పవర్ ప్లే కేరళ హైలైట్స్ | \"మా మత సామరస్యంతో వ్రాసిన నిజమైన కేరళ కథ\": పినరయి విజయన్",
-      "summary_te": "NDTV పవర్‌ప్లే కేరళ ముఖ్యాంశాలు: ఎన్నికలకు ముందు కేరళ రాజకీయ సంభాషణ తీవ్రరూపం దాల్చడంతో, NDTV పవర్‌ప్లే కేరళ రాష్ట్ర రాజకీయ భవిష్యత్తును రూపొందించే నాయకులు మరియు ఆలోచనలను ఒకచోట చేర్చింది.",
       "translated": true
     },
     {
@@ -1374,34 +1402,6 @@
       "language": "en",
       "title_te": "లీనా లెనీ మరియు ట్రావిస్ హంటర్ విడాకుల పుకార్లు: మోసం నిజంగా జరిగిందా?",
       "summary_te": "ట్రావిస్ హంటర్ మరియు లీనా లెనీ సంతోషంగా వివాహం చేసుకున్నారు. వారి విడాకులు మరియు అవిశ్వాసం గురించి ఇటీవలి ఆన్‌లైన్ పుకార్లు తప్పు. ఈ దావాలు మానిప్యులేటెడ్ వీడియోలను ఉపయోగించి పేరడీ ఖాతాల నుండి ఉద్భవించాయి. ఈ జంట మే 2025లో పెళ్లి చేసుకున్నారు మరియు ఆగస్టు 2025లో మగబిడ్డను స్వాగతించారు. ప్రస్తుతం వారు తమ కుటుంబం మరియు ట్రావిస్ యొక్క NFL కెరీర్‌పై దృష్టి సారించారు.",
-      "translated": true
-    },
-    {
-      "id": "7b5ac35d088d3272c4e78752219fd86c",
-      "title": "IT ministry seeks ₹1 lakh crore for India Semiconductor Mission 2.0: Officials",
-      "summary": "India may allocate over ₹1 lakh crore for ISM 2.0 to boost chip design, manufacturing and supply chains, with an announcement expected by end-April",
-      "url": "https://www.hindustantimes.com/india-news/it-ministry-seeks-1-lakh-crore-for-india-semiconductor-mission-2-0-officials-101773316426097.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/12/1600x900/logo/India-plans-a--1-lakh-crore-plus-outlay-for-Semico_1773316420037.jpg",
-      "published_at": "2026-03-12T11:53:45.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇండియా సెమీకండక్టర్ మిషన్ 2.0: అధికారులు కోసం ఐటీ మంత్రిత్వ శాఖ ₹1 లక్ష కోట్లు కోరింది",
-      "summary_te": "చిప్ డిజైన్, తయారీ మరియు సరఫరా గొలుసులను పెంచడానికి ISM 2.0 కోసం భారతదేశం ₹1 లక్ష కోట్లకు పైగా కేటాయించవచ్చు, ఏప్రిల్ చివరి నాటికి ప్రకటన వెలువడే అవకాశం ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "8dcf770873eb88bd6e23a20762bdb5ea",
-      "title": "H-1B visa employers database offline, key public records disappear; USCIS responds",
-      "summary": "The U.S. Citizenship and Immigration Services (USCIS) H-1B Employer Data Hub has gone offline, disabling key search tools and removing recent datasets. This public database, launched in 2019, allowed users to analyze H-1B visa sponsorship data. USCIS has apologized for the technical difficulties and is working to restore service.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/h-1b-visa-employers-database-goes-offline-key-public-records-of-last-three-years-disappear-uscis-says-sorry-and-we-appreciate-your-/articleshow/129506365.cms",
-      "image": "https://static.toiimg.com/photo/msid-129506355,imgsize-62118.cms",
-      "published_at": "2026-03-12T11:48:04.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "H-1B వీసా యజమానుల డేటాబేస్ ఆఫ్‌లైన్, కీలకమైన పబ్లిక్ రికార్డ్‌లు అదృశ్యం; USCIS స్పందిస్తుంది",
-      "summary_te": "U.S. పౌరసత్వం మరియు వలస సేవలు (USCIS) H-1B ఎంప్లాయర్ డేటా హబ్ ఆఫ్‌లైన్‌లో ఉంది, కీలక శోధన సాధనాలను నిలిపివేసింది మరియు ఇటీవలి డేటాసెట్‌లను తీసివేసింది. 2019లో ప్రారంభించబడిన ఈ పబ్లిక్ డేటాబేస్, H-1B వీసా స్పాన్సర్‌షిప్ డేటాను విశ్లేషించడానికి వినియోగదారులను అనుమతించింది. USCIS సాంకేతిక సమస్యలకు క్షమాపణ చెప్పింది మరియు సేవను పునరుద్ధరించడానికి కృషి చేస్తోంది.",
       "translated": true
     }
   ]
