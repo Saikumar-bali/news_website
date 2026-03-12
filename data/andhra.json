@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T11:38:18.316Z",
-  "updated_at_IST": "12/3/2026, 5:08:18 pm",
+  "updated_at": "2026-03-12T12:43:22.242Z",
+  "updated_at_IST": "12/3/2026, 6:13:22 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "a657f73e4e0f6b51f8279841afba7592",
+      "title": "Is YSRCP treading a tough road?",
+      "summary": "Decimated from holding 151 seats in the Andhra Pradesh Assembly to just 11 in the 2024 Assembly elections, the YSRCP now appears to be fighting its way back to relevance as the leading Opposition force",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-is-it-treading-a-tough-road/article70734286.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vru8hl/article70734358.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202024-05-07%20at%2020.24.15.jpeg",
+      "published_at": "2026-03-12T08:53:23.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "YSRCP పటిష్టమైన దారిలో నడుస్తోందా?",
+      "summary_te": "ఆంధ్రప్రదేశ్ అసెంబ్లీలో 151 సీట్లను 2024 అసెంబ్లీ ఎన్నికల్లో కేవలం 11కి మాత్రమే చేజిక్కించుకున్న YSRCP ఇప్పుడు ప్రధాన ప్రతిపక్ష శక్తిగా ఔచిత్యాన్ని పొందేందుకు పోరాడుతున్నట్లు కనిపిస్తోంది.",
+      "translated": true
+    },
     {
       "id": "729cb4c2815e3d75ff48a0123be56bd6",
       "title": "Andhra CM Chandrababu Naidu lauds Nellore Collector Himanshu Shukla’s initiative",
