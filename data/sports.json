@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-12T05:24:03.891Z",
-  "updated_at_IST": "12/3/2026, 10:54:03 am",
+  "updated_at": "2026-03-12T06:50:51.264Z",
+  "updated_at_IST": "12/3/2026, 12:20:51 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "9c20ce1c23aabe6debf43a121ee6be47",
+      "title": "Bim10 corruption: Javon Searles among three provisionally suspended",
+      "summary": "Team owner Chitranjan Rathod and official Trevon Griffith also charged under anti-corruption codes",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527737.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/276500/276501.jpg",
+      "published_at": "2026-03-12T06:13:24.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "Bim10 అవినీతి: తాత్కాలికంగా సస్పెండ్ చేయబడిన ముగ్గురిలో జావోన్ సియర్ల్స్",
+      "summary_te": "టీమ్ ఓనర్ చిత్రాంజన్ రాథోడ్ మరియు అధికారి ట్రెవాన్ గ్రిఫిత్ కూడా అవినీతి నిరోధక కోడ్‌ల కింద అభియోగాలు మోపారు.",
+      "translated": true
+    },
     {
       "id": "f05e7dffdaf299b187138b895241fbd6",
       "title": "Lisa Keightley 'disappointed' at lack of female head coaches in women's Hundred",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "'నేను దాదాపు 38 సంవత్సరాల వయస్సులో పునర్జన్మ పొందాను' - గాయం తొలగింపు తర్వాత బేట్స్ T20 ప్రపంచ కప్‌ను లక్ష్యంగా చేసుకున్నాడు",
       "summary_te": "గాజ్ అగ్రస్థానంలో తన స్థానాన్ని నిలుపుకోవడంతో, బేట్స్ మిడిల్ ఆర్డర్‌లో కొత్త పాత్ర కోసం సిద్ధమవుతున్నాడు",
-      "translated": true
-    },
-    {
-      "id": "649e2f2bf356c11c065b5bd18d6a1f61",
-      "title": "ICC Board meetings in Doha called off due to West Asia conflict",
-      "summary": "Some ICC meetings will take place virtually over the next few weeks",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527534.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/303000/303035.jpg",
-      "published_at": "2026-03-10T07:55:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా వివాదం కారణంగా దోహాలో ICC బోర్డు సమావేశాలు రద్దయ్యాయి",
-      "summary_te": "కొన్ని ICC సమావేశాలు రాబోయే కొద్ది వారాల్లో వాస్తవంగా జరుగుతాయి",
       "translated": true
     }
   ]
