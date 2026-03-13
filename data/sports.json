@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-13T05:21:20.377Z",
-  "updated_at_IST": "13/3/2026, 10:51:20 am",
+  "updated_at": "2026-03-13T06:50:18.666Z",
+  "updated_at_IST": "13/3/2026, 12:20:18 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "9699c0ca53cbf58db326e6b8f1d8fb23",
+      "title": "Sheffield Shield: Bartlett available, Green set to play last round for WA",
+      "summary": "All the latest team news, as South Australia and Queensland battle to join Victoria in the final",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527755.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/409700/409720.png",
+      "published_at": "2026-03-13T06:08:40.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "షెఫీల్డ్ షీల్డ్: బార్ట్‌లెట్ అందుబాటులో ఉంది, WA కోసం గ్రీన్ చివరి రౌండ్ ఆడేందుకు సిద్ధంగా ఉంది",
+      "summary_te": "విక్టోరియాతో ఫైనల్‌లో చేరేందుకు సౌత్ ఆస్ట్రేలియా మరియు క్వీన్స్‌లాండ్ పోరాడుతున్నందున తాజా జట్టు వార్తలు అన్నీ",
+      "translated": true
+    },
     {
       "id": "c2bae71d3f3fe7ca73a6d86cf25477a3",
       "title": "Ronchi and Oram to coach at PSL despite clash with NZ assignments",
@@ -43,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -113,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -154,7 +168,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
@@ -184,20 +198,6 @@
       "language": "en",
       "title_te": "బెత్ మూనీ, సోఫీ డివైన్ £210,000 వందల చెల్లింపు రోజులు సంపాదిస్తారు",
       "summary_te": "డాని గిబ్సన్ £190,000కి అమ్ముడయ్యాయి, ఎందుకంటే మహిళల వేలం మొదటి ఉదయం ఫ్రాంచైజీలు స్ప్లాష్ చేయబడ్డాయి",
-      "translated": true
-    },
-    {
-      "id": "3c6f4e968d47bf437e2e193ecf343959",
-      "title": "West Indies and SA players to fly home on commercial flights",
-      "summary": "The ICC provided an update on both teams' travel plans on Wednesday morning",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527547.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413829.jpg",
-      "published_at": "2026-03-11T17:48:03.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెస్టిండీస్ మరియు SA ఆటగాళ్ళు వాణిజ్య విమానాలలో స్వదేశానికి వెళ్లాలి",
-      "summary_te": "బుధవారం ఉదయం ఇరు జట్ల ప్రయాణ ప్రణాళికలపై ఐసీసీ తాజా సమాచారం అందించింది",
       "translated": true
     },
     {
