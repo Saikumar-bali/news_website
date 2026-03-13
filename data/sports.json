@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-03-13T14:04:05.602Z",
-  "updated_at_IST": "13/3/2026, 7:34:05 pm",
+  "updated_at": "2026-03-13T14:47:37.532Z",
+  "updated_at_IST": "13/3/2026, 8:17:37 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "bb3d9998eec4dffd48bda2631c975c4f",
+      "title": "Talat stretchered to hospital after shoulder injury",
+      "summary": "The PCB said the \"nature and extent of the injury will be determined after the doctors complete further medical evaluation\"",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527892.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414659.jpg",
+      "published_at": "2026-03-13T14:22:30.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "భుజానికి గాయం కావడంతో తలాత్‌ను ఆసుపత్రికి తరలించారు",
+      "summary_te": "\"వైద్యులు తదుపరి వైద్య మూల్యాంకనం పూర్తి చేసిన తర్వాత గాయం యొక్క స్వభావం మరియు పరిధిని నిర్ణయిస్తారు\" అని PCB తెలిపింది.",
+      "translated": true
+    },
+    {
+      "id": "c5b348ff55d851c4972e262efe456419",
+      "title": "Markram set to captain MSG after big Hundred pay-day",
+      "summary": "South Africa captain had been 'Number 1 priority' for Langer ahead of Thursday's auction",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527890.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412000/412011.jpg",
+      "published_at": "2026-03-13T14:06:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పెద్ద వంద పే-డే తర్వాత ఎమ్‌ఎస్‌జికి సారథిగా మార్క్‌రామ్ సిద్ధమయ్యాడు",
+      "summary_te": "గురువారం వేలానికి ముందు దక్షిణాఫ్రికా కెప్టెన్ లాంగర్‌కు 'నెంబర్ 1 ప్రాధాన్యత'",
+      "translated": true
+    },
     {
       "id": "dd40b3c236858ddf54053e5ebcc73909",
       "title": "Muzarabani pulls out of PSL 2026 after securing IPL deal with KKR",
       "summary": "It is understood that Muzarabani informed Islamabad of his decision to withdraw, as KKR confirmed the signing on Friday",
       "url": "https://www.espncricinfo.com/ci/content/story/1527885.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413429.jpg",
-      "published_at": "2026-03-13T13:38:28.000Z",
+      "published_at": "2026-03-13T13:51:12.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -155,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -211,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
       "translated": true
     },
     {
@@ -225,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -323,35 +351,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
-      "translated": true
-    },
-    {
-      "id": "2df434d3e717ea5f2ab6f6e7a5d9ea02",
-      "title": "Will O'Rourke on the verge of returning to action from back injury",
-      "summary": "\"Will's been like a bull in a china shop wanting to get back on the park, but understands he's an important resource,\" selector Larsen says",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527696.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/397800/397825.jpg",
-      "published_at": "2026-03-11T14:30:04.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "విల్ ఓ'రూర్కే వెన్ను గాయం నుండి తిరిగి చర్య తీసుకునే అంచున ఉన్నాడు",
-      "summary_te": "\"చైనా షాప్‌లోని ఎద్దులాగా పార్క్‌లోకి తిరిగి రావాలనుకుంటాడు, కానీ అతను ఒక ముఖ్యమైన వనరు అని అర్థం చేసుకున్నాడు\" అని సెలెక్టర్ లార్సెన్ చెప్పారు",
-      "translated": true
-    },
-    {
-      "id": "fa5ac6f5ef4b479a5e394fcc4f0c4af9",
-      "title": "RCB vs SRH to kick off IPL 2026 in Bengaluru on March 28",
-      "summary": "The IPL has released the schedule for the first 20 matches of the season including four double-headers",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527318.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401653.jpg",
-      "published_at": "2026-03-11T13:58:05.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మార్చి 28న బెంగళూరులో RCB vs SRH IPL 2026ని ప్రారంభించనుంది",
-      "summary_te": "ఐపీఎల్ నాలుగు డబుల్ హెడ్‌లతో సహా సీజన్‌లోని మొదటి 20 మ్యాచ్‌ల షెడ్యూల్‌ను విడుదల చేసింది",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
       "translated": true
     }
   ]
