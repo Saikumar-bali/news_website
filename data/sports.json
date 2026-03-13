@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-13T18:38:18.562Z",
-  "updated_at_IST": "14/3/2026, 12:08:18 am",
+  "updated_at": "2026-03-13T19:36:33.550Z",
+  "updated_at_IST": "14/3/2026, 1:06:33 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "83d188e1ca2ec1f374c1732e685575e1",
+      "title": "Agha calls for 'sportsman spirit' after controversial dismissal",
+      "summary": "Batter seeks to clear the air after heated incident during Pakistan's 128-run victory",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527899.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414654.jpg",
+      "published_at": "2026-03-13T19:05:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వివాదాస్పద తొలగింపు తర్వాత 'స్పోర్ట్స్‌మెన్ స్పిరిట్' కోసం ఆఘా పిలుపునిచ్చింది",
+      "summary_te": "పాకిస్తాన్ 128 పరుగుల విజయాన్ని సాధించిన సమయంలో వేడి సంఘటన తర్వాత బ్యాటర్ గాలిని క్లియర్ చేయడానికి ప్రయత్నిస్తాడు",
+      "translated": true
+    },
     {
       "id": "e972f62999a477875ff3683edcbf8c1d",
       "title": "All-round Sadaqat levels series for Pakistan",
@@ -183,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -239,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
       "translated": true
     },
     {
@@ -253,7 +267,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ది హండ్రెడ్ 2026: వేలం తర్వాత మహిళల జట్లు ఎలా ఉన్నాయి",
       "summary_te": "వేలంలో ప్రతి ఆటగాడి విజేత బిడ్‌తో మొత్తం ఎనిమిది స్క్వాడ్‌లు",
-      "translated": true
-    },
-    {
-      "id": "a778b9dbe80f565ce5d86be07b577574",
-      "title": "Hesson: Pakistan left 'exposed' with the bat by Nahid Rana",
-      "summary": "Pakistan coach said they went into a shell and will have to turn things around quickly after a chastening loss",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527703.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
-      "published_at": "2026-03-11T16:35:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
       "translated": true
     }
   ]
