@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-13T17:40:01.317Z",
-  "updated_at_IST": "13/3/2026, 11:10:01 pm",
+  "updated_at": "2026-03-13T18:38:18.562Z",
+  "updated_at_IST": "14/3/2026, 12:08:18 am",
   "category": "telangana",
-  "count": 31,
+  "count": 32,
   "articles": [
+    {
+      "id": "f7da9228b2cad788d756c6ad4e043323",
+      "title": "Dubai approves new law on fines",
+      "summary": "Dubai approves new law on fines gbalaji Fri, 03/13/2026 - 23:29",
+      "url": "https://www.sakshi.com/telugu-news/international/dubai-ruler-approves-new-law-violations-and-fines-2732469",
+      "image": null,
+      "published_at": "2026-03-13T17:59:39.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "దుబాయ్‌లో జరిమానాలపై కొత్త చట్టానికి ఆమోదం",
+      "summary_te": "దుబాయ్‌లో జరిమానాలపై కొత్త చట్టానికి ఆమోదం gbalaji Fri, 03/13/2026 - 23:29",
+      "translated": true
+    },
     {
       "id": "aa471f5931eb215f57c1c4cf64e4094b",
       "title": "Farmer's welfare is the aim",
@@ -72,6 +86,48 @@
       "language": "te",
       "title_te": "‘చంద్రబాబు.. ఇరాన్‌లో మాత్రమే ఆ పదవి ఖాళీ ఉంది’",
       "summary_te": "‘చంద్రబాబు.. ఇరాన్‌లో మాత్రమే ఆ పదవి ఖాళీ ఉంది’ naresh Fri, 03/13/2026 - 21:55",
+      "translated": true
+    },
+    {
+      "id": "1feddd8d9d69a2892fa3640e4126be2a",
+      "title": "Tracing Hyderabad’s centuries-old Persian connections",
+      "summary": "From the dargah of Ibne Khatoon to Irani cafes and Muharram majlis, Hyderabad’s mourning for Iran’s leader reflects centuries-old cultural connections forged by Persian migrants, Qutb Shahi rulers, diplomats, and traders who transformed the Deccan’s language, food, and traditions",
+      "url": "https://www.thehindu.com/news/national/telangana/tracing-hyderabads-centuries-old-persian-connections/article70740376.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/i71mng/article70740680.ece/alternates/LANDSCAPE_1200/1AD178A7-DDB9-4744-B365-E80F6B98E7DD_Original.jpeg",
+      "published_at": "2026-03-13T15:57:10.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "హైదరాబాద్‌కు శతాబ్దాల నాటి పర్షియన్ సంబంధాలను గుర్తించడం",
+      "summary_te": "ఇబ్నే ఖాటూన్ దర్గా నుండి ఇరానీ కేఫ్‌లు మరియు ముహర్రం మజ్లిస్ వరకు, ఇరాన్ నాయకుడి కోసం హైదరాబాద్ సంతాపం పర్షియన్ వలసదారులు, కుతుబ్ షాహీ పాలకులు, దౌత్యవేత్తలు మరియు దక్కన్ భాష, ఆహారం మరియు సంప్రదాయాలను మార్చిన వ్యాపారుల ద్వారా ఏర్పడిన శతాబ్దాల నాటి సాంస్కృతిక సంబంధాలను ప్రతిబింబిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "1fd01402d01ec72fbfd15f080430f882",
+      "title": "One lakh Indiramma houses will be completed across the State by this month end: Ponguleti Srinivasa Reddy",
+      "summary": "Minister for Revenue and Housing Ponguleti Srinivasa Reddy has reiterated that one lakh Indiramma houses will be completed across the State by this month end. In the second phase of the flagship housing scheme, the State government will take up another round of Indiramma houses in April, the Minister said, adding that all the eligible poor people will be provided Indiramma houses in a phased manner all over the State.He was speaking after laying foundation stones for various road works in Kamepalli mandal of Khammam district on Friday.Mr. Reddy accused the BRS rulers of failing to deliver on their promise of providing double-bedroom houses to the homeless poor people during their two-terms at the helm of the State.The Congress government immediately after coming to power sanctioned 4.5 lakh Indiramma houses in the very first year, he said.Yellandu MLA Koram Kanakaiah and others accompanied the Minister.",
+      "url": "https://www.thehindu.com/news/national/telangana/one-lakh-indiramma-houses-will-be-completed-across-the-state-by-this-month-end-ponguleti-srinivasa-reddy/article70740578.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-13T15:55:31.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఈ నెలాఖరులోగా రాష్ట్రవ్యాప్తంగా లక్ష ఇందిరమ్మ ఇళ్లను పూర్తిచేస్తాం: పొంగులేటి శ్రీనివాసరెడ్డి",
+      "summary_te": "రాష్ట్రవ్యాప్తంగా ఈ నెలాఖరులోగా లక్ష ఇందిరమ్మ ఇళ్లను పూర్తి చేస్తామని దేవాదాయ, గృహనిర్మాణ శాఖ మంత్రి పొంగులేటి శ్రీనివాసరెడ్డి పునరుద్ఘాటించారు. ఫ్లాగ్‌షిప్ ఇండ్ల పథకం రెండో విడతలో రాష్ట్ర ప్రభుత్వం ఏప్రిల్‌లో మరోసారి ఇందిరమ్మ ఇళ్లను చేపడుతుందని, అర్హులైన పేదలందరికీ దశలవారీగా రాష్ట్రవ్యాప్తంగా ఇందిరమ్మ ఇళ్లను అందజేస్తామని మంత్రి తెలిపారు. శుక్రవారం ఖమ్మం జిల్లా కామేపల్లి మండలంలో పలు రహదారుల పనులకు శంకుస్థాపన చేసిన అనంతరం ఆయన మాట్లాడారు. రెండేండ్ల పాలనలో ఇళ్లులేని పేదలకు డబుల్‌ బెడ్‌రూమ్‌ ఇండ్లు ఇస్తామన్న బీఆర్‌ఎస్‌ పాలకులు హామీని నిలబెట్టుకోవడంలో విఫలమయ్యారని రెడ్డి ఆరోపించారు.కాంగ్రెస్‌ ప్రభుత్వం అధికారంలోకి వచ్చిన వెంటనే తొలి ఏడాది 4.5 లక్షల ఇందిరమ్మ ఇళ్లను మంజూరు చేసిందని తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "d7192ea3b20b45d9157c9070f4aba4e3",
+      "title": "Hyderabad emerging as global innovation, investment hub: IT Minister",
+      "summary": "Hyderabad is steadily evolving into a global hub for innovation and investments, IT and Industries Minister D. Sridhar Babu told a German delegation that is in India as part of a study of industrial development across BRICS countries.The city boasts of world-class infrastructure and is already a hub for IT and electronics, pharmaceutical, defence and aviation industries, he said, adding that regardless of regime changes, progressive industrial policies have been continued to provide stability and confidence to investors.Telangana government is at the forefront in implementing innovative policies to effectively address challenges posed by a rapidly changing global landscape, the Minister said. The emphasis is also on skill development. The ambitious Bharat Future City project, mooted by the government near Hyderabad and comprising AI City, Net Zero City and the Young India Skills University, will lay a strong foundation for the State’s future. With abundant human resources and a deep talent pool, Telangana wants to ensure industries never face a shortage of skilled professionals, he said during the meeting at the Secretariat here.The Minister’s office, in a release, said the German delegation is visiting India to study industrial development across BRICS countries, investment-friendly ecosystems and the impact of advanced technologies. Representatives of Global Bridges, an international non-profit organisation, are part of the delegation.Discussing the industrial opportunities available in Telangana and the incentives the State government offers to foreign investors, Mr.Sridhar Babu said the semiconductor sector is gaining momentum in Telangana, with companies from Taiwan and Korea initiating activities in chip design and manufacturing. Several global players are also coming forward to establish data centres. With Germany’s technological expertise, Telangana can advance even further in the engineering sector, the Minister said.",
+      "url": "https://www.thehindu.com/news/national/telangana/hyderabad-emerging-as-global-innovation-investment-hub-it-minister/article70740513.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/uvuclg/article70740510.ece/alternates/LANDSCAPE_1200/13.03.2026%20Sridhar%20Babu%20German%20.jpeg",
+      "published_at": "2026-03-13T15:53:53.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "గ్లోబల్ ఇన్నోవేషన్, ఇన్వెస్ట్‌మెంట్ హబ్‌గా హైదరాబాద్ ఎదుగుతోంది: ఐటీ మంత్రి",
+      "summary_te": "బ్రిక్స్ దేశాల్లో పారిశ్రామిక అభివృద్ధిపై అధ్యయనంలో భాగంగా భారత్‌కు వచ్చిన జర్మనీ ప్రతినిధి బృందానికి హైదరాబాద్‌ క్రమంగా ఆవిష్కరణలు, పెట్టుబడులకు గ్లోబల్‌ హబ్‌గా అభివృద్ధి చెందుతోందని ఐటీ, పరిశ్రమల శాఖ మంత్రి డి.శ్రీధర్‌బాబు తెలిపారు. పెట్టుబడిదారులకు స్థిరత్వం మరియు విశ్వాసాన్ని అందించడానికి ప్రగతిశీల పారిశ్రామిక విధానాలు కొనసాగుతున్నాయి. వేగంగా మారుతున్న ప్రపంచ ప్రకృతి దృశ్యం ద్వారా ఎదురవుతున్న సవాళ్లను సమర్థవంతంగా ఎదుర్కొనేందుకు వినూత్న విధానాలను అమలు చేయడంలో తెలంగాణ ప్రభుత్వం ముందంజలో ఉందని మంత్రి చెప్పారు. నైపుణ్యాభివృద్ధిపై కూడా దృష్టి సారిస్తున్నారు. AI సిటీ, నెట్ జీరో సిటీ మరియు యంగ్ ఇండియా స్కిల్స్ యూనివర్శిటీలతో కూడిన ప్రతిష్టాత్మక భారత్ ఫ్యూచర్ సిటీ ప్రాజెక్ట్, హైదరాబాద్ సమీపంలో ప్రభుత్వంచే ప్రతిపాదించబడింది, ఇది రాష్ట్ర భవిష్యత్తుకు బలమైన పునాది వేస్తుంది. సమృద్ధిగా ఉన్న మానవ వనరులు, లోతైన టాలెంట్ పూల్‌తో పరిశ్రమలు ఎప్పటికీ నైపుణ్యం కలిగిన నిపుణుల కొరతను ఎదుర్కోవాలని తెలంగాణ కోరుకుంటోందని సచివాలయంలో జరిగిన సమావేశంలో మంత్రి కార్యాలయం ఒక ప్రకటనలో తెలిపారు.బ్రిక్స్ దేశాలలో పారిశ్రామిక అభివృద్ధి, పెట్టుబడి అనుకూల పర్యావరణ వ్యవస్థలు మరియు అధునాతన సాంకేతిక రంగాల ప్రభావంపై అధ్యయనం చేసేందుకు జర్మనీ ప్రతినిధి బృందం భారత్‌ను సందర్శిస్తోందని తెలిపారు. అంతర్జాతీయ స్వచ్ఛంద సంస్థ గ్లోబల్ బ్రిడ్జెస్ ప్రతినిధులు ఈ బృందంలో భాగమయ్యారు.తెలంగాణలో ఉన్న పారిశ్రామిక అవకాశాలు, విదేశీ పెట్టుబడిదారులకు రాష్ట్ర ప్రభుత్వం అందిస్తున్న ప్రోత్సాహకాలపై చర్చిస్తూ, తెలంగాణలో సెమీకండక్టర్ రంగం ఊపందుకుంటుందని, తైవాన్, కొరియా కంపెనీలు చిప్యాక్ట్ డిజైన్‌తో కార్యకలాపాలు ప్రారంభిస్తున్నాయని శ్రీధర్ బాబు తెలిపారు. అనేక గ్లోబల్ ప్లేయర్‌లు కూడా డేటా సెంటర్‌లను స్థాపించడానికి ముందుకు వస్తున్నారు. జర్మనీ సాంకేతిక నైపుణ్యంతో ఇంజినీరింగ్ రంగంలో తెలంగాణ మరింత ముందుకు సాగుతుందని మంత్రి అన్నారు.",
       "translated": true
     },
     {
@@ -299,20 +355,6 @@
       "translated": true
     },
     {
-      "id": "439b24e6f04820454a628d17c38e75dd",
-      "title": "Sale of spoiled dry fruits in Hyderabad",
-      "summary": "Sale of spoiled dry fruits in Hyderabad nsnreddylic Fri, 03/13/2026 - 20:35",
-      "url": "https://www.sakshi.com/telugu-news/telangana/man-selling-spoiled-dry-fruits-arrested-hyderabad-2732459",
-      "image": null,
-      "published_at": "2026-03-13T15:05:57.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "హైదరాబాద్‌లో పాడైపోయిన డ్రై ఫ్రూట్స్ విక్రయాలు",
-      "summary_te": "హైదరాబాద్‌లో పాడైపోయిన డ్రై ఫ్రూట్స్ విక్రయాలు nsnreddylic Fri, 03/13/2026 - 20:35",
-      "translated": true
-    },
-    {
       "id": "bd84102038f86869dbbc781a993939b4",
       "title": "BRS alleges CM misled Assembly on ADB loan for Musi project",
       "summary": "HYDERABADBharat Rashtra Samithi (BRS) MLA T. Harish Rao demanded that Chief Minister A. Revanth Reddy clarify whether he had misled the Assembly in the matter of ADB loan to the Musi Riverfront Development project, and if not, the Opposition party would move a privilege motion notice against the CM.Addressing a press conference here on Friday, he stated that the Chief Minister had told the Assembly during the session in January that the Asian Development Bank had sanctioned ₹4,100 crore for the MRD project.However, the ADB had stated on December 15, 2025 that the State government was yet to submit the detailed project report, and on January 23 this year, it reiterated the same. In its letter dated March 11, it had clarified that it had not sanctioned the loan, he explained.How could the Chief Minister mislead the Assembly, he sought to know, and wanted clarity from the government whether it would be Musi cleansing or beautification. There was no clarity on the buffer zone limit, with conflicting statements like 9 meters, 30 meters, and now CM claiming 100 meters.Mr. Harish Rao pointed out that the Chief Minister had himself told the Assembly in January that it would take about 18 months to prepare a DPR. He sought to know how eviction notices were issued without the DPR and how a gazette notification would be issued notifying 10,017 structures/houses for demolition. The government had already demolished 300 houses in Chaderghat.At least 100 years data would be taken for taking up any project and whether the government had got hydrological or water study done and in case it was done, keep it in the public domain, he demanded. He stated that there were 46 colonies along the Musi and whether the residents there too would be given equal extent of land elsewhere as being promised to the Madhu Ridge Park Apartments.",
@@ -408,34 +450,6 @@
       "language": "en",
       "title_te": "బండి సంజయ్ నేడు కొండగట్టు కొండపైకి పాదయాత్ర చేపట్టనున్నారు",
       "summary_te": "కేంద్ర హోంశాఖ సహాయ మంత్రి బండి సంజయ్‌కుమార్‌ శనివారం (మార్చి 14) కరీంనగర్‌ నుంచి జగిత్యాల జిల్లాలోని ప్రసిద్ధ కొండగట్టు కొండపైకి ‘అంజన్న ఆశీర్వాద యాత్ర’ పేరుతో 40 కిలోమీటర్ల పాదయాత్ర చేపట్టనున్నారు. పాదయాత్రలో ఉన్నారు.బిజెపి వర్గాల ప్రకారం, శ్రీ సంజయ్ పాదయాత్ర కొండగట్టు ఆలయ పీఠాధిపతి అంజన్న స్వామికి చేసిన ప్రతిజ్ఞను నెరవేర్చడానికి మరియు ఆధ్యాత్మిక భక్తిని పెంపొందించడానికి ఉద్దేశించబడింది. పాదయాత్ర కరీంనగర్‌లోని మహాశక్తి ఆలయంలో శనివారం ఉదయం 7 గంటలకు ప్రారంభమై, సాయంత్రం కొండగట్టు ఆలయంలో ముగుస్తుంది. శనివారం (మార్చి 14) ప్రారంభం కానున్న ఎస్‌ఎస్‌సి పబ్లిక్ పరీక్షల దృష్ట్యా పాదయాత్ర సందర్భంగా రోడ్లపై ట్రాఫిక్ రద్దీ లేకుండా చూసుకోవాలని, క్రమశిక్షణ పాటించాలని సంజయ్ పార్టీ కార్యకర్తలను కోరారు.",
-      "translated": true
-    },
-    {
-      "id": "1fd9ebbd5e67b55d5a89e5ced84f2b73",
-      "title": "KTR writes to Union HM Amit Shah, seeks probe into ‘benami dealings of CM’",
-      "summary": "HYDERABADWorking president of Bharat Rashtra Samithi (BRS) requested Union Home Minister Amit Shah to institute a thorough investigation into the alleged financial irregularities and allocation of contracts by Chief Minister A. Revanth Reddy and the possible money laundering linked to KLSR Infratech, which he claimed was a benami company of the CM’s kin.In a letter addressed to the Union Home Minister, the BRS leader requested that central investigative agencies such as the Central Bureau of Investigation (CBI), Enforcement Directorate (ED) and Serious Fraud Investigation Office (SFIO) conduct a comprehensive probe.Mr. Rama Rao raised concerns over the alleged deteriorating law and order situation in Telangana and the alleged irregular allocation of government contracts to KLSR Infratech. He claimed that during the investigation of cases related to KLSR Infratech, the State government tampered with evidence under the directions of the Chief Minister.Claiming tampering of evidence, he said that State government officials had informed the High Court that crucial evidence collected in the case had gone missing. The incident reflected the pressure being exerted on investigative agencies.Mr. Rama Rao alleged that the Chief Minister had misused his authority and pressured officials to destroy the evidence in order to protect his benami company. Further, he said that public confidence in the police and investigative agencies had severely eroded.Despite the company undergoing insolvency proceedings, the Chief Minister had awarded massive government contracts to KLSR Infratech to the tune of ₹2,500 crore. These include works pertaining to irrigation, drinking water supply, Young India Integrated School projects and major road construction works.He recalled that during an earlier Income Tax investigation, it was revealed that a Land Cruiser (TS 07 FF 0009), used by the Chief Minister for long, was registered in the name of KLSR Infratech.",
-      "url": "https://www.thehindu.com/news/national/telangana/ktr-writes-to-union-hm-amit-shah-seeks-probe-into-benami-dealings-of-cm/article70739393.ece",
-      "image": "https://th-i.thgim.com/public/incoming/4o9295/article70739822.ece/alternates/LANDSCAPE_1200/_DSC4562.JPG",
-      "published_at": "2026-03-13T13:44:51.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "సీఎం బినామీ వ్యవహారాలపై విచారణ జరిపించాలని కోరుతూ కేంద్ర హెచ్‌ఎం అమిత్ షాకు కేటీఆర్ లేఖ రాశారు.",
-      "summary_te": "హైదరాబాద్: ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డి ఆర్థిక అవకతవకలు, కాంట్రాక్టుల కేటాయింపు, కేఎల్‌ఎస్‌ఆర్‌ ఇన్‌ఫ్రాటెక్‌తో ముడిపడి ఉన్న మనీలాండరింగ్‌పై సమగ్ర విచారణ జరిపించాలని భారత రాష్ట్ర సమితి (బీఆర్‌ఎస్) వర్కింగ్ ప్రెసిడెంట్ కేంద్ర హోంమంత్రి అమిత్ షాను అభ్యర్థించారు. సెంట్రల్ బ్యూరో ఆఫ్ ఇన్వెస్టిగేషన్ (సిబిఐ), ఎన్‌ఫోర్స్‌మెంట్ డైరెక్టరేట్ (ఇడి) మరియు సీరియస్ ఫ్రాడ్ ఇన్వెస్టిగేషన్ ఆఫీస్ (ఎస్‌ఎఫ్‌ఐఒ) వంటి కేంద్ర దర్యాప్తు సంస్థలను సమగ్ర విచారణ జరపాలని అభ్యర్థించారు. తెలంగాణలో శాంతిభద్రతలు క్షీణిస్తున్నాయని, కేఎల్‌ఎస్‌ఆర్ ఇన్‌ఫ్రాటెక్‌కు ప్రభుత్వ కాంట్రాక్టులను సక్రమంగా కేటాయించలేదని రామారావు ఆందోళన వ్యక్తం చేశారు. కేఎల్‌ఎస్‌ఆర్‌ ఇన్‌ఫ్రాటెక్‌కు సంబంధించిన కేసుల దర్యాప్తులో ముఖ్యమంత్రి ఆదేశాల మేరకు రాష్ట్ర ప్రభుత్వం సాక్ష్యాలను తారుమారు చేసిందని, సాక్ష్యాలను తారుమారు చేసిందని పేర్కొంటూ.. కేసులో సేకరించిన కీలకమైన సాక్ష్యాలు మాయమైనట్లు రాష్ట్ర ప్రభుత్వ అధికారులు హైకోర్టుకు తెలియజేశారని అన్నారు. ఈ సంఘటన దర్యాప్తు సంస్థలపై ఒత్తిడిని ప్రతిబింబిస్తుంది. ముఖ్యమంత్రి తన అధికారాన్ని దుర్వినియోగం చేశారని, తన బినామీ కంపెనీని కాపాడుకునేందుకు ఆధారాలు ధ్వంసం చేయాలని అధికారులపై ఒత్తిడి తెచ్చారని రామారావు ఆరోపించారు. ఇంకా, పోలీసులు మరియు దర్యాప్తు సంస్థలపై ప్రజల విశ్వాసం తీవ్రంగా సన్నగిల్లిందని ఆయన అన్నారు. కంపెనీ దివాలా ప్రక్రియలో ఉన్నప్పటికీ, ముఖ్యమంత్రి KLSR ఇన్‌ఫ్రాటెక్‌కు ₹ 2,500 కోట్ల భారీ ప్రభుత్వ కాంట్రాక్టులను కేటాయించారు. వీటిలో నీటిపారుదల, తాగునీటి సరఫరా, యంగ్ ఇండియా ఇంటిగ్రేటెడ్ స్కూల్ ప్రాజెక్టులు, ప్రధాన రహదారి నిర్మాణ పనులకు సంబంధించిన పనులు ఉన్నాయి. గతంలో ఆదాయపు పన్ను శాఖ విచారణలో ముఖ్యమంత్రి సుదీర్ఘకాలంగా వినియోగించిన ల్యాండ్ క్రూయిజర్ (TS 07 FF 0009) KLSR ఇన్‌ఫ్రాటెక్ పేరుతో రిజిస్టర్ అయినట్లు వెల్లడైనట్లు ఆయన గుర్తు చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "648959ecef109bae659ee3106e381579",
-      "title": "Three special trains converted into regular services",
-      "summary": "The Ministry of Railways has announced the conversion of three Hyderabad-originating special trains into regular services, benefiting passengers across Telangana and Andhra Pradesh on Friday. The move comes in response to sustained demand on these routes.The trains are: Kacheguda-Tuticorin Express (Train Nos. 17165/17616) replaces the Kacheguda-Madurai special. It will depart Kacheguda on Mondays at 3 p.m and arrives in Tuticorin on Tuesdays. It returns Wednesdays, reaching Kacheguda on Thursdays at 1:25 p.m.Hyderabad-Kanyakumari Express (Train Nos. 17069/17070) replaces the Hyderabad-Kanyakumari special. It departs Hyderabad on Wednesdays at 5:20 p.m., arrives at Kanyakumari on Fridays at 2:30 a.m. It returns on Fridays, reaching Hyderabad on Saturdays at 2:30 p.m.Cherlapalli-Shalimar Amrit Bharat Express (Train Nos. 17065/17066) replaces the Cherlapalli-Shalimar special. It departs Cherlapalli on Tuesdays, 7:15 a.m., arrives at Shalimar on Wednesdays at 11:20 a.m. It returns on Wednesdays, reaching Cherlapalli on Thursdays at 7 p.m.Union Minister for Coal & Mines G. Kishan Reddy welcomed the decision and expressed gratitude to Prime Minister Narendra Modi and Railway Minister Ashwini Vaishnaw, noting the Centre’s continued focus on strengthening railway infrastructure in Telangana.Mr. Reddy has pointed out that TG has received ₹36,286 crore in railway budget allocations since 2014 and projects worth ₹47,984 crore are currently underway in the State. About 40 railway stations are being upgraded under the Amrit Bharat Station Scheme with an investment of ₹2,668 crore. About five Vande Bharat and four Amrit Bharat trains are being run and recently, surveys for three high speed corridors has been approved recently, said a press release",
-      "url": "https://www.thehindu.com/news/national/telangana/three-special-trains-converted-into-regular-services/article70738724.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-13T13:43:02.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "మూడు ప్రత్యేక రైళ్లను సాధారణ సర్వీసులుగా మార్చారు",
-      "summary_te": "రైల్వే మంత్రిత్వ శాఖ శుక్రవారం తెలంగాణ మరియు ఆంధ్రప్రదేశ్ అంతటా ఉన్న ప్రయాణికులకు ప్రయోజనం చేకూర్చే మూడు హైదరాబాద్ మూలాల ప్రత్యేక రైళ్లను సాధారణ సర్వీసులుగా మారుస్తున్నట్లు ప్రకటించింది. ఈ మార్గాలలో నిరంతర డిమాండ్‌కు ప్రతిస్పందనగా ఈ చర్య తీసుకోబడింది. రైళ్లు: కాచిగూడ-టుటికోరిన్ ఎక్స్‌ప్రెస్ (ట్రైన్ నంబర్లు. 17165/17616) కాచిగూడ-మధురై ప్రత్యేక స్థానంలో ఉంది. ఇది సోమవారం మధ్యాహ్నం 3 గంటలకు కాచిగూడలో బయలుదేరి మంగళవారం ట్యూటికోరిన్ చేరుకుంటుంది. ఇది బుధవారాలు తిరిగి, గురువారం మధ్యాహ్నం 1:25 గంటలకు కాచిగూడ చేరుకుంటుంది. హైదరాబాద్-కన్యాకుమారి ఎక్స్‌ప్రెస్ (రైలు నంబర్లు 17069/17070) హైదరాబాద్-కన్యాకుమారి ప్రత్యేక స్థానంలో ఉంది. ఇది బుధవారం సాయంత్రం 5:20 గంటలకు హైదరాబాద్‌లో బయలుదేరి, శుక్రవారం తెల్లవారుజామున 2:30 గంటలకు కన్యాకుమారి చేరుకుంటుంది, శుక్రవారం తిరిగి, శనివారం మధ్యాహ్నం 2:30 గంటలకు హైదరాబాద్ చేరుకుంటుంది. చెర్లపల్లి-షాలిమార్ అమృత్ భారత్ ఎక్స్‌ప్రెస్ (రైలు నంబర్లు. 17065/17066 రైలు నంబర్‌లు ఛల్‌మ్‌పల్లి స్థానంలో ఉంటుంది) మంగళవారం ఉదయం 7:15 గంటలకు చెర్లపల్లి నుంచి బయలుదేరి, బుధవారం ఉదయం 11:20 గంటలకు షాలిమార్ చేరుకుని, బుధవారం తిరిగి, గురువారం సాయంత్రం 7 గంటలకు చెర్లపల్లి చేరుకుంటుంది.కేంద్ర బొగ్గు, గనుల శాఖ మంత్రి జి. కిషన్‌రెడ్డి ఈ నిర్ణయాన్ని స్వాగతిస్తూ, రైల్వే మంత్రి అశ్విని, రైల్వే మంత్రి అశ్వినీ వాణికి కృతజ్ఞతలు తెలిపారు. తెలంగాణలో మౌలిక సదుపాయాలు. Mr. 2014 నుండి TG రైల్వే బడ్జెట్ కేటాయింపులలో ₹ 36,286 కోట్లు పొందిందని మరియు ₹ 47,984 కోట్ల విలువైన ప్రాజెక్టులు ప్రస్తుతం రాష్ట్రంలో జరుగుతున్నాయని రెడ్డి ఎత్తి చూపారు. అమృత్ భారత్ స్టేషన్ పథకం కింద ₹2,668 కోట్ల పెట్టుబడితో దాదాపు 40 రైల్వే స్టేషన్లు అప్‌గ్రేడ్ చేయబడుతున్నాయి. దాదాపు ఐదు వందే భారత్ మరియు నాలుగు అమృత్ భారత్ రైళ్లను నడుపుతున్నామని, ఇటీవల మూడు హై స్పీడ్ కారిడార్‌లకు సంబంధించిన సర్వేలకు ఇటీవల ఆమోదం లభించిందని ఒక పత్రికా ప్రకటన తెలిపింది.",
       "translated": true
     }
   ]

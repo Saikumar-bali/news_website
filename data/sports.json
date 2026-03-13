@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-13T17:40:01.317Z",
-  "updated_at_IST": "13/3/2026, 11:10:01 pm",
+  "updated_at": "2026-03-13T18:38:18.562Z",
+  "updated_at_IST": "14/3/2026, 12:08:18 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e972f62999a477875ff3683edcbf8c1d",
+      "title": "All-round Sadaqat levels series for Pakistan",
+      "summary": "Bangladesh were bowled out for 114 in a rain-reduced chase of 242",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527886.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414648.jpg",
+      "published_at": "2026-03-13T18:03:05.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్‌కు ఆల్ రౌండ్ సదాకత్ స్థాయి సిరీస్",
+      "summary_te": "వర్షం కారణంగా 242 పరుగుల ఛేదనలో బంగ్లాదేశ్ 114 పరుగులకు ఆలౌటైంది",
+      "translated": true
+    },
     {
       "id": "084286fc79fe823f43438166755019a1",
       "title": "Agha left fuming after unusual run-out by Mehidy in second ODI",
       "summary": "Agha tried to pick up the ball at the non-striker's end while still being outside the crease and was out when Mehidy picked it up and got a direct hit",
       "url": "https://www.espncricinfo.com/ci/content/story/1527882.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
-      "published_at": "2026-03-13T17:14:58.000Z",
+      "published_at": "2026-03-13T17:55:54.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -58,20 +72,6 @@
       "language": "en",
       "title_te": "KKRతో IPL ఒప్పందాన్ని కుదుర్చుకున్న తర్వాత ముజారబానీ PSL 2026 నుండి వైదొలిగాడు",
       "summary_te": "KKR శుక్రవారం సంతకం చేసిన విషయాన్ని ధృవీకరించడంతో, ముజారబానీ తన ఉపసంహరణ నిర్ణయాన్ని ఇస్లామాబాద్‌కు తెలియజేసినట్లు అర్థమవుతోంది",
-      "translated": true
-    },
-    {
-      "id": "e972f62999a477875ff3683edcbf8c1d",
-      "title": "Sadaqat, Agha fifties lift Pakistan before Mehidy sparks collapse with a run-out",
-      "summary": "Pakistan were bowled out for 274, but will feel they were well positioned to post a bigger score",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527886.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414648.jpg",
-      "published_at": "2026-03-13T13:01:59.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సదాకత్, ఆఘా అర్ధశతకాలు పాకిస్థాన్‌ను ఎత్తడానికి ముందు మెహిదీ రన్ అవుట్‌తో కుప్పకూలారు",
-      "summary_te": "పాకిస్తాన్ 274 పరుగులకు ఆలౌటైంది, అయితే పెద్ద స్కోరును నమోదు చేయడానికి తాము బాగానే ఉన్నామని భావిస్తుంది",
       "translated": true
     },
     {
@@ -239,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
       "translated": true
     },
     {
@@ -294,7 +294,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
