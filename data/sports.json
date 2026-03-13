@@ -1,16 +1,72 @@
 {
-  "updated_at": "2026-03-13T12:41:47.118Z",
-  "updated_at_IST": "13/3/2026, 6:11:47 pm",
+  "updated_at": "2026-03-13T14:04:05.602Z",
+  "updated_at_IST": "13/3/2026, 7:34:05 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "dd40b3c236858ddf54053e5ebcc73909",
+      "title": "Muzarabani pulls out of PSL 2026 after securing IPL deal with KKR",
+      "summary": "It is understood that Muzarabani informed Islamabad of his decision to withdraw, as KKR confirmed the signing on Friday",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527885.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413429.jpg",
+      "published_at": "2026-03-13T13:38:28.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "KKRతో IPL ఒప్పందాన్ని కుదుర్చుకున్న తర్వాత ముజారబానీ PSL 2026 నుండి వైదొలిగాడు",
+      "summary_te": "KKR శుక్రవారం సంతకం చేసిన విషయాన్ని ధృవీకరించడంతో, ముజారబానీ తన ఉపసంహరణ నిర్ణయాన్ని ఇస్లామాబాద్‌కు తెలియజేసినట్లు అర్థమవుతోంది",
+      "translated": true
+    },
+    {
+      "id": "e972f62999a477875ff3683edcbf8c1d",
+      "title": "Sadaqat, Agha fifties lift Pakistan before Mehidy sparks collapse with a run-out",
+      "summary": "Pakistan were bowled out for 274, but will feel they were well positioned to post a bigger score",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527886.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414648.jpg",
+      "published_at": "2026-03-13T13:01:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సదాకత్, ఆఘా అర్ధశతకాలు పాకిస్థాన్‌ను ఎత్తడానికి ముందు మెహిదీ రన్ అవుట్‌తో కుప్పకూలారు",
+      "summary_te": "పాకిస్తాన్ 274 పరుగులకు ఆలౌటైంది, అయితే పెద్ద స్కోరును నమోదు చేయడానికి తాము బాగానే ఉన్నామని భావిస్తుంది",
+      "translated": true
+    },
+    {
+      "id": "084286fc79fe823f43438166755019a1",
+      "title": "Agha left fuming after unusual run-out by Mehidy in second ODI",
+      "summary": "Agha tried to pick up the ball at the non-striker's end while still being outside the crease and was out when Mehidy picked it up and got a direct hit",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527882.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
+      "published_at": "2026-03-13T12:53:22.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రెండో ODIలో మెహిదీ అసాధారణ రనౌట్‌తో అఘా మండిపడింది",
+      "summary_te": "అఘా క్రీజు వెలుపల ఉండగానే నాన్‌స్ట్రైకర్స్ ఎండ్‌లో బంతిని తీయడానికి ప్రయత్నించాడు మరియు మెహిదీ దానిని అందుకొని నేరుగా హిట్ అందుకున్నాడు.",
+      "translated": true
+    },
+    {
+      "id": "21cf1f8869b1506cb63913294c36449a",
+      "title": "'He's ready to deal with it' - Why London Spirit broke the bank for James Coles",
+      "summary": "Several factors combined to make uncapped 21-year-old the most-expensive buy at the Hundred auction",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527883.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414590.jpg",
+      "published_at": "2026-03-13T12:32:07.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'అతను దానిని ఎదుర్కోవడానికి సిద్ధంగా ఉన్నాడు' - జేమ్స్ కోల్స్ కోసం లండన్ స్పిరిట్ ఎందుకు బ్యాంకును విచ్ఛిన్నం చేసింది",
+      "summary_te": "అనేక అంశాలు కలిసి అన్‌క్యాప్డ్ 21 ఏళ్ల యువకుని హండ్రెడ్ వేలంలో అత్యంత ఖరీదైన కొనుగోలుగా మార్చాయి",
+      "translated": true
+    },
     {
       "id": "0e7659a0d663336cb3268498e7670240",
       "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
       "summary": "Abrar is first Pakistan player bought by an Indian-owned Hundred team; Sussex's James Coles goes for £390,000",
       "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405784.jpg",
-      "published_at": "2026-03-13T12:20:52.000Z",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414642.jpg",
+      "published_at": "2026-03-13T12:26:38.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -99,7 +155,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -155,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
+      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
       "translated": true
     },
     {
@@ -169,7 +225,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -267,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
-      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
+      "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా మార్చుకోవాల్సి ఉంటుందని అన్నారు",
       "translated": true
     },
     {
@@ -296,62 +352,6 @@
       "language": "en",
       "title_te": "మార్చి 28న బెంగళూరులో RCB vs SRH IPL 2026ని ప్రారంభించనుంది",
       "summary_te": "ఐపీఎల్ నాలుగు డబుల్ హెడ్‌లతో సహా సీజన్‌లోని మొదటి 20 మ్యాచ్‌ల షెడ్యూల్‌ను విడుదల చేసింది",
-      "translated": true
-    },
-    {
-      "id": "850527ee5a0811238f66501cc41ae17b",
-      "title": "Nahid Rana and Tanzid Hasan complete Pakistan's demolition in opening ODI",
-      "summary": "Rana's maiden five-wicket haul in ODIs shot out Pakistan for 114 before Tanzid made easy work of the chase with a rapid half-century",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527660.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414612.jpg",
-      "published_at": "2026-03-11T12:37:59.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "నాహిద్ రానా మరియు తాంజిద్ హసన్ ఓపెనింగ్ ODIలో పాకిస్తాన్‌ను కూల్చివేసారు",
-      "summary_te": "రానా వన్డేల్లో తొలి ఐదు వికెట్లు పడగొట్టి పాకిస్థాన్‌ను 114 పరుగులకే ఆలౌట్ చేయడంతో పాటు టాంజిద్ వేగవంతమైన అర్ధ సెంచరీతో సులువుగా ఛేదించాడు.",
-      "translated": true
-    },
-    {
-      "id": "562f9efce50a780d7f65a02c17826252",
-      "title": "Patterson guides NSW to One-Day Cup title in rain-hit contest",
-      "summary": "The match was reduced to 22 overs per side after being 12 minutes from a washout and Tasmania collapsed to 25 for 5",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527652.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414619.jpg",
-      "published_at": "2026-03-11T11:53:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రెయిన్-హిట్ కాంటెస్ట్‌లో NSWని వన్-డే కప్ టైటిల్‌కి ప్యాటర్సన్ మార్గనిర్దేశం చేశాడు",
-      "summary_te": "వాష్ అవుట్ నుండి 12 నిమిషాల తర్వాత మ్యాచ్ ప్రతి జట్టుకు 22 ఓవర్లకు తగ్గించబడింది మరియు టాస్మానియా 5 వికెట్లకు 25 పరుగులకు కుప్పకూలింది.",
-      "translated": true
-    },
-    {
-      "id": "c0b718eca07950fde7a8df169b9352f3",
-      "title": "Kishan jumps to second in T20I batting rankings",
-      "summary": "Varun was the joint-highest wicket-taking but lost the No. 1 spot among bowlers to Afghanistan's Rashid",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527636.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414125.jpg",
-      "published_at": "2026-03-11T09:27:47.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "టీ20 బ్యాటింగ్ ర్యాంకింగ్స్‌లో కిషన్ రెండో స్థానానికి ఎగబాకాడు",
-      "summary_te": "వరుణ్ ఉమ్మడి అత్యధిక వికెట్లు తీసినప్పటికీ బౌలర్లలో నంబర్ 1 స్థానాన్ని ఆఫ్ఘనిస్తాన్ ఆటగాడు రషీద్ కోల్పోయాడు.",
-      "translated": true
-    },
-    {
-      "id": "3f175d8be14858078da475e0a4d3b88f",
-      "title": "Bangladesh opt to field, Pakistan hand four debuts",
-      "summary": "Sahibzada Farhan, Maaz Sadaqat, Shamyl Hussain and Abdul Samad are the four debutants for the visitors",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527634.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414200/414216.jpg",
-      "published_at": "2026-03-11T08:18:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బంగ్లాదేశ్ ఫీల్డింగ్ ఎంచుకుంది, పాకిస్తాన్ నాలుగు అరంగేట్రం చేసింది",
-      "summary_te": "సాహిబ్జాదా ఫర్హాన్, మాజ్ సదాకత్, షామిల్ హుస్సేన్ మరియు అబ్దుల్ సమద్ సందర్శకులకు నలుగురు అరంగేట్రం.",
       "translated": true
     }
   ]
