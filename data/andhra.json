@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-13T07:50:29.949Z",
-  "updated_at_IST": "13/3/2026, 1:20:29 pm",
+  "updated_at": "2026-03-13T08:38:54.066Z",
+  "updated_at_IST": "13/3/2026, 2:08:54 pm",
   "category": "andhra",
-  "count": 23,
+  "count": 24,
   "articles": [
     {
       "id": "bcc2f8de7630dcaa8f79c8410b80925a",
@@ -58,6 +58,20 @@
       "language": "en",
       "title_te": "వైఎస్‌ఆర్‌సీపీ అంటే విలువలు, విశ్వసనీయత: మాజీ సీఎం జగన్‌మోహన్‌రెడ్డి",
       "summary_te": "గుంటూరు జిల్లా తాడేపల్లిలోని వైఎస్సార్‌సీపీ కేంద్ర కార్యాలయంలో ఆ పార్టీ ఆవిర్భావ దినోత్సవ వేడుకల సందర్భంగా పార్టీ నేతలను ఉద్దేశించి జగన్ మాట్లాడారు.",
+      "translated": true
+    },
+    {
+      "id": "753bcd6e3c6622b511ef54b09f2e1ed1",
+      "title": "On the streets for survival",
+      "summary": "Economic hardship, social customs, displacement, and sudden life setbacks continue to push people into begging even as rehabilitation efforts struggle to keep pace. Nellore Sravani reports from Vijayawada on the lives caught between survival and law",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/on-the-streets-for-survival/article70736092.ece",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-miscellaneous/tp-others/56vmkt/article70737264.ece/alternates/LANDSCAPE_1200/-AP-Spotlight--GE4FN5IL2.3.jpg.jpg",
+      "published_at": "2026-03-13T04:41:44.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "బతుకుదెరువు కోసం వీధుల్లో",
+      "summary_te": "ఆర్థిక కష్టాలు, సామాజిక ఆచారాలు, స్థానభ్రంశం మరియు ఆకస్మిక జీవిత వైఫల్యాలు ప్రజలను భిక్షాటనలోకి నెట్టివేస్తూనే ఉన్నాయి, అయితే పునరావాస ప్రయత్నాలు వేగవంతం కావడానికి కష్టపడుతున్నాయి. మనుగడకు, చట్టానికి మధ్య చిక్కుకున్న జీవితాల గురించి విజయవాడ నుండి నెల్లూరు శ్రావణి నివేదిస్తుంది",
       "translated": true
     },
     {

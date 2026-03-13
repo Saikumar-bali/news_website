@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-13T07:50:29.949Z",
-  "updated_at_IST": "13/3/2026, 1:20:29 pm",
+  "updated_at": "2026-03-13T08:38:54.066Z",
+  "updated_at_IST": "13/3/2026, 2:08:54 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "200d3058bdc708053b54edfe557ee093",
+      "title": "Supreme Court to do away with human intervention, will deploy AI for case listing and bench allocation",
+      "summary": "The Supreme Court plans to implement Artificial Intelligence for case listing and bench allocation, reducing human involvement. The decision aims to address issues of outdated technology and prolonged official tenures, enhancing justice delivery systems and addressing case backlogs.",
+      "url": "https://www.livemint.com/news/india/supreme-court-to-deploy-ai-for-case-listing-and-bench-allocation-11773387456355.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/Supreme-Court-3_1770271910541_1770271928968_1773387940990.jpg",
+      "published_at": "2026-03-13T07:59:04.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మానవ జోక్యాన్ని తొలగించడానికి సుప్రీంకోర్టు, కేసు జాబితా మరియు బెంచ్ కేటాయింపు కోసం AIని అమలు చేస్తుంది",
+      "summary_te": "మానవ ప్రమేయాన్ని తగ్గించడం ద్వారా కేసు జాబితా మరియు బెంచ్ కేటాయింపు కోసం ఆర్టిఫిషియల్ ఇంటెలిజెన్స్‌ని అమలు చేయాలని సుప్రీంకోర్టు యోచిస్తోంది. కాలం చెల్లిన సాంకేతికత మరియు సుదీర్ఘ అధికారిక పదవీకాల సమస్యలను పరిష్కరించడం, న్యాయ బట్వాడా వ్యవస్థలను మెరుగుపరచడం మరియు కేసుల బ్యాక్‌లాగ్‌లను పరిష్కరించడం ఈ నిర్ణయం లక్ష్యం.",
+      "translated": true
+    },
+    {
+      "id": "40d36c5d0bf0edd0c7462c4418ad0301",
+      "title": "LPG shortage in India: How the world's fourth-largest economy is tackling cooking gas crisis?",
+      "summary": "Two individuals have been charged under the Essential Commodities Act for illegal hoarding. &nbsp;How is India tackling the LPG crisis - All you need to know",
+      "url": "https://www.livemint.com/news/india/lpg-shortage-in-india-how-the-worlds-fourth-largest-economy-is-tackling-cooking-gas-crisis-11773383092632.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/ANI-20260313005-0_1773383679172_1773383701287.jpg",
+      "published_at": "2026-03-13T07:46:52.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "భారతదేశంలో LPG కొరత: ప్రపంచంలోని నాల్గవ అతిపెద్ద ఆర్థిక వ్యవస్థ వంట గ్యాస్ సంక్షోభాన్ని ఎలా పరిష్కరిస్తోంది?",
+      "summary_te": "అక్రమంగా నిల్వ ఉంచినందుకు ఇద్దరు వ్యక్తులపై నిత్యావసర వస్తువుల చట్టం కింద అభియోగాలు మోపారు.  LPG సంక్షోభాన్ని భారతదేశం ఎలా ఎదుర్కొంటోంది - మీరు తెలుసుకోవలసినది",
+      "translated": true
+    },
+    {
+      "id": "65bc5e4ab08b496740ec91b83156e3ff",
+      "title": "Trump says US is ‘totally destroying’ Iran in latest post — ‘Watch what happens today...’",
+      "summary": "American and Israeli strikes pounded the Islamic Republic shortly after Trump posted this new threat, while Iran attacked Persian Gulf shipping and energy infrastructure.",
+      "url": "https://www.livemint.com/news/us-news/trump-says-us-is-totally-destroying-iran-in-latest-post-watch-what-happens-today-11773386085087.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/IRAN-CRISIS-TRUMP-STRATEGY-3_1773386094114_1773386118842.JPG",
+      "published_at": "2026-03-13T07:45:52.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "తాజా పోస్ట్‌లో ఇరాన్‌ను అమెరికా పూర్తిగా నాశనం చేస్తోందని ట్రంప్ అన్నారు - ‘ఈరోజు ఏం జరుగుతుందో చూడండి...’",
+      "summary_te": "ట్రంప్ ఈ కొత్త ముప్పును పోస్ట్ చేసిన కొద్దిసేపటికే అమెరికన్ మరియు ఇజ్రాయెల్ దాడులు ఇస్లామిక్ రిపబ్లిక్‌పై దాడి చేశాయి, ఇరాన్ పెర్షియన్ గల్ఫ్ షిప్పింగ్ మరియు ఇంధన మౌలిక సదుపాయాలపై దాడి చేసింది.",
+      "translated": true
+    },
     {
       "id": "1ae42c0a443d47e36d23b5f83dea4b44",
       "title": "PM Kisan 22nd installment today: How and when to check ₹2,000 tranche payment status",
@@ -33,6 +75,20 @@
       "translated": true
     },
     {
+      "id": "1a2e5dc5009d558ad2903843d2b9de29",
+      "title": "Jefferies adds Groww, State Bank of India, 5 others to 23 buy ideas. Here’s the full list",
+      "summary": "Jefferies has updated its analyst top ideas, adding seven new stock recommendations across various sectors. These picks include State Bank of India, Groww, Star Health & Allied Insurance, Bharat Forge, JSW Steel, Eternal, and Max Healthcare, with significant upside potential highlighted for each.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-adds-groww-state-bank-of-india-5-others-to-23-buy-ideas-heres-the-full-list/articleshow/129542372.cms",
+      "image": null,
+      "published_at": "2026-03-13T07:09:21.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "Jefferies Groww, State Bank of India, 5 మందిని 23 కొనుగోలు ఆలోచనలకు జోడించారు. పూర్తి జాబితా ఇక్కడ ఉంది",
+      "summary_te": "Jefferies వివిధ రంగాలలో ఏడు కొత్త స్టాక్ సిఫార్సులను జోడించి, దాని విశ్లేషకుల అగ్ర ఆలోచనలను నవీకరించింది. ఈ పిక్స్‌లో స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా, గ్రోవ్, స్టార్ హెల్త్ & అలైడ్ ఇన్సూరెన్స్, భారత్ ఫోర్జ్, JSW స్టీల్, ఎటర్నల్ మరియు మాక్స్ హెల్త్‌కేర్ ఉన్నాయి, వీటిలో ప్రతిదానికి గణనీయమైన అప్‌సైడ్ సంభావ్యత హైలైట్ చేయబడింది.",
+      "translated": true
+    },
+    {
       "id": "3ac969fd478149c150b41ef4e155d249",
       "title": "Induction stove, flight cancellations: Tracking India’s 14-fold surge in Iran war searches, in charts",
       "summary": "Google search trends show how the Iran conflict has moved from distant geopolitics to daily household anxiety in India, with surging queries on LPG shortages, prices and induction cooktops.",
@@ -44,20 +100,6 @@
       "language": "en",
       "title_te": "ఇండక్షన్ స్టవ్, ఫ్లైట్ క్యాన్సిలేషన్‌లు: చార్టులలో ఇరాన్ యుద్ధ శోధనలలో భారతదేశం యొక్క 14 రెట్లు పెరుగుదలను ట్రాక్ చేస్తోంది",
       "summary_te": "ఎల్‌పిజి కొరత, ధరలు మరియు ఇండక్షన్ కుక్‌టాప్‌లపై పెరుగుతున్న ప్రశ్నలతో ఇరాన్ వివాదం సుదూర భౌగోళిక రాజకీయాల నుండి భారతదేశంలో రోజువారీ గృహ ఆందోళనకు ఎలా మారిందని Google శోధన ట్రెండ్‌లు చూపుతాయి.",
-      "translated": true
-    },
-    {
-      "id": "3cc95b965b61fd4689cd92e5c2a2cd78",
-      "title": "Stay patient in this market; earnings may face near-term pressure: Amnish Aggarwal",
-      "summary": "Indian equity markets are experiencing significant volatility due to global uncertainties, rising crude oil prices, and consistent FII selling. Market expert Amnish Aggarwal advises caution, noting that supply chain disruptions and potential impacts on corporate earnings will take time to normalize. He suggests investors remain on the sidelines until the situation stabilizes.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/stay-patient-in-this-market-earnings-may-face-near-term-pressure-amnish-aggarwal/articleshow/129541613.cms",
-      "image": null,
-      "published_at": "2026-03-13T06:47:38.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈ మార్కెట్‌లో ఓపికగా ఉండండి; ఆదాయాలు సమీప-కాల ఒత్తిడిని ఎదుర్కోవచ్చు: అమ్నీష్ అగర్వాల్",
-      "summary_te": "అంతర్జాతీయ అనిశ్చితులు, పెరుగుతున్న ముడి చమురు ధరలు మరియు స్థిరమైన ఎఫ్‌ఐఐ అమ్మకాల కారణంగా భారతీయ ఈక్విటీ మార్కెట్లు గణనీయమైన అస్థిరతను ఎదుర్కొంటున్నాయి. మార్కెట్ నిపుణుడు అమ్నిష్ అగర్వాల్ జాగ్రత్త వహించాలని సలహా ఇస్తున్నారు, సరఫరా గొలుసు అంతరాయాలు మరియు కార్పొరేట్ ఆదాయాలపై సంభావ్య ప్రభావాలు సాధారణ స్థితికి రావడానికి సమయం పడుతుంది. పరిస్థితి నిలకడగా ఉండే వరకు ఇన్వెస్టర్లు పక్కనే ఉండాలని ఆయన సూచిస్తున్నారు.",
       "translated": true
     },
     {
@@ -394,48 +436,6 @@
       "language": "en",
       "title_te": "ఈద్ సెలవు ఎప్పుడు — మార్చి 19 లేదా 20? భారతదేశం, సౌదీ అరేబియా, UAE 29 రంజాన్ తర్వాత ఈద్ ఉల్-ఫితర్ 2026 జరుపుకునే అవకాశం ఉంది",
       "summary_te": "ఈద్ వేడుకలు మార్చి 19 లేదా 20 న జరుపుకునే అవకాశం ఉన్న చంద్రుని దర్శనం మీద ఆధారపడి ఉంటుంది. సౌదీ అరేబియా మార్చి 18 నుండి ఈద్ ఉల్-ఫితర్ కోసం నాలుగు రోజుల సెలవు ప్రకటించింది. అంతర్జాతీయ ఖగోళ కేంద్రం ఏమి అంచనా వేస్తుందో తనిఖీ చేయండి.",
-      "translated": true
-    },
-    {
-      "id": "a2cc7933b5791a1b540214c8bba7c8c8",
-      "title": "US-Iran war LIVE Updates: Fresh strikes reported in Iran, Lebanon after Trump issues new online threat",
-      "summary": "US-Iran war LIVE Updates: Trump said that he thinks new Iranian Supreme Leader Mojtaba Khamenei is alive but ‘damaged’. In his latest online threat, Trump said: ‘Watch what happens to these deranged s**mb**s today.’",
-      "url": "https://www.livemint.com/news/world/us-israel-iran-war-live-updates-us-military-plane-kc-135-crash-iraq-donald-trump-mojtaba-khamenei-oil-prices-latest-news-11773362817366.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/IRAN-CRISIS-TRUMP-STRATEGY-3_1773380564242_1773380585181.JPG",
-      "published_at": "2026-03-13T01:30:32.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "US-ఇరాన్ యుద్ధం లైవ్ అప్‌డేట్‌లు: ట్రంప్ కొత్త ఆన్‌లైన్ ముప్పును జారీ చేసిన తర్వాత ఇరాన్, లెబనాన్‌లలో తాజా దాడులు నివేదించబడ్డాయి.",
-      "summary_te": "యుఎస్-ఇరాన్ వార్ లైవ్ అప్‌డేట్‌లు: కొత్త ఇరాన్ సుప్రీం లీడర్ మొజ్తాబా ఖమేనీ సజీవంగా ఉన్నారని, అయితే 'దెబ్బతిన్నారని' తాను భావిస్తున్నానని ట్రంప్ అన్నారు. తన తాజా ఆన్‌లైన్ బెదిరింపులో, ట్రంప్ ఇలా అన్నారు: 'ఈ రోజు ఈ అస్తవ్యస్తమైన **mb**లకు ఏమి జరుగుతుందో చూడండి.",
-      "translated": true
-    },
-    {
-      "id": "539cdf52f8f55e5839483b007dde0c87",
-      "title": "Who was Ernie Anastos? Emmy-winning journalist dies at 82 — All about the anchor who covered 9/11, COVID-19",
-      "summary": "Ernie Anastos, the Emmy-winning journalist and New York television news anchor, died at 82. His career spanned nearly five decades, covering significant events and earning over 30 Emmy awards.&nbsp;",
-      "url": "https://www.livemint.com/news/us-news/who-was-ernie-anastos-emmy-winning-journalist-dies-at-82-all-about-the-anchor-who-covered-9-11-covid19-11773362328264.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/ll_1773364565831_1773364566243.jpeg",
-      "published_at": "2026-03-13T01:18:07.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఎర్నీ అనస్టోస్ ఎవరు? ఎమ్మీ-విజేత జర్నలిస్ట్ 82 ఏళ్ళ వయసులో మరణించాడు — మొత్తం 9/11, COVID-19ని కవర్ చేసిన యాంకర్ గురించి",
-      "summary_te": "ఎర్నీ అనస్టోస్, ఎమ్మీ-విజేత జర్నలిస్ట్ మరియు న్యూయార్క్ టెలివిజన్ న్యూస్ యాంకర్, 82 ఏళ్ళ వయసులో మరణించారు. అతని కెరీర్ దాదాపు ఐదు దశాబ్దాలుగా కొనసాగింది, ముఖ్యమైన సంఘటనలను కవర్ చేసింది మరియు 30కి పైగా ఎమ్మీ అవార్డులను సంపాదించింది. ",
-      "translated": true
-    },
-    {
-      "id": "aae9eca62c02ffaf462ebfac37be2e03",
-      "title": "Iran 'welcome' at FIFA World Cup 2026, but... — Trump lays out terms, says ticket sales 'through the roof'",
-      "summary": "US President Trump stated that the Iran soccer team is welcome at the 2026 World Cup but expressed concerns over their safety.",
-      "url": "https://www.livemint.com/news/world/iran-welcome-at-fifa-world-cup-2026-but-trump-lays-out-terms-says-ticket-sales-through-the-roof-11773361723595.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/US-POLITICS-TRUMP-WOMEN-7_1773362909103_1773362921038.jpg",
-      "published_at": "2026-03-13T00:49:24.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "FIFA ప్రపంచ కప్ 2026లో ఇరాన్ 'స్వాగతం', కానీ... - ట్రంప్ నిబంధనలను నిర్దేశించారు, టిక్కెట్ల విక్రయాలు 'రూఫ్ ద్వారా'",
-      "summary_te": "2026 ప్రపంచకప్‌లో ఇరాన్ సాకర్ జట్టుకు స్వాగతం పలుకుతున్నప్పటికీ వారి భద్రతపై ఆందోళన వ్యక్తం చేసిన అమెరికా అధ్యక్షుడు ట్రంప్.",
       "translated": true
     },
     {
