@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-13T20:32:51.303Z",
-  "updated_at_IST": "14/3/2026, 2:02:51 am",
+  "updated_at": "2026-03-13T21:34:14.652Z",
+  "updated_at_IST": "14/3/2026, 3:04:14 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "8fa96eabecae610f94116c9b49273ce0",
+      "title": "US offers $10 million reward for information on Mojtaba Khamenei, key Iranian leaders",
+      "summary": "The announcement targets key Iranian figures, including Mojtaba Khamenei, Ali Larijani, Maj. Gen. Yahya Rahim Safavi, and others amid heightened Middle East tensions following US and Israeli strikes.",
+      "url": "https://www.livemint.com/news/us-news/us-offers-10-million-reward-for-information-on-mojtaba-khamenei-key-iranian-leaders-11773431767741.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/Turkey-Iran-US-Israel-1_1773433111869_1773433126870.jpg",
+      "published_at": "2026-03-13T20:53:22.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్‌లోని కీలక నేతలు మోజ్‌తబా ఖమేనీ గురించి సమాచారం ఇస్తే US $10 మిలియన్ రివార్డ్‌ను అందిస్తోంది",
+      "summary_te": "US మరియు ఇజ్రాయెల్ దాడుల తర్వాత మధ్యప్రాచ్యంలో తీవ్ర ఉద్రిక్తతల మధ్య ఈ ప్రకటన Mojtaba Khamenei, Ali Larijani, Maj. General Yahya Rahim Safavi మరియు ఇతరులతో సహా కీలకమైన ఇరాన్ వ్యక్తులను లక్ష్యంగా చేసుకుంది.",
+      "translated": true
+    },
     {
       "id": "bfb7b440e47f1f67b8f40a769168a136",
       "title": "‘You don’t need to worry about it’: Pete Hegseth on Iran's Hormuz shipping threat",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "అమెరికా రక్షణ కార్యదర్శి పీట్ హెగ్‌సేత్ ఇరాన్ కొత్త అత్యున్నత నాయకుడిని 'గాయపడి వికృతీకరించి ఉండవచ్చు' అని పేర్కొన్నారు.",
       "summary_te": "ఖమేనీ యొక్క మొదటి ప్రకటన వీడియో లేదా ఆడియో ద్వారా బట్వాడా కాకుండా వ్రాయబడిందని హెగ్సేత్ విమర్శించాడు మరియు అతని పరిస్థితికి రుజువు లేదని చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "61fdb787e075548df985491c1449fbeb",
-      "title": "Two Indians killed, 10 injured after attack in Muscat, says MEA",
-      "summary": "Two Indian nationals died during an incident in the Sohar city in Muscat, Aseem Mahajan, Additional Secretary (Gulf), said on Friday.",
-      "url": "https://www.livemint.com/news/india/two-indians-killed-10-injured-after-attack-in-muscat-says-mea-safesea-vishnu-evacuation-11773408114806.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/PTI03-11-2026-000333B-0_1773408768023_1773408792501.jpg",
-      "published_at": "2026-03-13T13:30:57.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మస్కట్‌లో జరిగిన దాడిలో ఇద్దరు భారతీయులు మరణించారని, 10 మంది గాయపడ్డారని MEA తెలిపింది",
-      "summary_te": "మస్కట్‌లోని సోహర్ నగరంలో జరిగిన ఘటనలో ఇద్దరు భారతీయులు మరణించారని అడిషనల్ సెక్రటరీ (గల్ఫ్) అసీమ్ మహాజన్ శుక్రవారం తెలిపారు.",
       "translated": true
     },
     {
