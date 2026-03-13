@@ -1,9 +1,121 @@
 {
-  "updated_at": "2026-03-13T08:38:54.066Z",
-  "updated_at_IST": "13/3/2026, 2:08:54 pm",
+  "updated_at": "2026-03-13T09:41:18.944Z",
+  "updated_at_IST": "13/3/2026, 3:11:18 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "1d13343cb66ac37162f0d673fcdc7d7d",
+      "title": "India's fiscal deficit will remain in revised estimates for FY26, says Finance Minister Sitharaman",
+      "summary": "The country's fiscal deficit will remain within the revised estimates for FY26, Union Finance Minister Nirmala Sitharaman told Lok Sabha during the Budget Session of Parliament today.&nbsp;",
+      "url": "https://www.livemint.com/news/india/india-fiscal-deficit-will-remain-fy26-revised-estimates-finance-minister-nirmala-sitharaman-economy-war-grants-lok-sabha-11773391891311.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/breaking_news_1545650155659_1773393440553.jpg",
+      "published_at": "2026-03-13T09:17:13.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "భారతదేశ ఆర్థిక లోటు FY26 కోసం సవరించిన అంచనాలలోనే ఉంటుందని ఆర్థిక మంత్రి సీతారామన్ చెప్పారు",
+      "summary_te": "దేశ ఆర్థిక లోటు FY26 కోసం సవరించిన అంచనాల పరిధిలోనే ఉంటుందని కేంద్ర ఆర్థిక మంత్రి నిర్మలా సీతారామన్ ఈరోజు పార్లమెంట్ బడ్జెట్ సమావేశాల సందర్భంగా లోక్‌సభకు తెలిపారు. ",
+      "translated": true
+    },
+    {
+      "id": "947a14d7c8a326c19a87c30017a05cbd",
+      "title": "2 top stock picks from CA Rudramurthy BV for near term",
+      "summary": "Indian equity markets are experiencing significant volatility due to geopolitical tensions and global economic uncertainties, with FII selling exacerbating the downturn. Experts advise a 'sell on rise' approach, emphasizing selective investing in resilient sectors like pharma and metals, while cautioning against banks, IT, autos, and real estate.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-picks-from-ca-rudramurthy-bv-for-near-term/articleshow/129546090.cms",
+      "image": null,
+      "published_at": "2026-03-13T08:58:38.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "సమీప కాలానికి CA రుద్రమూర్తి BV నుండి 2 టాప్ స్టాక్ పిక్స్",
+      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు ప్రపంచ ఆర్థిక అనిశ్చితి కారణంగా భారతీయ ఈక్విటీ మార్కెట్లు గణనీయమైన అస్థిరతను ఎదుర్కొంటున్నాయి, FII అమ్మకాలు తిరోగమనాన్ని తీవ్రతరం చేస్తున్నాయి. నిపుణులు బ్యాంకులు, IT, ఆటోలు మరియు రియల్ ఎస్టేట్‌లకు వ్యతిరేకంగా హెచ్చరిస్తూనే, ఫార్మా మరియు మెటల్స్ వంటి స్థితిస్థాపక రంగాలలో ఎంపిక చేసిన పెట్టుబడికి ప్రాధాన్యతనిస్తూ 'సెల్ ఆన్ రైజ్' విధానాన్ని సూచిస్తారు.",
+      "translated": true
+    },
+    {
+      "id": "fe8e3ef51716171fc274f426986f8acc",
+      "title": "Jaishankar speaks with Iranian counterpart Abbas Araghchi for 4th time amid Strait of Hormuz closure",
+      "summary": "S Jaishankar speaks with Iranian counterpart Abbas Araghchi again amid US-Israeli attacks",
+      "url": "https://www.livemint.com/news/india/iran-war-s-jaishankar-speaks-with-iranian-counterpart-abbas-araghchi-again-us-israeli-attacks-11773391597821.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/ANI-20260312208-0_1773392412409_1773392420804.jpg",
+      "published_at": "2026-03-13T08:48:41.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "హార్ముజ్ జలసంధి మూసివేత మధ్య జైశంకర్ 4వ సారి ఇరాన్ కౌంటర్ అబ్బాస్ అరాఘితో మాట్లాడాడు",
+      "summary_te": "US-ఇజ్రాయెల్ దాడుల మధ్య S జైశంకర్ మళ్లీ ఇరాన్ కౌంటర్ అబ్బాస్ అరాఘితో మాట్లాడాడు",
+      "translated": true
+    },
+    {
+      "id": "f33571376cff626991ec637a3ee9d4f8",
+      "title": "$100 crude gives Rs 20 lakh crore shock to Nifty bulls this week. Best time to buy the fear?",
+      "summary": "Crude oil above $100 has wiped out Rs 20 lakh crore in equity wealth, hammering markets in India as the Iran conflict escalates. The rupee hit a record low, and FIIs continue to sell, yet experts and Axis Mutual Fund argue the panic may be creating a rare long-term buying window.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/100-crude-gives-rs-20-lakh-crore-shock-to-nifty-bulls-this-week-best-time-to-buy-the-fear/articleshow/129545259.cms",
+      "image": null,
+      "published_at": "2026-03-13T08:34:35.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈ వారం నిఫ్టీ బుల్స్‌కు $100 క్రూడ్ రూ. 20 లక్షల కోట్ల షాక్ ఇచ్చింది. భయాన్ని కొనడానికి ఉత్తమ సమయం?",
+      "summary_te": "100 డాలర్లకు పైబడిన క్రూడాయిల్ ఈక్విటీ సంపదలో రూ. 20 లక్షల కోట్లను తుడిచిపెట్టేసింది, ఇరాన్ వివాదం తీవ్రమవుతున్న కొద్దీ భారతదేశంలోని మార్కెట్లను దెబ్బతీస్తోంది. రూపాయి రికార్డు కనిష్ట స్థాయికి చేరుకుంది, మరియు ఎఫ్‌ఐఐలు అమ్మకాలు కొనసాగించాయి, అయినప్పటికీ నిపుణులు మరియు యాక్సిస్ మ్యూచువల్ ఫండ్ భయాందోళనలు అరుదైన దీర్ఘకాలిక కొనుగోలు విండోను సృష్టిస్తున్నాయని వాదించారు.",
+      "translated": true
+    },
+    {
+      "id": "ea026196cf60e1f2c4ffb5ca7d96e1f1",
+      "title": "Quote of the day by Richard Branson on creating meaningful change in people's lives: ‘Build a business is knowing….’",
+      "summary": "Richard Branson's inspiring quote suggests that building a business involves knowing how to do something, while true pride comes from creating something that positively impacts others.&nbsp;Learn more about the business tycoon here.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-richard-branson-on-creating-meaningful-change-in-peoples-lives-build-a-business-is-knowing-11773382635170.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/kk_1773383493782_1773383493972.jpeg",
+      "published_at": "2026-03-13T08:31:43.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ప్రజల జీవితాల్లో అర్థవంతమైన మార్పును సృష్టించడంపై రిచర్డ్ బ్రాన్సన్ యొక్క కోట్ ఆఫ్ ది డే: 'వ్యాపారాన్ని నిర్మించడం అనేది తెలుసుకోవడం....'",
+      "summary_te": "రిచర్డ్ బ్రాన్సన్ యొక్క స్పూర్తిదాయకమైన కోట్ వ్యాపారాన్ని నిర్మించడం అనేది ఏదైనా ఎలా చేయాలో తెలుసుకోవడం అని సూచిస్తుంది, అయితే ఇతరులను సానుకూలంగా ప్రభావితం చేసే ఏదైనా సృష్టించడం ద్వారా నిజమైన గర్వం వస్తుంది. వ్యాపార వ్యాపారవేత్త గురించి ఇక్కడ మరింత తెలుసుకోండి.",
+      "translated": true
+    },
+    {
+      "id": "bb37ae39f331b35c4e159a5df5f2b2c8",
+      "title": "Stock to buy: UBS sees strong upside in Aquaguard-maker Eureka Forbes",
+      "summary": "UBS initiated coverage on Eureka Forbes with a 'Buy' call, identifying it as a 'steady earnings compounder' with under-appreciated scale advantages in water purifiers and services. The brokerage set a target price of Rs 640, citing market growth driven by health awareness and expanding consumer base.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-ubs-believes-markets-under-appreciate-aquaguard-maker-eureka-forbes/articleshow/129545121.cms",
+      "image": null,
+      "published_at": "2026-03-13T08:29:10.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "కొనుగోలు చేయడానికి స్టాక్: ఆక్వాగార్డ్-మేకర్ యురేకా ఫోర్బ్స్‌లో UBS బలమైన అప్‌సైడ్‌ను చూస్తుంది",
+      "summary_te": "UBS 'కొనుగోలు' కాల్‌తో యురేకా ఫోర్బ్స్‌పై కవరేజీని ప్రారంభించింది, వాటర్ ప్యూరిఫైయర్‌లు మరియు సేవలలో తక్కువ-మెచ్చుకోబడిన స్కేల్ ప్రయోజనాలతో దీనిని 'స్థిరమైన ఆదాయాల సమ్మేళనం'గా గుర్తించింది. బ్రోకరేజ్ లక్ష్యం ధరను రూ. 640గా నిర్ణయించింది, ఆరోగ్య అవగాహన మరియు వినియోగదారుల సంఖ్యను విస్తరించడం వల్ల మార్కెట్ వృద్ధిని ఉటంకిస్తూ.",
+      "translated": true
+    },
+    {
+      "id": "0b1886e92c9497c57765a2c9ab7dd641",
+      "title": "MF Favourites: 9 microcap stocks crash over 50% from their 52-week highs",
+      "summary": "​Indian equity markets are currently under pressure due to rising geopolitical tensions, particularly the escalating conflict involving Iran, Israel, and the United States. The benchmark Nifty 50 has declined nearly 10% from its 52-week high, while the broader market has been hit even harder, with the Nifty Microcap 250 index falling around 18%. Notably, about 26 microcap stocks have dropped more than 50% from their 52-week highs.​",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mf-favourites-9-microcap-stocks-crash-over-50-from-their-52-week-highs/slideshow/129545196.cms",
+      "image": null,
+      "published_at": "2026-03-13T08:23:25.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "MF ఇష్టమైనవి: 9 మైక్రోక్యాప్ స్టాక్‌లు వాటి 52 వారాల గరిష్టం నుండి 50% పైగా క్రాష్",
+      "summary_te": "పెరుగుతున్న భౌగోళిక రాజకీయ ఉద్రిక్తతలు, ప్రత్యేకించి ఇరాన్, ఇజ్రాయెల్ మరియు యునైటెడ్ స్టేట్స్‌తో ముడిపడి ఉన్న సంఘర్షణల కారణంగా భారతీయ ఈక్విటీ మార్కెట్లు ప్రస్తుతం ఒత్తిడిలో ఉన్నాయి. బెంచ్‌మార్క్ నిఫ్టీ 50 దాని 52-వారాల గరిష్ట స్థాయి నుండి దాదాపు 10% క్షీణించింది, అయితే విస్తృత మార్కెట్ మరింత తీవ్రంగా దెబ్బతింది, నిఫ్టీ మైక్రోక్యాప్ 250 ఇండెక్స్ 18% పడిపోయింది. ముఖ్యంగా, సుమారు 26 మైక్రోక్యాప్ స్టాక్‌లు వాటి 52 వారాల గరిష్ట స్థాయి నుండి 50% కంటే ఎక్కువ పడిపోయాయి.",
+      "translated": true
+    },
+    {
+      "id": "ef94e7581d570b17d53d5eae8f0b2b85",
+      "title": "‘These pleas are made to call women inferior’: SC on nationwide menstrual leave policy, says nobody will hire them",
+      "summary": "The Supreme Court declined to hear a PIL for nationwide menstrual leave, citing potential negative impacts on women's hiring.",
+      "url": "https://www.livemint.com/news/india/these-pleas-are-made-to-call-women-inferior-sc-on-nationwide-menstrual-leave-policy-says-nobody-will-hire-them-11773389455764.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/Supreme-Court-3_1770271910541_1770271928968_1773389845897.jpg",
+      "published_at": "2026-03-13T08:20:49.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘మహిళలను హీనంగా పిలువడానికి ఈ విజ్ఞప్తులు చేయబడ్డాయి’: దేశవ్యాప్తంగా రుతుక్రమ సెలవు విధానంపై ఎస్సీ, ఎవరూ వారిని నియమించుకోరు",
+      "summary_te": "మహిళల నియామకంపై ప్రతికూల ప్రభావాలను చూపుతూ దేశవ్యాప్తంగా రుతుక్రమ సెలవుల కోసం దాఖలైన ప్రజాహిత వ్యాజ్యాన్ని విచారించేందుకు సుప్రీంకోర్టు నిరాకరించింది.",
+      "translated": true
+    },
     {
       "id": "200d3058bdc708053b54edfe557ee093",
       "title": "Supreme Court to do away with human intervention, will deploy AI for case listing and bench allocation",
@@ -20,7 +132,7 @@
     },
     {
       "id": "40d36c5d0bf0edd0c7462c4418ad0301",
-      "title": "LPG shortage in India: How the world's fourth-largest economy is tackling cooking gas crisis?",
+      "title": "LPG shortage in India: How the world's fourth-largest economy is tackling cooking gas crisis",
       "summary": "Two individuals have been charged under the Essential Commodities Act for illegal hoarding. &nbsp;How is India tackling the LPG crisis - All you need to know",
       "url": "https://www.livemint.com/news/india/lpg-shortage-in-india-how-the-worlds-fourth-largest-economy-is-tackling-cooking-gas-crisis-11773383092632.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/ANI-20260313005-0_1773383679172_1773383701287.jpg",
@@ -28,7 +140,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "భారతదేశంలో LPG కొరత: ప్రపంచంలోని నాల్గవ అతిపెద్ద ఆర్థిక వ్యవస్థ వంట గ్యాస్ సంక్షోభాన్ని ఎలా పరిష్కరిస్తోంది?",
+      "title_te": "భారతదేశంలో LPG కొరత: ప్రపంచంలోని నాల్గవ అతిపెద్ద ఆర్థిక వ్యవస్థ వంట గ్యాస్ సంక్షోభాన్ని ఎలా పరిష్కరిస్తోంది",
       "summary_te": "అక్రమంగా నిల్వ ఉంచినందుకు ఇద్దరు వ్యక్తులపై నిత్యావసర వస్తువుల చట్టం కింద అభియోగాలు మోపారు.  LPG సంక్షోభాన్ని భారతదేశం ఎలా ఎదుర్కొంటోంది - మీరు తెలుసుకోవలసినది",
       "translated": true
     },
@@ -63,7 +175,7 @@
     {
       "id": "c990dfb4c579431218f2eb919c79c19b",
       "title": "Essential Commodities Act: What does the law say on the penalties for hoarding LPG?",
-      "summary": "Amid various measures in the Essential Commodities Act is a measure that prevents the hoarding of an essential commodity that is usually sold, with the law prescribing penalties against or stockpiling commodities. Here's a look at penalties for hoarding, with natural gas now falling under the Act.",
+      "summary": "Among the various clauses in the Essential Commodities Act is a measure that prevents hoarding of an essential commodity that is usually sold freely, with the law prescribing penalties to curb stockpiling. Here's a look at penalties for hoarding, with natural gas now falling under the Act.",
       "url": "https://www.livemint.com/news/natural-gas-under-essential-commodities-act-here-is-what-the-law-says-about-penalties-for-hoarding-lpg-11773385206842.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/LPG_1773385776176_1773385776312.jpg",
       "published_at": "2026-03-13T07:10:12.000Z",
@@ -71,21 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "నిత్యావసర వస్తువుల చట్టం: LPGని నిల్వ ఉంచే జరిమానాలపై చట్టం ఏమి చెబుతుంది?",
-      "summary_te": "ఎసెన్షియల్ కమోడిటీస్ యాక్ట్‌లోని వివిధ చర్యల మధ్య సాధారణంగా విక్రయించబడే ఒక నిత్యావసర వస్తువు యొక్క హోర్డింగ్‌ను నిరోధించే ఒక చర్య, చట్టంలో వస్తువులపై జరిమానాలు విధించడం లేదా నిల్వ ఉంచడం. సహజవాయువు ఇప్పుడు చట్టం పరిధిలోకి వస్తుంది కాబట్టి, హోర్డింగ్ కోసం జరిమానాలను ఇక్కడ చూడండి.",
-      "translated": true
-    },
-    {
-      "id": "1a2e5dc5009d558ad2903843d2b9de29",
-      "title": "Jefferies adds Groww, State Bank of India, 5 others to 23 buy ideas. Here’s the full list",
-      "summary": "Jefferies has updated its analyst top ideas, adding seven new stock recommendations across various sectors. These picks include State Bank of India, Groww, Star Health & Allied Insurance, Bharat Forge, JSW Steel, Eternal, and Max Healthcare, with significant upside potential highlighted for each.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-adds-groww-state-bank-of-india-5-others-to-23-buy-ideas-heres-the-full-list/articleshow/129542372.cms",
-      "image": null,
-      "published_at": "2026-03-13T07:09:21.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "Jefferies Groww, State Bank of India, 5 మందిని 23 కొనుగోలు ఆలోచనలకు జోడించారు. పూర్తి జాబితా ఇక్కడ ఉంది",
-      "summary_te": "Jefferies వివిధ రంగాలలో ఏడు కొత్త స్టాక్ సిఫార్సులను జోడించి, దాని విశ్లేషకుల అగ్ర ఆలోచనలను నవీకరించింది. ఈ పిక్స్‌లో స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా, గ్రోవ్, స్టార్ హెల్త్ & అలైడ్ ఇన్సూరెన్స్, భారత్ ఫోర్జ్, JSW స్టీల్, ఎటర్నల్ మరియు మాక్స్ హెల్త్‌కేర్ ఉన్నాయి, వీటిలో ప్రతిదానికి గణనీయమైన అప్‌సైడ్ సంభావ్యత హైలైట్ చేయబడింది.",
+      "summary_te": "ఎసెన్షియల్ కమోడిటీస్ యాక్ట్‌లోని వివిధ క్లాజులలో సాధారణంగా స్వేచ్ఛగా విక్రయించబడే ఒక నిత్యావసర వస్తువును నిల్వ చేయడాన్ని నిరోధించే చర్య, నిల్వలను అరికట్టడానికి జరిమానాలను చట్టం నిర్దేశిస్తుంది. సహజవాయువు ఇప్పుడు చట్టం పరిధిలోకి వస్తుంది కాబట్టి, హోర్డింగ్ కోసం జరిమానాలను ఇక్కడ చూడండి.",
       "translated": true
     },
     {
@@ -145,20 +243,6 @@
       "translated": true
     },
     {
-      "id": "c0d6375f9abc9ffe0d7c582bb0d49e4a",
-      "title": "Bitcoin rebounds toward $72K as US Treasury comments ease oil inflation concerns",
-      "summary": "Bitcoin surged towards $72,000 after U.S. Treasury Secretary Scott Bessent addressed market concerns. Cryptocurrencies like Bitcoin and Ethereum saw significant gains. Major altcoins also experienced strong upward movement. This rally added billions to the crypto market cap. Investors are watching upcoming Federal Reserve meetings and economic data for further direction. The market sentiment is improving despite some caution.",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-rebounds-toward-72k-as-us-treasury-comments-ease-oil-inflation-concerns/articleshow/129540037.cms",
-      "image": null,
-      "published_at": "2026-03-13T06:00:29.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "US ట్రెజరీ వ్యాఖ్యలు చమురు ద్రవ్యోల్బణం ఆందోళనలను తగ్గించడంతో బిట్‌కాయిన్ $72K వైపు పుంజుకుంది",
-      "summary_te": "యుఎస్ ట్రెజరీ సెక్రటరీ స్కాట్ బెసెంట్ మార్కెట్ ఆందోళనలను ప్రస్తావించిన తర్వాత బిట్‌కాయిన్ $72,000 వైపు పెరిగింది. Bitcoin మరియు Ethereum వంటి క్రిప్టోకరెన్సీలు గణనీయమైన లాభాలను పొందాయి. ప్రధాన ఆల్ట్‌కాయిన్‌లు కూడా బలమైన పైకి కదలికను అనుభవించాయి. ఈ ర్యాలీ క్రిప్టో మార్కెట్ క్యాప్‌కు బిలియన్లను జోడించింది. తదుపరి దిశ కోసం పెట్టుబడిదారులు రాబోయే ఫెడరల్ రిజర్వ్ సమావేశాలు మరియు ఆర్థిక డేటాను చూస్తున్నారు. కాస్త జాగ్రత్తలు తీసుకున్నప్పటికీ మార్కెట్ సెంటిమెంట్ మెరుగుపడుతోంది.",
-      "translated": true
-    },
-    {
       "id": "8ad9bb06cd7350c7204132cd245aba51",
       "title": "Quote of the day by Michael Jordan: ‘I’ve failed over and over and over again in my life. And that is why I succeed.’",
       "summary": "Even in 2026, Michael Jordan's impact resonates with athletes and entrepreneurs. His career demonstrates that failures are pivotal for growth, encouraging a mindset that embraces setbacks as necessary steps toward achieving success and overcoming challenges.",
@@ -188,15 +272,15 @@
     },
     {
       "id": "24c06477000580e74f141a4ee098ec8e",
-      "title": "Dubai Abu Dhabi News LIVE Updates: Missile alert in Dubai today amid Iranian attacks; Saudi Arabia downs 10 drones",
+      "title": "Dubai Abu Dhabi News LIVE Updates: Explosions rock Dubai; huge smoke plume rises over financial hub",
       "summary": "Dubai Abu Dhabi News LIVE Updates: Tehran retaliates by targeting shipping and energy facilities in the Persian Gulf, the conflict shows no signs of ending, driving oil prices back above $100 per barrel. Get Dubai Abu Dhabi news LIVE Updates here on Mint.",
       "url": "https://www.livemint.com/news/world/dubai-abu-dhabi-news-live-updates-missile-alert-iran-us-israel-etihad-flight-status-american-iran-war-update-11773378176217.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/IRAN-CRISIS-EMIRATES-1_1773378413824_1773378427900.JPG",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/UAE-IRAN-US-ISRAEL-WAR-5_1773391966391_1773391977878.jpg",
       "published_at": "2026-03-13T05:38:38.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "దుబాయ్ అబుదాబి న్యూస్ లైవ్ అప్‌డేట్స్: ఇరాన్ దాడుల మధ్య నేడు దుబాయ్‌లో క్షిపణి హెచ్చరిక; సౌదీ అరేబియా 10 డ్రోన్‌లను కూల్చివేసింది",
+      "title_te": "దుబాయ్ అబుదాబి న్యూస్ లైవ్ అప్‌డేట్‌లు: దుబాయ్‌లో పేలుళ్లు; ఫైనాన్షియల్ హబ్‌పై భారీగా పొగలు వస్తున్నాయి",
       "summary_te": "దుబాయ్ అబుదాబి న్యూస్ లైవ్ అప్‌డేట్‌లు: పెర్షియన్ గల్ఫ్‌లో షిప్పింగ్ మరియు ఎనర్జీ సౌకర్యాలను లక్ష్యంగా చేసుకోవడం ద్వారా టెహ్రాన్ ప్రతీకారం తీర్చుకుంది, ఈ వివాదం ముగిసే సంకేతాలను చూపలేదు, చమురు ధరలను బ్యారెల్‌కు $100 కంటే ఎక్కువ పెంచింది. దుబాయ్ అబుదాబి న్యూస్ లైవ్ అప్‌డేట్‌లను ఇక్కడ మింట్‌లో పొందండి.",
       "translated": true
     },
@@ -240,20 +324,6 @@
       "language": "en",
       "title_te": "ఈ రోజు LPG సిలిండర్ ధర: మీ నగరంలో తాజా ధరలను తనిఖీ చేయండి — ఢిల్లీ, ముంబై, కోల్‌కతా, బెంగళూరు",
       "summary_te": "అమెరికా-ఇజ్రాయెల్-ఇరాన్ వివాదం కారణంగా సరఫరాలో అంతరాయాల కారణంగా భారతదేశంలో ఎల్‌పిజి సిలిండర్ ధరలు పెరిగాయి. డొమెస్టిక్ సిలిండర్ ₹60, కమర్షియల్ సిలిండర్ ₹144 పెరిగింది. నగరాల వారీగా వంట గ్యాస్ ధరను తనిఖీ చేయండి. ",
-      "translated": true
-    },
-    {
-      "id": "6c7e69b9917dac0b5bdfe2bec1d288dc",
-      "title": "Why the government’s latest Press Note 3 changes matter for FDI flows",
-      "summary": "India’s updated Press Note 3 framework aims to ease foreign investment restrictions from land-border countries by clarifying beneficial ownership rules and introducing faster approvals for strategic sectors. The changes seek to balance national security with investment growth, potentially reviving FDI flows through global funds while supporting startups, manufacturing expansion and technology transfer.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-the-governments-latest-press-note-3-changes-matter-for-fdi-flows/articleshow/129538467.cms",
-      "image": null,
-      "published_at": "2026-03-13T05:18:35.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రభుత్వం యొక్క తాజా ప్రెస్ నోట్ 3 ఎందుకు FDI ప్రవాహాలకు సంబంధించినది",
-      "summary_te": "భారతదేశం యొక్క నవీకరించబడిన ప్రెస్ నోట్ 3 ఫ్రేమ్‌వర్క్ లాభదాయకమైన యాజమాన్య నియమాలను స్పష్టం చేయడం ద్వారా మరియు వ్యూహాత్మక రంగాలకు వేగవంతమైన అనుమతులను ప్రవేశపెట్టడం ద్వారా భూ-సరిహద్దు దేశాల నుండి విదేశీ పెట్టుబడి పరిమితులను సడలించడం లక్ష్యంగా పెట్టుకుంది. స్టార్టప్‌లు, తయారీ విస్తరణ మరియు సాంకేతికత బదిలీకి మద్దతునిస్తూ గ్లోబల్ ఫండ్స్ ద్వారా ఎఫ్‌డిఐ ప్రవాహాలను పునరుద్ధరింపజేసేందుకు, పెట్టుబడి వృద్ధితో జాతీయ భద్రతను సమతుల్యం చేసేందుకు ఈ మార్పులు ప్రయత్నిస్తాయి.",
       "translated": true
     },
     {
@@ -313,20 +383,6 @@
       "translated": true
     },
     {
-      "id": "71e80695bd52345744696ff43435d0ee",
-      "title": "Jio IPO delay makes Jefferies cut RIL target price but says O2C benefiting amid disruption",
-      "summary": "Jefferies has cut Reliance Industries’ (RIL) target price to Rs 1,750, citing a delayed Jio tariff hike and likely Jio IPO postponement. However, the brokerage highlights gains for the oil-to-chemicals (O2C) business amid Middle East supply disruptions, which boost refining and petrochemical margins, offsetting near-term digital segment drag.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-delay-makes-jefferies-cut-ril-target-price-but-says-o2c-benefiting-amid-disruption/articleshow/129537263.cms",
-      "image": null,
-      "published_at": "2026-03-13T04:35:32.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "Jio IPO ఆలస్యం జెఫరీస్ RIL లక్ష్య ధరను తగ్గించింది, అయితే O2C అంతరాయం మధ్య లాభపడుతుందని చెప్పారు",
-      "summary_te": "ఆలస్యమైన జియో టారిఫ్ పెంపు మరియు జియో ఐపిఒ వాయిదాకు అవకాశం ఉన్నందున రిలయన్స్ ఇండస్ట్రీస్ (ఆర్‌ఐఎల్) టార్గెట్ ధరను జెఫరీస్ రూ. 1,750కి తగ్గించింది. ఏదేమైనా, మధ్యప్రాచ్య సరఫరా అంతరాయాల మధ్య బ్రోకరేజ్ ఆయిల్-టు-కెమికల్స్ (O2C) వ్యాపారం కోసం లాభాలను హైలైట్ చేస్తుంది, ఇది రిఫైనింగ్ మరియు పెట్రోకెమికల్ మార్జిన్‌లను పెంచుతుంది, సమీప-కాల డిజిటల్ సెగ్మెంట్ డ్రాగ్‌ను భర్తీ చేస్తుంది.",
-      "translated": true
-    },
-    {
       "id": "6708cea82ba3037f0356cd485abbd704",
       "title": "Explained: Why traders aren’t holding on to gold since Middle East war despite safe haven appeal",
       "summary": "Despite the Middle East war and rising geopolitical tensions, gold prices have fallen, defying their safe-haven appeal. This counterintuitive trend is attributed to a broad risk-off sentiment, a strong US dollar, and profit-booking after earlier rallies. Experts suggest this is a short-term adjustment, with long-term fundamentals still supporting precious metals.",
@@ -380,62 +436,6 @@
       "language": "en",
       "title_te": "ఫ్రాన్స్ అధ్యక్షుడు ఇమ్మాన్యుయేల్ మాక్రాన్ మార్చి 31 నుంచి జపాన్, దక్షిణ కొరియాలో పర్యటించనున్నారు",
       "summary_te": "ఫ్రెంచ్ అధ్యక్షుడు ఇమ్మాన్యుయేల్ మాక్రాన్ మార్చి 31 నుండి ఏప్రిల్ 2 వరకు జపాన్ మరియు ఏప్రిల్ 2 నుండి 3 వరకు దక్షిణ కొరియాలో పర్యటించనున్నారు. ఫ్రాన్స్, జపాన్ మరియు దక్షిణ కొరియాల మధ్య సంబంధాలను బలోపేతం చేయడం అతని పర్యటన లక్ష్యం. ",
-      "translated": true
-    },
-    {
-      "id": "37e450e9909a1817de4c33e5270216f4",
-      "title": "LPG Shortage News Today LIVE: Delhi canteens, langars rethink meals, trim menus",
-      "summary": "LPG Shortage News Today Updates: The shortage of cooking gas has begun disrupting community kitchens across the city. As a result, langars and Atal canteens have been forced to cut menu options. Catch LIVE Updates with Mint",
-      "url": "https://www.livemint.com/news/india/lpg-shortage-news-today-13-march-cylinder-png-iran-war-bengaluru-chennai-delhi-mumbai-kolkata-gas-prices-live-updates-11773371112788.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/LPG_1773371352271_1773371352405.jpg",
-      "published_at": "2026-03-13T03:15:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "LPG కొరత న్యూస్ టుడే లైవ్: ఢిల్లీ క్యాంటీన్‌లు, లంగర్లు భోజనంపై పునరాలోచన, మెనులను ట్రిమ్ చేయండి",
-      "summary_te": "LPG కొరత న్యూస్ టుడే నవీకరణలు: వంటగ్యాస్ కొరత నగరంలోని కమ్యూనిటీ కిచెన్‌లకు అంతరాయం కలిగించడం ప్రారంభించింది. ఫలితంగా, లంగర్లు మరియు అటల్ క్యాంటీన్లు మెనూ ఎంపికలను తగ్గించవలసి వచ్చింది. మింట్‌తో లైవ్ అప్‌డేట్‌లను చూడండి",
-      "translated": true
-    },
-    {
-      "id": "c33d29024df599c48aa819118adf7cf8",
-      "title": "Earthquake Today: Shallow 5.5 quake jolts Turkey, residents flee homes",
-      "summary": "Turkiye sits on top of major fault lines and earthquakes are frequent. In 2023, a magnitude 7.8 earthquake killed more than 53,000 people in Turkiye and destroyed or damaged hundreds of thousands of buildings in 11 southern and southeastern provinces.",
-      "url": "https://www.livemint.com/news/world/earthquake-today-shallow-5-5-quake-jolts-turkey-residents-flee-homes-11773370692306.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/seismograph_1762128993722_1762128993835_1773370835634.jpg",
-      "published_at": "2026-03-13T03:04:08.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈరోజు భూకంపం: టర్కీని కుదిపేసిన 5.5 భూకంపం, నివాసితులు ఇళ్ల నుండి పారిపోయారు",
-      "summary_te": "టర్కీయే ప్రధాన ఫాల్ట్ లైన్ల పైన కూర్చుంటుంది మరియు తరచుగా భూకంపాలు సంభవిస్తాయి. 2023లో, టర్కీయేలో 7.8 తీవ్రతతో సంభవించిన భూకంపం వల్ల 53,000 మందికి పైగా మరణించారు మరియు 11 దక్షిణ మరియు ఆగ్నేయ ప్రావిన్సులలో లక్షలాది భవనాలు ధ్వంసమయ్యాయి లేదా దెబ్బతిన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "5386664a6c368cdb9ebec2ccd3dd0e7c",
-      "title": "Who was Ayman Mohamad Ghazali? Lebanon-born, naturalised US citizen behind Michigan synagogue attack",
-      "summary": "The FBI is considering it as a targeted act of violence against the Jewish community.",
-      "url": "https://www.livemint.com/news/us-news/who-was-ayman-mohamad-ghazali-lebanon-born-naturalised-us-citizen-behind-michigan-synagogue-attack-11773366830323.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/MICHIGAN-SHOOTING--1_1773366987694_1773367004503.JPG",
-      "published_at": "2026-03-13T02:34:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఐమన్ మొహమ్మద్ గజాలీ ఎవరు? మిచిగాన్ ప్రార్థనా మందిరం దాడి వెనుక లెబనాన్‌లో జన్మించిన, సహజసిద్ధమైన US పౌరుడు",
-      "summary_te": "ఎఫ్‌బిఐ దీనిని యూదు సమాజంపై లక్ష్యంగా చేసుకున్న హింసాత్మక చర్యగా పరిగణిస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "02f0d0f801139137ca89f4f1f2d64659",
-      "title": "When is Eid holiday — 19 or 20 March? India, Saudi Arabia, UAE likely to celebrate Eid ul-Fitr 2026 after 29th Ramadan",
-      "summary": "Eid celebrations are contingent upon moon sighting with celebrations likely on 19 or 20 March. Saudi Arabia announced a four-day holiday for Eid ul-Fitr starting from18 March. Check what International Astronomical Center predicts.",
-      "url": "https://www.livemint.com/news/trends/when-is-eid-holiday-19-or-20-march-india-saudi-arabia-uae-likely-to-celebrate-eid-ul-fitr-2026-after-29th-ramadan-11773365211817.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/1000052805_1749267927762_1773368466556.jpg",
-      "published_at": "2026-03-13T02:33:44.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈద్ సెలవు ఎప్పుడు — మార్చి 19 లేదా 20? భారతదేశం, సౌదీ అరేబియా, UAE 29 రంజాన్ తర్వాత ఈద్ ఉల్-ఫితర్ 2026 జరుపుకునే అవకాశం ఉంది",
-      "summary_te": "ఈద్ వేడుకలు మార్చి 19 లేదా 20 న జరుపుకునే అవకాశం ఉన్న చంద్రుని దర్శనం మీద ఆధారపడి ఉంటుంది. సౌదీ అరేబియా మార్చి 18 నుండి ఈద్ ఉల్-ఫితర్ కోసం నాలుగు రోజుల సెలవు ప్రకటించింది. అంతర్జాతీయ ఖగోళ కేంద్రం ఏమి అంచనా వేస్తుందో తనిఖీ చేయండి.",
       "translated": true
     },
     {
@@ -505,7 +505,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆసియాలో, అమెరికాతో భారత్ అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది: పీయూష్ గోయల్",
-      "summary_te": "భారతదేశం తన పోటీదారులలో యునైటెడ్ స్టేట్స్‌తో అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది. వాణిజ్యం మరియు పరిశ్రమల శాఖ మంత్రి పీయూష్ గోయల్ రెండు దేశాల మధ్య బలమైన సంబంధాలను ఎత్తిచూపారు. అమెరికా ఆర్థిక వ్యవస్థ ప్రపంచంలోనే అతిపెద్దదని, దీనిని విస్మరించలేమని ఆయన ఉద్ఘాటించారు. భారతదేశం ప్రపంచ వాణిజ్య భాగస్వామ్య నెట్‌వర్క్‌ను చురుకుగా నిర్మిస్తోంది.",
+      "summary_te": "భారతదేశం తన పోటీదారులలో యునైటెడ్ స్టేట్స్‌తో అత్యుత్తమ వాణిజ్య ఒప్పందాన్ని పొందింది. వాణిజ్యం మరియు పరిశ్రమల శాఖ మంత్రి పీయూష్ గోయల్ రెండు దేశాల మధ్య బలమైన సంబంధాలను ఎత్తిచూపారు. అమెరికా ఆర్థిక వ్యవస్థ ప్రపంచంలోనే అతిపెద్దదని, దీనిని విస్మరించలేమని ఆయన ఉద్ఘాటించారు. ప్రపంచ వాణిజ్య భాగస్వామ్య నెట్‌వర్క్‌ను భారతదేశం చురుకుగా నిర్మిస్తోంది.",
       "translated": true
     },
     {
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
-      "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
+      "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిస్వా శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
     {
@@ -560,7 +560,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "2047 నాటికి విక్షిత్ భారత్ కోసం ‘ఛాంపియన్ CPSE’లను ప్రభుత్వం ప్లాన్ చేస్తుంది, నీతి ఆయోగ్ రోడ్‌మ్యాప్ త్వరలో",
+      "title_te": "2047 నాటికి విక్షిత్ భారత్ కోసం 'ఛాంపియన్ CPSE'లను ప్రభుత్వం ప్లాన్ చేస్తుంది, నీతి ఆయోగ్ రోడ్‌మ్యాప్ త్వరలో",
       "summary_te": "'ఛాంపియన్' ప్రభుత్వ రంగ సంస్థలను రూపొందించేందుకు భారత్ సిద్ధమవుతోంది. ఈ సంస్థలు ఆర్థిక వృద్ధిని మరియు సాంకేతికతను పెంచుతాయి. 2047 నాటికి భారతదేశాన్ని అభివృద్ధి చెందిన దేశంగా మార్చడం లక్ష్యం. ఈ కంపెనీలు నిర్ణయాలు మరియు ప్రతిభను నియమించుకోవడంలో మరింత స్వేచ్ఛను పొందుతాయి. మెరుగైన పనితీరు కోసం వారు కొత్త సాంకేతికతలను ఉపయోగిస్తారు.",
       "translated": true
     },
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
       "translated": true
     },
     {
@@ -603,7 +603,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
-      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
+      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ వాతావరణ చర్యను ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు, అయితే వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -617,7 +617,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎప్స్టీన్ అరెస్టు తర్వాత ఆమె డబ్బును తరలించి, కొన్నాళ్లపాటు ఘిస్లైన్ మాక్స్‌వెల్‌ను UBS బ్యాంకింగ్ చేసింది",
-      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత సహా మాక్స్‌వెల్ కోసం UBS మిలియన్ల కొద్దీ నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీశాయి.",
+      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత కూడా UBS మాక్స్‌వెల్ కోసం మిలియన్ల మందిని నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీసింది.",
       "translated": true
     },
     {
@@ -911,7 +911,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
