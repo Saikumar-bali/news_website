@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-03-13T21:34:14.652Z",
-  "updated_at_IST": "14/3/2026, 3:04:14 am",
+  "updated_at": "2026-03-13T22:29:56.202Z",
+  "updated_at_IST": "14/3/2026, 3:59:56 am",
   "category": "business",
   "count": 50,
   "articles": [
     {
+      "id": "929105cfe4accb48bc9d3ed588792459",
+      "title": "US deploys 5,000 additional Marines and Sailors to Middle East amid intensifying Iran conflict: Report",
+      "summary": "The deployment, requested by CENTCOM, aims to provide rapid crisis response, protect embassies, evacuate civilians, and secure key entry points amid the ongoing conflict.",
+      "url": "https://www.livemint.com/news/us-news/us-deploys-5-000-additional-marines-and-sailors-to-middle-east-amid-intensifying-iran-conflict-report-11773435546913.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/IRAN-CRISIS--8_1773436155093_1773436165191.JPG",
+      "published_at": "2026-03-13T21:26:55.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ వివాదాన్ని తీవ్రతరం చేస్తున్న నేపథ్యంలో అమెరికా 5,000 మంది అదనపు మెరైన్లు మరియు నావికులను మిడిల్ ఈస్ట్‌కు మోహరించింది: నివేదిక",
+      "summary_te": "CENTCOM అభ్యర్థించిన విస్తరణ, త్వరిత సంక్షోభ ప్రతిస్పందనను అందించడం, రాయబార కార్యాలయాలను రక్షించడం, పౌరులను ఖాళీ చేయడం మరియు కొనసాగుతున్న సంఘర్షణల మధ్య కీలకమైన ఎంట్రీ పాయింట్లను సురక్షితం చేయడం లక్ష్యంగా పెట్టుకుంది.",
+      "translated": true
+    },
+    {
       "id": "8fa96eabecae610f94116c9b49273ce0",
-      "title": "US offers $10 million reward for information on Mojtaba Khamenei, key Iranian leaders",
+      "title": "US offers $10 million reward for information on Mojtaba Khamenei, other key Iranian leaders",
       "summary": "The announcement targets key Iranian figures, including Mojtaba Khamenei, Ali Larijani, Maj. Gen. Yahya Rahim Safavi, and others amid heightened Middle East tensions following US and Israeli strikes.",
       "url": "https://www.livemint.com/news/us-news/us-offers-10-million-reward-for-information-on-mojtaba-khamenei-key-iranian-leaders-11773431767741.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/Turkey-Iran-US-Israel-1_1773433111869_1773433126870.jpg",
@@ -14,7 +28,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్‌లోని కీలక నేతలు మోజ్‌తబా ఖమేనీ గురించి సమాచారం ఇస్తే US $10 మిలియన్ రివార్డ్‌ను అందిస్తోంది",
+      "title_te": "ఇతర కీలక ఇరాన్ నాయకులైన మొజ్తాబా ఖమేనీ గురించి సమాచారం ఇస్తే US $10 మిలియన్ రివార్డ్‌ను అందిస్తోంది",
       "summary_te": "US మరియు ఇజ్రాయెల్ దాడుల తర్వాత మధ్యప్రాచ్యంలో తీవ్ర ఉద్రిక్తతల మధ్య ఈ ప్రకటన Mojtaba Khamenei, Ali Larijani, Maj. General Yahya Rahim Safavi మరియు ఇతరులతో సహా కీలకమైన ఇరాన్ వ్యక్తులను లక్ష్యంగా చేసుకుంది.",
       "translated": true
     },
@@ -23,7 +37,7 @@
       "title": "‘You don’t need to worry about it’: Pete Hegseth on Iran's Hormuz shipping threat",
       "summary": "The Strait of Hormuz has come under global focus as tensions rise following joint strikes by United States and Israel on Iran. Commercial ships in the strait and the Persian Gulf have recently faced missile and drone attack risks linked to Iran.",
       "url": "https://www.livemint.com/news/us-news/you-don-t-need-to-worry-about-it-pete-hegseth-on-irans-hormuz-shipping-threat-11773428880432.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/IRAN-NUCLEAR-USA-CONGRESS-23_1751031616354_1751031628887_1773429316205.JPG",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/hqdefault_1773438200271_1773438203679.jpg",
       "published_at": "2026-03-13T20:08:36.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "PM కిసాన్ 22వ వాయిదా ఆలస్యమైంది — చెల్లింపు స్థితిని ట్రాక్ చేయడం మరియు తనిఖీ చేయడం ఎలా",
       "summary_te": "9.3 కోట్ల మంది రైతుల కోసం 22వ పీఎం-కిసాన్ పథకం వాయిదాను ప్రధాని మోదీ ప్రారంభించారు. రైతులు తమ లబ్ధిదారుని స్థితిని ఆన్‌లైన్‌లో ధృవీకరించవచ్చు మరియు ఆర్థిక సహాయం కోసం అర్హతను నిర్ధారించడానికి తప్పనిసరిగా OTP, బయోమెట్రిక్ లేదా ముఖ-ప్రామాణీకరణ పద్ధతుల ద్వారా e-KYCని పూర్తి చేయాలి.",
-      "translated": true
-    },
-    {
-      "id": "5e0fd2365cf27a214724a800a061da20",
-      "title": "US Defense Secretary Pete Hegseth claims Iran’s new Supreme Leader ‘likely wounded and disfigured’",
-      "summary": "Hegseth criticized Khamenei’s first statement for being written rather than delivered via video or audio and said there was no proof of his condition.",
-      "url": "https://www.livemint.com/news/world/us-defense-secretary-pete-hegseth-claims-iran-s-new-supreme-leader-likely-wounded-and-disfigured-11773408541508.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/US-IRAN-ISRAEL-WAR-13_1772774315645_1772774323981_1773409125995.jpg",
-      "published_at": "2026-03-13T13:49:06.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "అమెరికా రక్షణ కార్యదర్శి పీట్ హెగ్‌సేత్ ఇరాన్ కొత్త అత్యున్నత నాయకుడిని 'గాయపడి వికృతీకరించి ఉండవచ్చు' అని పేర్కొన్నారు.",
-      "summary_te": "ఖమేనీ యొక్క మొదటి ప్రకటన వీడియో లేదా ఆడియో ద్వారా బట్వాడా కాకుండా వ్రాయబడిందని హెగ్సేత్ విమర్శించాడు మరియు అతని పరిస్థితికి రుజువు లేదని చెప్పాడు.",
       "translated": true
     },
     {
