@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-03-13T06:50:18.666Z",
-  "updated_at_IST": "13/3/2026, 12:20:18 pm",
+  "updated_at": "2026-03-13T07:50:29.949Z",
+  "updated_at_IST": "13/3/2026, 1:20:29 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 23,
   "articles": [
+    {
+      "id": "bcc2f8de7630dcaa8f79c8410b80925a",
+      "title": "Minister Nara Lokesh meets Capgemini CEO; urges to set up IT development centre, GCC in Visakhapatnam",
+      "summary": "Nara Lokesh said Visakhapatnam is rapidly emerging as a major IT and data centre hub",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/minister-nara-lokesh-meets-capgemini-ceo-urges-to-set-up-it-development-centre-gcc-in-visakhapatnam/article70733927.ece",
+      "image": "https://th-i.thgim.com/public/incoming/kwb0ax/article70733982.ece/alternates/LANDSCAPE_1200/9604_12_3_2026_11_8_16_2_IMG_20260312_WA0004.JPG",
+      "published_at": "2026-03-13T05:50:08.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "క్యాప్‌జెమినీ సీఈవోతో మంత్రి నారా లోకేష్ భేటీ; విశాఖలో ఐటీ డెవలప్‌మెంట్ సెంటర్, జీసీసీ ఏర్పాటు చేయాలని కోరారు",
+      "summary_te": "విశాఖపట్నం ప్రధాన ఐటీ, డేటా సెంటర్‌ హబ్‌గా వేగంగా అభివృద్ధి చెందుతోందని నారా లోకేశ్‌ అన్నారు",
+      "translated": true
+    },
+    {
+      "id": "6c28c84f746b63ce66a2d9e0c08c9c8a",
+      "title": "TTD fortifies LPG reserves amid West Asia war",
+      "summary": "To ensure uninterrupted Annadanam and laddu production at Tirumala, the temple administration extracts positive assurance from IOCL on continuous supplies, besides building a formidable reserve of 38 tonnes of the fuel sufficient to sustain operations for over a week even under adverse conditions",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-fortifies-lpg-reserves-amid-west-asia-war/article70734321.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5pa9xm/article70735709.ece/alternates/LANDSCAPE_1200/IMG_174_Annadhanam_at_Ti_2_1_K6A3UL2P.jpg",
+      "published_at": "2026-03-13T05:44:51.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా యుద్ధం నేపథ్యంలో టీటీడీ ఎల్‌పీజీ నిల్వలను పటిష్టం చేసింది",
+      "summary_te": "తిరుమలలో నిరంతరాయంగా అన్నదానం మరియు లడ్డూ ఉత్పత్తిని నిర్ధారించడానికి, ఆలయ పరిపాలన నిరంతర సరఫరాపై IOCL నుండి సానుకూల హామీని సంగ్రహిస్తుంది, అంతేకాకుండా ప్రతికూల పరిస్థితులలో కూడా ఒక వారం పాటు కార్యకలాపాలను కొనసాగించడానికి సరిపోయేంత 38 టన్నుల ఇంధనం యొక్క బలీయమైన నిల్వను నిర్మించడం.",
+      "translated": true
+    },
     {
       "id": "d17bde37cd3b02258f4f308427368464",
       "title": "LPG situation under control, no need for panic booking, says A.P. govt.",
       "summary": "LPG stock of 17,962 MT available, steps being taken to ensure uninterrupted fuel supplies and protect households and priority sectors, announces govt.",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/lpg-situation-under-control-no-need-for-panic-booking-says-ap-govt/article70735909.ece",
       "image": "https://th-i.thgim.com/public/incoming/s1tndt/article70736268.ece/alternates/LANDSCAPE_1200/10215_12_3_2026_18_14_36_3_DSC_9027JPG.JPEG",
-      "published_at": "2026-03-12T16:01:10.000Z",
+      "published_at": "2026-03-13T05:32:16.000Z",
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
       "title_te": "LPG పరిస్థితి అదుపులో ఉంది, భయాందోళన బుకింగ్ అవసరం లేదు: A.P ప్రభుత్వం",
       "summary_te": "17,962 MT LPG స్టాక్ అందుబాటులో ఉంది, నిరంతరాయ ఇంధన సరఫరాలను నిర్ధారించడానికి మరియు గృహాలు మరియు ప్రాధాన్యతా రంగాలను రక్షించడానికి చర్యలు తీసుకుంటున్నట్లు ప్రభుత్వం ప్రకటించింది.",
+      "translated": true
+    },
+    {
+      "id": "65d00961ab9f815e0bbb208e5a1feee3",
+      "title": "YSRCP stands for values, credibility: Former Andhra CM Jagan Mohan Reddy",
+      "summary": "Jagan was addressing YSRCP leaders on the occasion of the party’s Formation Day celebrations at its central office in Tadepalli in Guntur district",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-stands-for-values-credibility-former-andhra-cm-jagan-mohan-reddy/article70734065.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ox4ld9/article70734142.ece/alternates/LANDSCAPE_1200/BAG_2644.JPG",
+      "published_at": "2026-03-13T05:19:35.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "వైఎస్‌ఆర్‌సీపీ అంటే విలువలు, విశ్వసనీయత: మాజీ సీఎం జగన్‌మోహన్‌రెడ్డి",
+      "summary_te": "గుంటూరు జిల్లా తాడేపల్లిలోని వైఎస్సార్‌సీపీ కేంద్ర కార్యాలయంలో ఆ పార్టీ ఆవిర్భావ దినోత్సవ వేడుకల సందర్భంగా పార్టీ నేతలను ఉద్దేశించి జగన్ మాట్లాడారు.",
       "translated": true
     },
     {
@@ -43,7 +85,7 @@
       "category": "andhra",
       "language": "en",
       "title_te": "U.S. ఎంబసీ ప్రతినిధి బృందం విద్యార్థుల ఉపాధి నైపుణ్యాలకు మద్దతుగా SPMVVని సందర్శిస్తుంది",
-      "summary_te": "విద్యార్థుల్లో ఉపాధి నైపుణ్యాలను పెంపొందించేందుకు కొనసాగుతున్న ప్రాజెక్ట్‌లో భాగంగా అమెరికా రాయబార కార్యాలయం ప్రతినిధులు గురువారం ఇక్కడి శ్రీ పద్మావతి మహిళా విశ్వ విద్యాలయం (SPMVV) క్యాంపస్‌ని సందర్శించారు. 2025 ఆగస్టులో అమెరికన్ ప్రభుత్వం ఏంజెలా సుసాన్ బకులాను వర్సిటీకి నియమించిన విషయం గుర్తుండే ఉంటుంది. తిరుపతిలో ఉంటూ తరగతులు, వర్క్‌షాప్‌లు నిర్వహిస్తూ విద్యార్థులు, అధ్యాపకులతో ముచ్చటిస్తూ హైదరాబాద్‌లోని కాన్సులేట్‌ జనరల్‌ నుంచి రాయబార కార్యాలయ ప్రతినిధులు శ్వేతా ఖన్నా, నౌషీన్‌ అలీలు తిరుపతి చేరుకున్నారు. ఎస్‌పిఎంవివి వైస్‌ ఛాన్సలర్‌ వి. ఉమ, రిజిస్ట్రార్‌ ఆర్‌. ఉష, డీన్‌ పద్మాణి, విజయాలక్ష్మి ప్రాజెక్ట్‌ను సంప్రదించారు. ఇద్దరికి సంబంధించిన వివరాలు. కమ్యూనికేటివ్ ఇంగ్లీష్ బోధించడం మరియు క్యాంపస్‌లోని విద్యార్థులలో అభ్యాస నైపుణ్యాలను మెరుగుపరచడంలో తన విద్యాపరమైన నిశ్చితార్థాన్ని గుర్తుచేసుకుంటూ, Ms. బకులా క్యాంపస్ లోపల మరియు వెలుపల ఇతర సాంస్కృతిక మరియు విద్యాేతర కార్యక్రమాలలో పాల్గొనడాన్ని ఎలా ఆస్వాదించారో కూడా వివరించింది. \"పాల్గొనడం వల్ల ఆంధ్రప్రదేశ్ మరియు భారతదేశం యొక్క సాంస్కృతిక మరియు సామాజిక పద్ధతులపై నాకు చాలా విషయాలు బోధించబడ్డాయి\" అని ఆమె చెప్పారు. విశ్వవిద్యాలయానికి ప్రాజెక్ట్‌ను అందించినందుకు వర్సిటీ అధికారులు న్యూ ఢిల్లీలోని యుఎస్ ఎంబసీ మరియు హైదరాబాద్‌లోని యుఎస్ కాన్సులేట్ జనరల్‌కు ధన్యవాదాలు తెలిపారు.",
+      "summary_te": "విద్యార్థుల్లో ఉపాధి నైపుణ్యాలను పెంపొందించేందుకు కొనసాగుతున్న ప్రాజెక్ట్‌లో భాగంగా అమెరికా రాయబార కార్యాలయం ప్రతినిధులు గురువారం ఇక్కడి శ్రీ పద్మావతి మహిళా విశ్వ విద్యాలయం (SPMVV) క్యాంపస్‌ని సందర్శించారు. 2025 ఆగస్టులో అమెరికన్ ప్రభుత్వం ఏంజెలా సుసాన్ బకులాను వర్సిటీకి నియమించిన విషయం గుర్తుండే ఉంటుంది. తిరుపతిలో ఉంటూ తరగతులు, వర్క్‌షాప్‌లు నిర్వహిస్తూ విద్యార్థులు, అధ్యాపకులతో ముచ్చటిస్తూ హైదరాబాద్‌లోని కాన్సులేట్‌ జనరల్‌ నుంచి ఎంబసీ ప్రతినిధులు శ్వేతా ఖన్నా, నౌషీన్‌ అలీలు తిరుపతికి చేరుకున్నారు. ఎస్‌పిఎంవివి వైస్‌ ఛాన్సలర్‌ వి. ఉమ, రిజిస్ట్రార్‌ ఆర్‌. ఉష, ప్రాజెక్ట్‌ డీన్‌ పద్మాణి (ఇంటర్నేషనల్‌) పాయింట్‌ను సంప్రదించారు. ఇద్దరికి సంబంధించిన వివరాలు. కమ్యూనికేటివ్ ఇంగ్లీష్ బోధించడం మరియు క్యాంపస్‌లోని విద్యార్థులలో అభ్యాస నైపుణ్యాలను మెరుగుపరచడంలో తన విద్యాపరమైన నిశ్చితార్థాన్ని గుర్తుచేసుకుంటూ, Ms. బకులా క్యాంపస్ లోపల మరియు వెలుపల ఇతర సాంస్కృతిక మరియు విద్యాేతర కార్యక్రమాలలో పాల్గొనడాన్ని ఎలా ఆస్వాదించారో కూడా వివరించింది. \"పాల్గొనడం వల్ల ఆంధ్రప్రదేశ్ మరియు భారతదేశం యొక్క సాంస్కృతిక మరియు సామాజిక పద్ధతులపై నాకు చాలా విషయాలు బోధించబడ్డాయి\" అని ఆమె చెప్పారు. విశ్వవిద్యాలయానికి ప్రాజెక్ట్‌ను అందించినందుకు వర్సిటీ అధికారులు న్యూ ఢిల్లీలోని యుఎస్ ఎంబసీ మరియు హైదరాబాద్‌లోని యుఎస్ కాన్సులేట్ జనరల్‌కు ధన్యవాదాలు తెలిపారు.",
       "translated": true
     },
     {
@@ -117,20 +159,6 @@
       "translated": true
     },
     {
-      "id": "6c28c84f746b63ce66a2d9e0c08c9c8a",
-      "title": "TTD fortifies LPG reserves amid West Asia war",
-      "summary": "To ensure uninterrupted Annadanam and laddu production at Tirumala, the temple administration extracts positive assurance from IOCL on continuous supplies, besides building a formidable reserve of 38 tonnes of the fuel sufficient to sustain operations for over a week even under adverse conditions",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-fortifies-lpg-reserves-amid-west-asia-war/article70734321.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5pa9xm/article70735709.ece/alternates/LANDSCAPE_1200/IMG_174_Annadhanam_at_Ti_2_1_K6A3UL2P.jpg",
-      "published_at": "2026-03-12T14:20:21.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా యుద్ధం నేపథ్యంలో టీటీడీ ఎల్‌పీజీ నిల్వలను పటిష్టం చేసింది",
-      "summary_te": "తిరుమలలో నిరంతరాయంగా అన్నదానం మరియు లడ్డూ ఉత్పత్తిని నిర్ధారించడానికి, ఆలయ పరిపాలన నిరంతర సరఫరాపై IOCL నుండి సానుకూల హామీని సంగ్రహిస్తుంది, అంతేకాకుండా ప్రతికూల పరిస్థితులలో కూడా ఒక వారం పాటు కార్యకలాపాలను కొనసాగించడానికి సరిపోయేంత 38 టన్నుల ఇంధనం యొక్క బలీయమైన నిల్వను నిర్మించడం.",
-      "translated": true
-    },
-    {
       "id": "63e57c4d6524b7e1b20d299d01c831c1",
       "title": "LPG shortage: police caution against spreading rumours",
       "summary": "Warning follows misleading posts on social media claiming that LPG cylinders were becoming scarce and that prices had sharply increased due to international developments",
@@ -182,7 +210,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "T.N నుండి ఇద్దరు ఇంట్లో చోరీలకు పాల్పడి, ₹34 లక్షల విలువైన సొత్తును స్వాధీనం చేసుకున్నారు",
+      "title_te": "T.N నుండి ఇద్దరు ఇంట్లో చోరీలకు పాల్పడి, ₹34 లక్షల విలువైన సొత్తు స్వాధీనం చేసుకున్నారు",
       "summary_te": "గురువారం చిత్తూరు పోలీసులు వరుస ఇళ్లు పగులగొట్టి చోరీకి పాల్పడిన ఇద్దరు వ్యక్తులను అరెస్టు చేశారు మరియు బంగారు, వెండి ఆభరణాలు, అలాగే రెండు కార్లు సహా సుమారు ₹34 లక్షల విలువైన చోరీ సొత్తును స్వాధీనం చేసుకున్నారు. చిత్తూరు-వెల్లూరు రహదారిలోని రెడ్డిగుంట జంక్షన్, పక్కా సమాచారం మేరకు ఈ అరెస్టులు చిత్తూరు పట్టణంలోని దుర్గానగర్ కాలనీలో ఫిబ్రవరి 5న జరిగిన చోరీకి సంబంధించినవి. కొడుకు చనిపోవడంతో ఇంటి యజమాని నివాసానికి తాళం వేసి స్వగ్రామానికి వెళ్లిపోయినట్లు సమాచారం. నిందితులు ఆ ప్రాంతాన్ని స్కాన్ చేసి, తాళం వేసి ఉన్న ఇంటిని గుర్తించి, అర్ధరాత్రి తలుపులు పగులగొట్టి విలువైన వస్తువులతో కూల్చివేసినట్లు పోలీసులు తెలిపారు. బాధితురాలి ఫిర్యాదు మేరకు చిత్తూరు II టౌన్ పోలీస్ స్టేషన్‌లో కేసు నమోదు చేసి, నిందితుల ఆచూకీ కోసం ప్రత్యేక బృందాలను ఏర్పాటు చేసినట్లు పోలీసులు తెలిపారు. ప్రత్యేక బృందం ఆంధ్రప్రదేశ్, కర్ణాటక మరియు తమిళనాడు అంతటా లీడ్‌లను అనుసరించింది మరియు అనుమానితులను కనుగొనే ముందు పొరుగు రాష్ట్రాల పోలీసులతో సమన్వయం చేసింది. విచారణలో, నిందితులు మూడు రాష్ట్రాల్లో అనేక ఇళ్లలో చోరీలకు పాల్పడినట్లు అంగీకరించారు. రెండు హత్యలు, రెండు హత్యాయత్నాలు, 11 దోపిడీలు, 16 ఇళ్లలో చోరీలు సహా 31 కేసులతో లల్లూ ప్రసాద్‌కు సుదీర్ఘ నేర చరిత్ర ఉందని, రౌడీషీటర్‌గా నమోదయ్యాడని పోలీసులు తెలిపారు. జనార్దన్‌పై తమిళనాడులో మోటార్‌సైకిల్ దొంగతనాలు, గంజాయి స్మగ్లింగ్‌కు సంబంధించి ఏడు కేసులు ఉన్నాయి.",
       "translated": true
     },
@@ -197,7 +225,7 @@
       "category": "andhra",
       "language": "en",
       "title_te": "A.Pలో కమర్షియల్ గ్యాస్ కొరత ఎక్కువగా ఉన్నందున హోటళ్లను వారానికోసారి మూసివేయనున్నారు.",
-      "summary_te": "హోటల్ అసోసియేషన్లు సవాళ్లను పరిష్కరించడానికి మరియు LPG సిలిండర్ల బ్లాక్ మార్కెటింగ్‌ను అరికట్టడానికి ఒక ఎన్‌ఫోర్స్‌మెంట్ మెకానిజం కోసం ఒక JACని ఏర్పాటు చేస్తాయి; స్టార్ హోటల్‌లు ఆన్‌లైన్ ఆర్డర్‌లను అంగీకరించడం మానేయవచ్చు; ప్రతి సోమవారం రెస్టారెంట్లు మూసివేయబడతాయి",
+      "summary_te": "హోటల్ అసోసియేషన్లు సవాళ్లను పరిష్కరించడానికి మరియు LPG సిలిండర్ల బ్లాక్ మార్కెటింగ్‌ను అరికట్టడానికి ఒక ఎన్‌ఫోర్స్‌మెంట్ మెకానిజం కోసం ఒక JACని ఏర్పాటు చేస్తాయి; స్టార్ హోటళ్లు ఆన్‌లైన్ ఆర్డర్‌లను అంగీకరించడం మానేయవచ్చు; ప్రతి సోమవారం రెస్టారెంట్లు మూసివేయబడతాయి",
       "translated": true
     },
     {
@@ -253,7 +281,7 @@
       "category": "andhra",
       "language": "en",
       "title_te": "YSRCP పటిష్టమైన దారిలో నడుస్తోందా?",
-      "summary_te": "2024 అసెంబ్లీ ఎన్నికల్లో ఆంధ్రప్రదేశ్ అసెంబ్లీలో 151 సీట్లు కేవలం 11కి పడిపోయిన YSRCP ఇప్పుడు ప్రధాన ప్రతిపక్ష శక్తిగా ఔచిత్యాన్ని పొందేందుకు పోరాడుతున్నట్లు కనిపిస్తోంది.",
+      "summary_te": "ఆంధ్రప్రదేశ్ అసెంబ్లీలో 151 సీట్లను 2024 అసెంబ్లీ ఎన్నికల్లో కేవలం 11కి మాత్రమే చేజిక్కించుకున్న YSRCP ఇప్పుడు ప్రధాన ప్రతిపక్ష శక్తిగా ఔచిత్యాన్ని పొందేందుకు పోరాడుతున్నట్లు కనిపిస్తోంది.",
       "translated": true
     },
     {
@@ -268,34 +296,6 @@
       "language": "en",
       "title_te": "నెల్లూరు కలెక్టర్ హిమాన్షు శుక్లా చొరవను ఆంధ్ర సీఎం చంద్రబాబు నాయుడు ప్రశంసించారు",
       "summary_te": "హిమాన్షు శుక్లా బ్రెయిన్ చైల్డ్ ‘ఒక నెల-ఒక గ్రామం-నాలుగు సందర్శనలు’ కార్యక్రమం ద్వారా ఇప్పటివరకు 26 గ్రామాలలో భూ సంబంధిత సమస్యలను పరిష్కరించారు.",
-      "translated": true
-    },
-    {
-      "id": "65d00961ab9f815e0bbb208e5a1feee3",
-      "title": "YSRCP stands for values, credibility: Former Andhra CM Jagan Mohan Reddy",
-      "summary": "Jagan was addressing YSRCP leaders on the occasion of the party’s Formation Day celebrations at its central office in Tadepalli in Guntur district",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-stands-for-values-credibility-former-andhra-cm-jagan-mohan-reddy/article70734065.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ox4ld9/article70734142.ece/alternates/LANDSCAPE_1200/BAG_2644.JPG",
-      "published_at": "2026-03-12T07:27:32.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "వైఎస్‌ఆర్‌సీపీ అంటే విలువలు, విశ్వసనీయత: మాజీ సీఎం జగన్‌మోహన్‌రెడ్డి",
-      "summary_te": "గుంటూరు జిల్లా తాడేపల్లిలోని వైఎస్సార్‌సీపీ కేంద్ర కార్యాలయంలో ఆ పార్టీ ఆవిర్భావ దినోత్సవ వేడుకల సందర్భంగా పార్టీ నేతలను ఉద్దేశించి జగన్ మాట్లాడారు.",
-      "translated": true
-    },
-    {
-      "id": "bcc2f8de7630dcaa8f79c8410b80925a",
-      "title": "Minister Nara Lokesh meets Capgemini CEO; urges to set up IT development centre, GCC in Visakhapatnam",
-      "summary": "Nara Lokesh said Visakhapatnam is rapidly emerging as a major IT and data centre hub",
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/minister-nara-lokesh-meets-capgemini-ceo-urges-to-set-up-it-development-centre-gcc-in-visakhapatnam/article70733927.ece",
-      "image": "https://th-i.thgim.com/public/incoming/kwb0ax/article70733982.ece/alternates/LANDSCAPE_1200/9604_12_3_2026_11_8_16_2_IMG_20260312_WA0004.JPG",
-      "published_at": "2026-03-12T06:13:41.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "క్యాప్‌జెమినీ సీఈవోతో మంత్రి నారా లోకేష్ భేటీ; విశాఖలో ఐటీ డెవలప్‌మెంట్ సెంటర్, జీసీసీ ఏర్పాటు చేయాలని కోరారు",
-      "summary_te": "విశాఖపట్నం ప్రధాన ఐటీ, డేటా సెంటర్‌ హబ్‌గా వేగంగా అభివృద్ధి చెందుతోందని నారా లోకేశ్‌ అన్నారు",
       "translated": true
     },
     {
@@ -324,20 +324,6 @@
       "language": "en",
       "title_te": "ఏపీ ప్రభుత్వం AI ఆధారిత పాలనా విధానం వైపు వెళుతున్నట్లు లోకేశ్ చెప్పారు",
       "summary_te": "డేటా లేక్ ప్రాజెక్ట్ ఆంధ్రప్రదేశ్‌లో పౌరుల డేటాను ఏకీకృతం చేస్తుందని ఐటి మంత్రి చెప్పారు",
-      "translated": true
-    },
-    {
-      "id": "c996073c546f2e39cfc071c227c69585",
-      "title": "Andhra Pradesh farmers face double trouble due to West Asia war and El Nino",
-      "summary": "The foremost concern is the disruption in the passage of merchant ships through the Strait of Hormuz as the US - Israel combine and Iran fight for control over this critical shipping lane",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-farmers-face-double-trouble-due-to-west-asia-war-and-el-nino/article70733652.ece",
-      "image": "https://th-i.thgim.com/public/incoming/k0u52w/article70733669.ece/alternates/LANDSCAPE_1200/DSC_6751.JPG",
-      "published_at": "2026-03-12T03:14:29.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా యుద్ధం, ఎల్‌నినో కారణంగా ఆంధ్రప్రదేశ్‌ రైతులు రెట్టింపు ఇబ్బందులు ఎదుర్కొంటున్నారు",
-      "summary_te": "ఈ కీలకమైన షిప్పింగ్ లేన్‌పై నియంత్రణ కోసం యుఎస్ - ఇజ్రాయెల్ కలిసి ఇరాన్ పోరాడుతున్నందున హార్ముజ్ జలసంధి గుండా వ్యాపార నౌకల ప్రయాణానికి అంతరాయం కలగడం అత్యంత ఆందోళనకరం.",
       "translated": true
     }
   ]
