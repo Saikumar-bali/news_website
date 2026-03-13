@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-13T10:36:58.389Z",
-  "updated_at_IST": "13/3/2026, 4:06:58 pm",
+  "updated_at": "2026-03-13T11:34:53.586Z",
+  "updated_at_IST": "13/3/2026, 5:04:53 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "569b943d0bade65184e9cdff37ba3ac0",
+      "title": "Motie to pull out of PSL; Lahore Qalandars set to sign Wellalage as replacement",
+      "summary": "Defending champions will open the new season on March 26 with a game against Hyderabad Kingsmen",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527867.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/391000/391086.jpg",
+      "published_at": "2026-03-13T11:15:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL నుండి వైదొలగడానికి మోటీ; లాహోర్ ఖలందర్స్ బదులుగా వెల్లలాగేపై సంతకం చేయనున్నారు",
+      "summary_te": "మార్చి 26న హైదరాబాద్ కింగ్స్‌మెన్‌తో డిఫెండింగ్ ఛాంపియన్‌లు కొత్త సీజన్‌ను ప్రారంభిస్తారు",
+      "translated": true
+    },
     {
       "id": "16e894019376c8c45f0f83538d9542cc",
       "title": "'Proud moment for the women's game' - Devine on Hundred auction",
       "summary": "Devine was in demand during the auction, securing a bid of £210,000 from Welsh Fire",
       "url": "https://www.espncricinfo.com/ci/content/story/1527810.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408415.jpg",
-      "published_at": "2026-03-13T10:14:32.000Z",
+      "published_at": "2026-03-13T10:25:15.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ఫీల్డింగ్ ఎంచుకుంది, పాకిస్తాన్ నాలుగు అరంగేట్రం చేసింది",
       "summary_te": "సాహిబ్జాదా ఫర్హాన్, మాజ్ సదాకత్, షామిల్ హుస్సేన్ మరియు అబ్దుల్ సమద్ సందర్శకులకు నలుగురు అరంగేట్రం.",
-      "translated": true
-    },
-    {
-      "id": "42fae62849d704b238fbc35f59a73741",
-      "title": "Amelia Kerr's all-round brilliance seals NZ's 3-0 sweep over Zimbabwe",
-      "summary": "The new New Zealand captain scored 80 before returning to claim 5 for 22, including a hat-trick, as Zimbabwe were bundled out cheaply",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527626.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414598.jpg",
-      "published_at": "2026-03-11T05:02:11.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "అమేలియా కెర్ యొక్క ఆల్ రౌండ్ బ్రిలియన్స్ జింబాబ్వేపై NZ 3-0 స్వీప్‌ను సీల్ చేసింది",
-      "summary_te": "కొత్త న్యూజిలాండ్ కెప్టెన్ 80 పరుగులు చేసి 22 పరుగులకు 5 వికెట్లు సాధించి, హ్యాట్రిక్‌తో సహా, జింబాబ్వే చౌకగా ఔటయ్యాడు.",
       "translated": true
     }
   ]

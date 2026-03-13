@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-13T10:36:58.389Z",
-  "updated_at_IST": "13/3/2026, 4:06:58 pm",
+  "updated_at": "2026-03-13T11:34:53.586Z",
+  "updated_at_IST": "13/3/2026, 5:04:53 pm",
   "category": "telangana",
-  "count": 19,
+  "count": 21,
   "articles": [
+    {
+      "id": "84bc3425bf42b92c1b8817755c84825a",
+      "title": "Sufficient stock will be supplied to domestic LPG users, no shortage in Telangana: Civil Supplies Minister",
+      "summary": "There are 1.29 crore household connections in Telangana and 810 distribution centres",
+      "url": "https://www.thehindu.com/news/national/telangana/sufficient-stock-will-be-supplied-to-domestic-lpg-users-no-shortage-in-telangana-civil-supplies-minister/article70738432.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8m1lwx/article70738512.ece/alternates/LANDSCAPE_1200/DSC7551.jpg",
+      "published_at": "2026-03-13T08:02:57.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "దేశీయ LPG వినియోగదారులకు తగినంత స్టాక్ సరఫరా చేయబడుతుంది, తెలంగాణలో కొరత లేదు: పౌర సరఫరాల మంత్రి",
+      "summary_te": "తెలంగాణలో 1.29 కోట్ల గృహ కనెక్షన్లు ఉండగా, 810 పంపిణీ కేంద్రాలు ఉన్నాయి",
+      "translated": true
+    },
+    {
+      "id": "539088a46a99a027ee49fdacd44197bb",
+      "title": "Musi Jan Andolan activist under house arrest ahead of Telangana CM’s presentation on river rejuvenation",
+      "summary": "The activist Syed Bilal says they were invited to CM’s presentation today",
+      "url": "https://www.thehindu.com/news/national/telangana/musi-jan-andolan-activist-under-house-arrest-ahead-of-telangana-cms-ppt-on-river-rejuvenation/article70738376.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/s2uhxy/article70738471.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-13%20at%201.11.38%20PM.jpeg",
+      "published_at": "2026-03-13T07:49:32.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "నదుల పునరుజ్జీవనంపై తెలంగాణ సీఎం ప్రజెంటేషన్‌కు ముందు మూసీ జన్ ఆందోళన్ కార్యకర్త గృహ నిర్బంధంలో ఉన్నారు",
+      "summary_te": "ఈరోజు సిఎం ప్రజెంటేషన్‌కు తమను ఆహ్వానించినట్లు కార్యకర్త సయ్యద్ బిలాల్ చెప్పారు",
+      "translated": true
+    },
     {
       "id": "9737898fff8eb515bf007256c65d903d",
       "title": "86% of LPG supply in Telangana used domestically; problems in commercial supply come to our notice: Uttam",
