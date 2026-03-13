@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-03-13T11:34:53.586Z",
-  "updated_at_IST": "13/3/2026, 5:04:53 pm",
+  "updated_at": "2026-03-13T12:41:47.118Z",
+  "updated_at_IST": "13/3/2026, 6:11:47 pm",
   "category": "telangana",
   "count": 21,
   "articles": [
     {
       "id": "84bc3425bf42b92c1b8817755c84825a",
-      "title": "Sufficient stock will be supplied to domestic LPG users, no shortage in Telangana: Civil Supplies Minister",
-      "summary": "There are 1.29 crore household connections in Telangana and 810 distribution centres",
+      "title": "Mandatory booking interval for LPG cylinders is 45 days in rural areas, 25 days in urban areas: Telangana Govt",
+      "summary": "Commercial LPG supply has been temporarily restricted to prioritize essential sectors such as hospitals, educational institutions, old age homes, orphanages and government bodies",
       "url": "https://www.thehindu.com/news/national/telangana/sufficient-stock-will-be-supplied-to-domestic-lpg-users-no-shortage-in-telangana-civil-supplies-minister/article70738432.ece",
       "image": "https://th-i.thgim.com/public/incoming/8m1lwx/article70738512.ece/alternates/LANDSCAPE_1200/DSC7551.jpg",
-      "published_at": "2026-03-13T08:02:57.000Z",
+      "published_at": "2026-03-13T11:18:09.000Z",
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
-      "title_te": "దేశీయ LPG వినియోగదారులకు తగినంత స్టాక్ సరఫరా చేయబడుతుంది, తెలంగాణలో కొరత లేదు: పౌర సరఫరాల మంత్రి",
-      "summary_te": "తెలంగాణలో 1.29 కోట్ల గృహ కనెక్షన్లు ఉండగా, 810 పంపిణీ కేంద్రాలు ఉన్నాయి",
+      "title_te": "గ్రామీణ ప్రాంతాల్లో 45 రోజులు, పట్టణ ప్రాంతాల్లో 25 రోజులు ఎల్‌పిజి సిలిండర్ల బుకింగ్ తప్పనిసరి: తెలంగాణ ప్రభుత్వం",
+      "summary_te": "ఆసుపత్రులు, విద్యాసంస్థలు, వృద్ధాశ్రమాలు, అనాథ శరణాలయాలు మరియు ప్రభుత్వ సంస్థలు వంటి ముఖ్యమైన రంగాలకు ప్రాధాన్యత ఇవ్వడానికి వాణిజ్య LPG సరఫరా తాత్కాలికంగా పరిమితం చేయబడింది.",
+      "translated": true
+    },
+    {
+      "id": "b8393024c535f3f86cb15c370dcd969d",
+      "title": "Maintain police vigil at gas distribution centres and supply agencies: Telangana CS",
+      "summary": "The CS directs officials to prevent scope for black marketing of cylinders",
+      "url": "https://www.thehindu.com/news/national/telangana/maintain-police-vigil-at-gas-distribution-centres-and-supply-agencies-telangana-cs/article70738705.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/f7icn3/article70738735.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-13%20at%2012.52.44%20PM.jpeg",
+      "published_at": "2026-03-13T10:12:52.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "గ్యాస్ పంపిణీ కేంద్రాలు మరియు సరఫరా ఏజెన్సీల వద్ద పోలీసు నిఘా నిర్వహించండి: తెలంగాణ CS",
+      "summary_te": "సిలిండర్ల బ్లాక్ మార్కెటింగ్‌కు ఆస్కారం లేకుండా చూడాలని అధికారులను సీఎస్ ఆదేశించారు",
+      "translated": true
+    },
+    {
+      "id": "fd449d107ac9a79772452a863d1ffcb2",
+      "title": "India-made app turns impaired speech into clear speech in near-realtime",
+      "summary": "The delay is only a few hundred milliseconds, and the developers are now focusing on regional languages, project leader Vineet Gandhi says",
+      "url": "https://www.thehindu.com/sci-tech/science/iiit-hyderabad-vineet-gandhi-app-turns-impaired-speech-into-clear-speech-near-real-time/article70732314.ece",
+      "image": "https://th-i.thgim.com/public/incoming/evoto5/article70732294.ece/alternates/LANDSCAPE_1200/vineet1.jpg",
+      "published_at": "2026-03-13T09:54:18.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "భారతదేశంలోని రూపొందించిన యాప్ రియల్ టైమ్‌లో బలహీనమైన ప్రసంగాన్ని స్పష్టమైన ప్రసంగంగా మారుస్తుంది",
+      "summary_te": "ఆలస్యం కొన్ని వందల మిల్లీసెకన్లు మాత్రమే, డెవలపర్లు ఇప్పుడు ప్రాంతీయ భాషలపై దృష్టి సారిస్తున్నారు అని ప్రాజెక్ట్ లీడర్ వినీత్ గాంధీ చెప్పారు",
+      "translated": true
+    },
+    {
+      "id": "a77f981f7f6825fd492e18403e622267",
+      "title": "NRAI Hyderabad chapter urges Telangana government to ensure uninterrupted supply of LPG to restaurants",
+      "summary": "The National Restaurant Association of India (NRAI), Hyderabad Chapter, has written to Telangana Irrigation and Civil Supplies Minister N. Uttam Kumar Reddy seeking urgent intervention to ensure uninterrupted supply of commercial LPG cylinders to restaurants and food establishments across the State.In a letter dated March 12, 2026, the association said disruption and uncertainty in the supply of commercial LPG cylinders were causing growing concern within the restaurant industry, which depends heavily on LPG for daily kitchen operations.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/nrai-hyderabad-chapter-urges-telangana-government-to-ensure-uninterrupted-supply-of-lpg-to-restaurants/article70738475.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-13T08:39:55.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "రెస్టారెంట్లకు ఎల్‌పిజిని నిరంతరాయంగా సరఫరా చేయాలని ఎన్‌ఆర్‌ఎఐ హైదరాబాద్ చాప్టర్ తెలంగాణ ప్రభుత్వాన్ని కోరింది",
+      "summary_te": "నేషనల్ రెస్టారెంట్ అసోసియేషన్ ఆఫ్ ఇండియా (NRAI), హైదరాబాద్ చాప్టర్, రాష్ట్రవ్యాప్తంగా రెస్టారెంట్లు మరియు ఆహార సంస్థలకు వాణిజ్య ఎల్‌పిజి సిలిండర్‌లను అంతరాయం లేకుండా సరఫరా చేసేలా తక్షణ జోక్యం చేసుకోవాలని కోరుతూ తెలంగాణ నీటిపారుదల మరియు పౌరసరఫరాల శాఖ మంత్రి ఎన్. ఉత్తమ్ కుమార్ రెడ్డికి లేఖ రాసింది. రోజువారీ వంటగది కార్యకలాపాల కోసం LPGపై ఎక్కువగా ఆధారపడే రెస్టారెంట్ పరిశ్రమలో సిలిండర్లు పెరుగుతున్న ఆందోళనను కలిగిస్తున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "6e1bdaf2de96cdfb1b48b9c3ac94b491",
+      "title": "LPG shortage begins to hit Hyderabad restaurants as menus shrink; an outlet shut for Friday",
+      "summary": "The nationwide Liquified Petroleum Gas (LPG) supply disruption, which appeared manageable in Hyderabad in the past few days, began affecting the city’s hospitality sector more severely on Friday (March 13, 2026) with several restaurants and hotels either shutting operations or restricting services.Simply South restaurant announced on Instagram on Friday morning that its Jubilee Hills outlet would remain closed for the day due to the disruption. “Due to ongoing gas supply constraints, our kitchen operations are currently impacted. While we realign our kitchen systems and operations, the outlet will not be operational today,” the restaurant said in its post.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/lpg-shortage-begins-to-hit-hyderabad-restaurants-as-menus-shrink-an-outlet-shut-for-friday/article70738442.ece",
+      "image": "https://th-i.thgim.com/public/incoming/6nkjm4/article70738572.ece/alternates/LANDSCAPE_1200/liquified%20petroleum%20gas%20LPG%20cylinders%2015.jpg",
+      "published_at": "2026-03-13T08:32:02.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మెనూలు తగ్గిపోవడంతో హైదరాబాద్ రెస్టారెంట్లలో LPG కొరత మొదలైంది; శుక్రవారం ఒక అవుట్‌లెట్ మూసివేయబడింది",
+      "summary_te": "దేశవ్యాప్తంగా లిక్విఫైడ్ పెట్రోలియం గ్యాస్ (LPG) సరఫరాలో అంతరాయం, గత కొన్ని రోజులుగా హైదరాబాద్‌లో నిర్వహించదగినదిగా కనిపించింది, శుక్రవారం (మార్చి 13, 2026) నగరంలోని ఆతిథ్య రంగాన్ని మరింత తీవ్రంగా ప్రభావితం చేయడం ప్రారంభించింది, అనేక రెస్టారెంట్లు మరియు హోటళ్లు కార్యకలాపాలు మూసివేయడం లేదా సేవలను పరిమితం చేయడం వంటివి. అంతరాయం. \"కొనసాగుతున్న గ్యాస్ సరఫరా పరిమితుల కారణంగా, మా వంటగది కార్యకలాపాలు ప్రస్తుతం ప్రభావితమయ్యాయి. మేము మా వంటగది వ్యవస్థలు మరియు కార్యకలాపాలను పునర్నిర్మించినప్పటికీ, ఈ రోజు అవుట్‌లెట్ పనిచేయదు\" అని రెస్టారెంట్ తన పోస్ట్‌లో పేర్కొంది.",
       "translated": true
     },
     {
@@ -57,21 +113,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "ఇస్లామిక్ వారసత్వ చట్టాన్ని సవాలు చేస్తూ సుప్రీంకోర్టులో దాఖలు చేసిన పిటిషన్‌ను ముస్లిం పర్సనల్ లా బోర్డు ఖండించింది",
-      "summary_te": "ఇస్లామిక్ వారసత్వ చట్టాన్ని నిర్వీర్యం చేయాలని కోరుతూ సుప్రీం కోర్టులో వేసిన పిటిషన్‌ను ఆల్ ఇండియా ముస్లిం పర్సనల్ లా బోర్డు (ఏఐఎంపీఎల్‌బీ) గురువారం విమర్శించింది. అయితే, ఇది \"దుర్మార్గం\" మరియు మత స్వేచ్ఛ యొక్క రాజ్యాంగ సూత్రాలను ఉల్లంఘించిందని ఆ సంస్థ అభివర్ణించింది. మీడియాకు విడుదల చేసిన ఒక ప్రకటనలో, బోర్డు ప్రతినిధి ఎస్.క్యూ.ఆర్. వారసత్వ నిబంధనలు ముస్లిం మహిళల పట్ల వివక్ష చూపుతున్నాయి. ఇది నిరాధారమైనదని, మత స్వేచ్ఛకు హామీ ఇచ్చే రాజ్యాంగంలోని ఆర్టికల్ 25కి విరుద్ధమని బోర్డు పేర్కొంది. ముస్లిం వారసత్వ చట్టానికి వ్యతిరేకంగా దాఖలైన పిటిషన్‌ను సుప్రీంకోర్టు పరిశీలించింది",
-      "translated": true
-    },
-    {
-      "id": "565aaa487897fe1477f57426c972ee47",
-      "title": "Kavitha gets notice in Delhi liquor policy case",
-      "summary": "K Kavitha was personally handed over the High Court’s notice by a team of CBI officials that informed her about the case hearing on CBI’s petition on March 16 in the Delhi High Court",
-      "url": "https://www.thehindu.com/news/national/telangana/kavitha-gets-notice-in-delhi-liquor-policy-case/article70735328.ece",
-      "image": null,
-      "published_at": "2026-03-13T06:44:21.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఢిల్లీ మద్యం పాలసీ కేసులో కవితకు నోటీసులు అందాయి",
-      "summary_te": "మార్చి 16న ఢిల్లీ హైకోర్టులో సీబీఐ పిటిషన్‌పై కేసు విచారణ గురించి తెలియజేసిన సీబీఐ అధికారుల బృందం కే కవితకు వ్యక్తిగతంగా హైకోర్టు నోటీసును అందజేసింది.",
+      "summary_te": "ఇస్లామిక్ వారసత్వ చట్టాన్ని నిర్వీర్యం చేయాలని కోరుతూ సుప్రీం కోర్టులో వేసిన పిటిషన్‌ను ఆల్ ఇండియా ముస్లిం పర్సనల్ లా బోర్డు (ఏఐఎంపీఎల్‌బీ) గురువారం విమర్శించింది. అయితే, ఇది \"దుర్మార్గం\" మరియు మత స్వేచ్ఛ యొక్క రాజ్యాంగ సూత్రాలను ఉల్లంఘించిందని ఆ సంస్థ అభివర్ణించింది. మీడియాకు విడుదల చేసిన ఒక ప్రకటనలో, బోర్డు ప్రతినిధి ఎస్.క్యూ.ఆర్. వారసత్వ నిబంధనలు ముస్లిం మహిళల పట్ల వివక్ష చూపుతున్నాయి. ఇది నిరాధారమని, మత స్వేచ్ఛకు హామీ ఇచ్చే రాజ్యాంగంలోని ఆర్టికల్ 25కి విరుద్ధమని బోర్డు పేర్కొంది. ముస్లిం వారసత్వ చట్టానికి వ్యతిరేకంగా దాఖలైన పిటిషన్‌ను సుప్రీంకోర్టు పరిశీలించింది",
       "translated": true
     },
     {
@@ -155,7 +197,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "హైదరాబాద్‌లోని మూసీ నదిపై 29 కొత్త వంతెనలను ప్రతిపాదించారు",
-      "summary_te": "2050లో హైదరాబాద్ మెట్రోపాలిటన్ రీజియన్ మాస్టర్ ప్లాన్‌కు పూర్వగామిగా సన్నద్ధమవుతున్న కాంప్రెహెన్సివ్ మొబిలిటీ ప్లాన్ మూసీ నదిపై 29 వంతెనలను ప్రతిపాదించింది.",
+      "summary_te": "2050లో హైదరాబాద్ మెట్రోపాలిటన్ రీజియన్ మాస్టర్ ప్లాన్‌కు పూర్వగామిగా సన్నద్ధమవుతున్న సమగ్ర చైతన్య ప్రణాళిక, మూసీ నదిపై 29 వంతెనలను ప్రతిపాదించింది.",
       "translated": true
     },
     {
@@ -168,8 +210,8 @@
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
-      "title_te": "పాలనా వైఫల్యాలపై రాంచందర్‌రావు ధ్వజమెత్తారు, ప్రజా కష్టాలపై సీఎం దృష్టి సారించాలని కోరారు",
-      "summary_te": "కూల్చివేతలకు ప్రాధాన్యత ఇవ్వకుండా రైతులు, విద్యార్థులు, ప్రభుత్వ ఉద్యోగులు ఎదుర్కొంటున్న తక్షణ కష్టాలపై దృష్టి సారించాలని భారతీయ జనతా పార్టీ (బిజెపి) తెలంగాణ విభాగం ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డిని కోరింది. పార్టీ అధ్యక్షుడు ఎన్. రాంచందర్ రావు గురువారం ముఖ్యమంత్రికి రాసిన బహిరంగ లేఖలో శ్రీ రెడ్డి తన కార్యాలయ పరిమితుల నుండి బయటపడాలని పిలుపునిచ్చారు. అవసరమైన ప్రజాసేవలు అధ్వాన్నంగా కుటుంబాలను తరలించడం.. ‘‘తెలంగాణ సమాజం ఎదుర్కొంటున్న కష్టాలు ముఖ్యమంత్రి దృష్టికి చేరకపోవడం చాలా దురదృష్టకరం’’ అని రావు అన్నారు. మూసీ సుందరీకరణ, గాంధీ సరోవర్ వంటి ప్రాజెక్టులకు సంబంధించిన కూల్చివేతలతో పరిపాలన నిమగ్నమై ఉందని ఆయన ఆరోపించారు. ఈ ప్రాజెక్టుల వల్ల రంగారెడ్డి, ఖమ్మం జిల్లాలు నిర్వాసితులవుతున్నాయి. రైతులకు ‘రైతు భరోసా’ చెల్లింపుల్లో జాప్యం, పెట్టుబడి సాయం లేకపోవడంతో పెరిగిన వ్యవసాయ అప్పులు, పంటలు నష్టపోయి రైతు ఆత్మహత్యలకు దారితీసిన సాగునీటి కొరతతో సహా ప్రభుత్వం ‘లోపించిన’ ఆరు కీలక రంగాలను రావు వివరించారు. అనిశ్చితి. వాగ్దానం చేసిన ఉద్యోగ క్యాలెండర్ మరియు రెండు లక్షల ప్రభుత్వ పోస్టుల భర్తీకి నిబద్ధత కూడా నెరవేరలేదు. దాదాపు 12,000 కోట్ల రూపాయల రిటైర్‌మెంట్‌ బెనిఫిట్‌లు ఇంకా అందలేదని, కార్పొరేట్‌ ఆసుపత్రుల్లో హెల్త్‌ కార్డులు అందకపోవడంతో చాలా మంది రిటైర్డ్‌ ఉద్యోగులు అత్యవసర వైద్యం చేయించుకోలేకపోతున్నారని బిజెపి నేత పేర్కొన్నారు. వృద్ధాప్య, వికలాంగుల పింఛన్‌లను రెట్టింపు చేస్తామన్న హామీలు రెండేళ్లయినా అమలు కాలేదన్నారు. మునిసిపల్ బాడీలు నిధుల కొరత మరియు విరిగిన మురుగునీటి వ్యవస్థలతో సహా సరిపోని పౌర మౌలిక సదుపాయాల కారణంగా నిర్బంధించబడుతున్నాయని శ్రీ రావు పేర్కొన్నారు. అతను ప్రభుత్వ ఆరోగ్య సంరక్షణ స్థితిని \"దయనీయమైనది\"గా అభివర్ణించాడు మరియు MBBS అడ్మిషన్లలో గందరగోళం కారణంగా స్థానిక / స్థానికేతర హోదాపై న్యాయపోరాటానికి విద్యార్థులను బలవంతం చేశాయి.",
+      "title_te": "‘పరిపాలన వైఫల్యాలు’ అని రాంచందర్‌రావు ధ్వజమెత్తారు, ప్రజా కష్టాలపై సీఎం దృష్టి సారించాలని కోరారు",
+      "summary_te": "కూల్చివేతలకు ప్రాధాన్యత ఇవ్వకుండా రైతులు, విద్యార్థులు, ప్రభుత్వ ఉద్యోగులు ఎదుర్కొంటున్న తక్షణ కష్టాలపై దృష్టి సారించాలని భారతీయ జనతా పార్టీ (బిజెపి) తెలంగాణ విభాగం ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డిని కోరింది. పార్టీ అధ్యక్షుడు ఎన్. రాంచందర్ రావు గురువారం ముఖ్యమంత్రికి రాసిన బహిరంగ లేఖలో శ్రీ రెడ్డి తన కార్యాలయ పరిమితుల నుండి బయటపడాలని పిలుపునిచ్చారు. అవసరమైన ప్రజాసేవలు అధ్వాన్నంగా కుటుంబాలను తరలించడం.‘‘తెలంగాణ సమాజంలోని కష్టాలు ముఖ్యమంత్రి దృష్టికి వెళ్లకపోవడం చాలా దురదృష్టకరం’’ అని రావు అన్నారు. మూసీ సుందరీకరణ, గాంధీ సరోవర్ వంటి ప్రాజెక్టులకు సంబంధించిన కూల్చివేతలతో పరిపాలన నిమగ్నమైపోయిందని ఆయన ఆరోపించారు. ఈ ప్రాజెక్టుల కారణంగా రంగారెడ్డి, ఖమ్మం జిల్లాలు నిర్వాసితులవుతున్నాయి. రైతులకు ‘రైతు భరోసా’ చెల్లింపుల్లో జాప్యం, పెట్టుబడి సాయం లేకపోవడంతో పెరిగిన వ్యవసాయ అప్పులు, పంటలు నష్టపోయి రైతు ఆత్మహత్యలకు దారితీసిన సాగునీటి కొరతతో సహా ప్రభుత్వం ‘లోపించిన’ ఆరు కీలక రంగాలను రావు వివరించారు. అనిశ్చితి. వాగ్దానం చేసిన ఉద్యోగ క్యాలెండర్ మరియు రెండు లక్షల ప్రభుత్వ ఉద్యోగాల భర్తీకి నిబద్ధత కూడా నెరవేరలేదు. రిటైర్మెంట్ బెనిఫిట్స్‌లో దాదాపు ₹12,000 కోట్లు పంపిణీ చేయలేదని, కార్పొరేట్ ఆసుపత్రుల్లో హెల్త్‌కార్డులు ఆమోదించకపోవడంతో చాలా మంది రిటైర్డ్ ఉద్యోగులు అత్యవసర వైద్యం చేయించుకోలేకపోతున్నారని బీజేపీ నేత పేర్కొన్నారు. వృద్ధాప్య, వికలాంగుల పెన్షన్‌లను రెట్టింపు చేస్తామన్న హామీలు రెండేళ్లయినా అమలు కాలేదన్నారు. మునిసిపల్ బాడీలు నిధుల కొరత మరియు విరిగిన మురుగునీటి వ్యవస్థలతో సహా సరిపోని పౌర మౌలిక సదుపాయాల కారణంగా నిర్బంధించబడుతున్నాయని శ్రీ రావు పేర్కొన్నారు. అతను ప్రభుత్వ ఆరోగ్య సంరక్షణ స్థితిని \"దయనీయమైనది\"గా అభివర్ణించాడు మరియు MBBS అడ్మిషన్లలో గందరగోళం కారణంగా స్థానిక / స్థానికేతర హోదాపై న్యాయపోరాటానికి విద్యార్థులను బలవంతం చేశాయి.",
       "translated": true
     },
     {
@@ -254,48 +296,6 @@
       "language": "en",
       "title_te": "3 ట్రిలియన్ డాలర్ల ఆర్థిక వ్యవస్థను సాధించడంలో పోలీసుల కీలక పాత్రను Dy CM నొక్కిచెప్పారు",
       "summary_te": "2047 నాటికి రాష్ట్రం 3 ట్రిలియన్ డాలర్ల ఆర్థిక వ్యవస్థగా మారాలనే లక్ష్యాన్ని చేరుకోవడంలో పోలీసు శాఖ కీలక పాత్ర పోషిస్తుందని ఉపముఖ్యమంత్రి మల్లు భట్టి విక్రమార్క అన్నారు. రాష్ట్రంలో పెట్టుబడులు పెట్టేందుకు పలువురు పెట్టుబడిదారులు ఆసక్తి చూపుతున్న నేపథ్యంలో శాంతిభద్రతల పరిరక్షణ అత్యంత కీలకమని అన్నారు. హోం శాఖ అధికారులు, సిబ్బంది చిన్నపాటి లోపానికి కూడా అవకాశం ఇవ్వకుండా, ప్రతి శాఖపై నిరంతర నిఘా ఉండేలా చూడాలన్నారు. గురువారం జరిగిన హోంశాఖ, పరిశ్రమలు, ఐటీ శాఖల బడ్జెట్‌కు ముందు జరిగిన సమావేశాల్లో పాల్గొన్న ఉపముఖ్యమంత్రి ఈ వ్యాఖ్యలు చేశారు. రాష్ట్రవ్యాప్తంగా సీసీటీవీ నెట్‌వర్క్ వినియోగాన్ని విస్తరించేందుకు శాఖ చర్యలు తీసుకోవాలని, ప్రస్తుతం ఉన్న సీసీటీవీ నెట్‌వర్క్‌కు మరమ్మతులు అవసరమైన చోట చేపట్టాలని ఆయన అన్నారు.పారిశ్రామిక పురోగతిని ప్రస్తావిస్తూ, 3 ట్రిలియన్ డాలర్ల ఆర్థిక వ్యవస్థను సాధించాలంటే ప్రభుత్వ ప్రైవేట్ భాగస్వామ్య మోడ్‌ను అవలంబించాల్సిన అవసరం ఉందని, అందుకు అనుగుణంగా పరిశ్రమల శాఖ ప్రణాళికలు సిద్ధం చేయాలని అన్నారు. CURE మరియు PURE ఆర్థిక వ్యవస్థలను ప్రోత్సహించేటప్పుడు, గ్రామీణ వ్యవసాయ ఆర్థిక వ్యవస్థకు సమాన ప్రాముఖ్యత ఇవ్వాలి. తదనుగుణంగా అధికారులు పెద్ద ఎత్తున పెట్టుబడులు, పరిశ్రమలను ఆకర్షించేందుకు ప్రణాళికలు సిద్ధం చేయాలని పరిశ్రమలు, ఐటీ శాఖ మంత్రి డి. శ్రీహర్‌బాబు అన్నారు. 41 గ్లోబల్ కెపాబిలిటీ సెంటర్లతో రాష్ట్రం దేశంలోనే మొదటి స్థానంలో ఉందని, ఈ దిశగా ప్రభుత్వం కట్టుబడి ఉందని చెప్పారు. డేటా సెంటర్లలో ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ వినియోగాన్ని పెద్ద ఎత్తున ప్రోత్సహించేలా శాఖ చర్యలు తీసుకోవాలని భట్టి విక్రమార్క సూచించారు.",
-      "translated": true
-    },
-    {
-      "id": "73947c9a1ba0cad3b4aae6995e180843",
-      "title": "Traffic diversions announced near Ashok Nagar for bridge reconstruction works",
-      "summary": "Hyderabad Traffic Police have announced traffic diversions near Ashok Nagar from March 13 in view of the dismantling and reconstruction of the Hussain Sagar Surplus Nala bridge at Arvind Nagar.Officials said traffic congestion is expected on the stretch between pillar number 16 and 17 under the Nayani Narasimha Reddy Steel Bridge during the course of the works. Commuters have been advised to plan their travel in advance and use alternative routes to avoid delays.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/traffic-diversions-announced-near-ashok-nagar-for-bridge-reconstruction-works/article70735912.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-12T15:10:58.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "వంతెన పునర్నిర్మాణ పనుల కోసం అశోక్ నగర్ సమీపంలో ట్రాఫిక్ మళ్లింపులు ప్రకటించారు",
-      "summary_te": "అరవింద్ నగర్ వద్ద హుస్సేన్ సాగర్ మిగులు నాలా వంతెన కూల్చివేత మరియు పునర్నిర్మాణం దృష్ట్యా మార్చి 13 నుండి అశోక్ నగర్ సమీపంలో ట్రాఫిక్ మళ్లింపులను హైదరాబాద్ ట్రాఫిక్ పోలీసులు ప్రకటించారు. నాయని నరసింహారెడ్డి స్టీల్ బ్రిడ్జి కింద పిల్లర్ నంబర్ 16 మరియు 17 మధ్య ట్రాఫిక్ రద్దీ ఏర్పడుతుందని అధికారులు తెలిపారు. ప్రయాణికులు తమ ప్రయాణాన్ని ముందుగానే ప్లాన్ చేసుకోవాలని, ఆలస్యాలను నివారించేందుకు ప్రత్యామ్నాయ మార్గాలను ఉపయోగించుకోవాలని సూచించారు.",
-      "translated": true
-    },
-    {
-      "id": "6a6aa92f66231de2eb28c34373f6ea39",
-      "title": "State govt. conspiring to deny admissions to poor in HPS: Praveen Kumar",
-      "summary": "HYDERABADGeneral secretary of the Bharat Rashtra Samithi (BRS) R.S. Praveen Kumar has accused the government of conspiring to deny admission of students from poor families in Hyderabad Public School by not releasing ₹32 crore dues for the purpose.Every year, the HPS would issue a notification for the admission of SC, ST students into first standard (class) by this time but this year it is being delayed as there were ₹32 crore fee dues from the government. Even the SC, ST students who are already studying at the school are not being issued textbooks for the next academic year so far, he said.Children of Ministers G. Vivek, C. Damodar Rajanarasimha, legislators M. Samuel and A. Dayakar and others had studied in HPS but they are not showing any interest in extending the facility to other SC, ST students, he said.",
-      "url": "https://www.thehindu.com/news/national/telangana/state-govt-conspiring-to-deny-admissions-to-poor-in-hps-praveen-kumar/article70735653.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-12T14:52:37.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "రాష్ట్ర ప్రభుత్వం హెచ్‌పీఎస్‌లో పేదలకు అడ్మిషన్లు నిరాకరించేందుకు కుట్ర: ప్రవీణ్‌కుమార్‌",
-      "summary_te": "హైదరాబాద్‌ భారత రాష్ట్ర సమితి (బీఆర్‌ఎస్‌) ప్రధాన కార్యదర్శి ఆర్‌.ఎస్‌. హైదరాబాద్‌ పబ్లిక్‌ స్కూల్‌లో పేద కుటుంబాలకు చెందిన విద్యార్థులకు ₹ 32 కోట్ల బకాయిలు విడుదల చేయకుండా ప్రభుత్వం కుట్ర పన్నిందని ప్రవీణ్‌కుమార్‌ ఆరోపించారు. ప్రతి సంవత్సరం, హెచ్‌పిఎస్ ఈ సమయానికి SC, ST విద్యార్థులను మొదటి తరగతి (తరగతి)లోకి ప్రవేశానికి నోటిఫికేషన్ విడుదల చేస్తుంది, అయితే ఈ సంవత్సరం ప్రభుత్వం నుండి ₹ 32 కోట్ల ఫీజు బకాయిలు ఉండటంతో ఆలస్యం అవుతోంది. ఇప్పటికే పాఠశాలలో చదువుతున్న ఎస్సీ, ఎస్టీ విద్యార్థులకు కూడా వచ్చే విద్యాసంవత్సరానికి సంబంధించి పాఠ్యపుస్తకాలు అందజేయడం లేదన్నారు.మంత్రులు జి.వివేక్, సి.దామోదర్ రాజనరసింహ, శాసనసభ్యులు ఎం.శామ్యూల్, ఎ.దయాకర్ తదితరుల పిల్లలు హెచ్‌పీఎస్‌లో చదివినా, ఇతర ఎస్సీ ఎస్టీ విద్యార్థులకు ఈ సౌకర్యం కల్పించేందుకు ఆసక్తి చూపడం లేదన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "fd449d107ac9a79772452a863d1ffcb2",
-      "title": "India-made app turns impaired speech into clear speech in near-realtime",
-      "summary": "The delay is only a few hundred milliseconds, and the developers are now focusing on regional languages, project leader Vineet Gandhi says",
-      "url": "https://www.thehindu.com/sci-tech/science/iiit-hyderabad-vineet-gandhi-app-turns-impaired-speech-into-clear-speech-near-real-time/article70732314.ece",
-      "image": "https://th-i.thgim.com/public/incoming/evoto5/article70732294.ece/alternates/LANDSCAPE_1200/vineet1.jpg",
-      "published_at": "2026-03-12T10:42:19.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "భారతదేశంలోని రూపొందించిన యాప్ రియల్ టైమ్‌లో బలహీనమైన ప్రసంగాన్ని స్పష్టమైన ప్రసంగంగా మారుస్తుంది",
-      "summary_te": "ఆలస్యం కొన్ని వందల మిల్లీసెకన్లు మాత్రమే, డెవలపర్లు ఇప్పుడు ప్రాంతీయ భాషలపై దృష్టి సారిస్తున్నారు అని ప్రాజెక్ట్ లీడర్ వినీత్ గాంధీ చెప్పారు",
       "translated": true
     }
   ]

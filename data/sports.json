@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-13T11:34:53.586Z",
-  "updated_at_IST": "13/3/2026, 5:04:53 pm",
+  "updated_at": "2026-03-13T12:41:47.118Z",
+  "updated_at_IST": "13/3/2026, 6:11:47 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0e7659a0d663336cb3268498e7670240",
+      "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
+      "summary": "Abrar is first Pakistan player bought by an Indian-owned Hundred team; Sussex's James Coles goes for £390,000",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405784.jpg",
+      "published_at": "2026-03-13T12:20:52.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సన్‌రైజర్స్ లీడ్స్ హండ్రెడ్ వేలంలో పాకిస్థాన్ స్పిన్నర్ అబ్రార్ అహ్మద్‌తో ఒప్పందం చేసుకుంది",
+      "summary_te": "అబ్రార్ భారతదేశానికి చెందిన హండ్రెడ్ జట్టు కొనుగోలు చేసిన మొదటి పాకిస్తాన్ ఆటగాడు; సస్సెక్స్ యొక్క జేమ్స్ కోల్స్ £390,000కి వెళుతుంది",
+      "translated": true
+    },
+    {
+      "id": "16e894019376c8c45f0f83538d9542cc",
+      "title": "'Proud moment for the women's game' - Devine on Hundred auction",
+      "summary": "Devine was in demand during the auction, securing a bid of £210,000 from Welsh Fire",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527810.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408415.jpg",
+      "published_at": "2026-03-13T11:54:06.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'మహిళల ఆటకు గర్వకారణం' - వంద వేలంలో డివైన్",
+      "summary_te": "వెల్ష్ ఫైర్ నుండి £210,000 వేలంపాటలో డివైన్‌కు డిమాండ్ ఏర్పడింది.",
+      "translated": true
+    },
     {
       "id": "569b943d0bade65184e9cdff37ba3ac0",
       "title": "Motie to pull out of PSL; Lahore Qalandars set to sign Wellalage as replacement",
@@ -16,20 +44,6 @@
       "language": "en",
       "title_te": "PSL నుండి వైదొలగడానికి మోటీ; లాహోర్ ఖలందర్స్ బదులుగా వెల్లలాగేపై సంతకం చేయనున్నారు",
       "summary_te": "మార్చి 26న హైదరాబాద్ కింగ్స్‌మెన్‌తో డిఫెండింగ్ ఛాంపియన్‌లు కొత్త సీజన్‌ను ప్రారంభిస్తారు",
-      "translated": true
-    },
-    {
-      "id": "16e894019376c8c45f0f83538d9542cc",
-      "title": "'Proud moment for the women's game' - Devine on Hundred auction",
-      "summary": "Devine was in demand during the auction, securing a bid of £210,000 from Welsh Fire",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527810.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408415.jpg",
-      "published_at": "2026-03-13T10:25:15.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'మహిళల ఆటకు గర్వకారణం' - వంద వేలంలో డివైన్",
-      "summary_te": "వెల్ష్ ఫైర్ నుండి £210,000 వేలంపాటలో డివైన్‌కు డిమాండ్ ఏర్పడింది.",
       "translated": true
     },
     {
@@ -75,20 +89,6 @@
       "translated": true
     },
     {
-      "id": "0e7659a0d663336cb3268498e7670240",
-      "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
-      "summary": "Abrar is first Pakistan player bought by an Indian-owned Hundred team; Sussex's James Coles goes for £390,000",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/405700/405784.jpg",
-      "published_at": "2026-03-12T19:04:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సన్‌రైజర్స్ లీడ్స్ హండ్రెడ్ వేలంలో పాకిస్థాన్ స్పిన్నర్ అబ్రార్ అహ్మద్‌తో ఒప్పందం చేసుకుంది",
-      "summary_te": "అబ్రార్ భారతదేశానికి చెందిన హండ్రెడ్ జట్టు కొనుగోలు చేసిన మొదటి పాకిస్తాన్ ఆటగాడు; సస్సెక్స్ యొక్క జేమ్స్ కోల్స్ £390,000కి వెళుతుంది",
-      "translated": true
-    },
-    {
       "id": "047c1e90a904d8c083fd04a93d3cd52c",
       "title": "West Indies name unchanged squad for home T20Is against Australia",
       "summary": "West Indies will be facing Australia for the first time in an international match since October 2023",
@@ -99,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -169,7 +169,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -210,7 +210,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
