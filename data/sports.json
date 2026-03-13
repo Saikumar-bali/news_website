@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-13T15:44:37.965Z",
-  "updated_at_IST": "13/3/2026, 9:14:37 pm",
+  "updated_at": "2026-03-13T16:37:26.484Z",
+  "updated_at_IST": "13/3/2026, 10:07:26 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "084286fc79fe823f43438166755019a1",
+      "title": "Agha left fuming after unusual run-out by Mehidy in second ODI",
+      "summary": "Agha tried to pick up the ball at the non-striker's end while still being outside the crease and was out when Mehidy picked it up and got a direct hit",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527882.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
+      "published_at": "2026-03-13T16:04:09.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రెండో ODIలో మెహిదీ అసాధారణ రనౌట్‌తో అఘా మండిపడింది",
+      "summary_te": "అఘా క్రీజు వెలుపల ఉండగానే నాన్‌స్ట్రైకర్స్ ఎండ్‌లో బంతిని తీయడానికి ప్రయత్నించాడు మరియు మెహిదీ దానిని అందుకొని నేరుగా హిట్ అందుకున్నాడు.",
+      "translated": true
+    },
     {
       "id": "bb3d9998eec4dffd48bda2631c975c4f",
       "title": "Talat stretchered to hospital after shoulder injury",
@@ -58,20 +72,6 @@
       "language": "en",
       "title_te": "సదాకత్, ఆఘా అర్ధశతకాలు పాకిస్థాన్‌ను ఎత్తడానికి ముందు మెహిదీ రన్ అవుట్‌తో కుప్పకూలారు",
       "summary_te": "పాకిస్తాన్ 274 పరుగులకు ఆలౌటైంది, అయితే పెద్ద స్కోరును నమోదు చేయడానికి తాము బాగానే ఉన్నామని భావిస్తుంది",
-      "translated": true
-    },
-    {
-      "id": "084286fc79fe823f43438166755019a1",
-      "title": "Agha left fuming after unusual run-out by Mehidy in second ODI",
-      "summary": "Agha tried to pick up the ball at the non-striker's end while still being outside the crease and was out when Mehidy picked it up and got a direct hit",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527882.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
-      "published_at": "2026-03-13T12:53:22.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రెండో ODIలో మెహిదీ అసాధారణ రనౌట్‌తో అఘా మండిపడింది",
-      "summary_te": "అఘా క్రీజు వెలుపల ఉండగానే నాన్‌స్ట్రైకర్స్ ఎండ్‌లో బంతిని తీయడానికి ప్రయత్నించాడు మరియు మెహిదీ దానిని అందుకొని నేరుగా హిట్ అందుకున్నాడు.",
       "translated": true
     },
     {
@@ -183,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -253,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -294,7 +294,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
+      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ చెందారు'",
       "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
       "translated": true
     },
