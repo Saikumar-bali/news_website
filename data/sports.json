@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-13T03:37:53.011Z",
-  "updated_at_IST": "13/3/2026, 9:07:53 am",
+  "updated_at": "2026-03-13T05:21:20.377Z",
+  "updated_at_IST": "13/3/2026, 10:51:20 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c2bae71d3f3fe7ca73a6d86cf25477a3",
+      "title": "Ronchi and Oram to coach at PSL despite clash with NZ assignments",
+      "summary": "Luke Ronchi and Jacob Oram, New Zealand's batting and bowling coach respectively, will take their places at Islamabad United during the series against South Africa and Bangladesh",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527797.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/311600/311618.jpg",
+      "published_at": "2026-03-13T04:52:16.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "NZ అసైన్‌మెంట్‌లతో ఘర్షణ ఉన్నప్పటికీ రోంచీ మరియు ఓరం PSLలో కోచ్‌గా ఉన్నారు",
+      "summary_te": "న్యూజిలాండ్ బ్యాటింగ్ మరియు బౌలింగ్ కోచ్ ల్యూక్ రోంచి మరియు జాకబ్ ఓరమ్ దక్షిణాఫ్రికా మరియు బంగ్లాదేశ్‌లతో జరిగే సిరీస్‌లో ఇస్లామాబాద్ యునైటెడ్‌లో తమ స్థానాలను తీసుకుంటారు.",
+      "translated": true
+    },
     {
       "id": "0e7659a0d663336cb3268498e7670240",
       "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
@@ -212,20 +226,6 @@
       "language": "en",
       "title_te": "హెస్సన్: నహిద్ రానా బ్యాట్‌తో పాకిస్థాన్ 'బహిర్గతం' అయింది",
       "summary_te": "పాక్ కోచ్ మాట్లాడుతూ, వారు షెల్‌లోకి వెళ్లారని, ఘోరమైన ఓటమి తర్వాత వాటిని త్వరగా తిప్పికొట్టాలని అన్నారు",
-      "translated": true
-    },
-    {
-      "id": "86626ee85e447ae142c7fcc3f2e17680",
-      "title": "Hayden appointed as Gujarat Titans batting coach",
-      "summary": "Former India wicketkeeper Vijay Dahiya has been recruited as assistant coach",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527526.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/400200/400288.jpg",
-      "published_at": "2026-03-11T14:34:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "గుజరాత్ టైటాన్స్ బ్యాటింగ్ కోచ్‌గా హేడెన్ నియమితుడయ్యాడు",
-      "summary_te": "భారత మాజీ వికెట్ కీపర్ విజయ్ దహియా అసిస్టెంట్ కోచ్‌గా నియమితుడయ్యాడు",
       "translated": true
     },
     {
