@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-14T16:30:21.491Z",
-  "updated_at_IST": "14/3/2026, 10:00:21 pm",
+  "updated_at": "2026-03-14T17:30:06.236Z",
+  "updated_at_IST": "14/3/2026, 11:00:06 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e0a521c9fc9b1da7a6c4fce367eb45b3",
+      "title": "Samson: India being in must-win territory 'fired me up'",
+      "summary": "\"I was absolutely broken because my dream was to win the World Cup and I was not even in the XI,\" Samson said",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527985.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414574.jpg",
+      "published_at": "2026-03-14T17:08:27.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "శాంసన్: భారత్ తప్పక గెలవాల్సిన ప్రాంతంలో ఉండటం 'నన్ను కాల్చివేసింది'",
+      "summary_te": "\"నేను పూర్తిగా విచ్ఛిన్నమయ్యాను ఎందుకంటే ప్రపంచ కప్ గెలవాలనేది నా కల మరియు నేను XIలో కూడా లేను\" అని శాంసన్ చెప్పాడు.",
+      "translated": true
+    },
     {
       "id": "83e386ce4bdcee73afc51feff68be41e",
       "title": "Aaqib Javed on Pakistan's T20 World Cup exit: Have to move past 'scapegoating people'",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌ను ఇంగ్లండ్‌ గెలిస్తే మహిళల సెంచరీ భారీగా మారుతుందని మలోలన్‌ రంగరాజన్‌ అన్నారు.",
       "summary_te": "\"మీకు చాలా మంది అమ్మాయిలు మరియు తల్లిదండ్రులు వారిని ప్రోత్సహిస్తారు, 'రండి గేమ్ చూడండి!',\" అని లండన్ స్పిరిట్ అసిస్టెంట్ కోచ్ చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "77b72719d83e0a65ee45695d194226f0",
-      "title": "Thomas O'Connor upstages dad Shayne with 13-wicket haul",
-      "summary": "Thomas rewrote family history and Otago records, bagging a match haul of 13 wickets in the Plunket Shield",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527746.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414633.jpg",
-      "published_at": "2026-03-12T09:41:47.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "థామస్ ఓ'కానర్ 13 వికెట్లతో తన తండ్రి షేన్‌ను వేదికపైకి తెచ్చాడు",
-      "summary_te": "థామస్ కుటుంబ చరిత్ర మరియు ఒటాగో రికార్డులను తిరగరాశాడు, ప్లంకెట్ షీల్డ్‌లో 13 వికెట్ల మ్యాచ్ హాల్ సాధించాడు",
       "translated": true
     }
   ]

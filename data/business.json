@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-14T16:30:21.491Z",
-  "updated_at_IST": "14/3/2026, 10:00:21 pm",
+  "updated_at": "2026-03-14T17:30:06.236Z",
+  "updated_at_IST": "14/3/2026, 11:00:06 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "b8a60fd7f845cf8b1453e89d1ff66c63",
+      "title": "Man shares how Blinkit ambulance proved ‘a lifesaver’ for Gurgaon family: ‘Arrived in 4 mins’",
+      "summary": "Harpreet said the family had initially assumed the charges were already paid when the ambulance was booked through the app.",
+      "url": "https://www.livemint.com/news/trends/man-shares-how-blinkit-ambulance-proved-a-lifesaver-for-gurugram-family-11773503931627.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/Untitled_design_-_2026-03-14T214105.729_1773504681945_1773504688524.png",
+      "published_at": "2026-03-14T16:26:54.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "గుర్గావ్ కుటుంబానికి బ్లింకిట్ అంబులెన్స్ 'లైఫ్‌సేవర్' అని ఎలా నిరూపించిందో మనిషి పంచుకున్నాడు: '4 నిమిషాల్లో చేరుకుంది'",
+      "summary_te": "యాప్ ద్వారా అంబులెన్స్‌ను బుక్ చేసినప్పుడు అప్పటికే ఛార్జీలు చెల్లించినట్లు కుటుంబం మొదట్లో భావించిందని హర్‌ప్రీత్ చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "4678ef05f8e501824d32c910be39b4ca",
       "title": "Quote of the day by Steve Jobs: ‘The only way to do great work is to love what you do’",
@@ -394,20 +408,6 @@
       "language": "en",
       "title_te": "50 నగరాల్లో గృహాల విక్రయాలు 3% తగ్గి 6.14 లక్షల యూనిట్లకు, 16% వృద్ధితో రూ. 8.4 లక్షల కోట్లకు చేరుకున్నాయి: క్రెడాయ్",
       "summary_te": "భారతీయ గృహాల విక్రయాలు గతేడాది యూనిట్లలో స్వల్పంగా తగ్గుముఖం పట్టినప్పటికీ విలువలో గణనీయమైన పెరుగుదల కనిపించింది. కోటి రూపాయల కంటే ఎక్కువ గృహాలకు డిమాండ్ పెరగడం ఈ వృద్ధికి కారణమైంది. టైర్-2 నగరాలు కీలక వృద్ధి ప్రాంతాలుగా మారుతున్నాయి. మెరుగైన కనెక్టివిటీ మరియు ఉద్యోగ అవకాశాలు హౌసింగ్ మార్కెట్లను పెంచుతున్నాయి. మెట్రో నగరాలు ఆధిక్యంలో కొనసాగుతున్నాయి, కానీ చిన్న నగరాలు ప్రాముఖ్యతను సంతరించుకుంటున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "3c0bf2899a7c3584b3da81ed8745a6f2",
-      "title": "Colorado weather alert: Wildfire danger in Denver on Saturday, snow on Sunday",
-      "summary": "Colorado is no stranger to ‘four seasons in a weekend’, but the swing from a Red Flag Warning on Saturday to a Winter Storm Warning on Sunday is a stark reminder of the region’s unpredictable climate.",
-      "url": "https://www.livemint.com/news/us-news/colorado-weather-alert-wildfire-danger-in-denver-on-saturday-snow-on-sunday-11773477975546.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/Screenshot_2026-03-14_142436_1773479343545_1773479402352.png",
-      "published_at": "2026-03-14T09:14:49.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కొలరాడో వాతావరణ హెచ్చరిక: శనివారం డెన్వర్‌లో అడవి మంటలు, ఆదివారం మంచు",
-      "summary_te": "కొలరాడోకు 'వారాంతంలో నాలుగు సీజన్లు' కొత్తేమీ కాదు, కానీ శనివారం ఎర్ర జెండా హెచ్చరిక నుండి ఆదివారం శీతాకాలపు తుఫాను హెచ్చరిక వరకు ఊగడం ఈ ప్రాంతం యొక్క అనూహ్య వాతావరణాన్ని పూర్తిగా గుర్తు చేస్తుంది.",
       "translated": true
     },
     {
