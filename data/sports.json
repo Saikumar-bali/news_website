@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-14T14:29:43.844Z",
-  "updated_at_IST": "14/3/2026, 7:59:43 pm",
+  "updated_at": "2026-03-14T15:29:10.494Z",
+  "updated_at_IST": "14/3/2026, 8:59:10 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0e42c29245497d3c6a12c5c4f10f44f5",
+      "title": "Agha handed a demerit point after run-out incident",
+      "summary": "Agha threw his gloves and helmet in anger after his dismissal in the second ODI against Bangladesh",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527978.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
+      "published_at": "2026-03-14T15:09:49.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రన్ అవుట్ ఘటన తర్వాత అఘా ఒక డీమెరిట్ పాయింట్‌ను అందజేసింది",
+      "summary_te": "బంగ్లాదేశ్‌తో జరిగిన రెండో వన్డేలో ఔటైన తర్వాత ఆగ్రహంతో అఘా తన గ్లౌజులు, హెల్మెట్‌ని విసిరాడు.",
+      "translated": true
+    },
     {
       "id": "f21ee9804e3e9ee6737c086fa1134dd7",
       "title": "Rahul Dravid, Mithali Raj and Roger Binny to get BCCI Lifetime Achievement awards",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
       "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "d9bf663617b538ace8a8e9f73e9afaaf",
-      "title": "Pakistan look to raise their game as Bangladesh target quick series win",
-      "summary": "Bangladesh played a flawless game in the first ODI, and Pakistan, who fielded four debutant batters there, might want to bring Haris Rauf in to strengthen their bowling attack",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527752.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
-      "published_at": "2026-03-12T08:57:01.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     }
   ]
