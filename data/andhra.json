@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-14T17:30:06.236Z",
-  "updated_at_IST": "14/3/2026, 11:00:06 pm",
+  "updated_at": "2026-03-14T18:33:27.767Z",
+  "updated_at_IST": "15/3/2026, 12:03:27 am",
   "category": "andhra",
-  "count": 24,
+  "count": 20,
   "articles": [
+    {
+      "id": "bcfb85ead9948606b318304d467c53ed",
+      "title": "Kakinada ensures steady LPG supply amid demand surge",
+      "summary": "At least 60 tonnes of petroleum gas (LPG) are being supplied from the Bharat LPG bottling unit at Kakinada Anchorage Port to meet both domestic and commercial demand in the district. According to an official release, this supply will continue. Kakinada Revenue Divisional Officer S. Mallibabu, along with Civil Supplies authorities, on Saturday (March 14, 2026) inspected the Bharat LPG bottling unit at the port. They reviewed the availability of LPG and examined the bottling process in light of challenges affecting the supply system.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-ensures-steady-lpg-supply-amid-demand-durge/article70743415.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-14T16:55:29.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "డిమాండ్ పెరుగుదల మధ్య కాకినాడ స్థిరమైన LPG సరఫరాను నిర్ధారిస్తుంది",
+      "summary_te": "జిల్లాలో దేశీయ మరియు వాణిజ్య డిమాండ్‌ను తీర్చడానికి కాకినాడ యాంకరేజ్ పోర్ట్‌లోని భారత్ ఎల్‌పిజి బాట్లింగ్ యూనిట్ నుండి కనీసం 60 టన్నుల పెట్రోలియం గ్యాస్ (ఎల్‌పిజి) సరఫరా చేయబడుతోంది. అధికారిక విడుదల ప్రకారం, ఈ సరఫరా కొనసాగుతుంది. కాకినాడ రెవెన్యూ డివిజనల్ అధికారి ఎస్.మల్లిబాబు, పౌరసరఫరాల అధికారులతో కలిసి శనివారం (మార్చి 14, 2026) పోర్టులోని భారత్ ఎల్‌పిజి బాట్లింగ్ యూనిట్‌ను పరిశీలించారు. వారు LPG లభ్యతను సమీక్షించారు మరియు సరఫరా వ్యవస్థను ప్రభావితం చేసే సవాళ్ల నేపథ్యంలో బాట్లింగ్ ప్రక్రియను పరిశీలించారు.",
+      "translated": true
+    },
     {
       "id": "a543704d6ddc6e3aab20b180bd4f74a9",
       "title": "NSO ADG inaugurates Sub-Regional Office building in Kakinada",
@@ -117,20 +131,6 @@
       "translated": true
     },
     {
-      "id": "70985951d857c71c11a06f54d8f849c5",
-      "title": "Scientific restoration of Alipiri Padalamandapam in Tirupati enters crucial phase",
-      "summary": "Soil samples sent to National Institute of Technology Warangal for geotechnical analysis to help design a durable foundation for the historic structure",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/scientific-restoration-of-alipiri-padalamandapam-in-tirupati-enters-crucial-phase/article70743235.ece",
-      "image": "https://th-i.thgim.com/public/incoming/asjqss/article70743935.ece/alternates/LANDSCAPE_1200/10215_14_3_2026_20_23_37_1_IMG_20260314_WA0059.JPG",
-      "published_at": "2026-03-14T14:59:48.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "తిరుపతిలోని అలిపిరి పాదాలమండపం శాస్త్రీయ పునరుద్ధరణ కీలక దశకు చేరుకుంది",
-      "summary_te": "చారిత్రాత్మక నిర్మాణానికి మన్నికైన పునాదిని రూపొందించడంలో సహాయపడటానికి జియోటెక్నికల్ విశ్లేషణ కోసం నేషనల్ ఇన్‌స్టిట్యూట్ ఆఫ్ టెక్నాలజీ వరంగల్‌కు మట్టి నమూనాలను పంపారు.",
-      "translated": true
-    },
-    {
       "id": "2dc1c17df41fe8a8be52e0f24843245d",
       "title": "Sugarcane farmers stage protest at Nindra factory",
       "summary": "Nearly 500 farmers from Nagari and Sathyavedu Assembly constituencies staged a protest in front of Netams Sugar Factory at Nindra in Chittoor district on Saturday, demanding the clearance of debts amounting to ₹37 crore that have been pending since the crushing year of 2019-20.The area Sugarcane Growers Association president, Adinarayana Reddy, and general secretary Avula Srinivasa Yadav, who led the agitation, said that Chief Minister N. Chandrababu Naidu and Nagari MLA Gali Bhanuprakash should do justice to about 2,000 farmers who supplied sugarcane to the factory during that year. “Chief Minister N. Chandrababu Naidu had given a clear assurance during the 2024 elections that if elected to power, the government would reopen the sugar factory and clear the dues to the farmers. However, there has been no response from the them so far,” Mr. Srinivasa Yadav said.The agitating farmers said that the factory was closed immediately after the 2019-20 crushing year, and their appeals to the management for pending dues went in vain. “If justice is not done to the farmers, the agitation would be intensified,” said A.P. Rythu Sangham coordinator Hemalatha.",
@@ -215,20 +215,6 @@
       "translated": true
     },
     {
-      "id": "bcfb85ead9948606b318304d467c53ed",
-      "title": "Kakinada ensures steady LPG supply amid demand durge",
-      "summary": "At least 60 tonnes of petroleum gas (LPG) are being supplied from the Bharat LPG bottling unit at Kakinada Anchorage Port to meet both domestic and commercial demand in the district. According to an official release, this supply will continue. Kakinada Revenue Divisional Officer S. Mallibabu, along with Civil Supplies authorities, on Saturday (March 14, 2026) inspected the Bharat LPG bottling unit at the port. They reviewed the availability of LPG and examined the bottling process in light of challenges affecting the supply system.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-ensures-steady-lpg-supply-amid-demand-durge/article70743415.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-14T14:25:36.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "కాకినాడ డిమాండ్ దుర్భరమైన మధ్య స్థిరమైన LPG సరఫరాను నిర్ధారిస్తుంది",
-      "summary_te": "జిల్లాలో దేశీయ మరియు వాణిజ్య డిమాండ్‌ను తీర్చడానికి కాకినాడ యాంకరేజ్ పోర్ట్‌లోని భారత్ ఎల్‌పిజి బాట్లింగ్ యూనిట్ నుండి కనీసం 60 టన్నుల పెట్రోలియం గ్యాస్ (ఎల్‌పిజి) సరఫరా చేయబడుతోంది. అధికారిక విడుదల ప్రకారం, ఈ సరఫరా కొనసాగుతుంది. కాకినాడ రెవెన్యూ డివిజనల్ అధికారి ఎస్.మల్లిబాబు, పౌరసరఫరాల అధికారులతో కలిసి శనివారం (మార్చి 14, 2026) పోర్టులోని భారత్ ఎల్‌పిజి బాట్లింగ్ యూనిట్‌ను పరిశీలించారు. వారు LPG లభ్యతను సమీక్షించారు మరియు సరఫరా వ్యవస్థను ప్రభావితం చేసే సవాళ్ల నేపథ్యంలో బాట్లింగ్ ప్రక్రియను పరిశీలించారు.",
-      "translated": true
-    },
-    {
       "id": "73272b190e6a4a46e46b9daff6bd56bb",
       "title": "HRD Minister Lokesh warns of strict action if quality of mid-day meal is compromised",
       "summary": "Once food is prepared, a teacher must taste and check the quality every day before it is served to the students, he insists; as per the preliminary inquiry, the incident reported in a school at Mylavaram in NTR district is a deliberate act aimed at spreading misinformation, say officials",
@@ -296,48 +282,6 @@
       "language": "en",
       "title_te": "అడవి ఏనుగు గుంపు తిరిగి T.N. చిత్తూరు జిల్లాలో రెండు నెలలుగా ఉద్రిక్తత తర్వాత అడవులు",
       "summary_te": "కుమ్కీ ఆపరేషన్ గుడిపాల మండలంలో పంటల దాడులు మరియు రాత్రిపూట భయాందోళనలను ముగించింది, అటవీ బృందాలు అంతర్ రాష్ట్ర సరిహద్దు సమీపంలో ₹ 15 లక్షల విలువైన పంటలను దెబ్బతిన్న మందను ట్రాక్ చేస్తున్నాయి",
-      "translated": true
-    },
-    {
-      "id": "07b0d28d2d10423358e009b3b57f0468",
-      "title": "Medico dies in road accident",
-      "summary": "An MBBS student, C. Likith Sai (20), who was in his first year at Government Siddhartha Medical College, Vijayawada, died in a road accident.A native of Ramapuram village, near Srikalahasti in Chittoor district, Likith, was staying in the college hostel.He fell from his motorcycle and suffered head injuries on Wednesday. The medico was not using headgear when he met with the accident, the police said. Likith died while undergoing treatment in a hospital on Friday.The Patamata police registered a case.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/medico-dies-in-road-accident/article70743162.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-14T13:24:04.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "రోడ్డు ప్రమాదంలో మెడికో మృతి చెందాడు",
-      "summary_te": "విజయవాడలోని ప్రభుత్వ సిద్ధార్థ వైద్య కళాశాలలో మొదటి సంవత్సరం చదువుతున్న ఎంబీబీఎస్ విద్యార్థి సి.లికిత్ సాయి (20) రోడ్డు ప్రమాదంలో మృతి చెందాడు.చిత్తూరు జిల్లా శ్రీకాళహస్తి సమీపంలోని రామాపురం గ్రామానికి చెందిన లిఖిత్ కళాశాల హాస్టల్‌లో ఉంటున్నాడు.మోటార్‌సైకిల్‌పై నుంచి పడి తలకు బుధవారం గాయాలయ్యాయి. ప్రమాదం జరిగినప్పుడు మెడికో తలపాగా వాడలేదని పోలీసులు తెలిపారు. లికిత్ ఆస్పత్రిలో చికిత్స పొందుతూ శుక్రవారం మృతి చెందాడు.పటమట పోలీసులు కేసు నమోదు చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "e5deab6b6deb7fb5ad4ebdf0511b9cbf",
-      "title": "Former MP’s custodial torture case: HC orders Sunil Naik to appear before Investigating Officer on March 23",
-      "summary": "The court posts the anticipatory bail plea of the Inspector General of Fire Services of Bihar, who is named A-7 in the case, to March 18",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-mps-custodial-torture-case-hc-orders-sunil-naik-to-appear-before-investigating-officer-on-march-23/article70743298.ece",
-      "image": "https://th-i.thgim.com/public/incoming/o1ancu/article70743387.ece/alternates/LANDSCAPE_1200/10745_23_2_2026_11_56_58_1_IMG_20260223_WA0018.JPG",
-      "published_at": "2026-03-14T13:13:57.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "మాజీ ఎంపీ కస్టడీలో చిత్రహింసల కేసు: మార్చి 23న దర్యాప్తు అధికారి ఎదుట హాజరుకావాలని సునీల్ నాయక్‌కు హైకోర్టు ఆదేశం",
-      "summary_te": "ఈ కేసులో ఏ-7గా పేర్కొనబడిన బీహార్ ఇన్‌స్పెక్టర్ జనరల్ ఆఫ్ ఫైర్ సర్వీసెస్ ముందస్తు బెయిల్ పిటిషన్‌ను కోర్టు మార్చి 18కి పోస్ట్ చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "1fe52bcedfa26283ad1c2fc1b80f906b",
-      "title": "Govt. takes steps to construct seven greenfield airports, including one in Amaravati",
-      "summary": "The total estimated cost is pegged at ₹7,472 crore and 4,500 acres of land for the facility in the capital city is proposed to be allotted under LPS-2",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/govt-takes-steps-to-construct-seven-greenfield-airports-including-one-in-amaravati/article70743204.ece",
-      "image": "https://th-i.thgim.com/public/incoming/eb9h13/article70743304.ece/alternates/LANDSCAPE_1200/Successful-valiG95FD60D4.3.jpg.jpg",
-      "published_at": "2026-03-14T12:53:47.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ప్రభుత్వ అమరావతిలో ఒకటి సహా ఏడు గ్రీన్‌ఫీల్డ్ విమానాశ్రయాల నిర్మాణానికి చర్యలు తీసుకుంటుంది",
-      "summary_te": "మొత్తం అంచనా వ్యయం ₹7,472 కోట్లు మరియు రాజధాని నగరంలో సౌకర్యం కోసం 4,500 ఎకరాల భూమిని LPS-2 కింద కేటాయించాలని ప్రతిపాదించబడింది.",
       "translated": true
     }
   ]

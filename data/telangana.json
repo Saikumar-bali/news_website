@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-14T17:30:06.236Z",
-  "updated_at_IST": "14/3/2026, 11:00:06 pm",
+  "updated_at": "2026-03-14T18:33:27.767Z",
+  "updated_at_IST": "15/3/2026, 12:03:27 am",
   "category": "telangana",
-  "count": 29,
+  "count": 35,
   "articles": [
+    {
+      "id": "05ce30ac8f403eb66b21eded1cb6ac86",
+      "title": "Drug party in farmhouse.. Shooting at police",
+      "summary": "Drug party in a farmhouse.. Fire at the police gbalaji Sat, 03/14/2026 - 23:11",
+      "url": "https://www.sakshi.com/telugu-news/telangana/gunfire-during-drug-party-moinabad-farmhouse-2733415",
+      "image": null,
+      "published_at": "2026-03-14T17:41:35.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "ఫామ్‌హౌజ్‌లో డ్రగ్స్‌ పార్టీ.. పోలీసులపై కాల్పులు",
+      "summary_te": "ఫామ్‌హౌజ్‌లో డ్రగ్స్‌ పార్టీ.. పోలీసులపై కాల్పులు gbalaji Sat, 03/14/2026 - 23:11",
+      "translated": true
+    },
     {
       "id": "71738a180ab8e0c62bdf8407d4b34f6c",
       "title": "Telangana Electricity Department created history",
@@ -19,6 +33,48 @@
       "translated": true
     },
     {
+      "id": "667e1e40c244c1aebc70a697affa4e7f",
+      "title": "Three killed while desilting agricultural well",
+      "summary": "JAYASHANKAR BHUPALPALLYThree persons, including a 16-year-old boy, were killed when they fell into an agricultural well after the rope of a crane engaged in desilting operation snapped at Korikishala village in Mogullapally mandal of Jayashankar Bhupalpally district late on Saturday afternoon.According to sources, the deceased were identified as Deva Rao, 48, Abilash, 16, and Paidaiah, 53. Sources added that Abilash, who just returned home after writing the SSC public exam, met with a tragic end while assisting the duo in the desilting operation. Another person reportedly suffered multiple injuries in the freak accident. He was rushed to the Government General Hospital in Bhupalpally.",
+      "url": "https://www.thehindu.com/news/national/telangana/three-killed-while-desilting-agricultural-well/article70744261.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-14T16:27:22.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "వ్యవసాయ బావిలో పూడిక తీసి ముగ్గురు మృతి చెందారు",
+      "summary_te": "జయశంకర్ భూపాలపల్లి: జయశంకర్ భూపాలపల్లి జిల్లా మొగుళ్లపల్లి మండలం కొరికిశాల గ్రామంలో శనివారం అర్థరాత్రి పూడిక తీసే పనిలో నిమగ్నమైన క్రేన్ తాడు తెగిపోవడంతో వ్యవసాయ బావిలో పడి 16 ఏళ్ల బాలుడు సహా ముగ్గురు మృతి చెందారు. 16, మరియు పైడయ్య, 53. ఎస్‌ఎస్‌సి పబ్లిక్ పరీక్ష రాసి ఇంటికి తిరిగి వచ్చిన అభిలాష్, డీసిల్టింగ్ ఆపరేషన్‌లో ఇద్దరికి సహాయం చేస్తూ విషాదకరమైన ముగింపును ఎదుర్కొన్నాడు. ఈ ప్రమాదంలో మరో వ్యక్తి పలువురికి గాయాలైనట్లు సమాచారం. వెంటనే ఆయనను భూపాలపల్లి ప్రభుత్వ ఆసుపత్రికి తరలించారు.",
+      "translated": true
+    },
+    {
+      "id": "d533cb1458c6b473919adac87019c6cf",
+      "title": "KTR accuses Congress of using Musi Riverfront project as cover for land grabbing",
+      "summary": "He accuses Congress for taking up the project for taking ahead its real estate agenda",
+      "url": "https://www.thehindu.com/news/national/telangana/ktr-accuses-congress-of-using-musi-riverfront-project-as-cover-for-land-grabbing/article70744196.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/kv0wmc/article70744191.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-14%20at%208.46.27%20PM.jpeg",
+      "published_at": "2026-03-14T16:17:29.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మూసీ రివర్‌ఫ్రంట్‌ ప్రాజెక్టును కాంగ్రెస్‌ భూసేకరణకు పూనుకుంటోందని కేటీఆర్‌ ఆరోపించారు",
+      "summary_te": "కాంగ్రెస్ తన రియల్ ఎస్టేట్ ఎజెండాను ముందుకు తీసుకెళ్లడం కోసం ఈ ప్రాజెక్టును చేపట్టిందని ఆయన ఆరోపించారు",
+      "translated": true
+    },
+    {
+      "id": "311bcaebcca58fb0717ac1edade3e9fa",
+      "title": "Bandi Sanjay demands action against Congress MLA Samuel for his ‘derogatory remarks’ against Hindu dharma, undertakes 40-km padayatra to Kondagattu",
+      "summary": "Union Minister of State for Home Affairs Bandi Sanjay Kumar demanded that a criminal case be registered against Congress MLA from Thungathurthy Mandala Samuel for making ‘derogatory remarks’ against Hindu dharma.Mr. Sanjay accused Mr. Samuel of making disparaging remarks against Hinduism at a Congress party meeting in Gandhi Bhavan in Hyderabad on Friday.Speaking to mediapersons before launching his 40-km ‘Anjanna Ashirvada Padayatra’ in Karimnagar on Saturday, Mr. Sanjay alleged that Mr. Samuel made offensive comments against Hindu dharma. He should be barred from contesting elections for trying to vitiate communal amity, Mr. Sanjay said.He said, “Chief Minister A. Revanth Reddy should apologise to Hindu society and expel Mr. Samuel from the party for his provocative remarks.”Later, Mr. Sanjay began his 40-km padayatra to Kondagattu hill shrine in Jagtial district to fulfill his earlier vow to visit the famous temple dedicated to Lord Anjanna (Hanuman) on foot if the BJP wins the Karimnagar Municipal Corporation.Scores of BJP leaders and cadres, including Karimnagar Mayor K. Srinivas, Deputy Mayor Y. Sunil Rao and all the BJP municipal corporators besides several sarpanches, among others, took part in the padayatra.Hordes of youths, mainly ardent devotees of Lord Anjanna, walked along with Mr. Sanjay from Karimnagar to Kondagattu.People queued up along the padayatra route and greeted Mr. Sanjay even as the BJP cadres raised ‘Jai Hanuman’ slogans, waving saffron flags en route Kondagattu.Mild commotion prevailed at Konaraopet in Ramadugu mandal when a swarm of bees attacked the participants of the padayatra on Saturday afternoon. Three BJP cadres suffered minor injuries in the incident. They were administered first-aid by a mobile medical team.The padayatra led by Mr. Sanjay reached Kondagattu hill shrine at around 8.45 p.m. after covering a distance of 40 km.",
+      "url": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-demands-action-against-congress-mla-samuel-for-his-derogatory-remarks-against-hindu-dharma-undertakes-40-km-padayatra-to-kondagattu/article70743997.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-14T16:17:24.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "హిందూ ధర్మాన్ని కించపరిచే విధంగా వ్యాఖ్యలు చేసిన కాంగ్రెస్ ఎమ్మెల్యే శామ్యూల్‌పై చర్యలు తీసుకోవాలని బండి సంజయ్ డిమాండ్ చేస్తూ కొండగట్టు వరకు 40 కిలోమీటర్ల పాదయాత్ర చేపట్టారు.",
+      "summary_te": "హిందూ ధర్మాన్ని కించపరిచేలా వ్యాఖ్యలు చేసిన తుంగతుర్తి మండల కాంగ్రెస్‌ ఎమ్మెల్యే శామ్యూల్‌పై క్రిమినల్‌ కేసు నమోదు చేయాలని కేంద్ర హోంశాఖ సహాయ మంత్రి బండి సంజయ్‌కుమార్‌ డిమాండ్‌ చేశారు. శుక్రవారం హైదరాబాద్‌లోని గాంధీభవన్‌లో జరిగిన కాంగ్రెస్ పార్టీ సమావేశంలో శామ్యూల్ హిందూమతాన్ని కించపరిచేలా వ్యాఖ్యలు చేశారని సంజయ్ ఆరోపించారు.శనివారం కరీంనగర్‌లో తన 40 కిలోమీటర్ల ‘అంజన్న ఆశీర్వాద పాదయాత్ర’ ప్రారంభించే ముందు మీడియా ప్రతినిధులతో మాట్లాడిన శ్రీ శామ్యూల్ హిందూ ధర్మంపై అభ్యంతరకరమైన వ్యాఖ్యలు చేశారని సంజయ్ ఆరోపించారు. మత సామరస్యాన్ని దెబ్బతీసేందుకు ప్రయత్నించినందుకు తనను ఎన్నికల్లో పోటీ చేయకుండా నిరోధించాలని సంజయ్ అన్నారు. రెచ్చగొట్టే వ్యాఖ్యలకు గాను ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డి హిందూ సమాజానికి క్షమాపణలు చెప్పాలని, శామ్యూల్‌ను పార్టీ నుంచి బహిష్కరించాలని ఆయన అన్నారు. కరీంనగర్ మున్సిపల్ కార్పొరేషన్‌లో బీజేపీ గెలిస్తే కాలినడకన అంజన్న (హనుమంతుడు)కి అంకితం. కరీంనగర్ మేయర్ కె. శ్రీనివాస్, డిప్యూటీ మేయర్ వై. సునీల్ రావుతో పాటు బీజేపీ మున్సిపల్ కార్పొరేటర్లతో పాటు పలువురు సర్పంచ్‌లతో పాటు పలువురు బీజేపీ నాయకులు, కార్యకర్తలు పాదయాత్రలో పాల్గొన్నారు. కరీంనగర్ నుంచి కొండగట్టు వరకు.. కొండగట్టు మార్గంలో కాషాయ జెండాలు చేతబూని బీజేపీ శ్రేణులు జై హనుమాన్ నినాదాలు చేయడంతో పాదయాత్ర మార్గంలో జనం క్యూ కట్టి సంజయ్‌కు ఘనస్వాగతం పలికారు.రామడుగు మండలం కోనరావుపేటలో శనివారం మధ్యాహ్నం బీభత్సం సృష్టించిన బీభత్సకారుల దాడితో స్వల్ప సందడి నెలకొంది. ఈ ఘటనలో ముగ్గురు బీజేపీ కార్యకర్తలకు స్వల్ప గాయాలయ్యాయి. వారికి సంచార వైద్య బృందం ప్రథమ చికిత్స అందించింది. సంజయ్ నేతృత్వంలోని పాదయాత్ర సుమారు 8.45 గంటలకు కొండగట్టు కొండ గుడి వద్దకు చేరుకుంది. 40 కి.మీ దూరాన్ని కవర్ చేసిన తర్వాత.",
+      "translated": true
+    },
+    {
       "id": "7f5b422b4a5ca4bbb22f72b30fd825c4",
       "title": "Send your warships..!",
       "summary": "Send your warships..! naresh Sat, 03/14/2026 - 21:45",
@@ -30,6 +86,20 @@
       "language": "te",
       "title_te": "మీ యుద్ధ నౌకలను పంపండి..!",
       "summary_te": "మీ యుద్ధ నౌకలను పంపండి..! naresh Sat, 03/14/2026 - 21:45",
+      "translated": true
+    },
+    {
+      "id": "dc3d5b038fd329c9d067db8722b7105c",
+      "title": "Protest against cylinder shortage, price rise",
+      "summary": "A protest rally was held on Saturday (March 14) at Subhash Nagar in the Jeedimetla industrial area against the nationwide shortage of LPG cylinders and the skyrocketing prices of essential commodities.Mazdoor Bigul, Naujawan Bharat Sabha (NBS) and Disha Students’ Organization jointly organised this protest. Workers expressed their outrage over the kilometre-long queues at gas stations and the rampant black marketing of cylinders.Activists slammed the government for acting as apathetic about needs of the common people as during the COVID-19 pandemic, with its lack of advanced planning.Also condemning the aggression on Iran and newly found friendship of the Central government with Israel, the protestors made demands for control of black marketing of gas, access to cylinders at regular prices, tax reduction in petrol and diesel, and action against hoarding.",
+      "url": "https://www.thehindu.com/news/national/telangana/protest-against-cylinder-shortage-price-rise/article70744025.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-14T16:07:24.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "సిలిండర్ల కొరత, ధరల పెరుగుదలకు వ్యతిరేకంగా నిరసన",
+      "summary_te": "దేశవ్యాప్తంగా ఎల్‌పిజి సిలిండర్ల కొరత, నిత్యావసర వస్తువుల ధరలకు వ్యతిరేకంగా జీడిమెట్ల పారిశ్రామికవాడలోని సుభాష్ నగర్‌లో శనివారం (మార్చి 14) నిరసన ర్యాలీ నిర్వహించారు. గ్యాస్ స్టేషన్ల వద్ద కిలోమీటరు పొడవునా క్యూలైన్లు, సిలిండర్ల బ్లాక్‌మార్కెటింగ్‌పై కార్మికులు తీవ్ర ఆగ్రహం వ్యక్తం చేశారు. కోవిడ్-19 మహమ్మారి సమయంలో సామాన్య ప్రజల అవసరాలపై ప్రభుత్వం ఉదాసీనంగా వ్యవహరిస్తోందని, అధునాతన ప్రణాళిక లేకపోవడంతో కార్యకర్తలు ప్రభుత్వంపై తీవ్ర ఆగ్రహం వ్యక్తం చేశారు. గ్యాస్ మార్కెటింగ్, సాధారణ ధరలకే సిలిండర్లను పొందడం, పెట్రోల్ మరియు డీజిల్‌పై పన్ను తగ్గింపు మరియు హోర్డింగ్‌పై చర్యలు.",
       "translated": true
     },
     {
@@ -58,6 +128,34 @@
       "language": "te",
       "title_te": "ట్రంప్‌పై నిషేధం యోచనలో ఫిఫా!",
       "summary_te": "ట్రంప్‌పై నిషేధం యోచనలో ఫిఫా! svarun Sat, 03/14/2026 - 21:28",
+      "translated": true
+    },
+    {
+      "id": "7bc45aee31a8d87994c9d0567ca17cf2",
+      "title": "Commercial LPG supplies in Telangana meeting only 20% demand; Uttam urges Centre for more commercial cylinders",
+      "summary": "Commercial Liquefied Petroleum Gas (LPG) supplies in Telangana are currently meeting only about 20% demand, raising concerns of people involved in the food business and other commercial sectors. But the domestic supply is near-normal. Civil Supplies Minister N. Uttam Kumar Reddy on Saturday (March 14) said that he wrote to the Centre requesting additional commercial LPG cylinders.A sharp drop in the commercial LPG deliveries were recorded, from the usual requirement of 23,000 cylinders per day to roughly 6,200 cylinders. The Minister said that the domestic LPG supplies stand at near-normal levels with around 2.15 lakh cylinders delivered per day.On Friday, a little over 2.37 lakh domestic cylinders were delivered. The usual requirement is 2.5 lakh cylinders per day, as per information from the Civil Supplies department.",
+      "url": "https://www.thehindu.com/news/national/telangana/commercial-lpg-supplies-in-telangana-meeting-only-20-demand-uttam-urges-centre-for-more-commercial-cylinders/article70744041.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mubjmw/article70744189.ece/alternates/LANDSCAPE_1200/MEMAU_14_3_2026_17_29_48_2_1106.JPG",
+      "published_at": "2026-03-14T15:57:39.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "తెలంగాణలో వాణిజ్య LPG సరఫరాలు కేవలం 20% డిమాండ్‌ను మాత్రమే అందుకుంటున్నాయి; మరిన్ని వాణిజ్య సిలిండర్ల కోసం కేంద్రాన్ని ఉత్తమ్ కోరారు",
+      "summary_te": "తెలంగాణలో కమర్షియల్ లిక్విఫైడ్ పెట్రోలియం గ్యాస్ (LPG) సరఫరాలు ప్రస్తుతం కేవలం 20% డిమాండ్‌ను మాత్రమే అందుకుంటున్నాయి, ఇది ఆహార వ్యాపారం మరియు ఇతర వాణిజ్య రంగాలలో నిమగ్నమైన ప్రజల ఆందోళనలను పెంచుతుంది. కానీ దేశీయ సరఫరా దాదాపు సాధారణ స్థాయిలో ఉంది. పౌరసరఫరాల శాఖ మంత్రి ఎన్. ఉత్తమ్ కుమార్ రెడ్డి శనివారం (మార్చి 14) అదనపు కమర్షియల్ ఎల్‌పిజి సిలిండర్‌లను కోరుతూ కేంద్రానికి లేఖ రాశారు. వాణిజ్య ఎల్‌పిజి డెలివరీలలో భారీ తగ్గుదల నమోదైంది, సాధారణంగా రోజుకు 23,000 సిలిండర్ల నుండి దాదాపు 6,200 సిలిండర్ల వరకు తగ్గింది. డొమెస్టిక్ ఎల్‌పిజి సరఫరాలు దాదాపు సాధారణ స్థాయికి చేరుకున్నాయని, రోజుకు దాదాపు 2.15 లక్షల సిలిండర్లు డెలివరీ అవుతున్నాయని మంత్రి తెలిపారు.శుక్రవారం 2.37 లక్షల డొమెస్టిక్ సిలిండర్లు డెలివరీ అయ్యాయి. పౌరసరఫరాల శాఖ సమాచారం ప్రకారం సాధారణంగా రోజుకు 2.5 లక్షల సిలిండర్లు అవసరం.",
+      "translated": true
+    },
+    {
+      "id": "11a76c2a0164d6d3c47bf28ce2dcbc3f",
+      "title": "Civil Defence volunteer training programme launched at medical institute in Pocharam",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/civil-defence-volunteer-training-programme-launched-at-medical-institute-in-pocharam/article70743938.ece",
+      "image": null,
+      "published_at": "2026-03-14T15:57:22.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "పోచారంలోని మెడికల్‌ ఇన్‌స్టిట్యూట్‌లో సివిల్‌ డిఫెన్స్‌ వాలంటీర్‌ శిక్షణ కార్యక్రమాన్ని ప్రారంభించారు",
+      "summary_te": "",
       "translated": true
     },
     {
@@ -184,20 +282,6 @@
       "language": "en",
       "title_te": "SIR మ్యాపింగ్‌లో సహాయం చేయడానికి AIMIM ఇంటింటికీ ప్రచారాన్ని ప్రారంభించింది",
       "summary_te": "ఎలక్టోరల్ రోల్స్ ప్రత్యేక ఇంటెన్సివ్ రివిజన్ (ఎస్ఐఆర్), ఎన్నికల సంఘం అధికారులు చేపట్టిన సాంకేతిక కసరత్తు, హైదరాబాద్‌లో ఇంటింటికీ పరిమాణాన్ని పొందేందుకు ఆల్ ఇండియా మజ్లిస్-ఇ-ఇత్తెహాదుల్ ముస్లిమీన్ (AIMIM) ప్రణాళికలు సిద్ధం చేసింది. పౌరసత్వాన్ని నిర్ణయించే అధికారం భారత ఎన్నికల కమిషన్‌కు లేదని అతను పేర్కొన్నప్పటికీ, మీడియాతో సమావేశాలు మరియు పరస్పర చర్యలు SIR కసరత్తును విమర్శించారు. అయితే చట్టబద్ధమైన ఓటర్లు ఎవరూ మినహాయించబడకుండా చర్యలు తీసుకుంటామని ఆయన సూచించారు. వివిధ వర్గాల ఓటర్లకు అవగాహన కల్పించేందుకు, ఓటరు జాబితా సవరణకు సంబంధించిన విధివిధానాలను అర్థం చేసుకోవడానికి AIMIM ప్రాథమిక యూనిట్ల అధ్యక్షులను ఇంటింటికీ వెళ్లి సమీకరించనున్నట్లు పార్టీ కార్యకర్తలు తెలిపారు. కుటుంబానికి అనుసంధానించబడిన అర్హులైన ఓటర్లందరినీ గుర్తించడంలో సహాయపడండి. \"చాలా గృహాలలో, పిల్లలు మరియు మనవరాళ్ళు పని కోసం నగరం, రాష్ట్రం, దేశం లేదా భారతదేశం వెలుపల కూడా వివిధ ప్రాంతాలకు వెళ్లి ఉండవచ్చు. కుటుంబంలోని పెద్ద సభ్యునితో మాట్లాడటం వలన వారు ఎక్కడ ఉన్నా కుటుంబ వృక్షాన్ని గుర్తించడం మరియు ఓటర్లను ఖచ్చితంగా మ్యాప్ చేయడం సులభతరం అవుతుందని నాయకత్వం విశ్వసిస్తుంది,\" అని పార్టీ కార్యకర్త ఒకరు చెప్పారు. సపోర్టింగ్ డాక్యుమెంట్‌ల సమర్పణ ద్వారా. మ్యాపింగ్ కోసం అవసరమైతే పత్రాలు అవసరమనే విషయాన్ని తాకడం ద్వారా, అటువంటి కేసులకు అవసరమైన పత్రాల చెక్‌లిస్ట్ సిద్ధంగా ఉందని పార్టీ కార్యకర్తలు తెలిపారు. ఈ ప్రక్రియకు అవసరమైన డాక్యుమెంటేషన్‌పై వర్కర్లు నివాసితులకు మార్గనిర్దేశం చేస్తారు మరియు అవసరమైన పత్రాలను దరఖాస్తు చేసి, తర్వాత పూర్తి చేసే మీసేవా కేంద్రాలకు వారిని మళ్లిస్తారు. \"ఉదాహరణకు, హైదరాబాద్ మరియు సికింద్రాబాద్‌లలోని అసెంబ్లీ నియోజకవర్గాలలో మాకు ప్రాథమిక యూనిట్ల నెట్‌వర్క్ ఉంది. ప్రతి అసెంబ్లీ సెగ్మెంట్‌లో దాదాపు 200 నుండి 250 ప్రాథమిక యూనిట్లు ఉన్నాయి. ఓటరు మ్యాపింగ్‌కు సహాయం చేయడానికి కుటుంబ నెట్‌వర్క్‌లను గుర్తించే అదే విధానం మహారాష్ట్ర మరియు బీహార్‌లో మరియు పార్టీ ఉనికిని కలిగి ఉన్న చోట కూడా పునరావృతమవుతుంది. ప్రత్యేక ఇంటెన్సివ్ రివిజన్ ప్రక్రియ పూర్తయ్యే వరకు హైదరాబాద్‌లోని ప్రాథమిక యూనిట్లు నివాసితులతో నిమగ్నమై ఉంటాయని మరియు అర్హులైన ఓటర్లు ఓటర్ల జాబితాలో తమ నమోదులను ధృవీకరించడానికి లేదా అప్‌డేట్ చేయగలరని వారు తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "7ef6b1daad3fb42022651a6a7a658a0b",
-      "title": "Chandrababu's fraud revealed in Pawan Sabha",
-      "summary": "Chandrababu's fraud exposed in Pawan Sabha tvenkatesh Sat, 03/14/2026 - 19:57",
-      "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/widow-exposes-pension-delay-pawan%E2%80%99s-meeting-2733405",
-      "image": null,
-      "published_at": "2026-03-14T14:27:56.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "పవన్ సభలో బయటపడ్డ చంద్రబాబు మోసం",
-      "summary_te": "పవన్ సభలో బయటపడ్డ చంద్రబాబు మోసం tvenkatesh Sat, 03/14/2026 - 19:57",
       "translated": true
     },
     {

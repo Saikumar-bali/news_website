@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-14T17:30:06.236Z",
-  "updated_at_IST": "14/3/2026, 11:00:06 pm",
+  "updated_at": "2026-03-14T18:33:27.767Z",
+  "updated_at_IST": "15/3/2026, 12:03:27 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "2c22c4b839d92fd3921f9c13347c35c5",
+      "title": "MCA launches women's edition of T20 Mumbai League",
+      "summary": "The inaugural season will have three teams, operated by PRS Infraprojects LLP, Roadway Solution India Infra Ltd and World Star Sporting Private Limited",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527989.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414678.jpg",
+      "published_at": "2026-03-14T17:57:19.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "MCA T20 ముంబై లీగ్ మహిళల ఎడిషన్‌ను ప్రారంభించింది",
+      "summary_te": "ప్రారంభ సీజన్‌లో PRS ఇన్‌ఫ్రాప్రాజెక్ట్స్ LLP, రోడ్‌వే సొల్యూషన్ ఇండియా ఇన్‌ఫ్రా లిమిటెడ్ మరియు వరల్డ్ స్టార్ స్పోర్టింగ్ ప్రైవేట్ లిమిటెడ్ నిర్వహించే మూడు జట్లు ఉంటాయి.",
+      "translated": true
+    },
+    {
+      "id": "482223a80dd8f64f8eeef9a9f0bb0d26",
+      "title": "Rohit on India's World Cup wins: 'I hope this is just the start'",
+      "summary": "He wishes the men's and women's teams carry the momentum that they have built",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527987.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/384300/384352.jpg",
+      "published_at": "2026-03-14T17:38:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "భారత ప్రపంచ కప్ విజయాలపై రోహిత్: 'ఇది ఆరంభం మాత్రమేనని నేను ఆశిస్తున్నాను'",
+      "summary_te": "పురుషులు మరియు మహిళల జట్లు వారు నిర్మించిన వేగాన్ని కొనసాగించాలని ఆయన ఆకాంక్షించారు",
+      "translated": true
+    },
     {
       "id": "e0a521c9fc9b1da7a6c4fce367eb45b3",
       "title": "Samson: India being in must-win territory 'fired me up'",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
       "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
-      "translated": true
-    },
-    {
-      "id": "dac3b0ae6826bd21e81df7d0e64ca8df",
-      "title": "Men's Hundred 2026 - How the teams stack up after the auction",
-      "summary": "All the eight men's Hundred squads after the first ever auction ahead of the 2026 season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527785.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414640.jpg",
-      "published_at": "2026-03-12T18:09:02.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పురుషుల హండ్రెడ్ 2026 - వేలం తర్వాత జట్లు ఎలా పేర్చుకుంటాయి",
-      "summary_te": "2026 సీజన్‌కు ముందు జరిగిన మొట్టమొదటి వేలం తర్వాత మొత్తం ఎనిమిది మంది పురుషుల హండ్రెడ్ స్క్వాడ్‌లు",
-      "translated": true
-    },
-    {
-      "id": "40b769009b9cb6aa4aaba38a98d72d26",
-      "title": "If England win T20 World Cup, women's Hundred will change hugely, says Malolan Rangarajan",
-      "summary": "\"You will have a lot more girls and parents encouraging them, 'Come watch the game!',\" says the London Spirit assistant coach",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527783.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414641.jpg",
-      "published_at": "2026-03-12T15:36:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "టీ20 ప్రపంచకప్‌ను ఇంగ్లండ్‌ గెలిస్తే మహిళల సెంచరీ భారీగా మారుతుందని మలోలన్‌ రంగరాజన్‌ అన్నారు.",
-      "summary_te": "\"మీకు చాలా మంది అమ్మాయిలు మరియు తల్లిదండ్రులు వారిని ప్రోత్సహిస్తారు, 'రండి గేమ్ చూడండి!',\" అని లండన్ స్పిరిట్ అసిస్టెంట్ కోచ్ చెప్పారు.",
       "translated": true
     }
   ]
