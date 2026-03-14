@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-03-14T10:28:57.649Z",
-  "updated_at_IST": "14/3/2026, 3:58:57 pm",
+  "updated_at": "2026-03-14T11:27:35.146Z",
+  "updated_at_IST": "14/3/2026, 4:57:35 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
-      "id": "f012dcbb8325da875456defa91a16319",
-      "title": "Neser takes five to keep Queensland in Shield final race",
-      "summary": "Queensland lost Renshaw and Labuschagne in slumping to 48 for 3 after Neser took 5 for 37 to dismiss Tasmania for 198 on day one",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527905.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414670.jpg",
-      "published_at": "2026-03-14T09:55:10.000Z",
+      "id": "f21ee9804e3e9ee6737c086fa1134dd7",
+      "title": "Rahul Dravid, Mithali Raj and Roger Binny to get BCCI Lifetime Achievement awards",
+      "summary": "Shubman Gill and Smriti Mandhana have been named India's best international cricketers among men and women respctively for the 2024-25 season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527911.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414671.jpg",
+      "published_at": "2026-03-14T10:37:25.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "షీల్డ్ ఫైనల్ రేసులో క్వీన్స్‌లాండ్‌ను ఉంచడానికి నెసెర్ ఐదుగురిని తీసుకుంటాడు",
-      "summary_te": "మొదటి రోజు టాస్మానియాను 198 పరుగుల వద్ద ఔట్ చేయడానికి నెసెర్ 37 పరుగులకు 5 వికెట్లు పడగొట్టడంతో క్వీన్స్‌లాండ్ రెన్షా మరియు లాబుస్‌చాగ్నేలను 3 వికెట్లకు 48 పరుగులకు కోల్పోయింది.",
+      "title_te": "రాహుల్ ద్రవిడ్, మిథాలీ రాజ్, రోజర్ బిన్నీలకు బీసీసీఐ లైఫ్ టైమ్ అచీవ్‌మెంట్ అవార్డులు",
+      "summary_te": "2024-25 సీజన్‌లో పురుషుల మరియు మహిళలలో భారత అత్యుత్తమ అంతర్జాతీయ క్రికెటర్లుగా శుభ్‌మన్ గిల్ మరియు స్మృతి మంధాన ఎంపికయ్యారు.",
       "translated": true
     },
     {
@@ -24,7 +24,7 @@
       "summary": "WA's offspinner took his second five-wicket haul of the Sheffield Shield season, helping bowl NSW out for 232",
       "url": "https://www.espncricinfo.com/ci/content/story/1527906.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414669.jpg",
-      "published_at": "2026-03-14T08:39:42.000Z",
+      "published_at": "2026-03-14T10:26:01.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -38,12 +38,26 @@
       "summary": "Both the ODIs so far have been one-sided affairs, and an even contest to decide the series will work best for the fans... but the weather might have a say again",
       "url": "https://www.espncricinfo.com/ci/content/story/1527916.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
-      "published_at": "2026-03-14T08:21:29.000Z",
+      "published_at": "2026-03-14T10:22:20.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "114 కాదు, మరొకటి - బంగ్లాదేశ్, పాకిస్థాన్ బ్యాటర్లు నిర్ణయాత్మకంగా మెరుగ్గా వస్తారని ఆశిస్తున్నాను",
       "summary_te": "ఇప్పటి వరకు జరిగిన రెండు ODIలు ఏకపక్ష వ్యవహారాలు, మరియు సిరీస్‌ను నిర్ణయించే సమ పోటీ అభిమానులకు ఉత్తమంగా పని చేస్తుంది... కానీ వాతావరణం మళ్లీ చెప్పవచ్చు.",
+      "translated": true
+    },
+    {
+      "id": "f012dcbb8325da875456defa91a16319",
+      "title": "Neser takes five to keep Queensland in Shield final race",
+      "summary": "Queensland lost Renshaw and Labuschagne in slumping to 48 for 3 after Neser took 5 for 37 to dismiss Tasmania for 198 on day one",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527905.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414670.jpg",
+      "published_at": "2026-03-14T10:19:22.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "షీల్డ్ ఫైనల్ రేసులో క్వీన్స్‌లాండ్‌ను ఉంచడానికి నెసెర్ ఐదుగురిని తీసుకుంటాడు",
+      "summary_te": "మొదటి రోజు టాస్మానియాను 198 పరుగుల వద్ద ఔట్ చేయడానికి నెసెర్ 37 పరుగులకు 5 వికెట్లు పడగొట్టడంతో క్వీన్స్‌లాండ్ రెన్షా మరియు లాబుస్‌చాగ్నేలను 3 వికెట్లకు 48 పరుగులకు కోల్పోయింది.",
       "translated": true
     },
     {
@@ -72,20 +86,6 @@
       "language": "en",
       "title_te": "హంట్, మనేంటి హాఫ్ సెంచరీలు సౌత్ ఆస్ట్రేలియా ఫైనల్ ఛేజింగ్‌లో సహాయపడతాయి",
       "summary_te": "బోలాండ్ మరియు మర్ఫీలు తలో మూడు వికెట్లు పడగొట్టడంతో, హంట్ 81, మానేంటి 53 పరుగులతో ఓపికగా నిలిచారు.",
-      "translated": true
-    },
-    {
-      "id": "f21ee9804e3e9ee6737c086fa1134dd7",
-      "title": "Rahul Dravid, Mithali Raj and Roger Binny win BCCI Lifetime Achievement awards",
-      "summary": "Shubman Gill and Smriti Mandhana have been named India's best international cricketers among men and women respctively for the 2024-25 season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527911.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414671.jpg",
-      "published_at": "2026-03-14T07:10:31.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రాహుల్ ద్రవిడ్, మిథాలీ రాజ్, రోజర్ బిన్నీలు బీసీసీఐ లైఫ్‌టైమ్ అచీవ్‌మెంట్ అవార్డులను గెలుచుకున్నారు",
-      "summary_te": "2024-25 సీజన్‌లో పురుషుల మరియు మహిళలలో భారత అత్యుత్తమ అంతర్జాతీయ క్రికెటర్లుగా శుభ్‌మన్ గిల్ మరియు స్మృతి మంధాన ఎంపికయ్యారు.",
       "translated": true
     },
     {
@@ -281,7 +281,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -351,7 +351,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     }
   ]
