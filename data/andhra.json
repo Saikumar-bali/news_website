@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-14T22:26:19.667Z",
-  "updated_at_IST": "15/3/2026, 3:56:19 am",
+  "updated_at": "2026-03-14T23:29:32.039Z",
+  "updated_at_IST": "15/3/2026, 4:59:32 am",
   "category": "andhra",
-  "count": 22,
+  "count": 23,
   "articles": [
     {
       "id": "e4f9aad55b018d42935ab30c73cd856d",
@@ -19,6 +19,20 @@
       "translated": true
     },
     {
+      "id": "03cbe9bb9423544480baa528fa5f7459",
+      "title": "Roadside eateries in Vijayawada worst hit by LPG crisis",
+      "summary": "Street vendors and owners of carts are struggling to keep their stalls running, while several others have either cut down their operations or closed temporarily",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/roadside-eateries-in-vijayawada-worst-hit-by-lpg-crisis/article70744177.ece",
+      "image": "https://th-i.thgim.com/public/incoming/p1ia0v/article70744491.ece/alternates/LANDSCAPE_1200/10215_14_3_2026_18_32_57_1_DSC_8351.JPG",
+      "published_at": "2026-03-14T17:47:45.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "విజయవాడలో రోడ్డు పక్కన ఉన్న తినుబండారాలు ఎల్‌పిజి సంక్షోభంతో తీవ్రంగా దెబ్బతిన్నాయి",
+      "summary_te": "వీధి వ్యాపారులు మరియు బండ్ల యజమానులు తమ స్టాల్స్‌ను కొనసాగించడానికి ఇబ్బంది పడుతున్నారు, మరికొందరు తమ కార్యకలాపాలను తగ్గించుకున్నారు లేదా తాత్కాలికంగా మూసివేశారు.",
+      "translated": true
+    },
+    {
       "id": "ee90750c32990eb6c60f0b3396cf7f3e",
       "title": "AQI-enabled bus services launched on Vijayawada-Bengaluru route",
       "summary": "IntrCity SmartBus, an intercity mobility brand, has launched Air Quality Index AQI-enabled intercity bus services on the Vijayawada-Bengaluru route, focusing on passenger health and comfort.Launching the service in Vijayawada on Saturday, Deputy Commissioner of Police Traffic Shereen Begum said the main objective of the initiative is to improve the air quality inside buses while ensuring better health protection for passengers.According to internal studies conducted by IntrCity, air pollution levels inside bus cabins are two to three times higher than the limits recommended by the World Health Organisation( WHO).To address this concern, the company introduced SmartBus AQI technology, she said.According to a press note issued by the company, PM2.5 levels during travel were maintained at around 40 µg per cubic metre in the AQI-enabled bus during a trial run.The company also stated that real-time AQI and PM2.5 readings inside the bus will be displayed on on-board display screens as well as on its mobile app.",
@@ -28,7 +42,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "విజయవాడ-బెంగళూరు రూట్‌లో ఏక్యూఐ ఎనేబుల్డ్ బస్సు సర్వీసులు ప్రారంభం",
+      "title_te": "విజయవాడ-బెంగళూరు రూట్‌లో ఏక్యూఐ ఎనేబుల్డ్ బస్సు సర్వీసులను ప్రారంభించింది",
       "summary_te": "ఇంటర్‌సిటీ మొబిలిటీ బ్రాండ్ అయిన IntrCity SmartBus, ప్రయాణికుల ఆరోగ్యం మరియు సౌకర్యాన్ని దృష్టిలో ఉంచుకుని విజయవాడ-బెంగళూరు మార్గంలో ఎయిర్ క్వాలిటీ ఇండెక్స్ AQI- ఎనేబుల్డ్ ఇంటర్‌సిటీ బస్సు సేవలను ప్రారంభించింది. శనివారం విజయవాడలో ఈ సర్వీస్‌ను ప్రారంభించిన డిప్యూటీ పోలీస్ కమిషనర్ ఆఫ్ పోలీస్ ట్రాఫిక్, షెరీన్ బేగం. IntrCity నిర్వహించిన అంతర్గత అధ్యయనాల ప్రకారం, ప్రపంచ ఆరోగ్య సంస్థ (WHO) సిఫార్సు చేసిన పరిమితుల కంటే బస్ క్యాబిన్‌లలోని వాయు కాలుష్య స్థాయిలు రెండు నుండి మూడు రెట్లు ఎక్కువగా ఉన్నాయి. ఈ ఆందోళనను పరిష్కరించడానికి, కంపెనీ SmartBus AQI టెక్నాలజీని ప్రవేశపెట్టిందని ఆమె తెలిపింది. ట్రయల్ రన్ సమయంలో AQI-ప్రారంభించబడిన బస్సు. బస్సు లోపల నిజ-సమయ AQI మరియు PM2.5 రీడింగ్‌లు ఆన్-బోర్డ్ డిస్‌ప్లే స్క్రీన్‌లపై అలాగే దాని మొబైల్ యాప్‌లో ప్రదర్శించబడతాయని కంపెనీ పేర్కొంది.",
       "translated": true
     },
@@ -252,7 +266,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "ప్రభుత్వ గృహాలకు సరిపడా LPG సరఫరాను నిర్ధారించడానికి అన్ని ప్రయత్నాలు చేస్తున్నట్లు GoM తెలిపింది",
+      "title_te": "ప్రభుత్వం గృహాలకు సరిపడా LPG సరఫరాను నిర్ధారించడానికి అన్ని ప్రయత్నాలు చేస్తున్నట్లు GoM తెలిపింది",
       "summary_te": "ఎల్‌పిజి సిలిండర్‌ల బ్లాక్ మార్కెటింగ్‌పై ప్రజలు ఆందోళన చెందాల్సిన అవసరం లేదని, హెచ్చరికలు చేయాల్సిన అవసరం లేదని పునరుద్ఘాటిస్తూ, ఆసుపత్రులు మరియు హాస్టళ్ల వంటి అవసరమైన సంస్థలకు కూడా ప్రాధాన్యత ఇస్తున్నామని, తద్వారా వాటి కార్యకలాపాలు అంతరాయం లేకుండా కొనసాగుతాయని జిఓఎం పేర్కొంది.",
       "translated": true
     },
