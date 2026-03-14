@@ -1,21 +1,49 @@
 {
-  "updated_at": "2026-03-14T15:29:10.494Z",
-  "updated_at_IST": "14/3/2026, 8:59:10 pm",
+  "updated_at": "2026-03-14T16:30:21.491Z",
+  "updated_at_IST": "14/3/2026, 10:00:21 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "83e386ce4bdcee73afc51feff68be41e",
+      "title": "Aaqib Javed on Pakistan's T20 World Cup exit: Have to move past 'scapegoating people'",
+      "summary": "The men's national selector said Pakistan missed out of the semi-final only because of net run rate and pushed back against criticism of the team and selection committee",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527980.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414676.jpg",
+      "published_at": "2026-03-14T15:36:21.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్తాన్ T20 ప్రపంచ కప్ నిష్క్రమణపై ఆకిబ్ జావేద్: 'బలిపశువులను' దాటవేయాలి",
+      "summary_te": "కేవలం నెట్ రన్ రేట్ కారణంగానే పాకిస్థాన్ సెమీ-ఫైనల్‌కు దూరమైందని, జట్టు మరియు సెలక్షన్ కమిటీపై విమర్శలకు వ్యతిరేకంగా వెనక్కి నెట్టిందని పురుషుల జాతీయ సెలెక్టర్ చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "0e42c29245497d3c6a12c5c4f10f44f5",
       "title": "Agha handed a demerit point after run-out incident",
       "summary": "Agha threw his gloves and helmet in anger after his dismissal in the second ODI against Bangladesh",
       "url": "https://www.espncricinfo.com/ci/content/story/1527978.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
-      "published_at": "2026-03-14T15:09:49.000Z",
+      "published_at": "2026-03-14T15:20:46.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "రన్ అవుట్ ఘటన తర్వాత అఘా ఒక డీమెరిట్ పాయింట్‌ను అందజేసింది",
       "summary_te": "బంగ్లాదేశ్‌తో జరిగిన రెండో వన్డేలో ఔటైన తర్వాత ఆగ్రహంతో అఘా తన గ్లౌజులు, హెల్మెట్‌ని విసిరాడు.",
+      "translated": true
+    },
+    {
+      "id": "83d188e1ca2ec1f374c1732e685575e1",
+      "title": "Agha calls for 'sportsman spirit' after controversial dismissal",
+      "summary": "Batter seeks to clear the air after heated incident during Pakistan's 128-run victory",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527899.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414654.jpg",
+      "published_at": "2026-03-14T15:17:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వివాదాస్పద తొలగింపు తర్వాత 'స్పోర్ట్స్‌మెన్ స్పిరిట్' కోసం ఆఘా పిలుపునిచ్చింది",
+      "summary_te": "పాకిస్తాన్ 128 పరుగుల విజయాన్ని సాధించిన సమయంలో వేడి సంఘటన తర్వాత బ్యాటర్ గాలిని క్లియర్ చేయడానికి ప్రయత్నిస్తాడు",
       "translated": true
     },
     {
@@ -100,20 +128,6 @@
       "language": "en",
       "title_te": "హంట్, మనేంటి హాఫ్ సెంచరీలు సౌత్ ఆస్ట్రేలియా ఫైనల్ ఛేజింగ్‌లో సహాయపడతాయి",
       "summary_te": "బోలాండ్ మరియు మర్ఫీలు తలో మూడు వికెట్లు పడగొట్టడంతో, హంట్ 81, మానేంటి 53 పరుగులతో ఓపికగా నిలిచారు.",
-      "translated": true
-    },
-    {
-      "id": "83d188e1ca2ec1f374c1732e685575e1",
-      "title": "Agha calls for 'sportsman spirit' after controversial dismissal",
-      "summary": "Batter seeks to clear the air after heated incident during Pakistan's 128-run victory",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527899.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414654.jpg",
-      "published_at": "2026-03-13T19:05:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వివాదాస్పద తొలగింపు తర్వాత 'స్పోర్ట్స్‌మెన్ స్పిరిట్' కోసం ఆఘా పిలుపునిచ్చింది",
-      "summary_te": "పాకిస్తాన్ 128 పరుగుల విజయాన్ని సాధించిన సమయంలో వేడి సంఘటన తర్వాత బ్యాటర్ గాలిని క్లియర్ చేయడానికి ప్రయత్నిస్తాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "థామస్ ఓ'కానర్ 13 వికెట్లతో తన తండ్రి షేన్‌ను వేదికపైకి తెచ్చాడు",
       "summary_te": "థామస్ కుటుంబ చరిత్ర మరియు ఒటాగో రికార్డులను తిరగరాశాడు, ప్లంకెట్ షీల్డ్‌లో 13 వికెట్ల మ్యాచ్ హాల్ సాధించాడు",
-      "translated": true
-    },
-    {
-      "id": "85dede184db85bfb8bf767cfd20368d5",
-      "title": "Handscomb finds a way in another season favouring bowlers",
-      "summary": "The Sheffield Shield has again been dominated by the bowlers, which continues a broader debate around the balance of the red-ball game in Australia",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527739.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414631.jpg",
-      "published_at": "2026-03-12T09:39:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హ్యాండ్‌కాంబ్ మరో సీజన్‌లో బౌలర్లకు అనుకూలమైన మార్గాన్ని కనుగొంటాడు",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ మళ్లీ బౌలర్లచే ఆధిపత్యం చెలాయించబడింది, ఇది ఆస్ట్రేలియాలో రెడ్-బాల్ గేమ్ బ్యాలెన్స్ గురించి విస్తృత చర్చను కొనసాగిస్తోంది.",
       "translated": true
     }
   ]
