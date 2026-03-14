@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-03-14T08:32:29.422Z",
-  "updated_at_IST": "14/3/2026, 2:02:29 pm",
+  "updated_at": "2026-03-14T09:34:19.322Z",
+  "updated_at_IST": "14/3/2026, 3:04:19 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "3c0bf2899a7c3584b3da81ed8745a6f2",
+      "title": "Colorado weather alert: Wildfire danger in Denver on Saturday, snow on Sunday",
+      "summary": "Colorado is no stranger to ‘four seasons in a weekend’, but the swing from a Red Flag Warning on Saturday to a Winter Storm Warning on Sunday is a stark reminder of the region’s unpredictable climate.",
+      "url": "https://www.livemint.com/news/us-news/colorado-weather-alert-wildfire-danger-in-denver-on-saturday-snow-on-sunday-11773477975546.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/Screenshot_2026-03-14_142436_1773479343545_1773479402352.png",
+      "published_at": "2026-03-14T09:14:49.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కొలరాడో వాతావరణ హెచ్చరిక: శనివారం డెన్వర్‌లో అడవి మంటలు, ఆదివారం మంచు",
+      "summary_te": "కొలరాడోకు 'వారాంతంలో నాలుగు సీజన్లు' కొత్తేమీ కాదు, కానీ శనివారం ఎర్ర జెండా హెచ్చరిక నుండి ఆదివారం శీతాకాలపు తుఫాను హెచ్చరిక వరకు ఊగడం ఈ ప్రాంతం యొక్క అనూహ్య వాతావరణాన్ని పూర్తిగా గుర్తు చేస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "2f61bdbadca86b4a743d8f67eb3e8f60",
+      "title": "Quote of the Day: Gabriel García Márquez's words of wisdom on aging — ‘People stop pursuing dreams because….’",
+      "summary": "Nobel laureate Gabriel García Márquez believed that aging is a result of ceasing to pursue dreams. He advocated for the relentless pursuit of aspirations, suggesting that staying youthful is tied to continuing one's quest for dreams.&nbsp;",
+      "url": "https://www.livemint.com/news/trends/quote-of-the-day-gabriel-garc-a-m-rquezs-words-of-wisdom-on-aging-people-stop-pursuing-dreams-because-11773476209798.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/ll_1773479203712_1773479203997.jpeg",
+      "published_at": "2026-03-14T09:08:04.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కోట్ ఆఫ్ ది డే: వృద్ధాప్యం గురించి గాబ్రియేల్ గార్సియా మార్క్వెజ్ యొక్క వివేకం యొక్క పదాలు - 'ప్రజలు కలలను వెంబడించడం మానేస్తారు...'",
+      "summary_te": "నోబెల్ గ్రహీత గాబ్రియేల్ గార్సియా మార్క్వెజ్ కలలు కనడం మానేయడం వల్ల వృద్ధాప్యం ఏర్పడుతుందని నమ్మాడు. అతను ఆశయాల కోసం కనికరంలేని సాధన కోసం వాదించాడు, యవ్వనంగా ఉండటం కలల కోసం ఒకరి అన్వేషణను కొనసాగించడంతో ముడిపడి ఉందని సూచించారు. ",
+      "translated": true
+    },
+    {
+      "id": "08dda9aa505dea0ce7b6a87ed735a1f2",
+      "title": "Two LPG ships sail through Strait of Hormuz on way to shortage-hit India: Report",
+      "summary": "Two tankers carrying liquefied petroleum gas are heading to India after crossing the Strait of Hormuz, providing some relief to acute shortages as the war in the Persian Gulf disrupts supply of the cooking fuel.",
+      "url": "https://www.livemint.com/news/world/two-lpg-ships-sail-through-strait-of-hormuz-on-way-to-shortage-hit-india-report-11773478369687.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/FILE-PHOTO--Tankers-sail-in-the-Gulf--near-the-Str_1773478517085_1773478524648.jpg",
+      "published_at": "2026-03-14T09:03:08.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రెండు ఎల్‌పిజి నౌకలు హార్ముజ్ జలసంధి ద్వారా కొరతతో కొట్టుమిట్టాడుతున్న భారతదేశానికి మార్గంలో ప్రయాణించాయి: నివేదిక",
+      "summary_te": "పర్షియన్ గల్ఫ్‌లో యుద్ధం వంట ఇంధన సరఫరాకు అంతరాయం కలిగించినందున తీవ్రమైన కొరతకు కొంత ఉపశమనాన్ని అందిస్తూ, హార్ముజ్ జలసంధిని దాటిన తర్వాత ద్రవీకృత పెట్రోలియం వాయువును మోసుకెళ్లే రెండు ట్యాంకర్లు భారతదేశానికి వెళ్తున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "18a59123a27bec202b4eab4dc5810790",
+      "title": "Mutual funds reduce investments in IT stocks in February, weight slips to 8 year low",
+      "summary": "Mutual funds reduced exposure to IT stocks in February, with the sector’s weight in portfolios falling to an eight-year low of 6.9%, according to a Motilal Oswal report. The decline follows a sharp fall in tech stock values, even as some fund houses selectively increased holdings in key companies like Infosys and TCS.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-funds-reduce-investments-in-it-stocks-in-february-weight-slips-to-8-year-low/articleshow/129571435.cms",
+      "image": null,
+      "published_at": "2026-03-14T08:31:52.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మ్యూచువల్ ఫండ్స్ ఫిబ్రవరిలో IT స్టాక్‌లలో పెట్టుబడులను తగ్గించాయి, బరువు 8 సంవత్సరాల కనిష్టానికి పడిపోయింది",
+      "summary_te": "మోతీలాల్ ఓస్వాల్ నివేదిక ప్రకారం, ఫిబ్రవరిలో మ్యూచువల్ ఫండ్స్ IT స్టాక్‌లకు బహిర్గతం చేయడాన్ని తగ్గించాయి, పోర్ట్‌ఫోలియోలలో సెక్టార్ బరువు ఎనిమిదేళ్ల కనిష్ట స్థాయి 6.9%కి పడిపోయింది. ఇన్ఫోసిస్ మరియు TCS వంటి కీలక కంపెనీలలో కొన్ని ఫండ్ హౌస్‌లు ఎంపిక చేసిన హోల్డింగ్‌లను పెంచినప్పటికీ, టెక్ స్టాక్ విలువలలో ఈ క్షీణత గణనీయంగా పడిపోయింది.",
+      "translated": true
+    },
+    {
+      "id": "5ae30a5f0a1e6601929dadadbe83887d",
+      "title": "Smallcaps cheaper but not cheap yet: Sonam Srivastava urges selective investing",
+      "summary": "Smallcap stocks have corrected sharply but are still not cheap, says Sonam Srivastava of Wright Research, urging investors to stay selective. She highlights opportunities in private banks, pharma, and capital goods while recommending staggered deployment of cash and balanced allocation across equities, gold, silver, and debt amid volatile markets.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/smallcaps-cheaper-but-not-cheap-yet-sonam-srivastava-urges-selective-investing/articleshow/129571392.cms",
+      "image": null,
+      "published_at": "2026-03-14T08:27:16.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "స్మాల్‌క్యాప్‌లు చౌకైనవి కానీ ఇంకా చౌకగా లేవు: సోనమ్ శ్రీవాస్తవ సెలెక్టివ్ ఇన్వెస్ట్‌మెంట్‌ను కోరారు",
+      "summary_te": "స్మాల్‌క్యాప్ స్టాక్‌లు బాగా సరిదిద్దబడ్డాయి, కానీ ఇప్పటికీ చౌకగా లేవు, రైట్ రీసెర్చ్‌కి చెందిన సోనమ్ శ్రీవాస్తవ మాట్లాడుతూ, పెట్టుబడిదారులను సెలెక్టివ్‌గా ఉంచాలని కోరారు. ప్రైవేట్ బ్యాంకులు, ఫార్మా మరియు క్యాపిటల్ గూడ్స్‌లో ఉన్న అవకాశాలను ఆమె హైలైట్ చేస్తుంది, అయితే అస్థిర మార్కెట్ల మధ్య ఈక్విటీలు, బంగారం, వెండి మరియు డెట్‌లలో నగదు మరియు సమతుల్య కేటాయింపులను అస్థిరమైన విస్తరణను సిఫార్సు చేసింది.",
+      "translated": true
+    },
+    {
+      "id": "d2be475c2146b481c8482c1a2ec54525",
+      "title": "US bombs military targets Kharg Island — Why Iran's ‘orphan pearl’ matters",
+      "summary": "Kharg Island, critical for Iran's oil exports, holds 30 million barrels of capacity and exports 1.7 million bpd. U.S. strikes raise concerns over infrastructure damage, risking global oil supply.&nbsp;",
+      "url": "https://www.livemint.com/news/world/kharg-island-strategic-importance-us-bombs-military-targets-in-iran-why-irans-orphan-pearl-matters-israel-crude-oil-11773470240628.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/TOPSHOT-IRAN-US-ISRAEL-WAR-ENERGY-OIL-1_1773471366047_1773471390457.jpg",
+      "published_at": "2026-03-14T08:20:33.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఖార్గ్ ద్వీపాన్ని లక్ష్యంగా చేసుకున్న యుఎస్ సైనిక బాంబులు - ఇరాన్ యొక్క 'అనాధ ముత్యం' ఎందుకు ముఖ్యమైనది",
+      "summary_te": "ఇరాన్ చమురు ఎగుమతులకు కీలకమైన ఖార్గ్ ద్వీపం 30 మిలియన్ బ్యారెళ్ల సామర్థ్యాన్ని కలిగి ఉంది మరియు 1.7 మిలియన్ బిపిడిని ఎగుమతి చేస్తుంది. U.S. సమ్మెలు మౌలిక సదుపాయాల నష్టంపై ఆందోళనలను లేవనెత్తాయి, ప్రపంచ చమురు సరఫరా ప్రమాదంలో ఉంది. ",
+      "translated": true
+    },
     {
       "id": "6d5a1680f0c3f4f2a6608b2c3755794b",
       "title": "Why spring break travel will be extra chaotic this year",
@@ -89,25 +173,11 @@
       "translated": true
     },
     {
-      "id": "1a3976c1f569a61d1a82212d13ff1fac",
-      "title": "As crude oil price breaches $100 mark, Systematix recommends RIL, a potential multibagger and 4 more stocks to buy",
-      "summary": "As crude oil surges past $100 amid the ongoing Middle East conflict, brokerage Systematix Institutional Equities recommends buying stocks like Reliance Industries, Deep Industries and others, citing strong upside potential driven by tightening global supply dynamics.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/as-crude-oil-price-breaches-100-mark-systematix-recommends-ril-a-potential-multibagger-and-4-more-stocks-to-buy/slideshow/129570664.cms",
-      "image": null,
-      "published_at": "2026-03-14T07:13:39.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ముడి చమురు ధర $100 మార్కును అధిగమించడంతో, సిస్టమ్యాటిక్స్ RIL, సంభావ్య మల్టీబ్యాగర్ మరియు మరో 4 స్టాక్‌లను కొనుగోలు చేయాలని సిఫార్సు చేసింది.",
-      "summary_te": "కొనసాగుతున్న మధ్యప్రాచ్య సంఘర్షణల మధ్య ముడి చమురు $100 దాటడంతో, బ్రోకరేజ్ సిస్టమ్యాటిక్స్ ఇనిస్టిట్యూషనల్ ఈక్విటీలు రిలయన్స్ ఇండస్ట్రీస్, డీప్ ఇండస్ట్రీస్ మరియు ఇతర స్టాక్‌లను కొనుగోలు చేయాలని సిఫార్సు చేస్తున్నాయి, ప్రపంచ సరఫరా డైనమిక్స్‌ను కఠినతరం చేయడం ద్వారా నడపబడే బలమైన అప్‌సైడ్ సంభావ్యతను ఉటంకిస్తూ.",
-      "translated": true
-    },
-    {
       "id": "b96b4437de34138dbcd70ba00727767c",
       "title": "Blast hits Jewish school in Amsterdam, mayor decries ‘deliberate attack’",
       "summary": "The explosion took place in an upscale residential neighbourhood on the south side of Amsterdam, Mayor Femke Halsema said. No injuries have been reported thus far.",
       "url": "https://www.livemint.com/news/world/blast-hits-jewish-school-in-amsterdam-mayor-decries-deliberate-attack-11773471426837.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/police_line_1764141012303_1764141012447_1773472568331.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/NETHERLANDS-JEWISH-SCHOOL-BLAST-5_1773476940871_1773476952536.JPG",
       "published_at": "2026-03-14T06:58:57.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -142,20 +212,6 @@
       "language": "en",
       "title_te": "దాదాపు 6 నెలల తర్వాత NSA కింద సోనమ్ వాంగ్‌చుక్ నిర్బంధాన్ని కేంద్రం రద్దు చేసింది, 'లడఖ్‌కు అవసరమైన భద్రత'కు హామీ ఇచ్చింది.",
       "summary_te": "సోనమ్ వాంగ్‌చుక్ ఇప్పటికే ఎన్‌ఎస్‌ఏ కింద దాదాపు సగం నిర్బంధాన్ని అనుభవించారు.",
-      "translated": true
-    },
-    {
-      "id": "cee01720de3bd5722d02d1ad64d18a54",
-      "title": "Ashish Kacholia's picks: 6 stocks rally up to 120%, 4 drop up to 50% in FY26; 2 new Q3 bets revealed",
-      "summary": "Ace investor Ashish Kacholia’s portfolio saw mixed performance in FY26, with six stocks rallying up to 119% while several others declined as much as 56%, even as he added two new bets in the December 2025 quarter.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholias-picks-6-stocks-rally-up-to-120-4-drop-up-to-50-in-fy26-2-new-q3-bets-revealed/slideshow/129570182.cms",
-      "image": null,
-      "published_at": "2026-03-14T06:22:05.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆశిష్ కచోలియా యొక్క ఎంపికలు: FY26లో 6 స్టాక్‌లు 120% వరకు ర్యాలీ, 4 డ్రాప్ అప్ 50%; 2 కొత్త Q3 బెట్‌లు వెల్లడయ్యాయి",
-      "summary_te": "ఏస్ ఇన్వెస్టర్ ఆశిష్ కచోలియా యొక్క పోర్ట్‌ఫోలియో FY26లో మిశ్రమ పనితీరును కనబరిచింది, ఆరు స్టాక్‌లు 119% వరకు ర్యాలీ చేశాయి, అయితే అతను డిసెంబర్ 2025 త్రైమాసికంలో రెండు కొత్త బెట్‌లను జోడించినప్పటికీ, అనేక ఇతరాలు 56% వరకు క్షీణించాయి.",
       "translated": true
     },
     {
@@ -383,62 +439,6 @@
       "translated": true
     },
     {
-      "id": "9ce80748c396475ada552b08e2fb09fb",
-      "title": "Iran US war news LIVE Updates: Air Canada suspends Toronto-Dubai flights till May 1 amid Middle East conflict",
-      "summary": "Iran US war news LIVE: After nearly two weeks of fighting, the death toll has reached around 2,000, with the majority of casualties reported in Iran.",
-      "url": "https://www.livemint.com/news/world/iran-us-war-news-live-updates-trump-kharg-island-dubai-saudi-middle-east-abu-dhabi-march-14-israel-latest-news-oil-price-11773446101161.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/TOPSHOT-IRAN-US-ISRAEL-WAR-ENERGY-OIL-1_1773467956901_1773467969322.jpg",
-      "published_at": "2026-03-14T00:16:37.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ US యుద్ధ వార్తల ప్రత్యక్ష నవీకరణలు: మిడిల్ ఈస్ట్ వివాదం మధ్య ఎయిర్ కెనడా మే 1 వరకు టొరంటో-దుబాయ్ విమానాలను నిలిపివేసింది",
-      "summary_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: దాదాపు రెండు వారాల పోరాటం తర్వాత, మరణాల సంఖ్య దాదాపు 2,000కి చేరుకుంది, ఇరాన్‌లో ఎక్కువ మంది మరణించారు.",
-      "translated": true
-    },
-    {
-      "id": "dd249843fe06341da0daf1a027fbaa69",
-      "title": "US-Iran war: Trump claims military targets on Kharg Island ‘obliterated', issues fresh warning over Strait of Hormuz",
-      "summary": "Kharg Island, located roughly 30 kilometres off the Iranian mainland, handles roughly 90% of Iran's crude exports, with experts saying that any strike on the island was likely to invite retaliation from Tehran.",
-      "url": "https://www.livemint.com/news/world/us-iran-war-military-targets-on-kharg-island-obliterated-claims-trump-11773446402781.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/USA-TRUMP--15_1773446773814_1773446782064.JPG",
-      "published_at": "2026-03-14T00:10:29.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుఎస్-ఇరాన్ యుద్ధం: ఖార్గ్ ద్వీపంలోని సైనిక లక్ష్యాలు 'తొలగించబడ్డాయి' అని ట్రంప్ పేర్కొన్నాడు, హార్ముజ్ జలసంధిపై తాజా హెచ్చరిక జారీ చేశాడు",
-      "summary_te": "ఇరాన్ ప్రధాన భూభాగానికి దాదాపు 30 కిలోమీటర్ల దూరంలో ఉన్న ఖార్గ్ ద్వీపం, ఇరాన్ యొక్క ముడి ఎగుమతుల్లో దాదాపు 90% నిర్వహిస్తుంది, ద్వీపంలో ఏదైనా సమ్మె జరిగితే టెహ్రాన్ నుండి ప్రతీకారం తీర్చుకునే అవకాశం ఉందని నిపుణులు చెబుతున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "929105cfe4accb48bc9d3ed588792459",
-      "title": "US deploys 5,000 additional Marines and Sailors to Middle East amid intensifying Iran conflict: Report",
-      "summary": "The deployment, requested by CENTCOM, aims to provide rapid crisis response, protect embassies, evacuate civilians, and secure key entry points amid the ongoing conflict.",
-      "url": "https://www.livemint.com/news/us-news/us-deploys-5-000-additional-marines-and-sailors-to-middle-east-amid-intensifying-iran-conflict-report-11773435546913.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/IRAN-CRISIS--8_1773436155093_1773436165191.JPG",
-      "published_at": "2026-03-13T21:26:55.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ వివాదాన్ని తీవ్రతరం చేస్తున్న నేపథ్యంలో అమెరికా 5,000 మంది అదనపు మెరైన్లు మరియు నావికులను మిడిల్ ఈస్ట్‌కు మోహరించింది: నివేదిక",
-      "summary_te": "CENTCOM అభ్యర్థించిన విస్తరణ, త్వరిత సంక్షోభ ప్రతిస్పందనను అందించడం, రాయబార కార్యాలయాలను రక్షించడం, పౌరులను ఖాళీ చేయడం మరియు కొనసాగుతున్న సంఘర్షణల మధ్య కీలకమైన ఎంట్రీ పాయింట్లను సురక్షితం చేయడం లక్ష్యంగా పెట్టుకుంది.",
-      "translated": true
-    },
-    {
-      "id": "8fa96eabecae610f94116c9b49273ce0",
-      "title": "US offers $10 million reward for information on Mojtaba Khamenei, other key Iranian leaders",
-      "summary": "The announcement targets key Iranian figures, including Mojtaba Khamenei, Ali Larijani, Maj. Gen. Yahya Rahim Safavi, and others amid heightened Middle East tensions following US and Israeli strikes.",
-      "url": "https://www.livemint.com/news/us-news/us-offers-10-million-reward-for-information-on-mojtaba-khamenei-key-iranian-leaders-11773431767741.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/13/1600x900/logo/Turkey-Iran-US-Israel-1_1773433111869_1773433126870.jpg",
-      "published_at": "2026-03-13T20:53:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇతర కీలక ఇరాన్ నాయకులైన మొజ్తాబా ఖమేనీ గురించి సమాచారం ఇస్తే US $10 మిలియన్ రివార్డ్‌ను అందిస్తోంది",
-      "summary_te": "US మరియు ఇజ్రాయెల్ దాడుల తర్వాత మధ్యప్రాచ్యంలో తీవ్ర ఉద్రిక్తతల మధ్య ఈ ప్రకటన Mojtaba Khamenei, Ali Larijani, Maj. General Yahya Rahim Safavi మరియు ఇతరులతో సహా కీలకమైన ఇరాన్ వ్యక్తులను లక్ష్యంగా చేసుకుంది.",
-      "translated": true
-    },
-    {
       "id": "45bacd28cc11d478b3ac1e34ed0aa8d6",
       "title": "Oil shock, inflation pressures dampen RBI rate-cut hopes",
       "summary": "Economists believe India's policy interest rate cuts are unlikely to continue due to West Asia crisis-driven inflation risks and the fading of a favorable base effect. Sustained foreign outflows and a weakening rupee could also force the Reserve Bank of India to reconsider further easing, potentially even a hike.",
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
-      "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిస్వా శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
+      "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
       "translated": true
     },
     {
@@ -560,7 +560,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "2047 నాటికి విక్షిత్ భారత్ కోసం 'ఛాంపియన్ CPSE'లను ప్రభుత్వం ప్లాన్ చేస్తుంది, నీతి ఆయోగ్ రోడ్‌మ్యాప్ త్వరలో",
+      "title_te": "2047 నాటికి విక్షిత్ భారత్ కోసం ‘ఛాంపియన్ CPSE’లను ప్రభుత్వం ప్లాన్ చేస్తుంది, నీతి ఆయోగ్ రోడ్‌మ్యాప్ త్వరలో",
       "summary_te": "'ఛాంపియన్' ప్రభుత్వ రంగ సంస్థలను రూపొందించేందుకు భారత్ సిద్ధమవుతోంది. ఈ సంస్థలు ఆర్థిక వృద్ధిని మరియు సాంకేతికతను పెంచుతాయి. 2047 నాటికి భారతదేశాన్ని అభివృద్ధి చెందిన దేశంగా మార్చడం లక్ష్యం. ఈ కంపెనీలు నిర్ణయాలు మరియు ప్రతిభను నియమించుకోవడంలో మరింత స్వేచ్ఛను పొందుతాయి. మెరుగైన పనితీరు కోసం వారు కొత్త సాంకేతికతలను ఉపయోగిస్తారు.",
       "translated": true
     },
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -603,7 +603,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
-      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ వాతావరణ చర్యను ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు, అయితే వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
+      "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -617,7 +617,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎప్స్టీన్ అరెస్టు తర్వాత ఆమె డబ్బును తరలించి, కొన్నాళ్లపాటు ఘిస్లైన్ మాక్స్‌వెల్‌ను UBS బ్యాంకింగ్ చేసింది",
-      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత కూడా UBS మాక్స్‌వెల్ కోసం మిలియన్ల మందిని నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీసింది.",
+      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత సహా మాక్స్‌వెల్ కోసం UBS మిలియన్ల కొద్దీ నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీశాయి.",
       "translated": true
     },
     {
@@ -911,7 +911,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ప్రభుత్వం, కంపెనీలు కృత్రిమ మేధస్సును అవలంబించాల్సిన సమయం: డెలాయిట్ ఇండియా",
-      "summary_te": "\"భారతీయ కంపెనీలు AI సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే, తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను సంపాదించుకోవాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
+      "summary_te": "\"ఏఐ సాంకేతికతలను విజయవంతంగా ఏకీకృతం చేయాలంటే భారతీయ కంపెనీలు తిరిగి నైపుణ్యం, శిక్షణ మరియు మరింత సంబంధిత ప్రతిభను పొందాలి. మరీ ముఖ్యంగా, వారు నిరంతర పెట్టుబడి పెట్టడానికి సిద్ధంగా ఉండాలి. ఇది ఒక ఎత్తైన రేసులో విజేతలు మరియు ఓడిపోయినవారు ఉంటారు,\" అని డెలాయిట్ ఇండియా CEO N వెంకట్రామ్ అన్నారు.",
       "translated": true
     }
   ]
