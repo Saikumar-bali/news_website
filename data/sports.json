@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-14T06:45:59.831Z",
-  "updated_at_IST": "14/3/2026, 12:15:59 pm",
+  "updated_at": "2026-03-14T07:42:17.814Z",
+  "updated_at_IST": "14/3/2026, 1:12:17 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "01d7a9e8d2d0aeb92f99543d0df79d14",
+      "title": "Hunt, Manenti half-centuries help South Australia's chase for the final",
+      "summary": "Hunt made a patient 81 and Manenti 53 as South Australia posted 295 for 9 on the opening day with Boland and Murphy taking three wickets each",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527904.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414668.jpg",
+      "published_at": "2026-03-14T07:18:45.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హంట్, మనేంటి హాఫ్ సెంచరీలు సౌత్ ఆస్ట్రేలియా ఫైనల్ ఛేజింగ్‌లో సహాయపడతాయి",
+      "summary_te": "బోలాండ్ మరియు మర్ఫీలు తలో మూడు వికెట్లు పడగొట్టడంతో, హంట్ 81, మానేంటి 53 పరుగులతో ఓపికగా నిలిచారు.",
+      "translated": true
+    },
+    {
+      "id": "7d47186b34308ff3b781bda0327173cf",
+      "title": "New-look New Zealand and South Africa begin road to 2028 T20 World Cup",
+      "summary": "Just ten days ago these two sides met in the T20 World Cup semi-final, but the five-match series offers an opportunity to begin early auditions for the next big event",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527909.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414365.jpg",
+      "published_at": "2026-03-14T07:15:49.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కొత్తగా కనిపించే న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా 2028 T20 ప్రపంచ కప్‌కు మార్గాన్ని ప్రారంభించాయి",
+      "summary_te": "పది రోజుల క్రితం ఈ రెండు జట్లు T20 ప్రపంచ కప్ సెమీ-ఫైనల్‌లో తలపడ్డాయి, అయితే ఐదు మ్యాచ్‌ల సిరీస్ తదుపరి పెద్ద ఈవెంట్ కోసం ముందస్తు ఆడిషన్‌లను ప్రారంభించడానికి అవకాశాన్ని అందిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "f21ee9804e3e9ee6737c086fa1134dd7",
+      "title": "Rahul Dravid, Mithali Raj and Roger Binny win BCCI Lifetime Achievement awards",
+      "summary": "Shubman Gill and Smriti Mandhana have been named India's best international cricketers among men and women respctively for the 2024-25 season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527911.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414671.jpg",
+      "published_at": "2026-03-14T07:10:31.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రాహుల్ ద్రవిడ్, మిథాలీ రాజ్, రోజర్ బిన్నీలు బీసీసీఐ లైఫ్‌టైమ్ అచీవ్‌మెంట్ అవార్డులను గెలుచుకున్నారు",
+      "summary_te": "2024-25 సీజన్‌లో పురుషుల మరియు మహిళలలో భారత అత్యుత్తమ అంతర్జాతీయ క్రికెటర్లుగా శుభ్‌మన్ గిల్ మరియు స్మృతి మంధాన ఎంపికయ్యారు.",
+      "translated": true
+    },
     {
       "id": "83d188e1ca2ec1f374c1732e685575e1",
       "title": "Agha calls for 'sportsman spirit' after controversial dismissal",
@@ -197,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
+      "summary_te": "అక్టోబర్ 2023 తర్వాత వెస్టిండీస్ తొలిసారిగా అంతర్జాతీయ మ్యాచ్‌లో ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     },
     {
@@ -267,7 +309,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ త్వరితగతిన సిరీస్ విజయాన్ని లక్ష్యంగా చేసుకోవడంతో పాకిస్తాన్ తమ ఆటను పెంచుకోవాలని చూస్తోంది",
-      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది, మరియు అక్కడ నలుగురు అరంగేట్ర బ్యాటర్‌లను రంగంలోకి దించిన పాకిస్తాన్, తమ బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారీస్ రౌఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
+      "summary_te": "బంగ్లాదేశ్ మొదటి ODIలో మచ్చలేని ఆటను ఆడింది మరియు అక్కడ నలుగురు అరంగేట్రం బ్యాటర్లను రంగంలోకి దించిన పాకిస్తాన్, వారి బౌలింగ్ దాడిని బలోపేతం చేయడానికి హారిస్ రవూఫ్‌ను తీసుకురావాలని అనుకోవచ్చు.",
       "translated": true
     },
     {
@@ -299,20 +341,6 @@
       "translated": true
     },
     {
-      "id": "f05e7dffdaf299b187138b895241fbd6",
-      "title": "Lisa Keightley 'disappointed' at lack of female head coaches in women's Hundred",
-      "summary": "MI London head coach was the only woman in her role among the eight teams at Wednesday's historic auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527719.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414627.jpg",
-      "published_at": "2026-03-12T03:51:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మహిళల హండ్రెడ్‌లో మహిళా ప్రధాన కోచ్‌లు లేకపోవడంతో లిసా కీట్లీ 'నిరాశ' చెందారు",
-      "summary_te": "బుధవారం జరిగిన చారిత్రాత్మక వేలంలో ఎనిమిది జట్లలో తన పాత్రలో MI లండన్ ప్రధాన కోచ్ మాత్రమే ఉన్నారు.",
-      "translated": true
-    },
-    {
       "id": "d45135e6e59db66bd744c0f1c63e2577",
       "title": "Patterson reflects on 'wild' day after New South Wales seize their chance",
       "summary": "The One-Day Cup final was just minutes from being called off which would have handed Tasmania the title",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "న్యూ సౌత్ వేల్స్ తమ అవకాశాన్ని చేజిక్కించుకున్న తర్వాత ప్యాటర్సన్ 'వైల్డ్' రోజును ప్రతిబింబిస్తుంది",
       "summary_te": "వన్-డే కప్ ఫైనల్ రద్దు కావడానికి కొన్ని నిమిషాల్లోనే టాస్మానియా టైటిల్‌ను అందజేసేది",
-      "translated": true
-    },
-    {
-      "id": "48064bac2e7e1ef1b3ab02f1318e81d4",
-      "title": "Beth Mooney, Sophie Devine earn £210,000 Hundred paydays",
-      "summary": "Dani Gibson sold for £190,000 as franchises splash out on first morning of women's auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527669.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414624.jpg",
-      "published_at": "2026-03-11T17:59:55.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బెత్ మూనీ, సోఫీ డివైన్ £210,000 వందల చెల్లింపు రోజులు సంపాదిస్తారు",
-      "summary_te": "డాని గిబ్సన్ £190,000కి అమ్ముడయ్యాయి, ఎందుకంటే మహిళల వేలం మొదటి ఉదయం ఫ్రాంచైజీలు స్ప్లాష్ చేయబడ్డాయి",
-      "translated": true
-    },
-    {
-      "id": "64f5310f8c06d6f8863b71877c0343b0",
-      "title": "The Hundred 2026: How the women's teams stack up after the auction",
-      "summary": "All the eight squads with each player's winning bid at the auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527706.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414614.jpg",
-      "published_at": "2026-03-11T17:27:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ది హండ్రెడ్ 2026: వేలం తర్వాత మహిళల జట్లు ఎలా ఉన్నాయి",
-      "summary_te": "వేలంలో ప్రతి ఆటగాడి విజేత బిడ్‌తో మొత్తం ఎనిమిది స్క్వాడ్‌లు",
       "translated": true
     }
   ]
