@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-03-14T07:42:17.814Z",
-  "updated_at_IST": "14/3/2026, 1:12:17 pm",
+  "updated_at": "2026-03-14T08:32:29.422Z",
+  "updated_at_IST": "14/3/2026, 2:02:29 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "f012dcbb8325da875456defa91a16319",
+      "title": "Neser takes five to keep Queensland in Shield final race",
+      "summary": "Queensland lost Renshaw and Labuschagne in slumping to 48 for 3 after Neser took 5 for 37 to dismiss Tasmania for 198 on day one",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527905.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com",
+      "published_at": "2026-03-14T08:18:06.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "షీల్డ్ ఫైనల్ రేసులో క్వీన్స్‌లాండ్‌ను ఉంచడానికి నెసెర్ ఐదుగురిని తీసుకుంటాడు",
+      "summary_te": "మొదటి రోజు టాస్మానియాను 198 పరుగుల వద్ద ఔట్ చేయడానికి నెసెర్ 37 పరుగులకు 5 వికెట్లు పడగొట్టడంతో క్వీన్స్‌లాండ్ రెన్షా మరియు లాబుస్‌చాగ్నేలను 3 వికెట్లకు 48 పరుగులకు కోల్పోయింది.",
+      "translated": true
+    },
+    {
+      "id": "3b57bb49aaab768bf648668c346fd09b",
+      "title": "Not 114, the other one - Bangladesh, Pakistan hope batters come good in decider",
+      "summary": "Both the ODIs so far have been one-sided affairs, and an even contest to decide the series will work best for the fans... but the weather might have a say again",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527916.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
+      "published_at": "2026-03-14T08:01:17.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "114 కాదు, మరొకటి - బంగ్లాదేశ్, పాకిస్థాన్ బ్యాటర్లు నిర్ణయాత్మకంగా మెరుగ్గా వస్తారని ఆశిస్తున్నాను",
+      "summary_te": "ఇప్పటి వరకు జరిగిన రెండు ODIలు ఏకపక్ష వ్యవహారాలు, మరియు సిరీస్‌ను నిర్ణయించే సమ పోటీ అభిమానులకు ఉత్తమంగా పని చేస్తుంది... కానీ వాతావరణం మళ్లీ చెప్పవచ్చు.",
+      "translated": true
+    },
     {
       "id": "01d7a9e8d2d0aeb92f99543d0df79d14",
       "title": "Hunt, Manenti half-centuries help South Australia's chase for the final",
       "summary": "Hunt made a patient 81 and Manenti 53 as South Australia posted 295 for 9 on the opening day with Boland and Murphy taking three wickets each",
       "url": "https://www.espncricinfo.com/ci/content/story/1527904.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414668.jpg",
-      "published_at": "2026-03-14T07:18:45.000Z",
+      "published_at": "2026-03-14T07:30:19.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "మార్చి 13న చిన్నస్వామి తుది తనిఖీకి కర్ణాటక ప్రభుత్వం నియమించిన నిపుణులు",
       "summary_te": "IPL 2026 మరియు ఇతర మ్యాచ్‌లకు ఆతిథ్యం ఇవ్వడానికి బెంగళూరు స్టేడియంపై అధికారిక ముద్ర వేయబడిందని KSCA అంచనా వేసింది.",
-      "translated": true
-    },
-    {
-      "id": "9c20ce1c23aabe6debf43a121ee6be47",
-      "title": "Bim10 corruption: Javon Searles among three provisionally suspended",
-      "summary": "Team owner Chitranjan Rathod and official Trevon Griffith also charged under anti-corruption codes",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527737.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/276500/276501.jpg",
-      "published_at": "2026-03-12T06:13:24.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "Bim10 అవినీతి: తాత్కాలికంగా సస్పెండ్ చేయబడిన ముగ్గురిలో జావోన్ సియర్ల్స్",
-      "summary_te": "టీమ్ ఓనర్ చిత్రాంజన్ రాథోడ్ మరియు అధికారి ట్రెవాన్ గ్రిఫిత్ కూడా అవినీతి నిరోధక కోడ్‌ల కింద అభియోగాలు మోపారు.",
-      "translated": true
-    },
-    {
-      "id": "d45135e6e59db66bd744c0f1c63e2577",
-      "title": "Patterson reflects on 'wild' day after New South Wales seize their chance",
-      "summary": "The One-Day Cup final was just minutes from being called off which would have handed Tasmania the title",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527720.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414618.jpg",
-      "published_at": "2026-03-12T00:41:21.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూ సౌత్ వేల్స్ తమ అవకాశాన్ని చేజిక్కించుకున్న తర్వాత ప్యాటర్సన్ 'వైల్డ్' రోజును ప్రతిబింబిస్తుంది",
-      "summary_te": "వన్-డే కప్ ఫైనల్ రద్దు కావడానికి కొన్ని నిమిషాల్లోనే టాస్మానియా టైటిల్‌ను అందజేసేది",
       "translated": true
     }
   ]
