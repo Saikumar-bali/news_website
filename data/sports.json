@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T14:32:34.932Z",
-  "updated_at_IST": "15/3/2026, 8:02:34 pm",
+  "updated_at": "2026-03-15T15:30:36.027Z",
+  "updated_at_IST": "15/3/2026, 9:00:36 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e0d81682e2bb5e5146fcac351eaa187c",
+      "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
+      "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
+      "published_at": "2026-03-15T14:25:52.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్ మాజీ కెప్టెన్ సర్ఫరాజ్ అహ్మద్ అంతర్జాతీయ క్రికెట్‌కు రిటైర్మెంట్ ప్రకటించాడు",
+      "summary_te": "అతను 54 టెస్టులు, 117 ODIలు మరియు 61 T20Iలతో ముగించాడు మరియు ఇమ్రాన్ ఖాన్ తర్వాత 50 ఓవర్ల ICC ట్రోఫీని ఎత్తిన ఏకైక పాక్ కెప్టెన్‌గా నిలిచాడు.",
+      "translated": true
+    },
     {
       "id": "ddd3cd197436fe97f1496790663f6eab",
       "title": "Tanzid ton gives Bangladesh fighting total on bouncy pitch",
@@ -16,20 +30,6 @@
       "language": "en",
       "title_te": "టాంజిద్ టన్ బౌన్సీ పిచ్‌పై బంగ్లాదేశ్‌కు పోరాట టోటల్‌ని అందించాడు",
       "summary_te": "స్పిన్నర్లు మరియు సీమర్‌లకు కొంత సహకారం లభించిన పిచ్‌పై కోలుకోకముందే పాకిస్తాన్ బౌలర్లు పేలవంగా ప్రారంభించారు",
-      "translated": true
-    },
-    {
-      "id": "e0d81682e2bb5e5146fcac351eaa187c",
-      "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
-      "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
-      "published_at": "2026-03-15T11:43:41.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పాకిస్థాన్ మాజీ కెప్టెన్ సర్ఫరాజ్ అహ్మద్ అంతర్జాతీయ క్రికెట్‌కు రిటైర్మెంట్ ప్రకటించాడు",
-      "summary_te": "అతను 54 టెస్టులు, 117 ODIలు మరియు 61 T20Iలతో ముగించాడు మరియు ఇమ్రాన్ ఖాన్ తర్వాత 50 ఓవర్ల ICC ట్రోఫీని ఎత్తిన ఏకైక పాక్ కెప్టెన్‌గా నిలిచాడు.",
       "translated": true
     },
     {
