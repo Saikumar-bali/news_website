@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-15T04:34:27.129Z",
-  "updated_at_IST": "15/3/2026, 10:04:27 am",
+  "updated_at": "2026-03-15T06:12:57.331Z",
+  "updated_at_IST": "15/3/2026, 11:42:57 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "7b43737bca263268da237407b9cd0a9c",
+      "title": "Amelia Kerr and Georgia Plimmer steamroll South Africa",
+      "summary": "They put on a 146-run partnership, the fourth-highest for New Zealand in women's T20Is to seal victory",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528020.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414680.jpg",
+      "published_at": "2026-03-15T05:49:47.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "అమేలియా కెర్ మరియు జార్జియా ప్లిమ్మర్ సౌత్ ఆఫ్రికా స్టీమ్ రోల్",
+      "summary_te": "వారు 146 పరుగుల భాగస్వామ్యాన్ని నెలకొల్పారు, మహిళల టీ20లలో న్యూజిలాండ్‌కు నాల్గవ అత్యధిక విజయాన్ని అందించారు.",
+      "translated": true
+    },
+    {
+      "id": "ebee1c8b5bbcc4e88ffc792a11d9d3a9",
+      "title": "South Australia into Shield final after Queensland fail on bonus points",
+      "summary": "Queensland were bowled out for 178 in the first innings against Tasmania meaning they will not get the required bonus points to pass South Australia even with a win",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528004.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414683.jpg",
+      "published_at": "2026-03-15T04:28:31.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "క్వీన్స్‌లాండ్ బోనస్ పాయింట్లతో విఫలమైన తర్వాత దక్షిణ ఆస్ట్రేలియా షీల్డ్ ఫైనల్‌లోకి ప్రవేశించింది",
+      "summary_te": "టాస్మానియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ తొలి ఇన్నింగ్స్‌లో 178 పరుగులకు ఆలౌటైంది, అంటే విజయం సాధించినా సౌత్ ఆస్ట్రేలియాను అధిగమించేందుకు అవసరమైన బోనస్ పాయింట్లను పొందలేము.",
+      "translated": true
+    },
     {
       "id": "2c22c4b839d92fd3921f9c13347c35c5",
       "title": "MCA launches women's edition of T20 Mumbai League",
@@ -257,20 +285,6 @@
       "translated": true
     },
     {
-      "id": "0e7659a0d663336cb3268498e7670240",
-      "title": "Sunrisers Leeds sign Pakistan spinner Abrar Ahmed in Hundred auction",
-      "summary": "Abrar is first Pakistan player bought by an Indian-owned Hundred team; Sussex's James Coles goes for £390,000",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527775.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414642.jpg",
-      "published_at": "2026-03-13T12:26:38.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సన్‌రైజర్స్ లీడ్స్ హండ్రెడ్ వేలంలో పాకిస్థాన్ స్పిన్నర్ అబ్రార్ అహ్మద్‌తో ఒప్పందం చేసుకుంది",
-      "summary_te": "అబ్రార్ భారతదేశానికి చెందిన హండ్రెడ్ జట్టు కొనుగోలు చేసిన మొదటి పాకిస్తాన్ ఆటగాడు; సస్సెక్స్ యొక్క జేమ్స్ కోల్స్ £390,000కి వెళుతుంది",
-      "translated": true
-    },
-    {
       "id": "16e894019376c8c45f0f83538d9542cc",
       "title": "'Proud moment for the women's game' - Devine on Hundred auction",
       "summary": "Devine was in demand during the auction, securing a bid of £210,000 from Welsh Fire",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "NZ అసైన్‌మెంట్‌లతో ఘర్షణ ఉన్నప్పటికీ రోంచీ మరియు ఓరం PSLలో కోచ్‌గా ఉన్నారు",
       "summary_te": "న్యూజిలాండ్ బ్యాటింగ్ మరియు బౌలింగ్ కోచ్ ల్యూక్ రోంచి మరియు జాకబ్ ఓరమ్ దక్షిణాఫ్రికా మరియు బంగ్లాదేశ్‌లతో జరిగే సిరీస్‌లో ఇస్లామాబాద్ యునైటెడ్‌లో తమ స్థానాలను తీసుకుంటారు.",
-      "translated": true
-    },
-    {
-      "id": "047c1e90a904d8c083fd04a93d3cd52c",
-      "title": "West Indies name unchanged squad for home T20Is against Australia",
-      "summary": "West Indies will be facing Australia for the first time in an international match since October 2023",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527786.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/402500/402538.jpg",
-      "published_at": "2026-03-12T18:45:48.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆస్ట్రేలియాతో స్వదేశంలో జరిగే టీ20లకు వెస్టిండీస్ జట్టులో ఎలాంటి మార్పు లేదు",
-      "summary_te": "అక్టోబర్ 2023 తర్వాత అంతర్జాతీయ మ్యాచ్‌లో వెస్టిండీస్ తొలిసారి ఆస్ట్రేలియాతో తలపడనుంది",
       "translated": true
     }
   ]
