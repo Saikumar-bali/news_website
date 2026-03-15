@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-15T07:51:15.774Z",
-  "updated_at_IST": "15/3/2026, 1:21:15 pm",
+  "updated_at": "2026-03-15T08:37:10.707Z",
+  "updated_at_IST": "15/3/2026, 2:07:10 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "70b917ebdfda6bf153e1aa2ae6982574",
+      "title": "Quote of the day by American poet Robert Frost: ‘I took the one less traveled by…’",
+      "summary": "Robert Frost's famous lines about choosing the unconventional path resonate in today's world, where social media trends dictate lifestyles. The poem emphasizes that choices shape our identity.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-american-poet-robert-frost-i-took-the-one-less-traveled-by-11773560540640.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/Robert_Frost_1773561038636_1773561044291.jpg",
+      "published_at": "2026-03-15T07:53:33.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అమెరికన్ కవి రాబర్ట్ ఫ్రాస్ట్ యొక్క కోట్ ఆఫ్ ది డే: 'నేను తక్కువ ప్రయాణించినదాన్ని తీసుకున్నాను...'",
+      "summary_te": "సాంప్రదాయేతర మార్గాన్ని ఎంచుకోవడం గురించి రాబర్ట్ ఫ్రాస్ట్ యొక్క ప్రసిద్ధ పంక్తులు నేటి ప్రపంచంలో ప్రతిధ్వనిస్తున్నాయి, ఇక్కడ సోషల్ మీడియా పోకడలు జీవనశైలిని నిర్దేశిస్తాయి. ఎంపికలు మన గుర్తింపును రూపొందిస్తాయని పద్యం నొక్కి చెబుతుంది.",
+      "translated": true
+    },
+    {
+      "id": "41472887665431b62ca6d2c7cd23222a",
+      "title": "Rising geopolitics and indigenisation push place India’s defence sector in a structural growth cycle",
+      "summary": "India's defence sector is experiencing a new growth phase driven by rising global security concerns, government initiatives prioritising domestic manufacturing, and a strong procurement pipeline. Opportunities are expanding for Indian manufacturers, particularly in export markets, as the nation strengthens its self-reliance in defence production.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rising-geopolitics-and-indigenisation-push-place-indias-defence-sector-in-a-structural-growth-cycle/articleshow/129586356.cms",
+      "image": null,
+      "published_at": "2026-03-15T07:41:09.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "పెరుగుతున్న భౌగోళిక రాజకీయాలు మరియు స్వదేశీకరణ పుష్ భారతదేశ రక్షణ రంగాన్ని నిర్మాణాత్మక వృద్ధి చక్రంలో ఉంచుతాయి",
+      "summary_te": "పెరుగుతున్న ప్రపంచ భద్రతా ఆందోళనలు, దేశీయ తయారీకి ప్రాధాన్యతనిచ్చే ప్రభుత్వ కార్యక్రమాలు మరియు బలమైన సేకరణ పైప్‌లైన్ ద్వారా భారతదేశ రక్షణ రంగం కొత్త వృద్ధి దశను ఎదుర్కొంటోంది. రక్షణ ఉత్పత్తిలో దేశం తన స్వావలంబనను బలోపేతం చేస్తున్నందున, భారతీయ తయారీదారులకు, ముఖ్యంగా ఎగుమతి మార్కెట్లలో అవకాశాలు విస్తరిస్తున్నాయి.",
+      "translated": true
+    },
     {
       "id": "7eb75b3aa2c894f3a07c7d6ba0384fa3",
       "title": "Bus carrying Indian pilgrims plunges down slope killing seven in Nepal's Gandaki",
@@ -72,20 +100,6 @@
       "language": "en",
       "title_te": "దాల్ మఖ్నీ మరియు మటన్ తర్వాత, LPG కొరత ఇప్పుడు ఆగ్రా యొక్క దిగ్గజ 'పేట' పరిశ్రమను ఉక్కిరిబిక్కిరి చేస్తుంది",
       "summary_te": "వాణిజ్య LPG కొరత కారణంగా నూరి దర్వాజాలో తయారీ యూనిట్లు మూతపడటంతో ఆగ్రా యొక్క దిగ్గజ పేట పరిశ్రమ సంక్షోభంలో ఉంది - మరియు జిల్లా యంత్రాంగం ఎటువంటి సమస్య లేదని చెప్పింది.",
-      "translated": true
-    },
-    {
-      "id": "e82547441f4b6938b2545a5d68023a68",
-      "title": "Mutual fund NFOs: 2 ETFs will open for subscription now on Monday. Check details",
-      "summary": "Two new passive funds, a commodity-based ETF and a mid-cap ETF, are opening for subscription on Monday. The HSBC Gold ETF closes on March 18, and the SBI Nifty Midcap 150 ETF closes on March 24, both with a minimum investment of Rs 5,000. Investors are advised to choose funds based on their individual risk profiles and financial goals.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-fund-nfos-2-etfs-will-open-for-subscription-now-on-monday-check-details/slideshow/129585418.cms",
-      "image": null,
-      "published_at": "2026-03-15T05:46:19.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మ్యూచువల్ ఫండ్ NFOలు: 2 ETFలు ఇప్పుడు సోమవారం నుండి సబ్‌స్క్రిప్షన్ కోసం తెరవబడతాయి. వివరాలను తనిఖీ చేయండి",
-      "summary_te": "రెండు కొత్త పాసివ్ ఫండ్‌లు, కమోడిటీ ఆధారిత ఇటిఎఫ్ మరియు మిడ్ క్యాప్ ఇటిఎఫ్ సోమవారం సబ్‌స్క్రిప్షన్ కోసం తెరవబడుతున్నాయి. HSBC గోల్డ్ ETF మార్చి 18న ముగుస్తుంది మరియు SBI నిఫ్టీ మిడ్‌క్యాప్ 150 ETF మార్చి 24న ముగుస్తుంది, రెండూ కనీసం రూ. 5,000 పెట్టుబడితో. పెట్టుబడిదారులు తమ వ్యక్తిగత రిస్క్ ప్రొఫైల్‌లు మరియు ఆర్థిక లక్ష్యాల ఆధారంగా ఫండ్‌లను ఎంచుకోవాలని సూచించారు.",
       "translated": true
     },
     {
@@ -422,20 +436,6 @@
       "language": "en",
       "title_te": "న్యూయార్క్ నగరం తీవ్రమైన Mpox జాతికి సంబంధించిన మొదటి కేసును గుర్తించింది, ఆరోగ్య శాఖ సలహా ఇస్తుంది - మీరు తెలుసుకోవలసినవన్నీ",
       "summary_te": "Mpox అనేది ఒక అంటు వ్యాధి, ఇది బాధాకరమైన దద్దుర్లు, వాపు శోషరస గ్రంథులు, జ్వరం, తలనొప్పి, కండరాల నొప్పులు, వెన్నునొప్పి మరియు అలసట వంటి లక్షణాలను కలిగిస్తుంది. Mpox క్లాడ్ I అని పిలువబడే అత్యంత తీవ్రమైన Mpox జాతికి సంబంధించిన మొదటి కేసు శనివారం న్యూయార్క్ నగరంలో కనుగొనబడింది.",
-      "translated": true
-    },
-    {
-      "id": "5f55b50cae54d07092aa8dc5ed8f6ced",
-      "title": "Quote of the day by Muhammad Ali on importance of time: ‘Don’t count the days…’",
-      "summary": "The quote encourages people to shift their perspective on time. Rather than passively waiting for milestones such as weekends, holidays or retirement.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-muhammad-ali-on-importance-of-time-don-t-count-the-days-11773506546564.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/Muhammad-Ali-Stamp-2_1773507942796_1773507953308.jpg",
-      "published_at": "2026-03-14T17:15:18.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సమయం యొక్క ప్రాముఖ్యతపై ముహమ్మద్ అలీ ద్వారా రోజు యొక్క కోట్: 'రోజులను లెక్కించవద్దు...'",
-      "summary_te": "కోట్ ప్రజలను వారి దృక్పథాన్ని సమయానికి మార్చడానికి ప్రోత్సహిస్తుంది. వారాంతాల్లో, సెలవులు లేదా పదవీ విరమణ వంటి మైలురాళ్ల కోసం నిష్క్రియంగా వేచి ఉండకుండా.",
       "translated": true
     },
     {

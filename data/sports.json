@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-15T07:51:15.774Z",
-  "updated_at_IST": "15/3/2026, 1:21:15 pm",
+  "updated_at": "2026-03-15T08:37:10.707Z",
+  "updated_at_IST": "15/3/2026, 2:07:10 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ddd3cd197436fe97f1496790663f6eab",
+      "title": "Pakistan bowl, make three changes for series decider",
+      "summary": "Bangladesh went with the same XI despite losing the loss in their previous game",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com",
+      "published_at": "2026-03-15T08:11:08.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్ బౌలింగ్, సిరీస్ డిసైడర్ కోసం మూడు మార్పులు చేయండి",
+      "summary_te": "బంగ్లాదేశ్ తమ మునుపటి గేమ్‌లో ఓడిపోయినప్పటికీ అదే XIతో వెళ్లింది",
+      "translated": true
+    },
+    {
+      "id": "eb1f02cec4a7a65e75152429dd882157",
+      "title": "Khawaja's first-class career ends as Queensland miss Sheffield Shield final",
+      "summary": "Incumbent Test opener Jake Weatherlad struck a rapid half-century after Tasmania's top order wobbled",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527995.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414687.jpg",
+      "published_at": "2026-03-15T08:09:11.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "క్వీన్స్‌లాండ్ మిస్ షెఫీల్డ్ షీల్డ్ ఫైనల్‌తో ఖవాజా ఫస్ట్-క్లాస్ కెరీర్ ముగిసింది",
+      "summary_te": "టాస్మానియా టాప్ ఆర్డర్ తడబడిన తర్వాత ప్రస్తుత టెస్ట్ ఓపెనర్ జేక్ వెదర్‌లాడ్ వేగంగా అర్ధసెంచరీ చేశాడు.",
+      "translated": true
+    },
+    {
+      "id": "e838e2a7069c8c0dcf8a7ce3d65af990",
+      "title": "Green signs off season by ending century drought",
+      "summary": "After taking 21 balls to open his account, Green launched five sixes in his first century in any format since last August",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527996.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414686.jpg",
+      "published_at": "2026-03-15T08:06:50.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "శతాబ్దపు కరువును ముగించడం ద్వారా సీజన్ ఆఫ్ గ్రీన్ సంకేతాలు",
+      "summary_te": "తన ఖాతా తెరవడానికి 21 బంతులు తీసుకున్న తర్వాత, గ్రీన్ గత ఆగస్టు నుండి ఏ ఫార్మాట్‌లోనైనా తన మొదటి సెంచరీలో ఐదు సిక్సర్లు బాదాడు.",
+      "translated": true
+    },
+    {
+      "id": "ebee1c8b5bbcc4e88ffc792a11d9d3a9",
+      "title": "Doggett a chance for Shield final after South Australia qualify on bonus points",
+      "summary": "Queensland were bowled out for 178 in the first innings against Tasmania meaning they will not get the required bonus points to pass South Australia even with a win",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528004.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413100/413104.jpg",
+      "published_at": "2026-03-15T08:06:32.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "దక్షిణ ఆస్ట్రేలియా బోనస్ పాయింట్లతో అర్హత సాధించిన తర్వాత డాగెట్‌కు షీల్డ్ ఫైనల్‌కు అవకాశం",
+      "summary_te": "టాస్మానియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ తొలి ఇన్నింగ్స్‌లో 178 పరుగులకు ఆలౌటైంది, అంటే విజయం సాధించినా సౌత్ ఆస్ట్రేలియాను అధిగమించేందుకు అవసరమైన బోనస్ పాయింట్లను పొందలేము.",
+      "translated": true
+    },
+    {
+      "id": "3b57bb49aaab768bf648668c346fd09b",
+      "title": "Not 114, the other one - Bangladesh, Pakistan hope batters come good in decider",
+      "summary": "Both the ODIs so far have been one-sided affairs, and an even contest to decide the series will work best for the fans... but the weather might have a say again",
+      "url": "https://www.espncricinfo.com/ci/content/story/1527916.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
+      "published_at": "2026-03-15T07:57:10.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "114 కాదు, మరొకటి - బంగ్లాదేశ్, పాకిస్థాన్ బ్యాటర్లు నిర్ణయాత్మకంగా మెరుగ్గా వస్తారని ఆశిస్తున్నాను",
+      "summary_te": "ఇప్పటి వరకు జరిగిన రెండు ODIలు ఏకపక్ష వ్యవహారాలు, మరియు సిరీస్‌ను నిర్ణయించే సమ పోటీ అభిమానులకు ఉత్తమంగా పని చేస్తుంది... కానీ వాతావరణం మళ్లీ చెప్పవచ్చు.",
+      "translated": true
+    },
     {
       "id": "962cfe5ba6fb6d011d3b60d627260554",
       "title": "Kellaway leads Victoria's graft as SA qualify for final on bonus points",
@@ -44,20 +114,6 @@
       "language": "en",
       "title_te": "అమేలియా కెర్ మరియు జార్జియా ప్లిమ్మర్ సౌత్ ఆఫ్రికా స్టీమ్ రోల్",
       "summary_te": "వారు 146 పరుగుల భాగస్వామ్యాన్ని నెలకొల్పారు, మహిళల టీ20లలో న్యూజిలాండ్‌కు నాల్గవ అత్యధిక విజయాన్ని అందించారు.",
-      "translated": true
-    },
-    {
-      "id": "ebee1c8b5bbcc4e88ffc792a11d9d3a9",
-      "title": "South Australia into Shield final after Queensland fail on bonus points",
-      "summary": "Queensland were bowled out for 178 in the first innings against Tasmania meaning they will not get the required bonus points to pass South Australia even with a win",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528004.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414683.jpg",
-      "published_at": "2026-03-15T04:28:31.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "క్వీన్స్‌లాండ్ బోనస్ పాయింట్లతో విఫలమైన తర్వాత దక్షిణ ఆస్ట్రేలియా షీల్డ్ ఫైనల్‌లోకి ప్రవేశించింది",
-      "summary_te": "టాస్మానియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ తొలి ఇన్నింగ్స్‌లో 178 పరుగులకు ఆలౌటైంది, అంటే విజయం సాధించినా సౌత్ ఆస్ట్రేలియాను అధిగమించేందుకు అవసరమైన బోనస్ పాయింట్లను పొందలేము.",
       "translated": true
     },
     {
@@ -170,20 +226,6 @@
       "language": "en",
       "title_te": "రోకిసియోలీ ఐదు వికెట్ల ప్రదర్శనతో టెస్ట్ క్లెయిమ్‌లను పెంచుకున్నాడు",
       "summary_te": "WA యొక్క ఆఫ్‌స్పిన్నర్ షెఫీల్డ్ షీల్డ్ సీజన్‌లో తన రెండవ ఐదు వికెట్లు సాధించాడు, NSWని 232 పరుగుల వద్ద అవుట్ చేయడంలో సహాయం చేశాడు.",
-      "translated": true
-    },
-    {
-      "id": "3b57bb49aaab768bf648668c346fd09b",
-      "title": "Not 114, the other one - Bangladesh, Pakistan hope batters come good in decider",
-      "summary": "Both the ODIs so far have been one-sided affairs, and an even contest to decide the series will work best for the fans... but the weather might have a say again",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527916.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
-      "published_at": "2026-03-14T10:22:20.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "114 కాదు, మరొకటి - బంగ్లాదేశ్, పాకిస్థాన్ బ్యాటర్లు నిర్ణయాత్మకంగా మెరుగ్గా వస్తారని ఆశిస్తున్నాను",
-      "summary_te": "ఇప్పటి వరకు జరిగిన రెండు ODIలు ఏకపక్ష వ్యవహారాలు, మరియు సిరీస్‌ను నిర్ణయించే సమ పోటీ అభిమానులకు ఉత్తమంగా పని చేస్తుంది... కానీ వాతావరణం మళ్లీ చెప్పవచ్చు.",
       "translated": true
     },
     {
@@ -310,48 +352,6 @@
       "language": "en",
       "title_te": "'అతను దానిని ఎదుర్కోవడానికి సిద్ధంగా ఉన్నాడు' - జేమ్స్ కోల్స్ కోసం లండన్ స్పిరిట్ ఎందుకు బ్యాంకును విచ్ఛిన్నం చేసింది",
       "summary_te": "అనేక అంశాలు కలిసి అన్‌క్యాప్డ్ 21 ఏళ్ల యువకుని హండ్రెడ్ వేలంలో అత్యంత ఖరీదైన కొనుగోలుగా మార్చాయి",
-      "translated": true
-    },
-    {
-      "id": "16e894019376c8c45f0f83538d9542cc",
-      "title": "'Proud moment for the women's game' - Devine on Hundred auction",
-      "summary": "Devine was in demand during the auction, securing a bid of £210,000 from Welsh Fire",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527810.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/408400/408415.jpg",
-      "published_at": "2026-03-13T11:54:06.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'మహిళల ఆటకు గర్వకారణం' - వంద వేలంలో డివైన్",
-      "summary_te": "వెల్ష్ ఫైర్ నుండి £210,000 వేలంపాటలో డివైన్‌కు డిమాండ్ ఏర్పడింది.",
-      "translated": true
-    },
-    {
-      "id": "569b943d0bade65184e9cdff37ba3ac0",
-      "title": "Motie to pull out of PSL; Lahore Qalandars set to sign Wellalage as replacement",
-      "summary": "Defending champions will open the new season on March 26 with a game against Hyderabad Kingsmen",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527867.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/391000/391086.jpg",
-      "published_at": "2026-03-13T11:15:59.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "PSL నుండి వైదొలగడానికి మోటీ; లాహోర్ ఖలందర్స్ బదులుగా వెల్లలాగేపై సంతకం చేయనున్నారు",
-      "summary_te": "మార్చి 26న హైదరాబాద్ కింగ్స్‌మెన్‌తో డిఫెండింగ్ ఛాంపియన్‌లు కొత్త సీజన్‌ను ప్రారంభిస్తారు",
-      "translated": true
-    },
-    {
-      "id": "3508209e90af5b57abd745d97287d8a5",
-      "title": "Unchanged Bangladesh bowl first; Haris Rauf in for Pakistan",
-      "summary": "Abrar, the wristspinner, was left out of the Pakistan XI",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527807.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
-      "published_at": "2026-03-13T08:30:54.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మార్పులేని బంగ్లాదేశ్ ముందుగా బౌలింగ్; హరీస్ రవూఫ్ పాకిస్థాన్ తరఫున",
-      "summary_te": "పాకిస్థాన్ ఎలెవన్ జట్టులో మణికట్టు స్పిన్నర్ అబ్రార్ తప్పుకున్నాడు",
       "translated": true
     }
   ]
