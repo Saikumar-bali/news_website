@@ -1,23 +1,9 @@
 {
-  "updated_at": "2026-03-15T07:05:29.299Z",
-  "updated_at_IST": "15/3/2026, 12:35:29 pm",
+  "updated_at": "2026-03-15T07:51:15.774Z",
+  "updated_at_IST": "15/3/2026, 1:21:15 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 23,
   "articles": [
-    {
-      "id": "73272b190e6a4a46e46b9daff6bd56bb",
-      "title": "HRD Minister Lokesh warns of strict action if quality of mid-day meal is compromised",
-      "summary": "Once food is prepared, a teacher must taste and check the quality every day before it is served to the students, he insists; as per the preliminary inquiry, the incident reported in a school at Mylavaram in NTR district is a deliberate act aimed at spreading misinformation, say officials",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/hrd-minister-lokesh-warns-of-strict-action-if-quality-of-mid-day-meal-is-compromised/article70743497.ece",
-      "image": "https://th-i.thgim.com/public/incoming/f4o3zw/article70743646.ece/alternates/LANDSCAPE_1200/Laddu-row_-gheeGTOFKK8I2.3.jpg.jpg",
-      "published_at": "2026-03-15T05:30:36.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "మధ్యాహ్న భోజనంలో నాణ్యత లోపిస్తే కఠిన చర్యలు తప్పవని హెచ్‌ఆర్‌డీ మంత్రి లోకేష్‌ హెచ్చరించారు",
-      "summary_te": "ఒకసారి ఆహారాన్ని తయారు చేసిన తర్వాత, ఒక ఉపాధ్యాయుడు విద్యార్థులకు అందించడానికి ముందు ప్రతిరోజు రుచి మరియు నాణ్యతను తనిఖీ చేయాలి, అతను నొక్కి చెప్పాడు; ప్రాథమిక విచారణ ప్రకారం, ఎన్టీఆర్ జిల్లా మైలవరంలోని పాఠశాలలో జరిగిన సంఘటన తప్పుడు సమాచారం వ్యాప్తి చేయడానికి ఉద్దేశపూర్వకంగా జరిగిన చర్య అని అధికారులు చెబుతున్నారు.",
-      "translated": true
-    },
     {
       "id": "20a298059b606067027748457b3b5ed8",
       "title": "460-km roads laid in tribal areas in last 18 months, says Deputy CM Pawan Kalyan",
@@ -30,6 +16,20 @@
       "language": "en",
       "title_te": "గత 18 నెలల్లో గిరిజన ప్రాంతాల్లో 460 కిలోమీటర్ల మేర రోడ్లు వేశామని డిప్యూటీ సీఎం పవన్ కల్యాణ్ అన్నారు",
       "summary_te": "రాష్ట్రంలోని సంకీర్ణ ప్రభుత్వం ప్రజాసమస్యలను పరిష్కరించేందుకు కట్టుబడి ఉన్న ప్రజానీక పాలన అని చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "ca4f23bf8b2d14ee2f7d9c0c57a8bcf1",
+      "title": "Experts laud A.P. CM’s vision for Quantum Valley project",
+      "summary": "The project envisions the use of real, cutting-edge quantum science to position Andhra Pradesh as a global leader in the technology, they say",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/experts-laud-ap-cms-vision-for-quantum-valley-project/article70744187.ece",
+      "image": "https://th-i.thgim.com/public/incoming/9wu50l/article70744542.ece/alternates/LANDSCAPE_1200/DSC_8540.JPG",
+      "published_at": "2026-03-14T19:27:45.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "క్వాంటం వ్యాలీ ప్రాజెక్టుపై ఏపీ సీఎం విజన్‌ను నిపుణులు కొనియాడారు",
+      "summary_te": "సాంకేతికతలో ఆంధ్రప్రదేశ్‌ను గ్లోబల్ లీడర్‌గా నిలబెట్టడానికి నిజమైన, అత్యాధునిక క్వాంటం సైన్స్‌ను ఉపయోగించాలని ఈ ప్రాజెక్ట్ భావిస్తోంది.",
       "translated": true
     },
     {
@@ -84,7 +84,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "విజయవాడ-బెంగళూరు రూట్‌లో ఏక్యూఐ ఎనేబుల్డ్ బస్సు సర్వీసులను ప్రారంభించింది",
+      "title_te": "విజయవాడ-బెంగళూరు రూట్‌లో ఏక్యూఐ ఎనేబుల్డ్ బస్సు సర్వీసులు ప్రారంభం",
       "summary_te": "ఇంటర్‌సిటీ మొబిలిటీ బ్రాండ్ అయిన IntrCity SmartBus, ప్రయాణికుల ఆరోగ్యం మరియు సౌకర్యాన్ని దృష్టిలో ఉంచుకుని విజయవాడ-బెంగళూరు మార్గంలో ఎయిర్ క్వాలిటీ ఇండెక్స్ AQI- ఎనేబుల్డ్ ఇంటర్‌సిటీ బస్సు సేవలను ప్రారంభించింది. శనివారం విజయవాడలో ఈ సర్వీస్‌ను ప్రారంభించిన డిప్యూటీ పోలీస్ కమిషనర్ ఆఫ్ పోలీస్ ట్రాఫిక్, షెరీన్ బేగం. IntrCity నిర్వహించిన అంతర్గత అధ్యయనాల ప్రకారం, ప్రపంచ ఆరోగ్య సంస్థ (WHO) సిఫార్సు చేసిన పరిమితుల కంటే బస్ క్యాబిన్‌లలోని వాయు కాలుష్య స్థాయిలు రెండు నుండి మూడు రెట్లు ఎక్కువగా ఉన్నాయి. ఈ ఆందోళనను పరిష్కరించడానికి, కంపెనీ SmartBus AQI టెక్నాలజీని ప్రవేశపెట్టిందని ఆమె తెలిపింది. ట్రయల్ రన్ సమయంలో AQI-ప్రారంభించబడిన బస్సు. బస్సు లోపల నిజ-సమయ AQI మరియు PM2.5 రీడింగ్‌లు ఆన్-బోర్డ్ డిస్‌ప్లే స్క్రీన్‌లపై అలాగే దాని మొబైల్ యాప్‌లో ప్రదర్శించబడతాయని కంపెనీ పేర్కొంది.",
       "translated": true
     },
@@ -100,20 +100,6 @@
       "language": "en",
       "title_te": "ఫిజిక్స్ వాలా విజయవాడలో టెక్-ఎనేబుల్డ్ విద్యాపీఠ్ సెంటర్‌ను ప్రారంభించాడు",
       "summary_te": "ఎడ్యుకేషన్ టెక్నాలజీ కంపెనీ ఫిజిక్స్ వాలా (పిడబ్ల్యు) విజయవాడలో తన మొట్టమొదటి టెక్-ఎనేబుల్డ్ పిడబ్ల్యు విద్యాపీఠ్ సెంటర్‌ను ప్రారంభించడంతో ఆంధ్రప్రదేశ్‌లో తన ఉనికిని విస్తరించింది. పిడబ్ల్యు నుండి అమిత్ సింగ్ రాథోడ్ బెంజ్ సర్కిల్‌లో శనివారం కేంద్రాన్ని ప్రారంభించారు. ఇది అనుకూలమైన అభ్యాస వాతావరణాన్ని అందించే బహుళ సాంకేతిక-ప్రారంభించబడిన తరగతి గదులను కలిగి ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "bcfb85ead9948606b318304d467c53ed",
-      "title": "Kakinada ensures steady LPG supply amid demand surge",
-      "summary": "At least 60 tonnes of petroleum gas (LPG) are being supplied from the Bharat LPG bottling unit at Kakinada Anchorage Port to meet both domestic and commercial demand in the district. According to an official release, this supply will continue. Kakinada Revenue Divisional Officer S. Mallibabu, along with Civil Supplies authorities, on Saturday (March 14, 2026) inspected the Bharat LPG bottling unit at the port. They reviewed the availability of LPG and examined the bottling process in light of challenges affecting the supply system.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kakinada-ensures-steady-lpg-supply-amid-demand-durge/article70743415.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-14T16:55:29.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "డిమాండ్ పెరుగుదల మధ్య కాకినాడ స్థిరమైన LPG సరఫరాను నిర్ధారిస్తుంది",
-      "summary_te": "జిల్లాలో దేశీయ మరియు వాణిజ్య డిమాండ్‌ను తీర్చడానికి కాకినాడ యాంకరేజ్ పోర్ట్‌లోని భారత్ ఎల్‌పిజి బాట్లింగ్ యూనిట్ నుండి కనీసం 60 టన్నుల పెట్రోలియం గ్యాస్ (ఎల్‌పిజి) సరఫరా చేయబడుతోంది. అధికారిక విడుదల ప్రకారం, ఈ సరఫరా కొనసాగుతుంది. కాకినాడ రెవెన్యూ డివిజనల్ అధికారి ఎస్.మల్లిబాబు, పౌరసరఫరాల అధికారులతో కలిసి శనివారం (మార్చి 14, 2026) పోర్టులోని భారత్ ఎల్‌పిజి బాట్లింగ్ యూనిట్‌ను పరిశీలించారు. వారు LPG లభ్యతను సమీక్షించారు మరియు సరఫరా వ్యవస్థను ప్రభావితం చేసే సవాళ్ల నేపథ్యంలో బాట్లింగ్ ప్రక్రియను పరిశీలించారు.",
       "translated": true
     },
     {
@@ -294,7 +280,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "ప్రభుత్వం గృహాలకు సరిపడా LPG సరఫరాను నిర్ధారించడానికి అన్ని ప్రయత్నాలు చేస్తున్నట్లు GoM తెలిపింది",
+      "title_te": "ప్రభుత్వ గృహాలకు సరిపడా LPG సరఫరాను నిర్ధారించడానికి అన్ని ప్రయత్నాలు చేస్తున్నట్లు GoM తెలిపింది",
       "summary_te": "ఎల్‌పిజి సిలిండర్‌ల బ్లాక్ మార్కెటింగ్‌పై ప్రజలు ఆందోళన చెందాల్సిన అవసరం లేదని, హెచ్చరికలు చేయాల్సిన అవసరం లేదని పునరుద్ఘాటిస్తూ, ఆసుపత్రులు మరియు హాస్టళ్ల వంటి అవసరమైన సంస్థలకు కూడా ప్రాధాన్యత ఇస్తున్నామని, తద్వారా వాటి కార్యకలాపాలు అంతరాయం లేకుండా కొనసాగుతాయని జిఓఎం పేర్కొంది.",
       "translated": true
     },
