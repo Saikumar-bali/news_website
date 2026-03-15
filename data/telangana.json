@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T18:33:50.512Z",
-  "updated_at_IST": "16/3/2026, 12:03:50 am",
+  "updated_at": "2026-03-15T19:32:57.120Z",
+  "updated_at_IST": "16/3/2026, 1:02:57 am",
   "category": "telangana",
   "count": 33,
   "articles": [
+    {
+      "id": "b59c5bd0bf4faf8c2a0f6229b6058bc8",
+      "title": "War is...",
+      "summary": "War is... thiru Mon, 03/16/2026 - 00:11",
+      "url": "https://www.sakshi.com/telugu-news/editorial/sakshi-editorial-america-israel-iran-war-2734293",
+      "image": null,
+      "published_at": "2026-03-15T18:41:11.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "యుద్ధమంటే...",
+      "summary_te": "యుద్ధమంటే... thiru Mon, 03/16/2026 - 00:11",
+      "translated": true
+    },
     {
       "id": "4746e0dc0b7138a282f1aa6a3ee781bf",
       "title": "Six test positive for drugs in farmhouse raid in Moinabad",
@@ -34,7 +48,7 @@
     },
     {
       "id": "4d93f582a791ea0a5ed433271d78ead2",
-      "title": "A huge explosion in Visakhapatnam",
+      "title": "A huge explosion in Gopalapatnam, Visakhapatnam",
       "summary": "Massive explosion in Visakhapatnam Gopalapatnam thiru Sun, 03/15/2026 - 22:50",
       "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/huge-explosion-gopalapatnam-visakhapatnam-2734291",
       "image": null,
@@ -198,20 +212,6 @@
       "language": "te",
       "title_te": "నవనాయక ఫలితాలు (2026– 2027)",
       "summary_te": "నవనాయక ఫలితాలు (2026– 2027) naresh Sun, 03/15/2026 - 21:15",
-      "translated": true
-    },
-    {
-      "id": "f1065229d7263ad4a3e670670a99fc4b",
-      "title": "Sri Parabhava Name Year Kartari Decision",
-      "summary": "Sri Parabhava Name Year Kartari Decision naresh Sun, 03/15/2026 - 21:07",
-      "url": "https://www.sakshi.com/telugu-news/family/sri-parabhava-nama-samvatsara-kartari-2026-27-2734284",
-      "image": null,
-      "published_at": "2026-03-15T15:37:53.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "శ్రీ పరాభవ నామ సంవత్సర కర్తరీ నిర్ణయం",
-      "summary_te": "శ్రీ పరాభవ నామ సంవత్సర కర్తరీ నిర్ణయం naresh Sun, 03/15/2026 - 21:07",
       "translated": true
     },
     {
