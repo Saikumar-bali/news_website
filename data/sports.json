@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T10:32:04.825Z",
-  "updated_at_IST": "15/3/2026, 4:02:04 pm",
+  "updated_at": "2026-03-15T11:29:55.686Z",
+  "updated_at_IST": "15/3/2026, 4:59:55 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e0d81682e2bb5e5146fcac351eaa187c",
+      "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
+      "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
+      "published_at": "2026-03-15T11:11:14.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్ మాజీ కెప్టెన్ సర్ఫరాజ్ అహ్మద్ అంతర్జాతీయ క్రికెట్‌కు రిటైర్మెంట్ ప్రకటించాడు",
+      "summary_te": "అతను 54 టెస్టులు, 117 ODIలు మరియు 61 T20Iలతో ముగించాడు మరియు ఇమ్రాన్ ఖాన్ తర్వాత 50 ఓవర్ల ICC ట్రోఫీని ఎత్తిన ఏకైక పాక్ కెప్టెన్‌గా నిలిచాడు.",
+      "translated": true
+    },
     {
       "id": "799ba3300da426070db0dc504eee67ea",
       "title": "Debutant Mokoena stars as South Africa rip New Zealand to shreds",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "KKRతో IPL ఒప్పందాన్ని కుదుర్చుకున్న తర్వాత ముజారబానీ PSL 2026 నుండి వైదొలిగాడు",
       "summary_te": "KKR శుక్రవారం సంతకం చేసిన విషయాన్ని ధృవీకరించడంతో, ముజారబానీ తన ఉపసంహరణ నిర్ణయాన్ని ఇస్లామాబాద్‌కు తెలియజేసినట్లు అర్థమవుతోంది",
-      "translated": true
-    },
-    {
-      "id": "21cf1f8869b1506cb63913294c36449a",
-      "title": "'He's ready to deal with it' - Why London Spirit broke the bank for James Coles",
-      "summary": "Several factors combined to make uncapped 21-year-old the most-expensive buy at the Hundred auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527883.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414590.jpg",
-      "published_at": "2026-03-13T12:32:07.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'అతను దానిని ఎదుర్కోవడానికి సిద్ధంగా ఉన్నాడు' - జేమ్స్ కోల్స్ కోసం లండన్ స్పిరిట్ ఎందుకు బ్యాంకును విచ్ఛిన్నం చేసింది",
-      "summary_te": "అనేక అంశాలు కలిసి అన్‌క్యాప్డ్ 21 ఏళ్ల యువకుని హండ్రెడ్ వేలంలో అత్యంత ఖరీదైన కొనుగోలుగా మార్చాయి",
       "translated": true
     }
   ]
