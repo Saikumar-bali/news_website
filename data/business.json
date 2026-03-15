@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-15T06:12:57.331Z",
-  "updated_at_IST": "15/3/2026, 11:42:57 am",
+  "updated_at": "2026-03-15T07:05:29.299Z",
+  "updated_at_IST": "15/3/2026, 12:35:29 pm",
   "category": "business",
   "count": 65,
   "articles": [
@@ -19,6 +19,34 @@
       "translated": true
     },
     {
+      "id": "e82547441f4b6938b2545a5d68023a68",
+      "title": "Mutual fund NFOs: 2 ETFs will open for subscription now on Monday. Check details",
+      "summary": "Two new passive funds, a commodity-based ETF and a mid-cap ETF, are opening for subscription on Monday. The HSBC Gold ETF closes on March 18, and the SBI Nifty Midcap 150 ETF closes on March 24, both with a minimum investment of Rs 5,000. Investors are advised to choose funds based on their individual risk profiles and financial goals.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-fund-nfos-2-etfs-will-open-for-subscription-now-on-monday-check-details/slideshow/129585418.cms",
+      "image": null,
+      "published_at": "2026-03-15T05:46:19.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మ్యూచువల్ ఫండ్ NFOలు: 2 ETFలు ఇప్పుడు సోమవారం నుండి సబ్‌స్క్రిప్షన్ కోసం తెరవబడతాయి. వివరాలను తనిఖీ చేయండి",
+      "summary_te": "రెండు కొత్త పాసివ్ ఫండ్‌లు, కమోడిటీ ఆధారిత ఇటిఎఫ్ మరియు మిడ్ క్యాప్ ఇటిఎఫ్ సోమవారం సబ్‌స్క్రిప్షన్ కోసం తెరవబడుతున్నాయి. HSBC గోల్డ్ ETF మార్చి 18న ముగుస్తుంది మరియు SBI నిఫ్టీ మిడ్‌క్యాప్ 150 ETF మార్చి 24న ముగుస్తుంది, రెండూ కనీసం రూ. 5,000 పెట్టుబడితో. పెట్టుబడిదారులు తమ వ్యక్తిగత రిస్క్ ప్రొఫైల్‌లు మరియు ఆర్థిక లక్ష్యాల ఆధారంగా ఫండ్‌లను ఎంచుకోవాలని సూచించారు.",
+      "translated": true
+    },
+    {
+      "id": "91c864a11e8dfe724dae66a569ba4928",
+      "title": "Basmati rice exporter Amir Chand to launch Rs 440-cr IPO on Mar 24",
+      "summary": "Basmati rice exporter Amir Chand Jagdish Kumar(Exports) Ltd is set to launch its Rs 440 crore initial public offering (IPO) on March 24.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/basmati-rice-exporter-amir-chand-to-launch-rs-440-cr-ipo-on-mar-24/articleshow/129585280.cms",
+      "image": null,
+      "published_at": "2026-03-15T05:43:35.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "బాస్మతి బియ్యం ఎగుమతిదారు అమీర్ చంద్ రూ. 440 కోట్ల IPOను మార్చి 24న ప్రారంభించనున్నారు",
+      "summary_te": "బాస్మతి బియ్యం ఎగుమతిదారు అమీర్ చంద్ జగదీష్ కుమార్ (ఎగుమతులు) లిమిటెడ్ తన రూ. 440 కోట్ల ప్రారంభ పబ్లిక్ ఆఫర్ (ఐపిఓ)ని మార్చి 24న ప్రారంభించనుంది.",
+      "translated": true
+    },
+    {
       "id": "7641e1a5416ed128e5c9017044bdbaa0",
       "title": "Quote of the day by Morgan Housel, who wrote The Psychology of Money: ‘Everything has a price, but not all prices…’",
       "summary": "Morgan Housel encourages viewing market challenges as fees for valuable returns, advocating for a low-ego approach to wealth and high savings rates.",
@@ -28,7 +56,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ది సైకాలజీ ఆఫ్ మనీని వ్రాసిన మోర్గాన్ హౌస్‌ల్ యొక్క కోట్ ఆఫ్ ది డే: 'ప్రతిదానికి ధర ఉంటుంది, కానీ అన్ని ధరలు కాదు...'",
+      "title_te": "ది సైకాలజీ ఆఫ్ మనీని వ్రాసిన మోర్గాన్ హౌస్‌ల్ యొక్క కోట్ ఆఫ్ ది డే: 'ప్రతిదానికి ఒక ధర ఉంటుంది, కానీ అన్ని ధరలు కాదు...'",
       "summary_te": "మోర్గాన్ హౌస్‌ల్ మార్కెట్ సవాళ్లను విలువైన రాబడికి రుసుములుగా చూడడాన్ని ప్రోత్సహిస్తుంది, సంపద మరియు అధిక పొదుపు రేట్లకు తక్కువ-ఇగో విధానాన్ని సూచించింది.",
       "translated": true
     },
@@ -146,16 +174,16 @@
     },
     {
       "id": "0d9ad19919f33ceb0704b1653de9254d",
-      "title": "Iran-US war: IndiGo, Air India flights to Dubai, Abu Dhabi, other regions cancelled for March 15 | Check details",
-      "summary": "Air India and Air India Express cancelled multiple flights to West Asia on March 15 due to UAE airport restrictions. IndiGo also suspended flights to Dubai amid tensions in the region.&nbsp;",
+      "title": "Flight status update on March 15: IndiGo, Air India cancels flights to Dubai, Abu Dhabi on Sunday | Full list",
+      "summary": "Air India and Air India Express cancelled multiple flights to Abu Dhabi, Dubai on March 15 due to UAE airport restrictions. IndiGo also suspended flights to Dubai amid tensions in the region.&nbsp;",
       "url": "https://www.livemint.com/news/india/iranus-war-indigo-air-india-flights-to-dubai-abu-dhabi-other-regions-cancelled-for-march-15-check-details-11773543001612.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/INDIGO-INDIA-ANTITRUST-1_1766276406560_1766276414171_1773543253187.JPG",
       "published_at": "2026-03-15T03:31:05.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్-యుఎస్ యుద్ధం: మార్చి 15న దుబాయ్, అబుదాబి, ఇతర ప్రాంతాలకు ఇండిగో, ఎయిర్ ఇండియా విమానాలు రద్దు | వివరాలను తనిఖీ చేయండి",
-      "summary_te": "UAE విమానాశ్రయ పరిమితుల కారణంగా మార్చి 15న ఎయిర్ ఇండియా మరియు ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ పశ్చిమాసియాకు పలు విమానాలను రద్దు చేశాయి. ఈ ప్రాంతంలో ఉద్రిక్తతల మధ్య ఇండిగో కూడా దుబాయ్‌కి విమానాలను నిలిపివేసింది. ",
+      "title_te": "మార్చి 15న ఫ్లైట్ స్టేటస్ అప్‌డేట్: ఇండిగో, ఎయిర్ ఇండియా ఆదివారం దుబాయ్, అబుదాబికి విమానాలను రద్దు చేసింది | పూర్తి జాబితా",
+      "summary_te": "UAE విమానాశ్రయ పరిమితుల కారణంగా మార్చి 15న ఎయిర్ ఇండియా మరియు ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ అబుదాబి, దుబాయ్‌కి పలు విమానాలను రద్దు చేశాయి. ఈ ప్రాంతంలో ఉద్రిక్తతల మధ్య ఇండిగో కూడా దుబాయ్‌కి విమానాలను నిలిపివేసింది. ",
       "translated": true
     },
     {
@@ -394,34 +422,6 @@
       "language": "en",
       "title_te": "స్టీవ్ జాబ్స్ యొక్క కోట్ ఆఫ్ ది డే: 'గొప్ప పని చేయడానికి ఏకైక మార్గం మీరు చేసే పనిని ప్రేమించడం'",
       "summary_te": "AI మరియు ఆటోమేషన్ రొటీన్ టాస్క్‌లను హ్యాండిల్ చేస్తున్న నేటి వర్క్‌ఫోర్స్‌లో, క్రాఫ్ట్ కోసం స్టీవ్ జాబ్స్ ఉల్లేఖించినట్లుగా ‘ప్రేమ’ అనే మానవ మూలకం పోటీ ప్రయోజనంగా మారింది.",
-      "translated": true
-    },
-    {
-      "id": "a0968659816cfce5410449587bd10bdf",
-      "title": "War fears spark market panic, but correction may be opening buying opportunities: Sunny Agrawal",
-      "summary": "Sharp market selloff amid geopolitical tensions may offer selective long-term buying opportunities, says Sunny Agrawal. He highlights robust order books, corrected valuations, and attractive prospects in private banks, consumer internet, and select large-cap stocks, while noting crude oil and inflation remain key macro variables for investors.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/war-fears-spark-market-panic-but-correction-may-be-opening-buying-opportunities-sunny-agrawal/articleshow/129573184.cms",
-      "image": null,
-      "published_at": "2026-03-14T11:00:46.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుద్ధ భయాలు మార్కెట్ భయాందోళనలకు దారితీస్తాయి, కానీ దిద్దుబాటు కొనుగోలు అవకాశాలను తెరుస్తుంది: సన్నీ అగర్వాల్",
-      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతల మధ్య పదునైన మార్కెట్ విక్రయాలు ఎంపిక చేసిన దీర్ఘకాలిక కొనుగోలు అవకాశాలను అందించవచ్చని సన్నీ అగర్వాల్ చెప్పారు. అతను బలమైన ఆర్డర్ పుస్తకాలు, సరిదిద్దబడిన వాల్యుయేషన్లు మరియు ప్రైవేట్ బ్యాంకులు, వినియోగదారు ఇంటర్నెట్ మరియు ఎంపిక చేసిన లార్జ్-క్యాప్ స్టాక్‌లలో ఆకర్షణీయమైన అవకాశాలను హైలైట్ చేశాడు, అయితే ముడి చమురు మరియు ద్రవ్యోల్బణం పెట్టుబడిదారులకు కీలకమైన స్థూల వేరియబుల్స్‌గా ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "e69d33544868740eef88b4b3ce660d84",
-      "title": "Quant Small Cap Fund : HDFC Bank and Jio Financial Services among stocks bought and sold in February",
-      "summary": "Quant Small Cap Fund added HDFC Bank and others, trimmed Jio Financial, and exited Stanley Lifestyles in February.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/quant-small-cap-fund-hdfc-bank-and-jio-financial-services-among-stocks-bought-and-sold-in-february/slideshow/129573121.cms",
-      "image": null,
-      "published_at": "2026-03-14T10:35:16.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "క్వాంట్ స్మాల్ క్యాప్ ఫండ్: ఫిబ్రవరిలో కొనుగోలు చేసిన మరియు విక్రయించిన స్టాక్‌లలో HDFC బ్యాంక్ మరియు జియో ఫైనాన్షియల్ సర్వీసెస్",
-      "summary_te": "క్వాంట్ స్మాల్ క్యాప్ ఫండ్ HDFC బ్యాంక్ మరియు ఇతరులను జోడించింది, Jio ఫైనాన్షియల్‌ను తగ్గించింది మరియు ఫిబ్రవరిలో స్టాన్లీ లైఫ్‌స్టైల్స్ నుండి నిష్క్రమించింది.",
       "translated": true
     },
     {
