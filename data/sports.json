@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T15:30:36.027Z",
-  "updated_at_IST": "15/3/2026, 9:00:36 pm",
+  "updated_at": "2026-03-15T16:29:37.030Z",
+  "updated_at_IST": "15/3/2026, 9:59:37 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "8f5fbabf2d73fa22e299bfde0e563f80",
+      "title": "Samson on World Cup win: 'India is going to do this more and more often'",
+      "summary": "Samson says coming back in the team in the middle of the tournament was when he \"mentally flipped a bit\"",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528070.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414569.jpg",
+      "published_at": "2026-03-15T15:42:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ప్రపంచ కప్ విజయంపై శాంసన్: 'భారత్ దీన్ని మరింత తరచుగా చేయబోతోంది'",
+      "summary_te": "టోర్నమెంట్ మధ్యలో తిరిగి జట్టులోకి రావడం \"మానసికంగా కాస్త కుదుటపడ్డాను\" అని శాంసన్ చెప్పాడు",
+      "translated": true
+    },
     {
       "id": "e0d81682e2bb5e5146fcac351eaa187c",
       "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "పెద్ద వంద పే-డే తర్వాత ఎమ్‌ఎస్‌జికి సారథిగా మార్క్‌రామ్ సిద్ధమయ్యాడు",
       "summary_te": "గురువారం వేలానికి ముందు దక్షిణాఫ్రికా కెప్టెన్ లాంగర్‌కు 'నెంబర్ 1 ప్రాధాన్యత'",
-      "translated": true
-    },
-    {
-      "id": "dd40b3c236858ddf54053e5ebcc73909",
-      "title": "Muzarabani pulls out of PSL 2026 after securing IPL deal with KKR",
-      "summary": "It is understood that Muzarabani informed Islamabad of his decision to withdraw, as KKR confirmed the signing on Friday",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527885.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413400/413429.jpg",
-      "published_at": "2026-03-13T13:51:12.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "KKRతో IPL ఒప్పందాన్ని కుదుర్చుకున్న తర్వాత ముజారబానీ PSL 2026 నుండి వైదొలిగాడు",
-      "summary_te": "KKR శుక్రవారం సంతకం చేసిన విషయాన్ని ధృవీకరించడంతో, ముజారబానీ తన ఉపసంహరణ నిర్ణయాన్ని ఇస్లామాబాద్‌కు తెలియజేసినట్లు అర్థమవుతోంది",
       "translated": true
     }
   ]
