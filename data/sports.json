@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-15T11:29:55.686Z",
-  "updated_at_IST": "15/3/2026, 4:59:55 pm",
+  "updated_at": "2026-03-15T12:38:16.327Z",
+  "updated_at_IST": "15/3/2026, 6:08:16 pm",
   "category": "sports",
   "count": 25,
   "articles": [
@@ -10,12 +10,26 @@
       "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
       "url": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
-      "published_at": "2026-03-15T11:11:14.000Z",
+      "published_at": "2026-03-15T11:43:41.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "పాకిస్థాన్ మాజీ కెప్టెన్ సర్ఫరాజ్ అహ్మద్ అంతర్జాతీయ క్రికెట్‌కు రిటైర్మెంట్ ప్రకటించాడు",
       "summary_te": "అతను 54 టెస్టులు, 117 ODIలు మరియు 61 T20Iలతో ముగించాడు మరియు ఇమ్రాన్ ఖాన్ తర్వాత 50 ఓవర్ల ICC ట్రోఫీని ఎత్తిన ఏకైక పాక్ కెప్టెన్‌గా నిలిచాడు.",
+      "translated": true
+    },
+    {
+      "id": "ddd3cd197436fe97f1496790663f6eab",
+      "title": "Pakistan bowl, make three changes for series decider",
+      "summary": "Bangladesh went with the same XI despite losing their previous game",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414661.jpg",
+      "published_at": "2026-03-15T11:19:08.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పాకిస్థాన్ బౌలింగ్, సిరీస్ డిసైడర్ కోసం మూడు మార్పులు చేయండి",
+      "summary_te": "బంగ్లాదేశ్ తమ మునుపటి గేమ్‌లో ఓడిపోయినప్పటికీ అదే XIతో వెళ్లింది",
       "translated": true
     },
     {
@@ -30,20 +44,6 @@
       "language": "en",
       "title_te": "దక్షిణాఫ్రికా న్యూజిలాండ్‌ను చిన్నాభిన్నం చేయడంతో అరంగేట్రం చేసిన మోకోనా స్టార్",
       "summary_te": "మౌంట్ మౌన్‌గనుయ్‌లో 92 పరుగుల లక్ష్యాన్ని ఛేదించడంలో సందర్శకులు ఏడు వికెట్ల తేడాతో విజయం సాధించారు.",
-      "translated": true
-    },
-    {
-      "id": "ddd3cd197436fe97f1496790663f6eab",
-      "title": "Pakistan bowl, make three changes for series decider",
-      "summary": "Bangladesh went with the same XI despite losing the loss in their previous game",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414661.jpg",
-      "published_at": "2026-03-15T09:07:53.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పాకిస్థాన్ బౌలింగ్, సిరీస్ డిసైడర్ కోసం మూడు మార్పులు చేయండి",
-      "summary_te": "బంగ్లాదేశ్ తమ మునుపటి గేమ్‌లో ఓడిపోయినప్పటికీ అదే XIతో వెళ్లింది",
       "translated": true
     },
     {

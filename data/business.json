@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-15T11:29:55.686Z",
-  "updated_at_IST": "15/3/2026, 4:59:55 pm",
+  "updated_at": "2026-03-15T12:38:16.327Z",
+  "updated_at_IST": "15/3/2026, 6:08:16 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "7e069dfd285449ca3b0481e2b58277ac",
+      "title": "Real wealth vs looking rich: Tax expert explains the costly mistake many make",
+      "summary": "To build lasting financial independence, a person must first break the psychological habit of performative wealth, said the tax professional",
+      "url": "https://www.livemint.com/news/trends/real-wealth-vs-looking-rich-tax-expert-explains-the-costly-mistake-many-make-11773568464028.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/PTI02-03-2025-000495B-0_1742901146529_1773569952163.jpg",
+      "published_at": "2026-03-15T12:19:16.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "నిజమైన సంపద vs ధనవంతులుగా కనిపించడం: చాలా మంది చేసే ఖరీదైన తప్పును పన్ను నిపుణుడు వివరిస్తారు",
+      "summary_te": "శాశ్వత ఆర్థిక స్వాతంత్ర్యం నిర్మించడానికి, ఒక వ్యక్తి మొదట పనితీరు సంపద యొక్క మానసిక అలవాటును విచ్ఛిన్నం చేయాలి, పన్ను నిపుణులు చెప్పారు",
+      "translated": true
+    },
+    {
+      "id": "794d7ce1062dc678a9930e1a77226860",
+      "title": "Quote of the day: Martin Luther King Jr on injustice and its ripple effects—‘Injustice anywhere is a threat....'",
+      "summary": "Martin Luther King Jr.’s quote, “Injustice anywhere is a threat to justice everywhere,” shows how ignoring injustice in one place weakens justice everywhere. It emphasizes shared responsibility, urging individuals and societies to stand against discrimination, and inequality, wherever they occur.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-martin-luther-king-jr-on-injustice-and-its-ripple-effects-injustice-anywhere-is-a-threat-11773569929810.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/US-King-Lee-Holiday-0_1737386320420_1773570700505.jpg",
+      "published_at": "2026-03-15T11:33:53.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈ రోజు కోట్: మార్టిన్ లూథర్ కింగ్ జూనియర్ అన్యాయం మరియు దాని అలల ప్రభావాలపై-‘ఎక్కడైనా అన్యాయం ముప్పుగా ఉంటుంది....’",
+      "summary_te": "మార్టిన్ లూథర్ కింగ్ జూనియర్ యొక్క కోట్, \"ఎక్కడైనా అన్యాయం ప్రతిచోటా న్యాయానికి ముప్పు,\" ఒక చోట అన్యాయాన్ని విస్మరించడం ప్రతిచోటా న్యాయం ఎలా బలహీనపడుతుందో చూపిస్తుంది. ఇది భాగస్వామ్య బాధ్యతను నొక్కి చెబుతుంది, వ్యక్తులు మరియు సమాజాలు ఎక్కడ జరిగినా వివక్ష మరియు అసమానతలకు వ్యతిరేకంగా నిలబడాలని ప్రోత్సహిస్తుంది.",
+      "translated": true
+    },
     {
       "id": "f435158672d5519c333bded2b258ffb7",
       "title": "Trump's personal number is up for sale, report says - and CEOs, crypto investors are paying to get it",
@@ -238,7 +266,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ది సైకాలజీ ఆఫ్ మనీని వ్రాసిన మోర్గాన్ హౌస్‌ల్ యొక్క కోట్ ఆఫ్ ది డే: 'ప్రతిదానికి ధర ఉంటుంది, కానీ అన్ని ధరలు కాదు...'",
+      "title_te": "ది సైకాలజీ ఆఫ్ మనీని వ్రాసిన మోర్గాన్ హౌస్‌ల్ యొక్క కోట్ ఆఫ్ ది డే: 'ప్రతిదానికి ఒక ధర ఉంటుంది, కానీ అన్ని ధరలు కాదు...'",
       "summary_te": "మోర్గాన్ హౌస్‌ల్ మార్కెట్ సవాళ్లను విలువైన రాబడికి రుసుములుగా చూడడాన్ని ప్రోత్సహిస్తుంది, సంపద మరియు అధిక పొదుపు రేట్లకు తక్కువ-ఇగో విధానాన్ని సూచించింది.",
       "translated": true
     },
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "ఈ రోజు ఢిల్లీ వాతావరణం: జాతీయ రాజధాని సంవత్సరంలో అత్యంత వేడిగా ఉండే రోజును నమోదు చేసిన తర్వాత ఉరుములు, వర్షాలు చాలా అవసరమైన ఉపశమనాన్ని అందించాయి",
       "summary_te": "ఢిల్లీ బుధవారం సంవత్సరంలో అత్యంత వెచ్చని రోజును చూసింది, జాతీయ రాజధానిలో గరిష్ట ఉష్ణోగ్రత 36.8 ° Cకి పెరిగింది - సాధారణం కంటే 8.4 డిగ్రీలు, IMD ఆదివారం నాటి వర్షాన్ని అంచనా వేసింది. ఢిల్లీలో నేటి వాతావరణం గురించిన మొత్తం ఇక్కడ ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "d9d1dd69ed83a9333191616cead50517",
-      "title": "LPG shortage news LIVE: Govt asks households with piped gas to give up cylinders as panic buying continues",
-      "summary": "LPG shortage news LIVE: Amid a shortage of LPG, the Indian government on Saturday began commercial LPG cylinder distribution across states and UTs, even as panic buying among households continued to rise amid supply issues sparked by a halt in maritime traffic through the Strait of Hormuz.",
-      "url": "https://www.livemint.com/news/india/lpg-gas-cylinder-shortage-news-live-updates-strait-of-hormuz-us-israel-iran-war-west-asia-middle-east-latest-news-11773534819926.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/LPG_1773535089635_1773535089948.jpg",
-      "published_at": "2026-03-15T00:46:15.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "LPG కొరత వార్తలు లైవ్: భయాందోళనలు కొనసాగుతున్నందున, పైప్డ్ గ్యాస్ ఉన్న కుటుంబాలు సిలిండర్లను వదులుకోవాలని ప్రభుత్వం కోరింది",
-      "summary_te": "LPG కొరత వార్తలు లైవ్: LPG కొరత మధ్య, భారత ప్రభుత్వం శనివారం రాష్ట్రాలు మరియు UTలలో వాణిజ్య LPG సిలిండర్ పంపిణీని ప్రారంభించింది, హోర్ముజ్ జలసంధి ద్వారా సముద్ర ట్రాఫిక్ నిలిచిపోవడంతో సరఫరా సమస్యల మధ్య గృహాల మధ్య భయాందోళనలు పెరుగుతూనే ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "761660d46dbc7635416a2e6cc50b8e86",
-      "title": "US bounty on Mojtaba Khamenei? Washington offers $10 million for intel on Iran's new Supreme Leader, IRGC chiefs",
-      "summary": "US State Department has placed a $10 million (over ₹83 crore) bounty on Iran's new Supreme Leader Mojtaba Khamenei and senior IRGC officials under its Rewards for Justice programme, in Washington's boldest intelligence push against Tehran yet.",
-      "url": "https://www.livemint.com/news/us-news/us-bounty-on-mojtaba-khamenei-washington-offers-10-million-for-intel-on-irans-new-supreme-leader-irgc-chiefs-11773532514543.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/14/1600x900/logo/AUSTRALIA-IRAN-US-ISRAEL-WAR-PROTEST-4_1773532743222_1773532783146.jpg",
-      "published_at": "2026-03-15T00:21:37.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మోజ్తాబా ఖమేనీపై US బహుమానం? ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్, IRGC చీఫ్‌లపై ఇంటెల్ కోసం వాషింగ్టన్ $10 మిలియన్లను ఆఫర్ చేస్తుంది",
-      "summary_te": "US స్టేట్ డిపార్ట్‌మెంట్ ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్ మొజ్తాబా ఖమేనీ మరియు సీనియర్ IRGC అధికారులపై $10 మిలియన్ల (₹83 కోట్లకు పైగా) బహుమానాన్ని తన రివార్డ్స్ ఫర్ జస్టిస్ ప్రోగ్రాం కింద, వాషింగ్టన్‌లో టెహ్రాన్‌కి వ్యతిరేకంగా చేసిన అత్యంత సాహసోపేతమైన గూఢచార పుష్‌లో ఉంచింది.",
       "translated": true
     },
     {

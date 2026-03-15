@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-15T11:29:55.686Z",
-  "updated_at_IST": "15/3/2026, 4:59:55 pm",
+  "updated_at": "2026-03-15T12:38:16.327Z",
+  "updated_at_IST": "15/3/2026, 6:08:16 pm",
   "category": "andhra",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "5d4a6cd2e78e702f50c86157b9967835",
+      "title": "Man gets life sentence for stabbing his mother in drunken state in Andhra’s West Godavari",
+      "summary": "The local court has also imposed ₹10,000 fine on the convicted person",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/man-gets-life-sentence-for-stabbing-his-mother-in-drunken-state-in-andhras-west-godavari/article70745684.ece",
+      "image": "https://th-i.thgim.com/public/incoming/gw648t/article70745986.ece/alternates/LANDSCAPE_1200/iStock-1483489085%201.jpg",
+      "published_at": "2026-03-15T07:33:58.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఆంధ్రాలోని పశ్చిమగోదావరిలో మద్యం మత్తులో తల్లిని కత్తితో పొడిచి చంపిన వ్యక్తికి జీవిత ఖైదు",
+      "summary_te": "దోషిగా తేలిన వ్యక్తికి స్థానిక కోర్టు ₹10,000 జరిమానా కూడా విధించింది",
+      "translated": true
+    },
+    {
+      "id": "7d4dc4d4a51c271c49aea2a8dfa24c13",
+      "title": "4 members of a family die after allegedly inhaling carbon monoxide in Punganur",
+      "summary": "According to preliminary information, the two-wheeler had undergone engine boring on Saturday (March 14, 2026) and was reportedly left running overnight inside the house on the mechanic’s advice",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/4-members-of-a-family-die-after-allegedly-inhaling-carbon-monoxide-in-punganur/article70745791.ece",
+      "image": "https://th-i.thgim.com/public/incoming/tym1de/article70745956.ece/alternates/LANDSCAPE_1200/iStock-523699180%201.jpg",
+      "published_at": "2026-03-15T07:13:54.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పుంగనూరులో కార్బన్ మోనాక్సైడ్ పీల్చి ఒకే కుటుంబానికి చెందిన నలుగురు మృతి చెందారు",
+      "summary_te": "ప్రాథమిక సమాచారం ప్రకారం, ద్విచక్ర వాహనం శనివారం (మార్చి 14, 2026) ఇంజిన్ బోరింగ్‌కు గురైంది మరియు మెకానిక్ సలహా మేరకు ఇంటి లోపల రాత్రిపూట పరిగెత్తినట్లు తెలిసింది.",
+      "translated": true
+    },
     {
       "id": "20a298059b606067027748457b3b5ed8",
       "title": "460-km roads laid in tribal areas in last 18 months, says Deputy CM Pawan Kalyan",
@@ -84,7 +112,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "విజయవాడ-బెంగళూరు రూట్‌లో ఏక్యూఐ ఎనేబుల్డ్ బస్సు సర్వీసులు ప్రారంభం",
+      "title_te": "విజయవాడ-బెంగళూరు రూట్‌లో ఏక్యూఐ ఎనేబుల్డ్ బస్సు సర్వీసులను ప్రారంభించింది",
       "summary_te": "ఇంటర్‌సిటీ మొబిలిటీ బ్రాండ్ అయిన IntrCity SmartBus, ప్రయాణికుల ఆరోగ్యం మరియు సౌకర్యాన్ని దృష్టిలో ఉంచుకుని విజయవాడ-బెంగళూరు మార్గంలో ఎయిర్ క్వాలిటీ ఇండెక్స్ AQI- ఎనేబుల్డ్ ఇంటర్‌సిటీ బస్సు సేవలను ప్రారంభించింది. శనివారం విజయవాడలో ఈ సర్వీస్‌ను ప్రారంభించిన డిప్యూటీ పోలీస్ కమిషనర్ ఆఫ్ పోలీస్ ట్రాఫిక్, షెరీన్ బేగం. IntrCity నిర్వహించిన అంతర్గత అధ్యయనాల ప్రకారం, ప్రపంచ ఆరోగ్య సంస్థ (WHO) సిఫార్సు చేసిన పరిమితుల కంటే బస్ క్యాబిన్‌లలోని వాయు కాలుష్య స్థాయిలు రెండు నుండి మూడు రెట్లు ఎక్కువగా ఉన్నాయి. ఈ ఆందోళనను పరిష్కరించడానికి, కంపెనీ SmartBus AQI టెక్నాలజీని ప్రవేశపెట్టిందని ఆమె తెలిపింది. ట్రయల్ రన్ సమయంలో AQI-ప్రారంభించబడిన బస్సు. బస్సు లోపల నిజ-సమయ AQI మరియు PM2.5 రీడింగ్‌లు ఆన్-బోర్డ్ డిస్‌ప్లే స్క్రీన్‌లపై అలాగే దాని మొబైల్ యాప్‌లో ప్రదర్శించబడతాయని కంపెనీ పేర్కొంది.",
       "translated": true
     },
@@ -280,7 +308,7 @@
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "ప్రభుత్వ గృహాలకు సరిపడా LPG సరఫరాను నిర్ధారించడానికి అన్ని ప్రయత్నాలు చేస్తున్నట్లు GoM తెలిపింది",
+      "title_te": "ప్రభుత్వం గృహాలకు సరిపడా LPG సరఫరాను నిర్ధారించడానికి అన్ని ప్రయత్నాలు చేస్తున్నట్లు GoM తెలిపింది",
       "summary_te": "ఎల్‌పిజి సిలిండర్‌ల బ్లాక్ మార్కెటింగ్‌పై ప్రజలు ఆందోళన చెందాల్సిన అవసరం లేదని, హెచ్చరికలు చేయాల్సిన అవసరం లేదని పునరుద్ఘాటిస్తూ, ఆసుపత్రులు మరియు హాస్టళ్ల వంటి అవసరమైన సంస్థలకు కూడా ప్రాధాన్యత ఇస్తున్నామని, తద్వారా వాటి కార్యకలాపాలు అంతరాయం లేకుండా కొనసాగుతాయని జిఓఎం పేర్కొంది.",
       "translated": true
     },
