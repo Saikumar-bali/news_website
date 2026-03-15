@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T09:36:07.580Z",
-  "updated_at_IST": "15/3/2026, 3:06:07 pm",
+  "updated_at": "2026-03-15T10:32:04.825Z",
+  "updated_at_IST": "15/3/2026, 4:02:04 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "799ba3300da426070db0dc504eee67ea",
+      "title": "Debutant Mokoena stars as South Africa rip New Zealand to shreds",
+      "summary": "The visitors secured a seven-wicket victory chasing down a target of 92 in Mount Maunganui",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528034.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414694.jpg",
+      "published_at": "2026-03-15T09:41:09.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "దక్షిణాఫ్రికా న్యూజిలాండ్‌ను చిన్నాభిన్నం చేయడంతో అరంగేట్రం చేసిన మోకోనా స్టార్",
+      "summary_te": "మౌంట్ మౌన్‌గనుయ్‌లో 92 పరుగుల లక్ష్యాన్ని ఛేదించడంలో సందర్శకులు ఏడు వికెట్ల తేడాతో విజయం సాధించారు.",
+      "translated": true
+    },
     {
       "id": "ddd3cd197436fe97f1496790663f6eab",
       "title": "Pakistan bowl, make three changes for series decider",
@@ -86,20 +100,6 @@
       "language": "en",
       "title_te": "బోనస్ పాయింట్లపై SA ఫైనల్‌కు అర్హత సాధించడంతో కెల్లావే విక్టోరియా గ్రాఫ్ట్‌లో ముందున్నాడు",
       "summary_te": "మర్ఫీ 67 పరుగులకు 4 వికెట్ల తర్వాత కెల్లావే 66 పరుగులు చేశాడు, దక్షిణ ఆస్ట్రేలియా బోనస్ పాయింట్లతో ఫైనల్‌కు అర్హత సాధించిన తర్వాత రెండో రోజు ఆట అసంభవంగా మారింది.",
-      "translated": true
-    },
-    {
-      "id": "799ba3300da426070db0dc504eee67ea",
-      "title": "New Zealand bat; South Africa pick four debutants",
-      "summary": "South Africa's XI looks almost entirely different to the one that lost to New Zealand in the T20 World Cup semi-final",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528034.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414300/414347.jpg",
-      "published_at": "2026-03-15T06:37:59.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్ బ్యాట్; దక్షిణాఫ్రికా నలుగురు అరంగేట్ర ఆటగాళ్లను ఎంపిక చేసింది",
-      "summary_te": "T20 ప్రపంచ కప్ సెమీ-ఫైనల్‌లో న్యూజిలాండ్‌తో ఓడిపోయిన దక్షిణాఫ్రికా XI దాదాపు పూర్తిగా భిన్నంగా కనిపిస్తోంది.",
       "translated": true
     },
     {
