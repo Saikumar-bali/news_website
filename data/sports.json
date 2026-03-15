@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-03-15T17:30:00.933Z",
-  "updated_at_IST": "15/3/2026, 11:00:00 pm",
+  "updated_at": "2026-03-15T18:33:50.512Z",
+  "updated_at_IST": "16/3/2026, 12:03:50 am",
   "category": "sports",
   "count": 25,
   "articles": [
     {
       "id": "ddd3cd197436fe97f1496790663f6eab",
-      "title": "Tanzid ton gives Bangladesh fighting total on bouncy pitch",
-      "summary": "Pakistan's bowlers started poorly before recovering on a pitch where spinners and seamers found some assistance",
+      "title": "Tanzid 107, Taskin four-for trump Agha 106 to give Bangladesh series",
+      "summary": "Agha scored 106 off 98 balls after walking out at 67 for 4 in Pakistan's 291 chase but in vain",
       "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414698.jpg",
-      "published_at": "2026-03-15T17:10:24.000Z",
+      "published_at": "2026-03-15T18:03:36.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "టాంజిద్ టన్ బౌన్సీ పిచ్‌పై బంగ్లాదేశ్‌కు పోరాట టోటల్‌ని అందించాడు",
-      "summary_te": "స్పిన్నర్లు మరియు సీమర్‌లకు కొంత సహకారం లభించిన పిచ్‌పై కోలుకోకముందే పాకిస్తాన్ బౌలర్లు పేలవంగా ప్రారంభించారు",
+      "title_te": "టాంజిద్ 107, టాస్కిన్ ఫోర్-ఫర్ ట్రంప్ అఘా 106 పరుగులు చేసి బంగ్లాదేశ్ సిరీస్‌ను అందించారు",
+      "summary_te": "పాకిస్థాన్ 291 పరుగుల ఛేదనలో 4 వికెట్ల నష్టానికి 67 పరుగుల వద్ద ఆఘా 98 బంతుల్లో 106 పరుగులు చేశాడు, కానీ ఫలించలేదు.",
+      "translated": true
+    },
+    {
+      "id": "d476efe661959d6445b9215c637d7120",
+      "title": "Gill: 2027 ODI World Cup is the 'ultimate goal'",
+      "summary": "T20I captain Suryakumar calls 2024 T20 World Cup triumph as the \"spark\" that inspired the women team and men's teams to recent ICC titles",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528076.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/370600/370699.jpg",
+      "published_at": "2026-03-15T17:41:28.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గిల్: 2027 వన్డే ప్రపంచకప్ 'అంతిమ లక్ష్యం'",
+      "summary_te": "T20I కెప్టెన్ సూర్యకుమార్ 2024 T20 ప్రపంచ కప్ విజయాన్ని \"స్పర్క్\"గా పేర్కొన్నాడు, ఇది ఇటీవలి ICC టైటిల్స్‌కు మహిళల జట్టు మరియు పురుషుల జట్లను ప్రేరేపించింది",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "భుజానికి గాయం కావడంతో తలాత్‌ను ఆసుపత్రికి తరలించారు",
       "summary_te": "\"వైద్యులు తదుపరి వైద్య మూల్యాంకనం పూర్తి చేసిన తర్వాత గాయం యొక్క స్వభావం మరియు పరిధిని నిర్ణయిస్తారు\" అని PCB తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "c5b348ff55d851c4972e262efe456419",
-      "title": "Markram set to captain MSG after big Hundred pay-day",
-      "summary": "South Africa captain had been 'Number 1 priority' for Langer ahead of Thursday's auction",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527890.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412000/412011.jpg",
-      "published_at": "2026-03-13T14:06:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పెద్ద వంద పే-డే తర్వాత ఎమ్‌ఎస్‌జికి సారథిగా మార్క్‌రామ్ సిద్ధమయ్యాడు",
-      "summary_te": "గురువారం వేలానికి ముందు దక్షిణాఫ్రికా కెప్టెన్ లాంగర్‌కు 'నెంబర్ 1 ప్రాధాన్యత'",
       "translated": true
     }
   ]
