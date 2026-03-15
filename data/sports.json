@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T16:29:37.030Z",
-  "updated_at_IST": "15/3/2026, 9:59:37 pm",
+  "updated_at": "2026-03-15T17:30:00.933Z",
+  "updated_at_IST": "15/3/2026, 11:00:00 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ddd3cd197436fe97f1496790663f6eab",
+      "title": "Tanzid ton gives Bangladesh fighting total on bouncy pitch",
+      "summary": "Pakistan's bowlers started poorly before recovering on a pitch where spinners and seamers found some assistance",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414698.jpg",
+      "published_at": "2026-03-15T17:10:24.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "టాంజిద్ టన్ బౌన్సీ పిచ్‌పై బంగ్లాదేశ్‌కు పోరాట టోటల్‌ని అందించాడు",
+      "summary_te": "స్పిన్నర్లు మరియు సీమర్‌లకు కొంత సహకారం లభించిన పిచ్‌పై కోలుకోకముందే పాకిస్తాన్ బౌలర్లు పేలవంగా ప్రారంభించారు",
+      "translated": true
+    },
     {
       "id": "8f5fbabf2d73fa22e299bfde0e563f80",
       "title": "Samson on World Cup win: 'India is going to do this more and more often'",
@@ -30,20 +44,6 @@
       "language": "en",
       "title_te": "పాకిస్థాన్ మాజీ కెప్టెన్ సర్ఫరాజ్ అహ్మద్ అంతర్జాతీయ క్రికెట్‌కు రిటైర్మెంట్ ప్రకటించాడు",
       "summary_te": "అతను 54 టెస్టులు, 117 ODIలు మరియు 61 T20Iలతో ముగించాడు మరియు ఇమ్రాన్ ఖాన్ తర్వాత 50 ఓవర్ల ICC ట్రోఫీని ఎత్తిన ఏకైక పాక్ కెప్టెన్‌గా నిలిచాడు.",
-      "translated": true
-    },
-    {
-      "id": "ddd3cd197436fe97f1496790663f6eab",
-      "title": "Tanzid ton gives Bangladesh fighting total on bouncy pitch",
-      "summary": "Pakistan's bowlers started poorly before recovering on a pitch where spinners and seamers found some assistance",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414698.jpg",
-      "published_at": "2026-03-15T12:33:09.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "టాంజిద్ టన్ బౌన్సీ పిచ్‌పై బంగ్లాదేశ్‌కు పోరాట టోటల్‌ని అందించాడు",
-      "summary_te": "స్పిన్నర్లు మరియు సీమర్‌లకు కొంత సహకారం లభించిన పిచ్‌పై కోలుకోకముందే పాకిస్తాన్ బౌలర్లు పేలవంగా ప్రారంభించారు",
       "translated": true
     },
     {
