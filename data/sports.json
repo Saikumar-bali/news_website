@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-16T12:53:22.574Z",
-  "updated_at_IST": "16/3/2026, 6:23:22 pm",
+  "updated_at": "2026-03-16T14:24:51.163Z",
+  "updated_at_IST": "16/3/2026, 7:54:51 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "958196ae7679ecca70db9519165df2bf",
+      "title": "James Foster named CSK fielding coach",
+      "summary": "Former England wicketkeeper won the ILT20 as Desert Vipers head coach in January",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528113.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/343500/343501.jpg",
+      "published_at": "2026-03-16T13:18:28.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "జేమ్స్ ఫోస్టర్ CSK ఫీల్డింగ్ కోచ్‌గా ఎంపికయ్యాడు",
+      "summary_te": "ఇంగ్లండ్ మాజీ వికెట్ కీపర్ జనవరిలో డెసర్ట్ వైపర్స్ ప్రధాన కోచ్‌గా ILT20ని గెలుచుకున్నాడు",
+      "translated": true
+    },
     {
       "id": "d87f051b96dc80a76730c37b0ea02f74",
       "title": "Pakistan lodge official complaint about Bangladesh's review at end of chase",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "భారత ప్రపంచ కప్ విజయాలపై రోహిత్: 'ఇది ఆరంభం మాత్రమేనని నేను ఆశిస్తున్నాను'",
       "summary_te": "పురుషులు మరియు మహిళల జట్లు వారు నిర్మించిన వేగాన్ని కొనసాగించాలని ఆయన ఆకాంక్షించారు",
-      "translated": true
-    },
-    {
-      "id": "e0a521c9fc9b1da7a6c4fce367eb45b3",
-      "title": "Samson: India being in must-win territory 'fired me up'",
-      "summary": "\"I was absolutely broken because my dream was to win the World Cup and I was not even in the XI,\" Samson said",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527985.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414574.jpg",
-      "published_at": "2026-03-14T17:08:27.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "శాంసన్: భారత్ తప్పక గెలవాల్సిన ప్రాంతంలో ఉండటం 'నన్ను కాల్చివేసింది'",
-      "summary_te": "\"నేను పూర్తిగా విచ్ఛిన్నమయ్యాను ఎందుకంటే ప్రపంచ కప్ గెలవాలనేది నా కల మరియు నేను XIలో కూడా లేను\" అని శాంసన్ చెప్పాడు.",
       "translated": true
     }
   ]
