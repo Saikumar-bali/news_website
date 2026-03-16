@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-16T10:54:05.469Z",
-  "updated_at_IST": "16/3/2026, 4:24:05 pm",
+  "updated_at": "2026-03-16T11:51:17.759Z",
+  "updated_at_IST": "16/3/2026, 5:21:17 pm",
   "category": "telangana",
-  "count": 20,
+  "count": 21,
   "articles": [
+    {
+      "id": "f36c165994da967d0fc0e623fb7499e2",
+      "title": "Two arrested for murder of AR constable in Chilkanagar",
+      "summary": "The deceased was identified as Paruvula Sudheer Kumar, 32, an AR constable and resident of RTC Colony in Chengicherla",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-arrested-for-murder-of-ar-constable-in-chilkanagar/article70749019.ece",
+      "image": "https://th-i.thgim.com/public/news/national/z70uqt/article70749071.ece/alternates/LANDSCAPE_1200/iStock-1447145892%2017.jpg",
+      "published_at": "2026-03-16T07:42:05.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "చిల్కానగర్‌లో ఏఆర్‌ కానిస్టేబుల్‌ హత్య కేసులో ఇద్దరి అరెస్ట్‌",
+      "summary_te": "మృతుడు చెంగిచెర్ల ఆర్టీసీ కాలనీలో నివాసముంటున్న ఏఆర్ కానిస్టేబుల్ పరువుల సుధీర్ కుమార్ (32)గా గుర్తించారు.",
+      "translated": true
+    },
     {
       "id": "a2ab5b6c10b898882bee909996bdb38b",
       "title": "Light to moderate rain likely in Hyderabad on March 16, says IMD",

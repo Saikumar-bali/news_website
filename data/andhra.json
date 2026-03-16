@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-16T10:54:05.469Z",
-  "updated_at_IST": "16/3/2026, 4:24:05 pm",
+  "updated_at": "2026-03-16T11:51:17.759Z",
+  "updated_at_IST": "16/3/2026, 5:21:17 pm",
   "category": "andhra",
   "count": 23,
   "articles": [
+    {
+      "id": "eae9e8173fe957a9c2ae8d75e86773fa",
+      "title": "Fire breaks out in ticket-issuing office in Nellore railway station; stationery burnt",
+      "summary": "Fire tender rushed to the spot and put off the flames",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/fire-breaks-out-in-ticket-issuing-office-in-nellore-railway-station-stationery-burnt/article70749123.ece",
+      "image": "https://th-i.thgim.com/public/incoming/3g1bv8/article70749231.ece/alternates/LANDSCAPE_1200/thvli%20fire%20representational.jpeg",
+      "published_at": "2026-03-16T08:52:08.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "నెల్లూరు రైల్వే స్టేషన్‌లోని టికెట్‌ జారీ చేసే కార్యాలయంలో అగ్ని ప్రమాదం; స్టేషనరీ కాలిపోయింది",
+      "summary_te": "అగ్నిమాపక సిబ్బంది ఘటనా స్థలానికి చేరుకుని మంటలను అదుపు చేశారు",
+      "translated": true
+    },
     {
       "id": "9f1846629f84477eac750f04e871b2cf",
       "title": "Narcotics case: Naidu asks MP Putta Mahesh to stay away from party activities",
@@ -253,7 +267,7 @@
       "category": "andhra",
       "language": "en",
       "title_te": "మార్చి 19 నుంచి ఉగాది వసంత నవరాత్రులకు కనకదుర్గ ఆలయం ముస్తాబైంది",
-      "summary_te": "ఉగాది మరియు శ్రీరామ నవమి సందర్భంగా మార్చి 19 నుండి 28 వరకు పుష్పార్చనలు, వైదిక క్రతువులు మరియు వెండి రధోత్సవం నిర్వహించేందుకు శ్రీ దుర్గా మల్లేశ్వర స్వామివార్ల దేవస్థానం; దర్శనం మరియు ప్రసాదం కోసం ఒక్కో జంటకు ₹2,500 చొప్పున ప్రత్యేక సేవా టిక్కెట్లు",
+      "summary_te": "ఉగాది మరియు శ్రీరామ నవమి సందర్భంగా మార్చి 19 నుండి 28 వరకు పుష్పార్చనలు, వైదిక క్రతువులు మరియు వెండి రధోత్సవం నిర్వహించేందుకు శ్రీ దుర్గా మల్లేశ్వర స్వామివార్ల దేవస్థానం; దర్శనం మరియు ప్రసాదం కోసం ఒక్కో జంటకు ₹2,500 ప్రత్యేక సేవా టిక్కెట్లు",
       "translated": true
     },
     {
@@ -310,20 +324,6 @@
       "language": "en",
       "title_te": "మార్చి 16 నుంచి ఉగాది మహోత్సవాలకు శ్రీశైలం ముస్తాబైంది",
       "summary_te": "ఆలయ అధికారులు మరియు పోలీసులు దర్శనం మరియు యాత్రికుల సౌకర్యాల కోసం విస్తృతమైన ఏర్పాట్లు చేయడంతో కర్ణాటక మరియు మహారాష్ట్ర నుండి భక్తులు నల్లమల అడవి గుండా ట్రెక్కింగ్ చేస్తారు.",
-      "translated": true
-    },
-    {
-      "id": "f0abb02386fbfa0cf2eeb7f5d8796c46",
-      "title": "Minister reviews development works in Banaganapalle",
-      "summary": "Janardhan Reddy inspects the work being done to construct the side wall of Jurreru Vagu, as well as the walking track being developed along the stream, among others",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-reviews-development-works-in-banaganapalle/article70746293.ece",
-      "image": "https://th-i.thgim.com/public/incoming/t6zwp7/article70746602.ece/alternates/LANDSCAPE_1200/10215_15_3_2026_18_0_15_3_USM_8748JPG.JPEG",
-      "published_at": "2026-03-15T13:24:46.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "బనగానపల్లెలో అభివృద్ధి పనులను మంత్రి సమీక్షించారు",
-      "summary_te": "జనార్దన్‌రెడ్డి జుర్రేరు వాగు సైడ్‌వాల్‌ నిర్మాణం, వాగు వెంట అభివృద్ధి చేస్తున్న వాకింగ్‌ ట్రాక్‌ తదితర పనులను పరిశీలించారు.",
       "translated": true
     }
   ]
