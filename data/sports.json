@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-16T18:04:35.093Z",
-  "updated_at_IST": "16/3/2026, 11:34:35 pm",
+  "updated_at": "2026-03-16T18:56:13.876Z",
+  "updated_at_IST": "17/3/2026, 12:26:13 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "123c9c433f1b6a747850f3f988373c4e",
+      "title": "Harshit Rana set to miss bulk of IPL season after knee surgery",
+      "summary": "He is currently undergoing rehab and the BCCI medical team has not yet earmarked a date of return",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528132.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411800/411863.jpg",
+      "published_at": "2026-03-16T18:27:40.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మోకాలి శస్త్ర చికిత్స తర్వాత హర్షిత్ రానా ఐపీఎల్ సీజన్‌లో ఎక్కువ భాగం మిస్ అయ్యాడు",
+      "summary_te": "అతను ప్రస్తుతం పునరావాసంలో ఉన్నాడు మరియు BCCI వైద్య బృందం ఇంకా తిరిగి వచ్చే తేదీని కేటాయించలేదు",
+      "translated": true
+    },
+    {
+      "id": "0374b0b13ede0efae9111910dcda0957",
+      "title": "BCB warns Bangladesh government against interfering in board matters",
+      "summary": "The Bangladesh sports ministry has formed a committee to investigate allegations of malpractice during last year's BCB elections",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528129.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412200/412277.jpg",
+      "published_at": "2026-03-16T17:56:22.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బోర్డు వ్యవహారాల్లో జోక్యం చేసుకోవద్దని బీసీబీ బంగ్లాదేశ్ ప్రభుత్వాన్ని హెచ్చరించింది",
+      "summary_te": "గతేడాది జరిగిన బీసీబీ ఎన్నికల సందర్భంగా జరిగిన అవకతవకలపై దర్యాప్తు చేసేందుకు బంగ్లాదేశ్ క్రీడా మంత్రిత్వ శాఖ ఒక కమిటీని ఏర్పాటు చేసింది",
+      "translated": true
+    },
     {
       "id": "958196ae7679ecca70db9519165df2bf",
       "title": "James Foster named CSK fielding coach",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "అమేలియా కెర్ మరియు జార్జియా ప్లిమ్మర్ సౌత్ ఆఫ్రికా స్టీమ్ రోల్",
       "summary_te": "వారు 146 పరుగుల భాగస్వామ్యాన్ని నెలకొల్పారు, మహిళల టీ20లలో న్యూజిలాండ్‌కు నాల్గవ అత్యధిక విజయాన్ని అందించారు.",
-      "translated": true
-    },
-    {
-      "id": "2c22c4b839d92fd3921f9c13347c35c5",
-      "title": "MCA launches women's edition of T20 Mumbai League",
-      "summary": "The inaugural season will have three teams, operated by PRS Infraprojects LLP, Roadway Solution India Infra Ltd and World Star Sporting Private Limited",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527989.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414678.jpg",
-      "published_at": "2026-03-14T17:57:19.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "MCA T20 ముంబై లీగ్ మహిళల ఎడిషన్‌ను ప్రారంభించింది",
-      "summary_te": "ప్రారంభ సీజన్‌లో PRS ఇన్‌ఫ్రాప్రాజెక్ట్స్ LLP, రోడ్‌వే సొల్యూషన్ ఇండియా ఇన్‌ఫ్రా లిమిటెడ్ మరియు వరల్డ్ స్టార్ స్పోర్టింగ్ ప్రైవేట్ లిమిటెడ్ నిర్వహించే మూడు జట్లు ఉంటాయి.",
-      "translated": true
-    },
-    {
-      "id": "482223a80dd8f64f8eeef9a9f0bb0d26",
-      "title": "Rohit on India's World Cup wins: 'I hope this is just the start'",
-      "summary": "He wishes the men's and women's teams carry the momentum that they have built",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527987.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/384300/384352.jpg",
-      "published_at": "2026-03-14T17:38:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "భారత ప్రపంచ కప్ విజయాలపై రోహిత్: 'ఇది ఆరంభం మాత్రమేనని నేను ఆశిస్తున్నాను'",
-      "summary_te": "పురుషులు మరియు మహిళల జట్లు వారు నిర్మించిన వేగాన్ని కొనసాగించాలని ఆయన ఆకాంక్షించారు",
       "translated": true
     }
   ]
