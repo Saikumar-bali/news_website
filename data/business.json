@@ -1,12 +1,54 @@
 {
-  "updated_at": "2026-03-16T16:07:18.205Z",
-  "updated_at_IST": "16/3/2026, 9:37:18 pm",
+  "updated_at": "2026-03-16T17:02:15.233Z",
+  "updated_at_IST": "16/3/2026, 10:32:15 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "81cb8d282093645993b4441633a08483",
+      "title": "India cuts port charges to aid ships stranded by Hormuz blockade",
+      "summary": "India has allowed stranded vessels to dock at its ports with reduced charges due to the ongoing conflict in West Asia and the closure of the Strait of Hormuz. The Jawaharlal Nehru Port Authority is providing rebates on storage and other fees for West Asia-bound cargoes.",
+      "url": "https://www.livemint.com/news/india/india-offer-shipping-lines-relaxations-in-berth-and-storage-charges-at-major-ports-amid-war-in-west-asia-11773672544770.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/PTI03-03-2026-000176A-0_1773678326716_1773678345262.jpg",
+      "published_at": "2026-03-16T16:44:10.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "హార్ముజ్ దిగ్బంధనంలో చిక్కుకుపోయిన నౌకలకు సహాయం చేయడానికి భారతదేశం పోర్ట్ ఛార్జీలను తగ్గించింది",
+      "summary_te": "పశ్చిమాసియాలో కొనసాగుతున్న సంఘర్షణ మరియు హార్ముజ్ జలసంధి మూసివేత కారణంగా భారతదేశం ఒడ్డున ఉన్న నౌకలను తన నౌకాశ్రయాల వద్ద తగ్గిన ఛార్జీలతో డాక్ చేయడానికి అనుమతించింది. జవహర్‌లాల్ నెహ్రూ పోర్ట్ అథారిటీ పశ్చిమాసియాకు వెళ్లే కార్గోలకు నిల్వ మరియు ఇతర రుసుములపై ​​రాయితీలను అందిస్తోంది.",
+      "translated": true
+    },
+    {
+      "id": "b4be468b4632fe4668cc1efd90cdb478",
+      "title": "Netanyahu posts new video after Grok flags coffee shop clip as deepfake amid death rumours — but is this one real?",
+      "summary": "The clip surfaced as debates continued online over whether the earlier coffee shop video was satire, a deepfake, or part of a broader attempt to counter viral death rumours.",
+      "url": "https://www.livemint.com/news/world/netanyahu-posts-new-video-after-grok-flags-coffee-shop-clip-as-deepfake-amid-death-rumours-but-is-this-one-real-11773672459362.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/netanyahu_1773673792088_1773673797104.jpg",
+      "published_at": "2026-03-16T16:33:26.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "డెత్ పుకార్ల మధ్య కాఫీ షాప్ క్లిప్‌ను డీప్‌ఫేక్ అని గ్రోక్ ఫ్లాగ్ చేసిన తర్వాత నెతన్యాహు కొత్త వీడియోను పోస్ట్ చేసారు — అయితే ఇది నిజమేనా?",
+      "summary_te": "మునుపటి కాఫీ షాప్ వీడియో వ్యంగ్యమా, డీప్‌ఫేక్ లేదా వైరల్ డెత్ పుకార్లను ఎదుర్కోవడానికి విస్తృత ప్రయత్నంలో భాగమా అనే దానిపై ఆన్‌లైన్‌లో చర్చలు కొనసాగుతున్నందున క్లిప్ బయటపడింది.",
+      "translated": true
+    },
+    {
+      "id": "4f9d84c191a510e39a269b78a86b71a3",
+      "title": "Who is Seth Chambers, ex-Marine Intel analyst indicted for leaking classified US defense information to China?",
+      "summary": "A former Marine Intelligence analyst from Texas County, Missouri, was indicted for transmitting national defense information. He allegedly shared classified documents with individuals in Maryland and China. The charges are allegations pending evidence presentation in a federal trial.",
+      "url": "https://www.livemint.com/news/us-news/who-is-seth-chambers-ex-marine-intel-analyst-indicted-for-leaking-classified-us-defense-information-to-china-11773673464087.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/FBI_1773676727466_1773676727679.jpg",
+      "published_at": "2026-03-16T16:05:15.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "చైనాకు క్లాసిఫైడ్ US రక్షణ సమాచారాన్ని లీక్ చేసినందుకు నేరారోపణ చేయబడిన మాజీ-మెరైన్ ఇంటెల్ విశ్లేషకుడు సేథ్ ఛాంబర్స్ ఎవరు?",
+      "summary_te": "మిస్సౌరీలోని టెక్సాస్ కౌంటీకి చెందిన మాజీ మెరైన్ ఇంటెలిజెన్స్ విశ్లేషకుడు జాతీయ రక్షణ సమాచారాన్ని ప్రసారం చేసినందుకు అభియోగాలు మోపారు. అతను మేరీల్యాండ్ మరియు చైనాలోని వ్యక్తులతో రహస్య పత్రాలను పంచుకున్నాడని ఆరోపించారు. ఆరోపణలు ఫెడరల్ ట్రయల్‌లో సాక్ష్యం ప్రదర్శన పెండింగ్‌లో ఉన్న ఆరోపణలు.",
+      "translated": true
+    },
+    {
       "id": "1a756f718a44818d04784b22d3c1da46",
-      "title": "Candace Owen mocks Erika Kirk over Epstein link, sex trafficker claim; netizens roast her ‘gives me the ick’",
+      "title": "Candace Owen mocks Erika Kirk over Epstein link, sex trafficker claim; netizens roast her — ‘gives me the ick’",
       "summary": "“I have a hunch, a growing hunch, that Erika and Jeffrey Epstein may have crossed paths,” Candace told listeners, as per several reports.",
       "url": "https://www.livemint.com/news/trends/candace-owen-mocks-erika-kirk-over-epstein-link-sex-trafficker-claim-netizens-roast-her-gives-me-the-ick-11773673474107.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/Erika_1773675263130_1773675268020.jpg",
@@ -14,7 +56,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కాండేస్ ఓవెన్ ఎరికా కిర్క్‌ను ఎప్స్టీన్ లింక్‌పై వెక్కిరించాడు, సెక్స్ ట్రాఫికర్ దావా; నెటిజన్లు ఆమెను ‘గివ్స్ ది ఐక్’",
+      "title_te": "కాండేస్ ఓవెన్ ఎరికా కిర్క్‌ను ఎప్స్టీన్ లింక్‌పై వెక్కిరించాడు, సెక్స్ ట్రాఫికర్ దావా; నెటిజన్లు ఆమెను కాల్చివేశారు - 'నాకు ఐక్ ఇస్తుంది'",
       "summary_te": "\"ఎరికా మరియు జెఫ్రీ ఎప్‌స్టీన్ దారులు దాటిపోయి ఉండవచ్చని నాకు ఒక హంచ్ ఉంది, పెరుగుతోంది,\" అని కాండేస్ అనేక నివేదికల ప్రకారం శ్రోతలకు చెప్పారు.",
       "translated": true
     },
@@ -49,7 +91,7 @@
     {
       "id": "85062fc2b8017416df2272bd87904dc8",
       "title": "MEA clarifies India hasn't engaged in bilateral talks with US amid Trump's call to deploy warships to Strait of Hormuz",
-      "summary": "India clarified that it has not engaged in bilateral talks with the US about ensuring safe passage for merchant ships through the Strait of Hormuz. The statement follows US President Trump's calls for nations to deploy warships to keep the crucial maritime corridor open.",
+      "summary": "India clarifies that it has not engaged in bilateral talks with the US about ensuring safe passage for merchant ships through the Strait of Hormuz. The statement follows US President Donald Trump's calls for nations to deploy warships to keep the crucial maritime corridor open.",
       "url": "https://www.livemint.com/news/india/mea-clarifies-india-hasnt-engaged-in-bilateral-talks-with-us-amid-trumps-call-to-deploy-warships-to-strait-of-hormuz-11773670856453.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/PTI03-16-2026-000346B-0_1773672885349_1773672893258.jpg",
       "published_at": "2026-03-16T14:57:32.000Z",
@@ -57,7 +99,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హోర్ముజ్ జలసంధికి యుద్ధనౌకలను మోహరించాలన్న ట్రంప్ పిలుపు మధ్య భారత్ అమెరికాతో ద్వైపాక్షిక చర్చల్లో పాల్గొనలేదని MEA స్పష్టం చేసింది.",
-      "summary_te": "హోర్ముజ్ జలసంధి గుండా వాణిజ్య నౌకలు సురక్షితంగా వెళ్లేలా అమెరికాతో ద్వైపాక్షిక చర్చలు జరపలేదని భారత్ స్పష్టం చేసింది. కీలకమైన సముద్ర కారిడార్‌ను తెరిచి ఉంచేందుకు యుద్ధనౌకలను మోహరించాలని అమెరికా అధ్యక్షుడు ట్రంప్ దేశాలకు పిలుపునిచ్చిన నేపథ్యంలో ఈ ప్రకటన వెలువడింది.",
+      "summary_te": "హార్ముజ్ జలసంధి గుండా వాణిజ్య నౌకలకు సురక్షితమైన మార్గం కల్పించడంపై అమెరికాతో ద్వైపాక్షిక చర్చలు జరపలేదని భారత్ స్పష్టం చేసింది. కీలకమైన సముద్ర కారిడార్‌ను తెరిచి ఉంచేందుకు యుద్ధనౌకలను మోహరించాలని అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ దేశాలకు పిలుపునిచ్చిన నేపథ్యంలో ఈ ప్రకటన వెలువడింది.",
       "translated": true
     },
     {
@@ -355,20 +397,6 @@
       "translated": true
     },
     {
-      "id": "20cd7a9e8d6f6370a05171d3617892f7",
-      "title": "Queen Camilla's strained relationship with Andrew: Former prince ‘played politics’ after Diana's death: Royal insiders",
-      "summary": "Queen Camilla's strained relationship with Andrew Mountbatten-Windsor dates back to before the Epstein scandal, with allegations of him undermining her and King Charles.",
-      "url": "https://www.livemint.com/news/world/queen-camillas-strained-relationship-with-andrew-former-prince-played-politics-after-dianas-death-royal-insiders-11773646484129.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/Andrew_Camilla_1773647246362_1773647252565.jpg",
-      "published_at": "2026-03-16T07:50:48.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆండ్రూతో క్వీన్ కెమిల్లా యొక్క సంబంధాలు దెబ్బతిన్నాయి: డయానా మరణం తర్వాత మాజీ యువరాజు 'రాజకీయాలు ఆడాడు': రాయల్ ఇన్సైడర్స్",
-      "summary_te": "ఆండ్రూ మౌంట్‌బాటెన్-విండ్సర్‌తో క్వీన్ కెమిల్లా యొక్క బంధం ఎప్స్టీన్ కుంభకోణానికి ముందు నుండి ఉంది, అతను ఆమెను మరియు కింగ్ చార్లెస్‌ను అణగదొక్కాడనే ఆరోపణలతో.",
-      "translated": true
-    },
-    {
       "id": "c0c30f756d1749c65a17cc895eb02750",
       "title": "Vodafone Idea shares jump 5% as JSW, ST Telemedia eye stake in the telco",
       "summary": "Vodafone Idea shares rose ahrply on Monday after ET reported that JSW Group and ST Telemedia are exploring a potential stake in the telecom operator. The discussions are exploratory, following government-backed financial relief, as Vi seeks strategic investors to strengthen capital and reduce spectrum liabilities.",
@@ -380,34 +408,6 @@
       "language": "en",
       "title_te": "టెల్కోలో JSW, ST టెలిమీడియా దృష్టిలో వోడాఫోన్ ఐడియా షేర్లు 5% పెరిగాయి",
       "summary_te": "JSW గ్రూప్ మరియు ST టెలిమీడియా టెలికాం ఆపరేటర్‌లో సంభావ్య వాటాను అన్వేషిస్తున్నాయని ET నివేదించిన తర్వాత సోమవారం వోడాఫోన్ ఐడియా షేర్లు భారీగా పెరిగాయి. మూలధనాన్ని బలోపేతం చేయడానికి మరియు స్పెక్ట్రమ్ బాధ్యతలను తగ్గించడానికి Vi వ్యూహాత్మక పెట్టుబడిదారులను వెతుకుతున్నందున, ప్రభుత్వ-మద్దతుగల ఆర్థిక ఉపశమనాన్ని అనుసరించి చర్చలు పరిశోధనాత్మకంగా ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "beb2e1fddb4130d25114d11597b5cde1",
-      "title": "Petrol, diesel prices on 16 March: Check fuel rates in your city today — Bengaluru, Mumbai, Delhi",
-      "summary": "Petrol and diesel prices in India remained stable on 16 March, despite global oil market volatility driven by geopolitical tensions in the Middle East. Here are the fuel rates for Mumbai, Bengaluru, Ahmedabad, and other cities.&nbsp;",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-on-16-march-check-fuel-rates-in-your-city-today-bengaluru-mumbai-delhi-11773639089097.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1773640983234.jpg",
-      "published_at": "2026-03-16T06:29:38.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మార్చి 16న పెట్రోల్, డీజిల్ ధరలు: ఈరోజు మీ నగరంలో ఇంధన ధరలను తనిఖీ చేయండి — బెంగళూరు, ముంబై, ఢిల్లీ",
-      "summary_te": "మధ్యప్రాచ్యంలోని భౌగోళిక రాజకీయ ఉద్రిక్తతల కారణంగా ప్రపంచ చమురు మార్కెట్ అస్థిరత ఉన్నప్పటికీ, భారతదేశంలో పెట్రోలు మరియు డీజిల్ ధరలు మార్చి 16న స్థిరంగా ఉన్నాయి. ముంబై, బెంగళూరు, అహ్మదాబాద్ మరియు ఇతర నగరాలకు ఇంధన ధరలు ఇక్కడ ఉన్నాయి. ",
-      "translated": true
-    },
-    {
-      "id": "53011aa128612250dc8cf1d2bb37fc5e",
-      "title": "Trump’s Strait of Hormuz coalition: Australia, Japan rule out sending ships; US president turns to China, threatens NATO",
-      "summary": "Trump's call for international support to reopen the Strait of Hormuz has been met with scepticism. Major allies, including the UK, Australia and Japan have declined to send naval forces, while EU ministers will consider a limited naval mission to protect shipping against Houthi attacks.",
-      "url": "https://www.livemint.com/news/world/trumps-strait-of-hormuz-coalition-australia-japan-rule-out-sending-ships-us-president-looks-to-china-threatens-nato-11773640284582.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/IRAN-CRISIS-SOUTHKOREA-PROTEST-7_1773641476012_1773641491507.JPG",
-      "published_at": "2026-03-16T06:12:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ట్రంప్ యొక్క స్ట్రెయిట్ ఆఫ్ హార్ముజ్ సంకీర్ణం: ఆస్ట్రేలియా, జపాన్ నౌకలను పంపడాన్ని తోసిపుచ్చాయి; అమెరికా అధ్యక్షుడు చైనా వైపు తిరిగి, NATOను బెదిరించాడు",
-      "summary_te": "హార్ముజ్ జలసంధిని తిరిగి తెరవడానికి అంతర్జాతీయ మద్దతు కోసం ట్రంప్ చేసిన పిలుపు సందేహాస్పదంగా ఉంది. UK, ఆస్ట్రేలియా మరియు జపాన్‌తో సహా ప్రధాన మిత్రదేశాలు నావికా దళాలను పంపడానికి నిరాకరించాయి, అయితే EU మంత్రులు హౌతీ దాడుల నుండి షిప్పింగ్‌ను రక్షించడానికి పరిమిత నౌకాదళ మిషన్‌ను పరిశీలిస్తారు.",
       "translated": true
     },
     {
