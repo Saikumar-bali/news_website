@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-16T17:02:15.233Z",
-  "updated_at_IST": "16/3/2026, 10:32:15 pm",
+  "updated_at": "2026-03-16T18:04:35.093Z",
+  "updated_at_IST": "16/3/2026, 11:34:35 pm",
   "category": "andhra",
-  "count": 21,
+  "count": 20,
   "articles": [
+    {
+      "id": "091d38f1cea91525b1adcce587e01867",
+      "title": "Three from Karnataka killed, five hurt as two vehicles collide in Markapuram district in A.P.",
+      "summary": "They were returning from Srisailam when the accident took place near Jangamguntla village on NH 544D",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-from-karnataka-killed-five-hurt-as-two-vehicles-collide-in-markapuram-district-in-ap/article70750540.ece",
+      "image": null,
+      "published_at": "2026-03-16T16:42:51.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఏపీలోని మార్కాపురం జిల్లాలో రెండు వాహనాలు ఢీకొన్న ఘటనలో కర్ణాటకకు చెందిన ముగ్గురు మృతి చెందగా, ఐదుగురు గాయపడ్డారు.",
+      "summary_te": "వీరు శ్రీశైలం నుంచి తిరిగి వస్తుండగా జంగంగుంట్ల గ్రామ సమీపంలో ఎన్‌హెచ్ 544డిలో ఈ ప్రమాదం జరిగింది.",
+      "translated": true
+    },
     {
       "id": "13ef92e09f76ca93d4e36e785d3d3372",
       "title": "Potti Sriramulu’s sacrifice will inspire generations, says Jagan",
@@ -145,20 +159,6 @@
       "translated": true
     },
     {
-      "id": "091d38f1cea91525b1adcce587e01867",
-      "title": "Three from Karnataka killed, five hurt as two vehicles collide in Markapuram district in A.P.",
-      "summary": "They were returning from Srisailam when the accident took place near Jangamguntla village on NH 544D",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-from-karnataka-killed-five-hurt-as-two-vehicles-collide-in-markapuram-district-in-ap/article70750540.ece",
-      "image": null,
-      "published_at": "2026-03-16T15:13:11.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఏపీలోని మార్కాపురం జిల్లాలో రెండు వాహనాలు ఢీకొన్న ఘటనలో కర్ణాటకకు చెందిన ముగ్గురు మృతి చెందగా, ఐదుగురు గాయపడ్డారు.",
-      "summary_te": "వీరు శ్రీశైలం నుంచి తిరిగి వస్తుండగా జంగంగుంట్ల గ్రామ సమీపంలో ఎన్‌హెచ్ 544డిలో ఈ ప్రమాదం జరిగింది.",
-      "translated": true
-    },
-    {
       "id": "06b160411dde60a18fd1d2c96dc7b730",
       "title": "Man arrested for ‘sexually abusing’ minor",
       "summary": "The police on Monday (March 16, 2026) arrested a 55-year-old man for allegedly sexually abusing an eight-year-old girl at Chintalapudi mandal in Eluru district. The accused has been identified as B. Ramulu, Chintalapudi Circle Inspector Kranthi Kumar said.The police said that the girl’s grandmother lodged a complaint alleging that Ramulu, who was their neighbour, was sexually abusing her granddaughter. The Chintalapudi police registered a case under Protection of Children from Sexual Offences (POCSO) Act, 2012, and other charges against the accused, the CI said. The girl was sent for medical examination, he added.",
@@ -282,20 +282,6 @@
       "language": "en",
       "title_te": "ఆంధ్రప్రదేశ్‌లో వేడి నుండి ఉపశమనం కలిగించడానికి తేలికపాటి జల్లులు",
       "summary_te": "ఉరుములు మరియు మెరుపులతో కూడిన తేలికపాటి నుండి మోస్తరు వర్షాలు, ఆంధ్రప్రదేశ్ ప్రజలకు వేడి నుండి ఉపశమనం కలిగించే అవకాశం ఉంది. భారత వాతావరణ శాఖ (IMD)-అమరావతి జారీ చేసిన వారపు సూచన ప్రకారం, మార్చి 19, 20 మరియు 21 తేదీల్లో రాష్ట్రవ్యాప్తంగా తేలికపాటి నుండి మోస్తరు వర్షాలు కురిసే అవకాశం ఉంది. మార్చి 17 మరియు 18 తేదీల్లో పొడి వాతావరణం నెలకొని ఉంటుంది, ఒకటి రెండు చోట్ల తేలికపాటి జల్లులు కురిసే అవకాశం ఉంది. మార్చి 18, 19 మరియు 20 తేదీల్లో పాదరసం క్రమంగా 2-3° తగ్గుతుంది. రాష్ట్రంలో 50 kmph వేగంతో గాలులు కూడా వీచే అవకాశం ఉంది. IMD ప్రకారం, రాష్ట్రంలో వాతావరణాన్ని ప్రభావితం చేసే రెండు వ్యవస్థలు ఉన్నాయి. ఉత్తర ఇంటీరియర్ కర్ణాటక నుండి దక్షిణ అంతర్గత కర్ణాటక, తమిళనాడు మీదుగా కొమోరిన్ ప్రాంతం వరకు సగటు సముద్ర మట్టానికి 0.9 కి.మీ ఎత్తులో ఒక ద్రోణి ఉంది. సముద్ర మట్టానికి 1.5 కి.మీ ఎత్తులో ఉత్తర కోస్తా తమిళనాడు మీదుగా ఎగువ వాయు తుఫాను ఉంది. అలాగే, ఆంధ్రప్రదేశ్‌లో తక్కువ ట్రోపోస్పిరిక్ ఆగ్నేయ/నైరుతి గాలులు వీస్తున్నాయి. మార్చి మొదటి వారంలో తీవ్రమైన వేడి తర్వాత, రాష్ట్రంలో గరిష్ఠ ఉష్ణోగ్రతలు తగ్గాయి, ఇవి రాయలసీమలో 38-39 డిగ్రీల సెల్సియస్‌గా ఉన్నాయి మరియు 35-36 డిగ్రీల సెల్సియస్ మధ్య సాధారణ ఉష్ణోగ్రతలు ఉన్నాయి. సోమవారం, అనంతపురంలో రోజులో అత్యధికంగా 38.6° సెల్సియస్ నమోదైంది. ఒంగోలులో 32.9° సెల్సియస్, అమరావతిలో 34.6° సెల్సియస్, మచిలీపట్నంలో 32.9° సెల్సియస్, విశాఖపట్నంలో 31.4° సెల్సియస్ గా నమోదయ్యాయి.",
-      "translated": true
-    },
-    {
-      "id": "c6b2a96fa30e78b2f3988c0c22225729",
-      "title": "Ravindra Sannareddy on ASSOCHAM panel",
-      "summary": "Sri City founder-managing director Ravindra Sannareddy has been appointed as the Chairman of Associated Chambers of Commerce and Industry of India (ASSOCHAM) national council on SEZs and industrial zones for 2026-27.The appointment is aimed at bringing eminent industry leaders and domain experts together to guide policy dialogue and strengthen India’s SEZ ecosystem.Former zonal development commissioner of Noida SEZ and former director general of Export Promotion Council for EOUs and SEZs, L.B. Singhal, shares the leadership team with Mr. Ravindra Sannareddy, along with Centrum Legal managing partner and the author of the book Law and Practice relating to SEZ, Hitender Mehta.ASSOCHAM President Nirmal K. Minda, who announced the formation of the council, called the leadership team as capable of steering the industry body’s SEZ initiatives.Mr. Sannareddy, who expressed happiness over taking the new responsibility, called it the right time to position and strengthen SEZs as engines of ‘Viksit Bharat’.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ravindra-sannareddy-on-assocham-panel/article70750300.ece",
-      "image": "https://th-i.thgim.com/public/incoming/3vgnea/article70750565.ece/alternates/LANDSCAPE_1200/10745_16_3_2026_19_9_34_1_IMG_20260316_WA0080.JPG",
-      "published_at": "2026-03-16T14:23:04.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "అసోచామ్ ప్యానెల్‌లో రవీంద్ర సన్నారెడ్డి",
-      "summary_te": "శ్రీ సిటీ వ్యవస్థాపక-మేనేజింగ్ డైరెక్టర్ రవీంద్ర సన్నారెడ్డి అసోసియేటెడ్ ఛాంబర్స్ ఆఫ్ కామర్స్ అండ్ ఇండస్ట్రీ ఆఫ్ ఇండియా (అసోచామ్) నేషనల్ కౌన్సిల్ ఆఫ్ సెజ్‌లు మరియు ఇండస్ట్రియల్ జోన్‌లకు 2026-27కి ఛైర్మన్‌గా నియమితులయ్యారు. ఈ నియామకం ప్రముఖ పరిశ్రమల ప్రముఖులు మరియు డొమైన్ నిపుణులను ఒకచోట చేర్చడం లక్ష్యంగా పెట్టుకుంది. నోయిడా SEZ మరియు EOUలు మరియు SEZల కోసం ఎక్స్‌పోర్ట్ ప్రమోషన్ కౌన్సిల్ మాజీ డైరెక్టర్ జనరల్, L.B. సింఘాల్, మిస్టర్ రవీంద్ర సన్నారెడ్డితో పాటు, సెంట్రమ్ లీగల్ మేనేజింగ్ పార్ట్‌నర్ మరియు సెజ్‌కి సంబంధించిన లా అండ్ ప్రాక్టీస్ పుస్తక రచయిత హితేందర్ మెహతాతో కలిసి నాయకత్వ బృందాన్ని పంచుకున్నారు. మండలి ఏర్పాటును ప్రకటించిన ASSOCHAM ప్రెసిడెంట్ నిర్మల్ K. మిండా, ఇండస్ట్రీ బాడీని నడిపించగల సామర్థ్యం ఉన్న నాయకత్వ బృందాన్ని పిలిచారు. SEMRZ. కొత్త బాధ్యతలు స్వీకరించడం పట్ల సంతోషం వ్యక్తం చేసిన సన్నారెడ్డి, సెజ్‌లను ‘విక్షిత్ భారత్’ ఇంజిన్‌లుగా మార్చేందుకు, బలోపేతం చేయడానికి ఇదే సరైన సమయమని పేర్కొన్నారు.",
       "translated": true
     }
   ]
