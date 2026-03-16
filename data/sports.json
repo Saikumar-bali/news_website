@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-15T23:29:58.683Z",
-  "updated_at_IST": "16/3/2026, 4:59:58 am",
+  "updated_at": "2026-03-16T01:17:54.036Z",
+  "updated_at_IST": "16/3/2026, 6:47:54 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "83993dec024a4448012dd9fe91096fd0",
+      "title": "Sodhi ruled out of South Africa series with broken thumb",
+      "summary": "The legspinner was struck during training ahead of the opening match",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528081.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/383000/383057.jpg",
+      "published_at": "2026-03-15T23:34:44.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బొటనవేలు విరగడంతో సోధి దక్షిణాఫ్రికా సిరీస్‌కు దూరమయ్యాడు",
+      "summary_te": "ఓపెనింగ్ మ్యాచ్‌కు ముందు ట్రైనింగ్ సమయంలో లెగ్‌స్పిన్నర్‌కు దెబ్బ తగిలింది",
+      "translated": true
+    },
     {
       "id": "d87f051b96dc80a76730c37b0ea02f74",
       "title": "Pakistan lodge official complaint about Bangladesh's review at end of chase",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "పాకిస్థాన్‌కు ఆల్ రౌండ్ సదాకత్ స్థాయి సిరీస్",
       "summary_te": "వర్షం కారణంగా 242 పరుగుల ఛేదనలో బంగ్లాదేశ్ 114 పరుగులకు ఆలౌటైంది",
-      "translated": true
-    },
-    {
-      "id": "084286fc79fe823f43438166755019a1",
-      "title": "Agha left fuming after unusual run-out by Mehidy in second ODI",
-      "summary": "Agha tried to pick up the ball at the non-striker's end while still being outside the crease and was out when Mehidy picked it up and got a direct hit",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527882.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
-      "published_at": "2026-03-13T17:55:54.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రెండో ODIలో మెహిదీ అసాధారణ రనౌట్‌తో అఘా మండిపడింది",
-      "summary_te": "అఘా క్రీజు వెలుపల ఉండగానే నాన్‌స్ట్రైకర్స్ ఎండ్‌లో బంతిని తీయడానికి ప్రయత్నించాడు మరియు మెహిదీ దానిని అందుకొని నేరుగా హిట్ అందుకున్నాడు.",
       "translated": true
     }
   ]

@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-15T23:29:58.683Z",
-  "updated_at_IST": "16/3/2026, 4:59:58 am",
+  "updated_at": "2026-03-16T01:17:54.036Z",
+  "updated_at_IST": "16/3/2026, 6:47:54 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "c3bc502df31e48794e62812e9cd47c39",
+      "title": "PM Narendra Modi slams Opposition’s ‘disrespect’ to Om Birla",
+      "summary": "Individuals with dynastic and feudal mindset seek to confine even democratic institutions within their own limited spheres, Prime Minister Narendra Modi said in his letter to Lok Sabha Speaker Om Birla and also emphasised that “there exists a clear distinction between disagreement and disrespect.”",
+      "url": "https://www.hindustantimes.com/india-news/pm-narendra-modi-slams-opposition-s-disrespect-to-om-birla-101773602598062.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/15/1600x900/logo/Days-after-the-Opposition-sponsored-no-confidence-_1773602587878.jpg",
+      "published_at": "2026-03-16T00:04:10.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఓం బిర్లా పట్ల ప్రతిపక్షాల ‘అగౌరవం’పై ప్రధాని నరేంద్ర మోదీ మండిపడ్డారు",
+      "summary_te": "వంశపారంపర్య మరియు భూస్వామ్య మనస్తత్వం కలిగిన వ్యక్తులు ప్రజాస్వామ్య సంస్థలను కూడా తమ పరిమిత పరిధిలోనే నిర్బంధించాలని చూస్తున్నారని, ప్రధాని నరేంద్ర మోదీ లోక్‌సభ స్పీకర్ ఓం బిర్లాకు రాసిన లేఖలో \"అసమ్మతి మరియు అగౌరవానికి మధ్య స్పష్టమైన వ్యత్యాసం ఉందని\" నొక్కి చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "d70a302b3ce9f490e41cd209240c6f37",
+      "title": "'Goal is to win IPL trophy': Vaibhav Sooryavanshi targets Rajasthan Royals glory",
+      "summary": "U-19 sensation Vaibhav Sooryavanshi, already an IPL centurion at 14, is laser-focused on winning the IPL trophy for Rajasthan Royals. Having led India to U-19 World Cup glory, the young batter aims to contribute significantly to RR's success. He cherishes reuniting with U-19 teammates and credits early learning from seniors and Rahul Dravid for his development.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/the-goal-is-to-win-the-ipl-trophy-vaibhav-sooryavanshi-targets-rajasthan-royals-glory/articleshow/129593262.cms",
+      "image": "https://static.toiimg.com/photo/msid-129593245,imgsize-183156.cms",
+      "published_at": "2026-03-16T00:00:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'ఐపీఎల్ ట్రోఫీ గెలవడమే లక్ష్యం': వైభవ్ సూర్యవంశీ రాజస్థాన్ రాయల్స్ కీర్తిని లక్ష్యంగా చేసుకున్నాడు",
+      "summary_te": "U-19 సంచలనం వైభవ్ సూర్యవంశీ, ఇప్పటికే 14 ఏళ్ల IPL సెంచరీ, రాజస్థాన్ రాయల్స్ కోసం IPL ట్రోఫీని గెలుచుకోవడంపై లేజర్-ఫోకస్ చేశాడు. భారతదేశాన్ని U-19 ప్రపంచ కప్ కీర్తికి నడిపించిన యువ బ్యాటర్ RR విజయానికి గణనీయంగా తోడ్పడాలని లక్ష్యంగా పెట్టుకున్నాడు. అతను U-19 టీమ్‌మేట్‌లతో తిరిగి కలవడాన్ని ఎంతో ఆదరిస్తాడు మరియు తన అభివృద్ధికి సీనియర్లు మరియు రాహుల్ ద్రవిడ్ నుండి ముందుగానే నేర్చుకున్నాడు.",
+      "translated": true
+    },
+    {
+      "id": "db4b17a4797e694ff65e2f296c212d4b",
+      "title": "Congress siphoned ₹150 crore every year from Assam’s health budget for 15 years: Amit Shah",
+      "summary": "Union home minister Amit Shah launched a scathing attack against the Congress, accusing the party of pocketing ₹150 crore every year from Assam’s healthcare budget during its 15-year rule from 2001 to 2016.",
+      "url": "https://www.hindustantimes.com/india-news/congress-siphoned-150-crore-every-year-from-assam-s-health-budget-for-15-years-amit-shah-101773602415470.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/15/1600x900/logo/Addressing-a-gathering-while-inaugurating-the-Prag_1773602407849.jpg",
+      "published_at": "2026-03-15T23:54:09.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "15 ఏళ్లుగా అస్సాం ఆరోగ్య బడ్జెట్ నుండి కాంగ్రెస్ ప్రతి సంవత్సరం ₹ 150 కోట్లు ఖర్చు చేసింది: అమిత్ షా",
+      "summary_te": "2001 నుండి 2016 వరకు 15 సంవత్సరాల పాలనలో అస్సాం హెల్త్‌కేర్ బడ్జెట్ నుండి ప్రతి సంవత్సరం ₹ 150 కోట్లు జేబులో పెట్టుకుందని ఆరోపిస్తూ కేంద్ర హోం మంత్రి అమిత్ షా కాంగ్రెస్‌పై తీవ్ర దాడిని ప్రారంభించారు.",
+      "translated": true
+    },
+    {
+      "id": "9fb399f29c0e1e41e970925b8643ecff",
+      "title": "'Bhai isko abhi delete kar de': Shivam Dube’s off-guard reaction to camera goes viral",
+      "summary": "India's star all-rounder Shivam Dube charmed fans with a playful interaction with paparazzi outside his Mumbai home. Captured on video, Dube, fresh off a T20 World Cup victory, humorously asked a photographer to delete footage. His significant contributions to India's 2026 triumph, including 235 runs at a 169.06 strike rate, have cemented his status as a key player.",
+      "url": "https://timesofindia.indiatimes.com/sports/off-the-field/bhai-isko-abhi-delete-kar-de-shivam-dubes-off-guard-reaction-to-camera-goes-viral-watch/articleshow/129590022.cms",
+      "image": "https://static.toiimg.com/photo/msid-129590086,imgsize-703643.cms",
+      "published_at": "2026-03-15T23:30:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'భాయ్ ఇస్కో అభి డిలీట్ కర్ దే': కెమెరాకు శివమ్ దూబే ఆఫ్-గార్డ్ రియాక్షన్ వైరల్ అవుతుంది",
+      "summary_te": "భారత స్టార్ ఆల్‌రౌండర్ శివమ్ దూబే తన ముంబై ఇంటి వెలుపల ఛాయాచిత్రకారులతో ఉల్లాసభరితమైన పరస్పర చర్యతో అభిమానులను ఆకర్షించాడు. వీడియోలో క్యాప్చర్ చేయబడిన, డ్యూబ్, T20 ప్రపంచ కప్ విజయంలో తాజాగా, ఫుటేజీని తొలగించమని హాస్యాస్పదంగా ఫోటోగ్రాఫర్‌ని కోరాడు. 169.06 స్ట్రైక్ రేట్‌తో 235 పరుగులతో సహా భారతదేశం యొక్క 2026 విజయానికి అతని ముఖ్యమైన సహకారం కీలక ఆటగాడిగా అతని స్థాయిని సుస్థిరం చేసింది.",
+      "translated": true
+    },
+    {
+      "id": "d53a3a20b94e469e10d2013e6c8990dd",
+      "title": "Trump plans global coalition to escort ships in Strait of Hormuz amid Iran tensions: Report",
+      "summary": "President Trump is preparing to announce an international coalition to escort commercial vessels through the Strait of Hormuz amid escalating tensions with Iran. The US Navy will support ships navigating the strategic waterway, which Iran has threatened to restrict. This move aims to ensure the safe passage of oil, with global prices already impacted.",
+      "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-to-announce-strait-of-hormuz-escort-coalition-as-tensions-with-iran-intensify/articleshow/129597886.cms",
+      "image": "https://static.toiimg.com/photo/msid-129597897,imgsize-598749.cms",
+      "published_at": "2026-03-15T23:14:55.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ ఉద్రిక్తతల మధ్య హోర్ముజ్ జలసంధిలో నౌకలను ఎస్కార్ట్ చేయడానికి ట్రంప్ ప్రపంచ సంకీర్ణాన్ని ప్లాన్ చేస్తున్నారు: నివేదిక",
+      "summary_te": "ఇరాన్‌తో తీవ్ర ఉద్రిక్తతల మధ్య హోర్ముజ్ జలసంధి ద్వారా వాణిజ్య నౌకలను ఎస్కార్ట్ చేయడానికి అంతర్జాతీయ సంకీర్ణాన్ని ప్రకటించడానికి అధ్యక్షుడు ట్రంప్ సిద్ధమవుతున్నారు. యుఎస్ నావికాదళం వ్యూహాత్మక జలమార్గంలో నావిగేట్ చేసే నౌకలకు మద్దతు ఇస్తుంది, ఇరాన్ పరిమితం చేస్తామని బెదిరించింది. ప్రపంచ ధరలు ఇప్పటికే ప్రభావితమైనందున, చమురు సురక్షిత మార్గాన్ని నిర్ధారించడం ఈ చర్య లక్ష్యం.",
+      "translated": true
+    },
     {
       "id": "709039544caa9e56a255ee4e135e3acc",
       "title": "For Left, Kerala is the red fort that must not fall",
@@ -156,6 +226,20 @@
       "language": "en",
       "title_te": "అంతర్జాతీయ విమాన ఛార్జీలు గురుత్వాకర్షణ శక్తిని ధిక్కరిస్తున్నందున ప్రభుత్వం ద్వైపాక్షిక అంశాలను సమీక్షించవచ్చు",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "45d294fc3c44056a48b8119cccc362f9",
+      "title": "Akshay Kumar: Interviewing PM Modi easier than delivering a hit",
+      "summary": "Akshay Kumar recently reflected on his widely discussed interview with Narendra Modi, saying the experience was a “delight” and far easier compared to the challenge of delivering a successful film. He also addressed the long-standing controversy surrounding his former Canadian passport while responding to the debate around his perceived “nationalist hero” image.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-says-interviewing-pm-narendra-modi-was-easier-than-delivering-a-hit-film-addresses-canadian-passport-criticism/articleshow/129595468.cms",
+      "image": "https://static.toiimg.com/photo/msid-129595468,imgsize-56586.cms",
+      "published_at": "2026-03-15T20:00:31.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "అక్షయ్ కుమార్: హిట్ ఇవ్వడం కంటే ప్రధాని మోదీని ఇంటర్వ్యూ చేయడం సులభం",
+      "summary_te": "అక్షయ్ కుమార్ ఇటీవల నరేంద్ర మోడీతో విస్తృతంగా చర్చించబడిన ఇంటర్వ్యూలో ప్రతిబింబిస్తూ, విజయవంతమైన చిత్రాన్ని అందించడం యొక్క సవాలుతో పోలిస్తే అనుభవం \"ఆనందం\" మరియు చాలా సులభం అని అన్నారు. అతను తన మాజీ కెనడియన్ పాస్‌పోర్ట్ చుట్టూ ఉన్న దీర్ఘకాల వివాదాన్ని కూడా ప్రస్తావించాడు, అతను గ్రహించిన \"జాతీయవాద హీరో\" ఇమేజ్ చుట్టూ చర్చకు ప్రతిస్పందించాడు.",
       "translated": true
     },
     {
@@ -355,20 +439,6 @@
       "translated": true
     },
     {
-      "id": "85485cb0af9b35513f124580c856c1f5",
-      "title": "PM writes to Birla: Oppn can't accept rise of a new person",
-      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/india/pm-writes-to-birla-oppn-cant-accept-rise-of-a-new-person/articleshow/129595002.cms",
-      "image": "https://static.toiimg.com/photo/msid-129595001,imgsize-982700.cms",
-      "published_at": "2026-03-15T19:00:53.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ప్రధానమంత్రి బిర్లాకు వ్రాశారు: కొత్త వ్యక్తి ఎదుగుదలను Oppn అంగీకరించదు",
-      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
       "id": "ca198540eb38027e364ef90c737aced6",
       "title": "Tamilaga Valvurimai Katchi to reconsider alliance with DMK",
       "summary": "Tamilaga Valvurimai Katchi founder T. Velmurugan on Sunday said the party’s political committee would reconsider its decision to go with the DMK in Tamil Nadu Assembly elections as the Dravidian major rejected its demand for more seats. Besides, the DMK had not acknowledged the party’s 10-point demand including 10.5% internal reservation for Vanniyars with the MBC quota.In 2021, Mr. Velmurugan contested on the DMK’s rising sun symbol and won from Panruti. Now, the party was open to tying up with the AIADMK also if its demands are accepted by the latter, he told journalists in Chennai. Mr. Velmurugan said while he was averse to sharing a platform with the BJP, he was open to having a seat-sharing arrangement with the AIADMK.“Caste-wise survey, 10.5% reservations for Vanniyars, plebiscite in Eelam, 100% reservations for those domiciled in Tamil Nadu in State governments and 80% reservations for Tamils in Central government jobs, ‘Archanai’ in Tamil in temples and Eelam Tamils arrested in passport act be released and sent to their respective countries, removal of tolls on highways are some of the demands presented by us to the DMK,” he said.“The DMK rejected our request to allot a parliamentary seat in 2019 and 2024 Lok Sabha elections on the pretext that it would part with more seats in Assembly elections and local body elections. But again, the DMK has decided to offer on seat like in the past,” he said.",
@@ -380,6 +450,20 @@
       "language": "en",
       "title_te": "డీఎంకేతో పొత్తుపై పునరాలోచనలో పడ్డ తమిళగ వల్వురిమై కచ్చి",
       "summary_te": "తమిళనాడు అసెంబ్లీ ఎన్నికల్లో డీఎంకేతో కలిసి వెళ్లాలనే నిర్ణయాన్ని పార్టీ రాజకీయ కమిటీ పునరాలోచించనుందని తమిళగ వల్వురిమై కట్చి వ్యవస్థాపకుడు టి.వెల్మురుగన్ ఆదివారం చెప్పారు, ద్రావిడ ప్రధాన పార్టీ ఎక్కువ సీట్ల డిమాండ్‌ను తిరస్కరించింది. అంతేకాకుండా, MBC కోటాతో వన్నియార్‌లకు 10.5% అంతర్గత రిజర్వేషన్‌తో సహా పార్టీ 10 పాయింట్ల డిమాండ్‌ను DMK అంగీకరించలేదు. 2021లో, Mr. వెల్మురుగన్ DMK యొక్క రైజింగ్ సన్ గుర్తుపై పోటీ చేసి పన్రుటి నుండి గెలుపొందారు. ఇప్పుడు, అన్నాడీఎంకే తన డిమాండ్లను ఆమోదించినట్లయితే, అన్నాడీఎంకేతో కూడా జతకట్టడానికి పార్టీ సిద్ధంగా ఉందని చెన్నైలో విలేకరులతో అన్నారు. బీజేపీతో వేదిక పంచుకోవడానికి విముఖత వ్యక్తం చేస్తూనే, అన్నాడీఎంకేతో సీట్ల పంపకానికి తాను సిద్ధంగా ఉన్నానని వెల్మురుగన్ చెప్పారు. “కులాల వారీగా సర్వే, వన్నియార్లకు 10.5% రిజర్వేషన్లు, ఈలాంలో ప్రజాభిప్రాయ సేకరణ, రాష్ట్ర ప్రభుత్వాల్లో 100% రిజర్వేషన్లు, తమిళనాడులో రాష్ట్ర ప్రభుత్వాలు, తమిళనాడులో ఆలయ ఉద్యోగాల్లో 80% రిజర్వేషన్లు. పాస్‌పోర్ట్ చట్టంలో అరెస్టయిన ఈలం తమిళులను విడిచిపెట్టి వారి దేశాలకు పంపాలి, హైవేలపై టోల్‌లు తొలగించడం వంటివి మేం డిఎంకెకు అందించిన కొన్ని డిమాండ్‌లు అని ఆయన అన్నారు.“2019, 2024 లోక్‌సభ ఎన్నికల్లో పార్లమెంటరీ సీటును కేటాయించాలన్న మా అభ్యర్థనను డిఎంకె తిరస్కరించింది.",
+      "translated": true
+    },
+    {
+      "id": "9e19cb8417660ad83274c3d6dad7f1b5",
+      "title": "Walkathon held in Vellore to mark World Glaucoma Awareness Week",
+      "summary": "Students, residents, traders, and hospital staff participated in the run",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/walkathon-held-in-vellore-to-mark-world-glaucoma-awareness-week/article70746513.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/brbzwr/article70746659.ece/alternates/LANDSCAPE_1200/run-7.jpeg",
+      "published_at": "2026-03-15T18:46:37.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రపంచ గ్లకోమా అవగాహన వారోత్సవాన్ని పురస్కరించుకుని వేలూరులో వాకథాన్ నిర్వహించారు",
+      "summary_te": "రన్‌లో విద్యార్థులు, స్థానికులు, వ్యాపారులు, ఆసుపత్రి సిబ్బంది పాల్గొన్నారు",
       "translated": true
     },
     {
@@ -551,20 +635,6 @@
       "translated": true
     },
     {
-      "id": "11c848259c69fb727a7255c08e033f05",
-      "title": "Parties welcome two-phase West Bengal polls; people will bring down TMC, says BJP",
-      "summary": "In 2021, the Assembly election in West Bengal was held in eight phases; in 2011 and 2016 there were six phases; the announcement for this year’s poll is a departure from the past",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/parties-welcome-two-phase-west-bengal-polls-people-will-bring-down-tmc-says-bjp/article70747212.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ovoamq/article70747475.ece/alternates/LANDSCAPE_1200/20260315230L.jpg",
-      "published_at": "2026-03-15T18:12:01.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "రెండు దశల పశ్చిమ బెంగాల్ ఎన్నికలను పార్టీలు స్వాగతిస్తున్నాయి; టిఎంసిని ప్రజలు గద్దె దించుతారని బిజెపి అంటోంది",
-      "summary_te": "2021లో, పశ్చిమ బెంగాల్‌లో అసెంబ్లీ ఎన్నికలు ఎనిమిది దశల్లో జరిగాయి; 2011 మరియు 2016లో ఆరు దశలు ఉన్నాయి; ఈ సంవత్సరం పోల్ ప్రకటన గతానికి భిన్నంగా ఉంది",
-      "translated": true
-    },
-    {
       "id": "bd4beecb919c85ded53295c2f705e84f",
       "title": "17-Page Suicide Note By AIIMS Rajkot Student Leads To Arrest Of 5 Students",
       "summary": "The investigation into the tragic death of a final-year MBBS student at AIIMS Rajkot has taken a significant turn. Following a detailed 17-page suicide note, the Gandhigram Police have arrested five fellow medical students.",
@@ -716,20 +786,6 @@
       "language": "en",
       "title_te": "A.P అంతటా 24.7 లక్షల మంది పునాది అక్షరాస్యత మరియు సంఖ్యా అంచనా పరీక్షను వ్రాస్తారు.",
       "summary_te": "అక్షర ఆంధ్ర ఫౌండేషన్ లిటరసీ అండ్ న్యూమరాసీ అసెస్‌మెంట్ టెస్ట్ (FLNAT) - 2026 ఆదివారం ఆంధ్రప్రదేశ్ అంతటా నిర్వహించబడింది, అభ్యాసకుల నుండి చురుకైన భాగస్వామ్యం మరియు అన్ని స్థాయిలలో బలమైన పరిపాలనా మద్దతు ఉంది. రాష్ట్రవ్యాప్తంగా 34,406 కేంద్రాలలో పరీక్ష నిర్వహించామని వయోజన విద్యా శాఖ డైరెక్టర్ రంజిత్ బాషా తెలిపారు. మూల్యాంకనం యొక్క క్రమబద్ధమైన ప్రవర్తన. ముందస్తు ప్రణాళిక, ఇన్విజిలేటర్ల విస్తరణ, జిల్లా మరియు మండల స్థాయి అధికారుల పర్యవేక్షణ, లాజిస్టిక్స్ నిర్వహణ మరియు అక్షర ఆంధ్ర యాప్ ద్వారా రియల్ టైమ్ రిపోర్టింగ్‌తో సహా పరీక్ష నిర్వహణకు విస్తృతమైన పరిపాలనా ఏర్పాట్లు జరిగాయి. సాయంత్రం 5 గంటలకు నమోదైన హాజరు నివేదిక ప్రకారం పరీక్షకు విద్యార్థుల నుంచి విశేష స్పందన లభించిందని బాషా తెలిపారు. మొత్తం 25,06,696 మంది అభ్యర్థుల లక్ష్యంలో 24,72,092 మంది అభ్యర్థులు పరీక్షకు హాజరయ్యారు, రాష్ట్రవ్యాప్తంగా 98.62 శాతం హాజరు నమోదైంది. పలు జిల్లాల్లో అనూహ్యంగా అత్యధిక హాజరు నమోదైందని, గుంటూరు, అల్లూరి సీతారామరాజు, అనకాపల్లి జిల్లాల్లో 100 శాతం మంది హాజరుకాగా, ఇతర జిల్లాల్లో 9 శాతం మంది హాజరయ్యారు. అక్షర ఆంధ్ర కార్యక్రమం కింద బలమైన ప్రచారం, సమీకరణ మరియు పరిపాలనా సమన్వయం. \"HRD మంత్రి నారా లోకేష్ నాయకత్వంలో మరియు పాఠశాల విద్యా కార్యదర్శి కోన శశిధర్ యొక్క నిరంతర మార్గదర్శకత్వం మరియు సమన్వయంతో FLNAT-2026 విజయవంతమైన నిర్వహణ సాధ్యమైంది,\" అని ఆయన చెప్పారు. బాషా, జిల్లా కలెక్టర్లు, జిల్లా యంత్రాంగం, విద్యా శాఖ అధికారులు, వాలంటీర్లు మరియు క్షేత్రస్థాయి సిబ్బందితో కలిసి రాష్ట్రవ్యాప్తంగా మూల్యాంకనం సజావుగా మరియు సమర్ధవంతంగా జరిగేలా కృషి చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "803049f3c3afc3a438321a3591de925d",
-      "title": "Iran crisis: IEA says strategic oil reserves to be released immediately in Asia-Oceania",
-      "summary": "Asia and Oceania will immediately receive strategic oil reserves, while the Americas and Europe will start releases by late March. This emergency action by the IEA aims to cushion the oil shock from the West Asia war, releasing 271.7 million barrels globally. Despite this, oil prices remain near $100, highlighting concerns over the Strait of Hormuz closure.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/iran-crisis-iea-says-strategic-oil-reserves-to-be-released-immediately-in-asia-oceania-from-end-march-in-us-and-europe/articleshow/129593320.cms",
-      "image": "https://static.toiimg.com/photo/msid-129593396,imgsize-78458.cms",
-      "published_at": "2026-03-15T17:26:15.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్ సంక్షోభం: ఆసియా-ఓషియానియాలో వ్యూహాత్మక చమురు నిల్వలను వెంటనే విడుదల చేయాలని IEA పేర్కొంది",
-      "summary_te": "ఆసియా మరియు ఓషియానియా తక్షణమే వ్యూహాత్మక చమురు నిల్వలను పొందుతాయి, అమెరికా మరియు యూరప్ మార్చి చివరి నాటికి విడుదలలను ప్రారంభిస్తాయి. IEA యొక్క ఈ అత్యవసర చర్య పశ్చిమ ఆసియా యుద్ధం నుండి చమురు షాక్‌ను తగ్గించడం లక్ష్యంగా పెట్టుకుంది, ప్రపంచవ్యాప్తంగా 271.7 మిలియన్ బ్యారెళ్లను విడుదల చేసింది. అయినప్పటికీ, చమురు ధరలు $100కి దగ్గరగా ఉన్నాయి, హార్ముజ్ జలసంధి మూసివేతపై ఆందోళనలను హైలైట్ చేస్తుంది.",
       "translated": true
     },
     {
@@ -1069,20 +1125,6 @@
       "translated": true
     },
     {
-      "id": "271d393fc5c8e25ace96158128bea7af",
-      "title": "Shubman bags Polly Umrigar Award, Smriti Mandhana makes history with fifth BCCI honour",
-      "summary": "Shubman Gill and Smriti Mandhana were honored as India's top cricketers at the BCCI Naman Awards 2026. Gill secured the Polly Umrigar Award for his stellar 2025 season, including a remarkable Test series in England. Mandhana also shone, setting new ODI run-scoring records and playing a pivotal role in India's World Cup win.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-bags-polly-umrigar-award-smriti-mandhana-makes-history-with-fifth-bcci-honour/articleshow/129591771.cms",
-      "image": "https://static.toiimg.com/photo/msid-129591796,imgsize-1155674.cms",
-      "published_at": "2026-03-15T15:35:38.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "శుభ్‌మాన్‌కు పాలీ ఉమ్రిగర్ అవార్డు, స్మృతి మంధాన ఐదవ BCCI గౌరవంతో చరిత్ర సృష్టించింది",
-      "summary_te": "BCCI నమన్ అవార్డ్స్ 2026లో భారత అగ్రశ్రేణి క్రికెటర్లుగా శుభ్‌మన్ గిల్ మరియు స్మృతి మంధాన గౌరవించబడ్డారు. గిల్ తన అద్భుతమైన 2025 సీజన్‌కు పాలీ ఉమ్రిగర్ అవార్డును పొందాడు, ఇందులో ఇంగ్లాండ్‌లో అద్భుతమైన టెస్ట్ సిరీస్ కూడా ఉంది. మంధాన కూడా మెరిసింది, కొత్త ODI పరుగుల రికార్డులను నెలకొల్పింది మరియు భారతదేశం యొక్క ప్రపంచ కప్ విజయంలో కీలక పాత్ర పోషించింది.",
-      "translated": true
-    },
-    {
       "id": "1fe092d15ef43d0455e2d17607fe403a",
       "title": "Jaishankar visits Belgium to meet EU leaders amid West Asia conflict",
       "summary": "External affairs minister S Jaishankar visits Brussels to meet EU leaders, discuss free trade deal and West Asia conflict with member states.",
@@ -1360,48 +1402,6 @@
       "language": "en",
       "title_te": "మద్యం పాలసీ కేసులో సీబీఐని బదిలీ చేయాలంటూ అరవింద్ కేజ్రీవాల్ సుప్రీంకోర్టును ఆశ్రయించారు",
       "summary_te": "మద్యం పాలసీ కేసులో సీబీఐని బదిలీ చేయాలంటూ అరవింద్ కేజ్రీవాల్ సుప్రీంకోర్టును ఆశ్రయించారు",
-      "translated": true
-    },
-    {
-      "id": "238af45312731f24887c36a6e43296ef",
-      "title": "'A civilisational battle': How political parties reacted to EC poll dates for 4 states, 1 UT",
-      "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\"Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/india/a-civilisational-battle-bjp-tmc-dmk-aiadmk-congress-welcome-ecs-poll-dates-announcement-for-4-states-one-ut/articleshow/129590087.cms",
-      "image": "https://static.toiimg.com/photo/msid-129590467,imgsize-1144082.cms",
-      "published_at": "2026-03-15T13:34:37.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'ఒక నాగరికత యుద్ధం': 4 రాష్ట్రాలు, 1 యూటీకి సంబంధించిన EC ఎన్నికల తేదీలపై రాజకీయ పార్టీలు ఎలా స్పందించాయి",
-      "summary_te": "TOI న్యూస్ డెస్క్ అనేది ప్రపంచవ్యాప్తంగా ఉన్న టైమ్స్ ఆఫ్ ఇండియా పాఠకులకు అత్యంత ప్రస్తుత మరియు సమగ్రమైన వార్తలు మరియు అప్‌డేట్‌లను అందించడానికి 24 గంటలూ పనిచేసే అంకితమైన మరియు అలసిపోని జర్నలిస్టుల బృందాన్ని కలిగి ఉంది. జర్నలిజంలో శ్రేష్ఠతకు తిరుగులేని నిబద్ధతతో, విస్తృత శ్రేణి అంశాలపై బ్రేకింగ్ న్యూస్, లోతైన విశ్లేషణ మరియు తెలివైన నివేదికలను సేకరించడం, ధృవీకరించడం మరియు అందించడంలో మా బృందం ముందంజలో ఉంది. TOI న్యూస్ డెస్క్ అనేది ఎప్పటికప్పుడు అభివృద్ధి చెందుతున్న గ్లోబల్ ల్యాండ్‌స్కేప్‌కు సమాచారం అందించడానికి మరియు కనెక్ట్ అవ్వడానికి మీ విశ్వసనీయ మూలం, మా పాఠకులు అత్యంత ముఖ్యమైన తాజా పరిణామాలను కలిగి ఉన్నారని నిర్ధారిస్తుంది.\" మరింత చదవండి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. వెబ్‌సైట్. ఈ వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి, మీరు ఈ కుకీల వినియోగానికి సమ్మతిస్తున్నారు, అటువంటి ప్రాసెసింగ్‌ను మీరు ఆక్షేపించాలనుకుంటే, దయచేసి మా ';Q+=' కుకీ పాలసీలో వివరించిన సూచనలను చదవండి '; Q+=' గోప్యతా విధానం= దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='ని సమీక్షించండి",
-      "translated": true
-    },
-    {
-      "id": "b9cc50a9c7ef2ec9e304140edb8baa97",
-      "title": "FASTag annual pass to get costlier from April, NHAI revises fee | See new fee",
-      "summary": "The NHAI also noted that the Annual Pass allows private vehicle owners to pay a one-time fee rather than repeatedly recharge their FASTag accounts.",
-      "url": "https://www.hindustantimes.com/india-news/fastag-annual-pass-to-get-costlier-from-april-nhai-revises-fee-see-new-fee-101773579669853.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/15/1600x900/logo/20260227-DGG-PK-MN-NH-48-Khandsa-02-0_1773579967975_1773579985540.jpg",
-      "published_at": "2026-03-15T13:28:38.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఫాస్ట్‌ట్యాగ్ వార్షిక పాస్‌ను ఏప్రిల్ నుండి ఖర్చుతో పెంచడానికి, NHAI రుసుమును సవరించింది | కొత్త రుసుమును చూడండి",
-      "summary_te": "ప్రైవేట్ వాహన యజమానులు తమ ఫాస్ట్‌ట్యాగ్ ఖాతాలను పదే పదే రీఛార్జ్ చేసుకునే బదులు వన్-టైమ్ రుసుమును చెల్లించడానికి వార్షిక పాస్ అనుమతిస్తుంది అని NHAI పేర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "f03fa7b8ac309b7e07da73978e81bcf2",
-      "title": "DNT leaders move Supreme Court seeking distinct enumeration in 2027 Census",
-      "summary": "Petition seeks specific question on Denotified, Nomadic and Semi-Nomadic Tribes in houselisting and population enumeration phases of the 2027 Census",
-      "url": "https://www.thehindu.com/news/cities/Delhi/dnt-leaders-move-supreme-court-seeking-distinct-enumeration-in-2027-census/article70746487.ece",
-      "image": "https://th-i.thgim.com/public/incoming/2646lg/article70746507.ece/alternates/LANDSCAPE_1200/6744_19_8_2025_16_9_6_1_IMG_20250819_160706.jpg",
-      "published_at": "2026-03-15T13:24:57.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "DNT నాయకులు 2027 జనాభా గణనలో విభిన్నమైన గణనను కోరుతూ సుప్రీంకోర్టును ఆశ్రయించారు",
-      "summary_te": "2027 జనాభా లెక్కల గృహ జాబితా మరియు జనాభా గణన దశల్లో డినోటిఫైడ్, సంచార మరియు పాక్షిక-సంచార జాతులపై నిర్దిష్ట ప్రశ్నను పిటిషన్ కోరింది",
       "translated": true
     }
   ]
