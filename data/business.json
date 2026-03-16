@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-16T20:38:24.461Z",
-  "updated_at_IST": "17/3/2026, 2:08:24 am",
+  "updated_at": "2026-03-16T21:39:43.378Z",
+  "updated_at_IST": "17/3/2026, 3:09:43 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "0f1bfe8cf41c6e1f994117a96a3026ce",
+      "title": "US court halts Kennedy’s plan to reduce childhood vaccinations citing public health risks",
+      "summary": "US District Judge of Boston ruled in favor of the American Academy of Pediatrics and other medical groups, which argued that Kennedy’s policies would lower vaccination rates and jeopardize public health.",
+      "url": "https://www.livemint.com/news/us-news/us-court-halts-kennedy-s-plan-to-reduce-childhood-vaccinations-citing-public-health-risks-11773693510885.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/USA-HEALTH-KENNEDY-VACCIN-0_1749502490758_1773693826099.JPG",
+      "published_at": "2026-03-16T20:46:50.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ప్రజారోగ్య ప్రమాదాలను ఉటంకిస్తూ చిన్ననాటి టీకాలను తగ్గించాలనే కెన్నెడీ ప్రణాళికను US కోర్టు నిలిపివేసింది",
+      "summary_te": "US డిస్ట్రిక్ట్ జడ్జి ఆఫ్ బోస్టన్ అమెరికన్ అకాడమీ ఆఫ్ పీడియాట్రిక్స్ మరియు ఇతర వైద్య సమూహాలకు అనుకూలంగా తీర్పునిచ్చాడు, కెన్నెడీ యొక్క విధానాలు టీకా రేట్లను తగ్గిస్తాయి మరియు ప్రజారోగ్యానికి హాని కలిగిస్తాయని వాదించారు.",
+      "translated": true
+    },
+    {
+      "id": "76013bae3fbea65445356c582a39f9d6",
+      "title": "US-Israel, Iran conflict: First direct contact between Washington & Tehran takes place since 28 February, says report",
+      "summary": "US envoy Steve Witkoff and Iranian Foreign Minister Abbas Araghchi have reportedly reestablished direct communication in recent days. Meanwhile, Trump said he is unsure whether Iran's new supreme leader, Mojtaba Khamenei, is still alive.",
+      "url": "https://www.livemint.com/news/world/usisrael-iran-conflict-first-direct-contact-between-washington-tehran-in-recent-days-since-28-february-says-re-11773691084210.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/IRAN-CRISIS-OIL-0_1773693554482_1773693561439.JPG",
+      "published_at": "2026-03-16T20:41:47.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US-ఇజ్రాయెల్, ఇరాన్ వివాదం: వాషింగ్టన్ & టెహ్రాన్ మధ్య మొదటి ప్రత్యక్ష పరిచయం ఫిబ్రవరి 28 నుండి జరిగిందని నివేదిక పేర్కొంది",
+      "summary_te": "US రాయబారి స్టీవ్ విట్‌కాఫ్ మరియు ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘి ఇటీవలి రోజుల్లో ప్రత్యక్ష కమ్యూనికేషన్‌ను పునరుద్ధరించినట్లు నివేదించబడింది. ఇదిలా ఉండగా, ఇరాన్ కొత్త అత్యున్నత నేత మొజ్తాబా ఖమేనీ ఇంకా బతికే ఉన్నారో లేదో తనకు తెలియదని ట్రంప్ అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "49028c6f0ce0b7c6c5ccc94d1aee9a9e",
+      "title": "US stocks rebound on AI optimism revival; Dow rises 387 pts, Nasdaq, S&P 1%",
+      "summary": "Wall Street surged Monday, led by AI-related stocks like Meta and Nvidia, as Meta announced significant layoffs and Nvidia unveiled new components. Oil prices dipped amid easing Middle East conflict concerns, offering market relief. The Dow, S&P 500, and Nasdaq all closed higher, reflecting positive investor sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-rebound-on-ai-optimism-revival-dow-rises-387-pts-nasdaq-sp-1/articleshow/129618586.cms",
+      "image": null,
+      "published_at": "2026-03-16T20:04:22.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "AI ఆశావాద పునరుద్ధరణపై US స్టాక్‌లు పుంజుకున్నాయి; డౌ 387 పాయింట్లు, నాస్డాక్, S&P 1% పెరిగింది",
+      "summary_te": "మెటా గణనీయమైన తొలగింపులను ప్రకటించింది మరియు ఎన్విడియా కొత్త భాగాలను ఆవిష్కరించడంతో, మెటా మరియు ఎన్విడియా వంటి AI- సంబంధిత స్టాక్‌ల నేతృత్వంలో వాల్ స్ట్రీట్ సోమవారం పెరిగింది. మధ్యప్రాచ్య సంఘర్షణ ఆందోళనల సడలింపు మధ్య చమురు ధరలు తగ్గాయి, మార్కెట్ ఉపశమనం అందించింది. డౌ, ఎస్&పి 500, మరియు నాస్‌డాక్‌లు సానుకూల పెట్టుబడిదారుల సెంటిమెంట్‌ను ప్రతిబింబిస్తూ లాభాల్లో ముగిశాయి.",
+      "translated": true
+    },
     {
       "id": "d0b7b19902f5c59a65af915891c18edb",
       "title": "Air India, AI Express to operate 44 West Asia flights on 17 March amid Iran conflict— check details here",
@@ -113,7 +155,7 @@
       "category": "business",
       "language": "en",
       "title_te": "వారెన్ బఫెట్ ద్వారా కోట్ ఆఫ్ ది డే: 'జీవన వ్యయాన్ని గందరగోళానికి గురి చేయవద్దు...'",
-      "summary_te": "బెర్క్‌షైర్ హాత్వే యొక్క వారెన్ బఫ్ఫెట్ ప్రపంచంలోని అత్యంత సంపన్నులలో ఒకడు కావచ్చు కానీ మీ స్తోమత కంటే తక్కువగా జీవించమని సలహా ఇస్తున్నారు. జీవనశైలి మరియు వైద్య ద్రవ్యోల్బణం మధ్య ఈ ఆర్థిక సలహా మీరు ఎందుకు పరిగణించాలి…",
+      "summary_te": "బెర్క్‌షైర్ హాత్వే యొక్క వారెన్ బఫ్ఫెట్ ప్రపంచంలోని అత్యంత ధనవంతులలో ఒకడు కావచ్చు కానీ మీ స్తోమత కంటే తక్కువగా జీవించమని సలహా ఇస్తున్నారు. జీవనశైలి మరియు వైద్య ద్రవ్యోల్బణం మధ్య ఈ ఆర్థిక సలహా మీరు ఎందుకు పరిగణించాలి…",
       "translated": true
     },
     {
@@ -324,48 +366,6 @@
       "language": "en",
       "title_te": "ఫ్రాంచైజ్ ఒప్పందాన్ని ముగించిన తర్వాత హార్డ్ రాక్ కేఫ్ భారతదేశం అంతటా 10 రెస్టారెంట్లను మూసివేసింది; ఒక రెస్టారెంట్ మాత్రమే తెరిచి ఉంటుంది",
       "summary_te": "JSM కార్పొరేషన్ ప్రైవేట్ లిమిటెడ్‌తో హార్డ్ రాక్ ఇంటర్నేషనల్ తన ఫ్రాంచైజీ ఒప్పందాన్ని రద్దు చేసిన తర్వాత అనేక ప్రధాన భారతీయ నగరాల్లోని హార్డ్ రాక్ కేఫ్ అవుట్‌లెట్‌లు మూసివేయబడ్డాయి. ఈ నిర్ణయం న్యూఢిల్లీ, బెంగళూరు, చెన్నై, హైదరాబాద్ మరియు పూణేతో సహా 10 ప్రదేశాలలోని రెస్టారెంట్లపై ప్రభావం చూపుతుంది.",
-      "translated": true
-    },
-    {
-      "id": "8c643aaac0ebbc307e1aa699b008789b",
-      "title": "US severe weather alert: Schools close in Virginia, Charlotte; DC alters schedules",
-      "summary": "Severe weather warnings prompted school closures in parts of Virginia and schedule changes in the Charlotte region, while several D.C.-area schools shifted to early dismissal or remote learning.",
-      "url": "https://www.livemint.com/news/us-news/us-severe-weather-alert-schools-close-in-virginia-charlotte-dc-alters-schedules-11773666145021.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/CHICAGO-SNOW-7_1764594313516_1764594320387_1773667813069.jpg",
-      "published_at": "2026-03-16T13:24:47.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "US తీవ్ర వాతావరణ హెచ్చరిక: వర్జీనియా, షార్లెట్‌లో పాఠశాలలు మూసివేయబడ్డాయి; DC షెడ్యూల్‌లను మారుస్తుంది",
-      "summary_te": "తీవ్రమైన వాతావరణ హెచ్చరికలు వర్జీనియాలోని కొన్ని ప్రాంతాలలో పాఠశాల మూసివేతలను ప్రేరేపించాయి మరియు షార్లెట్ ప్రాంతంలో షెడ్యూల్ మార్పులను ప్రేరేపించాయి, అయితే అనేక D.C.-ఏరియా పాఠశాలలు ముందస్తు తొలగింపు లేదా రిమోట్ లెర్నింగ్‌కు మారాయి.",
-      "translated": true
-    },
-    {
-      "id": "c7ba444d604c7d944a3581ce6f7acace",
-      "title": "Steel Ministry to host global steel leaders in April at Bharat Steel 2026",
-      "summary": "The Bharat Steel 2026 summit in New Delhi will gather senior political leaders and industry experts to discuss India's ambitious steel capacity goals of 300 MT by 2030 and 400 MT by 2035, alongside the global steel supply chain's future challenges.",
-      "url": "https://www.livemint.com/news/india/steel-ministry-to-host-global-steel-leaders-in-april-at-bharat-steel-2026-11773666566596.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/SPAIN-ECONOMY--2_1771033606479_1771033623216_1773666904695.JPG",
-      "published_at": "2026-03-16T13:21:24.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఉక్కు మంత్రిత్వ శాఖ ఏప్రిల్‌లో భారత్ స్టీల్ 2026లో గ్లోబల్ స్టీల్ లీడర్‌లకు ఆతిథ్యం ఇవ్వనుంది",
-      "summary_te": "న్యూఢిల్లీలో జరిగే భారత్ స్టీల్ 2026 సమ్మిట్ 2030 నాటికి 300 MT మరియు 2035 నాటికి 400 MT భారతదేశ ప్రతిష్టాత్మక ఉక్కు సామర్థ్యం లక్ష్యాలను, ప్రపంచ ఉక్కు సరఫరా గొలుసు యొక్క భవిష్యత్తు సవాళ్లతో పాటుగా చర్చించడానికి సీనియర్ రాజకీయ నాయకులు మరియు పరిశ్రమ నిపుణులను సేకరిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "808c3381860f74e3e48e2b0373bd8c7e",
-      "title": "Sensex ends 3-day losing streak, settles 939 pts higher, Nifty above 23,400",
-      "summary": "Indian stock markets rebounded sharply on Monday, snapping a three-session losing streak with Sensex and Nifty closing significantly higher. Despite volatile trading, value-buying emerged after last week's selloff. Geopolitical tensions and persistent FII selling continue to influence market sentiment, while the rupee remains near all-time lows.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-ends-3-day-losing-streak-settles-939-pts-higher-nifty-above-23400/articleshow/129606767.cms",
-      "image": null,
-      "published_at": "2026-03-16T10:16:51.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "సెన్సెక్స్ 3 రోజుల నష్టాల పరంపరను ముగించింది, 939 పాయింట్లు అధికం, నిఫ్టీ 23,400 పైన స్థిరపడింది",
-      "summary_te": "భారతీయ స్టాక్ మార్కెట్లు సోమవారం బాగా పుంజుకున్నాయి, సెన్సెక్స్ మరియు నిఫ్టీ గణనీయంగా ఎగువన ముగియడంతో మూడు సెషన్ల వరుస నష్టాలను చవిచూసింది. అస్థిర ట్రేడింగ్ ఉన్నప్పటికీ, గత వారం అమ్మకాల తర్వాత విలువ-కొనుగోలు ఉద్భవించాయి. భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు నిరంతర ఎఫ్‌ఐఐ విక్రయాలు మార్కెట్ సెంటిమెంట్‌ను ప్రభావితం చేస్తూనే ఉన్నాయి, అయితే రూపాయి ఆల్ టైమ్ కనిష్ట స్థాయికి సమీపంలోనే ఉంది.",
       "translated": true
     },
     {

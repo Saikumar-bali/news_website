@@ -1,9 +1,121 @@
 {
-  "updated_at": "2026-03-16T20:38:24.461Z",
-  "updated_at_IST": "17/3/2026, 2:08:24 am",
+  "updated_at": "2026-03-16T21:39:43.378Z",
+  "updated_at_IST": "17/3/2026, 3:09:43 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "4f15f985653b127af567b2dd397a893a",
+      "title": "All five NDA candidates win Rajya Sabha polls in Bihar, including CM Nitish Kumar and Nitin Nabin",
+      "summary": "Three MLAs of Congress party and one MLA of Rashtriya Janata Dal (RJD) skipped the voting. RJD MLA Kumar Sarvjeet alleged that BJP used the money power to win the election.",
+      "url": "https://www.thehindu.com/news/national/bihar/all-five-nda-candidates-win-rajya-sabha-polls-in-bihar-including-cm-nitish-kumar-and-nitin-nabin/article70750706.ece",
+      "image": "https://th-i.thgim.com/public/incoming/jaumzq/article70751532.ece/alternates/LANDSCAPE_1200/PTI03_16_2026_000397B.jpg",
+      "published_at": "2026-03-16T21:10:53.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బీహార్‌లో సిఎం నితీష్ కుమార్ మరియు నితిన్ నబిన్ సహా ఐదుగురు ఎన్‌డిఎ అభ్యర్థులు రాజ్యసభ ఎన్నికల్లో విజయం సాధించారు",
+      "summary_te": "కాంగ్రెస్ పార్టీకి చెందిన ముగ్గురు ఎమ్మెల్యేలు, రాష్ట్రీయ జనతాదళ్ (ఆర్జేడీ)కి చెందిన ఒక ఎమ్మెల్యే ఓటింగ్‌కు దూరంగా ఉన్నారు. ఎన్నికల్లో గెలుపొందేందుకు బీజేపీ డబ్బు బలాన్ని ఉపయోగించుకుందని ఆర్జేడీ ఎమ్మెల్యే కుమార్ సర్వజీత్ ఆరోపించారు.",
+      "translated": true
+    },
+    {
+      "id": "75733db6297e16e8ae85f0a500d8d793",
+      "title": "BJP romps home with three Rajya Sabha seats in Odisha, BJD content with one seat",
+      "summary": "As many as 11 MLAs cross-voted in favour of BJP-backed independent candidate Dilip Ray, who initially did not have numerical strength for winning the Rajya Sabha seat",
+      "url": "https://www.thehindu.com/news/national/odisha/bjp-romps-home-with-three-rajya-sabha-seats-in-odisha-bjd-content-with-one-seat/article70750727.ece",
+      "image": "https://th-i.thgim.com/public/incoming/f6n22z/article70751542.ece/alternates/LANDSCAPE_1200/PTI03_16_2026_000399A.jpg",
+      "published_at": "2026-03-16T21:10:32.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఒడిశాలో మూడు రాజ్యసభ స్థానాలతో బీజేపీ ఇంటిదారి పట్టగా, బీజేడీ ఒక సీటుతో సరిపెట్టుకుంది",
+      "summary_te": "రాజ్యసభ సీటు గెలవడానికి మొదట్లో సంఖ్యా బలం లేని బీజేపీ మద్దతుగల స్వతంత్ర అభ్యర్థి దిలీప్ రేకు అనుకూలంగా 11 మంది ఎమ్మెల్యేలు క్రాస్ ఓటింగ్ వేశారు.",
+      "translated": true
+    },
+    {
+      "id": "ad5640059e7a05633650837502ac1213",
+      "title": "Cause of Odisha hospital fire not yet known",
+      "summary": "Ashok Pradhan is currently chief of bureau The Times of India in Bhubaneswar. He is an alumnus of the Indian Institute of Mass Communication, Dhenkanal (1999-2000). We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/cause-of-odisha-hospital-fire-not-yet-known/articleshow/129618787.cms",
+      "image": "https://static.toiimg.com/photo/msid-129618789,imgsize-552194.cms",
+      "published_at": "2026-03-16T21:02:43.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఒడిశా ఆస్పత్రిలో అగ్నిప్రమాదానికి గల కారణాలు ఇంకా తెలియరాలేదు",
+      "summary_te": "అశోక్ ప్రధాన్ ప్రస్తుతం భువనేశ్వర్‌లోని టైమ్స్ ఆఫ్ ఇండియా బ్యూరో చీఫ్‌గా ఉన్నారు. అతను ఇండియన్ ఇన్స్టిట్యూట్ ఆఫ్ మాస్ కమ్యూనికేషన్, ధెంకనల్ (1999-2000) పూర్వ విద్యార్థి. వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "0d5fe26dac90adb6dfddb893cbfc96f4",
+      "title": "SC declines to intervene in Calcutta High Court order for NIA probe into Beldanga violence",
+      "summary": "On February 11, the apex court questioned the invocation of the UAPA; on March 16,the court finds the High Court’s confirmation of the NIA probe into the case ‘quite balanced’",
+      "url": "https://www.thehindu.com/news/national/sc-declines-to-intervene-in-calcutta-high-court-order-for-nia-probe-into-beldanga-violence/article70749638.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5phhyt/article70751536.ece/alternates/LANDSCAPE_1200/17th-shiv-FreshGS4FEU7KB.3.jpg.jpg",
+      "published_at": "2026-03-16T20:53:18.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బెల్దంగా హింసపై NIA విచారణకు కలకత్తా హైకోర్టు ఆదేశంపై జోక్యం చేసుకోవడానికి SC నిరాకరించింది",
+      "summary_te": "ఫిబ్రవరి 11న, సుప్రీం కోర్టు UAPA యొక్క ప్రయోగాన్ని ప్రశ్నించింది; మార్చి 16న, ఈ కేసుపై ఎన్‌ఐఏ దర్యాప్తును 'చాలా సమతుల్యం' అని హైకోర్టు ధృవీకరించినట్లు కోర్టు గుర్తించింది.",
+      "translated": true
+    },
+    {
+      "id": "cd7d4acbd848af639685a090d5dd1a66",
+      "title": "Haryana Rajya Sabha poll: Counting delayed; Congress writes to ECI alleging ‘attempt at interference’",
+      "summary": "For Haryana’s two vacant Rajya Sabha seats, three candidates are in the fray",
+      "url": "https://www.thehindu.com/news/national/haryana-rajya-sabha-poll-counting-delayed-congress-writes-to-eci-alleging-attempt-at-interference/article70750779.ece",
+      "image": "https://th-i.thgim.com/public/incoming/jp1zna/article70751524.ece/alternates/LANDSCAPE_1200/20260311509L.jpg",
+      "published_at": "2026-03-16T20:35:16.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "హర్యానా రాజ్యసభ ఎన్నికల: కౌంటింగ్ ఆలస్యం; 'జోక్యానికి ప్రయత్నించారు' అని ఆరోపిస్తూ కాంగ్రెస్ ఈసీకి లేఖ రాసింది",
+      "summary_te": "హర్యానాలో ఖాళీగా ఉన్న రెండు రాజ్యసభ స్థానాలకు ముగ్గురు అభ్యర్థులు బరిలో ఉన్నారు",
+      "translated": true
+    },
+    {
+      "id": "09c128ca9bb2e81482372650d6a372a2",
+      "title": "BJP announces first list of candidates for 144 seats for Bengal Assembly polls",
+      "summary": "Suvendu Adhikari will contest from two seats Nandigram in Purba Medinipur district and Bhabanipur in Kolkata; at Bhabanipur, Adhikari is likely to contest against Chief Minister Mamata Banerjee",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-announces-first-list-of-candidates-for-144-seats-for-bengal-assembly-polls/article70750892.ece",
+      "image": "https://th-i.thgim.com/public/incoming/wqbgjt/article70751500.ece/alternates/LANDSCAPE_1200/20260314291L.jpg",
+      "published_at": "2026-03-16T20:25:17.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బెంగాల్ అసెంబ్లీ ఎన్నికల కోసం బీజేపీ 144 స్థానాలకు అభ్యర్థుల తొలి జాబితాను ప్రకటించింది",
+      "summary_te": "సువేందు అధికారి పుర్బా మేదినీపూర్ జిల్లాలోని నందిగ్రామ్ మరియు కోల్‌కతాలోని భబానీపూర్ రెండు స్థానాల నుండి పోటీ చేస్తారు; భబానీపూర్‌లో ముఖ్యమంత్రి మమతా బెనర్జీపై అధికారి పోటీ చేసే అవకాశం ఉంది",
+      "translated": true
+    },
+    {
+      "id": "acdda5a484f3e0785ce6df6eee130a75",
+      "title": "Indian crude hits $137, up 93% since start of conflict",
+      "summary": "Atul Mathur is a Senior Assistant Editor at The Times of India with over 27 years of experience in journalism. Based in Delhi, he has spent much of his career reporting on governance, public policy and politics, churning out researched, data-driven stories that impact daily lives. Atul is known for investigative depth and strong human-interest narratives as he strives to bring clarity and context to complex issues. He currently tracks the energy sector, writing on power, renewable energy, coal and mines.Read More Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indian-crude-hits-137-up-93-since-start-of-conflict/articleshow/129618654.cms",
+      "image": "https://static.toiimg.com/photo/msid-129618658,imgsize-1021078.cms",
+      "published_at": "2026-03-16T20:24:41.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "సంఘర్షణ ప్రారంభమైనప్పటి నుండి భారత క్రూడ్ 93% పెరిగి $137ను తాకింది",
+      "summary_te": "అతుల్ మాథుర్ జర్నలిజంలో 27 సంవత్సరాల అనుభవంతో టైమ్స్ ఆఫ్ ఇండియాలో సీనియర్ అసిస్టెంట్ ఎడిటర్. ఢిల్లీలో ఉన్న అతను తన కెరీర్‌లో ఎక్కువ భాగం పాలన, పబ్లిక్ పాలసీ మరియు రాజకీయాలపై రిపోర్టింగ్‌లో గడిపాడు, రోజువారీ జీవితాలను ప్రభావితం చేసే పరిశోధనాత్మక, డేటా-ఆధారిత కథనాలను ప్రచురించాడు. అతుల్ పరిశోధనాత్మక లోతు మరియు బలమైన మానవ-ఆసక్తి కథనాలకు ప్రసిద్ధి చెందాడు, అతను సంక్లిష్ట సమస్యలకు స్పష్టత మరియు సందర్భాన్ని తీసుకురావడానికి ప్రయత్నిస్తాడు. అతను ప్రస్తుతం శక్తి రంగాన్ని ట్రాక్ చేస్తున్నాడు, విద్యుత్తు, పునరుత్పాదక ఇంధనం, బొగ్గు మరియు గనులపై వ్రాస్తూ. మరింత చదవండి రుణం కోసం నెలవారీ వాయిదా మొత్తాన్ని నిర్ణయించండి SIPల ద్వారా చేసిన పెట్టుబడులపై రాబడిని అంచనా వేయండి PPF చెక్ మెచ్యూరిటీ మొత్తం మరియు FDపై సంపాదించిన వడ్డీని కనుగొనండి మెచ్యూరిటీ మొత్తం మరియు వడ్డీని కనుగొనండి. పెట్టుబడుల విలువ వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "0b1d42a56d3ca74dd463cc6cd9a13c71",
+      "title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold",
+      "summary": "BJP national president Nitin Nabin and Bihar CM Nitish Kumar romp home as NDA secures all five Rajya Sabha seats in Bihar; the party also secures victory of three candidates in Odisha; BJP and the Congress file separate plaints in Haryana",
+      "url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
+      "image": "https://th-i.thgim.com/public/incoming/2exzbo/article70751483.ece/alternates/LANDSCAPE_1200/20260316661L.jpg",
+      "published_at": "2026-03-16T20:20:08.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "NDA బీహార్, ఒడిశా నుండి ఎనిమిది రాజ్యసభ స్థానాలను గెలుచుకుంది; హర్యానా ఫలితాలు హోల్డ్‌లో ఉన్నాయి",
+      "summary_te": "బిజెపి జాతీయ అధ్యక్షుడు నితిన్ నబిన్ మరియు బీహార్ సిఎం నితీష్ కుమార్ బీహార్‌లోని మొత్తం ఐదు రాజ్యసభ స్థానాలను ఎన్‌డిఎ కైవసం చేసుకోవడంతో ఇంటిదారి పట్టారు; ఒడిశాలో పార్టీ ముగ్గురు అభ్యర్థుల విజయాన్ని కూడా సాధించింది; హర్యానాలో బీజేపీ, కాంగ్రెస్‌లు వేర్వేరుగా వాదించాయి",
+      "translated": true
+    },
     {
       "id": "9d4b8b80caef0feb5b04bb33d72680c9",
       "title": "Cross-voting helps NDA in RS polls in Odisha, Bihar",
@@ -19,6 +131,20 @@
       "translated": true
     },
     {
+      "id": "bd17bc8c76e502acafdb0d375374915e",
+      "title": "‘Hope peace restores’: Maharashtra Congress president meets Consul General of Iran",
+      "summary": "Mr. Sapkal further said that he expressed condolences over the demise of Iran’s Supreme Leader Ali Hosseini Khamenei",
+      "url": "https://www.thehindu.com/news/national/maharashtra/hope-peace-restores-maharashtra-congress-president-meets-consul-general-of-iran/article70751140.ece",
+      "image": "https://th-i.thgim.com/public/incoming/7vzbt1/article70751522.ece/alternates/LANDSCAPE_1200/Harshvardhan%20Sapkal.jpg",
+      "published_at": "2026-03-16T20:03:15.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "‘శాంతి పునరుద్ధరిస్తుందని ఆశిస్తున్నాను’: మహారాష్ట్ర కాంగ్రెస్ అధ్యక్షుడు ఇరాన్ కాన్సుల్ జనరల్‌ను కలిశారు",
+      "summary_te": "శ్రీ సప్కాల్ ఇంకా మాట్లాడుతూ ఇరాన్ యొక్క సుప్రీం లీడర్ అలీ హొస్సేనీ ఖమేనీ మరణం పట్ల సంతాపం వ్యక్తం చేశారు.",
+      "translated": true
+    },
+    {
       "id": "aeea45b6e04fb822861d6ba9cc841c8e",
       "title": "In Haryana, BJP and Congress gain inroads into each other’s bastions",
       "summary": "Both the national parties, while tightening their hold, are keen to look beyond",
@@ -30,6 +156,20 @@
       "language": "en",
       "title_te": "హర్యానాలో బీజేపీ, కాంగ్రెస్‌లు ఒకదానికొకటి కంచుకోటలో దూసుకుపోతున్నాయి",
       "summary_te": "రెండు జాతీయ పార్టీలు తమ పట్టు బిగిస్తూనే.. అతీతంగా చూసేందుకు జంకుతున్నాయి",
+      "translated": true
+    },
+    {
+      "id": "ee983d9fdb93a92991f29527c9e61088",
+      "title": "Iran, US Have Been In Direct Contact In Recent Days: Reports",
+      "summary": "A direct communications channel between US envoy Steve Witkoff and Iranian Foreign Minister Abbas Araghchi has been reactivated in recent days, Axios reported on Monday, citing a US official and a source with knowledge of the matter.",
+      "url": "https://www.ndtv.com/world-news/iran-war-iran-us-have-been-in-direct-contact-in-recent-days-reports-11225004#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/jvnjqap_abbas-araghchi_625x300_09_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-16T19:58:26.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్, యుఎస్ ఇటీవలి రోజుల్లో ప్రత్యక్ష సంబంధంలో ఉన్నాయి: నివేదికలు",
+      "summary_te": "ఇటీవలి రోజుల్లో US రాయబారి స్టీవ్ విట్‌కాఫ్ మరియు ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీ మధ్య ప్రత్యక్ష కమ్యూనికేషన్ ఛానెల్ మళ్లీ సక్రియం చేయబడిందని, US అధికారి మరియు విషయం తెలిసిన ఒక మూలాన్ని ఉటంకిస్తూ Axios సోమవారం నివేదించింది.",
       "translated": true
     },
     {
@@ -145,6 +285,20 @@
       "translated": true
     },
     {
+      "id": "a2359cd3c0dccf649eddd633d7c639a3",
+      "title": "Trump Seeks To Reopen Strait Of Hormuz Amid Iran War",
+      "summary": "US President Donald Trump said he has demanded about seven countries send warships to keep the Strait of Hormuz open as Iranian strikes kept slamming into Gulf countries Monday.",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-seeks-to-reopen-strait-of-hormuz-amid-iran-war-11224979#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/thiqcmqc_donald-trump_625x300_16_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-16T19:42:11.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ యుద్ధం మధ్య హార్ముజ్ జలసంధిని తిరిగి తెరవాలని ట్రంప్ ప్రయత్నిస్తున్నారు",
+      "summary_te": "గల్ఫ్ దేశాలపై సోమవారం ఇరాన్ దాడులు విజృంభిస్తున్నందున హార్ముజ్ జలసంధిని తెరిచి ఉంచడానికి ఏడు దేశాలు యుద్ధనౌకలను పంపాలని కోరినట్లు అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ తెలిపారు.",
+      "translated": true
+    },
+    {
       "id": "fc9fbc260ed268ab425a0bbb64149d54",
       "title": "Govt, oppn reach deal, suspension of 8 MPs to be revoked",
       "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
@@ -156,20 +310,6 @@
       "language": "en",
       "title_te": "ప్రభుత్వం, ప్రతిపక్షం ఒప్పందం, 8 మంది ఎంపీల సస్పెన్షన్‌ రద్దు",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
-      "id": "09c128ca9bb2e81482372650d6a372a2",
-      "title": "BJP announces first list of candidates for 144 seats for Bengal Assembly polls",
-      "summary": "Suvendu Adhikari will contest from two seats Nandigram in Purba Medinipur district and Bhabanipur in Kolkata. At Bhabanipur, Mr. Adhikari is likely to contest against Chief Minister Mamata Banerjee",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-announces-first-list-of-candidates-for-144-seats-for-bengal-assembly-polls/article70750892.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wqbgjt/article70751500.ece/alternates/LANDSCAPE_1200/20260314291L.jpg",
-      "published_at": "2026-03-16T19:22:34.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "బెంగాల్ అసెంబ్లీ ఎన్నికల కోసం బీజేపీ 144 స్థానాలకు అభ్యర్థుల తొలి జాబితాను ప్రకటించింది",
-      "summary_te": "సువేందు అధికారి పుర్బా మేదినీపూర్ జిల్లాలోని నందిగ్రామ్ మరియు కోల్‌కతాలోని భబానీపూర్ రెండు స్థానాల నుండి పోటీ చేయనున్నారు. భబానీపూర్‌లో ముఖ్యమంత్రి మమతా బెనర్జీపై మిస్టర్ అధికారి పోటీ చేసే అవకాశం ఉంది",
       "translated": true
     },
     {
@@ -282,34 +422,6 @@
       "language": "en",
       "title_te": "దాడి చేసిన ఫరూక్ రిమాండ్ పొడిగింపు",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
-      "id": "ccede0ea270b494b852b73bd65cde1ec",
-      "title": "Naval ships escort Indian vessels from Gulf of Oman",
-      "summary": "Three warships escort Shivalik, Nanda Devi, and Jag Laadki; naval protection for Indian ships to continue; warships operating under Operation Sankalp, a mission aimed at safeguarding merchant shipping and protecting India’s maritime interests in the Gulf region",
-      "url": "https://www.thehindu.com/news/national/naval-ships-escort-indian-vessels-from-gulf-of-oman/article70750900.ece",
-      "image": "https://th-i.thgim.com/public/incoming/qo8mry/article70751374.ece/alternates/LANDSCAPE_1200/2026-03-16T132217Z_1679008328_RC2M5KANAIIS_RTRMADP_3_IRAN-CRISIS-INDIA.JPG",
-      "published_at": "2026-03-16T18:44:38.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "నౌకాదళ నౌకలు ఒమన్ గల్ఫ్ నుండి భారతీయ నౌకలను ఎస్కార్ట్ చేస్తాయి",
-      "summary_te": "మూడు యుద్ధనౌకలు శివాలిక్, నందా దేవి, మరియు జగ్ లాడ్కీలకు ఎస్కార్ట్; భారత నౌకలకు నౌకాదళ రక్షణ కొనసాగుతుంది; మర్చంట్ షిప్పింగ్‌ను రక్షించడం మరియు గల్ఫ్ ప్రాంతంలో భారతదేశం యొక్క సముద్ర ప్రయోజనాలను పరిరక్షించడం లక్ష్యంగా ఉన్న ఆపరేషన్ సంకల్ప్ కింద పనిచేస్తున్న యుద్ధనౌకలు",
-      "translated": true
-    },
-    {
-      "id": "0b1d42a56d3ca74dd463cc6cd9a13c71",
-      "title": "NDA wins eight Rajya Sabha seats from Bihar, Odisha; Haryana results on hold",
-      "summary": "BJP national president Nitin Nabin and Bihar CM Nitish Kumar romp home as NDA secures all five Rajya Sabha seats in Bihar; the party also secures victory of three candidates in Odisha; BJP and the Congress file separate plaints in Haryana",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-election-results-haryana-odisha-bihar-march-16-2026/article70751238.ece",
-      "image": "https://th-i.thgim.com/public/incoming/2exzbo/article70751483.ece/alternates/LANDSCAPE_1200/20260316661L.jpg",
-      "published_at": "2026-03-16T18:43:24.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "NDA బీహార్, ఒడిశా నుండి ఎనిమిది రాజ్యసభ స్థానాలను గెలుచుకుంది; హర్యానా ఫలితాలు హోల్డ్‌లో ఉన్నాయి",
-      "summary_te": "బిజెపి జాతీయ అధ్యక్షుడు నితిన్ నబిన్ మరియు బీహార్ సిఎం నితీష్ కుమార్ బీహార్‌లోని మొత్తం ఐదు రాజ్యసభ స్థానాలను ఎన్‌డిఎ కైవసం చేసుకోవడంతో ఇంటిదారి పట్టారు; ఒడిశాలో పార్టీ ముగ్గురు అభ్యర్థుల విజయాన్ని కూడా సాధించింది; హర్యానాలో బీజేపీ, కాంగ్రెస్‌లు వేర్వేరుగా వాదించాయి",
       "translated": true
     },
     {
@@ -436,20 +548,6 @@
       "language": "en",
       "title_te": "భోజ్‌పురి గాయకుడు డ్యాన్సర్‌ని గుంపులోకి విసిరిన వీడియో వైరల్‌గా మారింది",
       "summary_te": "భోజ్‌పురి గాయకుడు డ్యాన్సర్‌ని గుంపులోకి విసిరిన వీడియో వైరల్‌గా మారింది",
-      "translated": true
-    },
-    {
-      "id": "ef05296844e59e113aae763dda1b47c7",
-      "title": "Israel doesn’t seek ‘perpetual war’ with Iran, says Envoy, suggests diplomatic options remain",
-      "summary": "Comments come as Jaishankar hails talks with Iran “yielding results” for Indian ships in Hormuz",
-      "url": "https://www.thehindu.com/news/international/israels-doesnt-seek-perpetual-war-with-iran-says-envoy-suggests-diplomatic-options-remain/article70750573.ece",
-      "image": "https://th-i.thgim.com/public/incoming/23gf6z/article70751405.ece/alternates/LANDSCAPE_1200/2026-03-16T165146Z_122769882_RC2P5KAD0OIP_RTRMADP_3_IRAN-CRISIS-ISRAEL-PALESTINIANS.JPG",
-      "published_at": "2026-03-16T18:14:02.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్‌తో ఇజ్రాయెల్ 'శాశ్వత యుద్ధాన్ని' కోరుకోవడం లేదు, దౌత్యపరమైన ఎంపికలు మిగిలి ఉన్నాయని రాయబారి చెప్పారు",
-      "summary_te": "హోర్ముజ్‌లో భారత నౌకల కోసం ఇరాన్‌తో చర్చలు “ఫలితాలను ఇస్తున్నాయి” అని జైశంకర్ ప్రశంసించిన నేపథ్యంలో వ్యాఖ్యలు వచ్చాయి.",
       "translated": true
     },
     {
@@ -593,20 +691,6 @@
       "translated": true
     },
     {
-      "id": "7c7e6ff459b483ea941184e366da1de8",
-      "title": "Supreme Court says stakeholder consultation needed, reluctant to alter duration of five-year law courses",
-      "summary": "While acknowledging that reforms in legal education are a necessity, the Chief Justice-led Bench says it may not be appropriate for courts to determine the duration of professional courses.",
-      "url": "https://www.thehindu.com/news/national/supreme-court-says-stakeholder-consultation-needed-reluctant-to-alter-duration-of-five-year-law-courses/article70749851.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ojpdbh/article70751417.ece/alternates/LANDSCAPE_1200/Supreme-Court-sG21FK23VG.4.jpg.jpg",
-      "published_at": "2026-03-16T17:43:21.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "వాటాదారుల సంప్రదింపులు అవసరమని, ఐదేళ్ల లా కోర్సుల కాలవ్యవధిని మార్చేందుకు ఇష్టపడని సుప్రీంకోర్టు",
-      "summary_te": "న్యాయ విద్యలో సంస్కరణలు తప్పనిసరి అని అంగీకరిస్తూనే, ప్రొఫెషనల్ కోర్సుల వ్యవధిని న్యాయస్థానాలు నిర్ణయించడం సరికాదని చీఫ్ జస్టిస్ నేతృత్వంలోని బెంచ్ పేర్కొంది.",
-      "translated": true
-    },
-    {
       "id": "77f0737f0fd28a5bfe2857b59664047d",
       "title": "A.P. DGP pays tributes to Potti Sriramulu",
       "summary": "Director General of Police (DGP) Harish Kumar Gupta paid tributes to Amarajeevi Potti Sriramulu at the A.P. Police Headquarters in Mangalagiri on Monday (March 16, 2026).The DGP garlanded the portrait on the occasion of the 125thbirth anniversary of the leader and recalled his sacrifice for achieving separate Andhra Pradesh.Mr. Harish Kumar Gupta said Potti Sriramulu who observed fast unto death for 58 days for separate State, would be in the hearts of the people forever.Police Commissioner S.V. Rajashekar Babu paid floral tributes to Amarajeevi Potti Sriramulu at the Police Commissionerate in Vijayawada.In Machilipatnam, Additional Superintendent of Police (ASP) V.V. Naidu, along with others, garlanded the portrait of Potti Sriramulu at the district police headquarters in Krishna district.",
@@ -663,20 +747,6 @@
       "translated": true
     },
     {
-      "id": "88f4589a5c85187c6b6d53df6838896f",
-      "title": "Address attacks on Hindu temples in the U.S., MEA says",
-      "summary": "The U.S. Commission on International Religious Freedom is ‘presenting a distorted and selective picture of India’, the Ministry of External Affairs says",
-      "url": "https://www.thehindu.com/news/national/address-attacks-on-hindu-temples-in-the-us-mea-says/article70751311.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hwt6j5/article70751399.ece/alternates/LANDSCAPE_1200/20260316500L.jpg",
-      "published_at": "2026-03-16T17:33:22.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "U.S.లోని హిందూ దేవాలయాలపై దాడులకు చిరునామా, MEA చెప్పింది",
-      "summary_te": "U.S. కమీషన్ ఆన్ ఇంటర్నేషనల్ రిలిజియస్ ఫ్రీడం 'భారతదేశం యొక్క వక్రీకరించిన మరియు ఎంపిక చేసిన చిత్రాన్ని ప్రదర్శిస్తోంది' అని విదేశాంగ మంత్రిత్వ శాఖ పేర్కొంది",
-      "translated": true
-    },
-    {
       "id": "e6e0eb2e8d972c0f7f3ba01e2059220a",
       "title": "Centre Trashes Reports Linking Release Of Tankers To Hormuz Access: Report",
       "summary": "The government on Monday trashed reports that said Tehran is seeking release of three oil tankers seized by India in return for ensuring safe passage to Indian-'flagged vessels through the Strait of Hormuz.",
@@ -702,34 +772,6 @@
       "language": "en",
       "title_te": "హార్ముజ్‌ను తిరిగి తెరవడానికి మిత్రదేశాలను ఒత్తిడి చేయడంతో ఇరాన్ 'అక్షరాలా నిర్మూలించబడిందని' ట్రంప్ అన్నారు.",
       "summary_te": "క్షిపణి మరియు డ్రోన్ దాడులలో గణనీయమైన తగ్గింపులను పేర్కొంటూ 7,000 దాడుల తర్వాత ఇరాన్ సైన్యం \"అక్షరాలా నిర్మూలించబడింది\" అని US అధ్యక్షుడు ట్రంప్ ప్రకటించారు. హార్ముజ్ జలసంధిపై నియంత్రణను నొక్కిచెప్పినప్పటికీ, షిప్పింగ్‌ను సురక్షితంగా ఉంచడంలో సహాయం చేయాలని అతను మిత్రదేశాలను కోరారు, అయితే జర్మనీ మరియు జపాన్ వంటి కీలక దేశాల నుండి చల్లని ప్రతిస్పందనలను ఎదుర్కొన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "566626437637f5123b282745ab6646da",
-      "title": "Laughter Chefs fame Jannat Zubair, brother Ayaan allegedly attacked on highway",
-      "summary": "In a harrowing turn of events, popular influencers Jannat Zubair and her brother Ayaan experienced a frightening road incident in Panvel, characterized by a chase and an aggressive encounter. Fortunately, both siblings are reported to be unharmed and are currently cooperating with law enforcement as they investigate the incident.",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/laughter-chefs-fame-jannat-zubair-brother-ayaan-zubair-allegedly-attacked-and-chased-on-highway/articleshow/129615681.cms",
-      "image": "https://static.toiimg.com/photo/msid-129615768,imgsize-114768.cms",
-      "published_at": "2026-03-16T17:24:57.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "లాఫ్టర్ చెఫ్స్ ఫేమ్ జన్నత్ జుబేర్, సోదరుడు అయాన్ హైవేపై దాడికి పాల్పడ్డారు",
-      "summary_te": "సంఘటనల బాధాకరమైన మలుపులో, ప్రముఖ ప్రభావశీలులు జన్నత్ జుబైర్ మరియు ఆమె సోదరుడు అయాన్ పన్వెల్‌లో ఒక భయానక రహదారి సంఘటనను ఎదుర్కొన్నారు, ఇది ఛేజింగ్ మరియు దూకుడు ఎన్‌కౌంటర్ ద్వారా వర్గీకరించబడింది. అదృష్టవశాత్తూ, ఇద్దరు తోబుట్టువులు క్షేమంగా ఉన్నట్లు నివేదించబడింది మరియు వారు సంఘటనపై దర్యాప్తు చేస్తున్నందున ప్రస్తుతం చట్ట అమలుకు సహకరిస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "b379cd8e5db2ecba80cf17e20e954ab5",
-      "title": "Flying squads, control rooms in place ahead of poll in Cuddalore",
-      "summary": "An election control room has been set up in Cuddalore district to receive complaints on violation of the Model Code of Conduct, District Election Officer and Collector Sibi Adhithya Senthil Kumar has said.The public can contact the district control room on 1800 425 0037, 04142 - 290119, and on WhatsApp - 82487 74852 for complaints.Addressing journalists on Monday, he said flying squads and static surveillance teams had assumed charge in their respective areas. Video surveillance teams had been formed to monitor the enforcement of the Model Code in the district.The district has nine Assembly constituencies - Thittagudi (Reserved), Vriddhachalam, Neyveli, Panruti, Cuddalore, Kurinjipadi, Bhuvanagiri, Chidambaram, and Kattumannarkovil (Reserved). As per the final electoral rolls released in February, the district has 20,15,796 voters with 9,91,527 men, 10,23,976 women and 293 others.In each Assembly constituency, nine flying squads, nine static surveillance teams, and one video surveillance team have been deployed. The teams would be on duty round-the-clock and keep a vigil against distribution of cash or gifts. The teams would be deployed in three shifts round-the-clock.Cuddalore district has a total of 2,590 polling stations. Of them nine booths will be entirely manned by women while one booth will be entirely managed by by persons with disabilities.Mr. Kumar said surveillance was strengthened at six check-posts located near the inter-state border with Puducherry. Day and night resolution cameras, that can rotate 360 degrees have been installed at these check-posts while CCTVs have been deployed at 10 check-posts on the district border.Suvidha appAll political parties and candidates should submit online applications seeking permission from the District Election Officer 48 hours earlier, to conduct election meetings. The applications must be submitted through https://suvidha.eci.gov.in.No wall writings, party flags, advertisement hoardings, wall posters, and writing of slogans is allowed in the urban areas of the Corporation, municipalities, and town panchayats even with the permission from the landlords.In rural areas, wall graffiti and writing of slogans should not be done on private land and buildings without the permission of the landlords.No Government land or buildings should be used for erection of party flags, putting up hoardings, and wall writings.The Collector appealed to political parties and candidates to cooperate with the administration by strictly following the Model Code of Conduct.",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/flying-squads-control-rooms-in-place-ahead-of-poll-in-cuddalore/article70749177.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-16T17:23:15.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కడలూరులో ఎన్నికల ముందు ఫ్లయింగ్ స్క్వాడ్‌లు, కంట్రోల్ రూమ్‌లు",
-      "summary_te": "కడలూరు జిల్లాలో మోడల్‌ కోడ్‌ ఆఫ్‌ కండక్ట్‌ ఉల్లంఘనపై ఫిర్యాదుల స్వీకరణకు ఎన్నికల కంట్రోల్‌ రూం ఏర్పాటు చేసినట్లు జిల్లా ఎన్నికల అధికారి, కలెక్టర్‌ సీబీ ఆదిత్య సెంథిల్‌ కుమార్‌ తెలిపారు. ప్రజలు జిల్లా కంట్రోల్‌ రూంను 1800 425 0037, 04142 - 290119, వాట్సాప్‌ జర్నలిస్టుల 742482 నంబర్లలో సోమవారం సంప్రదించవచ్చు. ఫ్లయింగ్ స్క్వాడ్‌లు మరియు స్టాటిక్ సర్వైలెన్స్ బృందాలు ఆయా ప్రాంతాల్లో బాధ్యతలు చేపట్టాయని చెప్పారు. జిల్లాలో మోడల్ కోడ్ అమలును పర్యవేక్షించడానికి వీడియో నిఘా బృందాలు ఏర్పాటు చేయబడ్డాయి. జిల్లాలో తొమ్మిది అసెంబ్లీ నియోజకవర్గాలు ఉన్నాయి - తిట్టగుడి (రిజర్వ్‌డ్), వృద్ధాచలం, నేవేలి, పన్రుటి, కడలూరు, కురింజిపాడి, భువనగిరి, చిదంబరం మరియు కట్టుమన్నార్కోవిల్ (రిజర్వ్డ్). ఫిబ్రవరిలో విడుదల చేసిన తుది ఓటర్ల జాబితా ప్రకారం, జిల్లాలో 9,91,527 మంది పురుషులు, 10,23,976 మంది మహిళలు, 293 మంది ఇతరులు 20,15,796 మంది ఓటర్లు ఉన్నారు. ప్రతి అసెంబ్లీ నియోజకవర్గంలో తొమ్మిది ఫ్లయింగ్ స్క్వాడ్‌లు, తొమ్మిది స్టాటిక్ సర్వైలెన్స్ బృందాలు, ఒక వీడియో సర్వైలెన్స్ టీమ్‌ను నియమించారు. బృందాలు 24 గంటలూ డ్యూటీలో ఉంటాయి మరియు నగదు లేదా బహుమతుల పంపిణీకి వ్యతిరేకంగా నిఘా ఉంచుతాయి. ఈ బృందాలు మూడు షిఫ్టులలో 24 గంటలూ పని చేస్తాయి. కడలూరు జిల్లాలో మొత్తం 2,590 పోలింగ్ స్టేషన్లు ఉన్నాయి. వాటిలో తొమ్మిది బూత్‌లు పూర్తిగా మహిళలచే నిర్వహించబడతాయి, ఒక బూత్ పూర్తిగా వికలాంగులచే నిర్వహించబడుతుంది. Mr. పుదుచ్చేరితో అంతర్ రాష్ట్ర సరిహద్దుకు సమీపంలో ఉన్న ఆరు చెక్‌పోస్టుల వద్ద నిఘా పటిష్టం చేసినట్లు కుమార్ తెలిపారు. జిల్లా సరిహద్దులోని 10 చెక్‌పోస్టుల వద్ద సీసీటీవీలను ఏర్పాటు చేయగా, ఈ చెక్‌పోస్టుల వద్ద 360 డిగ్రీలు తిరిగే పగలు మరియు రాత్రి రిజల్యూషన్ కెమెరాలను ఏర్పాటు చేశారు. సువిధ యాప్ అన్ని రాజకీయ పార్టీలు మరియు అభ్యర్థులు ఎన్నికల సమావేశాలను నిర్వహించడానికి 48 గంటల ముందుగా జిల్లా ఎన్నికల అధికారి నుండి అనుమతి కోరుతూ ఆన్‌లైన్ దరఖాస్తులను సమర్పించాలి. దరఖాస్తులను https://suvidha.eci.gov.in ద్వారా సమర్పించాలి.కార్పొరేషన్, మున్సిపాలిటీలు, పట్టణ పంచాయతీల్లోని పట్టణ ప్రాంతాల్లో భూయజమానుల అనుమతితో కూడా గోడ రాతలు, పార్టీ జెండాలు, ప్రకటనల హోర్డింగ్‌లు, వాల్ పోస్టర్లు, నినాదాలు రాయకూడదు. పార్టీ జెండాల ఏర్పాటుకు, హోర్డింగ్‌ల ఏర్పాటుకు, వాల్‌ రైటింగ్‌లకు వినియోగించాలి. రాజకీయ పార్టీలు, అభ్యర్థులు మోడల్‌ కోడ్‌ ఆఫ్‌ కండక్ట్‌ను కచ్చితంగా పాటించి పాలనకు సహకరించాలని కలెక్టర్‌ విజ్ఞప్తి చేశారు.",
       "translated": true
     },
     {
@@ -1019,7 +1061,7 @@
       "url": "https://www.ndtv.com/india-news/24-year-old-man-killed-after-defender-rams-dumper-in-faridabad-cops-11224090#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-03/kon59ik_defender-crash-faridabad_625x300_16_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-16T15:52:56.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "ఫరీదాబాద్‌లో డిఫెండర్ డంపర్ ట్రక్కును ఢీకొట్టడంతో 24 ఏళ్ల యువకుడు మృతి చెందాడు.",
@@ -1047,7 +1089,7 @@
       "url": "https://www.ndtv.com/india-news/india-flags-selective-targeting-after-us-body-urges-sanctions-on-r-aw-rss-11224091#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2018-09/q35u6gic_india-us-flags-reuters_625x300_18_September_18.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-16T15:20:31.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "R&AW, RSSపై US బాడీ ఆంక్షలను కోరిన తర్వాత భారతదేశం \"సెలెక్టివ్ టార్గెటింగ్\" అని ఫ్లాగ్ చేసింది",
@@ -1094,20 +1136,6 @@
       "language": "en",
       "title_te": "నోయిడా హై-రైజ్‌లో 2 ఏళ్ల కుమార్తెతో 23వ అంతస్తు నుండి దూకిన వ్యక్తి",
       "summary_te": "ఓ ప్రైవేట్ స్కూల్ ఆపరేటర్ సోమవారం ఇక్కడ తన రెండేళ్ల కుమార్తెతో తన రెసిడెన్షియల్ భవనంలోని 23వ అంతస్తు నుంచి దూకి, ఇద్దరు మృతి చెందినట్లు పోలీసులు తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "98f0d781b7a9184f8499f268753befd9",
-      "title": "'Cannot be expressed': Sanju Samson makes massive Gambhir admission",
-      "summary": "Sanju Samson reflected on India’s victory in the ICC Men's T20 World Cup 2026, where he was Player of the Tournament with 321 runs. He spoke about his long bond with head coach Gautam Gambhir and revealed receiving an emotional message from Sachin Tendulkar after India defeated the New Zealand national cricket team in the final.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/cannot-be-expressed-sanju-samson-makes-massive-gautam-gambhir-admission/articleshow/129611921.cms",
-      "image": "https://static.toiimg.com/photo/msid-129612970,imgsize-34920.cms",
-      "published_at": "2026-03-16T15:00:46.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'వ్యక్తీకరించడం సాధ్యం కాదు': సంజూ శాంసన్ గంభీర్‌ను భారీగా చేర్చుకున్నాడు",
-      "summary_te": "ICC పురుషుల T20 ప్రపంచ కప్ 2026లో భారతదేశం సాధించిన విజయాన్ని సంజు శాంసన్ ప్రతిబింబించాడు, అక్కడ అతను 321 పరుగులతో ప్లేయర్ ఆఫ్ ది టోర్నమెంట్‌గా నిలిచాడు. అతను ప్రధాన కోచ్ గౌతమ్ గంభీర్‌తో తన సుదీర్ఘ బంధం గురించి మాట్లాడాడు మరియు ఫైనల్‌లో న్యూజిలాండ్ జాతీయ క్రికెట్ జట్టును భారత్ ఓడించిన తర్వాత సచిన్ టెండూల్కర్ నుండి భావోద్వేగ సందేశాన్ని అందుకున్నట్లు వెల్లడించాడు.",
       "translated": true
     },
     {
@@ -1374,34 +1402,6 @@
       "language": "en",
       "title_te": "హోర్ముజ్ జలసంధికి యుద్ధనౌకలను మోహరించడంపై ఎలాంటి చర్చలు జరగలేదని భారత్ పేర్కొంది",
       "summary_te": "ఈ విషయంపై భారతదేశం అనేక మంది వాటాదారులతో చర్చలు కొనసాగిస్తుందని, ఫైనాన్షియల్ టైమ్స్‌కి ఇచ్చిన ఇంటర్వ్యూలో విదేశాంగ మంత్రి ఎస్ జైశంకర్ కూడా దీని గురించి మాట్లాడారని జైస్వాల్ చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "a40755c5b404f314cd638434a66f644a",
-      "title": "Need to get out of mindset that only Delhi requires greenery: SC",
-      "summary": "Need to get out of mindset that only Delhi requires greenery: SC",
-      "url": "https://www.hindustantimes.com/india-news/need-to-get-out-of-mindset-that-only-delhi-requires-greenery-sc-101773664679602.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
-      "published_at": "2026-03-16T12:37:59.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఢిల్లీకి మాత్రమే పచ్చదనం అవసరం అనే ఆలోచన నుండి బయటపడాలి: ఎస్సీ",
-      "summary_te": "ఢిల్లీకి మాత్రమే పచ్చదనం అవసరం అనే ఆలోచన నుండి బయటపడాలి: ఎస్సీ",
-      "translated": true
-    },
-    {
-      "id": "782f3d0c3067f4b1b192507c58b0a94f",
-      "title": "UP man stabs wife with scissors in front of children, wanted to marry his aunt",
-      "summary": "UP man stabs wife with scissors in front of children, wanted to marry his aunt",
-      "url": " https://www.indiatoday.in/india/uttar-pradesh/story/man-kills-wife-with-scissors-in-sambhal-after-divorce-refusal-to-marry-aunt-2882780-2026-03-16?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/husnband-stabs-wife-with-scissors-in-ups-sambhal-163503996-16x9_0.jpg?VersionId=OfmD5_xQDQDahqCUQXvJiJvFGbkdouwS",
-      "published_at": "2026-03-16T12:37:14.000Z",
-      "source": "India Today",
-      "category": "india",
-      "language": "en",
-      "title_te": "తన అత్తను పెళ్లి చేసుకోవాలనుకున్న యూపీ వ్యక్తి పిల్లల ముందే భార్యను కత్తెరతో పొడిచాడు",
-      "summary_te": "తన అత్తను పెళ్లి చేసుకోవాలనుకున్న యూపీ వ్యక్తి పిల్లల ముందే భార్యను కత్తెరతో పొడిచాడు",
       "translated": true
     }
   ]
