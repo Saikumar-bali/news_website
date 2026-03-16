@@ -1,21 +1,49 @@
 {
-  "updated_at": "2026-03-16T09:10:06.111Z",
-  "updated_at_IST": "16/3/2026, 2:40:06 pm",
+  "updated_at": "2026-03-16T10:05:10.858Z",
+  "updated_at_IST": "16/3/2026, 3:35:10 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
-      "id": "acc61a1d5e4e7a81469720b405399b9d",
-      "title": "Fixed income investments look attractive amid market volatility, says Basant Bafna",
-      "summary": "Investors are finding fixed income attractive amid market volatility. Basant Bafna of Mirae Asset Mutual Fund highlights appealing spreads and carry advantages. Inflows into fixed income funds are noted. The short-term outlook suggests curve steepening. Medium to long-term inflation is expected to remain anchored near 4%. Non-sovereign fixed income instruments appear particularly appealing.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/fixed-income-investments-look-attractive-amid-market-volatility-says-basant-bafna/articleshow/129604772.cms",
+      "id": "e96937d97576fc7ceadf46a51a20f152",
+      "title": "Commodity Radar: Gold plunges Rs 3,000/10 gram as investors turn cautious ahead of Fed policy. Should you sell on rise?",
+      "summary": "Gold prices fell sharply on MCX, dropping Rs 3,000 per 10 gram as investors turned cautious ahead of the US Federal Reserve policy meeting. Profit booking in global markets, rising oil prices and persistent geopolitical tensions in West Asia are keeping bullion volatile, prompting analysts to recommend a sell-on-rise trading strategy.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-gold-plunges-rs-3000/10-gram-as-investors-turn-cautious-ahead-of-fed-policy-should-you-sell-on-rise/articleshow/129605611.cms",
       "image": null,
-      "published_at": "2026-03-16T08:41:43.000Z",
+      "published_at": "2026-03-16T09:26:33.000Z",
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "మార్కెట్ అస్థిరత మధ్య స్థిర ఆదాయ పెట్టుబడులు ఆకర్షణీయంగా కనిపిస్తున్నాయని బసంత్ బఫ్నా చెప్పారు",
-      "summary_te": "మార్కెట్ అస్థిరత మధ్య పెట్టుబడిదారులు స్థిర ఆదాయాన్ని ఆకర్షణీయంగా కనుగొంటారు. మిరే అసెట్ మ్యూచువల్ ఫండ్ యొక్క బసంత్ బఫ్నా ఆకర్షణీయమైన స్ప్రెడ్‌లు మరియు క్యారీ ప్రయోజనాలను హైలైట్ చేస్తుంది. ఫిక్స్‌డ్ ఇన్‌కమ్ ఫండ్స్‌లోకి ఇన్‌ఫ్లోలు గుర్తించబడ్డాయి. స్వల్పకాలిక దృక్పథం వక్రరేఖ నిటారుగా ఉండడాన్ని సూచిస్తుంది. మధ్యస్థ మరియు దీర్ఘకాలిక ద్రవ్యోల్బణం 4% సమీపంలోనే ఉండవచ్చని అంచనా. నాన్-సార్వభౌమ స్థిర ఆదాయ సాధనాలు ప్రత్యేకంగా ఆకర్షణీయంగా కనిపిస్తాయి.",
+      "title_te": "కమోడిటీ రాడార్: ఫెడ్ పాలసీకి ముందు పెట్టుబడిదారులు జాగ్రత్తగా మారడంతో బంగారం ధర రూ. 3,000/10 గ్రాములు పడిపోయింది. మీరు పెరుగుతున్నప్పుడు విక్రయించాలా?",
+      "summary_te": "US ఫెడరల్ రిజర్వ్ పాలసీ సమావేశానికి ముందు పెట్టుబడిదారులు జాగ్రత్తగా మారడంతో MCXలో బంగారం ధరలు బాగా పడిపోయాయి, 10 గ్రాములకు రూ. 3,000 పడిపోయాయి. గ్లోబల్ మార్కెట్లలో ప్రాఫిట్ బుకింగ్, పెరుగుతున్న చమురు ధరలు మరియు పశ్చిమాసియాలో నిరంతర భౌగోళిక రాజకీయ ఉద్రిక్తతలు బులియన్ అస్థిరతను కలిగి ఉన్నాయి, విశ్లేషకులు అమ్మకాల-పెరుగుదల ట్రేడింగ్ వ్యూహాన్ని సిఫార్సు చేస్తున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "be21a36ee416d05c350cc38628b9c9e7",
+      "title": "Delhi-bound Air India flight from New York diverted to Ireland's Shannon Airport. Here's why",
+      "summary": "Air India Flight AI102 was operating from John F Kennedy International Airport in New York to New Delhi's Indira Gandhi International Airport on March 15.",
+      "url": "https://www.livemint.com/news/india/delhibound-air-india-flight-from-new-york-diverted-to-irelands-shannon-airport-heres-why-11773652145820.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/IRAN-CRISIS-INDIA-AIRLINES-0_1773652164450_1773652173097.JPG",
+      "published_at": "2026-03-16T09:15:52.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "న్యూయార్క్‌ నుంచి ఢిల్లీ వెళ్లాల్సిన ఎయిరిండియా విమానం ఐర్లాండ్‌లోని షానన్ ఎయిర్‌పోర్ట్‌కు దారి మళ్లించింది. ఎందుకో ఇక్కడ ఉంది",
+      "summary_te": "ఎయిరిండియా ఫ్లైట్ AI102 మార్చి 15న న్యూయార్క్‌లోని జాన్ ఎఫ్ కెన్నెడీ ఇంటర్నేషనల్ ఎయిర్‌పోర్ట్ నుండి న్యూఢిల్లీలోని ఇందిరా గాంధీ ఇంటర్నేషనల్ ఎయిర్‌పోర్ట్‌కు నడుస్తోంది.",
+      "translated": true
+    },
+    {
+      "id": "4e7a00db3522d0d7573906c2ee74c490",
+      "title": "Union Bank of India approves plan to raise up to Rs 20,000 crore via long-term bonds",
+      "summary": "Union Bank of India will raise funds through bond issuances. The bank's committee approved long-term bonds worth twenty thousand crore rupees for infrastructure and affordable housing. It will also issue green or sustainable bonds up to five thousand crore rupees. Part of the funds will be raised before March thirty-first, twenty twenty-six.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/union-bank-of-india-approves-plan-to-raise-up-to-rs-20000-crore-via-long-term-bonds/articleshow/129605355.cms",
+      "image": null,
+      "published_at": "2026-03-16T09:09:14.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "యూనియన్ బ్యాంక్ ఆఫ్ ఇండియా దీర్ఘకాలిక బాండ్ల ద్వారా రూ. 20,000 కోట్ల వరకు సమీకరించే ప్రణాళికను ఆమోదించింది",
+      "summary_te": "యూనియన్ బ్యాంక్ ఆఫ్ ఇండియా బాండ్ జారీ ద్వారా నిధులను సమీకరించనుంది. మౌలిక సదుపాయాలు మరియు సరసమైన గృహాల కోసం ఇరవై వేల కోట్ల రూపాయల విలువైన దీర్ఘకాలిక బాండ్లను బ్యాంక్ కమిటీ ఆమోదించింది. ఐదు వేల కోట్ల రూపాయల వరకు గ్రీన్ లేదా సస్టెయినబుల్ బాండ్లను కూడా జారీ చేస్తుంది. నిధులలో కొంత భాగం మార్చి ముప్పై ఒకటో, ఇరవై ఇరవై ఆరులోపు సమీకరించబడుతుంది.",
       "translated": true
     },
     {
@@ -30,20 +58,6 @@
       "language": "en",
       "title_te": "'అతను వ్యక్తిగతంగా ఎప్పుడు చూశాను...' : నెతన్యాహు మరణ పుకార్లను భారత్‌లోని ఇజ్రాయెల్ రాయబారి ఖండించారు",
       "summary_te": "బెంజమిన్ నెతన్యాహు మరణానికి సంబంధించిన వైరల్ వాదనలు మరియు AI- రూపొందించిన ఫుటేజీ సోషల్ మీడియా ప్లాట్‌ఫారమ్‌లను కైవసం చేసుకోవడంతో, భారతదేశంలోని ఇజ్రాయెల్ రాయబారి వ్యక్తిగత ఖాతాతో అడుగుపెట్టారు - అతను ప్రధానమంత్రిని వ్యక్తిగతంగా ఒకటి కంటే ఎక్కువసార్లు కలిశానని పట్టుబట్టారు.",
-      "translated": true
-    },
-    {
-      "id": "c1820fb92e67793662876794298deb1d",
-      "title": "2 top stock recommendations from Rajesh Bhosale",
-      "summary": "Indian equity markets opened with volatility, with indices oscillating sharply in early trading. Analysts suggest focusing on stock-specific opportunities, particularly those in oversold zones near long-term supports. HDFC Bank and Hindalco are highlighted as potential buys with specific target levels and stop losses.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/2-top-stock-recommendations-from-rajesh-bhosale/articleshow/129604204.cms",
-      "image": null,
-      "published_at": "2026-03-16T08:06:59.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "రాజేష్ భోసలే నుండి 2 టాప్ స్టాక్ సిఫార్సులు",
-      "summary_te": "భారతీయ ఈక్విటీ మార్కెట్లు అస్థిరతతో ప్రారంభమయ్యాయి, ప్రారంభ ట్రేడింగ్‌లో సూచీలు బాగా ఊగిసలాడాయి. విశ్లేషకులు స్టాక్-నిర్దిష్ట అవకాశాలపై దృష్టి పెట్టాలని సూచిస్తున్నారు, ప్రత్యేకించి దీర్ఘకాలిక మద్దతుకు సమీపంలో ఉన్న ఓవర్‌సోల్డ్ జోన్‌లలో. హెచ్‌డిఎఫ్‌సి బ్యాంక్ మరియు హిందాల్కో నిర్దిష్ట లక్ష్య స్థాయిలు మరియు స్టాప్ నష్టాలతో సంభావ్య కొనుగోళ్లుగా హైలైట్ చేయబడ్డాయి.",
       "translated": true
     },
     {
@@ -149,7 +163,7 @@
       "title": "Dubai Airport Attack News LIVE: Flights set to resume after drone strike; check Air India, Emirates flight status here",
       "summary": "Dubai Airport Attack News LIVE: Flight operations resumed at Dubai airport in the afternoon after hours long closure on Monday. Massive fire broke out after a drone struck a fuel tank in the compound. Track latest flight updates here.",
       "url": "https://www.livemint.com/news/world/dubai-airport-closure-march-16-indigo-emirates-air-india-spicejet-cancel-flights-iran-drone-attack-fire-abu-dhabi-news-11773637185468.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/TOPSHOT-UAE-IRAN-ISRAEL-US-WAR-1_1773647911067_1773647924147.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/Emirates-Iran-US-Israel-1_1773654143326_1773654315173.jpg",
       "published_at": "2026-03-16T05:31:59.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -337,7 +351,7 @@
       "category": "business",
       "language": "en",
       "title_te": "నేడు వాతావరణం: అస్సాం, అరుణాచల్‌లకు IMD హెచ్చరిక; ఒడిశా విధ్వంసకర సుడిగాలి తర్వాత భారీ వర్షాలు కురుస్తాయని హెచ్చరించింది",
-      "summary_te": "ఈరోజు వాతావరణం: ఒడిశా యొక్క వినాశకరమైన సుడిగాలి తర్వాత, అస్సాం, మిజోరాం మరియు అరుణాచల్ ప్రదేశ్‌లు మార్చి 16న మరింత భారీ వర్షాలకు కట్టుబడి ఉన్నాయి. తాజా వాతావరణ సూచనను ఇక్కడ తనిఖీ చేయండి.",
+      "summary_te": "ఈరోజు వాతావరణం: ఒడిశా యొక్క వినాశకరమైన సుడిగాలి తర్వాత, అస్సాం, మిజోరాం మరియు అరుణాచల్ ప్రదేశ్‌లు మార్చి 16న మరింత భారీ వర్షాలు కురుస్తాయి. తాజా వాతావరణ సూచనను ఇక్కడ తనిఖీ చేయండి.",
       "translated": true
     },
     {
@@ -351,7 +365,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హార్ముజ్ జలసంధిని రక్షించడానికి ట్రంప్ సంకీర్ణాన్ని ప్రకటించనున్నారు. చైనా చేరుతుందా? అమెరికా అధ్యక్షుడు సమాధానమిచ్చారు",
-      "summary_te": "హోర్ముజ్ జలసంధి ద్వారా వాణిజ్యం నిలిపివేయడం వల్ల ఏర్పడిన ప్రపంచ ఇంధన సంక్షోభం మధ్య ఈ అభివృద్ధి జరిగింది. పెరుగుతున్న గ్యాస్ ధరలు USపై కూడా ప్రభావం చూపుతున్నాయి, ఇక్కడ ట్రంప్ సంవత్సరం చివరిలో మధ్యంతర ఎన్నికలను ఎదుర్కొంటారు.",
+      "summary_te": "హార్ముజ్ జలసంధి ద్వారా వాణిజ్యం ఆగిపోవడం వల్ల ఏర్పడిన ప్రపంచ ఇంధన సంక్షోభం కారణంగా ఈ అభివృద్ధి జరిగింది. పెరుగుతున్న గ్యాస్ ధరలు USపై కూడా ప్రభావం చూపుతున్నాయి, ఇక్కడ ట్రంప్ ఏడాది చివరిలో మధ్యంతర ఎన్నికలను ఎదుర్కొంటారు.",
       "translated": true
     },
     {
@@ -359,7 +373,7 @@
       "title": "US-Iran war LIVE Updates: UAE on high alert after Iran threatens ports, oil facilities",
       "summary": "US-Iran war LIVE Updates: The conflict between US-Israel and Iran continues to rage in the Middle East, and with the Strait of Hormuz closed, energy prices remain at high levels. The conflict has now crossed the two-week mark, but fighting is expected to rage for at least a few more weeks.",
       "url": "https://www.livemint.com/news/world/us-israel-iran-war-live-updates-middle-east-west-asia-conflict-strait-of-hormuz-oil-prices-trump-latest-news-march-16-11773619513546.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/Khamenei_1773648829975_1773648830117.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/Emirates-Iran-US-Israel-1_1773651796100_1773651808165.jpg",
       "published_at": "2026-03-16T00:18:26.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -422,20 +436,6 @@
       "language": "en",
       "title_te": "హాస్యనటుడు జకీర్ ఖాన్ సోదరుడి వ్లాగ్‌లో ఆసుపత్రి వస్త్రంలో కనిపిస్తాడు, అభిమానులు ఆరోగ్యం గురించి ఆందోళన చెందుతున్నారు",
       "summary_te": "స్టాండ్-అప్ కమెడియన్ జకీర్ ఖాన్ తన సోదరుడు అర్బాజ్ ఖాన్ ఇటీవల షేర్ చేసిన వ్లాగ్‌లో ఆసుపత్రి దుస్తులలో కనిపించాడు, అతని ఆరోగ్యం గురించి అభిమానులు ఆందోళన చెందారు. ఆరోగ్య సమస్యల కారణంగా జాకీర్ పని మరియు సోషల్ మీడియా నుండి విరామం ప్రకటించిన వారాల తర్వాత ఈ వీడియో వచ్చింది.",
-      "translated": true
-    },
-    {
-      "id": "ce2725963579fadf7d009b8d6e001896",
-      "title": "19 Indians among 35 in trouble as UAE orders arrests over ‘war footage’, ‘fabrication of clips using AI’: Report",
-      "summary": "Officials said that the accused were divided into three groups carrying out different activities. These included sharing ‘real clips related to ongoing events, fabrication of clips using AI, and promoting a state accused of military aggression while praising its leadership and military actions'",
-      "url": "https://www.livemint.com/news/world/19-indians-among-35-in-trouble-as-uae-orders-arrests-over-war-footage-fabrication-of-clips-using-ai-report-11773592073097.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/15/1600x900/logo/UAE-IRAN-US-ISRAEL-WAR-CHINA-0_1773595632595_1773595638205.jpg",
-      "published_at": "2026-03-15T17:25:27.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘యుద్ధ దృశ్యాలు’, ‘AIని ఉపయోగించి క్లిప్‌ల తయారీ’పై అరెస్టులకు UAE ఆదేశించడంతో 19 మంది భారతీయులతోపాటు 35 మంది ఇబ్బందుల్లో ఉన్నారు: నివేదిక",
-      "summary_te": "నిందితులు మూడు గ్రూపులుగా విడిపోయి వేర్వేరు కార్యకలాపాలు సాగిస్తున్నట్లు అధికారులు తెలిపారు. వీటిలో 'కొనసాగుతున్న ఈవెంట్‌లకు సంబంధించిన నిజమైన క్లిప్‌లు, AIని ఉపయోగించి క్లిప్‌లను రూపొందించడం మరియు సైనిక దూకుడు ఆరోపణలు ఎదుర్కొంటున్న రాష్ట్రాన్ని దాని నాయకత్వం మరియు సైనిక చర్యలను ప్రశంసిస్తూ ప్రచారం చేయడం' వంటివి ఉన్నాయి.",
       "translated": true
     },
     {
