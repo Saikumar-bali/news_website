@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-16T08:13:52.854Z",
-  "updated_at_IST": "16/3/2026, 1:43:52 pm",
+  "updated_at": "2026-03-16T09:10:06.111Z",
+  "updated_at_IST": "16/3/2026, 2:40:06 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c1a041112ff621719c931edc0d414d60",
+      "title": "Chinnaswamy stadium receives government clearance to host IPL 2026 matches",
+      "summary": "The defending champions RCB open the new season facing Sunrisers Hyderabad in Bengaluru on March 28",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528104.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/370900/370956.jpg",
+      "published_at": "2026-03-16T08:54:01.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 మ్యాచ్‌లను నిర్వహించడానికి చిన్నస్వామి స్టేడియం ప్రభుత్వ అనుమతిని పొందింది",
+      "summary_te": "డిఫెండింగ్ ఛాంపియన్ RCB మార్చి 28న బెంగళూరులో సన్‌రైజర్స్ హైదరాబాద్‌తో తలపడే కొత్త సీజన్‌ను ప్రారంభించింది",
+      "translated": true
+    },
+    {
+      "id": "756701b825f3c47f2a13aebe1cd41f60",
+      "title": "Peake's rapid rise set to take in MLC, but first a Sheffield Shield final",
+      "summary": "The 19-year-old left hander has found first-class cricket tough after returning from Under-19 duty, but tuned up for the final with a half-century",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528103.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/409800/409858.png",
+      "published_at": "2026-03-16T08:49:50.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పీక్ యొక్క వేగవంతమైన పెరుగుదల MLCకి చేరుకుంది, అయితే మొదట షెఫీల్డ్ షీల్డ్ ఫైనల్",
+      "summary_te": "19 ఏళ్ల లెఫ్ట్ హ్యాండర్ అండర్-19 డ్యూటీ నుంచి తిరిగి వచ్చిన తర్వాత ఫస్ట్-క్లాస్ క్రికెట్‌ను కఠినంగా ఎదుర్కొన్నాడు, అయితే అర్ధ సెంచరీతో ఫైనల్‌కు చేరుకున్నాడు.",
+      "translated": true
+    },
+    {
+      "id": "9422dfc04118cac42256b4f7a031bfd3",
+      "title": "Kuhnemann hits maiden fifty to give Tasmania control after fire alarm stops play",
+      "summary": "Half-centuries from Jordan Silk and Jake Doran built the home side's lead after an usual delay during the morning session",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528092.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414721.jpg",
+      "published_at": "2026-03-16T08:17:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
+      "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
+      "translated": true
+    },
     {
       "id": "89b451578e0bce332d54f27ba18b67c6",
       "title": "Konstas' season ends with another unconverted start",
@@ -310,48 +352,6 @@
       "language": "en",
       "title_te": "పాకిస్తాన్ T20 ప్రపంచ కప్ నిష్క్రమణపై ఆకిబ్ జావేద్: 'బలిపశువులను' దాటవేయాలి",
       "summary_te": "కేవలం నెట్ రన్ రేట్ కారణంగానే పాకిస్థాన్ సెమీ-ఫైనల్‌కు దూరమైందని, జట్టు మరియు సెలక్షన్ కమిటీపై విమర్శలకు వ్యతిరేకంగా వెనక్కి నెట్టిందని పురుషుల జాతీయ సెలెక్టర్ చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "0e42c29245497d3c6a12c5c4f10f44f5",
-      "title": "Agha handed a demerit point after run-out incident",
-      "summary": "Agha threw his gloves and helmet in anger after his dismissal in the second ODI against Bangladesh",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527978.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
-      "published_at": "2026-03-14T15:20:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రన్ అవుట్ ఘటన తర్వాత అఘా ఒక డీమెరిట్ పాయింట్‌ను అందజేసింది",
-      "summary_te": "బంగ్లాదేశ్‌తో జరిగిన రెండో వన్డేలో ఔటైన తర్వాత ఆగ్రహంతో అఘా తన గ్లౌజులు, హెల్మెట్‌ని విసిరాడు.",
-      "translated": true
-    },
-    {
-      "id": "f21ee9804e3e9ee6737c086fa1134dd7",
-      "title": "Rahul Dravid, Mithali Raj and Roger Binny to get BCCI Lifetime Achievement awards",
-      "summary": "Shubman Gill and Smriti Mandhana have been named India's best international cricketers among men and women respctively for the 2024-25 season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527911.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414671.jpg",
-      "published_at": "2026-03-14T10:37:25.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రాహుల్ ద్రవిడ్, మిథాలీ రాజ్, రోజర్ బిన్నీలకు బీసీసీఐ లైఫ్ టైమ్ అచీవ్‌మెంట్ అవార్డులు",
-      "summary_te": "2024-25 సీజన్‌లో పురుషుల మరియు మహిళలలో భారత అత్యుత్తమ అంతర్జాతీయ క్రికెటర్లుగా శుభ్‌మన్ గిల్ మరియు స్మృతి మంధాన ఎంపికయ్యారు.",
-      "translated": true
-    },
-    {
-      "id": "8454431d1917653ebbbe127ed9407c45",
-      "title": "Rocchiccioli boosts Test claims with five-wicket haul",
-      "summary": "WA's offspinner took his second five-wicket haul of the Sheffield Shield season, helping bowl NSW out for 232",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527906.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414669.jpg",
-      "published_at": "2026-03-14T10:26:01.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రోకిసియోలీ ఐదు వికెట్ల ప్రదర్శనతో టెస్ట్ క్లెయిమ్‌లను పెంచుకున్నాడు",
-      "summary_te": "WA యొక్క ఆఫ్‌స్పిన్నర్ షెఫీల్డ్ షీల్డ్ సీజన్‌లో తన రెండవ ఐదు వికెట్లు సాధించాడు, NSWని 232 పరుగుల వద్ద అవుట్ చేయడంలో సహాయం చేశాడు.",
       "translated": true
     }
   ]
