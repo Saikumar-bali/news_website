@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-17T10:51:27.080Z",
-  "updated_at_IST": "17/3/2026, 4:21:27 pm",
+  "updated_at": "2026-03-17T11:47:53.016Z",
+  "updated_at_IST": "17/3/2026, 5:17:53 pm",
   "category": "telangana",
-  "count": 22,
+  "count": 23,
   "articles": [
+    {
+      "id": "403a4756af853c9d4965c6ad5d3eaba2",
+      "title": "Telangana prioritises public transport and EV mobility at summit",
+      "summary": "Ponnan Prabhakar said that the government is prioritising the strengthening of bus services, metro, and last-mile connectivity",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-prioritises-public-transport-and-ev-mobility-at-summit/article70753132.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8z7njw/article70753231.ece/alternates/LANDSCAPE_1200/20hyngg_Electric%20Vehicle%20charging%20station%20%2002.jpg",
+      "published_at": "2026-03-17T09:17:37.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "సమ్మిట్‌లో తెలంగాణ ప్రజా రవాణా మరియు EV మొబిలిటీకి ప్రాధాన్యత ఇస్తుంది",
+      "summary_te": "బస్సు సర్వీసులు, మెట్రో, చివరి మైలు కనెక్టివిటీల పటిష్టతకు ప్రభుత్వం ప్రాధాన్యత ఇస్తోందని పొన్నన్ ప్రభాకర్ అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "ca89712fad3a1b9b9205d8fd87e9f0b3",
+      "title": "Food supply jitters could trigger WFH, impact hostel occupancy, warns IT corridor hostel association",
+      "summary": "The association said it had received information that some IT firms are weighing remote work owing to uncertainties around food supply",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/food-supply-jitters-could-trigger-wfh-impact-hostel-occupancy-warns-it-corridor-hostel-association/article70753034.ece",
+      "image": "https://th-i.thgim.com/public/incoming/xwr55u/article70742496.ece/alternates/LANDSCAPE_1200/DSC7557.jpg",
+      "published_at": "2026-03-17T08:27:37.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ఆహార సరఫరా గందరగోళం WFHని ప్రేరేపిస్తుంది, హాస్టల్ ఆక్యుపెన్సీని ప్రభావితం చేస్తుంది, IT కారిడార్ హాస్టల్ అసోసియేషన్ హెచ్చరించింది",
+      "summary_te": "ఆహార సరఫరా చుట్టూ ఉన్న అనిశ్చితి కారణంగా కొన్ని ఐటీ సంస్థలు రిమోట్ పనిని తూకం వేస్తున్నట్లు తమకు సమాచారం అందిందని అసోసియేషన్ తెలిపింది.",
+      "translated": true
+    },
     {
       "id": "0077cf0ff1d94e0e49b699e37a1095d5",
       "title": "Cooking in LPG crisis: Hyderabad’s kitchens adapt, but at a ‘cost’",
@@ -21,15 +49,15 @@
     {
       "id": "972ec4322889dae5d1531fe8b2d70db6",
       "title": "Container truck hits under-construction foot overbridge in Mehdipatnam",
-      "summary": "A container vehicle struck an under-construction foot overbridge in Mehdipatnam in the early hours of Tuesday, leading to a brief traffic congestion in the area.The incident was reported at around 5.30 a.m. when the vehicle attempted to pass beneath the structure but failed to clear it due to its height. The top portion of the container brushed against the bridge, resulting in minor damage.",
+      "summary": "Traffic distrupted in the early hours",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/container-truck-hits-under-construction-foot-overbridge-in-mehdipatnam/article70752521.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "image": null,
       "published_at": "2026-03-17T05:27:22.000Z",
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
       "title_te": "మెహదీపట్నంలో నిర్మాణంలో ఉన్న ఫుట్ ఓవర్ బ్రిడ్జిని కంటైనర్ ట్రక్ ఢీకొట్టింది",
-      "summary_te": "మంగళవారం తెల్లవారుజామున మెహదీపట్నంలో నిర్మాణంలో ఉన్న ఫుట్ ఓవర్‌బ్రిడ్జిని కంటైనర్ వాహనం ఢీకొట్టడంతో ఆ ప్రాంతంలో కొద్దిసేపు ట్రాఫిక్ స్తంభించింది. ఈ సంఘటన ఉదయం 5.30 గంటలకు నివేదించబడింది, వాహనం నిర్మాణం కిందకి వెళ్లడానికి ప్రయత్నించింది, కానీ దాని ఎత్తు కారణంగా దానిని క్లియర్ చేయడంలో విఫలమైంది. కంటైనర్ యొక్క పై భాగం వంతెనకు వ్యతిరేకంగా బ్రష్ చేయబడింది, ఫలితంగా చిన్న నష్టం జరిగింది.",
+      "summary_te": "తెల్లవారుజామున ట్రాఫిక్‌కు అంతరాయం ఏర్పడింది",
       "translated": true
     },
     {
@@ -296,20 +324,6 @@
       "language": "en",
       "title_te": "EV ఛార్జింగ్ పరికరాల తయారీ సంస్థ ఎక్సికామ్ హైదరాబాద్‌లో ప్లాంట్‌ను ప్రారంభించింది",
       "summary_te": "EV ఛార్జింగ్ మరియు క్రిటికల్ పవర్ సొల్యూషన్స్ తయారీదారు ఎక్సికామ్ టెలి-సిస్టమ్స్ హైదరాబాద్‌లో సమీకృత తయారీ కేంద్రాన్ని ప్రారంభించింది. ఈ సదుపాయం 18.4 ఎకరాల్లో విస్తరించి ₹216 కోట్ల పెట్టుబడితో అభివృద్ధి చేయబడింది. మొత్తం 2.80 లక్షల చదరపు అడుగుల విస్తీర్ణంతో, ప్లాంట్ కంపెనీ తయారీ పాదముద్రను విస్తరిస్తుంది మరియు ఈ ప్రాంతంలో 750 కంటే ఎక్కువ ఉద్యోగాలను సృష్టిస్తుందని ఎక్సికామ్ తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "736c973de1a5679ee3ea737e8c0a5b35",
-      "title": "MyComplianceOffice (MCO) leases 550 seats from BuzzWorks, plans to scale team",
-      "summary": "Dublin-based regulatory and compliance technology firm MyComplianceOffice (MCO) has leased 550 seats in Mindspace Business Park, Hyderabad, from Brigade Group’s managed workspace provider BuzzWorks.The new office will house MCO’s core functions, including product engineering, product management, customer success and global operations as well as AI-enabled compliance technology initiatives, functions central to the company’s global delivery model. This is MCO’s largest office space in India, BuzzWorks said in a release announcing the lease.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/mycomplianceoffice-mco-leases-550-seats-from-buzzworks-plans-to-scale-team/article70750458.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-16T15:03:11.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "MyComplianceOffice (MCO) BuzzWorks నుండి 550 సీట్లను లీజుకు తీసుకుంది, జట్టును స్కేల్ చేయడానికి ప్లాన్ చేస్తోంది",
-      "summary_te": "డబ్లిన్‌కు చెందిన రెగ్యులేటరీ మరియు కంప్లైయన్స్ టెక్నాలజీ సంస్థ MyComplianceOffice (MCO) హైదరాబాద్‌లోని మైండ్‌స్పేస్ బిజినెస్ పార్క్‌లో 550 సీట్లను బ్రిగేడ్ గ్రూప్ యొక్క మేనేజ్డ్ వర్క్‌స్పేస్ ప్రొవైడర్ BuzzWorks నుండి లీజుకు తీసుకుంది. కొత్త కార్యాలయంలో MCO యొక్క ప్రధాన విధులు ఉంటాయి, వీటిలో ఉత్పత్తి ఇంజనీరింగ్, ఉత్పత్తి నిర్వహణ, కస్టమర్ సక్సెస్ మరియు గ్లోబల్ కార్యకలాపాలకు సంబంధించిన కేంద్రీయ కార్యకలాపాలు, అలాగే గ్లోబల్ టెక్నాలజీ కార్యకలాపాలు, ప్రపంచ డెలివరీ మోడల్. ఇది భారతదేశంలో MCO యొక్క అతిపెద్ద ఆఫీస్ స్పేస్ అని బజ్‌వర్క్స్ లీజును ప్రకటిస్తూ విడుదల చేసింది.",
       "translated": true
     }
   ]

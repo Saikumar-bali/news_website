@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-17T10:51:27.080Z",
-  "updated_at_IST": "17/3/2026, 4:21:27 pm",
+  "updated_at": "2026-03-17T11:47:53.016Z",
+  "updated_at_IST": "17/3/2026, 5:17:53 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "263d2a629ae5491faefdcfa2f8f65d67",
+      "title": "Islamabad 'trying to dress up massacre as military operation': India condemns Pakistan's airstrike in Afghanistan",
+      "summary": "India called on the international community to ensure those responsible are held accountable, expressed condolences to the victims’ families, and reaffirmed its solidarity with the people of Afghanistan.",
+      "url": "https://www.livemint.com/news/india/islamabad-trying-to-dress-up-massacre-as-military-operation-india-condemns-pakistans-airstrike-in-afghanistan-11773742671432.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/AFGHANISTAN-PAKISTAN--51_1773745166018_1773745178573.JPG",
+      "published_at": "2026-03-17T11:01:06.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇస్లామాబాద్ 'మారణకాండను సైనిక చర్యగా మార్చడానికి ప్రయత్నిస్తోంది': ఆఫ్ఘనిస్తాన్‌లో పాకిస్తాన్ వైమానిక దాడిని భారత్ ఖండించింది",
+      "summary_te": "బాధ్యులు జవాబుదారీగా ఉండేలా చూడాలని అంతర్జాతీయ సమాజానికి భారతదేశం పిలుపునిచ్చింది, బాధిత కుటుంబాలకు సంతాపాన్ని వ్యక్తం చేసింది మరియు ఆఫ్ఘనిస్తాన్ ప్రజలకు తన సంఘీభావాన్ని పునరుద్ఘాటించింది.",
+      "translated": true
+    },
+    {
+      "id": "86faf7ae14affadb7ff122b94c4637e0",
+      "title": "Quote of the Day: Virginia Woolf on honesty in storytelling — ‘If you do not tell the truth about yourself…’",
+      "summary": "Modernist writer Virginia Woolf believed authentic storytelling begins with personal honesty. Her famous line about truth and self-awareness continues to shape how writers think about empathy, introspection and the craft of representing other lives.",
+      "url": "https://www.livemint.com/news/trends/quote-of-the-day-virginia-woolf-on-honesty-in-storytelling-if-you-do-not-tell-the-truth-about-yourself-11773744191958.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/G_hiHyFacAAnzpA_1773744396505_1773744405582.jpg",
+      "published_at": "2026-03-17T10:51:29.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కోట్ ఆఫ్ ది డే: కథ చెప్పడంలో నిజాయితీపై వర్జీనియా వూల్ఫ్ — ‘మీ గురించి మీరు నిజం చెప్పకపోతే…’",
+      "summary_te": "ఆధునిక రచయిత వర్జీనియా వూల్ఫ్ ప్రామాణికమైన కథలు వ్యక్తిగత నిజాయితీతో ప్రారంభమవుతాయని విశ్వసించారు. సత్యం మరియు స్వీయ-అవగాహన గురించి ఆమె ప్రసిద్ధ పంక్తి రచయితలు తాదాత్మ్యం, ఆత్మపరిశీలన మరియు ఇతర జీవితాలను సూచించే నైపుణ్యం గురించి ఎలా ఆలోచిస్తారో ఆకృతి చేస్తూనే ఉంది.",
+      "translated": true
+    },
     {
       "id": "039305e167d9463a11f6a3ce0968dc69",
       "title": "Mojtaba Khamenei's ‘god’s will' escape during US-Israel strike that killed his father: What does leaked audio reveal?",
@@ -23,7 +51,7 @@
       "title": "Ali Larijani killed - Israeli Defense Minister Israel Katz confirms death of Iran's security chief",
       "summary": "Israeli defence minister says Ali Larijani, top Iranian security official, killed by Israel in overnight strike, reports AP.",
       "url": "https://www.livemint.com/news/world/ali-larijani-killed-israeli-defense-minister-israel-katz-confirms-death-of-irans-security-chief-11773740596661.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/Iran-0_1773740899522_1773740919775.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/Iran-0_1773740899522_1773740919775.jpg",
       "published_at": "2026-03-17T09:46:24.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -394,34 +422,6 @@
       "language": "en",
       "title_te": "ఇజ్రాయెల్ ప్రధాన మంత్రి బెంజమిన్ నెతన్యాహు యొక్క కోట్ ఆఫ్ ది డే: 'యూదులు ఈ రోజు తమ ఆయుధాలను నేలకూల్చినట్లయితే...'",
       "summary_te": "హింస మరియు మనుగడపై బెంజమిన్ నెతన్యాహు యొక్క వివాదాస్పద కోట్‌తో సహా వివిధ దృక్కోణాల ద్వారా ఇజ్రాయెల్-పాలస్తీనియన్ సంఘర్షణను కథనం పరిశీలిస్తుంది. ",
-      "translated": true
-    },
-    {
-      "id": "8680635d3569b84e5f76d667bdf9720b",
-      "title": "Petrol, diesel prices today: Check fuel rates in your city on 17 March — Delhi, Mumbai, Bengaluru, Kolkata, others",
-      "summary": "Steady rates for petrol and diesel are holding in India, even as global oil markets see volatility, driven by tensions linked to the conflict in the Middle East, an effective halt to the trade through the Strait of Hormuz, and related concerns over supply disruptions. Check today's rates here.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-check-fuel-rates-in-your-city-on-17-march-delhi-mumbai-bengaluru-kolkata-others-11773713123061.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/PTI03-12-2026-000459A-0_1773713626601_1773713635417.jpg",
-      "published_at": "2026-03-17T02:16:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈరోజు పెట్రోల్, డీజిల్ ధరలు: మార్చి 17న మీ నగరంలో ఇంధన ధరలను తనిఖీ చేయండి — ఢిల్లీ, ముంబై, బెంగళూరు, కోల్‌కతా, ఇతరాలు",
-      "summary_te": "మధ్యప్రాచ్యంలోని సంఘర్షణతో ముడిపడి ఉన్న ఉద్రిక్తతలు, హార్ముజ్ జలసంధి ద్వారా వాణిజ్యాన్ని ప్రభావవంతంగా నిలిపివేయడం మరియు సరఫరా అంతరాయాలపై సంబంధిత ఆందోళనల కారణంగా గ్లోబల్ చమురు మార్కెట్లు అస్థిరతను చూస్తున్నప్పటికీ, భారతదేశంలో పెట్రోల్ మరియు డీజిల్ కోసం స్థిరమైన రేట్లు ఉన్నాయి. నేటి ధరలను ఇక్కడ తనిఖీ చేయండి.",
-      "translated": true
-    },
-    {
-      "id": "89e3467cf2a9d053f2a968b6123d9642",
-      "title": "Dubai, Abu Dhabi, UAE News LIVE: Explosions heard in Dubai as UAE air defences engage Iranian missiles, drones",
-      "summary": "Dubai, Abu Dhabi, UAE News LIVE: The Dubai International Airport on Monday temporarily suspended operations after a drone strike on a fuel tank, before gradually resuming flights. Separately, Abu Dhabi reported a death and a fire at a gas field. Follow latest news from the UAE.",
-      "url": "https://www.livemint.com/news/world/dubai-abu-dhabi-uae-news-flights-march-17-live-updates-middle-east-west-asia-conflict-us-israel-iran-trump-latest-news-11773710853743.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/UAE-IRAN-US-ISRAEL-WAR-21_1773711859289_1773711865009.jpg",
-      "published_at": "2026-03-17T01:45:32.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "దుబాయ్, అబుదాబి, యుఎఇ న్యూస్ లైవ్: యుఎఇ వైమానిక రక్షణ ఇరాన్ క్షిపణులు, డ్రోన్‌లను నిమగ్నం చేస్తున్నందున దుబాయ్‌లో పేలుళ్లు వినిపించాయి.",
-      "summary_te": "దుబాయ్, అబుదాబి, యుఎఇ న్యూస్ లైవ్: ఇంధన ట్యాంక్‌పై డ్రోన్ దాడి తర్వాత దుబాయ్ అంతర్జాతీయ విమానాశ్రయం సోమవారం కార్యకలాపాలను తాత్కాలికంగా నిలిపివేసింది, క్రమంగా విమానాలను తిరిగి ప్రారంభించింది. విడిగా, అబుదాబి గ్యాస్ ఫీల్డ్‌లో ఒక మరణం మరియు అగ్నిప్రమాదం గురించి నివేదించింది. UAE నుండి తాజా వార్తలను అనుసరించండి.",
       "translated": true
     },
     {
