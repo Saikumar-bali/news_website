@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-17T11:47:53.016Z",
-  "updated_at_IST": "17/3/2026, 5:17:53 pm",
+  "updated_at": "2026-03-17T12:52:35.811Z",
+  "updated_at_IST": "17/3/2026, 6:22:35 pm",
   "category": "andhra",
-  "count": 21,
+  "count": 23,
   "articles": [
+    {
+      "id": "53aa8f1da7ef3595ffd063f344843aff",
+      "title": "Bioengineering technique can protect coast from erosion, says professor in IIT Indore",
+      "summary": "Experimental findings showed that bio-mediated treatment significantly improved the strength and durability of coastal sand, professor in IIT Indore explained",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bioengineering-technique-can-protect-coast-from-erosion-says-professor-in-iit-indore/article70752899.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5x7a09/article70753353.ece/alternates/LANDSCAPE_1200/10745_17_3_2026_13_11_34_1_IMG_20260317_WA0029.JPG",
+      "published_at": "2026-03-17T10:33:44.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "బయో ఇంజనీరింగ్ టెక్నిక్ కోత నుండి తీరాన్ని రక్షించగలదని ఐఐటి ఇండోర్‌లోని ప్రొఫెసర్ చెప్పారు",
+      "summary_te": "బయో-మెడియేటెడ్ ట్రీట్‌మెంట్ తీరప్రాంత ఇసుక యొక్క బలం మరియు మన్నికను గణనీయంగా మెరుగుపరిచిందని ప్రయోగాత్మక ఫలితాలు చూపించాయి, IIT ఇండోర్‌లోని ప్రొఫెసర్ వివరించారు",
+      "translated": true
+    },
+    {
+      "id": "55207825da9ccb2daf4ffd693f5fc900",
+      "title": "Lokayukta orders payment of ₹50.24 lakh EPF and ESI dues to KGBV outsourcing staff",
+      "summary": "‘Authorities concerned initiated action, including filing of criminal cases against the agencies and recovery of the proceedings,’ says Registrar, Institution of Lokayukta",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokayukta-orders-payment-of-5024-lakh-epf-and-esi-dues-to-kgbv-outsourcing-staff/article70753154.ece",
+      "image": "https://th-i.thgim.com/public/incoming/iulvy0/article69762903.ece/alternates/LANDSCAPE_1200/2025-06-10T064838Z_954602473_RC2LRCATMHPO_RTRMADP_3_INDIA-RUPEE-OUTLOOK.JPG",
+      "published_at": "2026-03-17T09:52:43.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "KGBV ఔట్‌సోర్సింగ్ సిబ్బందికి ₹50.24 లక్షల EPF మరియు ESI బకాయిలు చెల్లించాలని లోకాయుక్త ఆదేశించింది",
+      "summary_te": "‘ఏజెన్సీలపై క్రిమినల్ కేసులు నమోదు చేయడం మరియు ప్రొసీడింగ్స్ రికవరీతో సహా సంబంధిత అధికారులు చర్యలు ప్రారంభించారు’ అని లోకాయుక్త సంస్థ రిజిస్ట్రార్ చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "c1b8dbbc63d3eda884ec00c4ece11e60",
+      "title": "RRS chief urges Karnataka not to increase Almatti dam height",
+      "summary": "RRS president Dr. Kuncham Venkatasubba Reddy said he had written a letter to PM Narendra Modi and also apprised Karnataka State water resources department Minister D.K. Shiva Kumar about the problems that the farmers of the three States face if the height of Almatti dam is increased",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rrs-chief-urges-karnataka-not-to-increase-almatti-dam-height/article70753109.ece",
+      "image": "https://th-i.thgim.com/public/incoming/jv3ez9/article70753263.ece/alternates/LANDSCAPE_1200/DKS-urges-MPs-tGM4FLR8SI.3.jpg.jpg",
+      "published_at": "2026-03-17T09:27:43.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఆల్మట్టి డ్యాం ఎత్తును పెంచవద్దని ఆర్‌ఆర్‌ఎస్ చీఫ్ కర్ణాటకను కోరారు",
+      "summary_te": "ఆర్‌ఆర్‌ఎస్ ప్రెసిడెంట్ డాక్టర్ కుంచం వెంకటసుబ్బారెడ్డి మాట్లాడుతూ తాను ప్రధాని నరేంద్ర మోదీకి లేఖ రాశానని, కర్ణాటక రాష్ట్ర జలవనరుల శాఖ మంత్రి డి.కె. ఆల్మట్టి డ్యాం ఎత్తు పెంచితే మూడు రాష్ట్రాల రైతులు పడుతున్న ఇబ్బందుల గురించి శివ కుమార్ తెలిపారు",
+      "translated": true
+    },
     {
       "id": "c222cfb88cfb6e2e5e58d34dd0ccb965",
       "title": "CITU slams Centre’s policies to privatise VSP",
@@ -282,20 +324,6 @@
       "language": "en",
       "title_te": "మార్చి 18 నుంచి జూన్ దర్శన టిక్కెట్లను టీటీడీ విడుదల చేయనుంది",
       "summary_te": "ఆర్జిత సేవలు, ప్రత్యేక ప్రవేశ దర్శనం టిక్కెట్లు, శ్రీవాణి ట్రస్ట్ కోటా మరియు వసతి మార్చి 24 వరకు దశలవారీ ఆన్‌లైన్ షెడ్యూల్‌లో విడుదల చేయబడుతుంది. భక్తులు అధికారిక వెబ్‌సైట్ ద్వారా బుక్ చేసుకోవచ్చు",
-      "translated": true
-    },
-    {
-      "id": "608c0a2bce3e05ca82e1ea73f7339a11",
-      "title": "YSRCP calls for resignation of TDP MP amid drug test controversy",
-      "summary": "YSRCP Bapatla district president and former Minister Merugu Nagarjuna on Monday (March 16, 2026) demanded that Telugu Desam Party MP Putta Mahesh Yadav immediately resign from the Lok Sabha following reports of his positive drug test.Speaking at the YSR Congress Party central office in Tadepalli, Nagarjuna accused Chief Minister N. Chandrababu Naidu of protecting the MP instead of taking action. He alleged that issuing show-cause notices was a delaying tactic and demanded a full probe into the drug network. He stated that the government should prove its commitment against drug menace instead of shielding those involved.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-calls-for-resignation-of-tdp-mp-amid-drug-test-controversy/article70750129.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-16T14:53:13.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "డ్రగ్ టెస్ట్ వివాదం నేపథ్యంలో టీడీపీ ఎంపీ రాజీనామా చేయాలని వైఎస్సార్సీపీ పిలుపునిచ్చింది",
-      "summary_te": "తెలుగుదేశం పార్టీ ఎంపీ పుట్టా మహేశ్ యాదవ్‌కు డ్రగ్ టెస్ట్ పాజిటివ్ వచ్చిన నేపథ్యంలో వెంటనే లోక్ సభకు రాజీనామా చేయాలని వైఎస్సార్సీపీ బాపట్ల జిల్లా అధ్యక్షుడు, మాజీ మంత్రి మేరుగు నాగార్జున సోమవారం (మార్చి 16, 2026) డిమాండ్ చేశారు. షోకాజ్ నోటీసులు జారీ చేయడం జాప్యం చేసే ఎత్తుగడ అని, డ్రగ్స్ నెట్‌వర్క్‌పై పూర్తిస్థాయి విచారణ జరిపించాలని డిమాండ్ చేశారు. మాదక ద్రవ్యాల మహమ్మారిపై ప్రభుత్వం తన నిబద్ధతను నిరూపించుకోవాలని, దానికి బదులు ప్రమేయం ఉన్నవారిని రక్షించాలని ఆయన అన్నారు.",
       "translated": true
     }
   ]

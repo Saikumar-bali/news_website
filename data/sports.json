@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-17T11:47:53.016Z",
-  "updated_at_IST": "17/3/2026, 5:17:53 pm",
+  "updated_at": "2026-03-17T12:52:35.811Z",
+  "updated_at_IST": "17/3/2026, 6:22:35 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "64598dbc79af39462c07e37346874f22",
+      "title": "Ashwell Prince rues lack of partnerships in South Africa's Hamilton defeat",
+      "summary": "\"The only box we ticked was George Linde, who played a really nice cameo towards the end, but we didn't get any partnerships going,\" the South Africa batting coach said",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528192.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414756.jpg",
+      "published_at": "2026-03-17T12:24:35.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "దక్షిణాఫ్రికా హామిల్టన్ ఓటమిలో భాగస్వామ్యాలు లేకపోవడాన్ని ఆష్వెల్ ప్రిన్స్ ఆరోపించాడు",
+      "summary_te": "\"మేము టిక్ చేసిన ఏకైక పెట్టె జార్జ్ లిండే, అతను చివరలో చాలా చక్కని అతిధి పాత్ర పోషించాడు, కానీ మాకు ఎటువంటి భాగస్వామ్యాలు జరగలేదు\" అని దక్షిణాఫ్రికా బ్యాటింగ్ కోచ్ చెప్పాడు.",
+      "translated": true
+    },
+    {
+      "id": "d92b4473b1c5af6e58884d1d8d19e388",
+      "title": "MCC on Agha run-out: 'No case to be made that this was not out'",
+      "summary": "The lawmaking body contended that the dismissal was fully in accordance with the Laws of the game",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528190.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
+      "published_at": "2026-03-17T12:07:29.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఆఘా రనౌట్‌పై MCC: 'ఇది నాట్ అవుట్ కాదని కేసు పెట్టకూడదు'",
+      "summary_te": "తొలగింపు పూర్తిగా ఆట యొక్క చట్టాలకు అనుగుణంగా ఉందని చట్ట నిర్మాణ సంస్థ వాదించింది",
+      "translated": true
+    },
+    {
+      "id": "b37c29ef97eb706f557006cc30bb3697",
+      "title": "Gavaskar hits out at Sunrisers for signing Abrar Ahmed in Men's Hundred",
+      "summary": "Former India captain Sunil Gavaskar calls franchise into question in scathing column in Indian newspaper",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528183.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414642.jpg",
+      "published_at": "2026-03-17T11:51:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పురుషుల హండ్రెడ్‌లో అబ్రార్ అహ్మద్‌తో ఒప్పందం కుదుర్చుకున్నందుకు గావస్కర్ సన్‌రైజర్స్‌పై విరుచుకుపడ్డాడు",
+      "summary_te": "భారత వార్తాపత్రికలో ఘాటైన కాలమ్‌లో భారత మాజీ కెప్టెన్ సునీల్ గవాస్కర్ ఫ్రాంచైజీని ప్రశ్నించారు",
+      "translated": true
+    },
+    {
+      "id": "b590f014e269daa5fc58b7670135956c",
+      "title": "PSL 2026: Labuschagne appointed Hyderabad Kingsmen captain",
+      "summary": "Labuschagne will work with fellow Australian Jason Gillespie, who was appointed the franchise's coach",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528189.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413892.jpg",
+      "published_at": "2026-03-17T11:47:27.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL 2026: లాబుస్చాగ్నే హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్‌గా నియమితులయ్యారు",
+      "summary_te": "ఫ్రాంచైజీ కోచ్‌గా నియమితులైన తోటి ఆస్ట్రేలియన్ జాసన్ గిల్లెస్పీతో కలిసి లాబుస్చాగ్నే పని చేస్తాడు.",
+      "translated": true
+    },
     {
       "id": "9610d643aedeafb0fe29611cd75b0efd",
       "title": "Suryakumar: 'The percentage I tried to get in school and college, I'm getting in cricket'",
@@ -16,20 +72,6 @@
       "language": "en",
       "title_te": "సూర్యకుమార్: 'స్కూల్‌లో, కాలేజీలో నేను ప్రయత్నించిన శాతాన్ని క్రికెట్‌లో పొందుతున్నాను'",
       "summary_te": "భారతదేశం \"భారతదేశంలో [2026 T20] ప్రపంచ కప్‌ను గెలవాలని కోరుకుంది, మరియు మేము దానిని అహ్మదాబాద్‌లోని అదే స్టేడియంలో గెలవాలనుకుంటున్నాము, ఇది మాకు చాలా ముఖ్యమైనది\" అని సూర్యకుమార్ యాదవ్ చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "b37c29ef97eb706f557006cc30bb3697",
-      "title": "Gavaskar hits out at Sunrisers for signing Abrar Ahmed in Men's Hundred",
-      "summary": "Former India captain Sunil Gavaskar calls franchise into question in scathing column in Indian newspaper",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528183.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414642.jpg",
-      "published_at": "2026-03-17T09:58:24.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పురుషుల హండ్రెడ్‌లో అబ్రార్ అహ్మద్‌తో ఒప్పందం కుదుర్చుకున్నందుకు గావస్కర్ సన్‌రైజర్స్‌పై విరుచుకుపడ్డాడు",
-      "summary_te": "భారత వార్తాపత్రికలో ఘాటైన కాలమ్‌లో భారత మాజీ కెప్టెన్ సునీల్ గవాస్కర్ ఫ్రాంచైజీని ప్రశ్నించారు",
       "translated": true
     },
     {
@@ -201,20 +243,6 @@
       "translated": true
     },
     {
-      "id": "d87f051b96dc80a76730c37b0ea02f74",
-      "title": "Pakistan lodge official complaint about Bangladesh's review at end of chase",
-      "summary": "Pakistan's contention is that Bangladesh took the review after the replay of the delivery flashed on the big screen at the ground",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528079.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414712.jpg",
-      "published_at": "2026-03-16T12:24:38.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఛేజింగ్ ముగింపులో బంగ్లాదేశ్ సమీక్షపై పాకిస్థాన్ అధికారికంగా ఫిర్యాదు చేసింది",
-      "summary_te": "గ్రౌండ్‌లోని పెద్ద స్క్రీన్‌పై డెలివరీ రీప్లే కనిపించడంతో బంగ్లాదేశ్ రివ్యూ తీసుకుందని పాకిస్థాన్ వాదన.",
-      "translated": true
-    },
-    {
       "id": "f012690d82ae8b91fca407ebabb9662f",
       "title": "Cricket Australia amends injury sub rule for Sheffield Shield final",
       "summary": "Numerous boards have trailed new substitution rules with feedback being sent to ICC with a eye on Test cricket",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "నిస్తేజంగా, తడిగా ఉన్న రోజున పీక్ మరియు సదర్లాండ్ యాభైల ప్రకాశవంతమైన మచ్చలు",
       "summary_te": "పీక్ 59, సదర్లాండ్ 51 పరుగులు చేయగా, మెక్‌స్వీనీ 18 పరుగులకు 3 వికెట్లు తీసుకున్నాడు, ఇక్కడ వర్షం కారణంగా 28.2 ఓవర్లు మాత్రమే సాధ్యమయ్యాయి.",
-      "translated": true
-    },
-    {
-      "id": "8e0a287d6b5202bdad4690e0ba433f21",
-      "title": "The Taskin-Mustafizur-Rana combination gives Bangladesh 'more chance to win matches'",
-      "summary": "\"Taskin knows what to bowl in each situation, [and] Mustafiz never panicked,\" at crucial points in the deciding ODI against Pakistan, Bangladesh captain Mehidy Hasan Miraz says",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528098.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414715.jpg",
-      "published_at": "2026-03-16T06:42:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "తస్కిన్-ముస్తాఫిజుర్-రానా కలయిక బంగ్లాదేశ్‌కు 'మ్యాచ్‌లను గెలవడానికి ఎక్కువ అవకాశం' ఇస్తుంది.",
-      "summary_te": "\"ప్రతి పరిస్థితిలో ఏమి బౌలింగ్ చేయాలో టాస్కిన్‌కు తెలుసు, [మరియు] ముస్తాఫిజ్ ఎప్పుడూ భయపడలేదు,\" పాకిస్తాన్‌తో జరిగిన నిర్ణయాత్మక ODIలో కీలకమైన సమయంలో, బంగ్లాదేశ్ కెప్టెన్ మెహిదీ హసన్ మిరాజ్ అన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "83993dec024a4448012dd9fe91096fd0",
-      "title": "Sodhi ruled out of South Africa series with broken thumb",
-      "summary": "The legspinner was struck during training ahead of the opening match",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528081.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/383000/383057.jpg",
-      "published_at": "2026-03-15T23:34:44.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బొటనవేలు విరగడంతో సోధి దక్షిణాఫ్రికా సిరీస్‌కు దూరమయ్యాడు",
-      "summary_te": "ఓపెనింగ్ మ్యాచ్‌కు ముందు ట్రైనింగ్ సమయంలో లెగ్‌స్పిన్నర్‌కు దెబ్బ తగిలింది",
       "translated": true
     }
   ]
