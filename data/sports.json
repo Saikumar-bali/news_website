@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T07:00:50.193Z",
-  "updated_at_IST": "17/3/2026, 12:30:50 pm",
+  "updated_at": "2026-03-17T07:57:37.732Z",
+  "updated_at_IST": "17/3/2026, 1:27:37 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "fc2b42af7aa877427248fa887526b9e3",
+      "title": "Brits, Reyneke, Khaka and Mlaba headline South Africa's series-levelling win",
+      "summary": "Amelia Kerr put in an excellent all-round performance for New Zealand, but South Africa fired on all cylinders, with the bat and the ball and in the field, to run out 18-run victors",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528159.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414742.jpg",
+      "published_at": "2026-03-17T06:55:00.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బ్రిట్స్, రేనేకే, ఖాకా మరియు మ్లాబా దక్షిణాఫ్రికా యొక్క సిరీస్-స్థాయి విజయానికి ముఖ్యాంశాలు",
+      "summary_te": "న్యూజిలాండ్ తరఫున అమేలియా కెర్ అద్భుతమైన ఆల్ రౌండ్ ప్రదర్శన కనబరిచింది, అయితే దక్షిణాఫ్రికా బ్యాట్ మరియు బంతితో మరియు ఫీల్డ్‌లో అన్ని సిలిండర్లపై కాల్పులు జరిపి 18 పరుగుల విజయాన్ని సాధించింది.",
+      "translated": true
+    },
     {
       "id": "95a4ecbb0826b75d270a32bd315bd7bf",
       "title": "Mulder in as SA bowl; Clarkson, Ferguson in for NZ",
@@ -58,20 +72,6 @@
       "language": "en",
       "title_te": "వచ్చే వారం నిజమైన పోటీకి ముందు విక్టోరియా, దక్షిణ ఆస్ట్రేలియా డ్రాగా ఆడాయి",
       "summary_te": "షెఫీల్డ్ షీల్డ్ టైటిల్‌ను నిర్ణయించేందుకు ఇరు జట్లు మార్చి 26 నుంచి ఇదే వేదికపై మరోసారి సమావేశం కానున్నాయి",
-      "translated": true
-    },
-    {
-      "id": "fc2b42af7aa877427248fa887526b9e3",
-      "title": "Brits, Reyneke, Khaka and Mlaba headline South Africa's series-levelling win",
-      "summary": "Amelia Kerr put in an excellent all-round performance for New Zealand, but South Africa fired on all cylinders, with the bat and the ball and in the field, to run out 18-run victors",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528159.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414742.jpg",
-      "published_at": "2026-03-17T05:23:49.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బ్రిట్స్, రేనేకే, ఖాకా మరియు మ్లాబా దక్షిణాఫ్రికా యొక్క సిరీస్-స్థాయి విజయానికి ముఖ్యాంశాలు",
-      "summary_te": "న్యూజిలాండ్ తరఫున అమేలియా కెర్ అద్భుతమైన ఆల్ రౌండ్ ప్రదర్శన కనబరిచింది, అయితే దక్షిణాఫ్రికా బ్యాట్ మరియు బంతితో మరియు ఫీల్డ్‌లో అన్ని సిలిండర్లపై కాల్పులు జరిపి 18 పరుగుల విజయాన్ని సాధించింది.",
       "translated": true
     },
     {
