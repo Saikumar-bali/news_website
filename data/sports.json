@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T18:03:45.328Z",
-  "updated_at_IST": "17/3/2026, 11:33:45 pm",
+  "updated_at": "2026-03-17T18:54:28.386Z",
+  "updated_at_IST": "18/3/2026, 12:24:28 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "635b91f5479f05558729bfe53405b836",
+      "title": "Can England's regime change to meet post-Ashes realities?",
+      "summary": "Livingstone's explosive interview with ESPNcricinfo exposes issues within disjointed England set-up",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528248.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402324.jpg",
+      "published_at": "2026-03-17T18:28:01.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "యాషెస్ అనంతర వాస్తవాలకు అనుగుణంగా ఇంగ్లాండ్ పాలన మారగలదా?",
+      "summary_te": "ఇఎస్‌పిఎన్‌క్రిక్‌ఇన్‌ఫోతో లివింగ్‌స్టోన్ యొక్క పేలుడు ఇంటర్వ్యూ విభజిత ఇంగ్లండ్ సెటప్‌లోని సమస్యలను బహిర్గతం చేసింది",
+      "translated": true
+    },
     {
       "id": "ae06e226e9969f9b3562f7f1fb182ae9",
       "title": "Pope: Ashes axing was 'right decision at the time'",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
       "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
-      "translated": true
-    },
-    {
-      "id": "89b451578e0bce332d54f27ba18b67c6",
-      "title": "Konstas' season ends with another unconverted start",
-      "summary": "The opener has regularly got himself set in the latter part of the summer but hasn't made a fifty in the Shield since before Christmas",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528091.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414719.jpg",
-      "published_at": "2026-03-16T07:33:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కాన్‌స్టాస్ సీజన్ మరొక అన్‌కవర్టెడ్ ప్రారంభంతో ముగుస్తుంది",
-      "summary_te": "ఓపెనర్ వేసవి చివరి భాగంలో క్రమం తప్పకుండా తనను తాను సెట్ చేసుకున్నాడు కానీ క్రిస్మస్ ముందు నుండి షీల్డ్‌లో యాభై పరుగులు చేయలేదు",
       "translated": true
     }
   ]
