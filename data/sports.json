@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T12:52:35.811Z",
-  "updated_at_IST": "17/3/2026, 6:22:35 pm",
+  "updated_at": "2026-03-17T14:23:40.242Z",
+  "updated_at_IST": "17/3/2026, 7:53:40 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e6c81d08a2da3e32d96de8186dcacb5e",
+      "title": "Batty: Routes from county cricket to England team have 'misted over'",
+      "summary": "Surrey's head coach defends Championship as 'best breeding ground' in world game",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528193.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/338200/338237.jpg",
+      "published_at": "2026-03-17T12:43:37.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బట్టీ: కౌంటీ క్రికెట్ నుండి ఇంగ్లండ్ జట్టుకు రూట్‌లు 'మిస్డ్ ఓవర్'",
+      "summary_te": "సర్రే యొక్క ప్రధాన కోచ్ ఛాంపియన్‌షిప్‌ను ప్రపంచ గేమ్‌లో 'ఉత్తమ సంతానోత్పత్తి ప్రదేశం'గా సమర్థించాడు",
+      "translated": true
+    },
     {
       "id": "64598dbc79af39462c07e37346874f22",
       "title": "Ashwell Prince rues lack of partnerships in South Africa's Hamilton defeat",
@@ -308,7 +322,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
+      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీని కొట్టాడు",
       "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఆస్ట్రేలియన్ క్రికెట్ యొక్క భారీ పిలుపు - BBL ప్రైవేటీకరణ వివరణకర్త: చర్చ ఏమిటి మరియు అది ఎక్కడ ఉంది?",
       "summary_te": "BBL యొక్క భవిష్యత్తు గురించి గత సంవత్సరం నుండి చర్చలు జరుగుతున్నాయి మరియు తదుపరి చర్యలపై త్వరలో నిర్ణయం తీసుకోవచ్చు",
-      "translated": true
-    },
-    {
-      "id": "4cad64a8b989d8eed86ecfcfd00ca2dc",
-      "title": "Peake and Sutherland fifties bright spots on dull, damp day",
-      "summary": "Peake made 59 and Sutherland 51, while McSweeney took 3 for 18 on a day where only 28.2 overs were possible due to rain",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528096.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414713.jpg",
-      "published_at": "2026-03-16T06:54:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "నిస్తేజంగా, తడిగా ఉన్న రోజున పీక్ మరియు సదర్లాండ్ యాభైల ప్రకాశవంతమైన మచ్చలు",
-      "summary_te": "పీక్ 59, సదర్లాండ్ 51 పరుగులు చేయగా, మెక్‌స్వీనీ 18 పరుగులకు 3 వికెట్లు తీసుకున్నాడు, ఇక్కడ వర్షం కారణంగా 28.2 ఓవర్లు మాత్రమే సాధ్యమయ్యాయి.",
       "translated": true
     }
   ]
