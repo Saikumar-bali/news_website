@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T03:43:22.991Z",
-  "updated_at_IST": "17/3/2026, 9:13:23 am",
+  "updated_at": "2026-03-17T05:30:31.722Z",
+  "updated_at_IST": "17/3/2026, 11:00:31 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "fc2b42af7aa877427248fa887526b9e3",
+      "title": "Brits, Reyneke, Khaka and Mlaba headline South Africa's series-levelling win",
+      "summary": "Amelia Kerr put in an excellent all-round performance for New Zealand, but South Africa fired on all cylinders, with the bat and the ball and in the field, to run out 18-run victors",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528159.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414742.jpg",
+      "published_at": "2026-03-17T05:13:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బ్రిట్స్, రేనేకే, ఖాకా మరియు మ్లాబా దక్షిణాఫ్రికా యొక్క సిరీస్-స్థాయి విజయానికి ముఖ్యాంశాలు",
+      "summary_te": "న్యూజిలాండ్ తరఫున అమేలియా కెర్ అద్భుతమైన ఆల్ రౌండ్ ప్రదర్శన కనబరిచింది, అయితే దక్షిణాఫ్రికా బ్యాట్ మరియు బంతితో మరియు ఫీల్డ్‌లో అన్ని సిలిండర్లపై కాల్పులు జరిపి 18 పరుగుల విజయాన్ని సాధించింది.",
+      "translated": true
+    },
     {
       "id": "c436395d97f86728b6c51165ea6ad14a",
       "title": "Calf injury rules van Niekerk out of New Zealand tour",
@@ -154,7 +168,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీని కొట్టాడు",
+      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
       "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "దక్షిణ ఆస్ట్రేలియా బోనస్ పాయింట్లతో అర్హత సాధించిన తర్వాత డాగెట్‌కు షీల్డ్ ఫైనల్‌కు అవకాశం",
       "summary_te": "టాస్మానియాతో జరిగిన మ్యాచ్‌లో క్వీన్స్‌లాండ్ తొలి ఇన్నింగ్స్‌లో 178 పరుగులకు ఆలౌటైంది, అంటే విజయం సాధించినా సౌత్ ఆస్ట్రేలియాను అధిగమించేందుకు అవసరమైన బోనస్ పాయింట్లను పొందలేము.",
-      "translated": true
-    },
-    {
-      "id": "962cfe5ba6fb6d011d3b60d627260554",
-      "title": "Kellaway leads Victoria's graft as SA qualify for final on bonus points",
-      "summary": "Kellaway made 66 after Murphy's 4 for 67 as the game became inconsequential on day two after South Australia qualified for the final on bonus points",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527994.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414688.jpg",
-      "published_at": "2026-03-15T06:54:09.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బోనస్ పాయింట్లపై SA ఫైనల్‌కు అర్హత సాధించడంతో కెల్లావే విక్టోరియా గ్రాఫ్ట్‌లో ముందున్నాడు",
-      "summary_te": "మర్ఫీ 67 పరుగులకు 4 వికెట్ల తర్వాత కెల్లావే 66 పరుగులు చేశాడు, దక్షిణ ఆస్ట్రేలియా బోనస్ పాయింట్లతో ఫైనల్‌కు అర్హత సాధించిన తర్వాత రెండో రోజు ఆట అసంభవంగా మారింది.",
       "translated": true
     }
   ]
