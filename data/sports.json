@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-17T01:10:51.636Z",
-  "updated_at_IST": "17/3/2026, 6:40:51 am",
+  "updated_at": "2026-03-17T03:43:22.991Z",
+  "updated_at_IST": "17/3/2026, 9:13:23 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c436395d97f86728b6c51165ea6ad14a",
+      "title": "Calf injury rules van Niekerk out of New Zealand tour",
+      "summary": "Jordan Hermann is also out of the South Africa men's tour of New Zealand with a hamstring injury; Anneke Bosch comes in as Dane van Niekerk's replacement",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528142.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/410600/410664.jpg",
+      "published_at": "2026-03-17T03:10:12.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "దూడ గాయం కారణంగా వాన్ నీకెర్క్ న్యూజిలాండ్ పర్యటన నుండి నిష్క్రమించాడు",
+      "summary_te": "జోర్డాన్ హెర్మాన్ కూడా న్యూజిలాండ్‌లో దక్షిణాఫ్రికా పురుషుల పర్యటనలో స్నాయువు గాయంతో నిష్క్రమించాడు; డేన్ వాన్ నీకెర్క్ స్థానంలో అన్నేకే బాష్ వచ్చారు",
+      "translated": true
+    },
+    {
+      "id": "6abcd48151cb57c0fcbc2a48458f8051",
+      "title": "Sutherland's absence means T20 batting role remains uncertain",
+      "summary": "Australia's three-match series in West Indies is crucial in the build-up to the T20 World Cup later this year",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528134.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413847.jpg",
+      "published_at": "2026-03-17T02:55:21.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సదర్లాండ్ లేకపోవడం వల్ల T20 బ్యాటింగ్ పాత్ర అనిశ్చితంగానే ఉంది",
+      "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌లో వెస్టిండీస్‌లో ఆస్ట్రేలియా మూడు మ్యాచ్‌ల సిరీస్ కీలకం",
+      "translated": true
+    },
     {
       "id": "123c9c433f1b6a747850f3f988373c4e",
       "title": "Harshit Rana set to miss bulk of IPL season after knee surgery",
@@ -126,7 +154,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
+      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీని కొట్టాడు",
       "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
       "translated": true
     },
@@ -313,20 +341,6 @@
       "translated": true
     },
     {
-      "id": "3b57bb49aaab768bf648668c346fd09b",
-      "title": "Not 114, the other one - Bangladesh, Pakistan hope batters come good in decider",
-      "summary": "Both the ODIs so far have been one-sided affairs, and an even contest to decide the series will work best for the fans... but the weather might have a say again",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527916.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414645.jpg",
-      "published_at": "2026-03-15T07:57:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "114 కాదు, మరొకటి - బంగ్లాదేశ్, పాకిస్థాన్ బ్యాటర్లు నిర్ణయాత్మకంగా మెరుగ్గా వస్తారని ఆశిస్తున్నాను",
-      "summary_te": "ఇప్పటి వరకు జరిగిన రెండు ODIలు ఏకపక్ష వ్యవహారాలు, మరియు సిరీస్‌ను నిర్ణయించే సమ పోటీ అభిమానులకు ఉత్తమంగా పని చేస్తుంది... కానీ వాతావరణం మళ్లీ చెప్పవచ్చు.",
-      "translated": true
-    },
-    {
       "id": "962cfe5ba6fb6d011d3b60d627260554",
       "title": "Kellaway leads Victoria's graft as SA qualify for final on bonus points",
       "summary": "Kellaway made 66 after Murphy's 4 for 67 as the game became inconsequential on day two after South Australia qualified for the final on bonus points",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బోనస్ పాయింట్లపై SA ఫైనల్‌కు అర్హత సాధించడంతో కెల్లావే విక్టోరియా గ్రాఫ్ట్‌లో ముందున్నాడు",
       "summary_te": "మర్ఫీ 67 పరుగులకు 4 వికెట్ల తర్వాత కెల్లావే 66 పరుగులు చేశాడు, దక్షిణ ఆస్ట్రేలియా బోనస్ పాయింట్లతో ఫైనల్‌కు అర్హత సాధించిన తర్వాత రెండో రోజు ఆట అసంభవంగా మారింది.",
-      "translated": true
-    },
-    {
-      "id": "7b43737bca263268da237407b9cd0a9c",
-      "title": "Amelia Kerr and Georgia Plimmer steamroll South Africa",
-      "summary": "They put on a 146-run partnership, the fourth-highest for New Zealand in women's T20Is to seal victory",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528020.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414680.jpg",
-      "published_at": "2026-03-15T05:49:47.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "అమేలియా కెర్ మరియు జార్జియా ప్లిమ్మర్ సౌత్ ఆఫ్రికా స్టీమ్ రోల్",
-      "summary_te": "వారు 146 పరుగుల భాగస్వామ్యాన్ని నెలకొల్పారు, మహిళల టీ20లలో న్యూజిలాండ్‌కు నాల్గవ అత్యధిక విజయాన్ని అందించారు.",
       "translated": true
     }
   ]
