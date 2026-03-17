@@ -1,13 +1,69 @@
 {
-  "updated_at": "2026-03-17T08:50:54.030Z",
-  "updated_at_IST": "17/3/2026, 2:20:54 pm",
+  "updated_at": "2026-03-17T09:55:36.582Z",
+  "updated_at_IST": "17/3/2026, 3:25:36 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "53cf62955e74c7dc03f8a00699bf9a81",
+      "title": "‘Book LPG only when required,’ Indian Oil issues advisory to curtail hoarding, avoid panic bookings",
+      "summary": "With ongoing tensions in the Middle East affecting oil supplies, the Indian government urged consumers to book LPG refills only when necessary. Check where and how to book LPG cylinder.",
+      "url": "https://www.livemint.com/news/india/book-lpg-only-when-required-indian-oil-issues-advisory-to-curtail-hoarding-avoid-panic-bookings-11773736178898.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/People-queued-up-to-collect-their-domestic-gas-cyl_1773739260588_1773739305195.jpg",
+      "published_at": "2026-03-17T09:31:50.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'అవసరమైనప్పుడు మాత్రమే LPG బుక్ చేయండి,' ఇండియన్ ఆయిల్ హోర్డింగ్‌ను తగ్గించడానికి, భయాందోళన బుకింగ్‌లను నివారించడానికి సలహా ఇస్తుంది",
+      "summary_te": "మధ్యప్రాచ్యంలో కొనసాగుతున్న ఉద్రిక్తతలు చమురు సరఫరాలను ప్రభావితం చేస్తున్నందున, అవసరమైనప్పుడు మాత్రమే LPG రీఫిల్‌లను బుక్ చేసుకోవాలని భారత ప్రభుత్వం వినియోగదారులను కోరింది. LPG సిలిండర్‌ను ఎక్కడ మరియు ఎలా బుక్ చేయాలో తనిఖీ చేయండి.",
+      "translated": true
+    },
+    {
+      "id": "89cc2e104c1883748bee54ccdf5d3961",
+      "title": "Ali Larijani dead? Israeli media says Iran's security chief targeted, fate unclear; Basij chief Soleimani killed",
+      "summary": "Basij chief Soleimani has been killed, the Israel Defence Force (IDF) confirmed. It is not yet known if Ali Larijani was even wounded in the strikes.",
+      "url": "https://www.livemint.com/news/world/ali-larijani-dead-israeli-media-says-irans-security-chief-targeted-fate-unclear-basij-chief-soleimani-killed-11773736579813.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/IRAN-CRISIS-LARIJANI-1_1773738294011_1773738306993.JPG",
+      "published_at": "2026-03-17T08:57:09.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అలీ లారిజానీ మృతి? ఇరాన్ భద్రతా చీఫ్ లక్ష్యంగా చేసుకున్నారని ఇజ్రాయెల్ మీడియా చెబుతోంది, విధి అస్పష్టంగా ఉంది; బాసిజ్ చీఫ్ సులేమానీ హత్య",
+      "summary_te": "బసిజ్ చీఫ్ సులేమానీ హతమైనట్లు ఇజ్రాయెల్ డిఫెన్స్ ఫోర్స్ (ఐడీఎఫ్) ధృవీకరించింది. దాడుల్లో అలీ లారిజానీ కూడా గాయపడ్డాడా అనేది ఇంకా తెలియరాలేదు.",
+      "translated": true
+    },
+    {
+      "id": "585f225601e17f1dd76f31cd34212b25",
+      "title": "LPG gas cylinder eKYC online: Aadhaar biometric authentication now compulsory — here’s how to do it",
+      "summary": "The government has mandated biometric Aadhaar authentication for LPG consumers who haven't completed eKYC. Amid an LPG shortage driven by geopolitical tensions, this initiative aims to ensure genuine users receive subsidies while curbing black-market trade. Here's how to complete the process online.",
+      "url": "https://www.livemint.com/news/india/lpg-gas-kyc-online-centre-makes-gas-cylinder-biometric-aadhaar-authentication-compulsory-heres-how-to-do-it-11773734318329.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/20260315-MTH-PGD-MN-LPG-gas-001001-0_1773734290097_1773734315856.JPG",
+      "published_at": "2026-03-17T08:53:11.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "LPG గ్యాస్ సిలిండర్ eKYC ఆన్‌లైన్: ఆధార్ బయోమెట్రిక్ ప్రమాణీకరణ ఇప్పుడు తప్పనిసరి — దీన్ని ఎలా చేయాలో ఇక్కడ ఉంది",
+      "summary_te": "eKYC పూర్తి చేయని LPG వినియోగదారుల కోసం ప్రభుత్వం బయోమెట్రిక్ ఆధార్ ప్రమాణీకరణను తప్పనిసరి చేసింది. భౌగోళిక రాజకీయ ఉద్రిక్తతలతో నడిచే LPG కొరత మధ్య, బ్లాక్-మార్కెట్ వ్యాపారాన్ని అరికట్టేటప్పుడు నిజమైన వినియోగదారులు రాయితీలను పొందేలా చేయడం ఈ చొరవ లక్ష్యం. ఆన్‌లైన్‌లో ప్రక్రియను ఎలా పూర్తి చేయాలో ఇక్కడ ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "074550b73d98a25064feed0c5ad931b7",
+      "title": "From 29,300 to 24,900: Nomura slashes Nifty target, says another 5% correction possible! Here’s why",
+      "summary": "Nomura has cut its Nifty target by 15% to 24,900, warning of a further 5% downside amid geopolitical tensions, rising oil prices and weakening flows. The brokerage sees risks to earnings and valuations, though it believes deeper corrections could create long-term buying opportunities for investors.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/from-29300-to-24900-nomura-slashes-nifty-target-says-another-5-correction-possible-heres-why/articleshow/129628211.cms",
+      "image": null,
+      "published_at": "2026-03-17T08:49:29.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "29,300 నుండి 24,900కి: నోమురా నిఫ్టీ లక్ష్యాన్ని తగ్గించింది, మరో 5% కరెక్షన్ సాధ్యమవుతుందని చెప్పింది! ఇక్కడ ఎందుకు ఉంది",
+      "summary_te": "నొమురా తన నిఫ్టీ లక్ష్యాన్ని 15% తగ్గించి 24,900కి చేరుకుంది, భౌగోళిక రాజకీయ ఉద్రిక్తతలు, పెరుగుతున్న చమురు ధరలు మరియు బలహీనమైన ప్రవాహాల మధ్య మరింత 5% తగ్గుదల గురించి హెచ్చరించింది. బ్రోకరేజ్ ఆదాయాలు మరియు వాల్యుయేషన్‌లకు నష్టాలను చూస్తుంది, అయితే లోతైన దిద్దుబాట్లు పెట్టుబడిదారులకు దీర్ఘకాలిక కొనుగోలు అవకాశాలను సృష్టించగలవని నమ్ముతుంది.",
+      "translated": true
+    },
+    {
       "id": "d91df57bccd32f192773dae903bb9404",
       "title": "Did Iran offer 440 kg of enriched uranium to US negotiators 48 hours before strikes? Araghchi reveals insider details",
-      "summary": "Iran Foreign Minister Abbas Araghchi said that giving up the uranium was one of the elements in the then-ongoing talks with the US. According to him, this showed the willingness of Iran to let go of the material.",
+      "summary": "Iranian Foreign Minister Abbas Araghchi said giving up the enriched uranium was one of the elements in the then-ongoing talks with the US. According to him, this showed Iran's willingness to relinquish the nuclear material.",
       "url": "https://www.livemint.com/news/world/did-iran-offer-440-kg-of-enriched-uranium-to-us-negotiators-48-hours-before-strikes-araghchi-reveals-insider-details-11773732146128.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/IRAN-CRISIS--0_1773735884203_1773735894296.JPG",
       "published_at": "2026-03-17T08:28:48.000Z",
@@ -15,7 +71,7 @@
       "category": "business",
       "language": "en",
       "title_te": "దాడులకు 48 గంటల ముందు US సంధానకర్తలకు ఇరాన్ 440 కిలోల సుసంపన్నమైన యురేనియం అందించిందా? ఆరాఘీ అంతర్గత వివరాలను వెల్లడించారు",
-      "summary_te": "ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీ మాట్లాడుతూ యురేనియంను వదులుకోవడమనేది అమెరికాతో అప్పుడు జరుగుతున్న చర్చల్లోని అంశాల్లో ఒకటి. అతని ప్రకారం, ఇది ఇరాన్ పదార్థాన్ని విడిచిపెట్టడానికి సుముఖతను చూపించింది.",
+      "summary_te": "ఇరాన్‌ విదేశాంగ మంత్రి అబ్బాస్‌ అరాఘీ మాట్లాడుతూ, శుద్ధి చేసిన యురేనియంను వదులుకోవడం అమెరికాతో అప్పటికి జరుగుతున్న చర్చల్లోని అంశాల్లో ఒకటి. అతని ప్రకారం, అణు పదార్థాన్ని వదులుకోవడానికి ఇరాన్ సుముఖతను ఇది చూపిస్తుంది.",
       "translated": true
     },
     {
@@ -30,6 +86,20 @@
       "language": "en",
       "title_te": "ఇరాన్ యొక్క 440 కిలోల అణు నిల్వ ఎక్కడ ఉంది మరియు దానిని ఎవరు నియంత్రిస్తారు? ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీ వెల్లడించారు",
       "summary_te": "ఇటీవలి ఇంటర్వ్యూలో, ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీని ఇరాన్ 440 కిలోల అణు పదార్థాల నిల్వ గురించి అలాగే ఆపరేషన్ ఎపిక్ ఫ్యూరీ ప్రారంభించబడటానికి ముందు జరుగుతున్న యుఎస్-ఇరాన్ అణు చర్చల గురించి ప్రశ్నించారు. అతను వెల్లడించినది ఇక్కడ ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "a424ec95af132e6e7d79b1b4d468a8e5",
+      "title": "10+ MFs added these 8 stocks in February; 3 turned multibaggers, up to 140% in FY26",
+      "summary": "Over 10 mutual funds increased exposure to stocks like Multi Commodity Exchange of India, GE Vernova T&D India and National Aluminium Company in February, with three turning multibaggers and delivering up to 140% returns in FY26.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-mfs-added-these-8-stocks-in-february-3-turned-multibaggers-up-to-140-in-fy26/slideshow/129627843.cms",
+      "image": null,
+      "published_at": "2026-03-17T08:11:29.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఫిబ్రవరిలో 10+ MFలు ఈ 8 స్టాక్‌లను జోడించాయి; 3 FY26లో 140% వరకు మల్టీబ్యాగర్‌లుగా మారాయి",
+      "summary_te": "10కి పైగా మ్యూచువల్ ఫండ్‌లు ఫిబ్రవరిలో మల్టీ కమోడిటీ ఎక్స్ఛేంజ్ ఆఫ్ ఇండియా, GE వెర్నోవా T&D ఇండియా మరియు నేషనల్ అల్యూమినియం కంపెనీ వంటి స్టాక్‌లకు ఎక్స్‌పోజర్‌ని పెంచాయి, మూడు మల్టీబ్యాగర్‌లను మార్చాయి మరియు FY26లో 140% వరకు రాబడిని అందించాయి.",
       "translated": true
     },
     {
@@ -58,20 +128,6 @@
       "language": "en",
       "title_te": "మార్చి 31 నాటికి బెంజమిన్ నెతన్యాహు 'ఔట్': $4,000,000 సంభావ్య చెల్లింపుతో ఇజ్రాయెల్ ప్రధానిపై పందెం వైరల్ అవుతుంది",
       "summary_te": "పాలీమార్కెట్‌పై కొత్త పందెం ఇజ్రాయెల్ ప్రధాని నెతన్యాహు మార్చి 31 నాటికి 'అవుట్' అవుతుందని అంచనా వేసింది. అతని మరణానికి సంబంధించిన పుకార్ల మధ్య, నెతన్యాహు అతను జీవించి ఉన్నాడని ధృవీకరించాడు, ఆ వాదనలను ఫేక్ న్యూస్ అని కొట్టిపారేశాడు.",
-      "translated": true
-    },
-    {
-      "id": "d16e1c1ca94801046ef11b9a9da3f264",
-      "title": "QSR chains stay resilient amid LPG shortage: Karan Taurani",
-      "summary": "India's food service industry faces temporary LPG supply constraints. Smaller restaurants are feeling the pinch, while major quick-service restaurant chains are largely unaffected. Experts suggest QSRs are adapting by rationalizing menus and increasing reliance on electric equipment. The overall impact on the food business is currently modest, with quick commerce valuations also a point of concern.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/qsr-chains-stay-resilient-amid-lpg-shortage-karan-taurani/articleshow/129626835.cms",
-      "image": null,
-      "published_at": "2026-03-17T07:39:22.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "LPG కొరత మధ్య QSR చైన్‌లు స్థితిస్థాపకంగా ఉంటాయి: కరణ్ తౌరానీ",
-      "summary_te": "భారతదేశ ఆహార సేవా పరిశ్రమ తాత్కాలిక LPG సరఫరా పరిమితులను ఎదుర్కొంటుంది. చిన్న రెస్టారెంట్లు చిటికెడు అనుభూతిని కలిగి ఉన్నాయి, అయితే ప్రధాన శీఘ్ర-సేవ రెస్టారెంట్ చైన్‌లు పెద్దగా ప్రభావితం కావు. మెనులను హేతుబద్ధీకరించడం ద్వారా మరియు ఎలక్ట్రిక్ పరికరాలపై ఆధారపడటాన్ని పెంచడం ద్వారా QSRలు అనుకూలిస్తున్నాయని నిపుణులు సూచిస్తున్నారు. ఆహార వ్యాపారంపై మొత్తం ప్రభావం ప్రస్తుతం నిరాడంబరంగా ఉంది, త్వరిత వాణిజ్య విలువలు కూడా ఆందోళన కలిగించే అంశం.",
       "translated": true
     },
     {
@@ -170,20 +226,6 @@
       "language": "en",
       "title_te": "జెన్సన్ హువాంగ్ రచించిన 'CEO మ్యాథ్'పై రోజు కోట్: 'మీరు ఎంత ఎక్కువ కొంటే అంత ఎక్కువ ఆదా చేస్తారు...'",
       "summary_te": "వ్యాపారాన్ని ప్రారంభించాలనుకునే లేదా వ్యాపారాన్ని పెంచుకోవాలనుకునే ఎవరికైనా జెన్సన్ హువాంగ్ యొక్క నేటి కోట్ స్ఫూర్తినిస్తుంది. వ్యాపారం అంశంపై మార్చి 17న జెన్సన్ హువాంగ్ రాసిన కోట్ ఆఫ్ ది డే గురించి మీరు తెలుసుకోవలసినది ఇక్కడ ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "a945e50253371e325066c797d1cb781a",
-      "title": "Dharmesh Kant on FY27 earnings, Iran crisis and smart investment strategies",
-      "summary": "Indian equity markets face persistent uncertainty, prompting experts to advise a cautious, selective investment approach. Despite revised earnings growth expectations, the Nifty index's current multiple offers a comfortable entry point for staggered investments. Defence, metals, and auto sectors show promise, while banking and NBFCs warrant caution.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/dharmesh-kant-on-fy27-earnings-iran-crisis-and-smart-investment-strategies/articleshow/129624848.cms",
-      "image": null,
-      "published_at": "2026-03-17T06:01:50.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "FY27 ఆదాయాలు, ఇరాన్ సంక్షోభం మరియు స్మార్ట్ పెట్టుబడి వ్యూహాలపై ధర్మేష్ కాంత్",
-      "summary_te": "భారతీయ ఈక్విటీ మార్కెట్లు నిరంతర అనిశ్చితిని ఎదుర్కొంటున్నాయి, నిపుణులు జాగ్రత్తగా, ఎంపిక చేసిన పెట్టుబడి విధానాన్ని సూచించమని ప్రేరేపిస్తుంది. సవరించిన ఆదాయ వృద్ధి అంచనాలు ఉన్నప్పటికీ, నిఫ్టీ ఇండెక్స్ ప్రస్తుత మల్టిపుల్ అస్థిరమైన పెట్టుబడులకు సౌకర్యవంతమైన ఎంట్రీ పాయింట్‌ను అందిస్తుంది. రక్షణ, లోహాలు మరియు ఆటో రంగాలు వాగ్దానాన్ని ప్రదర్శిస్తాయి, అయితే బ్యాంకింగ్ మరియు NBFCలు జాగ్రత్త వహించాలి.",
       "translated": true
     },
     {
@@ -394,48 +436,6 @@
       "language": "en",
       "title_te": "డిప్ కొనుగోలు చేయాలా లేదా జాగ్రత్తగా ఉండాలా? యుద్ధం మరియు విలువలు క్లౌడ్ మార్కెట్ క్లుప్తంగ",
       "summary_te": "భారతీయ ఈక్విటీలు మార్కెట్ అర్ధరాత్రి వద్ద ఉన్నాయి, 18 నెలల అమ్మకాల తర్వాత మిశ్రమ సంకేతాలను ఎదుర్కొంటున్నాయి. కొందరు కొనుగోలు అవకాశాలను చూస్తున్నప్పటికీ, వాల్యుయేషన్‌లు ఎలివేట్‌గా ఉంటాయి, జాగ్రత్తను సూచిస్తున్నాయి. భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు AI అంతరాయాలు లోతైన ఆందోళనలను కప్పివేస్తాయి, దూకుడు కొనుగోలును కష్టతరం చేస్తాయి, కానీ పూర్తి నిష్క్రమణ అనవసరం.",
-      "translated": true
-    },
-    {
-      "id": "d424d1f0a9e7ba45772bd41d52d74559",
-      "title": "Trump says he will have the 'honor' of ‘taking Cuba’; but first, Washington DC wants Díaz-Canel gone",
-      "summary": "As Cuba plunges into blackouts and fuel shortages, the Trump administration is pressing Havana for a historic political shake-up, whilst dangling the prospect of American investment",
-      "url": "https://www.livemint.com/news/world/trump-says-he-will-have-the-honor-of-taking-cuba-but-first-washington-dc-wants-d-az-canel-gone-11773706660688.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/US-POLITICS-TRUMP-2_1773686634195_1773686642818_1773707101295.jpg",
-      "published_at": "2026-03-17T00:51:34.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘క్యూబాను టేకింగ్’ చేసిన ‘గౌరవం’ తనకు దక్కుతుందని ట్రంప్ చెప్పారు; అయితే ముందుగా, వాషింగ్టన్ DC డియాజ్-కెనెల్ పోవాలని కోరుకుంటుంది",
-      "summary_te": "క్యూబా బ్లాక్‌అవుట్‌లు మరియు ఇంధన కొరతలో మునిగిపోతున్నప్పుడు, ట్రంప్ పరిపాలన ఒక చారిత్రాత్మక రాజకీయ ప్రకంపనల కోసం హవానాను ఒత్తిడి చేస్తోంది, అదే సమయంలో అమెరికన్ పెట్టుబడి అవకాశాలను డాంగ్ చేస్తోంది",
-      "translated": true
-    },
-    {
-      "id": "da4c3e3b2452380f37f962994781bed3",
-      "title": "Are Iran and US in direct contact amid war? Report says Araghchi sent text messages to Witkoff focused on ending war",
-      "summary": "Conflicting accounts from Washington and Tehran obscure what may be the first known diplomatic back-channel since the US-Iran war began on 28 February.",
-      "url": "https://www.livemint.com/news/world/are-iran-and-us-in-direct-contact-amid-war-report-says-araghchi-sent-text-messages-to-witkoff-focused-on-ending-war-11773704899948.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/IRAN-CRISIS-GENEVA-28_1773705418596_1773705430593.JPG",
-      "published_at": "2026-03-17T00:08:21.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ మరియు యుఎస్ యుద్ధం మధ్య ప్రత్యక్ష సంబంధంలో ఉన్నాయా? Araghchi యుద్ధాన్ని ముగించడంపై దృష్టి సారించి Witkoffకు వచన సందేశాలను పంపినట్లు నివేదిక పేర్కొంది",
-      "summary_te": "ఫిబ్రవరి 28న US-ఇరాన్ యుద్ధం ప్రారంభమైనప్పటి నుండి వాషింగ్టన్ మరియు టెహ్రాన్ నుండి వచ్చిన వైరుధ్య ఖాతాలు మొదటి దౌత్యపరమైన బ్యాక్-ఛానెల్ ఏమిటో అస్పష్టంగా ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "0f1bfe8cf41c6e1f994117a96a3026ce",
-      "title": "US court halts Kennedy’s plan to reduce childhood vaccinations citing public health risks",
-      "summary": "US District Judge of Boston ruled in favor of the American Academy of Pediatrics and other medical groups, which argued that Kennedy’s policies would lower vaccination rates and jeopardize public health.",
-      "url": "https://www.livemint.com/news/us-news/us-court-halts-kennedy-s-plan-to-reduce-childhood-vaccinations-citing-public-health-risks-11773693510885.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/16/1600x900/logo/USA-HEALTH-KENNEDY-VACCIN-0_1749502490758_1773693826099.JPG",
-      "published_at": "2026-03-16T20:46:50.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రజారోగ్య ప్రమాదాలను ఉటంకిస్తూ చిన్ననాటి టీకాలను తగ్గించాలనే కెన్నెడీ ప్రణాళికను US కోర్టు నిలిపివేసింది",
-      "summary_te": "US డిస్ట్రిక్ట్ జడ్జి ఆఫ్ బోస్టన్ అమెరికన్ అకాడమీ ఆఫ్ పీడియాట్రిక్స్ మరియు ఇతర వైద్య సమూహాలకు అనుకూలంగా తీర్పునిచ్చాడు, కెన్నెడీ యొక్క విధానాలు టీకా రేట్లను తగ్గిస్తాయి మరియు ప్రజారోగ్యానికి హాని కలిగిస్తాయని వాదించారు.",
       "translated": true
     },
     {

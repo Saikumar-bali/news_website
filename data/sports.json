@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-17T08:50:54.030Z",
-  "updated_at_IST": "17/3/2026, 2:20:54 pm",
+  "updated_at": "2026-03-17T09:55:36.582Z",
+  "updated_at_IST": "17/3/2026, 3:25:36 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "5e815983cf9f90d8090f1cc4fd5fb7cc",
+      "title": "Devon Conway, bowlers star as New Zealand make it 1-1",
+      "summary": "Ben Sears and Lockie Ferguson took six wickets between them in an incisive display of quick bowling for NZ",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528184.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414754.jpg",
+      "published_at": "2026-03-17T09:34:55.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డెవాన్ కాన్వే, బౌలర్లు న్యూజిలాండ్‌ను 1-1తో సమం చేశారు",
+      "summary_te": "బెన్ సియర్స్ మరియు లాకీ ఫెర్గూసన్ NZ కోసం శీఘ్ర బౌలింగ్‌లో చురుకైన ప్రదర్శనలో వారి మధ్య ఆరు వికెట్లు తీశారు.",
+      "translated": true
+    },
     {
       "id": "6c92f85c2c9b7c246cf0db7c9afed5b4",
       "title": "Western Australia cling on nine down as Shipperd denied farewell NSW victory",
       "summary": "A late surge from Liam Hatcher and Sean Abbott blew the game open but the home side couldn't quite claim the final wicket",
       "url": "https://www.espncricinfo.com/ci/content/story/1528146.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414751.jpg",
-      "published_at": "2026-03-17T08:21:12.000Z",
+      "published_at": "2026-03-17T08:35:58.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "గిల్: 2027 వన్డే ప్రపంచకప్ 'అంతిమ లక్ష్యం'",
       "summary_te": "T20I కెప్టెన్ సూర్యకుమార్ 2024 T20 ప్రపంచ కప్ విజయాన్ని \"స్పర్క్\"గా పేర్కొన్నాడు, ఇది ఇటీవలి ICC టైటిల్స్‌కు మహిళల జట్టు మరియు పురుషుల జట్లను ప్రేరేపించింది",
-      "translated": true
-    },
-    {
-      "id": "8f5fbabf2d73fa22e299bfde0e563f80",
-      "title": "Samson on World Cup win: 'India is going to do this more and more often'",
-      "summary": "Samson says coming back in the team in the middle of the tournament was when he \"mentally flipped a bit\"",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528070.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414569.jpg",
-      "published_at": "2026-03-15T15:42:59.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ప్రపంచ కప్ విజయంపై శాంసన్: 'భారత్ దీన్ని మరింత తరచుగా చేయబోతోంది'",
-      "summary_te": "టోర్నమెంట్ మధ్యలో తిరిగి జట్టులోకి రావడం \"మానసికంగా కాస్త కుదుటపడ్డాను\" అని శాంసన్ చెప్పాడు",
       "translated": true
     }
   ]
