@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T14:23:40.242Z",
-  "updated_at_IST": "17/3/2026, 7:53:40 pm",
+  "updated_at": "2026-03-17T16:05:17.269Z",
+  "updated_at_IST": "17/3/2026, 9:35:17 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ae06e226e9969f9b3562f7f1fb182ae9",
+      "title": "Pope: Ashes axing was 'right decision at the time'",
+      "summary": "Former vice-captain will be back in county ranks for first time since 2022 ahead of Test summer",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528198.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398744.jpg",
+      "published_at": "2026-03-17T15:07:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పోప్: యాషెస్ గొడ్డలిపెట్టు 'ఆ సమయంలో సరైన నిర్ణయం'",
+      "summary_te": "మాజీ వైస్ కెప్టెన్ 2022 తర్వాత టెస్ట్ సమ్మర్‌కు ముందు మొదటిసారి కౌంటీ ర్యాంక్‌లోకి తిరిగి వస్తాడు",
+      "translated": true
+    },
     {
       "id": "e6c81d08a2da3e32d96de8186dcacb5e",
       "title": "Batty: Routes from county cricket to England team have 'misted over'",
@@ -322,7 +336,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీని కొట్టాడు",
+      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
       "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "కాన్‌స్టాస్ సీజన్ మరొక అన్‌కవర్టెడ్ ప్రారంభంతో ముగుస్తుంది",
       "summary_te": "ఓపెనర్ వేసవి చివరి భాగంలో క్రమం తప్పకుండా తనను తాను సెట్ చేసుకున్నాడు కానీ క్రిస్మస్ ముందు నుండి షీల్డ్‌లో యాభై పరుగులు చేయలేదు",
-      "translated": true
-    },
-    {
-      "id": "6ee2695dd78ca87a15c26b13b2cd60d4",
-      "title": "Australian cricket's huge call - BBL privatisation explainer: What is the debate and where is it at?",
-      "summary": "Debates around the future of the BBL have been going on since last year and a decision on the next steps could be made soon",
-      "url": "https://www.espncricinfo.com/ci/content/story/1527799.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412400/412433.jpg",
-      "published_at": "2026-03-16T07:26:29.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆస్ట్రేలియన్ క్రికెట్ యొక్క భారీ పిలుపు - BBL ప్రైవేటీకరణ వివరణకర్త: చర్చ ఏమిటి మరియు అది ఎక్కడ ఉంది?",
-      "summary_te": "BBL యొక్క భవిష్యత్తు గురించి గత సంవత్సరం నుండి చర్చలు జరుగుతున్నాయి మరియు తదుపరి చర్యలపై త్వరలో నిర్ణయం తీసుకోవచ్చు",
       "translated": true
     }
   ]
