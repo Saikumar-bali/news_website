@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-03-17T09:55:36.582Z",
-  "updated_at_IST": "17/3/2026, 3:25:36 pm",
+  "updated_at": "2026-03-17T10:51:27.080Z",
+  "updated_at_IST": "17/3/2026, 4:21:27 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "9610d643aedeafb0fe29611cd75b0efd",
+      "title": "Suryakumar: 'The percentage I tried to get in school and college, I'm getting in cricket'",
+      "summary": "India \"wanted to win the [2026 T20] World Cup in India, and we wanted to win it in the same stadium in Ahmedabad, which was more important for us,\" Suryakumar Yadav says",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528181.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414579.jpg",
+      "published_at": "2026-03-17T10:03:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "సూర్యకుమార్: 'స్కూల్‌లో, కాలేజీలో నేను ప్రయత్నించిన శాతాన్ని క్రికెట్‌లో పొందుతున్నాను'",
+      "summary_te": "భారతదేశం \"భారతదేశంలో [2026 T20] ప్రపంచ కప్‌ను గెలవాలని కోరుకుంది, మరియు మేము దానిని అహ్మదాబాద్‌లోని అదే స్టేడియంలో గెలవాలనుకుంటున్నాము, ఇది మాకు చాలా ముఖ్యమైనది\" అని సూర్యకుమార్ యాదవ్ చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "b37c29ef97eb706f557006cc30bb3697",
+      "title": "Gavaskar hits out at Sunrisers for signing Abrar Ahmed in Men's Hundred",
+      "summary": "Former India captain Sunil Gavaskar calls franchise into question in scathing column in Indian newspaper",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528183.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414642.jpg",
+      "published_at": "2026-03-17T09:58:24.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పురుషుల హండ్రెడ్‌లో అబ్రార్ అహ్మద్‌తో ఒప్పందం కుదుర్చుకున్నందుకు గావస్కర్ సన్‌రైజర్స్‌పై విరుచుకుపడ్డాడు",
+      "summary_te": "భారత వార్తాపత్రికలో ఘాటైన కాలమ్‌లో భారత మాజీ కెప్టెన్ సునీల్ గవాస్కర్ ఫ్రాంచైజీని ప్రశ్నించారు",
+      "translated": true
+    },
     {
       "id": "5e815983cf9f90d8090f1cc4fd5fb7cc",
       "title": "Devon Conway, bowlers star as New Zealand make it 1-1",
       "summary": "Ben Sears and Lockie Ferguson took six wickets between them in an incisive display of quick bowling for NZ",
       "url": "https://www.espncricinfo.com/ci/content/story/1528184.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414754.jpg",
-      "published_at": "2026-03-17T09:34:55.000Z",
+      "published_at": "2026-03-17T09:48:01.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "బొటనవేలు విరగడంతో సోధి దక్షిణాఫ్రికా సిరీస్‌కు దూరమయ్యాడు",
       "summary_te": "ఓపెనింగ్ మ్యాచ్‌కు ముందు ట్రైనింగ్ సమయంలో లెగ్‌స్పిన్నర్‌కు దెబ్బ తగిలింది",
-      "translated": true
-    },
-    {
-      "id": "ddd3cd197436fe97f1496790663f6eab",
-      "title": "Tanzid 107, Taskin four-for trump Agha 106 to give Bangladesh series",
-      "summary": "Agha scored 106 off 98 balls after walking out at 67 for 4 in Pakistan's 291 chase but in vain",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528044.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414698.jpg",
-      "published_at": "2026-03-15T18:03:36.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "టాంజిద్ 107, టాస్కిన్ ఫోర్-ఫర్ ట్రంప్ అఘా 106 పరుగులు చేసి బంగ్లాదేశ్ సిరీస్‌ను అందించారు",
-      "summary_te": "పాకిస్థాన్ 291 పరుగుల ఛేదనలో 4 వికెట్ల నష్టానికి 67 పరుగుల వద్ద ఆఘా 98 బంతుల్లో 106 పరుగులు చేశాడు, కానీ ఫలించలేదు.",
-      "translated": true
-    },
-    {
-      "id": "d476efe661959d6445b9215c637d7120",
-      "title": "Gill: 2027 ODI World Cup is the 'ultimate goal'",
-      "summary": "T20I captain Suryakumar calls 2024 T20 World Cup triumph as the \"spark\" that inspired the women team and men's teams to recent ICC titles",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528076.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/370600/370699.jpg",
-      "published_at": "2026-03-15T17:41:28.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "గిల్: 2027 వన్డే ప్రపంచకప్ 'అంతిమ లక్ష్యం'",
-      "summary_te": "T20I కెప్టెన్ సూర్యకుమార్ 2024 T20 ప్రపంచ కప్ విజయాన్ని \"స్పర్క్\"గా పేర్కొన్నాడు, ఇది ఇటీవలి ICC టైటిల్స్‌కు మహిళల జట్టు మరియు పురుషుల జట్లను ప్రేరేపించింది",
       "translated": true
     }
   ]

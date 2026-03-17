@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T09:55:36.582Z",
-  "updated_at_IST": "17/3/2026, 3:25:36 pm",
+  "updated_at": "2026-03-17T10:51:27.080Z",
+  "updated_at_IST": "17/3/2026, 4:21:27 pm",
   "category": "telangana",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "0077cf0ff1d94e0e49b699e37a1095d5",
+      "title": "Cooking in LPG crisis: Hyderabad’s kitchens adapt, but at a ‘cost’",
+      "summary": "The switch to firewood has drawn not only environmental and health concerns but also fears of fire outbreaks in dense urban spaces",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/cooking-in-lpg-crisis-hyderabads-kitchens-adapt-but-at-a-cost/article70752797.ece",
+      "image": "https://th-i.thgim.com/public/todays-paper/tp-national/tp-telangana/l2t2v2/article70741845.ece/alternates/LANDSCAPE_1200/Standalone_3colGRCFNBSI6.3.jpg.jpg",
+      "published_at": "2026-03-17T07:57:37.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "LPG సంక్షోభంలో వంట: హైదరాబాద్‌లోని వంటశాలలు అనుకూలిస్తాయి, కానీ 'ఖర్చు'తో",
+      "summary_te": "కట్టెలకు మారడం వల్ల పర్యావరణం మరియు ఆరోగ్యపరమైన ఆందోళనలు మాత్రమే కాకుండా దట్టమైన పట్టణ ప్రాంతాలలో మంటలు చెలరేగే భయాలు కూడా ఉన్నాయి.",
+      "translated": true
+    },
     {
       "id": "972ec4322889dae5d1531fe8b2d70db6",
       "title": "Container truck hits under-construction foot overbridge in Mehdipatnam",
