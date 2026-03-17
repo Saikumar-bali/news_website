@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T07:57:37.732Z",
-  "updated_at_IST": "17/3/2026, 1:27:37 pm",
+  "updated_at": "2026-03-17T08:50:54.030Z",
+  "updated_at_IST": "17/3/2026, 2:20:54 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "6c92f85c2c9b7c246cf0db7c9afed5b4",
+      "title": "Western Australia cling on nine down as Shipperd denied farewell NSW victory",
+      "summary": "A late surge from Liam Hatcher and Sean Abbott blew the game open but the home side couldn't quite claim the final wicket",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528146.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414751.jpg",
+      "published_at": "2026-03-17T08:21:12.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "షిప్పర్డ్ వీడ్కోలు NSW విజయాన్ని తిరస్కరించడంతో వెస్ట్రన్ ఆస్ట్రేలియా తొమ్మిదిని అంటిపెట్టుకుని ఉంది",
+      "summary_te": "లియామ్ హాట్చర్ మరియు సీన్ అబాట్ నుండి ఆలస్యంగా ఉప్పెనలా గేమ్‌ను ప్రారంభించింది, అయితే ఆతిథ్య జట్టు చివరి వికెట్‌ను క్లెయిమ్ చేయలేకపోయింది.",
+      "translated": true
+    },
     {
       "id": "fc2b42af7aa877427248fa887526b9e3",
       "title": "Brits, Reyneke, Khaka and Mlaba headline South Africa's series-levelling win",
@@ -224,7 +238,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీని కొట్టాడు",
+      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
       "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ప్రపంచ కప్ విజయంపై శాంసన్: 'భారత్ దీన్ని మరింత తరచుగా చేయబోతోంది'",
       "summary_te": "టోర్నమెంట్ మధ్యలో తిరిగి జట్టులోకి రావడం \"మానసికంగా కాస్త కుదుటపడ్డాను\" అని శాంసన్ చెప్పాడు",
-      "translated": true
-    },
-    {
-      "id": "e0d81682e2bb5e5146fcac351eaa187c",
-      "title": "Former Pakistan captain Sarfaraz Ahmed retires from international cricket",
-      "summary": "He finishes with 54 Tests, 117 ODIs and 61 T20Is and as the only Pakistan captain since Imran Khan to have lifted a 50-over ICC trophy",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528050.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/352100/352104.jpg",
-      "published_at": "2026-03-15T14:25:52.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పాకిస్థాన్ మాజీ కెప్టెన్ సర్ఫరాజ్ అహ్మద్ అంతర్జాతీయ క్రికెట్‌కు రిటైర్మెంట్ ప్రకటించాడు",
-      "summary_te": "అతను 54 టెస్టులు, 117 ODIలు మరియు 61 T20Iలతో ముగించాడు మరియు ఇమ్రాన్ ఖాన్ తర్వాత 50 ఓవర్ల ICC ట్రోఫీని ఎత్తిన ఏకైక పాక్ కెప్టెన్‌గా నిలిచాడు.",
       "translated": true
     }
   ]

@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-17T07:57:37.732Z",
-  "updated_at_IST": "17/3/2026, 1:27:37 pm",
+  "updated_at": "2026-03-17T08:50:54.030Z",
+  "updated_at_IST": "17/3/2026, 2:20:54 pm",
   "category": "telangana",
-  "count": 22,
+  "count": 23,
   "articles": [
+    {
+      "id": "972ec4322889dae5d1531fe8b2d70db6",
+      "title": "Container truck hits under-construction foot overbridge in Mehdipatnam",
+      "summary": "A container vehicle struck an under-construction foot overbridge in Mehdipatnam in the early hours of Tuesday, leading to a brief traffic congestion in the area.The incident was reported at around 5.30 a.m. when the vehicle attempted to pass beneath the structure but failed to clear it due to its height. The top portion of the container brushed against the bridge, resulting in minor damage.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/container-truck-hits-under-construction-foot-overbridge-in-mehdipatnam/article70752521.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-17T05:27:22.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మెహదీపట్నంలో నిర్మాణంలో ఉన్న ఫుట్ ఓవర్ బ్రిడ్జిని కంటైనర్ ట్రక్ ఢీకొట్టింది",
+      "summary_te": "మంగళవారం తెల్లవారుజామున మెహదీపట్నంలో నిర్మాణంలో ఉన్న ఫుట్ ఓవర్‌బ్రిడ్జిని కంటైనర్ వాహనం ఢీకొట్టడంతో ఆ ప్రాంతంలో కొద్దిసేపు ట్రాఫిక్ స్తంభించింది. ఈ సంఘటన ఉదయం 5.30 గంటలకు నివేదించబడింది, వాహనం నిర్మాణం కిందకి వెళ్లడానికి ప్రయత్నించింది, కానీ దాని ఎత్తు కారణంగా దానిని క్లియర్ చేయడంలో విఫలమైంది. కంటైనర్ యొక్క పై భాగం వంతెనకు వ్యతిరేకంగా బ్రష్ చేయబడింది, ఫలితంగా చిన్న నష్టం జరిగింది.",
+      "translated": true
+    },
+    {
+      "id": "7853727da7b365521c14c3bc72dc1b7d",
+      "title": "Two AC mechanics robbed of ₹1 crore after assailants throw chilli powder at them in Hyderabad’s Kukatpally",
+      "summary": "The suspects snatched a Gold Drop carton box containing ₹1 crore in cash",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-ac-mechanics-robbed-of-1-crore-after-assailants-throw-chilli-powder-at-them-in-hyderabads-kukatpally/article70752432.ece",
+      "image": null,
+      "published_at": "2026-03-17T03:37:12.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "హైదరాబాద్‌లోని కూకట్‌పల్లిలో ఇద్దరు ఏసీ మెకానిక్‌లపై దుండగులు కారం పొడి చల్లి కోటి రూపాయల నగదు దోచుకున్నారు.",
+      "summary_te": "కోటి రూపాయల నగదు ఉన్న గోల్డ్ డ్రాప్ కార్టన్ బాక్స్‌ను నిందితులు ఎత్తుకెళ్లారు",
+      "translated": true
+    },
+    {
+      "id": "7e02d8910ed7b2c16fa5f979c8125851",
+      "title": "Ten injured after pharma company bus overturns in Miyapur",
+      "summary": "According to the police, the mini-bus belonging to Lee Pharma overturned on the road near the Tata Motors stretch towards Bachupally",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ten-injured-after-pharma-company-bus-overturns-in-miyapur/article70752452.ece",
+      "image": "https://th-i.thgim.com/public/incoming/hb3njv/article70752451.ece/alternates/LANDSCAPE_1200/Miyapur%20bus%20accident%20.jpeg",
+      "published_at": "2026-03-17T03:27:13.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మియాపూర్‌లో ఫార్మా కంపెనీ బస్సు బోల్తా పడి పది మందికి గాయాలు",
+      "summary_te": "పోలీసులు తెలిపిన వివరాల ప్రకారం.. బాచుపల్లి వైపు టాటా మోటార్స్‌ వద్ద రోడ్డుపై లీ ఫార్మాకు చెందిన మినీ బస్సు బోల్తా పడింది.",
+      "translated": true
+    },
     {
       "id": "69360a5b4a881d4b3ccc89f10e4b29ca",
       "title": "‘Displeased’ Jeevan Reddy leads maize farmers’ rally in Jagtial against Govt",
@@ -30,20 +72,6 @@
       "language": "en",
       "title_te": "సీఎం రేవంత్ రెడ్డికి ఆర్థికవేత్త అరవింద్ సుబ్రమణియన్ భేటీ అయ్యారు",
       "summary_te": "ఆర్థికవేత్త అరవింద్ సుబ్రమణియన్ ఈరోజు అసెంబ్లీలో ముఖ్యమంత్రి ఎ. రేవంత్ రెడ్డిని మర్యాదపూర్వకంగా కలిశారు. సమావేశంలో రాష్ట్ర ఆర్థిక పరిస్థితిని బలోపేతం చేసేందుకు ఆర్థికవేత్త సీఎంకు విలువైన సూచనలు చేశారు. రాష్ట్ర ఆర్థిక వ్యవస్థను బలోపేతం చేసేందుకు ప్రణాళికాబద్ధంగా, వ్యూహాత్మకంగా రాష్ట్రం ముందుకు సాగాలని సుబ్రమణియన్ ఉద్ఘాటించారు.విద్యుత్ రంగంలో ప్రవేశపెట్టిన సంస్కరణలు, స్టాంపులు, రిజిస్ట్రేషన్లు, జీఎస్టీ సంబంధిత విషయాల గురించి సీఎం, డిప్యూటీ సీఎం భట్టి విక్రమార్క సుబ్రమణియన్‌కు వివరించారు. ఇంధన రంగానికి అయ్యే ఖర్చు, రిజిస్ట్రేషన్‌ శాఖ ద్వారా వచ్చే ఆదాయం, జీఎస్టీ కింద పన్నుల అంచనాలపై ఈ సమావేశంలో కూలంకషంగా చర్చించారు. రెవెన్యూ మంత్రి పొంగులేటి శ్రీనివాస రెడ్డి, ముఖ్య కార్యదర్శి కె. రామకృష్ణారావు, ఇతర ఉన్నతాధికారులు పాల్గొన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "7a5194ada4aec50275b3556b7bbb489b",
-      "title": "TGCHE introduces UG/PG courses in new framework",
-      "summary": "The Telangana Council of Higher Education (TGCHE) on Monday released a brochure to introduce multidisciplinary undergraduate and postgraduate programmes in emerging areas.The new academic initiatives, which will be offered alongside the existing courses in universities and colleges, are designed to align higher education in Telangana with emerging global trends, industry requirements and aspirations of the youth. The courses will span a range of emerging fields including Artificial Intelligence, Cyber Security, FinTech, Defence and Security Studies, Aviation and Air Traffic Management, Tourism and Hospitality, Healthcare Management, Biomedical Sciences, Climate Science, Rural Development and Maritime Management.Chairman V. Balakista Reddy said the key feature of the new academic framework is the CORE-PURE-RARE model, which integrates urban, peri-urban and rural perspectives into higher education. Under this model, students will participate in credit-based coursework, field work and projects that address the developmental needs of different regions of the State, thereby contributing to inclusive and balanced regional development.The programmes are student-friendly features with flexible three-year and four-year undergraduate structures, multiple entry and exit options, and the Academic Bank of Credits to allow students to pause and resume their studies without losing academic progress. Internships, industry projects and field-based learning will form an integral part of the curriculum.The Council also proposes to introduce an AI Tutor initiative to assist students in doubt clarification, bilingual explanations, coding support and academic guidance.TGCHE will conduct awareness programmes on these new courses, and the same will be broadcast on T-SAT from 3 p.m. to 5 p.m. Tuesday onwards.The programme can be viewed on ’https://youtube.com/live/4Gv07daaH2s’.",
-      "url": "https://www.thehindu.com/news/national/telangana/tgche-introduces-ugpg-courses-in-new-framework/article70750311.ece",
-      "image": "https://th-i.thgim.com/public/incoming/cu7oee/article70751348.ece/alternates/LANDSCAPE_1200/img_8825.jpg",
-      "published_at": "2026-03-16T16:53:08.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "TGCHE కొత్త ఫ్రేమ్‌వర్క్‌లో UG/PG కోర్సులను పరిచయం చేసింది",
-      "summary_te": "తెలంగాణ ఉన్నత విద్యా మండలి (TGCHE) సోమవారం వర్ధమాన ప్రాంతాలలో మల్టీడిసిప్లినరీ అండర్ గ్రాడ్యుయేట్ మరియు పోస్ట్ గ్రాడ్యుయేట్ ప్రోగ్రామ్‌లను పరిచయం చేయడానికి ఒక బ్రోచర్‌ను విడుదల చేసింది. విశ్వవిద్యాలయాలు మరియు కళాశాలలలో ప్రస్తుత కోర్సులతో పాటుగా అందించబడే కొత్త విద్యా కార్యక్రమాలు తెలంగాణలోని ఉన్నత విద్యను అభివృద్ధి చెందుతున్న ప్రపంచ పోకడలు, యువత అవసరాలు మరియు స్పూర్తితో రూపొందించడానికి రూపొందించబడ్డాయి. ఈ కోర్సులు ఆర్టిఫిషియల్ ఇంటెలిజెన్స్, సైబర్ సెక్యూరిటీ, ఫిన్‌టెక్, డిఫెన్స్ అండ్ సెక్యూరిటీ స్టడీస్, ఏవియేషన్ అండ్ ఎయిర్ ట్రాఫిక్ మేనేజ్‌మెంట్, టూరిజం అండ్ హాస్పిటాలిటీ, హెల్త్‌కేర్ మేనేజ్‌మెంట్, బయోమెడికల్ సైన్సెస్, క్లైమేట్ సైన్స్, రూరల్ డెవలప్‌మెంట్ మరియు మారిటైమ్ మేనేజ్‌మెంట్‌తో సహా అభివృద్ధి చెందుతున్న రంగాల పరిధిని విస్తరించాయి. ఉన్నత విద్యలో పట్టణ, పట్టణ మరియు గ్రామీణ దృక్కోణాలను ఏకీకృతం చేసే మోడల్. ఈ మోడల్ కింద, విద్యార్థులు క్రెడిట్ ఆధారిత కోర్సులు, ఫీల్డ్ వర్క్ మరియు రాష్ట్రంలోని వివిధ ప్రాంతాల అభివృద్ధి అవసరాలను తీర్చే ప్రాజెక్ట్‌లలో పాల్గొంటారు, తద్వారా సమగ్ర మరియు సమతుల్య ప్రాంతీయ అభివృద్ధికి దోహదపడతారు. ఈ ప్రోగ్రామ్‌లు విద్యార్థి-స్నేహపూర్వక ఫీచర్లు, సౌకర్యవంతమైన మూడు సంవత్సరాల మరియు నాలుగు సంవత్సరాల అండర్ గ్రాడ్యుయేట్ నిర్మాణాలు, బహుళ ప్రవేశ మరియు నిష్క్రమణ ఎంపికలు. ఇంటర్న్‌షిప్‌లు, ఇండస్ట్రీ ప్రాజెక్ట్‌లు మరియు ఫీల్డ్-బేస్డ్ లెర్నింగ్ పాఠ్యాంశాల్లో అంతర్భాగంగా ఉంటాయి. విద్యార్థులకు సందేహాల స్పష్టీకరణ, ద్విభాషా వివరణలు, కోడింగ్ సపోర్ట్ మరియు అకడమిక్ గైడెన్స్‌లో సహాయం చేయడానికి AI ట్యూటర్ చొరవను ప్రవేశపెట్టాలని కౌన్సిల్ ప్రతిపాదించింది. TGCHE ఈ కొత్త కోర్సులపై అవగాహన కార్యక్రమాలను నిర్వహిస్తుంది. వరకు 5 p.m. మంగళవారం నుండి. ప్రోగ్రామ్‌ను 'https://youtube.com/live/4Gv07daaH2s'లో వీక్షించవచ్చు.",
       "translated": true
     },
     {
@@ -245,7 +273,7 @@
     {
       "id": "4048f4e9d86746d5c4c73190ae08a140",
       "title": "EV charging equipment maker Exicom opens plant in Hyderabad",
-      "summary": "EV charging and critical power solutions manufacturer Exicom Tele-Systems has inaugurated an integrated manufacturing facility in Hyderabad.The facility is spread across 18.4 acres and developed with an investment of ₹216 crore. With a total built-up area of 2.80 lakh sq ft feet, the plant expands the company’s manufacturing footprint and creating more than 750 jobs in the region, Exicom said.",
+      "summary": "",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/ev-charging-equipment-maker-exicom-opens-plant-in-hyderabad/article70750445.ece",
       "image": "https://th-i.thgim.com/public/news/national/telangana/kk6u8a/article70750438.ece/alternates/LANDSCAPE_1200/Exicom%20factory.jpg",
       "published_at": "2026-03-16T15:23:12.000Z",
@@ -253,7 +281,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "EV ఛార్జింగ్ పరికరాల తయారీ సంస్థ ఎక్సికామ్ హైదరాబాద్‌లో ప్లాంట్‌ను ప్రారంభించింది",
-      "summary_te": "EV ఛార్జింగ్ మరియు క్రిటికల్ పవర్ సొల్యూషన్స్ తయారీదారు ఎక్సికామ్ టెలి-సిస్టమ్స్ హైదరాబాద్‌లో సమీకృత తయారీ కేంద్రాన్ని ప్రారంభించింది. ఈ సదుపాయం 18.4 ఎకరాల్లో విస్తరించి ₹216 కోట్ల పెట్టుబడితో అభివృద్ధి చేయబడింది. మొత్తం 2.80 లక్షల చదరపు అడుగుల విస్తీర్ణంతో, ప్లాంట్ కంపెనీ తయారీ పాదముద్రను విస్తరిస్తుంది మరియు ఈ ప్రాంతంలో 750 కంటే ఎక్కువ ఉద్యోగాలను సృష్టిస్తుందని ఎక్సికామ్ తెలిపింది.",
+      "summary_te": "",
       "translated": true
     },
     {
@@ -296,20 +324,6 @@
       "language": "en",
       "title_te": "సికింద్రాబాద్ కంటోన్మెంట్‌లోని పౌర సమస్యలను పరిష్కరించాలని డిఫెన్స్ ఎస్టేట్‌లను నిర్వాసితులు కోరారు",
       "summary_te": "తనఖా నియమాలు, అదనపు ఆస్తి బదిలీ ఛార్జీలు మరియు ఎన్నికలలో జాప్యాన్ని ఫ్లాగ్ చేయండి",
-      "translated": true
-    },
-    {
-      "id": "c2cbdf17081ee2a3d0103018f5a2dc06",
-      "title": "Delay in Secunderabad Cantonment elections hurting governance, says former official",
-      "summary": "Former vice-president of Secunderabad Cantonment Board (SCB), Jampanna Pratap, gave a memorandum to the senior Defence Estate Officer C. Ravindra, raising concerns over the prolonged delay in conducting elections to Cantonment Boards, stating that the absence of elected representatives has weakened democratic governance and stalled developmental activities in cantonment areas.According to Mr. Pratap, proposals circulated by the Parliament Secretariat suggested that the election of the vice-president and other board members be conducted on party symbols, similar to municipal elections. Another proposal involved merging Cantonment Boards with nearby urban local bodies. A six-member committee was constituted to study the merger proposal and visited several Cantonment Boards across the country before submitting its report. However, no final decision has been taken so far.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/delay-in-secunderabad-cantonment-elections-hurting-governance-says-former-official/article70750184.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-16T14:43:10.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "సికింద్రాబాద్‌ కంటోన్మెంట్‌ ఎన్నికల ఆలస్యం పాలనను దెబ్బతీస్తోందని మాజీ అధికారి తెలిపారు",
-      "summary_te": "ప్రజాప్రతినిధుల గైర్హాజరు, ప్రజాప్రతినిధుల గైర్హాజరు, ప్రాంతా ల్లో అభివృద్ధి స్తంభించిపోయిందని, కంటోన్మెంట్‌ బోర్డులకు ఎన్నికలు నిర్వహించడంలో సుదీర్ఘ జాప్యంపై ఆందోళన వ్యక్తం చేస్తూ సికింద్రాబాద్‌ కంటోన్‌మెంట్‌ బోర్డు (ఎస్‌సీబీ) మాజీ ఉపాధ్యక్షుడు జంపన్న ప్రతాప్‌ సీనియర్‌ డిఫెన్స్‌ ఎస్టేట్‌ ఆఫీసర్‌ సి.రవీంద్రకు మెమోరాండం ఇచ్చారు. మునిసిపల్ ఎన్నికల మాదిరిగానే వైస్ ప్రెసిడెంట్ మరియు ఇతర బోర్డు సభ్యుల ఎన్నికలను పార్టీ గుర్తులపైనే నిర్వహించాలని పార్లమెంట్ సెక్రటేరియట్ పంపిన ప్రతిపాదనలు సూచించాయి. కంటోన్మెంట్ బోర్డులను సమీపంలోని పట్టణ స్థానిక సంస్థలతో విలీనం చేయడం మరో ప్రతిపాదన. విలీన ప్రతిపాదనను అధ్యయనం చేయడానికి ఆరుగురు సభ్యుల కమిటీని ఏర్పాటు చేశారు మరియు దాని నివేదికను సమర్పించే ముందు దేశవ్యాప్తంగా అనేక కంటోన్మెంట్ బోర్డులను సందర్శించారు. అయితే ఇప్పటి వరకు ఎలాంటి తుది నిర్ణయం తీసుకోలేదు.",
       "translated": true
     }
   ]
