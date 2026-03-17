@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T22:34:44.740Z",
-  "updated_at_IST": "18/3/2026, 4:04:44 am",
+  "updated_at": "2026-03-17T23:33:32.798Z",
+  "updated_at_IST": "18/3/2026, 5:03:32 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "76728afdffb32025c6973f58b16fb852",
+      "title": "Haddin named New South Wales head coach",
+      "summary": "The former wicketkeeper-batter takes over from Greg Shipperd after a messy few months for the state",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528186.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/391400/391455.jpg",
+      "published_at": "2026-03-17T23:07:52.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హాడిన్ న్యూ సౌత్ వేల్స్ ప్రధాన కోచ్‌గా నియమితులయ్యారు",
+      "summary_te": "మాజీ వికెట్ కీపర్-బ్యాటర్ రాష్ట్రం కోసం కొన్ని నెలల గందరగోళం తర్వాత గ్రెగ్ షిప్పర్డ్ నుండి బాధ్యతలు స్వీకరించాడు",
+      "translated": true
+    },
     {
       "id": "635b91f5479f05558729bfe53405b836",
       "title": "Can England's regime change to meet post-Ashes realities?",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "పీక్ యొక్క వేగవంతమైన పెరుగుదల MLCకి చేరుకుంది, అయితే మొదట షెఫీల్డ్ షీల్డ్ ఫైనల్",
       "summary_te": "19 ఏళ్ల లెఫ్ట్ హ్యాండర్ అండర్-19 డ్యూటీ నుంచి తిరిగి వచ్చిన తర్వాత ఫస్ట్-క్లాస్ క్రికెట్‌ను కఠినంగా ఎదుర్కొన్నాడు, అయితే అర్ధ సెంచరీతో ఫైనల్‌కు చేరుకున్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "9422dfc04118cac42256b4f7a031bfd3",
-      "title": "Kuhnemann hits maiden fifty to give Tasmania control after fire alarm stops play",
-      "summary": "Half-centuries from Jordan Silk and Jake Doran built the home side's lead after an usual delay during the morning session",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528092.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414721.jpg",
-      "published_at": "2026-03-16T08:17:15.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఫైర్ అలారం ఆట ఆగిపోయిన తర్వాత టాస్మానియా నియంత్రణను అందించడానికి కుహ్నెమాన్ తొలి ఫిఫ్టీ కొట్టాడు",
-      "summary_te": "జోర్డాన్ సిల్క్ మరియు జేక్ డోరన్ హాఫ్ సెంచరీలు మార్నింగ్ సెషన్‌లో సాధారణ ఆలస్యం తర్వాత ఆతిథ్య జట్టు ఆధిక్యాన్ని పెంచారు",
       "translated": true
     }
   ]

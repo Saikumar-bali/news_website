@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-17T22:34:44.740Z",
-  "updated_at_IST": "18/3/2026, 4:04:44 am",
+  "updated_at": "2026-03-17T23:33:32.798Z",
+  "updated_at_IST": "18/3/2026, 5:03:32 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "51295fe6544042006f1a88ec6d7b6428",
+      "title": "Iran War Live Updates: Iran Confirms Top Security Leader Ali Larijani Killed In Israeli Strike",
+      "summary": "US-Israel-Iran War News LIVE Updates: The war in the Middle East broke out when the US and Israel attacked Iran on February 28.",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/rb5t5vak_ali-larijani_625x300_18_March_26.jpeg",
+      "published_at": "2026-03-17T22:17:42.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ వార్ లైవ్ అప్‌డేట్‌లు: ఇజ్రాయెల్ దాడిలో అలీ లారిజానీ మరణించినట్లు ఇరాన్ ధృవీకరించింది",
+      "summary_te": "US-Israel-Iran War News LIVE Updates: ఫిబ్రవరి 28న ఇరాన్‌పై US మరియు ఇజ్రాయెల్ దాడి చేయడంతో మధ్యప్రాచ్యంలో యుద్ధం మొదలైంది.",
+      "translated": true
+    },
     {
       "id": "ae53bb82528aad5743bc0503a177d4fc",
       "title": "'Eid ul Fitr on Friday': UAE Fatwa Council clarifies as prayer confusion goes viral",
@@ -16,6 +30,20 @@
       "language": "en",
       "title_te": "'శుక్రవారం ఈద్ ఉల్ ఫితర్': ప్రార్థన గందరగోళం వైరల్ కావడంతో UAE ఫత్వా కౌన్సిల్ స్పష్టం చేసింది",
       "summary_te": "ఈద్ ఉల్ ఫితర్ 2026లో శుక్రవారం నాడు వచ్చే అవకాశం ఉన్నందున, ఈద్ మరియు జుమ్మా ప్రార్థనలు రెండూ తప్పనిసరి మరియు విడివిడిగా నిర్వహించాలని UAE ఫత్వా కౌన్సిల్ స్పష్టం చేసింది. ఈ తీర్పు UAEలోని ముస్లింలకు మతపరమైన ఆచారాలు మరియు మతపరమైన ఆరాధనలో స్థిరత్వాన్ని బలపరుస్తూ, ప్రతి ప్రార్థన యొక్క ప్రత్యేక ప్రాముఖ్యతను నొక్కి చెబుతుంది.",
+      "translated": true
+    },
+    {
+      "id": "7085fcfa8fa328f2f81973a5f749ee47",
+      "title": "Israel Vows To \"Neutralise\" Iran's New Supreme Leader Mojtaba Khamenei",
+      "summary": "Israel's military on Tuesday vowed to hunt down and \"neutralise\" Iran's new supreme leader Mojtaba Khamenei, after saying it had killed the Islamic republic's powerful national security chief in an airstrike.",
+      "url": "https://www.ndtv.com/world-news/iran-war-israel-vows-to-neutralise-irans-new-supreme-leader-mojtaba-khamenei-11230362#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/6le9mqq8_mojtaba-khamenei-afp_625x300_17_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-17T22:00:58.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ యొక్క కొత్త సుప్రీం లీడర్ మొజ్తాబా ఖమేనీని \"తటస్థీకరించడానికి\" ఇజ్రాయెల్ ప్రతిజ్ఞ చేసింది",
+      "summary_te": "ఇస్లామిక్ రిపబ్లిక్ యొక్క శక్తివంతమైన జాతీయ భద్రతా చీఫ్‌ను వైమానిక దాడిలో చంపినట్లు ఇరాన్ యొక్క కొత్త సుప్రీం నాయకుడు మోజ్తాబా ఖమేనీని వేటాడి మరియు \"తటస్థీకరిస్తాము\" అని ఇజ్రాయెల్ సైన్యం మంగళవారం ప్రతిజ్ఞ చేసింది.",
       "translated": true
     },
     {
@@ -33,6 +61,20 @@
       "translated": true
     },
     {
+      "id": "19f9154940a1023c03bb2d6f4bd9255e",
+      "title": "\"Achieved Martyrdom\": Iran Confirms Death Of Security Chief Larijani",
+      "summary": "Iran's Supreme National Security Council on Tuesday confirmed the death of its chief Ali Larijani, after Israel said it had killed him in an air strike.",
+      "url": "https://www.ndtv.com/world-news/achieved-martyrdom-iran-confirms-death-of-security-chief-larijani-11230319#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/pok3n7j8_larijani_625x300_18_March_26.jpeg",
+      "published_at": "2026-03-17T21:44:44.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "\"అచీవ్డ్ బలిదానం\": భద్రతా చీఫ్ లారిజానీ మరణాన్ని ఇరాన్ ధృవీకరించింది",
+      "summary_te": "ఇరాన్ యొక్క సుప్రీం జాతీయ భద్రతా మండలి మంగళవారం దాని చీఫ్ అలీ లారిజానీ మరణాన్ని ధృవీకరించింది, ఇజ్రాయెల్ వైమానిక దాడిలో అతన్ని చంపినట్లు తెలిపింది.",
+      "translated": true
+    },
+    {
       "id": "4f008a2fdc8ea841252a4d88d2d469b7",
       "title": "‘BJP diluting rural job scheme’: Chhattisgarh Congress stages protest",
       "summary": "Accusing the Bharatiya Janata Party (BJP)-led Central government of weakening the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) by replacing it with Viksit Bharat Guarantee for Rozgar and Aajeevika Mission (Gramin) (VB G-RAM-G), the Opposition Congress staged a gherao of the Chhattisgarh Assembly on Tuesday (March.Senior party leaders were present at the protest over changes in the employment guarantee scheme and local issues such as “electricity tariff hikes, betrayal of farmers, failure to fulfil promises regarding paddy procurement, rising gas cylinder prices, deteriorating law and order, and the cultivation and trade of narcotics within the State”.Addressing the gathering, AICC general secretary in-charge of Chhattisgarh Sachin Pilot alleged that the Narendra Modi government at the Centre intended to discontinue the employment guarantee schemer. “Previously, 90% of the funds for the scheme were disbursed by the Central governmenti. Now, they have imposed a 60:40 funding ratio upon the States. Furthermore, the authority to take decisions regarding the execution of various projects — such as the construction of fields, threshing floors, wells, and ponds — has been taken away from the gram panchayats,” he said.Former Chief Minister Bhupesh Baghel alleged that while scheme had enabled millions of families secure employment and the BJP was actively working to strip away these rights and deprive people of their rights and entitlements.Earlier, Congress MLAs, including Mr. Baghel and Leader of the Opposition Charan Das Mahant, raised the issue inside the Assembly and moved an adjournment motion. The adjournment motion was disallowed by the Chair following which the Congress MLAs staged a walkout.",
@@ -42,7 +84,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "‘గ్రామీణ ఉద్యోగ పథకాన్ని నిర్వీర్యం చేస్తున్న బీజేపీ’: ఛత్తీస్‌గఢ్‌లో కాంగ్రెస్‌ నిరసన తెలిపింది",
+      "title_te": "‘గ్రామీణ ఉద్యోగాల పథకాన్ని నిర్వీర్యం చేస్తున్న బీజేపీ’: ఛత్తీస్‌గఢ్‌లో కాంగ్రెస్‌ నిరసన చేపట్టింది",
       "summary_te": "భారతీయ జనతా పార్టీ (బిజెపి) నేతృత్వంలోని కేంద్ర ప్రభుత్వం మహాత్మా గాంధీ జాతీయ గ్రామీణ ఉపాధి హామీ చట్టాన్ని (ఎంజిఎన్‌ఆర్‌ఇజిఎ) నిర్వీర్యం చేసిందని ఆరోపిస్తూ దాని స్థానంలో రోజ్‌గార్ మరియు ఆజీవిక మిషన్ (గ్రామీన్) (విబి జి-రామ్-జి) కోసం విక్షిత్ భారత్ గ్యారెంటీని ప్రవేశపెట్టింది. ఉపాధి హామీ పథకంలో మార్పులు, విద్యుత్ ఛార్జీల పెంపు, రైతులకు ద్రోహం, వరి ధాన్యం కొనుగోలుకు సంబంధించిన హామీలను నెరవేర్చకపోవడం, గ్యాస్ సిలిండర్ ధరలు పెరగడం, శాంతిభద్రతలు క్షీణించడం, రాష్ట్రంలో మాదక ద్రవ్యాల సాగు, వ్యాపారం వంటి స్థానిక సమస్యలపై పార్టీ నాయకులు నిరసన వ్యక్తం చేశారు. కేంద్రంలోని మోడీ ప్రభుత్వం ఉపాధి హామీ పథకానికి స్వస్తి చెప్పాలని భావించింది, “గతంలో ఈ పథకానికి 90% నిధులు కేంద్ర ప్రభుత్వం పంపిణీ చేసింది, ఇప్పుడు వారు రాష్ట్రాలపై 60:40 నిధుల నిష్పత్తిని విధించారు. ఇంకా, వివిధ ప్రాజెక్టులు, నేలలు, నిర్మాణాలు వంటి వాటి అమలుకు సంబంధించి నిర్ణయాలు తీసుకునే అధికారం ఉంది. గ్రామపంచాయతీలకు దూరంగా,” అని అన్నారు.మాజీ ముఖ్యమంత్రి భూపేష్ బాఘేల్ ఈ పథకం ద్వారా లక్షలాది కుటుంబాలకు ఉపాధి కల్పించారని, ఈ హక్కులను తొలగించి, ప్రజల హక్కులు, హక్కులను హరించేలా బీజేపీ చురుకుగా పనిచేస్తోందని ఆరోపించారు. సభాపతి అనుమతించకపోవడంతో కాంగ్రెస్‌ ఎమ్మెల్యేలు వాకౌట్‌ చేశారు.",
       "translated": true
     },
@@ -77,7 +119,7 @@
     {
       "id": "c121020d65c874004cd9ef7767d98b71",
       "title": "Ensuring good nutrition for a child is an investment for Viksit Bharat: President Murmu",
-      "summary": "President Murmu serves food to a group of children (PTI photo) President Murmu serves food to a group of children (PTI photo) President Murmu serves food to a group of children (PTI photo) We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
       "url": "https://timesofindia.indiatimes.com/india/ensuring-good-nutrition-for-a-child-is-an-investment-for-viksit-bharat-president-murmu/articleshow/129641782.cms",
       "image": "https://static.toiimg.com/photo/msid-129641792,imgsize-66864.cms",
       "published_at": "2026-03-17T20:58:12.000Z",
@@ -85,7 +127,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పిల్లలకు మంచి పోషకాహారాన్ని అందించడం విక్షిత్ భారత్‌కు పెట్టుబడి: అధ్యక్షుడు ముర్ము",
-      "summary_te": "ప్రెసిడెంట్ ముర్ము పిల్లల సమూహానికి ఆహారాన్ని అందిస్తారు (PTI ఫోటో) ప్రెసిడెంట్ ముర్ము పిల్లల సమూహానికి ఆహారాన్ని అందిస్తారు (PTI ఫోటో) ప్రెసిడెంట్ ముర్ము పిల్లల సమూహానికి ఆహారాన్ని అందిస్తారు (PTI ఫోటో) వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి మరియు మా ప్రేక్షకులు ఎక్కడ నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -100,6 +142,20 @@
       "language": "en",
       "title_te": "LPG కొరతను పరిష్కరించడంలో కేంద్రం మరియు రాష్ట్ర ప్రభుత్వం విఫలమయ్యాయి: NCP-SP నాయకుడు జయంత్ పాటిల్",
       "summary_te": "మహారాష్ట్రలో ఎల్‌పిజి కొరత కారణంగా పంపిణీ కేంద్రాల వెలుపల క్యూలో నిల్చున్న ప్రజలు భయాందోళనకు గురయ్యారు",
+      "translated": true
+    },
+    {
+      "id": "72baefa6875fea48628ed99fe4aa3b75",
+      "title": "Eugenie Bouchard reveals truth behind Emma Raducanu struggles after US Open win",
+      "summary": "Eugenie Bouchard said early Grand Slam success brought heavy pressure, comparing her journey with Emma Raducanu. Both players achieved big results at a young age but faced tough expectations later. Bouchard also reflected on her emotional retirement after the 2025 Canadian Open in Montreal and said ending her career at home felt right and complete.",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/eugenie-bouchard-reveals-harsh-truth-behind-emma-raducanu-struggles-after-us-open-win-and-rising-grand-slam-pressure/articleshow/129641765.cms",
+      "image": "https://static.toiimg.com/photo/msid-129641762,imgsize-2356775.cms",
+      "published_at": "2026-03-17T20:44:19.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "యుజెనీ బౌచర్డ్ US ఓపెన్ విజయం తర్వాత ఎమ్మా రాడుకాను కష్టాల వెనుక ఉన్న నిజాన్ని బయటపెట్టారు",
+      "summary_te": "తన ప్రయాణాన్ని ఎమ్మా రాడుకానుతో పోల్చుతూ తొలి గ్రాండ్‌స్లామ్ విజయం తీవ్ర ఒత్తిడిని తెచ్చిందని యూజీనీ బౌచర్డ్ అన్నారు. ఇద్దరు ఆటగాళ్లు చిన్న వయస్సులోనే పెద్ద ఫలితాలు సాధించారు కానీ తర్వాత కఠినమైన అంచనాలను ఎదుర్కొన్నారు. బౌచర్డ్ మాంట్రియల్‌లో 2025 కెనడియన్ ఓపెన్ తర్వాత ఆమె భావోద్వేగ రిటైర్మెంట్ గురించి కూడా ప్రతిబింబించింది మరియు ఇంట్లో తన కెరీర్‌ను ముగించడం సరైనదని మరియు సంపూర్ణంగా ఉందని అన్నారు.",
       "translated": true
     },
     {
@@ -397,20 +453,6 @@
       "translated": true
     },
     {
-      "id": "51295fe6544042006f1a88ec6d7b6428",
-      "title": "Iran War Live Updates: US Does 'Not Need' Help From Allies On Iran, Says Trump",
-      "summary": "US-Israel-Iran War News LIVE Updates: The war in the Middle East broke out when the US and Israel attacked Iran on February 28.",
-      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-news-updates-donald-trump-mojtaba-khamenei-dubai-uae-baghdad-kuwait-airport-11217035#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/pfdquc1o_ali-larijani-gholamreza-soleimani_625x300_17_March_26.jpeg",
-      "published_at": "2026-03-17T18:57:43.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్ వార్ లైవ్ అప్‌డేట్‌లు: ఇరాన్‌పై మిత్రదేశాల సహాయం అమెరికాకు 'అవసరం లేదు' అని ట్రంప్ చెప్పారు",
-      "summary_te": "US-Israel-Iran War News LIVE Updates: ఫిబ్రవరి 28న ఇరాన్‌పై US మరియు ఇజ్రాయెల్ దాడి చేయడంతో మధ్యప్రాచ్యంలో యుద్ధం మొదలైంది.",
-      "translated": true
-    },
-    {
       "id": "aa4f23207b1f1a97c5e26f0a5e60af22",
       "title": "Israel Has 'Won' War With Iran, Foreign Minister Says, But Goals Remain Unmet",
       "summary": "Israeli Foreign Minister Gideon Saar said on Tuesday the country had effectively won its war with Iran, but gave no indication of when the conflict might end, saying only that the campaign would continue until its objectives were achieved.",
@@ -448,7 +490,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "పాకిస్తాన్-ఆఫ్ఘనిస్తాన్ వివాదం ముఖ్యాంశాలు: ఆసుపత్రిపై పాక్ దాడులు 'మానవత్వానికి వ్యతిరేకంగా నేరం' అని తాలిబాన్ పేర్కొంది",
+      "title_te": "పాకిస్థాన్-ఆఫ్ఘనిస్థాన్ ఘర్షణ ముఖ్యాంశాలు: ఆసుపత్రిపై పాక్ దాడులు 'మానవత్వానికి వ్యతిరేకంగా నేరం' అని తాలిబాన్ పేర్కొంది",
       "summary_te": "పాకిస్తాన్-ఆఫ్ఘనిస్తాన్ సంఘర్షణ ప్రత్యక్ష నవీకరణలు: ఆఫ్ఘనిస్తాన్ రాజధాని కాబూల్‌లోని ఆసుపత్రిపై పాకిస్తాన్ వైమానిక దాడిలో కనీసం 400 మంది మరణించారని తాలిబాన్ ప్రతినిధి తెలిపారు.",
       "translated": true
     },
@@ -677,20 +719,6 @@
       "translated": true
     },
     {
-      "id": "fffe67c8b7dc6d8d4261b1789a8d7895",
-      "title": "Nirav Modi uses Bhandari judgment in bid to ‘reopen’ his extradition",
-      "summary": "Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/nirav-modi-uses-bhandari-judgment-in-bid-to-reopen-his-extradition/articleshow/129639780.cms",
-      "image": "https://static.toiimg.com/photo/msid-129639825,imgsize-547591.cms",
-      "published_at": "2026-03-17T18:17:34.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "నీరవ్ మోదీ తన అప్పగింతను 'తిరిగి తెరవడానికి' భండారీ తీర్పును ఉపయోగించారు",
-      "summary_te": "రుణం కోసం నెలవారీ వాయిదా మొత్తాన్ని నిర్ణయించండి SIPల ద్వారా చేసిన పెట్టుబడులపై రాబడిని అంచనా వేయండి, PPF చెక్ మెచ్యూరిటీ మొత్తం మరియు FDపై ఆర్జించిన వడ్డీని కనుగొనండి, NPS కింద సేకరించబడిన పెన్షన్ మొత్తం మరియు కార్పస్‌ను అంచనా వేయండి A మ్యూచువల్ ఫండ్ కాలిక్యులేటర్ మేము సేవలను అందించడానికి కుకీలు మరియు ఇతర పెట్టుబడులను ట్రాక్ చేయడంలో మేము టెక్నాలజీలు మరియు ఇతర పెట్టుబడుల యొక్క భవిష్యత్తు విలువను అంచనా వేయడానికి సహాయపడుతుంది. వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడం, సైట్ ట్రాఫిక్‌ను విశ్లేషించడం మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడం కోసం మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడం. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
       "id": "35f78bf80d2e5281af52ce19d5d79d32",
       "title": "Bengaluru Woman Tried To \"Courier\" Father In Sack For Reel. This Happened Next",
       "summary": "Despite being caught, the family allegedly argued with the employees, insisting that the \"parcel\" be accepted since they had come all the way and \"made the effort\".",
@@ -882,22 +910,8 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "భారతదేశం యొక్క బాస్మతి ఎగుమతులను గల్ఫ్ దేశాలు ఎలా నడుపుతున్నాయో డేటా చూపిస్తుంది",
+      "title_te": "భారతదేశ బాస్మతి ఎగుమతులను గల్ఫ్ దేశాలు ఎలా నడుపుతున్నాయో డేటా చూపిస్తుంది",
       "summary_te": "కీలకమైన సముద్ర చోక్‌పాయింట్ అయిన హార్ముజ్ జలసంధిని ఓడలు తప్పించుకోవడంతో మధ్యప్రాచ్యంలోని వివాదం ఆహార సరఫరా గొలుసులకు అంతరాయం కలిగించడం ప్రారంభించింది.",
-      "translated": true
-    },
-    {
-      "id": "157e68113d5c40a00849133d6698ae92",
-      "title": "Global Shipping Costs Surge As Middle East Tensions Hit Sea Routes",
-      "summary": "As tensions continue in the Middle East, the impact is now spreading beyond land and into global shipping lanes, with the Strait of Hormuz emerging as the epicentre.",
-      "url": "https://www.ndtv.com/world-news/us-iran-war-global-shipping-costs-surge-as-middle-east-tensions-hit-sea-routes-11229859#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-06/o2o3aikk_straitofhormuz_160x120_20_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-17T17:39:50.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ ఉద్రిక్తతలు సముద్ర మార్గాలను తాకడంతో గ్లోబల్ షిప్పింగ్ ఖర్చులు పెరుగుతాయి",
-      "summary_te": "మధ్యప్రాచ్యంలో ఉద్రిక్తతలు కొనసాగుతున్నందున, దీని ప్రభావం ఇప్పుడు భూమిని దాటి ప్రపంచ షిప్పింగ్ లేన్‌లలోకి వ్యాపిస్తోంది, హార్ముజ్ జలసంధి కేంద్రంగా ఉద్భవించింది.",
       "translated": true
     },
     {
@@ -935,7 +949,7 @@
       "url": "https://www.ndtv.com/india-news/kerala-assembly-polls-2026-bjp-releases-first-list-of-47-names-for-kerala-polls-11222939#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-03/h76j9t7k_bjp-kerala-_625x300_16_March_26.jpeg",
       "published_at": "2026-03-17T17:21:08.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "కేరళ ఎన్నికల కోసం బీజేపీ 47 పేర్లతో కూడిన తొలి జాబితాను విడుదల చేసింది",
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "గిరిజన గర్భిణుల కోసం ఆంధ్ర ప్రభుత్వం 35 కొత్త వెయిటింగ్ హోమ్‌లను ఏర్పాటు చేయనుంది",
       "summary_te": "గిరిజన గర్భిణుల కోసం ఆంధ్ర ప్రభుత్వం 35 కొత్త వెయిటింగ్ హోమ్‌లను ఏర్పాటు చేయనుంది",
-      "translated": true
-    },
-    {
-      "id": "797ba0e6cf99f40c608376093a62b658",
-      "title": "BJP to contest 89 seats in Assam; leave 37 for allies: Himanta Biswa Sarma",
-      "summary": "Three parties, United Peoples Party Liberal (UPPL), All India United Democratic Front (AIUDF) and Assam Jatiya Parishad (AJP) announced candidates on Tuesday",
-      "url": "https://www.hindustantimes.com/india-news/bjp-to-contest-89-seats-in-assam-leave-37-for-allies-himanta-biswa-sarma-101773754800729.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/17/1600x900/logo/Assam-chief-minister-Himanta-Biswa-Sarma-addresses_1773754794289.jpg",
-      "published_at": "2026-03-17T13:40:00.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "అస్సాంలో 89 స్థానాల్లో పోటీ చేయనున్న బీజేపీ; మిత్రపక్షాలకు 37 వదిలివేయండి: హిమంత బిస్వా శర్మ",
-      "summary_te": "యునైటెడ్ పీపుల్స్ పార్టీ లిబరల్ (UPPL), ఆల్ ఇండియా యునైటెడ్ డెమోక్రటిక్ ఫ్రంట్ (AIUDF), అస్సాం జాతీయ పరిషత్ (AJP) అనే మూడు పార్టీలు మంగళవారం అభ్యర్థులను ప్రకటించాయి.",
       "translated": true
     }
   ]
