@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-18T16:12:42.344Z",
-  "updated_at_IST": "18/3/2026, 9:42:42 pm",
+  "updated_at": "2026-03-18T17:08:12.566Z",
+  "updated_at_IST": "18/3/2026, 10:38:12 pm",
   "category": "telangana",
-  "count": 31,
+  "count": 32,
   "articles": [
+    {
+      "id": "1e5a11941a4ca959eb6758d0c4e2b7fe",
+      "title": "'Chandrababu government has lifted the crop insurance scheme'",
+      "summary": "'Chandrababu Sarkar lifts crop insurance scheme' nsnreddylic Wed, 03/18/2026 - 22:00",
+      "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/lok-sabha-ys-avinash-reddy-fire-chandrababu-govt-2736911",
+      "image": null,
+      "published_at": "2026-03-18T16:30:33.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "‘చంద్రబాబు సర్కార్‌ పంటల బీమా పథకాన్ని ఎత్తేసింది’",
+      "summary_te": "‘చంద్రబాబు సర్కార్‌ పంటల బీమా పథకాన్ని ఎత్తేసింది’ nsnreddylic Wed, 03/18/2026 - 22:00",
+      "translated": true
+    },
+    {
+      "id": "1c6daebf9eb11be68dd0041a77e09290",
+      "title": "Are you pulling cheese and greens?.. But big alert!",
+      "summary": "Are you pulling cheese and greens?.. But big alert! nsnreddylic Wed, 03/18/2026 - 21:40",
+      "url": "https://www.sakshi.com/telugu-news/telangana/massive-seizure-adulterated-paneer-milk-products-secunderabad-2736910",
+      "image": null,
+      "published_at": "2026-03-18T16:10:51.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "పన్నీరు, పచ్చళ్లు తెగ లాగించేస్తున్నారా?.. అయితే బిగ్‌ అలర్ట్‌!",
+      "summary_te": "పన్నీరు, పచ్చళ్లు తెగ లాగించేస్తున్నారా?.. అయితే బిగ్‌ అలర్ట్‌! nsnreddylic Wed, 03/18/2026 - 21:40",
+      "translated": true
+    },
+    {
+      "id": "1f23f4cb2474542d6bec3d6684e98f47",
+      "title": "Trump warned that we did this",
+      "summary": "Think we did this.. Trump's warning tvenkatesh Wed, 03/18/2026 - 21:38",
+      "url": "https://www.sakshi.com/telugu-news/international/trump-takes-potshot-allies-over-his-plans-hormuz-strait-2736909",
+      "image": null,
+      "published_at": "2026-03-18T16:08:04.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "మేము ఇలా చేశామనుకో.. అంటూ ట్రంప్‌ వార్నింగ్‌",
+      "summary_te": "మేము ఇలా చేశామనుకో.. అంటూ ట్రంప్‌ వార్నింగ్‌ tvenkatesh Wed, 03/18/2026 - 21:38",
+      "translated": true
+    },
+    {
+      "id": "29f878d0eedacd5ef5cd20921f46dfa6",
+      "title": "Huge changes in railway ticket booking.. coming soon!",
+      "summary": "Huge changes in railway ticket booking.. coming soon! gbalaji Wed, 03/18/2026 - 21:32",
+      "url": "https://www.sakshi.com/telugu-news/business/big-relief-train-passengers-new-ticket-booking-system-coming-soon-2736908",
+      "image": null,
+      "published_at": "2026-03-18T16:02:45.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "రైల్వే టికెట్ బుకింగ్‌లో భారీ మార్పులు.. త్వరలోనే!",
+      "summary_te": "రైల్వే టికెట్ బుకింగ్‌లో భారీ మార్పులు.. త్వరలోనే! gbalaji Wed, 03/18/2026 - 21:32",
+      "translated": true
+    },
     {
       "id": "7d2a45d06787be63464ab2ae919f70b5",
       "title": "Bigg Boss Divi with curling hair.. Anchor Sreemukhi in orange dress..!",
@@ -30,6 +86,34 @@
       "language": "te",
       "title_te": "ధోని జెర్సీ నంబర్‌ మారనుందా?",
       "summary_te": "ధోని జెర్సీ నంబర్‌ మారనుందా? svarun Wed, 03/18/2026 - 21:20",
+      "translated": true
+    },
+    {
+      "id": "d799be83c014946bceb182d0b1da18d1",
+      "title": "‘Trans rights are human rights’ echoes in Hyderabad as LGBTQIA+ community protests against Transgender Persons Amendment Bill",
+      "summary": "Hyderabad on Wednesday witnessed a strong show of solidarity from the LGBTQIA+ community and their allies, as hundreds gathered at Dharna Chowk raising slogans of ‘Trans rights are human rights’. The protest saw participants draped in pride flags and holding placards voicing opposition to the Transgender Persons (Protection of Rights) Amendment Bill, 2026.A stage was set up at the venue, adorned with the pride flag and a prominent poster reading ‘Reject Trans Bill 2026’. The demonstration was organised in response to the amendment Bill introduced in the Lok Sabha on March 13. The proposed changes seek to alter how transgender identity is defined and officially recognised, including provisions that may require individuals to undergo verification procedures, potentially involving medical scrutiny, before being issued a certificate of identity.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/trans-rights-are-human-rights-echoes-in-hyderabad-as-lgbtqia-community-protests-against-transgender-persons-amendment-bill/article70758171.ece",
+      "image": "https://th-i.thgim.com/public/incoming/eqzc4x/article70758179.ece/alternates/LANDSCAPE_1200/_DSC8619.JPG",
+      "published_at": "2026-03-18T15:49:14.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ట్రాన్స్‌జెండర్ పర్సన్స్ సవరణ బిల్లుకు వ్యతిరేకంగా LGBTQIA+ కమ్యూనిటీ నిరసనలు చేస్తున్నప్పుడు హైదరాబాద్‌లో ‘ట్రాన్స్ హక్కులు మానవ హక్కులు’ ప్రతిధ్వనించాయి.",
+      "summary_te": "బుధవారం హైదరాబాద్‌లో LGBTQIA+ కమ్యూనిటీ మరియు వారి మిత్రపక్షాల నుండి బలమైన సంఘీభావాన్ని ప్రదర్శించారు, వందలాది మంది ధర్నా చౌక్ వద్ద ‘ట్రాన్స్ హక్కులు మానవ హక్కులు’ అనే నినాదాలు చేశారు. ఈ నిరసనలో పాల్గొన్నవారు ప్రైడ్ జెండాలు ధరించి, లింగమార్పిడి వ్యక్తుల (హక్కుల పరిరక్షణ) సవరణ బిల్లు, 2026కు వ్యతిరేకంగా ప్లకార్డులు పట్టుకుని ఉన్నారు. వేదిక వద్ద వేదికను ఏర్పాటు చేశారు, ప్రైడ్ జెండాతో అలంకరించబడి, ‘ట్రాన్స్ బిల్లు 2026ని తిరస్కరించండి’ అని రాసి ఉన్న ప్రముఖ పోస్టర్‌ను ప్రదర్శించారు. మార్చి 13న లోక్‌సభలో ప్రవేశపెట్టిన సవరణ బిల్లుకు ప్రతిస్పందనగా ఈ ప్రదర్శన నిర్వహించబడింది. ప్రతిపాదిత మార్పులు లింగమార్పిడి గుర్తింపును ఎలా నిర్వచించాలో మరియు అధికారికంగా గుర్తించబడతాయో మార్చడానికి ప్రయత్నిస్తాయి, గుర్తింపు సర్టిఫికేట్ జారీ చేయడానికి ముందు వ్యక్తులు ధృవీకరణ విధానాలు, సంభావ్యంగా వైద్య పరిశీలనలో పాల్గొనవలసి ఉంటుంది.",
+      "translated": true
+    },
+    {
+      "id": "3648315c5d313ddf6b971e560586f554",
+      "title": "CSIR-IICT partners with local firm to convert plastic waste to fuel",
+      "summary": "CSIR-Indian Institute of Chemical Technology (CSIR-IICT) on Wednesday signed a memorandum of understanding (MoU) with local firm 2 Degrees Clicon Pvt. Ltd. to collaborate on advanced research in plastic-to-fuel technology.The partnership aims to promote scientific innovation in converting non-recyclable end-of-life plastics into alternative industrial fuels, supporting sustainable waste management while reducing dependence on conventional fossil fuels.Plastic packaging used in fast-moving consumer goods (FMCG), such as snack packets and sachets, is among the most difficult waste streams to recycle due to its composite and multi-layered structure. A significant portion of this waste ends up in landfills, open environments or is disposed of through uncontrolled burning.Research at CSIR-IICT seeks to address this challenge through advanced thermochemical conversion processes that can transform unrecyclable plastics into valuable energy resources and industrial raw materials.CSIR-IICT director D. Srinivas Reddy said the institute’s expertise in advanced chemical and thermochemical processes, combined with the firm’s industrial experience, would help scale plastic-to-fuel technology from laboratory research to large-scale deployment. CEO and co-founder of 2 Degrees Clicon Pvt. Ltd., Sheetal Agarwal said the collaboration would strengthen the scientific foundation of the technology and improve efficiency and fuel quality.2 Degrees Clicon currently converts difficult-to-recycle plastic waste into fuels such as alternate diesel fuel and petro polymer fuel for use in industries including cement and steel, according to a press release.",
+      "url": "https://www.thehindu.com/news/national/telangana/csir-iict-partners-with-local-firm-to-convert-plastic-waste-to-fuel/article70758876.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-18T15:33:56.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ప్లాస్టిక్ వ్యర్థాలను ఇంధనంగా మార్చేందుకు స్థానిక సంస్థతో CSIR-IICT భాగస్వాములు",
+      "summary_te": "CSIR-ఇండియన్ ఇన్‌స్టిట్యూట్ ఆఫ్ కెమికల్ టెక్నాలజీ (CSIR-IICT) బుధవారం స్థానిక సంస్థ 2 డిగ్రీస్ క్లికాన్ ప్రైవేట్ లిమిటెడ్‌తో అవగాహన ఒప్పందం (ఎంఓయు)పై సంతకం చేసింది. Ltd. ప్లాస్టిక్-టు-ఇంధన సాంకేతికతలో అధునాతన పరిశోధనలో సహకరించడానికి. ఈ భాగస్వామ్యంతో పునర్వినియోగపరచలేని జీవితాంతం ప్లాస్టిక్‌లను ప్రత్యామ్నాయ పారిశ్రామిక ఇంధనాలుగా మార్చడంలో శాస్త్రీయ ఆవిష్కరణలను ప్రోత్సహించడం, సాంప్రదాయ శిలాజ ఇంధనాలపై ఆధారపడటాన్ని తగ్గించడంతోపాటు స్థిరమైన వ్యర్థాల నిర్వహణకు మద్దతు ఇవ్వడం. దాని మిశ్రమ మరియు బహుళ-లేయర్డ్ నిర్మాణం కారణంగా రీసైకిల్ చేయడానికి వ్యర్థ ప్రవాహాలు. ఈ వ్యర్థాలలో గణనీయమైన భాగం పల్లపు ప్రదేశాలలో, బహిరంగ వాతావరణంలో లేదా అనియంత్రిత దహనం ద్వారా పారవేయబడుతుంది. పునర్వినియోగపరచలేని ప్లాస్టిక్‌లను విలువైన ఇంధన వనరులు మరియు పారిశ్రామిక ముడి పదార్థాలుగా మార్చగల అధునాతన థర్మోకెమికల్ మార్పిడి ప్రక్రియల ద్వారా ఈ సవాలును పరిష్కరించడానికి CSIR-IICT పరిశోధన ప్రయత్నిస్తుంది. సంస్థ యొక్క పారిశ్రామిక అనుభవంతో, ప్రయోగశాల పరిశోధన నుండి పెద్ద-స్థాయి విస్తరణ వరకు ప్లాస్టిక్-టు-ఇంధన సాంకేతికతను స్కేల్ చేయడంలో సహాయపడుతుంది. 2 డిగ్రీస్ క్లికాన్ ప్రైవేట్ లిమిటెడ్ యొక్క CEO మరియు సహ వ్యవస్థాపకుడు. Ltd., శీతల్ అగర్వాల్ సహకారంతో సాంకేతికత యొక్క శాస్త్రీయ పునాదిని బలోపేతం చేయడంతోపాటు సామర్థ్యం మరియు ఇంధన నాణ్యత మెరుగుపడుతుందని చెప్పారు. 2 డిగ్రీస్ క్లికాన్ ప్రస్తుతం రీసైకిల్ చేయడంలో కష్టతరమైన ప్లాస్టిక్ వ్యర్థాలను ప్రత్యామ్నాయ డీజిల్ ఇంధనం మరియు పెట్రో పాలిమర్ ఇంధనం వంటి ఇంధనాలుగా మారుస్తుంది, సిమెంట్ మరియు స్టీల్‌తో సహా పరిశ్రమలలో ఉపయోగించబడుతుంది, ఒక పత్రికా ప్రకటన ప్రకారం.",
       "translated": true
     },
     {
@@ -70,8 +154,22 @@
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
-      "title_te": "వెంగ‌ల్ రావు నగర్‌లోని ప్రభుత్వ భూమిని హైడ్రా క్లియర్ చేసింది",
+      "title_te": "వెంగల్ రావు నగర్‌లోని ప్రభుత్వ భూమిని హైడ్రా క్లియర్ చేసింది",
       "summary_te": "హైదరాబాద్ డిజాస్టర్ రెస్పాన్స్ & అసెట్ ప్రొటెక్షన్ ఏజెన్సీ (హైడ్రా) బుధవారం వెంగల్‌రావు నగర్‌లోని మూడు ఎకరాల ప్రభుత్వ భూమిని ఆక్రమణకు గురై తిరిగి స్వాధీనం చేసుకోవడానికి సహాయం చేసింది. అధికారుల ప్రకారం, అప్పటి ఆంధ్రప్రదేశ్ హౌసింగ్ బోర్డు 1975కి ముందు 45 ఎకరాల భూమిని సేకరించి, అసలు యజమానులకు పరిహారం చెల్లించి, 60 ల్యాండ్‌లో పార్టును అభివృద్ధి చేసింది. లేఅవుట్‌లో, పార్కులు మరియు పబ్లిక్ యుటిలిటీల కోసం ఐదు ఎకరాల విస్తీర్ణంలో కొన్ని పార్శిళ్లు కేటాయించబడ్డాయి. ఇందులో ఇప్పటికే దాదాపు రెండు ఎకరాలు శాశ్వత నిర్మాణాలతో ఆక్రమణకు గురికాగా, మిగిలిన మూడు ఎకరాలు ఖాళీగా మిగిలిపోయాయి. మిగిలిన మూడు ఎకరాలను తాజాగా ఆక్రమణల నుంచి కాపాడేందుకు హైడ్రా బుధవారం జోక్యం చేసుకుంది. గతంలో హౌసింగ్ బోర్డ్ నుండి పరిహారం పొందిన వ్యక్తులు, అలాగే భూమిపై యాజమాన్యం క్లెయిమ్ చేస్తున్న ఇతరులతో సహా పలు సమూహాలతో ఏజెన్సీ సమావేశం నిర్వహించింది. హక్కుదారులు ఎవరూ సరైన డాక్యుమెంటరీ సాక్ష్యాలను కలిగి లేరని అధికారులు గుర్తించారు. ఇదిలా ఉండగా, కొంతమంది హక్కుదారులు తెలంగాణ హైకోర్టును ఆశ్రయించి స్టే ఆర్డర్‌ను పొందారు. భూమిపై ఎటువంటి కార్యకలాపాలను నిషేధిస్తూ స్టే షరతులు ఉన్నప్పటికీ, కొత్త షెడ్‌లు నిర్మించడం, గుడిసెలు నిర్మించడం మరియు ఆ స్థలంలో వాణిజ్య కార్యకలాపాలు నిర్వహిస్తున్నట్లు స్థానిక నివాసితుల నుండి ఫిర్యాదులు అందాయి. మీడియా నివేదికలు కూడా ప్రభుత్వ భూమిపై కొనసాగుతున్న ఆక్రమణలను హైలైట్ చేశాయి. ప్రతిస్పందనగా, హైడ్రా ఆక్రమణలను తొలగించి, మూడు ఎకరాల పార్శిల్‌కు కంచె వేసి, దానిని ప్రభుత్వ ఆస్తిగా ప్రకటించే సైన్ బోర్డులను ఏర్పాటు చేసింది, ప్రెస్ నోట్ సమాచారం.",
+      "translated": true
+    },
+    {
+      "id": "d7ffb2ec8e64fb65ce2f3431f267403b",
+      "title": "NCC training must align with technological advancements, says Lieutenant General Virendra Vats",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ncc-training-must-align-with-technological-advancements-says-lieutenant-general-virendra-vats/article70758290.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5z4n0m/article70758301.ece/alternates/LANDSCAPE_1200/IMG-20260318-WA0031.jpg",
+      "published_at": "2026-03-18T15:23:51.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "NCC శిక్షణ తప్పనిసరిగా సాంకేతిక పురోగతికి అనుగుణంగా ఉండాలి, లెఫ్టినెంట్ జనరల్ వీరేంద్ర వాట్స్ చెప్పారు",
+      "summary_te": "",
       "translated": true
     },
     {
@@ -127,7 +225,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "ముంపు ప్రాంతాల జోనింగ్ కోసం తెలంగాణ త్వరలో నోడల్ ఏజెన్సీని ఏర్పాటు చేయనుంది: నీటిపారుదల శాఖ మంత్రి",
-      "summary_te": "నీటిపారుదల మరియు పౌరసరఫరాల శాఖ మంత్రి ఎన్. ఉత్తమ్ కుమార్ రెడ్డి మాట్లాడుతూ తెలంగాణలో వరద మైదాన జోన్ కోసం ప్రత్యేక నోడల్ ఏజెన్సీని ఏర్పాటు చేస్తామని, రాబోయే వర్షాకాలానికి ముందే సరిహద్దుల కోసం మొదటి నది విస్తరించి ఉందని - దానితో పాటు హానికర పాకెట్స్ మ్యాపింగ్‌ను గుర్తిస్తామని హామీ ఇచ్చారు. నీటిపారుదల ప్రాజెక్టుల్లో నిర్మూలన ఆవశ్యకతను నొక్కి చెబుతూ, కేంద్ర జల సంఘం (సీడబ్ల్యూసీ), జలశక్తి మంత్రిత్వ శాఖ రెండింటి నుంచి మద్దతు కోరారు. కృష్ణా, గోదావరి బేసిన్ ఆర్గనైజేషన్, జలశక్తి మంత్రిత్వ శాఖ ఆధ్వర్యంలో తెలంగాణ, ఆంధ్రప్రదేశ్‌ల వరద మైదానాల జోనింగ్‌పై ఏర్పాటు చేసిన వర్క్‌షాప్‌ను బుధవారం ఎంసీహెచ్‌ఆర్‌డీ వద్ద ఆయన ప్రారంభించారు. అవి రాష్ట్రంలో విధ్వంసం సృష్టిస్తున్నాయి. అపారమైన నష్టానికి దారితీసిన అనేక వరదలను ఆయన గుర్తు చేసుకున్నారు. ప్రతి వరద విభిన్నమైనదని మరియు సరైన ప్రణాళిక అవసరమని పేర్కొంటూ, వరదలు కేవలం ప్రకృతి చర్య మాత్రమే కాదు - అవి మన స్వంత నిర్లక్ష్యానికి అద్దం అని ఆయన వ్యాఖ్యానించారు. దేశంలోని పట్టణ నదుల పునరుద్ధరణ కార్యక్రమాలు, దట్టమైన పట్టణ ప్రాంతాల్లో ఇలాంటి సవాళ్లను ఎదుర్కోవడానికి ప్రతిరూప నమూనా సహాయం చేస్తుందని మంత్రి నొక్కి చెప్పారు. ఐదు రోజుల క్రితమే మూసీ రివర్ ఫ్రంట్ డెవలప్‌మెంట్ ఫేజ్ 1కి సంబంధించిన డిటైల్డ్ ప్రాజెక్ట్ ప్లాన్‌లను ఆవిష్కరించినట్లు ఆయన పేర్కొన్నారు. ప్రాజెక్ట్ సిడబ్ల్యుసి ఫ్లడ్ ప్లెయిన్ జోనింగ్ మార్గదర్శకాలను పూర్తిగా పొందుపరిచింది మరియు మూసీ కారిడార్‌లో రక్షిత మరియు రెగ్యులేటరీ జోన్‌లను గుర్తించింది. టేబుల్-టాప్ వ్యాయామాలు, మాక్ డ్రిల్స్, జిఐఎస్ మ్యాపింగ్ మరియు ఫోర్‌కాస్టింగ్ అప్‌గ్రేడ్‌లతో సహా ప్రత్యేక చర్యల ద్వారా పరిస్థితిని పరిష్కరించడానికి తెలంగాణ సంసిద్ధతను ఆయన వివరించారు. విధాన రూపకర్తలు, విద్యావేత్తలు, స్టార్టప్‌లు, పరిశ్రమల వాటాదారులు మరియు సంఘాలు ఈ ప్రయత్నంలో చేతులు కలపాలని ఆయన విజ్ఞప్తి చేశారు.",
+      "summary_te": "నీటిపారుదల మరియు పౌరసరఫరాల శాఖ మంత్రి ఎన్. ఉత్తమ్ కుమార్ రెడ్డి మాట్లాడుతూ తెలంగాణలో వరద మైదాన జోన్ కోసం ప్రత్యేక నోడల్ ఏజెన్సీని ఏర్పాటు చేస్తామని, రాబోయే వర్షాకాలానికి ముందే సరిహద్దుల కోసం మొదటి నది విస్తరించి ఉందని - దానితో పాటు హానికర పాకెట్స్ మ్యాపింగ్‌ను గుర్తిస్తామని హామీ ఇచ్చారు. నీటిపారుదల ప్రాజెక్టుల్లో నిర్మూలన ఆవశ్యకతను నొక్కి చెబుతూ, కేంద్ర జల సంఘం (సీడబ్ల్యూసీ), జలశక్తి మంత్రిత్వ శాఖ రెండింటి నుంచి మద్దతు కోరారు. కృష్ణా, గోదావరి బేసిన్ ఆర్గనైజేషన్, జలశక్తి మంత్రిత్వ శాఖ ఆధ్వర్యంలో తెలంగాణ, ఆంధ్రప్రదేశ్‌ల వరద మైదానాల జోనింగ్‌పై ఏర్పాటు చేసిన వర్క్‌షాప్‌ను బుధవారం ఎంసీహెచ్‌ఆర్‌డీ వద్ద ఆయన ప్రారంభించారు. అవి రాష్ట్రంలో విధ్వంసం సృష్టిస్తున్నాయి. అపారమైన నష్టానికి దారితీసిన అనేక వరదలను ఆయన గుర్తు చేసుకున్నారు. ప్రతి వరద విభిన్నమైనదని మరియు సరైన ప్రణాళిక అవసరమని పేర్కొంటూ, వరదలు కేవలం ప్రకృతి చర్య మాత్రమే కాదు - అవి మన స్వంత నిర్లక్ష్యానికి అద్దం అని ఆయన వ్యాఖ్యానించారు. దేశంలోని పట్టణ నదుల పునరుద్ధరణ కార్యక్రమాలు, దట్టమైన పట్టణ ప్రాంతాల్లో ఇలాంటి సవాళ్లను ఎదుర్కోవడానికి ప్రతిరూప నమూనా సహాయం చేస్తుందని మంత్రి నొక్కి చెప్పారు. ఐదు రోజుల క్రితమే మూసీ రివర్‌ఫ్రంట్‌ డెవలప్‌మెంట్‌ ఫేజ్‌ 1కి సంబంధించిన డిటైల్డ్‌ ప్రాజెక్ట్‌ ప్లాన్‌ను ఆవిష్కరించినట్లు ఆయన పేర్కొన్నారు. ప్రాజెక్ట్ సిడబ్ల్యుసి ఫ్లడ్ ప్లెయిన్ జోనింగ్ మార్గదర్శకాలను పూర్తిగా పొందుపరిచింది మరియు మూసీ కారిడార్‌లో రక్షిత మరియు రెగ్యులేటరీ జోన్‌లను గుర్తించింది. టేబుల్-టాప్ వ్యాయామాలు, మాక్ డ్రిల్స్, జిఐఎస్ మ్యాపింగ్ మరియు ఫోర్‌కాస్టింగ్ అప్‌గ్రేడ్‌లతో సహా ప్రత్యేక చర్యల ద్వారా పరిస్థితిని పరిష్కరించడానికి తెలంగాణ సంసిద్ధతను ఆయన వివరించారు. విధాన రూపకర్తలు, విద్యావేత్తలు, స్టార్టప్‌లు, పరిశ్రమల వాటాదారులు మరియు సంఘాలు ఈ ప్రయత్నంలో చేతులు కలపాలని ఆయన విజ్ఞప్తి చేశారు.",
       "translated": true
     },
     {
@@ -169,7 +267,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "మార్చి 19న 24 తెలంగాణ జిల్లాల్లో పిడుగులు పడే సూచన",
-      "summary_te": "భారత వాతావరణ శాఖ (IMD) గురువారం (మార్చి 19) 24 తెలంగాణ జిల్లాల్లో పిడుగులు పడే సూచనను జారీ చేసింది. IMD యొక్క తాజా బులెటిన్ ప్రకారం, ఆదిలాబాద్, కుమురం భీమ్ ఆసిఫాబాద్, మంచిర్యాల్, నిర్మల్, నిజామాబాద్, జగిత్యాల్, రాజన్న సిరిసిల్ల, కరీంనగర్, పెద్దపల్లి, ఖాండపల్లి, ఖాండగుండం, ములుగు, ములుగు, ములుగు, మండలాల్లోని కొన్ని ప్రాంతాల్లో ఉరుములు, మెరుపులతో కూడిన ఈదురు గాలులు పడే అవకాశం ఉంది. సూర్యాపేట, మహబూబాబాద్, వరంగల్, హన్మకొండ, జనగాం, సిద్దిపేట, యాదాద్రి భువనగిరి, రంగారెడ్డి, హైదరాబాద్ మరియు మేడ్చల్ మల్కాజిగిరి.హైదరాబాద్ మరియు దాని పరిసర ప్రాంతాల్లో రాగల 24 గంటలపాటు ఆకాశం సాధారణంగా మేఘావృతమై ఉంటుంది. \"సాయంత్రం లేదా రాత్రి సమయంలో నగరంలో తేలికపాటి నుండి మోస్తరు వర్షం లేదా ఉరుములతో కూడిన జల్లులు కురిసే అవకాశం ఉంది. గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతలు వరుసగా 32°C మరియు 19°C గా నమోదయ్యే అవకాశం ఉంది\" అని బులెటిన్ పేర్కొంది.",
+      "summary_te": "భారత వాతావరణ శాఖ (IMD) గురువారం (మార్చి 19) తెలంగాణ 24 జిల్లాల్లో పిడుగులు పడే సూచనను జారీ చేసింది. IMD యొక్క తాజా బులెటిన్ ప్రకారం, ఆదిలాబాద్, కుమురం భీమ్ ఆసిఫాబాద్, మంచిర్యాల్, నిర్మల్, నిజామాబాద్, జగిత్యాల్, రాజన్న సిరిసిల్ల, కరీంనగర్, పెద్దపల్లి, ఖాండపల్లి, ఖాండగుండం, ములుగు, ములుగు, ములుగు, మండలాల్లోని కొన్ని ప్రాంతాల్లో ఉరుములు, మెరుపులతో కూడిన ఈదురు గాలులు పడే అవకాశం ఉంది. సూర్యాపేట, మహబూబాబాద్, వరంగల్, హన్మకొండ, జనగాం, సిద్దిపేట, యాదాద్రి భువనగిరి, రంగారెడ్డి, హైదరాబాద్ మరియు మేడ్చల్ మల్కాజిగిరి.హైదరాబాద్ మరియు దాని పరిసర ప్రాంతాల్లో రాగల 24 గంటలపాటు ఆకాశం సాధారణంగా మేఘావృతమై ఉంటుంది. \"సాయంత్రం లేదా రాత్రి సమయంలో నగరంలో తేలికపాటి నుండి మోస్తరు వర్షం లేదా ఉరుములతో కూడిన జల్లులు కురిసే అవకాశం ఉంది. గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతలు వరుసగా 32°C మరియు 19°C గా నమోదయ్యే అవకాశం ఉంది\" అని బులెటిన్ పేర్కొంది.",
       "translated": true
     },
     {
@@ -201,20 +299,6 @@
       "translated": true
     },
     {
-      "id": "0b82b84facf31b4aa45c542355690cfe",
-      "title": "'End of career is not in our hands'",
-      "summary": "'End of career is not in our hands' svarun Wed, 03/18/2026 - 20:22",
-      "url": "https://www.sakshi.com/telugu-news/sports/pv-sindhu-opens-importance-education-athletes-2736898",
-      "image": null,
-      "published_at": "2026-03-18T14:52:00.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "‘కెరీర్‌ ముగింపు మన చేతుల్లో ఉండదు’",
-      "summary_te": "‘కెరీర్‌ ముగింపు మన చేతుల్లో ఉండదు’ svarun Wed, 03/18/2026 - 20:22",
-      "translated": true
-    },
-    {
       "id": "781a5621500da23e131c05b968983625",
       "title": "Brother among 3 arrested for woman’s murder",
       "summary": "Three persons were arrested after a case of a missing woman at Abdullapurmet turned out to be a murder.The accused, including the complainant, Pappuram Kumavat, were taken into custody on Wednesday. He confessed to killing his sister, 40-year-old Leela Devi. She had been missing since February 28, following a dispute over a house plot.",
@@ -240,48 +324,6 @@
       "language": "en",
       "title_te": "స్లోవేనియా నుంచి పెట్టుబడుల కోసం ఐటీ మంత్రి పిచ్‌లు",
       "summary_te": "ఐటీ, పరిశ్రమల శాఖ మంత్రి డి.శ్రీధర్‌బాబు బుధవారం స్లోవేనియన్‌ ప్రతినిధి బృందానికి తెలంగాణను ప్రదర్శించి, లైఫ్‌ సైన్సెస్‌, ఆటోమొబైల్స్‌, ఇన్‌ఫర్మేషన్‌ టెక్నాలజీ వంటి కీలక రంగాల్లో పెట్టుబడి అవకాశాలను హైలైట్‌ చేశారు. ప్రపంచ స్థాయి మౌలిక సదుపాయాలు, పెట్టుబడిదారులకు అనుకూలమైన పర్యావరణ వ్యవస్థతో తెలంగాణ అత్యంత ఆకర్షణీయమైన వ్యాపార రంగాల్లో ఒకటిగా నిలిచింది. భారతదేశంలోని స్లోవేనియా రాయబారి టోమాజ్ మెన్సిన్, అసెంబ్లీ కమిటీ హాల్‌లో పరస్పర చర్చ సందర్భంగా.",
-      "translated": true
-    },
-    {
-      "id": "5380d9d210df31cebb2fa77118f99143",
-      "title": "Air travel.. and new rules",
-      "summary": "Air travel.. New regulations gbalaji Wed, 03/18/2026 - 20:03",
-      "url": "https://www.sakshi.com/telugu-news/business/new-air-travel-rules-aim-cut-costs-and-boost-comfort-2736901",
-      "image": null,
-      "published_at": "2026-03-18T14:33:22.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "విమాన ప్రయాణం.. ఇక కొత్త నిబంధనలు",
-      "summary_te": "విమాన ప్రయాణం.. ఇక కొత్త నిబంధనలు gbalaji Wed, 03/18/2026 - 20:03",
-      "translated": true
-    },
-    {
-      "id": "9dbb85ee1738354fceb385228dfce3a5",
-      "title": "This is the message of Ugadi festival!",
-      "summary": "This is the message of Ugadi festival! srinu Wed, 03/18/2026 - 19:59",
-      "url": "https://www.sakshi.com/telugu-news/family/ugadi-festival-message-telugu-2736900",
-      "image": null,
-      "published_at": "2026-03-18T14:29:00.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "ఉగాది పండుగ సందేశం ఇదే!",
-      "summary_te": "ఉగాది పండుగ సందేశం ఇదే! srinu Wed, 03/18/2026 - 19:59",
-      "translated": true
-    },
-    {
-      "id": "245054bfa16a7c15ff26ad7986a8ae35",
-      "title": "Durandhar-2 Twitter review.. What is the audience?",
-      "summary": "Durandhar-2 Twitter review.. What is the audience? madhusudhan Wed, 03/18/2026 - 19:56",
-      "url": "https://www.sakshi.com/telugu-news/movies/ranveer-singh-dhurandhar-revenge-twitter-review-2736899",
-      "image": null,
-      "published_at": "2026-03-18T14:26:43.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "దురంధర్-2 ట్విటర్‌ రివ్యూ.. ఆడియన్స్‌ ఏమన్నారంటే?",
-      "summary_te": "దురంధర్-2 ట్విటర్‌ రివ్యూ.. ఆడియన్స్‌ ఏమన్నారంటే? madhusudhan Wed, 03/18/2026 - 19:56",
       "translated": true
     },
     {
@@ -393,7 +435,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "హన్మకొండలో ఓ వ్యక్తి, కూతురు సజీవదహనం",
-      "summary_te": "హనమకొండలో బుధవారం ఉదయం కాజీపేట మండల పరిధిలోని కడిపికొండ గ్రామంలోని రాజీవ్ గృహకల్ప కాంప్లెక్స్‌లో ఓ వ్యక్తి, అతని కుమార్తె కాలిపోయి మృతి చెందారు.మృతులను రాజశేఖర్ (54), అతని కుమార్తె రాజశ్రీ (24)గా గుర్తించారు. మంగళవారం జరిగిన తమ కుమార్తెకు అన్నప్రాసన కార్యక్రమాన్ని నిర్వహించేందుకు రాజశ్రీ తన భర్త ప్రవీణ్‌తో కలిసి రెండు రోజుల క్రితం హైదరాబాద్‌ నుంచి తల్లిదండ్రుల ఇంటికి వచ్చారు. ఈ దంపతులకు జయంష్ (2) మరియు దివిషా (ఆరు నెలల వయస్సు) ఇద్దరు పిల్లలు ఉన్నారు. కుటుంబ సభ్యులు ఫౌల్ ప్లే ఆరోపిస్తూ, రాజశ్రీ భర్త ప్రవీణ్ ప్రమేయం ఉందని అనుమానించారు. కుటుంబ కలహాలతో ఇద్దరిని హత్య చేసి ప్రమాదవశాత్తూ హత్యలు చేసేందుకు ప్రయత్నించి ఇద్దరికి నిప్పంటించి ఉండొచ్చని వారు పేర్కొన్నారు. ఘటన సమయంలో ప్రవీణ్‌ ఇంటి బయట పిల్లలతో కలిసి ఉండడంతో స్థానికులకు సమాచారం అందించారు. తెల్లవారుజామున ఇంట్లో నుంచి మంటలు ఎగిసిపడుతుండడం గమనించిన నివాసితులు భయాందోళనలకు గురై పోలీసులకు, అగ్నిమాపక శాఖకు సమాచారం అందించారు. సమాచారం అందుకున్న మడికొండ ఇన్‌స్పెక్టర్‌ పి.కిషన్‌, ఎస్‌ఐ రాజ్‌కుమార్‌ క్లూస్‌ టీమ్‌తో సంఘటనా స్థలానికి చేరుకుని వేలిముద్రలు, ఇతర ఆధారాలు సేకరించారు. పోలీసులు ప్రవీణ్‌ని అదుపులోకి తీసుకుని విచారించి కేసు నమోదు చేశారు. అగ్నిప్రమాదానికి కారణాన్ని తెలుసుకోవడానికి మరియు ఆరోపణలను ధృవీకరించడానికి తదుపరి దర్యాప్తు జరుగుతోంది.",
+      "summary_te": "హనమకొండలో బుధవారం ఉదయం కాజీపేట మండల పరిధిలోని కడిపికొండ గ్రామంలోని రాజీవ్ గృహకల్ప కాంప్లెక్స్‌లో ఓ వ్యక్తి, అతని కుమార్తె కాలిపోయి మృతి చెందారు.మృతులను రాజశేఖర్ (54), అతని కుమార్తె రాజశ్రీ (24)గా గుర్తించారు. మంగళవారం జరిగిన తమ కుమార్తెకు అన్నప్రాసన కార్యక్రమాన్ని నిర్వహించేందుకు రాజశ్రీ తన భర్త ప్రవీణ్‌తో కలిసి రెండు రోజుల క్రితం హైదరాబాద్‌ నుంచి తల్లిదండ్రుల ఇంటికి వచ్చారు. ఈ దంపతులకు జయంష్ (2) మరియు దివిషా (ఆరు నెలల వయస్సు) ఇద్దరు పిల్లలు ఉన్నారు. కుటుంబ సభ్యులు ఫౌల్ ప్లే ఆరోపిస్తూ, రాజశ్రీ భర్త ప్రవీణ్ ప్రమేయం ఉందని అనుమానించారు. కుటుంబ కలహాలతో ఇద్దరిని హత్య చేసి ప్రమాదవశాత్తూ హత్యలు చేసేందుకు ప్రయత్నించి ఇద్దరికి నిప్పంటించి ఉండొచ్చని వారు పేర్కొన్నారు. ఘటన సమయంలో ప్రవీణ్‌ ఇంటి బయట పిల్లలతో కలిసి ఉండడంతో స్థానికులకు సమాచారం అందించారు. తెల్లవారుజామున ఇంట్లో నుంచి మంటలు ఎగిసిపడుతుండడం గమనించిన నివాసితులు భయాందోళనలకు గురై పోలీసులకు, అగ్నిమాపక శాఖకు సమాచారం అందించారు. సమాచారం అందుకున్న మడికొండ ఇన్‌స్పెక్టర్‌ పి.కిషన్‌, ఎస్‌ఐ రాజ్‌కుమార్‌ క్లూస్‌ టీమ్‌తో సంఘటనా స్థలానికి చేరుకుని వేలిముద్రలు, ఇతర ఆధారాలు సేకరించారు. పోలీసులు ప్రవీణ్‌ని అదుపులోకి తీసుకుని విచారించి కేసు నమోదు చేశారు. అగ్నిప్రమాదానికి గల కారణాన్ని తెలుసుకోవడానికి మరియు ఆరోపణలను ధృవీకరించడానికి తదుపరి విచారణ జరుగుతోంది.",
       "translated": true
     },
     {
@@ -408,34 +450,6 @@
       "language": "en",
       "title_te": "విద్యార్థి మరణానంతరం, క్యాంపస్‌లో సౌకర్యాలు లేని ఆరోగ్య కేంద్రంపై RGUKT వద్ద నిరసన",
       "summary_te": "బాసరలోని రాజీవ్ గాంధీ యూనివర్సిటీ ఆఫ్ నాలెడ్జ్ టెక్నాలజీస్ (ఆర్‌జీయూకేటీ) క్యాంపస్‌లో మెరుగైన వైద్య సదుపాయాలు కల్పించాలని, లుకేమియాతో హైదరాబాద్‌లోని ఆస్పత్రిలో చికిత్స పొందుతూ మృతి చెందిన ఆర్‌జీయూకేటీ విద్యార్థిని తేజస్విని తల్లిదండ్రులకు నష్టపరిహారం ఇవ్వాలని డిమాండ్ చేస్తూ సోమవారం విద్యార్థులు నిరసనకు దిగారు. మార్చి 17-18 మధ్య రాత్రి RGUKT వైస్-ఛాన్సలర్ కార్యాలయం తమ డిమాండ్ల చార్టర్ కోసం ఒత్తిడి తెస్తుంది. ప్రీ-యూనివర్సిటీ కోర్సులో రెండవ సంవత్సరం చదువుతున్న తేజస్విని కుటుంబానికి సంఘీభావం తెలుపుతూ, ఆమె తల్లిదండ్రులకు ₹ 50 లక్షల నష్టపరిహారం చెల్లించాలని వారు కోరారు. క్యాంపస్‌లో వేలాది మంది విద్యార్థుల ఆరోగ్య సంరక్షణ అవసరాలు. తక్షణమే ఆరోగ్య కేంద్రంలో డయాగ్నోస్టిక్‌ సేవలతోపాటు వైద్య సదుపాయాలను పటిష్టం చేయాలని డిమాండ్‌ చేశారు.తమ డిమాండ్‌లు నెరవేరే వరకు నిరసనలు కొనసాగిస్తామని ఆందోళనకారులు ప్రతిజ్ఞ చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "5cf4fe385d57610b07717f3602aae325",
-      "title": "Star tortoise confiscated from railway passenger",
-      "summary": "The Railway Police Force has rescued a star tortoise from a person who was smuggling it illegally on a train.Following a cue from security control room, the RPF conducted an inspection in Secunderabad and found the tortoise with a passenger Suresh Kumar from Addagutta area who travelled to Secunderabad from Bhongir.The accused has been handed over to the Forest department, who presented him before court from where he has been sent for judicial remand, a press note informed.",
-      "url": "https://www.thehindu.com/news/national/telangana/star-tortoise-confiscated-from-railway-passenger/article70754804.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-18T13:32:35.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "రైల్వే ప్రయాణికుడి నుంచి నక్షత్ర తాబేలు స్వాధీనం",
-      "summary_te": "రైలులో అక్రమంగా స్మగ్లింగ్ చేస్తున్న వ్యక్తి నుంచి స్టార్ తాబేలును రైల్వే పోలీస్ ఫోర్స్ రక్షించింది. సెక్యూరిటీ కంట్రోల్ రూం నుంచి వచ్చిన సూచన మేరకు సికింద్రాబాద్‌లో ఆర్పీఎఫ్ తనిఖీలు నిర్వహించగా అడ్డగుట్ట ప్రాంతానికి చెందిన ప్రయాణికుడు సురేష్ కుమార్ వద్ద తాబేలు ఉన్నట్లు గుర్తించారు. జ్యుడీషియల్ రిమాండ్, ప్రెస్ నోట్ సమాచారం.",
-      "translated": true
-    },
-    {
-      "id": "6dcd7d00131038db5725d19a93144089",
-      "title": "Seven booked as vigilance team seizes tractors, sand in Hanamkonda crackdown",
-      "summary": "Seven persons were booked after Vigilance and Enforcement officials intercepted tractors transporting sand illegally during a surprise route check in parts of Hanamkonda district on Wednesday.Officials seized seven tractors and around 35 tonnes of sand valued at approximately ₹35,000 during the operation in the outskirts of Jujnoor Vagu and Dandepally. The vehicles are estimated to be worth about ₹28 lakh. Investigators found that sand was being excavated during the day, stockpiled in nearby fields and transported illegally at night.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/seven-booked-as-vigilance-team-seizes-tractors-sand-in-hanamkonda-crackdown/article70758240.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-18T13:32:33.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "హన్మకొండలో విజిలెన్స్‌ బృందం ట్రాక్టర్లు, ఇసుకను సీజ్‌ చేయడంతో ఏడుగురిపై కేసు నమోదు చేశారు",
-      "summary_te": "బుధవారం హన్మకొండ జిల్లాలోని కొన్ని ప్రాంతాల్లో ఆకస్మిక తనిఖీల్లో ఇసుక అక్రమంగా తరలిస్తున్న ట్రాక్టర్లను విజిలెన్స్ అండ్ ఎన్‌ఫోర్స్‌మెంట్ అధికారులు అడ్డుకోవడంతో ఏడుగురిపై కేసు నమోదు చేశారు. జుజనూర్ వాగు, డ్వాగు శివారులో చేపట్టిన ఆపరేషన్‌లో అధికారులు ఏడు ట్రాక్టర్లు, సుమారు ₹35,000 విలువ చేసే 35 టన్నుల ఇసుకను స్వాధీనం చేసుకున్నారు. వాహనాల విలువ సుమారు ₹28 లక్షలు ఉంటుందని అంచనా. పగటిపూట ఇసుక తవ్వకాలు జరుపుతున్నట్లు, సమీపంలోని పొలాల్లో నిల్వ ఉంచి రాత్రి వేళల్లో అక్రమంగా రవాణా చేస్తున్నట్లు విచారణాధికారులు గుర్తించారు.",
       "translated": true
     }
   ]
