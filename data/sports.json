@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-18T07:00:07.950Z",
-  "updated_at_IST": "18/3/2026, 12:30:07 pm",
+  "updated_at": "2026-03-18T07:58:09.822Z",
+  "updated_at_IST": "18/3/2026, 1:28:09 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "4e1282b6917619e0c4336b4a6832a749",
+      "title": "Bangladesh sports minister to consult ICC on future of BCB",
+      "summary": "Sports minister Aminul Haque said on Tuesday that once the five-member committee submits its report within 15 working days, he will discuss the matter with the ICC",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528257.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
+      "published_at": "2026-03-18T06:47:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బీసీబీ భవిష్యత్తుపై బంగ్లాదేశ్ క్రీడా మంత్రి ఐసీసీని సంప్రదించనున్నారు",
+      "summary_te": "ఐదుగురు సభ్యుల కమిటీ తన నివేదికను 15 పనిదినాల్లో సమర్పించిన తర్వాత, ఈ అంశంపై ఐసిసితో చర్చిస్తానని క్రీడా మంత్రి అమీనుల్ హక్ మంగళవారం తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "76728afdffb32025c6973f58b16fb852",
       "title": "Haddin named New South Wales head coach",
@@ -30,20 +44,6 @@
       "language": "en",
       "title_te": "ఫెర్గూసన్ ఆన్ సియర్స్: 'అతనికి ఇంకా ఎక్కువ వేగం ఉంది'",
       "summary_te": "\"నాకు న్యూజిలాండ్‌లో స్వదేశీ ప్రేక్షకుల ముందు ఆడటం చాలా ఇష్టం, పరిస్థితులు నాకు అలవాటు\" అని లాకీ ఫెర్గూసన్ విరామం తర్వాత తిరిగి రావడం గురించి చెప్పాడు",
-      "translated": true
-    },
-    {
-      "id": "4e1282b6917619e0c4336b4a6832a749",
-      "title": "Bangladesh sports minister to consult ICC on future of BCB",
-      "summary": "Sports minister Aminul Haque said on Tuesday that once the five-member committee submits its report within 15 working days, he will discuss the matter with the ICC",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528257.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
-      "published_at": "2026-03-18T03:45:24.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బీసీబీ భవిష్యత్తుపై బంగ్లాదేశ్ క్రీడా మంత్రి ఐసీసీని సంప్రదించనున్నారు",
-      "summary_te": "ఐదుగురు సభ్యుల కమిటీ తన నివేదికను 15 పనిదినాల్లో సమర్పించిన తర్వాత, ఈ అంశంపై ఐసిసితో చర్చిస్తానని క్రీడా మంత్రి అమీనుల్ హక్ మంగళవారం తెలిపారు.",
       "translated": true
     },
     {
