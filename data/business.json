@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-18T22:33:40.590Z",
-  "updated_at_IST": "19/3/2026, 4:03:40 am",
+  "updated_at": "2026-03-18T23:32:53.089Z",
+  "updated_at_IST": "19/3/2026, 5:02:53 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "317b7dc2dcd018558c32345ce0b76ae0",
+      "title": "Tulsi Gabbard warns Russia, China, N Korea, Iran & Pakistan are developing nuclear‑capable missiles that could reach US",
+      "summary": "The intelligence community projects that the collective missile threat to the US could expand from the current 3,000+ missiles to more than 16,000 by 2035.",
+      "url": "https://www.livemint.com/news/us-news/tulsi-gabbard-warns-russia-china-n-korea-iran-pakistan-are-developing-nuclear-capable-missiles-that-could-reach-11773870626100.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/IRAN-CRISIS-USA-INTELLIGENCE-65_1773871065356_1773871359314.JPG",
+      "published_at": "2026-03-18T22:19:05.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రష్యా, చైనా, ఎన్‌ కొరియా, ఇరాన్‌, పాకిస్థాన్‌లు అమెరికాను చేరుకోగల అణ్వాయుధ సామర్థ్యం గల క్షిపణులను అభివృద్ధి చేస్తున్నాయని తులసి గబ్బార్డ్ హెచ్చరించారు.",
+      "summary_te": "యుఎస్‌కి సామూహిక క్షిపణి ముప్పు ప్రస్తుత 3,000+ క్షిపణుల నుండి 2035 నాటికి 16,000 కంటే ఎక్కువకు విస్తరించవచ్చని నిఘా సంఘం అంచనా వేసింది.",
+      "translated": true
+    },
     {
       "id": "065ded5097e17db201e6eccc635ce1ed",
       "title": "Tulsi Gabbard says Iran hasn’t rebuilt nuclear program, challenging Trump’s ‘imminent threat’ claims",
@@ -408,20 +422,6 @@
       "language": "en",
       "title_te": "హోంల్యాండ్ సెక్యూరిటీ నామినీ మార్క్‌వేన్ ముల్లిన్ ఈరోజు సెనేట్ విచారణలో బహిష్కరణ పుష్ మధ్య ఇమ్మిగ్రేషన్ వ్యూహాన్ని రూపొందించారు",
       "summary_te": "ముల్లిన్ సామూహిక బహిష్కరణల కోసం పరిపాలన యొక్క పుష్ మధ్య డిపార్ట్‌మెంట్ పట్ల తన దృష్టిపై ప్రశ్నలను ఎదుర్కొంటాడు.",
-      "translated": true
-    },
-    {
-      "id": "4de1677300ecf2d1c12877229961bd87",
-      "title": "Man arrested after sneaking into viral pygmy hippo Moo Deng's enclosure; shocking incident caught on cam - Watch",
-      "summary": "The man remained inside the enclosure at the Zoo for a minute or two before staff noticed him, Narongwit said, adding that he did not attempt to flee while the zoo called for police. The incident was caught on camera",
-      "url": "https://www.livemint.com/news/world/man-arrested-after-sneaking-into-viral-pygmy-hippo-moo-dengs-enclosure-shocking-caught-on-cam-video-bangkok-11773835975996.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/pygmy_hippo_1773838428477_1773838431855.png",
-      "published_at": "2026-03-18T13:01:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "వైరల్ పిగ్మీ హిప్పో మూ డెంగ్ ఎన్‌క్లోజర్‌లోకి చొరబడిన వ్యక్తిని అరెస్టు చేశారు; షాకింగ్ సంఘటన కెమెరాలో చిక్కుకుంది - చూడండి",
-      "summary_te": "సిబ్బంది అతనిని గమనించే ముందు ఆ వ్యక్తి జూలోని ఎన్‌క్లోజర్‌లో ఒకటి లేదా రెండు నిమిషాలు ఉండిపోయాడు, జూ పోలీసులను పిలిచినప్పుడు అతను పారిపోవడానికి ప్రయత్నించలేదని నరోంగ్విట్ చెప్పాడు. ఈ ఘటన కెమెరాకు చిక్కింది",
       "translated": true
     },
     {
