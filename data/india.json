@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-03-18T06:10:19.404Z",
-  "updated_at_IST": "18/3/2026, 11:40:19 am",
+  "updated_at": "2026-03-18T07:00:07.950Z",
+  "updated_at_IST": "18/3/2026, 12:30:07 pm",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "fb82f9814d4ff83ff04e26fa81d8a783",
+      "title": "Parliament Budget Session LIVE: PM Modi, LoP Kharge bid farewell to retiring Rajya Sabha MPs on completion of their terms",
+      "summary": "The Lok Sabha began its proceedings for the day with Question Hour",
+      "url": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-lok-sabha-rajya-sabha-march-18-2026/article70756731.ece",
+      "image": null,
+      "published_at": "2026-03-18T06:22:13.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "పార్లమెంట్ బడ్జెట్ సెషన్ లైవ్: ప్రధాని మోదీ, లోపి ఖర్గే పదవీ విరమణ చేసిన రాజ్యసభ ఎంపీలకు వారి పదవీకాలం పూర్తయిన తర్వాత వీడ్కోలు పలికారు.",
+      "summary_te": "లోక్‌సభ ప్రశ్నోత్తరాల సమయంతో రోజంతా తన కార్యకలాపాలను ప్రారంభించింది",
+      "translated": true
+    },
+    {
+      "id": "1d0a92619787cd57cac63bec4a826299",
+      "title": "Hyderabad sees intermittent showers after midnight rain, IMD forecasts more thundershowers",
+      "summary": "At 10.49 a.m., IMD issued an alert forecasting light to moderate thundershowers for the next few hours in the northern parts of the Greater Hyderabad Municipal Corporation (GHMC).",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-sees-intermittent-showers-after-midnight-rain-imd-forecasts-more-thundershowers/article70756924.ece",
+      "image": "https://th-i.thgim.com/public/incoming/bfuh8a/article70756947.ece/alternates/LANDSCAPE_1200/lightning%20%2007.jpg",
+      "published_at": "2026-03-18T06:21:56.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "హైదరాబాద్‌లో అర్ధరాత్రి వర్షం తర్వాత అడపాదడపా జల్లులు కురుస్తాయని IMD అంచనా వేసింది",
+      "summary_te": "10.49 గంటలకు, గ్రేటర్ హైదరాబాద్ మున్సిపల్ కార్పొరేషన్ (జిహెచ్‌ఎంసి) ఉత్తర ప్రాంతాలలో రాబోయే కొద్ది గంటలలో తేలికపాటి నుండి మోస్తరు వర్షాలు కురిసే అవకాశం ఉందని IMD హెచ్చరిక జారీ చేసింది.",
+      "translated": true
+    },
+    {
+      "id": "590c7b504198f18b8f4294ca57ccf0bd",
+      "title": "A look at 'Haj Qasem' missile Iran used for the first time against Israel",
+      "summary": "The IRGC claimed the strikes targeted sites in Beit Shemesh, Tel Aviv and Jerusalem. It also said the barrage hit US military bases in the region, including facilities in Qatar, Kuwait, the United Arab Emirates and Iraq. The reported use of the missile comes as the Iran-Israel war enters its third week, with the conflict spilling across the Gulf, disrupting shipping lanes and drawing in multiple regional actors.",
+      "url": "https://timesofindia.indiatimes.com/defence/international/a-closer-look-at-haj-qasem-irans-ballistic-missile-used-for-the-first-time-against-israel-us/articleshow/129647192.cms",
+      "image": "https://static.toiimg.com/photo/msid-129648841,imgsize-61962.cms",
+      "published_at": "2026-03-18T06:16:22.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇజ్రాయెల్‌పై తొలిసారిగా ఇరాన్ ప్రయోగించిన 'హజ్ ఖాసెమ్' క్షిపణిపై ఒక లుక్",
+      "summary_te": "బీట్ షెమేష్, టెల్ అవీవ్ మరియు జెరూసలేంలోని సైట్‌లను లక్ష్యంగా చేసుకుని దాడులు చేసినట్లు IRGC పేర్కొంది. కతార్, కువైట్, యునైటెడ్ అరబ్ ఎమిరేట్స్ మరియు ఇరాక్‌లోని సౌకర్యాలతో సహా ఈ ప్రాంతంలోని యుఎస్ సైనిక స్థావరాలను బ్యారేజీ తాకినట్లు కూడా పేర్కొంది. ఇరాన్-ఇజ్రాయెల్ యుద్ధం మూడవ వారంలోకి ప్రవేశించినందున ఈ క్షిపణి యొక్క నివేదించబడిన ఉపయోగం గల్ఫ్ అంతటా వ్యాపించి, షిప్పింగ్ లేన్‌లకు అంతరాయం కలిగిస్తుంది మరియు బహుళ ప్రాంతీయ నటులను ఆకర్షించింది.",
+      "translated": true
+    },
+    {
+      "id": "b8ff8d83924edca0bbc7d536499a70b5",
+      "title": "Assembly elections 2026 LIVE: ECI deploys over 1,000 Central observers for upcoming Assembly polls",
+      "summary": "Pradyut Bordoloi, the Congress MP from Assam's Nagaon Lok Sabha seat, quit the party following differences with State party president Gaurav Gogoi over candidate selection for the Laharighat Assembly constituency",
+      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-udpates-march-18-2026/article70756553.ece",
+      "image": null,
+      "published_at": "2026-03-18T06:12:49.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "అసెంబ్లీ ఎన్నికలు 2026 లైవ్: రాబోయే అసెంబ్లీ ఎన్నికల కోసం ECI 1,000 మంది కేంద్ర పరిశీలకులను నియమించింది",
+      "summary_te": "అస్సాంలోని నాగోన్ లోక్‌సభ స్థానం నుంచి కాంగ్రెస్ ఎంపీగా ఉన్న ప్రద్యుత్ బోర్దోలోయ్, లహరీఘాట్ అసెంబ్లీ నియోజకవర్గానికి అభ్యర్థి ఎంపికపై రాష్ట్ర పార్టీ అధ్యక్షుడు గౌరవ్ గొగోయ్‌తో విభేదాల కారణంగా పార్టీని వీడారు.",
+      "translated": true
+    },
+    {
+      "id": "1edc600a3a93888ccf7073e7d15fa410",
+      "title": "Eight killed in Indore house fire after EV charging point blast; probe ordered",
+      "summary": "There was an explosion at the charging point, and the fire in the car then engulfed the house, says Police Commissioner Santosh Kumar Singh",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/indore-ev-charging-point-explosion-fire-death-toll/article70756664.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8zd725/article70756675.ece/alternates/LANDSCAPE_1200/Indore%20blast.jpg",
+      "published_at": "2026-03-18T05:56:29.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "EV ఛార్జింగ్ పాయింట్ పేలుడు తర్వాత ఇండోర్ హౌస్ అగ్నిప్రమాదంలో ఎనిమిది మంది మృతి; విచారణకు ఆదేశించింది",
+      "summary_te": "ఛార్జింగ్ పాయింట్ వద్ద పేలుడు సంభవించిందని, ఆ తర్వాత కారులో మంటలు చెలరేగి ఇంటిని చుట్టుముట్టాయని పోలీసు కమిషనర్ సంతోష్ కుమార్ సింగ్ తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "67e217fded14fa8c1f0e40114742850b",
+      "title": "‘Fly to India for free’: With Taj Mahal in ad, US unveils $2,600 exit bonus for illegal immigrants to self-deport",
+      "summary": "To promote its self-deportation plan aimed at illegal immigrants in the US, the department shared visuals featuring the Taj Mahal.",
+      "url": "https://www.hindustantimes.com/india-news/fly-to-india-for-free-taj-mahal-in-advertisement-us-2-600-usd-exit-bonus-self-deport-illegal-immigrants-101773811010972.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/18/1600x900/logo/dhs_app_1773811300132_1773811304092.png",
+      "published_at": "2026-03-18T05:56:19.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "‘భారతదేశానికి ఉచితంగా వెళ్లండి’: ప్రకటనలో తాజ్ మహల్‌తో, అక్రమ వలసదారులకు స్వీయ-బహిష్కరణ కోసం US $ 2,600 ఎగ్జిట్ బోనస్‌ను ఆవిష్కరించింది",
+      "summary_te": "యుఎస్‌లోని అక్రమ వలసదారులను లక్ష్యంగా చేసుకుని స్వీయ-బహిష్కరణ ప్రణాళికను ప్రోత్సహించడానికి, డిపార్ట్‌మెంట్ తాజ్ మహల్‌ను కలిగి ఉన్న దృశ్యాలను పంచుకుంది.",
+      "translated": true
+    },
     {
       "id": "06fff89037ea1784792cde1ae7f7ca79",
       "title": "Government mandates airlines to reserve 60% of seats free of charge",
@@ -16,20 +100,6 @@
       "language": "en",
       "title_te": "60% సీట్లను ఉచితంగా రిజర్వ్ చేసుకోవాలని ప్రభుత్వం విమానయాన సంస్థలను ఆదేశించింది",
       "summary_te": "మంత్రిత్వ శాఖ తన తాజా విడుదలలో, 'ప్రయాణికుల హక్కుల ఫ్రేమ్‌వర్క్‌కు, ముఖ్యంగా జాప్యాలు, రద్దులు మరియు బోర్డింగ్ నిరాకరించబడిన సందర్భాల్లో' ఖచ్చితంగా కట్టుబడి ఉండాలని కోరింది.",
-      "translated": true
-    },
-    {
-      "id": "fb82f9814d4ff83ff04e26fa81d8a783",
-      "title": "Parliament Budget Session LIVE: PM Modi bids farewell to retiring Rajya Sabha MPs on completion of their terms",
-      "summary": "The Lok Sabha began its proceedings for the day with Question Hour",
-      "url": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-lok-sabha-rajya-sabha-march-18-2026/article70756731.ece",
-      "image": null,
-      "published_at": "2026-03-18T05:51:26.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "పార్లమెంట్ బడ్జెట్ సెషన్ లైవ్: పదవీ విరమణ చేసిన రాజ్యసభ ఎంపీలకు వారి పదవీకాలం పూర్తయిన తర్వాత వీడ్కోలు పలికిన ప్రధాని మోదీ",
-      "summary_te": "లోక్‌సభ ప్రశ్నోత్తరాల సమయంతో రోజంతా తన కార్యకలాపాలను ప్రారంభించింది",
       "translated": true
     },
     {
@@ -47,6 +117,34 @@
       "translated": true
     },
     {
+      "id": "cedf37d92bf02f51f22b5e2286ba2db3",
+      "title": "Watch: Israeli strike in Beirut reduces building to rubble in seconds",
+      "summary": "An Israeli airstrike obliterated a residential building in Beirut early Wednesday, following intensified strikes across Lebanon. The early morning attack flattened the structure, sending a massive dust cloud billowing. This incident, part of wider targeted attacks, resulted in six deaths and twelve injuries, with authorities yet to confirm specific targets amidst ongoing Israeli operations.",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/watch-israeli-strike-in-beirut-reduces-building-to-rubble-in-seconds/articleshow/129648183.cms",
+      "image": "https://static.toiimg.com/photo/msid-129648578,imgsize-2923071.cms",
+      "published_at": "2026-03-18T05:44:26.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "చూడండి: బీరుట్‌లో ఇజ్రాయెల్ సమ్మె సెకనుల్లో భవనం శిథిలావస్థకు చేరుకుంది",
+      "summary_te": "లెబనాన్ అంతటా తీవ్రమైన దాడుల తర్వాత బుధవారం తెల్లవారుజామున ఇజ్రాయెల్ వైమానిక దాడి బీరుట్‌లోని నివాస భవనాన్ని నిర్మూలించింది. తెల్లవారుజామున జరిగిన దాడి వల్ల నిర్మాణాన్ని చదును చేసింది, భారీ ధూళి మేఘాన్ని పంపింది. ఈ సంఘటన, విస్తృత లక్షిత దాడులలో భాగంగా, ఆరు మరణాలు మరియు పన్నెండు మంది గాయాలకు దారితీసింది, కొనసాగుతున్న ఇజ్రాయెల్ కార్యకలాపాల మధ్య అధికారులు ఇంకా నిర్దిష్ట లక్ష్యాలను నిర్ధారించలేదు.",
+      "translated": true
+    },
+    {
+      "id": "36da02a08b126d5a83b5ec53f64860f8",
+      "title": "Hormuz chokehold forces oil reroute via Red Sea — but how long can this lifeline hold?",
+      "summary": "Middle East conflict escalates, disrupting global oil flow. Iran's Strait of Hormuz threats push crude to the Red Sea, but even this route faces danger. Iran warns of targeting US-linked facilities, raising fears of further supply disruptions and potential oil price spikes, impacting consumers worldwide.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/middle-east-news-iran-israel-us-oil-hormuz-chokehold-forces-oil-reroute-via-red-sea-but-how-long-can-this-lifeline-hold/articleshow/129648092.cms",
+      "image": "https://static.toiimg.com/photo/msid-129648220,imgsize-1129686.cms",
+      "published_at": "2026-03-18T05:43:04.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "హార్ముజ్ చోక్‌హోల్డ్ ఎర్ర సముద్రం గుండా చమురు మళ్లింపును బలవంతం చేస్తుంది - అయితే ఈ లైఫ్‌లైన్ ఎంతకాలం పట్టుకోగలదు?",
+      "summary_te": "ప్రపంచ చమురు ప్రవాహానికి అంతరాయం కలిగించే మధ్యప్రాచ్య వివాదం తీవ్రమవుతుంది. ఇరాన్ యొక్క హార్ముజ్ జలసంధి బెదిరింపులు ముడి చమురును ఎర్ర సముద్రంలోకి నెట్టివేస్తాయి, అయితే ఈ మార్గం కూడా ప్రమాదాన్ని ఎదుర్కొంటుంది. ప్రపంచవ్యాప్తంగా వినియోగదారులపై ప్రభావం చూపే మరింత సరఫరా అంతరాయాలు మరియు సంభావ్య చమురు ధరల పెరుగుదల భయాలను పెంచడం, US- లింక్డ్ సౌకర్యాలను లక్ష్యంగా చేసుకుంటుందని ఇరాన్ హెచ్చరించింది.",
+      "translated": true
+    },
+    {
       "id": "b82f128dc015565590340a5b26762a77",
       "title": "Booked air tickets together? You will get seats together: Full list of new measures for passengers in India",
       "summary": "The ministry of civil aviation said in a press release that passenger facilitation remains its highest priority.",
@@ -58,6 +156,20 @@
       "language": "en",
       "title_te": "కలిసి విమాన టిక్కెట్లు బుక్ చేసుకున్నారా? మీరు కలిసి సీట్లు పొందుతారు: భారతదేశంలోని ప్రయాణికుల కోసం కొత్త చర్యల పూర్తి జాబితా",
       "summary_te": "పౌర విమానయాన మంత్రిత్వ శాఖ ఒక పత్రికా ప్రకటనలో ప్రయాణీకుల సౌకర్యానికి అత్యధిక ప్రాధాన్యతనిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "f68e28810a545ae3b3142f76da8a3fe7",
+      "title": "What are AI Tokens? Incentive Nvidia CEO will offer engineers; worth half their salary",
+      "summary": "Nvidia's CEO proposes a new compensation strategy: an annual token budget equivalent to half an engineer's base salary, on top of their regular pay. This move acknowledges tokens as the new currency of AI work, where usage directly impacts productivity and costs. Companies are increasingly tracking token consumption, making compute access a key recruiting factor.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/what-are-ai-tokens-the-incentive-nvidia-ceo-jensen-huang-said-he-will-offer-engineers-worth-half-their-salary/articleshow/129648050.cms",
+      "image": "https://static.toiimg.com/photo/msid-129648050,imgsize-39766.cms",
+      "published_at": "2026-03-18T05:30:03.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "AI టోకెన్‌లు అంటే ఏమిటి? ఇన్సెంటివ్ ఎన్విడియా CEO ఇంజనీర్లను అందిస్తారు; వారి జీతంలో సగం విలువ",
+      "summary_te": "Nvidia యొక్క CEO ఒక కొత్త పరిహార వ్యూహాన్ని ప్రతిపాదిస్తున్నారు: వారి సాధారణ వేతనం పైన, సగం ఇంజనీర్ మూల వేతనానికి సమానమైన వార్షిక టోకెన్ బడ్జెట్. ఈ చర్య టోకెన్‌లను AI పని యొక్క కొత్త కరెన్సీగా గుర్తిస్తుంది, ఇక్కడ వినియోగం నేరుగా ఉత్పాదకత మరియు ఖర్చులను ప్రభావితం చేస్తుంది. కంపెనీలు టోకెన్ వినియోగాన్ని ఎక్కువగా ట్రాక్ చేస్తున్నాయి, కంప్యూట్ యాక్సెస్‌ను కీలక నియామక కారకంగా మారుస్తుంది.",
       "translated": true
     },
     {
@@ -100,6 +212,20 @@
       "language": "en",
       "title_te": "ఇరాన్ సంక్షోభం: లారిజాని హత్య తర్వాత, టెహ్రాన్‌లో అమెరికా ఎవరితో మాట్లాడగలదు?",
       "summary_te": "తన వ్యావహారికసత్తావాదానికి పేరుగాంచిన అనుభవజ్ఞుడైన ఇరానియన్ రాజకీయ నాయకుడు అలీ లారిజానీని ఇజ్రాయెల్ చంపడం, ఇస్లామిక్ రిపబ్లిక్ యొక్క యుద్ధకాల నాయకత్వాన్ని ఎక్కువగా దౌత్య మార్గాన్ని కోరుకునే అవకాశం లేని గట్టివాదుల చేతుల్లోకి వెళ్లిపోతుంది.",
+      "translated": true
+    },
+    {
+      "id": "43a905fa14ce0610e9c76e77ef10f319",
+      "title": "‘Call me’: Lalit Modi reacts to Kavya Maran after Abrar Ahmed row",
+      "summary": "Abrar Ahmed's selection for The Hundred by Sunrisers Leeds has ignited a storm, drawing criticism from former IPL chairman Lalit Modi and sparking political debate. Despite backlash and Sunil Gavaskar's remarks, the franchise and sources close to the player emphasise cricketing merit and focus on his career, highlighting the ongoing geopolitical tensions impacting sports.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/call-me-lalit-modi-reacts-to-kavya-maran-after-abrar-ahmed-row/articleshow/129647907.cms",
+      "image": "https://static.toiimg.com/photo/msid-129647942,imgsize-42936.cms",
+      "published_at": "2026-03-18T05:21:24.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "‘నాకు కాల్ చేయండి’: అబ్రార్ అహ్మద్ గొడవ తర్వాత కావ్య మారన్‌పై లలిత్ మోదీ స్పందించారు",
+      "summary_te": "ది హండ్రెడ్ బై సన్‌రైజర్స్ లీడ్స్‌కు అబ్రార్ అహ్మద్ ఎంపిక తుఫానును రేకెత్తించింది, ఐపిఎల్ మాజీ ఛైర్మన్ లలిత్ మోడీ నుండి విమర్శలు మరియు రాజకీయ చర్చకు దారితీసింది. ఎదురుదెబ్బలు మరియు సునీల్ గవాస్కర్ వ్యాఖ్యలు ఉన్నప్పటికీ, ఫ్రాంచైజీ మరియు క్రీడాకారుడికి సన్నిహిత వర్గాలు క్రికెట్ మెరిట్‌ను నొక్కిచెప్పాయి మరియు అతని కెరీర్‌పై దృష్టి పెడతాయి, క్రీడలపై ప్రభావం చూపుతున్న భౌగోళిక రాజకీయ ఉద్రిక్తతలను హైలైట్ చేస్తుంది.",
       "translated": true
     },
     {
@@ -198,20 +324,6 @@
       "language": "en",
       "title_te": "అలీ లారిజాని హత్య తర్వాత తమ రక్షణ పడిపోదని ఇరాన్ చెప్పింది. ఇక్కడ ఎందుకు ఉంది",
       "summary_te": "భద్రతా చీఫ్ అలీ లారిజానీతో సహా ఇరాన్ ఉన్నతాధికారులను చంపడం టెహ్రాన్‌లో ప్రభుత్వానికి ఎదురుదెబ్బ కాదని ఇరాన్ విదేశాంగ మంత్రి అబ్బాస్ అరాఘీ అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "b8ff8d83924edca0bbc7d536499a70b5",
-      "title": "Assembly elections 2026 LIVE: ECI deploys over 1,000 Central observers for upcoming Assembly polls",
-      "summary": "Pradyut Bordoloi, the Congress MP from Assam's Nagaon Lok Sabha seat, quit the party following differences with State party president Gaurav Gogoi over candidate selection for the Laharighat Assembly constituency",
-      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-udpates-march-18-2026/article70756553.ece",
-      "image": null,
-      "published_at": "2026-03-18T04:50:51.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అసెంబ్లీ ఎన్నికలు 2026 లైవ్: రాబోయే అసెంబ్లీ ఎన్నికల కోసం ECI 1,000 మంది కేంద్ర పరిశీలకులను నియమించింది",
-      "summary_te": "అస్సాంలోని నాగోన్ లోక్‌సభ స్థానం నుంచి కాంగ్రెస్ ఎంపీగా ఉన్న ప్రద్యుత్ బోర్దోలోయ్, లహరీఘాట్ అసెంబ్లీ నియోజకవర్గానికి అభ్యర్థి ఎంపికపై రాష్ట్ర పార్టీ అధ్యక్షుడు గౌరవ్ గొగోయ్‌తో విభేదాల కారణంగా పార్టీని వీడారు.",
       "translated": true
     },
     {
@@ -383,20 +495,6 @@
       "translated": true
     },
     {
-      "id": "1edc600a3a93888ccf7073e7d15fa410",
-      "title": "At least seven killed in fire after explosion at EV charging point outside a house in Indore",
-      "summary": "A child was reported missing following the incident and was being searched, the ACP said",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/indore-ev-charging-point-explosion-fire-death-toll/article70756664.ece",
-      "image": "https://th-i.thgim.com/public/incoming/8zd725/article70756675.ece/alternates/LANDSCAPE_1200/Indore%20blast.jpg",
-      "published_at": "2026-03-18T04:28:58.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇండోర్‌లోని ఇంటి వెలుపల ఉన్న EV ఛార్జింగ్ పాయింట్‌లో పేలుడు సంభవించిన తరువాత కనీసం ఏడుగురు మరణించారు",
-      "summary_te": "ఈ ఘటన తర్వాత ఓ చిన్నారి కనిపించకుండా పోయిందని, అతడి కోసం గాలిస్తున్నామని ఏసీపీ తెలిపారు",
-      "translated": true
-    },
-    {
       "id": "084637cc9b3072a2d12b7538cc5ee74d",
       "title": "CBSE Opens List Of Candidates Window For Class 10 Second Board Exams 2026",
       "summary": "CBSE Class 10 Second Board Exams 2026: Schools have been advised to encourage students willing to appear for the second examination to submit their LOC in the first phase to aid advance planning.",
@@ -426,16 +524,16 @@
     },
     {
       "id": "a49d58d40f6bab921f36768729e83cb4",
-      "title": "At least 6 killed as massive fire engulfs residential building in Delhi’s Palam",
-      "summary": "A major fire erupted in a multi-storey residential building in Southwest Delhi's Palam area on Wednesday morning, trapping several people. Around 30 fire tenders and 100 firefighters battled the blaze for nearly three hours. Claims suggest nine family members were trapped, but rescue operations are ongoing to confirm numbers and evacuate occupants.",
+      "title": "3 kids among 7 killed in massive fire at residential building in Delhi's Palam",
+      "summary": "A devastating fire in southwest Delhi's Palam area claimed at least seven lives, including three children, on Wednesday morning. The blaze, which broke out near the Palam Metro Station, raged for nearly three hours, making rescue operations difficult. Reports indicated nine family members may have been trapped inside the building.",
       "url": "https://timesofindia.indiatimes.com/city/delhi/several-people-trapped-inside-as-fire-breaks-out-in-southwest-delhis-palam-residential-building/articleshow/129646975.cms",
       "image": "https://static.toiimg.com/photo/msid-129647893,imgsize-14684.cms",
       "published_at": "2026-03-18T04:17:35.000Z",
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఢిల్లీలోని పాలంలోని నివాస భవనంలో భారీ అగ్నిప్రమాదం సంభవించడంతో కనీసం 6 మంది మరణించారు",
-      "summary_te": "నైరుతి ఢిల్లీలోని పాలం ప్రాంతంలోని బహుళ అంతస్తుల నివాస భవనంలో బుధవారం ఉదయం భారీ అగ్నిప్రమాదం సంభవించి పలువురు చిక్కుకున్నారు. దాదాపు 30 ఫైరింజన్లు, 100 మంది అగ్నిమాపక సిబ్బంది దాదాపు మూడు గంటల పాటు శ్రమించి మంటలను అదుపులోకి తెచ్చారు. తొమ్మిది మంది కుటుంబ సభ్యులు చిక్కుకున్నారని దావాలు సూచిస్తున్నాయి, అయితే సంఖ్యలను నిర్ధారించడానికి మరియు నివాసితులను ఖాళీ చేయడానికి రెస్క్యూ ఆపరేషన్‌లు కొనసాగుతున్నాయి.",
+      "title_te": "ఢిల్లీలోని పాలంలోని నివాస భవనంలో జరిగిన భారీ అగ్నిప్రమాదంలో ముగ్గురు చిన్నారులు సహా ఏడుగురు మృతి చెందారు",
+      "summary_te": "నైరుతి ఢిల్లీలోని పాలం ప్రాంతంలో బుధవారం తెల్లవారుజామున జరిగిన అగ్ని ప్రమాదంలో ముగ్గురు చిన్నారులు సహా ఏడుగురు మరణించారు. పాలెం మెట్రో స్టేషన్ సమీపంలో చెలరేగిన మంటలు దాదాపు మూడు గంటల పాటు ఎగసిపడటంతో సహాయక చర్యలు కష్టతరంగా మారాయి. తొమ్మిది మంది కుటుంబ సభ్యులు భవనంలో చిక్కుకుపోయి ఉండవచ్చని నివేదికలు సూచించాయి.",
       "translated": true
     },
     {
@@ -548,20 +646,6 @@
       "language": "en",
       "title_te": "ఢిల్లీ యూనివర్సిటీ విద్యార్థులతో ప్రత్యక్ష చర్చల కోసం 'కాఫీ విత్ వీసీ' కార్యక్రమాన్ని ప్రారంభించింది",
       "summary_te": "ఢిల్లీ యూనివర్శిటీ న్యూస్: వీసీ కార్యాలయంలో \"కాఫీ విత్ వైస్-ఛాన్సలర్\" కార్యక్రమం నిర్వహించబడింది మరియు రాబోయే రోజుల్లో మరిన్ని సెషన్‌లు జరిగే అవకాశం ఉందని DU అధికారులు మంగళవారం తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "d706aaa9d0b1a0f3d73117f7b933d482",
-      "title": "Stock market today: Nifty50 opens above 23,650; BSE Sensex up over 300 points",
-      "summary": "Stock market today: Nifty50 and BSE Sensex continued their upward trend for the third day on Wednesday. While Nifty50 went above 23,650, BSE Sensex was up over 300 points.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-nifty50-bse-sensex-march-18-2026-dalal-street-indian-equities-global-markets-us-iran-war-middle-east-conflict-donald-trump-oil-prices/articleshow/129645781.cms",
-      "image": "https://static.toiimg.com/photo/msid-129645804,imgsize-82718.cms",
-      "published_at": "2026-03-18T03:48:45.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "నేడు స్టాక్ మార్కెట్: నిఫ్టీ50 23,650 పైన ప్రారంభమవుతుంది; బీఎస్ఈ సెన్సెక్స్ 300 పాయింట్లకు పైగా లాభపడింది",
-      "summary_te": "నేడు స్టాక్ మార్కెట్: నిఫ్టీ 50 మరియు బిఎస్‌ఇ సెన్సెక్స్ బుధవారం మూడవ రోజు తమ అప్‌వర్డ్ ట్రెండ్‌ను కొనసాగించాయి. నిఫ్టీ50 23,650కి ఎగువన వెళ్లగా, బిఎస్‌ఇ సెన్సెక్స్ 300 పాయింట్లకు పైగా పెరిగింది.",
       "translated": true
     },
     {
@@ -719,20 +803,6 @@
       "translated": true
     },
     {
-      "id": "0d9c2dab848b9d7409aada8c6507432b",
-      "title": "Diplomatic debacle? Bangladesh to probe T20 World Cup pullout in fresh inquiry",
-      "summary": "Bangladesh's government is launching a new probe into the country's withdrawal from the ICC Twenty20 World Cup, examining potential failures in sports diplomacy. This comes after the Bangladesh Cricket Board requested the shutdown of an earlier investigation. The new committee will focus on identifying root causes and strengthening sports diplomacy, also looking into alleged irregularities in recent BCB elections.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/diplomatic-debacle-bangladesh-to-probe-t20-world-cup-pullout-in-fresh-inquiry/articleshow/129645807.cms",
-      "image": "https://static.toiimg.com/photo/msid-129645795,imgsize-161582.cms",
-      "published_at": "2026-03-18T02:45:50.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "దౌత్యపరమైన పరాజయా? బంగ్లాదేశ్‌ టీ20 ప్రపంచకప్‌ ఉపసంహరణపై తాజా విచారణలో విచారణ చేపట్టనుంది",
-      "summary_te": "బంగ్లాదేశ్ ప్రభుత్వం ICC ట్వంటీ 20 ప్రపంచ కప్ నుండి దేశం వైదొలగడంపై కొత్త దర్యాప్తును ప్రారంభించింది, క్రీడా దౌత్యంలో సంభావ్య వైఫల్యాలను పరిశీలిస్తుంది. బంగ్లాదేశ్ క్రికెట్ బోర్డు ముందస్తు విచారణను నిలిపివేయాలని అభ్యర్థించడంతో ఇది జరిగింది. కొత్త కమిటీ మూల కారణాలను గుర్తించడం మరియు క్రీడా దౌత్యాన్ని బలోపేతం చేయడంపై దృష్టి సారిస్తుంది, ఇటీవలి బిసిబి ఎన్నికలలో ఆరోపించిన అక్రమాలను కూడా పరిశీలిస్తుంది.",
-      "translated": true
-    },
-    {
       "id": "f0d37fbdbc3123f5861745e5634c5a71",
       "title": "An uproar that marked the State’s name change from ‘Madras’ to ‘Tamil Nadu’",
       "summary": "The new name came into force on January 14, 1969, the day of ‘Thai Pongal.’",
@@ -758,6 +828,20 @@
       "language": "en",
       "title_te": "తమిళనాడులో CB-CID విచారణకు దారితీసిన కిడ్నీ విక్రయం",
       "summary_te": "కిడ్నీల అక్రమ విక్రయంలో వైద్యులు మరియు ఆసుపత్రులతో ఏజెంట్ల అనుబంధం బట్టబయలైంది, ఈ కేసును దర్యాప్తు చేయడంలో CB-CID యొక్క ఆర్గనైజ్డ్ క్రైమ్ విభాగానికి నాయకత్వం వహించిన అప్పటి డిప్యూటీ సూపరింటెండెంట్ ఆఫ్ పోలీస్ వి. పార్థసారథి 2010లో ప్రచురించబడిన ఒక పోలీసు జర్నల్‌లో రాశారు.",
+      "translated": true
+    },
+    {
+      "id": "ee03382e02b1cae2d81e0b112c832234",
+      "title": "Injuries hit IPL pace units: KKR, SRH, RCB face selection headaches",
+      "summary": "IPL franchises Kolkata Knight Riders, Sunrisers Hyderabad, and Royal Challengers Bengaluru face significant pace bowling concerns due to injuries. KKR's Harshit Rana and Matheesha Pathirana are sidelined, while SRH captain Pat Cummins' fitness is uncertain. RCB's Josh Hazlewood is also racing against time to recover, potentially impacting their bowling attack.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/injuries-hit-ipl-pace-units-kkr-srh-rcb-face-selection-headaches/articleshow/129645632.cms",
+      "image": "https://static.toiimg.com/photo/msid-129645685,imgsize-1404487.cms",
+      "published_at": "2026-03-18T02:40:21.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "IPL పేస్ విభాగాలను గాయాలు తాకాయి: KKR, SRH, RCB ముఖం ఎంపిక తలనొప్పులు",
+      "summary_te": "IPL ఫ్రాంచైజీలు కోల్‌కతా నైట్ రైడర్స్, సన్‌రైజర్స్ హైదరాబాద్ మరియు రాయల్ ఛాలెంజర్స్ బెంగళూరు గాయాల కారణంగా పేస్ బౌలింగ్‌లో గణనీయమైన సమస్యలను ఎదుర్కొంటున్నాయి. KKR యొక్క హర్షిత్ రాణా మరియు మతీషా పతిరానా పక్కన ఉండగా, SRH కెప్టెన్ పాట్ కమిన్స్ ఫిట్‌నెస్ అనిశ్చితంగా ఉంది. RCB యొక్క జోష్ హేజిల్‌వుడ్ కూడా కోలుకునే సమయానికి వ్యతిరేకంగా పరుగెత్తుతున్నాడు, ఇది వారి బౌలింగ్ దాడిని సమర్థవంతంగా ప్రభావితం చేస్తుంది.",
       "translated": true
     },
     {
@@ -804,16 +888,16 @@
     },
     {
       "id": "ba45d51c6d406c59f4d5008cc07023f2",
-      "title": "Live: PM speaks as Rajya Sabha bids farewell to retiring MPs",
-      "summary": "Live: PM speaks as Rajya Sabha bids farewell to retiring MPs",
+      "title": "Live: Kharge says leaders never retire from service after PM's RS farewell to MPs",
+      "summary": "Live: Kharge says leaders never retire from service after PM's RS farewell to MPs",
       "url": " https://www.indiatoday.in/india/story/parliament-budget-session-2026-live-updates-lok-sabha-rajya-sabha-discussion-2883486-2026-03-18?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202603/pm-modi--narendra-modi--west-bengal-rally-184840204-16x9_0.png?VersionId=Zfwjbe8e6NDL46vQCsP7mhUu3yOHBIq.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202603/mallikarjun-kharge-speaks-in-parliament-180603825-16x9_0.png?VersionId=uXWzoUNL3Qx4YJqwxzZAYbtK1vBKy9Wi",
       "published_at": "2026-03-18T02:31:14.000Z",
       "source": "India Today",
       "category": "india",
       "language": "en",
-      "title_te": "ప్రత్యక్ష ప్రసారం: పదవీ విరమణ చేస్తున్న ఎంపీలకు రాజ్యసభ వీడ్కోలు పలుకుతున్న సమయంలో ప్రధాని ప్రసంగించారు",
-      "summary_te": "ప్రత్యక్ష ప్రసారం: పదవీ విరమణ చేస్తున్న ఎంపీలకు రాజ్యసభ వీడ్కోలు పలుకుతున్న సమయంలో ప్రధాని ప్రసంగించారు",
+      "title_te": "ప్రత్యక్ష ప్రసారం: ఎంపీలకు PM RS వీడ్కోలు తర్వాత నాయకులు ఎప్పుడూ సేవ నుండి విరమించుకోరని ఖర్గే చెప్పారు",
+      "summary_te": "ప్రత్యక్ష ప్రసారం: ఎంపీలకు PM RS వీడ్కోలు తర్వాత నాయకులు ఎప్పుడూ సేవ నుండి విరమించుకోరని ఖర్గే చెప్పారు",
       "translated": true
     },
     {
@@ -859,20 +943,6 @@
       "translated": true
     },
     {
-      "id": "eca5b50b4c18585cb029c2f9cb44182f",
-      "title": "Jasprit Bumrah’s A+ exit leaves Rs 2 cr gap, BCCI may revisit pay structure",
-      "summary": "The BCCI may revise player contract valuations after removing the A+ category, potentially impacting consistent performers like Jasprit Bumrah. Bumrah, previously A+, was moved to Grade A, raising concerns about a pay cut. Other players like Axar Patel also face contract downgrades despite strong performances, prompting a review of the system.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/jasprit-bumrahs-a-exit-leaves-rs-2-cr-gap-bcci-may-revisit-pay-structure/articleshow/129645493.cms",
-      "image": "https://static.toiimg.com/photo/msid-129645504,imgsize-102738.cms",
-      "published_at": "2026-03-18T02:22:04.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "జస్ప్రీత్ బుమ్రా A+ నిష్క్రమణ రూ. 2 కోట్ల గ్యాప్‌ను మిగిల్చింది, BCCI వేతన నిర్మాణాన్ని మళ్లీ సందర్శించవచ్చు",
-      "summary_te": "A+ కేటగిరీని తొలగించిన తర్వాత BCCI ప్లేయర్ కాంట్రాక్ట్ వాల్యుయేషన్‌లను సవరించవచ్చు, ఇది జస్ప్రీత్ బుమ్రా వంటి స్థిరమైన ప్రదర్శనకారులపై ప్రభావం చూపుతుంది. గతంలో A+ ఉన్న బుమ్రా, జీతాల కోత గురించి ఆందోళన వ్యక్తం చేస్తూ A గ్రేడ్‌కి మార్చబడ్డాడు. అక్సర్ పటేల్ వంటి ఇతర ఆటగాళ్ళు కూడా బలమైన ప్రదర్శనలు ఉన్నప్పటికీ కాంట్రాక్ట్ డౌన్‌గ్రేడ్‌లను ఎదుర్కొంటారు, ఇది సిస్టమ్ యొక్క సమీక్షను ప్రాంప్ట్ చేస్తుంది.",
-      "translated": true
-    },
-    {
       "id": "9b8667886e5572a6d52f1b160261f59d",
       "title": "\"Yes, I'm Alive\": Netanyahu Debunks Death Rumours In New Clip With US Envoy",
       "summary": "Israel's Prime Minister Benjamin Netanyahu has released another video message, this time alongside US Ambassador to Israel Mike Huckabee, dismissing viral conspiracy theories falsely claiming he had been killed during the ongoing conflict with Iran.",
@@ -898,6 +968,20 @@
       "language": "en",
       "title_te": "పరారీలో ఉన్న వజ్రాల వ్యాపారి నీరవ్ మోదీ భారత్‌కు అప్పగించడాన్ని నిలిపివేయాలని లండన్ కోర్టును ఆశ్రయించారు",
       "summary_te": "నీరవ్ మోడీ తరపు న్యాయవాది తన క్లయింట్‌ను ముంబైలోని ఆర్థర్ రోడ్ జైలు నుండి తరలించి, బలవంతపు విచారణకు గురిచేసే ప్రమాదం ఉందని వాదించారు.",
+      "translated": true
+    },
+    {
+      "id": "fc7398ce958a4d5e2e9e9efd6f06693e",
+      "title": "After harassment, 10-man gang follows Class X girl home, ransacks house, damages vehicles in TN",
+      "summary": "A gang of at least 10 men harassed a Class X girl returning from an exam in Tiruttani, then ransacked her home and damaged vehicles. Following the incident, over 100 villagers held a road blockade demanding arrests. Police have arrested five youths and are searching for the remaining five.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/gang-of-10-harasses-class-x-girl-on-road-in-tiruttani-follows-her-home-vandalizes-area/articleshow/129641147.cms",
+      "image": "https://static.toiimg.com/photo/msid-129647263,imgsize-64598.cms",
+      "published_at": "2026-03-18T02:05:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "వేధింపుల తర్వాత, 10 మంది వ్యక్తుల ముఠా TNలో పదవ తరగతి బాలిక ఇంటిని అనుసరిస్తూ, ఇంటిని దోచుకుని, వాహనాలను పాడు చేశారు",
+      "summary_te": "తిరుత్తణిలో పరీక్షకు హాజరై తిరిగి వస్తున్న పదవ తరగతి బాలికపై కనీసం 10 మందితో కూడిన ముఠా వేధింపులకు పాల్పడి, ఆమె ఇంటిని దోచుకుని వాహనాలను ధ్వంసం చేశారు. ఈ ఘటన అనంతరం 100 మందికి పైగా గ్రామస్తులు అరెస్టు చేయాలని డిమాండ్ చేస్తూ రోడ్డు దిగ్బంధనం చేశారు. ఐదుగురు యువకులను అదుపులోకి తీసుకున్న పోలీసులు మిగిలిన ఐదుగురి కోసం గాలిస్తున్నారు.",
       "translated": true
     },
     {
@@ -1013,20 +1097,6 @@
       "translated": true
     },
     {
-      "id": "a6936e0584f48331da481f287529cd96",
-      "title": "Man throws acid at Class 6 girl on way home from school in Ahilyanagar",
-      "summary": "A 13-year-old girl in Nashik suffered severe facial burns after an unidentified assailant threw acid at her while she was cycling home from school. Police have registered an FIR and formed teams to identify the culprit by reviewing CCTV footage. The government has pledged financial aid and full treatment costs for the victim.",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/13-year-old-girl-hospitalised-after-acid-attack-in-ahilyanagar/articleshow/129641031.cms",
-      "image": "https://static.toiimg.com/photo/msid-129645083,imgsize-592476.cms",
-      "published_at": "2026-03-18T01:27:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "అహల్యానగర్‌లో 6వ తరగతి చదువుతున్న బాలికపై పాఠశాల నుంచి ఇంటికి వస్తుండగా ఓ వ్యక్తి యాసిడ్‌ విసిరాడు",
-      "summary_te": "నాసిక్‌లోని 13 ఏళ్ల బాలిక పాఠశాల నుంచి ఇంటికి సైకిల్‌పై వెళ్తుండగా గుర్తు తెలియని దుండగుడు ఆమెపై యాసిడ్‌ విసిరడంతో ఆమె ముఖంపై తీవ్ర గాయాలయ్యాయి. పోలీసులు ఎఫ్‌ఐఆర్ నమోదు చేసి సీసీటీవీ ఫుటేజీని పరిశీలించి నిందితుడిని గుర్తించేందుకు బృందాలను ఏర్పాటు చేశారు. బాధితునికి ప్రభుత్వం ఆర్థిక సహాయం మరియు పూర్తి చికిత్స ఖర్చులను హామీ ఇచ్చింది.",
-      "translated": true
-    },
-    {
       "id": "846bdc880b9ef1130baa05e0a4636525",
       "title": "22 Indian vessels still stuck in Strait of Hormuz",
       "summary": "Nanda Devi arrived at Gujarat’s Vadinar port on Tuesday We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
@@ -1070,16 +1140,16 @@
     },
     {
       "id": "f590198a00ac332aad2f9b3debb76f5b",
-      "title": "Sonam Wangchuk calls for a ‘win-win’ outcome over Ladakh issue",
-      "summary": "Climate activist Sonam Wangchuk, recently released from detention, calls for meaningful dialogue and a \"win-win\" outcome for Ladakh's political demands.",
+      "title": "Activist Sonam Wangchuk calls for a ‘win-win’ outcome over Ladakh issue",
+      "summary": "Climate activist Sonam Wangchuk, recently released from detention, said something good can be achieved if trust is built and dialogue is meaningful.",
       "url": "https://www.hindustantimes.com/india-news/sonam-wangchuk-calls-for-a-win-win-outcome-over-ladakh-issue-101773775026770.html",
       "image": "https://www.hindustantimes.com/ht-img/img/2026/03/18/1600x900/logo/angmo_1773565517153_1773565532656_1773796572156.jpg",
       "published_at": "2026-03-18T00:34:10.000Z",
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "లడఖ్ సమస్యపై 'విన్-విన్' ఫలితం కోసం సోనమ్ వాంగ్‌చుక్ పిలుపునిచ్చారు",
-      "summary_te": "ఇటీవల నిర్బంధం నుండి విడుదలైన వాతావరణ కార్యకర్త సోనమ్ వాంగ్‌చుక్, లడఖ్ రాజకీయ డిమాండ్‌ల కోసం అర్థవంతమైన సంభాషణ మరియు \"విన్-విన్\" ఫలితం కోసం పిలుపునిచ్చారు.",
+      "title_te": "కార్యకర్త సోనమ్ వాంగ్‌చుక్ లడఖ్ సమస్యపై 'విన్-విన్' ఫలితం కోసం పిలుపునిచ్చారు",
+      "summary_te": "ఇటీవల నిర్బంధం నుండి విడుదలైన వాతావరణ కార్యకర్త సోనమ్ వాంగ్‌చుక్ మాట్లాడుతూ, విశ్వాసాన్ని పెంపొందించుకుని, సంభాషణ అర్థవంతంగా ఉంటే ఏదైనా మంచిని సాధించవచ్చని అన్నారు.",
       "translated": true
     },
     {
@@ -1209,34 +1279,6 @@
       "translated": true
     },
     {
-      "id": "54d9ea7c0d03c49fdbf36a55ae3c39e1",
-      "title": "LPG shortage: Hotels in Kerala to shut down on Mar 23, hotels' union says",
-      "summary": "KHRA also said that oil companies were not distributing cylinders to hotels as they were not included in the priority category for supply of LPG.",
-      "url": "https://www.hindustantimes.com/india-news/lpg-shortage-hotels-in-kerala-to-shut-down-on-mar-23-hotels-union-says-101773789277740.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/17/1600x900/logo/Punjab-based-LPG-distributors-on-Tuesday-said-that_1773789346924_1773789358493.jpg",
-      "published_at": "2026-03-17T23:16:40.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఎల్‌పిజి కొరత: కేరళలోని హోటళ్లు మార్చి 23న మూతపడనున్నాయని హోటల్స్ యూనియన్ తెలిపింది",
-      "summary_te": "ఎల్‌పిజి సరఫరాకు ప్రాధాన్యత కలిగిన కేటగిరీలో చేర్చనందున చమురు కంపెనీలు హోటళ్లకు సిలిండర్‌లను పంపిణీ చేయడం లేదని కెహెచ్‌ఆర్‌ఎ తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "16d935c8dacd0b0f41b2827ffed01e0f",
-      "title": "Feeling dizzy when you stand up quickly? Cardiologist explains what it may reveal",
-      "summary": "Feeling lightheaded when you get up too quickly? Doctors note that this can be indicative of fluctuations in blood pressure or circulation changes. Though it usually isn't a cause for concern, if it happens often, it could reveal deeper health issues. Adopting measures like rising gradually and ensuring you drink enough fluids can enhance your cardiovascular wellness and stability.",
-      "url": "https://timesofindia.indiatimes.com/health/feeling-dizzy-when-you-stand-up-quickly-cardiologist-explains-what-it-may-reveal-about-blood-pressure-and-hydration/articleshow/129636225.cms",
-      "image": "https://static.toiimg.com/photo/msid-129636225,imgsize-73700.cms",
-      "published_at": "2026-03-17T22:30:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మీరు త్వరగా లేచినప్పుడు తల తిరుగుతున్నట్లు అనిపిస్తుందా? కార్డియాలజిస్ట్ అది ఏమి వెల్లడిస్తుందో వివరిస్తుంది",
-      "summary_te": "మీరు చాలా త్వరగా లేచినప్పుడు తేలికగా భావిస్తున్నారా? ఇది రక్తపోటులో హెచ్చుతగ్గులు లేదా ప్రసరణ మార్పులను సూచిస్తుందని వైద్యులు గమనించారు. ఇది సాధారణంగా ఆందోళనకు కారణం కానప్పటికీ, ఇది తరచుగా జరిగితే, ఇది లోతైన ఆరోగ్య సమస్యలను బహిర్గతం చేస్తుంది. క్రమంగా పెరగడం మరియు మీరు తగినంత ద్రవాలు తాగేలా చూసుకోవడం వంటి చర్యలను అనుసరించడం మీ హృదయ ఆరోగ్యాన్ని మరియు స్థిరత్వాన్ని మెరుగుపరుస్తుంది.",
-      "translated": true
-    },
-    {
       "id": "686be6e284cc6e9372e20044b3e566e6",
       "title": "'Found lying in pool of blood': 3-month-pregnant YouTuber murdered by husband",
       "summary": "A 20-year-old pregnant YouTuber, Chittari Vaishnavi, was allegedly murdered by her husband, Gandam Hari, in Jagtial district. Vaishnavi, who had 50,000 subscribers, was found with multiple stab injuries. Police suspect dowry harassment and family disputes escalated tensions, leading to the fatal attack. Hari is currently absconding.",
@@ -1248,20 +1290,6 @@
       "language": "en",
       "title_te": "'రక్తపు మడుగులో పడి ఉన్నాడు': 3 నెలల గర్భిణిని భర్త హత్య చేశాడు",
       "summary_te": "జగిత్యాల్ జిల్లాలో 20 ఏళ్ల గర్భిణి యూట్యూబర్ చిత్తారి వైష్ణవిని ఆమె భర్త గండం హరి హత్య చేశాడు. 50,000 మంది సబ్‌స్క్రైబర్‌లను కలిగి ఉన్న వైష్ణవి అనేక కత్తిపోట్లతో కనిపించింది. వరకట్న వేధింపులు, కుటుంబ కలహాలు ఉద్రిక్తతకు దారితీసి హత్యకు దారితీసినట్లు పోలీసులు అనుమానిస్తున్నారు. హరి ప్రస్తుతం పరారీలో ఉన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "4f008a2fdc8ea841252a4d88d2d469b7",
-      "title": "‘BJP diluting rural job scheme’: Chhattisgarh Congress stages protest",
-      "summary": "Accusing the Bharatiya Janata Party (BJP)-led Central government of weakening the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) by replacing it with Viksit Bharat Guarantee for Rozgar and Aajeevika Mission (Gramin) (VB G-RAM-G), the Opposition Congress staged a gherao of the Chhattisgarh Assembly on Tuesday (March.Senior party leaders were present at the protest over changes in the employment guarantee scheme and local issues such as “electricity tariff hikes, betrayal of farmers, failure to fulfil promises regarding paddy procurement, rising gas cylinder prices, deteriorating law and order, and the cultivation and trade of narcotics within the State”.Addressing the gathering, AICC general secretary in-charge of Chhattisgarh Sachin Pilot alleged that the Narendra Modi government at the Centre intended to discontinue the employment guarantee schemer. “Previously, 90% of the funds for the scheme were disbursed by the Central governmenti. Now, they have imposed a 60:40 funding ratio upon the States. Furthermore, the authority to take decisions regarding the execution of various projects — such as the construction of fields, threshing floors, wells, and ponds — has been taken away from the gram panchayats,” he said.Former Chief Minister Bhupesh Baghel alleged that while scheme had enabled millions of families secure employment and the BJP was actively working to strip away these rights and deprive people of their rights and entitlements.Earlier, Congress MLAs, including Mr. Baghel and Leader of the Opposition Charan Das Mahant, raised the issue inside the Assembly and moved an adjournment motion. The adjournment motion was disallowed by the Chair following which the Congress MLAs staged a walkout.",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/bjpdiluting-rural-job-scheme-chhattisgarh-cong-stages-protest/article70754480.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1ns2ao/article70755700.ece/alternates/LANDSCAPE_1200/PTI03_17_2026_000315B.jpg",
-      "published_at": "2026-03-17T21:13:16.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "‘గ్రామీణ ఉద్యోగ పథకాన్ని నిర్వీర్యం చేస్తున్న బీజేపీ’: ఛత్తీస్‌గఢ్‌లో కాంగ్రెస్‌ నిరసన తెలిపింది",
-      "summary_te": "భారతీయ జనతా పార్టీ (బిజెపి) నేతృత్వంలోని కేంద్ర ప్రభుత్వం మహాత్మా గాంధీ జాతీయ గ్రామీణ ఉపాధి హామీ చట్టాన్ని (ఎంజిఎన్‌ఆర్‌ఇజిఎ) నిర్వీర్యం చేసిందని ఆరోపిస్తూ దాని స్థానంలో రోజ్‌గార్ మరియు ఆజీవిక మిషన్ (గ్రామీన్) (విబి జి-రామ్-జి) కోసం విక్షిత్ భారత్ గ్యారెంటీని ప్రవేశపెట్టింది. ఉపాధి హామీ పథకంలో మార్పులు, విద్యుత్ ఛార్జీల పెంపు, రైతులకు ద్రోహం, వరి ధాన్యం కొనుగోలుకు సంబంధించిన హామీలను నెరవేర్చకపోవడం, గ్యాస్ సిలిండర్ ధరలు పెరగడం, శాంతిభద్రతలు క్షీణించడం, రాష్ట్రంలో మాదక ద్రవ్యాల సాగు, వ్యాపారం వంటి స్థానిక సమస్యలపై పార్టీ నాయకులు నిరసన వ్యక్తం చేశారు. కేంద్రంలోని మోడీ ప్రభుత్వం ఉపాధి హామీ పథకానికి స్వస్తి చెప్పాలని భావించింది, “గతంలో ఈ పథకానికి 90% నిధులు కేంద్ర ప్రభుత్వం పంపిణీ చేసింది, ఇప్పుడు వారు రాష్ట్రాలపై 60:40 నిధుల నిష్పత్తిని విధించారు. ఇంకా, వివిధ ప్రాజెక్టులు, నేలలు, నిర్మాణాలు వంటి వాటి అమలుకు సంబంధించి నిర్ణయాలు తీసుకునే అధికారం ఉంది. గ్రామపంచాయతీలకు దూరంగా,” అని అన్నారు.మాజీ ముఖ్యమంత్రి భూపేష్ బాఘేల్ ఈ పథకం ద్వారా లక్షలాది కుటుంబాలకు ఉపాధి కల్పించారని, ఈ హక్కులను తొలగించి, ప్రజల హక్కులు, హక్కులను హరించేలా బీజేపీ చురుకుగా పనిచేస్తోందని ఆరోపించారు. సభాపతి అనుమతించకపోవడంతో కాంగ్రెస్‌ ఎమ్మెల్యేలు వాకౌట్‌ చేశారు.",
       "translated": true
     },
     {
@@ -1335,6 +1363,20 @@
       "translated": true
     },
     {
+      "id": "f52fb02ee020ce70d68ad951c083f17e",
+      "title": "Watch: Canadian PM and Finland President discuss ‘Dhurandhar’ during jog in London",
+      "summary": "Finnish President Alexander Stubb and Canadian Prime Minister Mark Carney were captured jogging in London's Hyde Park, discussing the Hindi blockbuster 'Dhurandhar'. Stubb revealed his Instagram popularity surge in India followed his mention of the film, which he described as portraying serious issues. The conversation highlighted the growing international reach of Indian cinema.",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/not-a-game-at-all-canadian-pm-mark-carney-and-finlands-president-alexander-stubb-discuss-dhurandhar-during-a-jog-in-london/articleshow/129641203.cms",
+      "image": "https://static.toiimg.com/photo/msid-129641545,imgsize-1816447.cms",
+      "published_at": "2026-03-17T20:00:16.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "చూడండి: కెనడియన్ PM మరియు ఫిన్లాండ్ అధ్యక్షుడు లండన్‌లో జాగ్ చేస్తున్నప్పుడు 'ధురంధర్' గురించి చర్చించారు",
+      "summary_te": "ఫిన్నిష్ ప్రెసిడెంట్ అలెగ్జాండర్ స్టబ్ మరియు కెనడా ప్రధాన మంత్రి మార్క్ కార్నీ లండన్‌లోని హైడ్ పార్క్‌లో హిందీ బ్లాక్‌బస్టర్ 'ధురంధర్' గురించి చర్చిస్తూ జాగింగ్ చేస్తూ పట్టుబడ్డారు. భారతదేశంలో తన ఇన్‌స్టాగ్రామ్ జనాదరణ పెరుగుదల గురించి స్టబ్ వెల్లడించాడు, ఈ చిత్రం గురించి అతని ప్రస్తావన తరువాత, అతను తీవ్రమైన సమస్యలను చిత్రీకరిస్తున్నట్లు వివరించాడు. ఈ సంభాషణ భారతీయ సినిమా అంతర్జాతీయ స్థాయికి ఎదుగుతున్న తీరును హైలైట్ చేసింది.",
+      "translated": true
+    },
+    {
       "id": "c6d8c7029ae6698f55322895008be3f8",
       "title": "Those threatening peace to pay a very heavy price: J&K L-G Manoj Sinha",
       "summary": "The remarks assume significance in the wake of recent protests against the killing of Iran’s supreme leader Ali Khamenei in Kashmir and the detention of scores of protesters thereafter.",
@@ -1360,48 +1402,6 @@
       "language": "en",
       "title_te": "PDP శాసనసభ్యుడు మెహదీ J&K అసెంబ్లీలో ‘కాశ్మీరీ పండిట్ మరియు వలసదారుల పునరేకీకరణ బిల్లు’ను ప్రవేశపెట్టారు",
       "summary_te": "1990వ దశకంలో ఉగ్రమైన మిలిటెన్సీ నేపథ్యంలో వందలాది మంది కాశ్మీరీ పండిట్లు కాశ్మీర్ లోయను విడిచిపెట్టి దేశంలోని వివిధ ప్రాంతాల్లో స్థిరపడ్డారు.",
-      "translated": true
-    },
-    {
-      "id": "d1493b57ae2a37c4ab1e7116bd2e9681",
-      "title": "Rafael Nadal’s uncle Toni questions Carlos Alcaraz mindset after Roger Federer remark",
-      "summary": "Carlos Alcaraz’s comment about feeling like he faces “Roger Federer every round” has sparked debate, with Toni Nadal strongly disagreeing. Nadal said opponents raise their level because Alcaraz is better, not because they target him. After losing to Daniil Medvedev at Indian Wells, Alcaraz now heads to the Miami Open, where a tough second-round match awaits.",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/rafael-nadals-uncle-toni-nadal-questions-carlos-alcaraz-mindset-after-roger-federer-comment-during-indian-wells-controversy/articleshow/129641553.cms",
-      "image": "https://static.toiimg.com/photo/msid-129641531,imgsize-780202.cms",
-      "published_at": "2026-03-17T19:48:31.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "రోజర్ ఫెదరర్ వ్యాఖ్య తర్వాత కార్లోస్ అల్కరాజ్ మైండ్‌సెట్‌ను రాఫెల్ నాదల్ మేనమామ టోనీ ప్రశ్నించారు",
-      "summary_te": "\"రోజర్ ఫెడరర్ ప్రతి రౌండ్\"ను ఎదుర్కొంటున్నట్లుగా భావించడం గురించి కార్లోస్ అల్కరాజ్ చేసిన వ్యాఖ్య చర్చకు దారితీసింది, టోని నాదల్ గట్టిగా విభేదించాడు. ప్రత్యర్థులు అల్కరాజ్ మెరుగ్గా ఉన్నందునే తమ స్థాయిని పెంచుకుంటారని, అతనిని టార్గెట్ చేయడం వల్ల కాదని నాదల్ అన్నాడు. ఇండియన్ వెల్స్‌లో డేనియల్ మెద్వెదేవ్ చేతిలో ఓడిపోయిన తర్వాత, అల్కరాజ్ ఇప్పుడు మయామి ఓపెన్‌కు చేరుకున్నాడు, ఇక్కడ కఠినమైన రెండవ రౌండ్ మ్యాచ్ వేచి ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "69306c2868ba4f7b939dade1982c3828",
-      "title": "2 men barge into Aligarh hospital, kill patient point blank over love affair",
-      "summary": "A 38-year-old man was shot dead in an Aligarh hospital by a PAC jawan and an accomplice, allegedly over a five-year-long love affair. The victim, Vedpal Singh, had reportedly tried to disrupt the woman's arranged marriage, leading to threats and his eventual death. The woman's father, a UP Police constable, has been arrested.",
-      "url": "https://timesofindia.indiatimes.com/city/agra/2-men-including-pac-jawan-shoot-patient-dead-in-hosp-up-cop-held/articleshow/129639353.cms",
-      "image": "https://static.toiimg.com/photo/msid-129645358,imgsize-68818.cms",
-      "published_at": "2026-03-17T19:42:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇద్దరు వ్యక్తులు అలీగఢ్ ఆసుపత్రిలోకి ప్రవేశించారు, ప్రేమ వ్యవహారంపై రోగిని చంపారు",
-      "summary_te": "ఐదేళ్ల ప్రేమ వ్యవహారంపై ఆరోపిస్తూ 38 ఏళ్ల వ్యక్తిని అలీగఢ్ ఆసుపత్రిలో పిఎసి జవాన్ మరియు సహచరుడు కాల్చిచంపారు. బాధితుడు, వేద్‌పాల్ సింగ్, మహిళ యొక్క నిశ్చయించుకున్న వివాహానికి అంతరాయం కలిగించడానికి ప్రయత్నించాడని, ఇది బెదిరింపులకు దారితీసింది మరియు చివరికి అతని మరణానికి దారితీసింది. మహిళ తండ్రి, యూపీ పోలీస్ కానిస్టేబుల్‌ను అరెస్టు చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "da03f4069d2b870f48b0358872b94b18",
-      "title": "Four held for stealing gold ornaments near Arani",
-      "summary": "Police recovered the jewellery and arrested four suspects",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/four-held-for-stealing-gold-ornaments-near-arani/article70754066.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/765gyj/article70754367.ece/alternates/LANDSCAPE_1200/gold-21.jpg",
-      "published_at": "2026-03-17T19:29:23.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఆరణి సమీపంలో బంగారు ఆభరణాలు చోరీకి పాల్పడిన నలుగురిని అదుపులోకి తీసుకున్నారు",
-      "summary_te": "నగలను స్వాధీనం చేసుకున్న పోలీసులు నలుగురు నిందితులను అదుపులోకి తీసుకున్నారు",
       "translated": true
     }
   ]

@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-18T06:10:19.404Z",
-  "updated_at_IST": "18/3/2026, 11:40:19 am",
+  "updated_at": "2026-03-18T07:00:07.950Z",
+  "updated_at_IST": "18/3/2026, 12:30:07 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "532959cc83039c5f015739e6e9a7b783",
+      "title": "Quote of the day by Barack Obama: ‘Real test is not whether you avoid this failure, it's…’",
+      "summary": "The quote focuses on the fear of failure, perhaps the most universal human experience, and how it holds us back",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-march-18-barack-obama-failure-11773812824869.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/US-POLITICS-RIGHTS-JACKSON-17_1773812857085_1773812870838.jpg",
+      "published_at": "2026-03-18T06:27:55.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "బరాక్ ఒబామా యొక్క కోట్ ఆఫ్ ది డే: 'నిజమైన పరీక్ష మీరు ఈ వైఫల్యాన్ని నివారించాలా వద్దా అనేది కాదు, ఇది...'",
+      "summary_te": "కోట్ వైఫల్యం యొక్క భయంపై దృష్టి పెడుతుంది, బహుశా అత్యంత సార్వత్రిక మానవ అనుభవం, మరియు అది మనల్ని ఎలా వెనక్కి తీసుకుంటుంది",
+      "translated": true
+    },
+    {
+      "id": "bd8028dad78c9d0cafbc8ebb618d2b11",
+      "title": "Kangana Ranaut reacts to Sara Ali Khan temple entry row; 'Sab Sanatani hain,' says the BJP MP",
+      "summary": "Kangana Ranaut has weighed in on the controversy surrounding Sara Ali Khan's temple visit, wondering what is wrong is mentioning ‘sanatani’ on a written affidavit before entering the temple in Uttarakhand.",
+      "url": "https://www.livemint.com/news/india/kangana-ranaut-reacts-to-sara-ali-khan-temple-entry-row-sab-sanatani-hain-bjp-mp-badrinath-char-dham-hindus-muslims-11773814089970.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/PTI03-16-2026-000058B-0_1773814131956_1773814143441.jpg",
+      "published_at": "2026-03-18T06:24:36.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కంగనా రనౌత్ సారా అలీ ఖాన్ ఆలయ ప్రవేశ వరుసపై స్పందించింది; 'సబ్ సనాతనీ హై' అంటున్నారు బీజేపీ ఎంపీ",
+      "summary_te": "కంగనా రనౌత్ సారా అలీ ఖాన్ ఆలయ సందర్శన చుట్టూ ఉన్న వివాదాలపై దృష్టి సారించింది, ఉత్తరాఖండ్‌లోని ఆలయంలోకి ప్రవేశించే ముందు లిఖితపూర్వక అఫిడవిట్‌లో ‘సనాతని’ అని పేర్కొనడంలో తప్పు ఏమిటి అని ఆశ్చర్యపోయింది.",
+      "translated": true
+    },
+    {
+      "id": "263a0b416e754f2c49907d98dd9486ce",
+      "title": "Dipan Mehta urges caution despite early signs of market rebound",
+      "summary": "Markets show a tentative rebound, but sustainability hinges on external factors like oil prices and news flow. Experts caution against definitive bottom calls, emphasizing structural shifts for a sustained uptrend. Sector-specific insights reveal resilience in pharma, long-term potential in auto, and a shift towards cash flow discipline in real estate.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/dipan-mehta-urges-caution-despite-early-signs-of-market-rebound/articleshow/129648796.cms",
+      "image": null,
+      "published_at": "2026-03-18T06:16:10.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్కెట్ పుంజుకునే ముందస్తు సంకేతాలు ఉన్నప్పటికీ జాగ్రత్త వహించాలని దీపన్ మెహతా కోరారు",
+      "summary_te": "మార్కెట్లు తాత్కాలిక రీబౌండ్‌ను చూపుతాయి, అయితే స్థిరత్వం చమురు ధరలు మరియు వార్తల ప్రవాహం వంటి బాహ్య కారకాలపై ఆధారపడి ఉంటుంది. నిపుణులు స్థిరమైన అప్‌ట్రెండ్ కోసం స్ట్రక్చరల్ షిఫ్ట్‌లను నొక్కిచెప్పి, ఖచ్చితమైన దిగువ కాల్‌లకు వ్యతిరేకంగా హెచ్చరిస్తున్నారు. సెక్టార్-నిర్దిష్ట అంతర్దృష్టులు ఫార్మాలో స్థితిస్థాపకత, ఆటోలో దీర్ఘకాలిక సంభావ్యత మరియు రియల్ ఎస్టేట్‌లో నగదు ప్రవాహ క్రమశిక్షణ వైపు మారడాన్ని వెల్లడిస్తాయి.",
+      "translated": true
+    },
+    {
+      "id": "bbbf240536c1b31047d9100a80fd2686",
+      "title": "Who is Fatemeh Ardeshir Larijani? Ali Larijani’s daughter and a former US-based cancer specialist",
+      "summary": "Fatemeh Ardeshir Larijani is the daughter of Iranian politician Ali Larijani. A trained cancer specialist, she previously worked in the US before returning to Iran. She has largely stayed out of the public eye despite her family’s prominent role in Iranian politics.",
+      "url": "https://www.livemint.com/news/world/who-is-fatemeh-ardeshir-larijani-ali-larijanis-daughter-who-once-worked-in-us-as-cancer-specialist-iran-us-war-11773808442449.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/G_dcyZpWQAA4OOL_1773812093905_1773812098784.jpg",
+      "published_at": "2026-03-18T06:05:45.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఫాతేమె అర్దేషిర్ లారిజాని ఎవరు? అలీ లారిజానీ కుమార్తె మరియు మాజీ US ఆధారిత క్యాన్సర్ నిపుణుడు",
+      "summary_te": "ఫతేమె అర్దేషిర్ లారిజానీ ఇరాన్ రాజకీయ నాయకుడు అలీ లారిజానీ కుమార్తె. శిక్షణ పొందిన క్యాన్సర్ నిపుణురాలు, ఆమె ఇరాన్‌కు తిరిగి రావడానికి ముందు USలో పనిచేసింది. ఇరాన్ రాజకీయాల్లో ఆమె కుటుంబం యొక్క ప్రముఖ పాత్ర ఉన్నప్పటికీ ఆమె ఎక్కువగా ప్రజల దృష్టికి దూరంగా ఉంది.",
+      "translated": true
+    },
     {
       "id": "b4ffda1a4a0d4b198d2e00f099fb6ecd",
       "title": "Delhi tragedy: 7 dead as fire breaks out in Palam building; L-G says rescue and firefighting operations underway",
@@ -16,6 +72,20 @@
       "language": "en",
       "title_te": "ఢిల్లీలో విషాదం: పాలెం భవనంలో అగ్నిప్రమాదం, 7 మంది మృతి; రెస్క్యూ మరియు అగ్నిమాపక చర్యలు కొనసాగుతున్నాయని L-G తెలిపింది",
       "summary_te": "ఘటన సమాచారం అందుకున్న వెంటనే ఢిల్లీ ఫైర్ సర్వీస్‌కు చెందిన దాదాపు 30 ఫైర్ బ్రిగేడ్‌లు సంఘటనా స్థలానికి చేరుకుని మంటలను ఆర్పే పనిలో నిమగ్నమై ఉన్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "0881697de3b653cbd25d24e2d2725653",
+      "title": "Silver and gold ETFs fall up to 4% ahead of Fed decision. What investors should do",
+      "summary": "Silver and gold ETFs fell nearly 4% on Wednesday, tracking a mild decline in MCX prices as investors turned cautious ahead of the U.S. Federal Reserve’s policy decision. Uncertainty around the Middle East conflict and interest rate outlook weighed on sentiment. The near-term trajectory for gold will depend on the Fed’s guidance on rate cuts versus a prolonged pause.",
+      "url": "https://economictimes.indiatimes.com/mf/mf-news/silver-and-gold-etfs-fall-up-to-4-ahead-of-fed-decision-what-investors-should-do/articleshow/129648207.cms",
+      "image": null,
+      "published_at": "2026-03-18T05:40:41.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఫెడ్ నిర్ణయం కంటే ముందు వెండి మరియు బంగారు ETFలు 4% వరకు తగ్గుతాయి. పెట్టుబడిదారులు ఏమి చేయాలి",
+      "summary_te": "U.S. ఫెడరల్ రిజర్వ్ యొక్క విధాన నిర్ణయానికి ముందు పెట్టుబడిదారులు జాగ్రత్తగా మారినందున MCX ధరలలో స్వల్ప క్షీణతను ట్రాక్ చేస్తూ వెండి మరియు బంగారు ETFలు బుధవారం దాదాపు 4% పడిపోయాయి. మధ్యప్రాచ్య సంఘర్షణ చుట్టూ ఉన్న అనిశ్చితి మరియు వడ్డీ రేటు దృక్పథం సెంటిమెంట్‌పై ప్రభావం చూపాయి. బంగారం కోసం సమీప-కాల పథం రేట్ల తగ్గింపుపై ఫెడ్ మార్గదర్శకత్వం మరియు సుదీర్ఘ విరామంపై ఆధారపడి ఉంటుంది.",
       "translated": true
     },
     {
@@ -75,20 +145,6 @@
       "translated": true
     },
     {
-      "id": "c99307957f604631cf3929c4c1581b10",
-      "title": "Stock Market holiday: Will BSE, NSE remain closed for trading from 19-21 March for Ugadi, Gudi Padwa and Eid-ul-Fitr?",
-      "summary": "Investors are watching closely as festival season raises questions about BSE and NSE trading holidays during Ugadi, Gudi Padwa and Eid-ul-Fitr. Check here to see if the Indian stock market will remain open for trading from 19-21 March.",
-      "url": "https://www.livemint.com/news/india/stock-market-holiday-will-bse-nse-remain-closed-for-trading-from-19-21-march-for-ugadi-gudi-padwa-and-eidulfitr-11773802570043.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1773803248750.JPG",
-      "published_at": "2026-03-18T04:32:45.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "స్టాక్ మార్కెట్ సెలవు: ఉగాది, గుడి పడ్వా మరియు ఈద్-ఉల్-ఫితర్ కోసం BSE, NSE మార్చి 19-21 వరకు ట్రేడింగ్‌కు మూసివేయబడుతుందా?",
-      "summary_te": "పండుగ సీజన్ ఉగాది, గుడి పడ్వా మరియు ఈద్-ఉల్-ఫితర్ సమయంలో BSE మరియు NSE ట్రేడింగ్ సెలవుల గురించి ప్రశ్నలను లేవనెత్తుతున్నందున పెట్టుబడిదారులు నిశితంగా గమనిస్తున్నారు. భారతీయ స్టాక్ మార్కెట్ మార్చి 19-21 వరకు ట్రేడింగ్ కోసం తెరిచి ఉంటుందో లేదో తెలుసుకోవడానికి ఇక్కడ తనిఖీ చేయండి.",
-      "translated": true
-    },
-    {
       "id": "890afe1110cede145713e0496e41a169",
       "title": "Orange alert for hailstorm in Shimla; light rainfall in Hyderabad — Check Delhi weather today & full IMD forecast",
       "summary": "Because of thunderstorms, the temperatures across India are expected to remain normal to below normal throughout the week. “No heatwave”.",
@@ -117,23 +173,9 @@
       "translated": true
     },
     {
-      "id": "3b35e0454b18a98d09f76b6252ec50c4",
-      "title": "SBI mobilises Rs 6,051 crore from Tier II bonds to fund biz growth",
-      "summary": "The Rs 400 crore GSP Crop Science IPO enters its final day with 96% subscription, led by strong NII demand while retail interest remains muted. With GMP at zero, listing expectations remain subdued. The company aims to reduce debt and strengthen operations, backed by steady financial growth and a diversified agrochemical portfolio.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sbi-mobilises-rs-6051-crore-from-tier-ii-bonds-to-fund-biz-growth/articleshow/129647107.cms",
-      "image": null,
-      "published_at": "2026-03-18T04:25:15.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "బిజ్ వృద్ధికి నిధులు సమకూర్చేందుకు ఎస్‌బిఐ టైర్ II బాండ్ల నుండి రూ.6,051 కోట్లను సమీకరించింది",
-      "summary_te": "రూ. 400 కోట్ల GSP క్రాప్ సైన్స్ IPO 96% సబ్‌స్క్రిప్షన్‌తో చివరి రోజులోకి ప్రవేశించింది, బలమైన NII డిమాండ్ కారణంగా రిటైల్ వడ్డీ మ్యూట్‌లో ఉంది. జీరో వద్ద GMPతో, జాబితా అంచనాలు అణచివేయబడతాయి. స్థిరమైన ఆర్థిక వృద్ధి మరియు విభిన్న వ్యవసాయ రసాయన పోర్ట్‌ఫోలియోతో రుణాన్ని తగ్గించడం మరియు కార్యకలాపాలను బలోపేతం చేయడం కంపెనీ లక్ష్యం.",
-      "translated": true
-    },
-    {
       "id": "9162785d23625f5c8708f67234ba9aee",
       "title": "GSP Crop Science IPO Day 3: GMP, subscription status and key highlights",
-      "summary": "The Rs 400 crore GSP Crop Science IPO enters its final day with 96% subscription, led by strong NII demand while retail interest remains muted. With GMP at zero, listing expectations remain subdued. The company aims to reduce debt and strengthen operations, backed by steady financial growth and a diversified agrochemical portfolio.",
+      "summary": "GSP Crop Science IPO GMP: The Rs 400 crore GSP Crop Science IPO enters its final day with 96% subscription, led by strong NII demand while retail interest remains muted. With GMP at zero, listing expectations remain subdued.",
       "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/gsp-crop-science-ipo-day-3-gmp-subscription-status-and-key-highlights/articleshow/129647104.cms",
       "image": null,
       "published_at": "2026-03-18T04:24:50.000Z",
@@ -141,7 +183,21 @@
       "category": "business",
       "language": "en",
       "title_te": "GSP క్రాప్ సైన్స్ IPO డే 3: GMP, సబ్‌స్క్రిప్షన్ స్థితి మరియు ముఖ్య ముఖ్యాంశాలు",
-      "summary_te": "రూ. 400 కోట్ల GSP క్రాప్ సైన్స్ IPO 96% సబ్‌స్క్రిప్షన్‌తో చివరి రోజులోకి ప్రవేశించింది, బలమైన NII డిమాండ్ కారణంగా రిటైల్ వడ్డీ మ్యూట్‌లో ఉంది. జీరో వద్ద GMPతో, జాబితా అంచనాలు అణచివేయబడతాయి. స్థిరమైన ఆర్థిక వృద్ధి మరియు విభిన్న వ్యవసాయ రసాయన పోర్ట్‌ఫోలియోతో రుణాన్ని తగ్గించడం మరియు కార్యకలాపాలను బలోపేతం చేయడం కంపెనీ లక్ష్యం.",
+      "summary_te": "GSP క్రాప్ సైన్స్ IPO GMP: రూ. 400 కోట్ల GSP క్రాప్ సైన్స్ IPO 96% సబ్‌స్క్రిప్షన్‌తో చివరి రోజులోకి ప్రవేశించింది, బలమైన NII డిమాండ్ కారణంగా రిటైల్ వడ్డీ మ్యూట్‌లో ఉంది. జీరో వద్ద GMPతో, జాబితా అంచనాలు అణచివేయబడతాయి.",
+      "translated": true
+    },
+    {
+      "id": "ab4b83a1630c47b347a942ed1c11167c",
+      "title": "Rupee falls 3 paise to 92.43 against US dollar in early trade",
+      "summary": "The Indian rupee opened at 92.42 against the US dollar on Wednesday. A plunge in global crude oil prices and positive opening at domestic equity markets prevented a sharper decline in the rupee.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-3-paise-to-92-43-against-us-dollar-in-early-trade/articleshow/129647029.cms",
+      "image": null,
+      "published_at": "2026-03-18T04:19:08.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ప్రారంభ ట్రేడింగ్‌లో యుఎస్ డాలర్‌తో రూపాయి 3 పైసలు పడిపోయి 92.43 వద్ద ఉంది",
+      "summary_te": "అమెరికా డాలర్‌తో రూపాయి మారకం విలువ బుధవారం 92.42 వద్ద ప్రారంభమైంది. గ్లోబల్ క్రూడ్ ఆయిల్ ధరలు పతనం మరియు దేశీయ ఈక్విటీ మార్కెట్లలో సానుకూల ప్రారంభాలు రూపాయిలో పదునైన క్షీణతను నిరోధించాయి.",
       "translated": true
     },
     {
@@ -285,20 +341,6 @@
       "translated": true
     },
     {
-      "id": "b48d37482d3fb9b448a429cc088fff06",
-      "title": "Global Market Today | Asian stocks gain ahead of Fed rate decision, oil holds near $103",
-      "summary": "Asian equities opened higher, mirroring gains in US stocks and Treasuries as investors look past geopolitical tensions. Despite concerns over oil prices and inflation, markets show cautious optimism, with the Federal Reserve's interest-rate decision awaited. Continued volatility is expected until the energy situation stabilizes.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-gain-ahead-of-fed-rate-decision-oil-holds-near-103/articleshow/129644919.cms",
-      "image": null,
-      "published_at": "2026-03-18T01:13:17.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "గ్లోబల్ మార్కెట్ నేడు | ఫెడ్ రేటు నిర్ణయానికి ముందు ఆసియా స్టాక్స్ లాభపడతాయి, చమురు $ 103 దగ్గర ఉంది",
-      "summary_te": "ఆసియా ఈక్విటీలు అధిక స్థాయిలో ప్రారంభమయ్యాయి, పెట్టుబడిదారులు గత భౌగోళిక రాజకీయ ఒత్తిళ్లను చూస్తున్నందున US స్టాక్‌లు మరియు ట్రెజరీలలో లాభాలను ప్రతిబింబించాయి. చమురు ధరలు మరియు ద్రవ్యోల్బణంపై ఆందోళనలు ఉన్నప్పటికీ, ఫెడరల్ రిజర్వ్ యొక్క వడ్డీ-రేటు నిర్ణయం కోసం మార్కెట్లు జాగ్రత్తగా ఆశాజనకంగా ఉన్నాయి. శక్తి పరిస్థితి స్థిరీకరించబడే వరకు అస్థిరత కొనసాగుతుంది.",
-      "translated": true
-    },
-    {
       "id": "ff8079fa45855eaa7783407b31bc32e9",
       "title": "Dalal Street newbies using IPO muscle to beat down debt",
       "summary": "India's IPO boom is increasingly funding debt repayment over growth initiatives. Data reveals that nearly a quarter of funds raised in recent share sales are allocated to paying off borrowings, surpassing capital expenditure. This shift suggests companies are prioritizing balance sheet repair and liquidity for insiders rather than investing in new projects.",
@@ -338,20 +380,6 @@
       "language": "en",
       "title_te": "దుబాయ్, అబుదాబి, యుఎఇ న్యూస్ లైవ్ అప్‌డేట్‌లు: యుఎఇలోని ఆస్ట్రేలియన్ మిలిటరీ హెచ్‌క్యూ అల్ మిన్హాద్ ఎయిర్ బేస్ సమీపంలో ఇరాన్ ప్రక్షేపకం తాకింది.",
       "summary_te": "దుబాయ్, అబుదాబి, యుఎఇ న్యూస్ లైవ్: అధికారుల ప్రకారం, యుఎస్-ఇజ్రాయెల్ యుద్ధం ఫలితంగా ఇరాన్‌లో కనీసం 1,300 మంది, లెబనాన్‌లో 900 మందికి పైగా మరియు ఇజ్రాయెల్‌లో 12 మంది మరణించారు.",
-      "translated": true
-    },
-    {
-      "id": "b6fe4c1500caef7adeb84ac3e5e017f8",
-      "title": "Liquidity faces a bit of squeeze as Rs 2 lakh crore flows to tax kitty",
-      "summary": "India's banking system liquidity surplus narrowed to ₹75,483 crore due to advance tax outflows and forex market interventions. This pushed money market rates up, prompting the RBI to conduct a repo operation. Economists estimate the RBI sold over $15 billion to support the rupee.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/liquidity-faces-a-bit-of-squeeze-as-rs-2-lakh-crore-flows-to-tax-kitty/articleshow/129644537.cms",
-      "image": null,
-      "published_at": "2026-03-17T23:56:44.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "పన్ను కిటీకి రూ. 2 లక్షల కోట్లు రావడంతో లిక్విడిటీ కొంత ఒత్తిడిని ఎదుర్కొంటుంది",
-      "summary_te": "ముందస్తు పన్ను చెల్లింపులు మరియు ఫారెక్స్ మార్కెట్ జోక్యాల కారణంగా భారతదేశ బ్యాంకింగ్ సిస్టమ్ లిక్విడిటీ మిగులు ₹75,483 కోట్లకు తగ్గింది. ఇది మనీ మార్కెట్ రేట్లు పెంచింది, RBI రెపో ఆపరేషన్‌ని నిర్వహించేలా చేసింది. రూపాయికి మద్దతుగా ఆర్‌బిఐ 15 బిలియన్‌ డాలర్లకు పైగా విక్రయించిందని ఆర్థిక నిపుణులు అంచనా వేస్తున్నారు.",
       "translated": true
     },
     {
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "ఇజ్రాయెల్ దాడుల్లో భద్రతా చీఫ్ అలీ లారిజానీ మరియు బసిజ్ చీఫ్ సులేమానీ మరణించినట్లు ఇరాన్ ధృవీకరించింది",
       "summary_te": "బసిజ్ చీఫ్ సులేమానీ హత్యను ముందుగా ధృవీకరించిన తరువాత, భద్రతా చీఫ్ అలీ లారిజానీ హత్యను ఇరాన్ ప్రభుత్వ మీడియా ధృవీకరించింది.",
-      "translated": true
-    },
-    {
-      "id": "d6ac187c5a203de85725f2c919fd15da",
-      "title": "‘We’re wiping them out’: Netanyahu sends chilling message to Iran after mocking death rumors yet again",
-      "summary": "Israel PM Benjamin Netanyahu also took aim yet again at online conspiracy theories suggesting recent footage of him was AI-generated.",
-      "url": "https://www.livemint.com/news/us-news/were-wiping-them-out-netanyahu-sends-chilling-message-to-iran-after-mocking-death-rumors-yet-again-11773774963860.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/netanyahu_1773775480536_1773775493566.jpg",
-      "published_at": "2026-03-17T20:27:09.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'మేము వాటిని తుడిచివేస్తున్నాము': నెతన్యాహు మరణ పుకార్లను మళ్లీ అపహాస్యం చేసిన తర్వాత ఇరాన్‌కు చిల్లింగ్ సందేశం పంపారు",
-      "summary_te": "ఇజ్రాయెల్ PM బెంజమిన్ నెతన్యాహు కూడా ఆన్‌లైన్ కుట్ర సిద్ధాంతాలను మరోసారి లక్ష్యంగా చేసుకున్నాడు, అతని ఇటీవలి ఫుటేజ్ AI- రూపొందించబడింది.",
-      "translated": true
-    },
-    {
-      "id": "d80c74a4d6b947f16c10f33f81c1f40c",
-      "title": "Epstein files row: US House Panel subpoenas Pam Bondi over withheld documents",
-      "summary": "Bondi faces mounting criticism from lawmakers who allege that the Justice Department has concealed key details, including the identities of powerful associates linked to Epstein.",
-      "url": "https://www.livemint.com/news/us-news/epstein-files-row-us-house-panel-subpoenas-pam-bondi-over-withheld-documents-11773773718171.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/17/1600x900/logo/APTOPIX-Bondi-Congress-0_1770867742144_1770867750769_1773774321642.jpg",
-      "published_at": "2026-03-17T19:07:30.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఎప్స్టీన్ ఫైల్స్ వరుస: US హౌస్ ప్యానెల్ విత్‌హెల్డ్ డాక్యుమెంట్‌లపై పామ్ బోండికి సబ్‌పోనా ఇచ్చింది",
-      "summary_te": "న్యాయ శాఖ ఎప్స్టీన్‌తో సంబంధం ఉన్న శక్తివంతమైన సహచరుల గుర్తింపులతో సహా కీలక వివరాలను దాచిపెట్టిందని ఆరోపించిన చట్టసభ సభ్యుల నుండి బోండి తీవ్ర విమర్శలను ఎదుర్కొంటాడు.",
       "translated": true
     },
     {
