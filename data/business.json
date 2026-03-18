@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-18T19:52:48.975Z",
-  "updated_at_IST": "19/3/2026, 1:22:48 am",
+  "updated_at": "2026-03-18T20:36:33.045Z",
+  "updated_at_IST": "19/3/2026, 2:06:33 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "eceba93d90e85724e82b45e85b27b029",
+      "title": "When are Saudi, Singapore, others celebrating Eid? Which nations have declared Eid-ul-Fitr 2026 dates? Full list inside",
+      "summary": "The sighting of the Shawwal crescent signals the end of the holy month and the beginning of Eid celebrations. Here's the full list of countries that have declared Eid dates so far",
+      "url": "https://www.livemint.com/news/when-are-saudi-singapore-others-celebrating-eid-which-nations-have-declared-eid-ul-fitr-2026-dates-full-list-inside-11773859959295.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/RELIGION-RAMADAN-SAUDI-13_1773864601388_1773864611489.JPG",
+      "published_at": "2026-03-18T20:14:17.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సౌదీ, సింగపూర్, ఇతరులు ఈద్‌ను ఎప్పుడు జరుపుకుంటారు? ఈద్-ఉల్-ఫితర్ 2026 తేదీలను ఏ దేశాలు ప్రకటించాయి? లోపల పూర్తి జాబితా",
+      "summary_te": "షవ్వాల్ నెలవంక దర్శనం పవిత్ర మాసం ముగింపు మరియు ఈద్ వేడుకల ప్రారంభాన్ని సూచిస్తుంది. ఇప్పటివరకు ఈద్ తేదీలను ప్రకటించిన దేశాల పూర్తి జాబితా ఇక్కడ ఉంది",
+      "translated": true
+    },
+    {
+      "id": "42c1724c8dad2d192fda28c038aee2ab",
+      "title": "Quote of the Day by Warren Buffett: ‘I don’t mind missing boats that I don’t know enough to captain…’",
+      "summary": "Quote of the Day by Warren Buffett: The ace investor believes that it is not FOMO or herd mentality that should not drive your investment decisions, but your ability. He himself missed the first wave of tech stocks, but said it's not a regret because he didn't understand it…",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-warren-buffett-investment-advice-dont-mind-miss-boats-tech-stocks-not-know-enough-to-captain-berkshire-11773854938422.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/Warren-Buffett-s-Successor-0_1717655051212_1773862982089.jpg",
+      "published_at": "2026-03-18T19:48:17.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "వారెన్ బఫెట్ యొక్క కోట్ ఆఫ్ ది డే: 'కెప్టెన్‌గా నాకు తగినంతగా తెలియని పడవలను కోల్పోవడాన్ని నేను పట్టించుకోను...'",
+      "summary_te": "వారెన్ బఫ్ఫెట్ ద్వారా కోట్ ఆఫ్ ది డే: ఏస్ ఇన్వెస్టర్ మీ పెట్టుబడి నిర్ణయాలను నడిపించేది FOMO లేదా మంద మనస్తత్వం కాదు, కానీ మీ సామర్థ్యం అని నమ్ముతారు. అతను స్వయంగా టెక్ స్టాక్‌ల యొక్క మొదటి వేవ్‌ను కోల్పోయాడు, కానీ అది తనకు అర్థం కానందున ఇది విచారం కలిగించదని చెప్పాడు…",
+      "translated": true
+    },
+    {
+      "id": "a1becbd0988def093d81c710b845ef06",
+      "title": "Gold price slides below $5,000, drops to over one-month low",
+      "summary": "Spot gold dropped to a one-month low following the Federal Reserve's decision to hold interest rates steady, with expectations of higher rates for longer. A stronger dollar and ongoing Middle East conflict, including an escalation involving Iran's Pars gas field, further pressured gold prices.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-drops-below-5000-drops-to-over-one-month-low/articleshow/129665055.cms",
+      "image": null,
+      "published_at": "2026-03-18T19:31:10.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "బంగారం ధర $5,000 దిగువకు పడిపోయింది, ఒక నెల కనిష్ట స్థాయికి పడిపోయింది",
+      "summary_te": "వడ్డీ రేట్లను స్థిరంగా ఉంచాలనే ఫెడరల్ రిజర్వ్ నిర్ణయంతో స్పాట్ గోల్డ్ ఒక నెల కనిష్ట స్థాయికి పడిపోయింది, ఎక్కువ కాలం ఎక్కువ రేట్లు ఉండవచ్చని అంచనా వేసింది. బలమైన డాలర్ మరియు కొనసాగుతున్న మధ్యప్రాచ్య సంఘర్షణ, ఇరాన్ యొక్క పార్స్ గ్యాస్ ఫీల్డ్‌తో కూడిన పెరుగుదలతో సహా, బంగారం ధరలను మరింత ఒత్తిడికి గురి చేసింది.",
+      "translated": true
+    },
     {
       "id": "aa883c3638dad047ca51af87eb0f21b6",
       "title": "Iranian top leaders killed, Supreme Leader missing – Who’s really in charge?",
@@ -14,8 +56,22 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ అగ్రనేతలు హతమయ్యారు, సుప్రీం లీడర్ తప్పిపోయారు - నిజంగా ఎవరు బాధ్యత వహిస్తారు?",
+      "title_te": "ఇరాన్ అగ్రనేతలు చంపబడ్డారు, సుప్రీం లీడర్ తప్పిపోయారు - నిజంగా ఎవరు బాధ్యత వహిస్తారు?",
       "summary_te": "ఇస్లామిక్ రివల్యూషనరీ గార్డ్ కార్ప్స్ మరింత కఠినమైన నాయకత్వాన్ని రూపొందించడంలో నిర్ణయాత్మక పాత్ర పోషిస్తుందని భావిస్తున్నందున, నాయకత్వ నష్టాలు పెరుగుతున్నందున ఇరాన్ పెరుగుతున్న అనిశ్చితిని ఎదుర్కొంటుంది.",
+      "translated": true
+    },
+    {
+      "id": "66bbc4a76b3508cb7989f01b539f7880",
+      "title": "US Stocks: Trade Desk shares drop 5% after report that Publicis advised clients against using its platform",
+      "summary": "Trade Desk shares dropped significantly after French advertising giant Publicis Groupe advised clients to avoid the platform. An independent audit found Trade Desk violated agreement clauses. Publicis confirmed the findings and will no longer recommend Trade Desk. Trade Desk disputes the audit's conclusions. The company faces strong competition in the ad tech market.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-trade-desk-shares-drop-7-after-report-that-publicis-advised-clients-against-using-its-platform/articleshow/129663831.cms",
+      "image": null,
+      "published_at": "2026-03-18T18:21:42.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "US స్టాక్స్: పబ్లిసిస్ తన ప్లాట్‌ఫారమ్‌ను ఉపయోగించకూడదని క్లయింట్‌లకు సూచించినట్లు నివేదిక తర్వాత ట్రేడ్ డెస్క్ షేర్లు 5% పడిపోయాయి",
+      "summary_te": "ఫ్రెంచ్ అడ్వర్టైజింగ్ దిగ్గజం పబ్లిసిస్ గ్రూప్ క్లయింట్‌లకు ప్లాట్‌ఫారమ్ నుండి దూరంగా ఉండాలని సూచించిన తర్వాత ట్రేడ్ డెస్క్ షేర్లు గణనీయంగా పడిపోయాయి. ట్రేడ్ డెస్క్ ఒప్పంద నిబంధనలను ఉల్లంఘించినట్లు స్వతంత్ర ఆడిట్ గుర్తించింది. పబ్లిసిస్ కనుగొన్న వాటిని ధృవీకరించింది మరియు ఇకపై ట్రేడ్ డెస్క్‌ని సిఫార్సు చేయదు. ట్రేడ్ డెస్క్ ఆడిట్ యొక్క ముగింపులను వివాదాస్పదం చేస్తుంది. యాడ్ టెక్ మార్కెట్లో కంపెనీ బలమైన పోటీని ఎదుర్కొంటోంది.",
       "translated": true
     },
     {
@@ -29,7 +85,21 @@
       "category": "business",
       "language": "en",
       "title_te": "మిడిల్ ఈస్ట్ వివాదం: ఇరాన్ క్లస్టర్ క్షిపణిచే చంపబడిన ఇజ్రాయెల్ జంట; ప్రధాని బెంజమిన్ నెతన్యాహు సంతాపం తెలిపారు",
-      "summary_te": "ఇరాన్ క్లస్టర్ మిస్సైల్ దాడిలో రాత్రికి రాత్రే మరణించిన 70 ఏళ్ల దంపతుల కుటుంబానికి ఇజ్రాయెల్ ప్రధాని బెంజమిన్ నెతన్యాహు సానుభూతి తెలిపారు. అలీ లారిజానీ హత్యకు ప్రతీకారంగా ఈ దాడి జరిగిందని ఇరాన్ ఇస్లామిక్ రివల్యూషనరీ గార్డ్ కార్ప్స్ (IRGC) ఒక ప్రకటనలో తెలిపింది.",
+      "summary_te": "ఇరాన్ క్లస్టర్ క్షిపణి దాడిలో మరణించిన 70 ఏళ్ల దంపతుల కుటుంబానికి ఇజ్రాయెల్ ప్రధాని బెంజమిన్ నెతన్యాహు సానుభూతి తెలిపారు. అలీ లారిజానీ హత్యకు ప్రతీకారంగా ఈ దాడి జరిగిందని ఇరాన్ ఇస్లామిక్ రివల్యూషనరీ గార్డ్ కార్ప్స్ (IRGC) ఒక ప్రకటనలో తెలిపింది.",
+      "translated": true
+    },
+    {
+      "id": "c05f233173cfc4942fa0bfb9de807fcf",
+      "title": "US Stocks: Unilever shares fall on investor concerns about food business spin-off",
+      "summary": "Unilever shares dropped as investors worried about a potential food business split. This comes soon after the company separated its ice cream brands. Analysts suggest the new CEO needs more time before further restructuring. The food business, including Knorr and Marmite, reported profits last year. Investors have long pushed for a sale of the slow-growing food division.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-unilever-shares-fall-on-investor-concerns-about-food-business-spin-off/articleshow/129663633.cms",
+      "image": null,
+      "published_at": "2026-03-18T18:13:43.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "US స్టాక్‌లు: ఆహార వ్యాపారం స్పిన్-ఆఫ్ గురించి పెట్టుబడిదారుల ఆందోళనలపై యూనిలీవర్ షేర్లు పడిపోయాయి",
+      "summary_te": "సంభావ్య ఆహార వ్యాపార విభజన గురించి పెట్టుబడిదారులు ఆందోళన చెందడంతో యూనిలీవర్ షేర్లు పడిపోయాయి. కంపెనీ తన ఐస్ క్రీం బ్రాండ్‌లను వేరు చేసిన వెంటనే ఇది వస్తుంది. తదుపరి పునర్నిర్మాణానికి ముందు కొత్త CEOకి మరింత సమయం అవసరమని విశ్లేషకులు సూచిస్తున్నారు. నార్ మరియు మార్మైట్‌తో సహా ఆహార వ్యాపారం గత సంవత్సరం లాభాలను నమోదు చేసింది. ఇన్వెస్టర్లు చాలా కాలంగా నెమ్మదిగా వృద్ధి చెందుతున్న ఆహార విభాగం విక్రయానికి ముందుకు వచ్చారు.",
       "translated": true
     },
     {
@@ -103,6 +173,20 @@
       "translated": true
     },
     {
+      "id": "cd529420e5d149d11a6d46e1c60bb45b",
+      "title": "IPO bound Coal India arm CMPDIL garners Rs 470 crore from anchor investors",
+      "summary": "Central Mine Planning and Design Institute (CMPDIL) has raised Rs 470 crore from anchor investors, including LIC and several mutual funds, ahead of its Rs 1,842-crore IPO. The initial share sale, an offer for sale by Coal India, opens for public subscription on March 20 with a price band of Rs 163-Rs 172 per share.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ipo-bound-coal-india-arm-cmpdil-garners-rs-470-crore-from-anchor-investors/articleshow/129661292.cms",
+      "image": null,
+      "published_at": "2026-03-18T16:26:18.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "IPO కట్టుబడి ఉన్న కోల్ ఇండియా విభాగం CMPDIL యాంకర్ ఇన్వెస్టర్ల నుండి రూ. 470 కోట్లు సంపాదించింది",
+      "summary_te": "సెంట్రల్ మైన్ ప్లానింగ్ అండ్ డిజైన్ ఇన్‌స్టిట్యూట్ (CMPDIL) తన రూ. 1,842-కోట్ల IPOకి ముందు LIC మరియు అనేక మ్యూచువల్ ఫండ్‌లతో సహా యాంకర్ ఇన్వెస్టర్ల నుండి రూ.470 కోట్లను సేకరించింది. కోల్ ఇండియా ఆఫర్ ఫర్ సేల్ అనే ప్రారంభ వాటా విక్రయం మార్చి 20న పబ్లిక్ సబ్‌స్క్రిప్షన్ కోసం రూ. 163-రూ. 172 ధరతో ప్రారంభమవుతుంది.",
+      "translated": true
+    },
+    {
       "id": "90240d85f843d4707c2ac68ce52b46a1",
       "title": "US Republican Senator John Cornyn introduces Bill to end ‘special treatment’ for lawmakers at airports",
       "summary": "The proposed End Special Treatment for Congress at Airports Act would mandate that lawmakers follow standard screening rules set by the Transportation Security Administration and prohibit the use of federal funds for expedited or preferential access at airport checkpoints.",
@@ -128,6 +212,20 @@
       "language": "en",
       "title_te": "మధ్యప్రాచ్య వివాదం: రష్యా మరియు ఇరాన్ 'ద్వేషంలో సోదరులు'; సుదీర్ఘ యుద్ధం పుతిన్‌కు ప్రయోజనం చేకూరుస్తుంది, Zelenskyy చెప్పారు",
       "summary_te": "ఇంధన ధరలు విపరీతంగా పెరిగినందున ఇరాన్‌లో యుద్ధం రష్యా అధ్యక్షుడు వ్లాదిమిర్ పుతిన్‌కు సహాయం చేస్తోందని ఉక్రెయిన్ అధ్యక్షుడు వోలోడిమిర్ జెలెన్స్కీ అన్నారు. అమెరికా, ఇజ్రాయెల్‌, ఇరాన్‌ల మధ్య ‘సుదీర్ఘ యుద్ధం’ జరగాలని పుతిన్‌ కోరుకుంటున్నారని ఆయన అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "63b2e7927cce93a458781e664f841c18",
+      "title": "Crypto exchange Kraken freezes IPO plans, CoinDesk reports",
+      "summary": "Cryptocurrency exchange ​Kraken ​has put its multibillion-dollar ​initial public offering plan on hold, CoinDesk reported on ‌Wednesday, ⁠citing ⁠two people with knowledge ​of the matter",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/crypto-exchange-kraken-freezes-ipo-plans-coindesk-reports/articleshow/129660929.cms",
+      "image": null,
+      "published_at": "2026-03-18T16:10:34.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "క్రిప్టో ఎక్స్ఛేంజ్ క్రాకెన్ IPO ప్రణాళికలను స్తంభింపజేస్తుంది, CoinDesk నివేదికలు",
+      "summary_te": "క్రిప్టోకరెన్సీ ఎక్స్ఛేంజ్ క్రాకెన్ తన బహుళ-బిలియన్ డాలర్ల ప్రారంభ పబ్లిక్ ఆఫర్ ప్లాన్‌ను హోల్డ్‌లో ఉంచింది, కాయిన్‌డెస్క్ బుధవారం నాడు నివేదించింది, ఈ విషయంపై అవగాహన ఉన్న ఇద్దరు వ్యక్తులను ఉటంకిస్తూ",
       "translated": true
     },
     {
@@ -211,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "సౌదీ, యుఎఇలో ఈరోజు చంద్రుడు కనిపించాడా? రేపు ఈద్ జరుపుకుంటారా?",
-      "summary_te": "సౌదీ అరేబియాలో, రంజాన్ ఫిబ్రవరి 18న ప్రారంభమైంది మరియు ఈ రోజు పవిత్ర ఉపవాసం ప్రారంభమై సరిగ్గా ఒక నెలని సూచిస్తుంది. షవ్వాల్ నెలవంక దర్శనం పవిత్ర మాసం ముగింపు మరియు ఈద్ వేడుకల ప్రారంభాన్ని సూచిస్తుంది.",
+      "summary_te": "సౌదీ అరేబియాలో, రంజాన్ ఫిబ్రవరి 18 న ప్రారంభమైంది, మరియు ఈ రోజు పవిత్ర ఉపవాసం ప్రారంభమై సరిగ్గా ఒక నెలను సూచిస్తుంది. షవ్వాల్ నెలవంక దర్శనం పవిత్ర మాసం ముగింపు మరియు ఈద్ వేడుకల ప్రారంభాన్ని సూచిస్తుంది.",
       "translated": true
     },
     {
@@ -327,34 +425,6 @@
       "translated": true
     },
     {
-      "id": "bbc42fb9435fb22d1e354dd8e95bff75",
-      "title": "YouTuber UK07 rider’s first post after crash during Instagram live: ‘Kabhi socha nahi tha ki zinda rahunga’",
-      "summary": "YouTuber Anurag Dobhal, aka UK07 Rider, has shared his first public message after a recent car crash during an Instagram Live session. In an emotional post from the hospital, the content creator said surviving the accident felt “nothing less than a miracle” and thanked fans for their prayers.",
-      "url": "https://www.livemint.com/news/trends/youtuber-anurag-dobhal-aka-uk07-rider-s-first-post-after-crash-kabhi-socha-nahi-tha-ki-zinda-rahunga-11773836495684.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/Anurag_1773836485519_1773836491159.png",
-      "published_at": "2026-03-18T12:42:59.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇన్‌స్టాగ్రామ్ లైవ్ సమయంలో క్రాష్ తర్వాత యూట్యూబర్ UK07 రైడర్ మొదటి పోస్ట్: ‘కభీ సోచా నహీ థా కి జిందా రహుంగా’",
-      "summary_te": "యూట్యూబర్ అనురాగ్ దోభాల్, అకా UK07 రైడర్, ఇన్‌స్టాగ్రామ్ లైవ్ సెషన్‌లో ఇటీవలి కార్ క్రాష్ తర్వాత తన మొదటి పబ్లిక్ మెసేజ్‌ను షేర్ చేసారు. ఆసుపత్రి నుండి ఉద్వేగభరితమైన పోస్ట్‌లో, కంటెంట్ సృష్టికర్త ప్రమాదం నుండి బయటపడటం \"అద్భుతం కంటే తక్కువ ఏమీ లేదు\" అని మరియు వారి ప్రార్థనలకు అభిమానులకు ధన్యవాదాలు తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "aea78eba96505cf34c89c3c0666d28f5",
-      "title": "Saudi Eid Moon Sighting LIVE Updates: Eid to be celebrated on Friday, March 20, as no crescent moon sighted today",
-      "summary": "Saudi Arabia Eid Moon Sighting LIVE Updates: Crescent moon has not been sighted today in Saudi Arabia, but according to the reports, Eid will be celebrated in the Kingdom on Friday, March 20. Stay tuned for Saudi Eid Moon Sighting LIVE Updates",
-      "url": "https://www.livemint.com/news/trends/saudi-arabia-eid-moon-sighting-live-updates-2026-shawwal-crescent-announcement-dubai-abu-dhabi-eid-date-india-march-20-11773833132516.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/RELIGION-RAMADAN-SAUDI-4_1773848469464_1773848497548.JPG",
-      "published_at": "2026-03-18T11:50:27.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సౌదీ ఈద్ మూన్ సైటింగ్ లైవ్ అప్‌డేట్‌లు: ఈరోజు నెలవంక కనిపించకపోవడంతో మార్చి 20, శుక్రవారం ఈద్ జరుపుకుంటారు",
-      "summary_te": "సౌదీ అరేబియా ఈద్ మూన్ లైవ్ అప్‌డేట్‌లు: సౌదీ అరేబియాలో ఈరోజు చంద్రవంక కనిపించలేదు, కానీ నివేదికల ప్రకారం, మార్చి 20, శుక్రవారం నాడు రాజ్యంలో ఈద్ జరుపుకుంటారు. సౌదీ ఈద్ మూన్ లైవ్ అప్‌డేట్‌ల కోసం వేచి ఉండండి",
-      "translated": true
-    },
-    {
       "id": "89cfb951130f56dd23e37fb6abecdda1",
       "title": "Sensex jumps nearly 3,000 points in 3 days. Has the market found its bottom or too early to celebrate?",
       "summary": "Indian markets extended a three-day rally, with Sensex rising over 700 points intraday and Nifty closing at 23,777. Gains were led by IT, realty, and auto stocks amid short covering and sectoral rotation. Analysts caution that resistance near 23,850–24,000 and geopolitical risks, crude prices, and rupee weakness could limit further upside.",
@@ -366,76 +436,6 @@
       "language": "en",
       "title_te": "సెన్సెక్స్ మూడు రోజుల్లో దాదాపు 3,000 పాయింట్లు ఎగబాకింది. మార్కెట్ దాని దిగువను గుర్తించిందా లేదా జరుపుకోవడానికి చాలా తొందరగా ఉందా?",
       "summary_te": "భారతీయ మార్కెట్లు మూడు రోజుల ర్యాలీని పొడిగించాయి, ఇంట్రాడేలో సెన్సెక్స్ 700 పాయింట్లకు పైగా పెరిగి, నిఫ్టీ 23,777 వద్ద ముగిసింది. షార్ట్ కవరింగ్ మరియు సెక్టోరల్ రొటేషన్ మధ్య ఐటి, రియాల్టీ మరియు ఆటో స్టాక్‌లు లాభాలను ఆర్జించాయి. 23,850–24,000 దగ్గర నిరోధం మరియు భౌగోళిక రాజకీయ ప్రమాదాలు, ముడి ధరలు మరియు రూపాయి బలహీనత మరింత పైకి పరిమితం కావచ్చని విశ్లేషకులు హెచ్చరిస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "3c38fb2f977c627cfe19dedff23f479d",
-      "title": "Rupee hits historic low, slips past 92.62 vs USD as Middle East tensions keep energy worries in focus",
-      "summary": "The Indian rupee hit a new lifetime low of 92.62 against the dollar on Monday, extending recent losses. Elevated oil prices, driven by the Middle East conflict, are increasing economic risks for India and deterring capital inflows. Brent crude has surged approximately 40% since the conflict began, impacting global energy markets.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-historic-low-slips-past-92-62-vs-usd-as-middle-east-tensions-keep-energy-worries-in-focus/articleshow/129652434.cms",
-      "image": null,
-      "published_at": "2026-03-18T09:21:54.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మధ్యప్రాచ్య ఉద్రిక్తతలు ఇంధన ఆందోళనలను దృష్టిలో ఉంచుకోవడంతో రూపాయి చారిత్రాత్మక కనిష్టానికి చేరుకుంది, USD వర్సెస్ 92.62 దాటింది",
-      "summary_te": "ఇటీవలి నష్టాలను పొడిగిస్తూ సోమవారం డాలర్‌తో పోలిస్తే భారత రూపాయి కొత్త జీవితకాల కనిష్ట స్థాయి 92.62కి చేరుకుంది. మిడిల్ ఈస్ట్ వివాదం కారణంగా పెరిగిన చమురు ధరలు భారతదేశానికి ఆర్థిక నష్టాలను పెంచుతున్నాయి మరియు మూలధన ప్రవాహాలను అడ్డుకుంటున్నాయి. సంఘర్షణ ప్రారంభమైనప్పటి నుండి బ్రెంట్ క్రూడ్ దాదాపు 40% పెరిగింది, ఇది ప్రపంచ ఇంధన మార్కెట్లను ప్రభావితం చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "1b859a80dde8926e36e252a342749974",
-      "title": "Axis Bank shares rise 2% as lender set to invest Rs 1,500 crore into NBFC arm Axis Finance",
-      "summary": "Axis Bank shares gained after the lender approved a Rs 1,500 crore capital infusion into its NBFC arm, Axis Finance. The move follows a pause in stake sale plans amid regulatory changes. The investment aims to support growth, while the subsidiary prepares to present a revised strategy and capital requirements.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-shares-rise-2-as-lender-set-to-invest-rs-1500-crore-into-nbfc-arm-axis-finance/articleshow/129652398.cms",
-      "image": null,
-      "published_at": "2026-03-18T09:20:22.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఎన్‌బిఎఫ్‌సి ఆర్మ్ యాక్సిస్ ఫైనాన్స్‌లో రుణదాత రూ. 1,500 కోట్ల పెట్టుబడి పెట్టడంతో యాక్సిస్ బ్యాంక్ షేర్లు 2 శాతం పెరిగాయి.",
-      "summary_te": "రుణదాత తన NBFC విభాగమైన యాక్సిస్ ఫైనాన్స్‌లో రూ. 1,500 కోట్ల మూలధన ఇన్ఫ్యూషన్‌ను ఆమోదించిన తర్వాత యాక్సిస్ బ్యాంక్ షేర్లు లాభపడ్డాయి. రెగ్యులేటరీ మార్పుల మధ్య వాటా విక్రయ ప్రణాళికలలో విరామం తరువాత ఈ చర్య జరిగింది. పెట్టుబడి వృద్ధికి తోడ్పాటును అందించడమే లక్ష్యంగా పెట్టుకుంది, అయితే అనుబంధ సంస్థ సవరించిన వ్యూహం మరియు మూలధన అవసరాలను సమర్పించడానికి సిద్ధం చేస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "b8c99c6a363e2d0651070f35b9a74432",
-      "title": "NSE said to set modest fee for its $2.5 billion India IPO",
-      "summary": "The National Stock Exchange of India is setting a modest advisory fee of around 0.65% for its upcoming IPO, potentially totaling $16.25 million. This contrasts sharply with higher averages paid by other companies, reflecting a trend of cost control in quasi-sovereign deals. Key banks have been appointed for the significant listing.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-said-to-set-modest-fee-for-its-2-5-billion-india-ipo/articleshow/129650306.cms",
-      "image": null,
-      "published_at": "2026-03-18T07:32:04.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "NSE తన $2.5 బిలియన్ల ఇండియా IPO కోసం నిరాడంబరమైన రుసుమును నిర్ణయించింది",
-      "summary_te": "నేషనల్ స్టాక్ ఎక్స్ఛేంజ్ ఆఫ్ ఇండియా దాని రాబోయే IPO కోసం దాదాపు 0.65% సలహా రుసుమును సెట్ చేస్తోంది, ఇది మొత్తం $16.25 మిలియన్లు. పాక్షిక సార్వభౌమ ఒప్పందాలలో వ్యయ నియంత్రణ ధోరణిని ప్రతిబింబిస్తూ, ఇతర కంపెనీలు చెల్లించే అధిక సగటులతో ఇది తీవ్రంగా విభేదిస్తుంది. ముఖ్యమైన లిస్టింగ్ కోసం కీలక బ్యాంకులు నియమించబడ్డాయి.",
-      "translated": true
-    },
-    {
-      "id": "9162785d23625f5c8708f67234ba9aee",
-      "title": "GSP Crop Science IPO Day 3: GMP, subscription status and key highlights",
-      "summary": "GSP Crop Science IPO GMP: The Rs 400 crore GSP Crop Science IPO enters its final day with 96% subscription, led by strong NII demand while retail interest remains muted. With GMP at zero, listing expectations remain subdued.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/gsp-crop-science-ipo-day-3-gmp-subscription-status-and-key-highlights/articleshow/129647104.cms",
-      "image": null,
-      "published_at": "2026-03-18T04:24:50.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "GSP క్రాప్ సైన్స్ IPO డే 3: GMP, సబ్‌స్క్రిప్షన్ స్థితి మరియు ముఖ్య ముఖ్యాంశాలు",
-      "summary_te": "GSP క్రాప్ సైన్స్ IPO GMP: రూ. 400 కోట్ల GSP క్రాప్ సైన్స్ IPO 96% సబ్‌స్క్రిప్షన్‌తో చివరి రోజులోకి ప్రవేశించింది, బలమైన NII డిమాండ్ కారణంగా రిటైల్ వడ్డీ మ్యూట్‌లో ఉంది. జీరో వద్ద GMPతో, జాబితా అంచనాలు అణచివేయబడతాయి.",
-      "translated": true
-    },
-    {
-      "id": "ff8079fa45855eaa7783407b31bc32e9",
-      "title": "Dalal Street newbies using IPO muscle to beat down debt",
-      "summary": "India's IPO boom is increasingly funding debt repayment over growth initiatives. Data reveals that nearly a quarter of funds raised in recent share sales are allocated to paying off borrowings, surpassing capital expenditure. This shift suggests companies are prioritizing balance sheet repair and liquidity for insiders rather than investing in new projects.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/dalal-street-newbies-using-ipo-muscle-to-beat-down-debt/articleshow/129644883.cms",
-      "image": null,
-      "published_at": "2026-03-18T01:06:18.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "దలాల్ స్ట్రీట్ కొత్తవారు రుణాన్ని తగ్గించడానికి IPO కండరాలను ఉపయోగిస్తున్నారు",
-      "summary_te": "భారతదేశం యొక్క IPO బూమ్ వృద్ధి కార్యక్రమాల కంటే రుణ చెల్లింపులకు నిధులు సమకూరుస్తోంది. ఇటీవలి షేర్ల విక్రయాలలో దాదాపు నాలుగింట ఒక వంతు నిధులను మూలధన వ్యయాన్ని అధిగమించి రుణాలను చెల్లించేందుకు కేటాయించినట్లు డేటా వెల్లడించింది. కొత్త ప్రాజెక్ట్‌లలో పెట్టుబడి పెట్టడం కంటే ఇన్‌సైడర్‌ల కోసం బ్యాలెన్స్ షీట్ రిపేర్ మరియు లిక్విడిటీకి కంపెనీలు ప్రాధాన్యత ఇస్తున్నాయని ఈ మార్పు సూచిస్తుంది.",
       "translated": true
     },
     {
@@ -617,7 +617,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎప్స్టీన్ అరెస్టు తర్వాత ఆమె డబ్బును తరలించి, కొన్నాళ్లపాటు ఘిస్లైన్ మాక్స్‌వెల్‌ను UBS బ్యాంకింగ్ చేసింది",
-      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్టు తర్వాత సహా మాక్స్‌వెల్ కోసం UBS మిలియన్ల కొద్దీ నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీశాయి.",
+      "summary_te": "స్విస్ బ్యాంక్ UBS 2014లో ఘిస్లైన్ మాక్స్‌వెల్ కోసం ఖాతాలను తెరిచింది. JP మోర్గాన్ చేజ్ జెఫ్రీ ఎప్‌స్టీన్‌తో తన సంబంధాన్ని ముగించి, మాక్స్‌వెల్‌ను హై-రిస్క్ క్లయింట్‌గా ఫ్లాగ్ చేసిన తర్వాత ఇది జరిగింది. ఎప్‌స్టీన్ 2019 అరెస్ట్ తర్వాత సహా మాక్స్‌వెల్ కోసం UBS మిలియన్ల కొద్దీ నిర్వహించింది. పత్రాలు మాక్స్‌వెల్‌తో UBS యొక్క బ్యాంకింగ్ సంబంధాన్ని ఆమె నేరారోపణకు దారితీశాయి.",
       "translated": true
     },
     {
