@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-18T17:08:12.566Z",
-  "updated_at_IST": "18/3/2026, 10:38:12 pm",
+  "updated_at": "2026-03-18T18:05:03.103Z",
+  "updated_at_IST": "18/3/2026, 11:35:03 pm",
   "category": "telangana",
   "count": 32,
   "articles": [
+    {
+      "id": "a034a3869a2338f4304cb5b7b9e94eba",
+      "title": "Chandrababu's comments on job creation",
+      "summary": "Chandrababu's comments on job creation thiru Wed, 03/18/2026 - 22:36 Display on listing page top story No Upload Video WhatsApp Video 2026-03-18 at 21.18.10.mp4 (4.13 MB) Chandrababu's comments on job creation",
+      "url": "https://www.sakshi.com/video/news-videos/chandrababu-comments-job-creation-2736912",
+      "image": "https://www.sakshi.com/s3/files/styles/medium/s3/default_images/audio-banner.png?itok=EqtMAoin",
+      "published_at": "2026-03-18T17:06:34.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "ఉద్యోగాల కల్పనపై చంద్రబాబు వ్యాఖ్యలు",
+      "summary_te": "ఉద్యోగాల కల్పనపై చంద్రబాబు వ్యాఖ్యలు thiru Wed, 03/18/2026 - 22:36 Display on listing page top story No Upload Video WhatsApp Video 2026-03-18 at 21.18.10.mp4 (4.13 MB) ఉద్యోగాల కల్పనపై చంద్రబాబు వ్యాఖ్యలు",
+      "translated": true
+    },
     {
       "id": "1e5a11941a4ca959eb6758d0c4e2b7fe",
       "title": "'Chandrababu government has lifted the crop insurance scheme'",
@@ -58,6 +72,20 @@
       "language": "te",
       "title_te": "రైల్వే టికెట్ బుకింగ్‌లో భారీ మార్పులు.. త్వరలోనే!",
       "summary_te": "రైల్వే టికెట్ బుకింగ్‌లో భారీ మార్పులు.. త్వరలోనే! gbalaji Wed, 03/18/2026 - 21:32",
+      "translated": true
+    },
+    {
+      "id": "bb8efff7b5e7b2c18867230f7700546f",
+      "title": "BRS walks out of Assembly in protest against alleged irregularities in Musi rejuvenation project",
+      "summary": "Musi project generates considerable heat in the Assembly",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-walks-out-of-assembly-in-protest-against-alleged-irregularities-in-musi-rejuvenation-project/article70757719.ece",
+      "image": null,
+      "published_at": "2026-03-18T15:54:02.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మూసీ పునరుజ్జీవన ప్రాజెక్టులో అవకతవకలకు నిరసనగా BRS అసెంబ్లీ నుండి వాకౌట్ చేసింది",
+      "summary_te": "మూసీ ప్రాజెక్ట్ అసెంబ్లీలో గణనీయమైన వేడిని సృష్టిస్తుంది",
       "translated": true
     },
     {
@@ -243,20 +271,6 @@
       "translated": true
     },
     {
-      "id": "aa8bcacc8d4e7e1d0a7b8b952695b122",
-      "title": "They showed pride: Revanth Reddy",
-      "summary": "They showed arrogance: Revanth Reddy tvenkatesh Wed, 03/18/2026 - 20:41",
-      "url": "https://www.sakshi.com/telugu-news/telangana/revanth-reddy%E2%80%99s-remarks-governor%E2%80%99s-address-2736902",
-      "image": null,
-      "published_at": "2026-03-18T15:11:09.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "వారు అహంకారం ప్రదర్శించారు: రేవంత్‌ రెడ్డి",
-      "summary_te": "వారు అహంకారం ప్రదర్శించారు: రేవంత్‌ రెడ్డి tvenkatesh Wed, 03/18/2026 - 20:41",
-      "translated": true
-    },
-    {
       "id": "bc787fb5282fb3b4ad477f9fd2c4c7ac",
       "title": "Thunderstorm forecast in 24 Telangana districts on March 19",
       "summary": "The India Meteorological Department (IMD) has issued a thunderstorm forecast in 24 Telangana districts for Thursday (March 19). According to IMD’s latest bulletin, thunderstorm accompanied with lightning and gusty winds are very likely to occur at isolated places in Adilabad, Kumaram Bheem Asifabad, Mancherial, Nirmal, Nizamabad, Jagtial, Rajanna Sircilla, Karimnagar, Peddapalli, Jayashankar Bhupalpally, Mulugu, Bhadradri Kothagudem, Khammam, Nalgonda, Suryapet, Mahabubabad, Warangal, Hanamkonda, Jangaon, Siddipet, Yadadri Bhuvanagiri, Rangareddy, Hyderabad and Medchal Malkajgiri.Hyderabad and its surrounding areas for the next 24 hours will see generally cloudy sky. “Light to moderate rain or thunder showers accompanied with gusty winds are very likely to occur in the city towards evening or night. The maximum and minimum temperatures are likely to be around 32°C and 19°C respectively,” the bulletin said.",
@@ -436,20 +450,6 @@
       "language": "en",
       "title_te": "హన్మకొండలో ఓ వ్యక్తి, కూతురు సజీవదహనం",
       "summary_te": "హనమకొండలో బుధవారం ఉదయం కాజీపేట మండల పరిధిలోని కడిపికొండ గ్రామంలోని రాజీవ్ గృహకల్ప కాంప్లెక్స్‌లో ఓ వ్యక్తి, అతని కుమార్తె కాలిపోయి మృతి చెందారు.మృతులను రాజశేఖర్ (54), అతని కుమార్తె రాజశ్రీ (24)గా గుర్తించారు. మంగళవారం జరిగిన తమ కుమార్తెకు అన్నప్రాసన కార్యక్రమాన్ని నిర్వహించేందుకు రాజశ్రీ తన భర్త ప్రవీణ్‌తో కలిసి రెండు రోజుల క్రితం హైదరాబాద్‌ నుంచి తల్లిదండ్రుల ఇంటికి వచ్చారు. ఈ దంపతులకు జయంష్ (2) మరియు దివిషా (ఆరు నెలల వయస్సు) ఇద్దరు పిల్లలు ఉన్నారు. కుటుంబ సభ్యులు ఫౌల్ ప్లే ఆరోపిస్తూ, రాజశ్రీ భర్త ప్రవీణ్ ప్రమేయం ఉందని అనుమానించారు. కుటుంబ కలహాలతో ఇద్దరిని హత్య చేసి ప్రమాదవశాత్తూ హత్యలు చేసేందుకు ప్రయత్నించి ఇద్దరికి నిప్పంటించి ఉండొచ్చని వారు పేర్కొన్నారు. ఘటన సమయంలో ప్రవీణ్‌ ఇంటి బయట పిల్లలతో కలిసి ఉండడంతో స్థానికులకు సమాచారం అందించారు. తెల్లవారుజామున ఇంట్లో నుంచి మంటలు ఎగిసిపడుతుండడం గమనించిన నివాసితులు భయాందోళనలకు గురై పోలీసులకు, అగ్నిమాపక శాఖకు సమాచారం అందించారు. సమాచారం అందుకున్న మడికొండ ఇన్‌స్పెక్టర్‌ పి.కిషన్‌, ఎస్‌ఐ రాజ్‌కుమార్‌ క్లూస్‌ టీమ్‌తో సంఘటనా స్థలానికి చేరుకుని వేలిముద్రలు, ఇతర ఆధారాలు సేకరించారు. పోలీసులు ప్రవీణ్‌ని అదుపులోకి తీసుకుని విచారించి కేసు నమోదు చేశారు. అగ్నిప్రమాదానికి గల కారణాన్ని తెలుసుకోవడానికి మరియు ఆరోపణలను ధృవీకరించడానికి తదుపరి విచారణ జరుగుతోంది.",
-      "translated": true
-    },
-    {
-      "id": "6346846c8a7d85f8744ec96c12f78ed9",
-      "title": "After student’s death, protest at RGUKT over ill-equipped health centre on campus",
-      "summary": "A section of students of the Rajiv Gandhi University of Knowledge Technologies (RGUKT) at Basar staged a protest demanding better medical facilities on campus and compensation for the parents of Tejaswini, a student of RGUKT, who died of ‘leukemia’ while undergoing treatment at a hospital in Hyderabad on Monday.According to sources, the aggrieved students staged their ‘sleep-in’ protest near the entrance of RGUKT Vice-Chancellor’s office on the intervening night of March 17-18 to press for their charter of demands.Expressing solidarity with the bereaved family of Tejaswini, a second year student of the Pre-University Course, they sought a compensation of ₹50 lakh for her parents.They deplored that the health centre at RGUKT was ill-equipped to fully cater to the healthcare needs of thousands of students on the campus. They further demanded that the medical facilities including diagnostic services at the health centre be strengthened forthwith.The demonstrators vowed to continue their protest until their demands were met.",
-      "url": "https://www.thehindu.com/news/national/telangana/after-students-death-protest-at-rgukt-over-ill-equipped-health-centre-on-campus/article70757931.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-18T13:32:37.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "విద్యార్థి మరణానంతరం, క్యాంపస్‌లో సౌకర్యాలు లేని ఆరోగ్య కేంద్రంపై RGUKT వద్ద నిరసన",
-      "summary_te": "బాసరలోని రాజీవ్ గాంధీ యూనివర్సిటీ ఆఫ్ నాలెడ్జ్ టెక్నాలజీస్ (ఆర్‌జీయూకేటీ) క్యాంపస్‌లో మెరుగైన వైద్య సదుపాయాలు కల్పించాలని, లుకేమియాతో హైదరాబాద్‌లోని ఆస్పత్రిలో చికిత్స పొందుతూ మృతి చెందిన ఆర్‌జీయూకేటీ విద్యార్థిని తేజస్విని తల్లిదండ్రులకు నష్టపరిహారం ఇవ్వాలని డిమాండ్ చేస్తూ సోమవారం విద్యార్థులు నిరసనకు దిగారు. మార్చి 17-18 మధ్య రాత్రి RGUKT వైస్-ఛాన్సలర్ కార్యాలయం తమ డిమాండ్ల చార్టర్ కోసం ఒత్తిడి తెస్తుంది. ప్రీ-యూనివర్సిటీ కోర్సులో రెండవ సంవత్సరం చదువుతున్న తేజస్విని కుటుంబానికి సంఘీభావం తెలుపుతూ, ఆమె తల్లిదండ్రులకు ₹ 50 లక్షల నష్టపరిహారం చెల్లించాలని వారు కోరారు. క్యాంపస్‌లో వేలాది మంది విద్యార్థుల ఆరోగ్య సంరక్షణ అవసరాలు. తక్షణమే ఆరోగ్య కేంద్రంలో డయాగ్నోస్టిక్‌ సేవలతోపాటు వైద్య సదుపాయాలను పటిష్టం చేయాలని డిమాండ్‌ చేశారు.తమ డిమాండ్‌లు నెరవేరే వరకు నిరసనలు కొనసాగిస్తామని ఆందోళనకారులు ప్రతిజ్ఞ చేశారు.",
       "translated": true
     }
   ]

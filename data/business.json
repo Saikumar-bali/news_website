@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-03-18T17:08:12.566Z",
-  "updated_at_IST": "18/3/2026, 10:38:12 pm",
+  "updated_at": "2026-03-18T18:05:03.103Z",
+  "updated_at_IST": "18/3/2026, 11:35:03 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "5905c77aab1b45a1fd579e23dc75b5f4",
+      "title": "Eid Al Fitr 2026 Holidays: UAE announces holiday dates for public, private workers—details here",
+      "summary": "The UAE authorities clarified&nbsp;that should the holy month of Ramadan complete a 30-day cycle, the private sector holiday will be extended to include Sunday, 22 March.",
+      "url": "https://www.livemint.com/news/trends/eid-al-fitr-2026-holidays-uae-announces-holiday-dates-for-public-private-workers-details-here-11773852960499.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/UAE-IRAN-ISRAEL-US-WAR-RELIGION-RAMADAN-2_1773854021339_1773854051928.jpg",
+      "published_at": "2026-03-18T17:44:16.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈద్ అల్ ఫితర్ 2026 సెలవులు: UAE ప్రభుత్వ, ప్రైవేట్ కార్మికులకు సెలవు తేదీలను ప్రకటించింది-వివరాలు ఇక్కడ ఉన్నాయి",
+      "summary_te": "పవిత్ర రంజాన్ మాసం 30 రోజుల చక్రాన్ని పూర్తి చేస్తే, ప్రైవేట్ సెక్టార్ సెలవుదినం ఆదివారం, మార్చి 22 వరకు పొడిగించబడుతుందని UAE అధికారులు స్పష్టం చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "352361e81240917e4b071144b2ef46aa",
+      "title": "Quote of the day: Henry Ford's take on strong mindset — ‘Whether you think you can, or think you can’t…'",
+      "summary": "Henry Ford has underscored the importance of mindset in shaping outcomes. Believing you can builds confidence and persistence, while doubt limits effort. Success depends on choosing a positive, possibility-driven outlook over self-imposed limits.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-henry-fords-take-on-strong-mindset-whether-you-think-you-can-or-think-you-cant-11773848551365.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/Henry_Ford_1773849023730_1773849023898.jpg",
+      "published_at": "2026-03-18T17:23:25.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రోజు యొక్క కోట్: హెన్రీ ఫోర్డ్ యొక్క దృఢమైన మనస్తత్వం - 'మీరు చేయగలరని మీరు అనుకున్నా, లేదా మీరు చేయలేరని భావించినా...'",
+      "summary_te": "ఫలితాలను రూపొందించడంలో మనస్తత్వం యొక్క ప్రాముఖ్యతను హెన్రీ ఫోర్డ్ నొక్కిచెప్పారు. మీరు విశ్వాసం మరియు పట్టుదలను పెంపొందించగలరని విశ్వసించడం, సందేహం ప్రయత్నాన్ని పరిమితం చేస్తుంది. స్వీయ-విధించిన పరిమితులపై సానుకూల, అవకాశం-ఆధారిత దృక్పథాన్ని ఎంచుకోవడంపై విజయం ఆధారపడి ఉంటుంది.",
+      "translated": true
+    },
+    {
+      "id": "9c3cd2a9d343b3a660797bd2681db4b2",
+      "title": "'Criminals will pay for his blood': Mojtaba Khamenei on killing of Iran security chief Ali Larijani",
+      "summary": "Iran's Supreme Leader, Mojtaba Khamenei, on Wednesday (local time) reacted to the killing of Ali Larijani, the country's Supreme National Security Council, saying that ‘criminals have to pay soon for his blood.' The development comes a day after Israeli military said that they killed the leader.",
+      "url": "https://www.livemint.com/news/world/criminals-will-pay-for-his-blood-mojtaba-khamenei-on-killing-of-iran-security-chief-ali-larijani-11773852849882.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/APTOPIX-Iran-US-Israel-5_1773431087120_1773431100571_1773853696984.jpg",
+      "published_at": "2026-03-18T17:00:23.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'నేరస్థులు అతని రక్తానికి చెల్లిస్తారు': ఇరాన్ భద్రతా చీఫ్ అలీ లారిజానీ హత్యపై మోజ్తాబా ఖమేనీ",
+      "summary_te": "ఇరాన్ యొక్క సుప్రీం లీడర్, మోజ్తాబా ఖమేనీ, బుధవారం (స్థానిక కాలమానం ప్రకారం) దేశ అత్యున్నత జాతీయ భద్రతా మండలి అయిన అలీ లారిజానీ హత్యపై స్పందిస్తూ, 'నేరస్థులు అతని రక్తానికి త్వరలో చెల్లించవలసి ఉంటుంది' అని అన్నారు. ఇజ్రాయెల్ సైన్యం తాము నాయకుడిని చంపినట్లు చెప్పిన ఒక రోజు తర్వాత ఈ పరిణామం జరిగింది.",
+      "translated": true
+    },
+    {
       "id": "8bc3b196feb30ad07dc3ba16b4b1aeb6",
-      "title": "Iran Intel Minister Esmail Khatib killed in strikes, confirms Israel President — who was he?",
-      "summary": "Iran's president Masoud Pezeshkian branded intelligence minister Esmail Khatib's death a “cowardly assassination.”",
+      "title": "Iran Intel Minister Esmail Khatib killed in Israeli strikes, confirms President Pezeshkian — who was he?",
+      "summary": "Iranian President Masoud Pezeshkian termed Intelligence Minister Esmail Khatib's killing a “cowardly assassination”.",
       "url": "https://www.livemint.com/news/world/iran-intel-minister-esmail-khatib-killed-in-strikes-confirms-israel-president-who-was-he-11773851657863.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/FILES-IRAN-ISRAEL-US-WAR-0_1773851729377_1773851756819.jpg",
       "published_at": "2026-03-18T16:40:59.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ ఇంటెల్ మంత్రి ఎస్మాయిల్ ఖతీబ్ దాడుల్లో మరణించారు, ఇజ్రాయెల్ అధ్యక్షుడిని ధృవీకరించారు - అతను ఎవరు?",
-      "summary_te": "ఇరాన్ అధ్యక్షుడు మసౌద్ పెజెష్కియాన్ ఇంటెలిజెన్స్ మంత్రి ఎస్మాయిల్ ఖతీబ్ మరణాన్ని \"పిరికి హత్య\"గా అభివర్ణించారు.",
+      "title_te": "ఇరాన్ ఇంటెల్ మంత్రి ఎస్మాయిల్ ఖతీబ్ ఇజ్రాయెల్ దాడుల్లో మరణించారని, అధ్యక్షుడు పెజెష్కియన్ ధృవీకరించారు - అతను ఎవరు?",
+      "summary_te": "ఇంటెలిజెన్స్ మంత్రి ఎస్మాయిల్ ఖతీబ్ హత్యను ఇరాన్ అధ్యక్షుడు మసౌద్ పెజెష్కియాన్ \"పిరికి హత్య\"గా అభివర్ణించారు.",
       "translated": true
     },
     {
@@ -133,7 +175,7 @@
     {
       "id": "ac6db930d4a50e3e37d87242fac268af",
       "title": "Has the moon been sighted today in Saudi, UAE? Will Eid be celebrated tomorrow?",
-      "summary": "In Saudi Arabia, Ramzan began on February 18 and today marks exactly one month since the holy period of fasting began. The sighting of the Shawwal crescent signals the end of the holy month of and the beginning of Eid celebrations",
+      "summary": "In Saudi Arabia, Ramadan began on 18 February, and today marks exactly one month since the holy period of fasting began. The sighting of the Shawwal crescent signals the end of the holy month and the beginning of Eid celebrations.",
       "url": "https://www.livemint.com/news/world/has-the-moon-been-sighted-today-in-saudi-uae-will-eid-be-celebrated-tomorrow-11773844957164.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/RELIGION-RAMADAN-SAUDI-4_1773845958493_1773845969426.JPG",
       "published_at": "2026-03-18T15:01:45.000Z",
@@ -141,7 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "సౌదీ, యుఎఇలో ఈరోజు చంద్రుడు కనిపించాడా? రేపు ఈద్ జరుపుకుంటారా?",
-      "summary_te": "సౌదీ అరేబియాలో, రంజాన్ ఫిబ్రవరి 18 న ప్రారంభమైంది మరియు ఈ రోజు పవిత్ర ఉపవాస కాలం ప్రారంభమై సరిగ్గా ఒక నెలను సూచిస్తుంది. షవ్వాల్ నెలవంక దర్శనం పవిత్ర మాసం ముగింపు మరియు ఈద్ వేడుకల ప్రారంభాన్ని సూచిస్తుంది.",
+      "summary_te": "సౌదీ అరేబియాలో, రంజాన్ ఫిబ్రవరి 18న ప్రారంభమైంది మరియు ఈ రోజు పవిత్ర ఉపవాసం ప్రారంభమై సరిగ్గా ఒక నెలని సూచిస్తుంది. షవ్వాల్ నెలవంక దర్శనం పవిత్ర మాసం ముగింపు మరియు ఈద్ వేడుకల ప్రారంభాన్ని సూచిస్తుంది.",
       "translated": true
     },
     {
@@ -273,7 +315,7 @@
     {
       "id": "aea78eba96505cf34c89c3c0666d28f5",
       "title": "Saudi Eid Moon Sighting LIVE Updates: Eid to be celebrated on Friday, March 20, as no crescent moon sighted today",
-      "summary": "Saudi Arabia Eid Moon Sighting LIVE Updates: Crescent moon has not been sighted today in Saudi Arabia, but according to the reports, Eid will be celebrated in the Kingdom on Friday, March 20. Keep checking for Saudi Eid Moon Sighting LIVE Updates",
+      "summary": "Saudi Arabia Eid Moon Sighting LIVE Updates: Crescent moon has not been sighted today in Saudi Arabia, but according to the reports, Eid will be celebrated in the Kingdom on Friday, March 20. Stay tuned for Saudi Eid Moon Sighting LIVE Updates",
       "url": "https://www.livemint.com/news/trends/saudi-arabia-eid-moon-sighting-live-updates-2026-shawwal-crescent-announcement-dubai-abu-dhabi-eid-date-india-march-20-11773833132516.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/RELIGION-RAMADAN-SAUDI-4_1773848469464_1773848497548.JPG",
       "published_at": "2026-03-18T11:50:27.000Z",
@@ -281,7 +323,7 @@
       "category": "business",
       "language": "en",
       "title_te": "సౌదీ ఈద్ మూన్ సైటింగ్ లైవ్ అప్‌డేట్‌లు: ఈరోజు నెలవంక కనిపించకపోవడంతో మార్చి 20, శుక్రవారం ఈద్ జరుపుకుంటారు",
-      "summary_te": "సౌదీ అరేబియా ఈద్ చంద్రుని ప్రత్యక్ష ప్రసార అప్‌డేట్‌లు: సౌదీ అరేబియాలో ఈరోజు చంద్రవంక కనిపించలేదు, కానీ నివేదికల ప్రకారం, మార్చి 20, శుక్రవారం నాడు రాజ్యంలో ఈద్ జరుపుకుంటారు. సౌదీ ఈద్ మూన్ లైవ్ అప్‌డేట్‌ల కోసం తనిఖీ చేస్తూ ఉండండి.",
+      "summary_te": "సౌదీ అరేబియా ఈద్ మూన్ లైవ్ అప్‌డేట్‌లు: సౌదీ అరేబియాలో ఈరోజు చంద్రవంక కనిపించలేదు, కానీ నివేదికల ప్రకారం, మార్చి 20, శుక్రవారం నాడు రాజ్యంలో ఈద్ జరుపుకుంటారు. సౌదీ ఈద్ మూన్ లైవ్ అప్‌డేట్‌ల కోసం వేచి ఉండండి",
       "translated": true
     },
     {
@@ -324,48 +366,6 @@
       "language": "en",
       "title_te": "సెన్సెక్స్ మూడు రోజుల్లో దాదాపు 3,000 పాయింట్లు ఎగబాకింది. మార్కెట్ దాని దిగువను గుర్తించిందా లేదా జరుపుకోవడానికి చాలా తొందరగా ఉందా?",
       "summary_te": "భారతీయ మార్కెట్లు మూడు రోజుల ర్యాలీని పొడిగించాయి, ఇంట్రాడేలో సెన్సెక్స్ 700 పాయింట్లకు పైగా పెరిగి, నిఫ్టీ 23,777 వద్ద ముగిసింది. షార్ట్ కవరింగ్ మరియు సెక్టోరల్ రొటేషన్ మధ్య ఐటి, రియాల్టీ మరియు ఆటో స్టాక్‌లు లాభాలను ఆర్జించాయి. 23,850–24,000 దగ్గర నిరోధం మరియు భౌగోళిక రాజకీయ ప్రమాదాలు, ముడి ధరలు మరియు రూపాయి బలహీనత మరింత పైకి పరిమితం కావచ్చని విశ్లేషకులు హెచ్చరిస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "7a2782bbca0f24f8a4d453caf755a6a9",
-      "title": "Bengaluru family tries to ship father in gunnysack over high bus fares, lands in police station | Watch bizarre protest",
-      "summary": "Five members of a family walked into a courier office carrying a large sack and insisted it be shipped. Staff were shocked to discover that an elderly man was inside.",
-      "url": "https://www.livemint.com/news/bengaluru-family-tries-to-ship-father-in-gunnysack-over-high-bus-fares-lands-in-police-station-watch-wierd-protest-11773824675001.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/bag_1773825195327_1773825214803.jpg",
-      "published_at": "2026-03-18T10:33:23.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "బస్ ఛార్జీలు ఎక్కువ అంటూ తండ్రిని గన్నీసాక్‌లో ఉంచి పంపించేందుకు ప్రయత్నించిన బెంగళూరు కుటుంబం, పోలీస్ స్టేషన్‌లో దిగింది | వింత నిరసన చూడండి",
-      "summary_te": "ఒక కుటుంబానికి చెందిన ఐదుగురు సభ్యులు పెద్ద గోనె సంచిని తీసుకుని కొరియర్ కార్యాలయంలోకి వెళ్లి దానిని రవాణా చేయాలని పట్టుబట్టారు. లోపల వృద్ధుడు ఉండటాన్ని గుర్తించిన సిబ్బంది షాక్‌కు గురయ్యారు.",
-      "translated": true
-    },
-    {
-      "id": "b5fc74e07983716a6e45106d34e00df7",
-      "title": "Indian-flagged tanker ‘Jag Laadki’ reaches Gujarat from war-zone, says Adani Ports — Video emerges",
-      "summary": "Strait of Hormuz blockade: ‘Jag Laadki’ is the fourth vessel to reach India amid the West Asia conflict, and the second to dock at Adani Group's Mundra Port.",
-      "url": "https://www.livemint.com/news/india/indianflagged-tanker-jag-laadki-reaches-gujarat-from-war-zone-says-adani-ports-video-emerges-strait-of-hormuz-iran-11773828937614.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/ANI-20260318089-0_1773829030953_1773829035307.jpg",
-      "published_at": "2026-03-18T10:26:41.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "భారత జెండాతో కూడిన ట్యాంకర్ ‘జగ్ లాడ్కీ’ యుద్ధ ప్రాంతం నుండి గుజరాత్‌కు చేరుకుందని అదానీ పోర్ట్స్ చెప్పారు - వీడియో వెలువడింది",
-      "summary_te": "హార్ముజ్ దిగ్బంధనం జలసంధి: పశ్చిమాసియా వివాదాల మధ్య భారతదేశానికి చేరుకున్న నాల్గవ నౌక 'జగ్ లాడ్కీ' మరియు అదానీ గ్రూప్‌కు చెందిన ముంద్రా పోర్ట్‌లో డాక్ చేసిన రెండవది.",
-      "translated": true
-    },
-    {
-      "id": "95406b85d7be89411295c037372a8368",
-      "title": "Delhi Palam fire: 9 dead; was a short circuit the cause? CM Rekha Gupta, L-G order probe, fire audit",
-      "summary": "Delhi Palam fire: Expressing his deepest condolences on the unfortunate incident, PM Modi announced ₹50,000 ex-gratia to the injured from the Prime Minister's National Relief Fund.",
-      "url": "https://www.livemint.com/news/india/delhi-palam-fire-9-dead-was-short-circuit-the-reason-cm-rekha-gupta-l-g-order-magisterial-inquiry-fire-audit-11773826808564.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/Family-28_1773827117453_1773827132368.jpg",
-      "published_at": "2026-03-18T10:07:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఢిల్లీ పాలెం అగ్నిప్రమాదం: 9 మంది మృతి; షార్ట్ సర్క్యూట్ కారణమా? CM రేఖా గుప్తా, L-G ఆర్డర్ ప్రోబ్, ఫైర్ ఆడిట్",
-      "summary_te": "ఢిల్లీ పాలెం అగ్నిప్రమాదం: దురదృష్టకర సంఘటనపై తన ప్రగాఢ సంతాపాన్ని వ్యక్తం చేస్తూ, గాయపడిన వారికి ప్రధానమంత్రి జాతీయ సహాయ నిధి నుండి ₹ 50,000 ఎక్స్‌గ్రేషియా ప్రకటించారు.",
       "translated": true
     },
     {
@@ -645,7 +645,7 @@
       "category": "business",
       "language": "en",
       "title_te": "తేజస్ నెట్‌వర్క్‌లను కొనుగోలు చేయండి; లక్ష్యం రూ. 1100: ఎంకే గ్లోబల్ ఫైనాన్షియల్",
-      "summary_te": "Emkay గ్లోబల్ ఫైనాన్షియల్, Tejas నెట్‌వర్క్స్‌పై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి తన పరిశోధన నివేదికలో 1100 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
+      "summary_te": "Emkay Global Financial, Tejas Networksపై బుల్లిష్‌గా ఉంది, ఏప్రిల్ 23, 2024 నాటి పరిశోధన నివేదికలో 1100 రూపాయల టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
       "translated": true
     },
     {
