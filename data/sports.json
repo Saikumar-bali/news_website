@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-18T10:52:57.772Z",
-  "updated_at_IST": "18/3/2026, 4:22:57 pm",
+  "updated_at": "2026-03-18T11:50:31.007Z",
+  "updated_at_IST": "18/3/2026, 5:20:31 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "bc0b0f68ee3dee2a010a74fb3df32b9a",
+      "title": "Buttler 'still has England ambitions' despite T20 World Cup slump",
+      "summary": "Former England captain has made one half-century in four ICC events, but is contracted for another 18 months",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528343.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414770.jpg",
+      "published_at": "2026-03-18T10:52:44.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "టీ20 ప్రపంచకప్‌లో పతనమైనప్పటికీ బట్లర్‌కి ఇంకా ఇంగ్లాండ్ ఆశలు ఉన్నాయి",
+      "summary_te": "ఇంగ్లండ్ మాజీ కెప్టెన్ నాలుగు ICC ఈవెంట్లలో ఒక అర్ధ సెంచరీ చేసాడు, కానీ మరో 18 నెలలకు ఒప్పందం చేసుకున్నాడు",
+      "translated": true
+    },
+    {
+      "id": "e92c7515189918edba6c669b6a6def40",
+      "title": "Jamie Smith: IPL omission can be blessing in disguise",
+      "summary": "Keeper-batter rues shortcomings in Australia but hopes to take lessons into new season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528339.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/399100/399181.jpg",
+      "published_at": "2026-03-18T10:47:43.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "జామీ స్మిత్: ఐపీఎల్‌ను తప్పించడం మారువేషంలో ఆశీర్వాదం",
+      "summary_te": "కీపర్-బ్యాటర్ ఆస్ట్రేలియాలో లోపాలను రూపుమాపారు కానీ కొత్త సీజన్‌లో పాఠాలు తీసుకోవాలని ఆశిస్తున్నారు",
+      "translated": true
+    },
     {
       "id": "4e1282b6917619e0c4336b4a6832a749",
       "title": "Bangladesh sports minister to consult ICC on future of BCB",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "మోకాలి శస్త్ర చికిత్స తర్వాత హర్షిత్ రానా ఐపీఎల్ సీజన్‌లో ఎక్కువ భాగం మిస్ అయ్యాడు",
       "summary_te": "అతను ప్రస్తుతం పునరావాసంలో ఉన్నాడు మరియు BCCI వైద్య బృందం ఇంకా తిరిగి వచ్చే తేదీని కేటాయించలేదు",
-      "translated": true
-    },
-    {
-      "id": "0374b0b13ede0efae9111910dcda0957",
-      "title": "BCB warns Bangladesh government against interfering in board matters",
-      "summary": "The Bangladesh sports ministry has formed a committee to investigate allegations of malpractice during last year's BCB elections",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528129.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412200/412277.jpg",
-      "published_at": "2026-03-16T17:56:22.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బోర్డు వ్యవహారాల్లో జోక్యం చేసుకోవద్దని బీసీబీ బంగ్లాదేశ్ ప్రభుత్వాన్ని హెచ్చరించింది",
-      "summary_te": "గతేడాది జరిగిన బీసీబీ ఎన్నికల సందర్భంగా జరిగిన అవకతవకలపై దర్యాప్తు చేసేందుకు బంగ్లాదేశ్ క్రీడా మంత్రిత్వ శాఖ ఒక కమిటీని ఏర్పాటు చేసింది",
-      "translated": true
-    },
-    {
-      "id": "958196ae7679ecca70db9519165df2bf",
-      "title": "James Foster named CSK fielding coach",
-      "summary": "Former England wicketkeeper won the ILT20 as Desert Vipers head coach in January",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528113.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/343500/343501.jpg",
-      "published_at": "2026-03-16T13:18:28.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "జేమ్స్ ఫోస్టర్ CSK ఫీల్డింగ్ కోచ్‌గా ఎంపికయ్యాడు",
-      "summary_te": "ఇంగ్లండ్ మాజీ వికెట్ కీపర్ జనవరిలో డెసర్ట్ వైపర్స్ ప్రధాన కోచ్‌గా ILT20ని గెలుచుకున్నాడు",
       "translated": true
     }
   ]
