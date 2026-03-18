@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-18T04:25:36.695Z",
-  "updated_at_IST": "18/3/2026, 9:55:36 am",
+  "updated_at": "2026-03-18T06:10:19.404Z",
+  "updated_at_IST": "18/3/2026, 11:40:19 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "76728afdffb32025c6973f58b16fb852",
+      "title": "Haddin named New South Wales head coach",
+      "summary": "The former wicketkeeper-batter takes over from Greg Shipperd after a messy few months for the state",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528186.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414760.jpg",
+      "published_at": "2026-03-18T05:39:27.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హాడిన్ న్యూ సౌత్ వేల్స్ ప్రధాన కోచ్‌గా నియమితులయ్యారు",
+      "summary_te": "మాజీ వికెట్ కీపర్-బ్యాటర్ రాష్ట్రం కోసం కొన్ని నెలల గందరగోళం తర్వాత గ్రెగ్ షిప్పర్డ్ నుండి బాధ్యతలు స్వీకరించాడు",
+      "translated": true
+    },
+    {
+      "id": "19cb1e551b2f9b11b859a73f15b27607",
+      "title": "Ferguson on Sears: 'He has still got more pace in him'",
+      "summary": "\"I love playing in New Zealand in front of the home crowd, conditions I'm used to,\" Lockie Ferguson says of returning after a break",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528261.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414759.jpg",
+      "published_at": "2026-03-18T04:32:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఫెర్గూసన్ ఆన్ సియర్స్: 'అతనికి ఇంకా ఎక్కువ వేగం ఉంది'",
+      "summary_te": "\"నాకు న్యూజిలాండ్‌లో స్వదేశీ ప్రేక్షకుల ముందు ఆడటం చాలా ఇష్టం, పరిస్థితులు నాకు అలవాటు\" అని లాకీ ఫెర్గూసన్ విరామం తర్వాత తిరిగి రావడం గురించి చెప్పాడు",
+      "translated": true
+    },
     {
       "id": "4e1282b6917619e0c4336b4a6832a749",
       "title": "Bangladesh sports minister to consult ICC on future of BCB",
@@ -44,20 +72,6 @@
       "language": "en",
       "title_te": "'యాషెస్ సిరీస్ మీ నుండి చాలా ప్రయోజనం పొందుతుంది' - కారీ అలసిపోయాడు కానీ షీల్డ్ ఫైనల్ కోసం ఉత్సాహంగా ఉన్నాడు",
       "summary_te": "తాను విరామం కోసం ఎదురు చూస్తున్నానని, అయితే వచ్చే వారం విక్టోరియాతో జరిగిన మ్యాచ్‌లో దక్షిణ ఆస్ట్రేలియాకు షీల్డ్ టైటిల్స్‌ను తిరిగి సాధించడంలో సహాయపడటానికి తాను చాలా ప్రేరేపిస్తున్నానని కారీ చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "76728afdffb32025c6973f58b16fb852",
-      "title": "Haddin named New South Wales head coach",
-      "summary": "The former wicketkeeper-batter takes over from Greg Shipperd after a messy few months for the state",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528186.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/391400/391455.jpg",
-      "published_at": "2026-03-17T23:07:52.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హాడిన్ న్యూ సౌత్ వేల్స్ ప్రధాన కోచ్‌గా నియమితులయ్యారు",
-      "summary_te": "మాజీ వికెట్ కీపర్-బ్యాటర్ రాష్ట్రం కోసం కొన్ని నెలల గందరగోళం తర్వాత గ్రెగ్ షిప్పర్డ్ నుండి బాధ్యతలు స్వీకరించాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "జేమ్స్ ఫోస్టర్ CSK ఫీల్డింగ్ కోచ్‌గా ఎంపికయ్యాడు",
       "summary_te": "ఇంగ్లండ్ మాజీ వికెట్ కీపర్ జనవరిలో డెసర్ట్ వైపర్స్ ప్రధాన కోచ్‌గా ILT20ని గెలుచుకున్నాడు",
-      "translated": true
-    },
-    {
-      "id": "f012690d82ae8b91fca407ebabb9662f",
-      "title": "Cricket Australia amends injury sub rule for Sheffield Shield final",
-      "summary": "Numerous boards have trailed new substitution rules with feedback being sent to ICC with a eye on Test cricket",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528097.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/407800/407833.jpg",
-      "published_at": "2026-03-16T09:22:02.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "షెఫీల్డ్ షీల్డ్ ఫైనల్ కోసం క్రికెట్ ఆస్ట్రేలియా గాయం ఉప నియమాన్ని సవరించింది",
-      "summary_te": "అనేక బోర్డులు టెస్ట్ క్రికెట్‌పై దృష్టితో ఐసిసికి ఫీడ్‌బ్యాక్ పంపడంతో కొత్త ప్రత్యామ్నాయ నిబంధనలను అనుసరించాయి.",
       "translated": true
     }
   ]
