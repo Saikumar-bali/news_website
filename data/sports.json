@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-18T11:50:31.007Z",
-  "updated_at_IST": "18/3/2026, 5:20:31 pm",
+  "updated_at": "2026-03-18T12:52:14.273Z",
+  "updated_at_IST": "18/3/2026, 6:22:14 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "731ae2ae1d0d54b0258c037eaf5560da",
+      "title": "Kishan to lead Sunrisers Hyderabad in Cummins' absence",
+      "summary": "Cummins, who is recuperating from a lumbar stress issue, is set to miss the early part of the season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528345.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401000/401033.jpg",
+      "published_at": "2026-03-18T11:58:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కమిన్స్ గైర్హాజరీలో సన్‌రైజర్స్ హైదరాబాద్‌కు కిషన్ నాయకత్వం వహించనున్నాడు",
+      "summary_te": "నడుము ఒత్తిడి సమస్య నుండి కోలుకుంటున్న కమ్మిన్స్, సీజన్ ప్రారంభ భాగాన్ని కోల్పోవలసి ఉంది",
+      "translated": true
+    },
     {
       "id": "bc0b0f68ee3dee2a010a74fb3df32b9a",
       "title": "Buttler 'still has England ambitions' despite T20 World Cup slump",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సదర్లాండ్ లేకపోవడం వల్ల T20 బ్యాటింగ్ పాత్ర అనిశ్చితంగానే ఉంది",
       "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌లో వెస్టిండీస్‌లో ఆస్ట్రేలియా మూడు మ్యాచ్‌ల సిరీస్ కీలకం",
-      "translated": true
-    },
-    {
-      "id": "123c9c433f1b6a747850f3f988373c4e",
-      "title": "Harshit Rana set to miss bulk of IPL season after knee surgery",
-      "summary": "He is currently undergoing rehab and the BCCI medical team has not yet earmarked a date of return",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528132.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411800/411863.jpg",
-      "published_at": "2026-03-16T18:27:40.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మోకాలి శస్త్ర చికిత్స తర్వాత హర్షిత్ రానా ఐపీఎల్ సీజన్‌లో ఎక్కువ భాగం మిస్ అయ్యాడు",
-      "summary_te": "అతను ప్రస్తుతం పునరావాసంలో ఉన్నాడు మరియు BCCI వైద్య బృందం ఇంకా తిరిగి వచ్చే తేదీని కేటాయించలేదు",
       "translated": true
     }
   ]
