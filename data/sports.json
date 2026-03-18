@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-18T01:15:39.796Z",
-  "updated_at_IST": "18/3/2026, 6:45:39 am",
+  "updated_at": "2026-03-18T04:25:36.695Z",
+  "updated_at_IST": "18/3/2026, 9:55:36 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "4e1282b6917619e0c4336b4a6832a749",
+      "title": "Bangladesh sports minister to consult ICC on future of BCB",
+      "summary": "Sports minister Aminul Haque said on Tuesday that once the five-member committee submits its report within 15 working days, he will discuss the matter with the ICC",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528257.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414611.jpg",
+      "published_at": "2026-03-18T03:45:24.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "బీసీబీ భవిష్యత్తుపై బంగ్లాదేశ్ క్రీడా మంత్రి ఐసీసీని సంప్రదించనున్నారు",
+      "summary_te": "ఐదుగురు సభ్యుల కమిటీ తన నివేదికను 15 పనిదినాల్లో సమర్పించిన తర్వాత, ఈ అంశంపై ఐసిసితో చర్చిస్తానని క్రీడా మంత్రి అమీనుల్ హక్ మంగళవారం తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "b8947e2436ed796fdfe52812ede7b54d",
+      "title": "Molineux set to return but full all-round role remains uncertain",
+      "summary": "Caution will be taken with Australia's new captain ahead of the T20 World Cup later this year",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528256.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
+      "published_at": "2026-03-18T03:31:29.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "Molineux తిరిగి రావడానికి సిద్ధంగా ఉంది కానీ పూర్తి ఆల్ రౌండ్ పాత్ర అనిశ్చితంగా ఉంది",
+      "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌కు ముందు ఆస్ట్రేలియా కొత్త కెప్టెన్‌తో జాగ్రత్తలు తీసుకోనున్నారు",
+      "translated": true
+    },
+    {
+      "id": "13ed5322ae213762b53924b0f8685544",
+      "title": "'Ashes series take a lot out of you' - Carey fatigued but excited for a Shield final",
+      "summary": "Carey said he is looking forward to a break but is highly motivated to help South Australia to back-to-back Shield titles against Victoria next week",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528253.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414745.jpg",
+      "published_at": "2026-03-18T02:54:07.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'యాషెస్ సిరీస్ మీ నుండి చాలా ప్రయోజనం పొందుతుంది' - కారీ అలసిపోయాడు కానీ షీల్డ్ ఫైనల్ కోసం ఉత్సాహంగా ఉన్నాడు",
+      "summary_te": "తాను విరామం కోసం ఎదురు చూస్తున్నానని, అయితే వచ్చే వారం విక్టోరియాతో జరిగిన మ్యాచ్‌లో దక్షిణ ఆస్ట్రేలియాకు షీల్డ్ టైటిల్స్‌ను తిరిగి సాధించడంలో సహాయపడటానికి తాను చాలా ప్రేరేపిస్తున్నానని కారీ చెప్పాడు.",
+      "translated": true
+    },
     {
       "id": "76728afdffb32025c6973f58b16fb852",
       "title": "Haddin named New South Wales head coach",
@@ -310,48 +352,6 @@
       "language": "en",
       "title_te": "షెఫీల్డ్ షీల్డ్ ఫైనల్ కోసం క్రికెట్ ఆస్ట్రేలియా గాయం ఉప నియమాన్ని సవరించింది",
       "summary_te": "అనేక బోర్డులు టెస్ట్ క్రికెట్‌పై దృష్టితో ఐసిసికి ఫీడ్‌బ్యాక్ పంపడంతో కొత్త ప్రత్యామ్నాయ నిబంధనలను అనుసరించాయి.",
-      "translated": true
-    },
-    {
-      "id": "c1a041112ff621719c931edc0d414d60",
-      "title": "Chinnaswamy stadium receives government clearance to host IPL 2026 final",
-      "summary": "The venue is set to host five RCB games in the league phase and two knockout games, including the final",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528104.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/370900/370956.jpg",
-      "published_at": "2026-03-16T09:15:41.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026 ఫైనల్‌కు ఆతిథ్యం ఇవ్వడానికి చిన్నస్వామి స్టేడియం ప్రభుత్వ అనుమతిని పొందింది",
-      "summary_te": "ఈ వేదిక లీగ్ దశలో ఐదు RCB గేమ్‌లు మరియు ఫైనల్‌తో సహా రెండు నాకౌట్ గేమ్‌లకు ఆతిథ్యం ఇవ్వడానికి సిద్ధంగా ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "b1ba3d7603d4d245b203efe0b9f54426",
-      "title": "Fringe players in focus as hosts look to respond in high-scoring Hamilton",
-      "summary": "After a tough outing in Mount Maunganui, which allowed only a total of 184 runs to be scored, New Zealand will hope Hamilton conditions spark a turnaround",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528100.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414694.jpg",
-      "published_at": "2026-03-16T09:15:21.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హామిల్టన్‌లో అత్యధిక స్కోర్‌లు చేయడంలో ఆతిథ్య జట్టు ప్రతిస్పందించేలా చూస్తున్నందున అంచు ఆటగాళ్లు దృష్టిలో ఉన్నారు",
-      "summary_te": "మౌంట్ మౌంగనుయ్‌లో కఠినమైన ఆట తర్వాత, మొత్తం 184 పరుగులు మాత్రమే చేయగలిగింది, న్యూజిలాండ్ హామిల్టన్ పరిస్థితులు మలుపు తిరుగుతాయని ఆశిస్తోంది.",
-      "translated": true
-    },
-    {
-      "id": "756701b825f3c47f2a13aebe1cd41f60",
-      "title": "Peake's rapid rise set to take in MLC, but first a Sheffield Shield final",
-      "summary": "The 19-year-old left hander has found first-class cricket tough after returning from Under-19 duty, but tuned up for the final with a half-century",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528103.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/409800/409858.png",
-      "published_at": "2026-03-16T08:49:50.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పీక్ యొక్క వేగవంతమైన పెరుగుదల MLCకి చేరుకుంది, అయితే మొదట షెఫీల్డ్ షీల్డ్ ఫైనల్",
-      "summary_te": "19 ఏళ్ల లెఫ్ట్ హ్యాండర్ అండర్-19 డ్యూటీ నుంచి తిరిగి వచ్చిన తర్వాత ఫస్ట్-క్లాస్ క్రికెట్‌ను కఠినంగా ఎదుర్కొన్నాడు, అయితే అర్ధ సెంచరీతో ఫైనల్‌కు చేరుకున్నాడు.",
       "translated": true
     }
   ]
