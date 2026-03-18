@@ -1,9 +1,121 @@
 {
-  "updated_at": "2026-03-18T21:36:38.662Z",
-  "updated_at_IST": "19/3/2026, 3:06:38 am",
+  "updated_at": "2026-03-18T22:33:40.590Z",
+  "updated_at_IST": "19/3/2026, 4:03:40 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "107238bc4f1873cf94ba81f62565fcda",
+      "title": "War forces rethink on travel insurance cover and limits",
+      "summary": "Underwriters, Policyholders Weigh Effectiveness Of Plans",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/war-forces-rethink-on-travel-insurance-cover-and-limits/articleshow/129665964.cms",
+      "image": "https://static.toiimg.com/photo/msid-129665977,imgsize-41112.cms",
+      "published_at": "2026-03-18T21:59:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రయాణ బీమా కవర్ మరియు పరిమితులపై యుద్ధ దళాలు పునరాలోచించాయి",
+      "summary_te": "అండర్ రైటర్లు, పాలసీ హోల్డర్లు ప్లాన్‌ల ప్రభావాన్ని అంచనా వేస్తారు",
+      "translated": true
+    },
+    {
+      "id": "d963bb5baa309d07d5fb3ca6064638e3",
+      "title": "Jharkhand money laundering case: ED files fifth supplementary Prosecution Complaint involving former Minister Alamgir Alam",
+      "summary": "ED asserted that so far the federal agency has conducted 52 searches under Section 17 of the PMLA across Jharkhand, Delhi, and Bihar; arrested 9 persons",
+      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-money-laundering-case-ed-files-fifthsupplementary-prosecution-complaint-involving-former-minister-alamgir-alam/article70758463.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ftsq6o/article70759703.ece/alternates/LANDSCAPE_1200/IMG_Alamgir_Alam_produce_2_1_QKCRP272.jpg",
+      "published_at": "2026-03-18T21:54:03.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "జార్ఖండ్ మనీలాండరింగ్ కేసు: మాజీ మంత్రి అలంగీర్ ఆలం ప్రమేయం ఉన్న ఐదవ అనుబంధ ప్రాసిక్యూషన్ ఫిర్యాదును ED దాఖలు చేసింది",
+      "summary_te": "జార్ఖండ్, ఢిల్లీ మరియు బీహార్ అంతటా PMLA సెక్షన్ 17 కింద ఫెడరల్ ఏజెన్సీ ఇప్పటివరకు 52 సోదాలు నిర్వహించిందని ED నొక్కి చెప్పింది; 9 మందిని అరెస్టు చేశారు",
+      "translated": true
+    },
+    {
+      "id": "e74e4221449e2c4673994b6d220cd5a9",
+      "title": "Odisha Congress to pursue alleged attempts to bribe its MLAs in Karnataka before Rajya Sabha election",
+      "summary": "The party will move Election Commission of India raising the bribery issue and seek its intervention",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-congress-to-pursue-alleged-attempts-to-bribe-its-mlas-in-karnataka-before-rajya-sabha-election/article70758610.ece",
+      "image": null,
+      "published_at": "2026-03-18T21:43:17.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాజ్యసభ ఎన్నికలకు ముందు కర్ణాటకలోని తమ ఎమ్మెల్యేలకు లంచం ఇవ్వడానికి ఒడిశా కాంగ్రెస్ ప్రయత్నించింది",
+      "summary_te": "లంచం అంశాన్ని లేవనెత్తుతూ భారత ఎన్నికల సంఘాన్ని పార్టీ ఆశ్రయిస్తుంది మరియు దాని జోక్యాన్ని కోరుతుంది",
+      "translated": true
+    },
+    {
+      "id": "2dd17e98f22663c367cb8d11c1612d7f",
+      "title": "Haryana Rajya Sabha polls: Congress’ win nothing short of a hard lesson",
+      "summary": "Meanwhile, the BJP cornered the Congress over its allegations surrounding the Rajya Sabha polls, by mounting a sharp attack on the Congress",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-rajya-sabha-polls-congress-win-nothing-short-of-a-hard-lesson/article70758769.ece",
+      "image": "https://th-i.thgim.com/public/incoming/hrxr9q/article70759701.ece/alternates/LANDSCAPE_1200/PTI03_17_2026_000012A.jpg",
+      "published_at": "2026-03-18T21:41:39.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "హర్యానా రాజ్యసభ ఎన్నికల్లో కాంగ్రెస్‌కు గట్టి గుణపాఠం తప్పలేదు",
+      "summary_te": "ఇదిలా ఉండగా, రాజ్యసభ ఎన్నికలకు సంబంధించిన ఆరోపణలపై కాంగ్రెస్‌పై పదునైన దాడి చేయడం ద్వారా బిజెపి కాంగ్రెస్‌ను ఇరుకున పెట్టింది.",
+      "translated": true
+    },
+    {
+      "id": "069e8f6da889bbe7b488e13eda61b90c",
+      "title": "Three die while cleaning septic tank in Raipur Hospital; incident sparks outrage over sanitation workers safety",
+      "summary": "The mishap took place at Ram Krishna Care Hospital in Pachpedi Naka area where the victims entered the nearly 20-feet-deep septic tank without any proper safety gear, said a police officer",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/three-die-while-cleaning-septic-tank-in-raipur-hospital-incident-sparks-outrage-over-sanitation-workers-safety/article70758808.ece",
+      "image": null,
+      "published_at": "2026-03-18T21:33:51.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాయ్‌పూర్ ఆసుపత్రిలో సెప్టిక్ ట్యాంక్‌ను శుభ్రం చేస్తుండగా ముగ్గురు మృతి; ఈ ఘటన పారిశుధ్య కార్మికుల భద్రతపై దుమారం రేపుతోంది",
+      "summary_te": "పచ్పెడి నాకా ప్రాంతంలోని రామ్ కృష్ణ కేర్ ఆసుపత్రిలో ఈ దుర్ఘటన జరిగిందని, బాధితులు సరైన భద్రతా సామగ్రి లేకుండా దాదాపు 20 అడుగుల లోతున్న సెప్టిక్ ట్యాంక్‌లోకి ప్రవేశించారని పోలీసు అధికారి తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "391ac1076cfd1c1e7a54a7640f40beb6",
+      "title": "Bahrain tells residents to take shelter as Middle East conflict escalates",
+      "summary": "Bahrain's siren system blares, urging residents to seek immediate shelter. This alert signals a serious escalation in the ongoing Iran vs US-Israel war. Emergency warnings and missile interceptions are becoming common across the Gulf. Civilians are now facing direct threats, transforming distant tensions into a lived reality. Preparedness is no longer optional as the region navigates this critical phase.",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/siren-has-been-sounded-bahrain-urges-residents-to-take-shelter-as-iran-vs-us-israel-war-escalates/articleshow/129665513.cms",
+      "image": "https://static.toiimg.com/photo/msid-129665676,imgsize-46446.cms",
+      "published_at": "2026-03-18T21:30:02.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ వివాదం తీవ్రమవుతున్నందున బహ్రెయిన్ నివాసితులకు ఆశ్రయం కల్పించమని చెప్పింది",
+      "summary_te": "బహ్రెయిన్ యొక్క సైరన్ వ్యవస్థ ధ్వనులు, నివాసితులు తక్షణమే ఆశ్రయం పొందవలసిందిగా కోరింది. ఈ హెచ్చరిక ఇరాన్ వర్సెస్ యుఎస్-ఇజ్రాయెల్ యుద్ధంలో తీవ్రమైన తీవ్రతను సూచిస్తుంది. గల్ఫ్ అంతటా అత్యవసర హెచ్చరికలు మరియు క్షిపణి అంతరాయాలు సర్వసాధారణం అవుతున్నాయి. పౌరులు ఇప్పుడు ప్రత్యక్ష బెదిరింపులను ఎదుర్కొంటున్నారు, సుదూర ఉద్రిక్తతలను ప్రత్యక్ష వాస్తవికతగా మారుస్తున్నారు. ప్రాంతం ఈ క్లిష్టమైన దశను నావిగేట్ చేస్తున్నందున సంసిద్ధత ఇకపై ఐచ్ఛికం కాదు.",
+      "translated": true
+    },
+    {
+      "id": "8cf77c1e8442848335307eadb7d01339",
+      "title": "How Maharashtra Legislature cleared the Freedom of Religion Bill, and why most of the opposition parties did not oppose it",
+      "summary": "Once the Governor gives his assent, Maharashtra will become the 13th State in India to have a legislation against forced conversions",
+      "url": "https://www.thehindu.com/news/national/maharashtra/how-maharashtra-legislature-cleared-the-freedom-of-religion-bill-and-why-most-of-the-opposition-parties-did-not-oppose-it/article70758892.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vy8aeg/article70759542.ece/alternates/LANDSCAPE_1200/PTI07_01_2025_000279B.jpg",
+      "published_at": "2026-03-18T21:28:59.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "మహారాష్ట్ర శాసనసభ మతస్వేచ్ఛ బిల్లును ఎలా ఆమోదించింది మరియు చాలా ప్రతిపక్షాలు ఎందుకు వ్యతిరేకించలేదు",
+      "summary_te": "గవర్నర్ ఆమోదం తెలిపిన తర్వాత, బలవంతపు మతమార్పిడులకు వ్యతిరేకంగా చట్టం చేసిన భారతదేశంలో 13వ రాష్ట్రంగా మహారాష్ట్ర అవతరిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "3c7ac70fb4a4eb1fb2479a15a0e3e417",
+      "title": "Stranded Indian students use Armenia, Azerbaijan to exit war-torn Iran, slow pace leaves parents anxious",
+      "summary": "Parents in Kashmir have expressed satisfaction over the opening of the Azerbaijan route",
+      "url": "https://www.thehindu.com/news/national/stranded-indian-students-use-armenia-azerbaijan-to-exit-war-torn-iran-slow-pace-leaves-parents-anxious/article70759096.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4aujhv/article70759536.ece/alternates/LANDSCAPE_1200/AFP_A2GY2D4.jpg",
+      "published_at": "2026-03-18T21:20:16.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఒంటరిగా ఉన్న భారతీయ విద్యార్థులు యుద్ధంలో దెబ్బతిన్న ఇరాన్ నుండి నిష్క్రమించడానికి అర్మేనియా, అజర్‌బైజాన్‌లను ఉపయోగిస్తున్నారు, నెమ్మది తల్లిదండ్రులు ఆందోళన చెందుతారు",
+      "summary_te": "అజర్‌బైజాన్ మార్గం తెరవడంపై కాశ్మీర్‌లోని తల్లిదండ్రులు సంతృప్తి వ్యక్తం చేశారు",
+      "translated": true
+    },
     {
       "id": "409d4e0304c7406baaf255a35927694b",
       "title": "NC, PDP spar over Bill pertaining to land rights in J&K",
@@ -14,7 +126,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "J&Kలో భూమి హక్కులకు సంబంధించిన బిల్లుపై NC, PDP వాగ్వాదం",
+      "title_te": "J&Kలో భూమి హక్కులకు సంబంధించిన బిల్లుపై NC, PDP గొడవ",
       "summary_te": "NC శాసనసభ్యుడు తన్వీర్ సాదిక్ J&K ల్యాండ్ గ్రాంట్స్ (పునరుద్ధరణ మరియు రక్షణ) బిల్లు, 2025ని J&K అసెంబ్లీకి ప్రైవేట్ మెంబర్ బిల్లుగా సమర్పించారు",
       "translated": true
     },
@@ -89,6 +201,20 @@
       "translated": true
     },
     {
+      "id": "449aeadbe0b3fb1be04dfe938a0278c5",
+      "title": "'The best night': Tom Brady’s ex hints at controversial dig at NFL legend",
+      "summary": "Tom Brady, the NFL legend and seven time Super Bowl champion, has reportedly ended things with popular social media influencer, Alix Earle, after dating her for a few weeks. Amid rumors of Tom Brady's close friends and family disapproving their romance, the two have split. But now, it seems Alix Earle has taken a dig at the NFL with her new post.",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/the-best-night-tom-bradys-ex-fling-alix-earle-hints-at-a-controversial-dig-at-the-nfl-legend-amid-his-familys-disapproval-of-their-romance/articleshow/129665480.cms",
+      "image": "https://static.toiimg.com/photo/msid-129665476,imgsize-1046287.cms",
+      "published_at": "2026-03-18T20:41:23.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'ది బెస్ట్ నైట్': టామ్ బ్రాడీ మాజీ ఎన్‌ఎఫ్‌ఎల్ లెజెండ్ వద్ద వివాదాస్పద తవ్వకంపై సూచనలు",
+      "summary_te": "టామ్ బ్రాడీ, NFL లెజెండ్ మరియు ఏడు సార్లు సూపర్ బౌల్ ఛాంపియన్, కొన్ని వారాల పాటు ఆమెతో డేటింగ్ చేసిన తర్వాత ప్రముఖ సోషల్ మీడియా ఇన్‌ఫ్లుయెన్సర్ అయిన అలిక్స్ ఎర్లేతో విషయాలు ముగించారు. టామ్ బ్రాడీ సన్నిహితులు మరియు కుటుంబ సభ్యులు వారి ప్రేమను నిరాకరించారనే పుకార్ల మధ్య, ఇద్దరూ విడిపోయారు. కానీ ఇప్పుడు, అలిక్స్ ఎర్లే తన కొత్త పోస్ట్‌తో NFL వద్ద ఒక డిగ్ తీసుకున్నట్లు కనిపిస్తోంది.",
+      "translated": true
+    },
+    {
       "id": "1cdeda62cb3a4350ace29af0c7531b0e",
       "title": "Mirwaiz, Imran Ansari condemn Larijani’s killing",
       "summary": "Ansari, also a Shia cleric who heads the All J&K Shia Association, said, “With deep sorrow and heavy hearts, we mourn the martyrdom of Larijani, His loss is not just Iran’s loss, but a wound felt across the entire Muslim world.”",
@@ -128,6 +254,20 @@
       "language": "en",
       "title_te": "జాక్ హ్యూస్ ఒలింపిక్ గోల్డెన్-గోల్ పుక్‌ను తిరిగి పొందాలని కోరుకుంటాడు, హాకీ హాల్ ఆఫ్ ఫేమ్ అభ్యర్థనను తిరస్కరించింది",
       "summary_te": "న్యూజెర్సీ డెవిల్స్ స్టార్ జాక్ హ్యూస్ వ్యక్తిగత కారణాల వల్ల హాకీ హాల్ ఆఫ్ ఫేమ్ నుండి తన ఒలింపిక్ గోల్డెన్-గోల్ పుక్‌ను తిరిగి ఇవ్వాలని కోరుతున్నట్లు నివేదించబడింది. చారిత్రాత్మక స్మారక చిహ్నాన్ని తన వద్ద ఉంచుకోవాలని హ్యూస్ అభిప్రాయపడ్డాడు, అయితే IIHF ప్రోటోకాల్‌ను ఉటంకిస్తూ పుక్ అధికారికంగా విరాళంగా ఇవ్వబడిందని మరియు అతని స్వంతం కాదని హాల్ పేర్కొంది.",
+      "translated": true
+    },
+    {
+      "id": "d3d386ae7efb2d30bc775261b8a41dae",
+      "title": "Iga Świątek's frustration explodes in Miami practice after Indian Wells loss",
+      "summary": "Iga Świątek’s frustration continues in Miami after her Indian Wells loss, where she struggled with consistency and control. Practice sessions have raised concern as she looks tense and out of rhythm. With a tough draw ahead and recent losses affecting her confidence, the Miami Open becomes an important test for her comeback and mental strength this season.",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/iga-witek-frustration-explodes-in-miami-practice-after-indian-wells-loss-as-rankings-drop-adds-more-pressure/articleshow/129665458.cms",
+      "image": "https://static.toiimg.com/photo/msid-129665454,imgsize-22278.cms",
+      "published_at": "2026-03-18T20:20:45.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇండియన్ వెల్స్ ఓడిపోయిన తర్వాత మియామి ప్రాక్టీస్‌లో ఇగా స్విటెక్ యొక్క నిరాశ చెలరేగింది",
+      "summary_te": "Iga Świątek యొక్క నిరుత్సాహం ఆమె ఇండియన్ వెల్స్ ఓటమి తర్వాత మియామిలో కొనసాగుతుంది, అక్కడ ఆమె స్థిరత్వం మరియు నియంత్రణతో పోరాడింది. ఆమె ఉద్విగ్నంగా మరియు లయ తప్పినందున ప్రాక్టీస్ సెషన్‌లు ఆందోళనను పెంచాయి. కఠినమైన డ్రా మరియు ఇటీవలి నష్టాలు ఆమె విశ్వాసాన్ని ప్రభావితం చేయడంతో, ఈ సీజన్‌లో ఆమె పునరాగమనం మరియు మానసిక బలానికి మయామి ఓపెన్ ఒక ముఖ్యమైన పరీక్షగా మారింది.",
       "translated": true
     },
     {
@@ -184,20 +324,6 @@
       "language": "en",
       "title_te": "LPG సంక్షోభం మధ్య, కేరళలో రాకెట్ స్టవ్‌లకు డిమాండ్ పెరిగింది",
       "summary_te": "సాధారణ కట్టెల పొయ్యిలతో పోలిస్తే తక్కువ కట్టెలు అవసరం కాబట్టి రాకెట్ స్టవ్‌లకు డిమాండ్ ఎక్కువగా ఉంటుంది; ఆర్డర్లు పెరగడంతో, స్టవ్ సరఫరాదారులు తాజా ఆర్డర్‌లను అంగీకరించడం మానేశారు",
-      "translated": true
-    },
-    {
-      "id": "a764d151b749e5f4fbdd1b311c8c21cc",
-      "title": "22 India-bound ships on Hormuz evacuation list",
-      "summary": "Of these, 20 vessels have been assessed as critical to India’s energy security, carrying over 5 lakh tonnes of LNG and LPG and 16.76 lakh tonnes of crude oil; various agencies join hands for evacuation",
-      "url": "https://www.thehindu.com/news/national/22-india-bound-ships-on-hormuz-evacuation-list/article70759218.ece",
-      "image": "https://th-i.thgim.com/public/incoming/exh5gc/article70759417.ece/alternates/LANDSCAPE_1200/2026-03-18T143802Z_347538997_RC2W7FAY6ZO3_RTRMADP_3_IRAN-CRISIS-ENERGY-SECURITY.JPG",
-      "published_at": "2026-03-18T19:48:43.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "హార్ముజ్ తరలింపు జాబితాలో 22 భారతదేశానికి వెళ్లే నౌకలు",
-      "summary_te": "వీటిలో, 20 నౌకలు భారతదేశ ఇంధన భద్రతకు కీలకమైనవిగా అంచనా వేయబడ్డాయి, 5 లక్షల టన్నులకు పైగా LNG మరియు LPG మరియు 16.76 లక్షల టన్నుల ముడి చమురును తీసుకువెళుతున్నాయి; తరలింపు కోసం వివిధ ఏజెన్సీలు చేతులు కలిపాయి",
       "translated": true
     },
     {
@@ -296,6 +422,20 @@
       "language": "en",
       "title_te": "పరేడ్ గ్రౌండ్‌లో మురుగునీరు ప్రవహించడంతో దుర్గంధం వెదజల్లుతోంది",
       "summary_te": "విశాలమైన ఖాళీ స్థలంలో డజన్ల కొద్దీ యువకులు మరియు వృద్ధులు క్రికెట్ ఆడటం, తిరుగుతూ లేదా లాంజ్ చేయడంతో జనరల్ కె.వి.కృష్ణారావు పరేడ్ గ్రౌండ్ ఇప్పుడు మురుగునీటితో నిండిపోయింది. \"గత మూడు రోజులుగా ఇది ఇలాగే ఉంది. కానీ నియంత్రించబడటానికి బదులుగా, చీకటి నీరు వ్యాపించి ఫీల్డింగ్ చేయడం కష్టతరం చేస్తుంది\" అని బహిరంగ మైదానంలో క్రమం తప్పకుండా ఆడే పాట్ మార్కెట్‌కు చెందిన నగల వ్యాపారి రమేష్ సింగ్ అన్నారు. మైదానం యొక్క నైరుతి మూలలో హైదరాబాద్ మెట్రోపాలిటన్ నీటి సరఫరా మరియు మురుగునీటి బోర్డు మ్యాన్‌హోల్ రెండు ప్రవాహాలతో ఆ ప్రాంతాన్ని ముంచెత్తుతోంది; ఒకటి ఉత్తర అంచును కప్పి ఉంచే గ్రౌండ్ అంచు వరకు ప్రవహిస్తుంది మరియు మరొకటి మధ్యలో క్రికెట్ పిచ్ దగ్గర ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "1614a13e0c223801ebdc8dae65369e36",
+      "title": "Doval is chief architect of India-France ties in past decade: former Envoy Ashraf",
+      "summary": "Ashraf conferred France’s top civilian honour in ceremony in Delhi",
+      "url": "https://www.thehindu.com/news/national/doval-is-chief-architect-of-india-france-ties-in-past-decade-former-envoy-ashraf/article70759239.ece",
+      "image": "https://th-i.thgim.com/public/incoming/d95dwc/article70759472.ece/alternates/LANDSCAPE_1200/20260318472L.jpg",
+      "published_at": "2026-03-18T19:14:00.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "గత దశాబ్దంలో భారత్-ఫ్రాన్స్ సంబంధాలకు దోవల్ చీఫ్ ఆర్కిటెక్ట్: మాజీ రాయబారి అష్రఫ్",
+      "summary_te": "ఢిల్లీలో జరిగిన కార్యక్రమంలో అష్రాఫ్‌కు ఫ్రాన్స్‌ అత్యున్నత పౌర పురస్కారం లభించింది",
       "translated": true
     },
     {
@@ -495,34 +635,6 @@
       "translated": true
     },
     {
-      "id": "4084a91b468a1831d30606c7bea29370",
-      "title": "Modi speaks to Kuwait Crown Prince; says safe, free navigation through Strait of Hormuz top priority",
-      "summary": "In their telephonic conversation, the two leaders agree that sustained diplomatic engagement remains essential for regional peace and stability",
-      "url": "https://www.thehindu.com/news/national/modi-speaks-to-kuwait-crown-prince-says-safe-free-navigation-through-strait-of-hormuz-top-priority/article70759440.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1vxscq/article70759456.ece/alternates/LANDSCAPE_1200/2024-12-22T170501Z_1526237520_RC2GUBAEFLFJ_RTRMADP_3_KUWAIT-INDIA.JPG",
-      "published_at": "2026-03-18T18:43:49.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కువైట్ క్రౌన్ ప్రిన్స్‌తో మోదీ మాట్లాడారు; హార్ముజ్ జలసంధి ద్వారా సురక్షితమైన, ఉచిత నావిగేషన్ అత్యంత ప్రాధాన్యతనిస్తుంది",
-      "summary_te": "వారి టెలిఫోనిక్ సంభాషణలో, ప్రాంతీయ శాంతి మరియు స్థిరత్వానికి స్థిరమైన దౌత్య నిశ్చితార్థం అవసరమని ఇద్దరు నాయకులు అంగీకరించారు",
-      "translated": true
-    },
-    {
-      "id": "6e3690f76998476169e05bd1a3e34e95",
-      "title": "NHL player safety department imposes fine on Hurricanes Forward Seth Jarvis",
-      "summary": "Seth Jarvis of the Carolina Hurricanes has been fined five thousand dollars by the NHL Player Safety Department. The fine is for a high-sticking incident involving Conor Garland of the Columbus Blue Jackets. The incident occurred during a game on Tuesday night. Garland suffered a facial injury and required medical attention. Jarvis received a double-minor penalty for the infraction.",
-      "url": "https://timesofindia.indiatimes.com/sports/nhl/news/nhl-player-safety-department-imposes-fine-on-hurricanes-forward-seth-jarvis-after-smacking-blue-jackets-player-with-stick/articleshow/129662871.cms",
-      "image": "https://static.toiimg.com/photo/msid-129663568,imgsize-34050.cms",
-      "published_at": "2026-03-18T18:43:42.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "NHL ప్లేయర్ భద్రతా విభాగం హరికేన్స్ ఫార్వర్డ్ సేథ్ జార్విస్‌పై జరిమానా విధించింది",
-      "summary_te": "కరోలినా హరికేన్స్‌కు చెందిన సేథ్ జార్విస్‌కు NHL ప్లేయర్ సేఫ్టీ డిపార్ట్‌మెంట్ ఐదు వేల డాలర్ల జరిమానా విధించింది. కొలంబస్ బ్లూ జాకెట్స్‌కు చెందిన కోనార్ గార్లాండ్‌కు సంబంధించిన అధిక-అంటుకునే సంఘటనకు జరిమానా. మంగళవారం రాత్రి ఆటలో ఈ ఘటన చోటుచేసుకుంది. గార్లాండ్ ముఖానికి గాయమైంది మరియు వైద్య సహాయం అవసరం. జార్విస్ ఉల్లంఘనకు డబుల్-మైనర్ పెనాల్టీని అందుకున్నాడు.",
-      "translated": true
-    },
-    {
       "id": "cfa833a077b0a68234d481ee3eb2df0b",
       "title": "Pakistan, Afghanistan Announce 'Temporary Pause' In Fighting Due To Eid",
       "summary": "Pakistan and Afghanistan on Wednesday announced a \"temporary pause\" in fighting in view of Eid-ul-Fitr and at the request of Saudi Arabia, Turkey and Qatar.",
@@ -593,20 +705,6 @@
       "translated": true
     },
     {
-      "id": "3c119560dfc03aad979d7253ecf5eaa2",
-      "title": "Assam Congress weighs MP’s flight to BJP",
-      "summary": "The fate of Pradyut Bordoloi’s son, the Congress candidate from eastern Assam’s Margherita constituency, hangs in the balance",
-      "url": "https://www.thehindu.com/elections/assam-assembly/assam-congress-weighs-mps-flight-to-bjp/article70759017.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ckkboj/article66826775.ece/alternates/LANDSCAPE_1200/20230419125L.jpg",
-      "published_at": "2026-03-18T18:30:18.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అస్సాం కాంగ్రెస్ ఎంపీని బీజేపీకి దూరం చేసింది",
-      "summary_te": "తూర్పు అస్సాంలోని మార్గెరిటా నియోజకవర్గం నుంచి కాంగ్రెస్ అభ్యర్థిగా బరిలోకి దిగిన ప్రద్యుత్ బోర్డోలోయ్ కుమారుడి భవితవ్యం తారుమారైంది.",
-      "translated": true
-    },
-    {
       "id": "d625ebd372c5b6cb9bc2e89c583d7e69",
       "title": "Horoscope : Astrological predictions for March 19",
       "summary": "Horoscope Today: Read daily horoscope predictions for March 19, 2026. Know all about the astrological events and influences that will be affecting each of the 12 zodiac signs. Our astrologer has analyzed the movements of the planets and the alignment of the stars to bring you the most accurate and up-to-date horoscope predictions for the day ahead. Get ready to discover what the stars have in store for you today.",
@@ -632,20 +730,6 @@
       "language": "en",
       "title_te": "కరూర్ తొక్కిసలాటకు ముందు విజయ్ తన వాహనాన్ని అనుమతికి మించి తరలించినందుకు సీబీఐ విచారణ జరుపుతోంది",
       "summary_te": "కరూర్ తొక్కిసలాటకు ముందు విజయ్ తన వాహనాన్ని అనుమతికి మించి తరలించినందుకు సీబీఐ విచారణ జరుపుతోంది",
-      "translated": true
-    },
-    {
-      "id": "a90a4b7d2eb4303857423d8bfe541f3a",
-      "title": "Victims’ compensation fund dues: HC warns of attaching treasury accounts",
-      "summary": "The Kerala High Court on Monday (March 16) said that it would pass orders to attach the State government’s treasury accounts, if the government failed to pay within a week the amount due to the victims’ compensation fund, meant to be distributed to survivors of sexual assault.The court was hearing pleas, including those on the need to augment staff and infrastructure at mediation centres. The court had earlier directed the State Home Secretary to appear before it on Monday (March 16) over the alleged delay in handing over compensation worth ₹47 crore to child and women survivors of sexual assault. Another ₹10 crore is due to be paid to mediators.The court had warned of initiating contempt of court proceedings if there was any further delay in handing over the compensation amount that is due from 2022.The Additional Secretary, Home department, who appeared online before the High Court on Monday, submitted that the Finance department ought to sanction the funds, and that the Home department was only a nodal department to regulate, administer, and monitor the compensation scheme. Subsequently, the court directed the Finance Secretary to appear before it and file an affidavit.",
-      "url": "https://www.thehindu.com/news/national/kerala/victims-compensation-fund-dues-hc-warns-of-attaching-treasury-accounts/article70750957.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-18T18:23:49.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "బాధితుల పరిహార నిధి బకాయిలు: ట్రెజరీ ఖాతాలను అటాచ్ చేయాలని హెచ్‌సి హెచ్చరించింది",
-      "summary_te": "లైంగిక వేధింపుల బాధితులకు పంపిణీ చేయాల్సిన బాధితుల నష్టపరిహారం మొత్తాన్ని వారం రోజుల్లోగా చెల్లించడంలో విఫలమైతే, రాష్ట్ర ప్రభుత్వ ట్రెజరీ ఖాతాలను అటాచ్ చేయాలని కేరళ హైకోర్టు సోమవారం (మార్చి 16) ఉత్తర్వులు జారీ చేసింది. లైంగిక వేధింపుల బారిన పడిన చిన్నారులు, మహిళలకు ₹47 కోట్ల నష్టపరిహారం అందజేయడంలో జాప్యంపై ఆరోపించిన ఆరోపణపై సోమవారం (మార్చి 16) తన ముందు హాజరుకావాలని కోర్టు రాష్ట్ర హోంశాఖ కార్యదర్శిని ఆదేశించింది. మధ్యవర్తులకు మరో ₹10 కోట్లు చెల్లించాల్సి ఉంది. 2022 నుంచి రావాల్సిన పరిహారం అందజేయడంలో జాప్యం జరిగితే కోర్టు ధిక్కార చర్యలు తీసుకుంటామని కోర్టు హెచ్చరించింది. సోమవారం హైకోర్టుకు ఆన్‌లైన్‌లో హాజరైన హోంశాఖ అదనపు కార్యదర్శి, ఆర్థిక శాఖ నిధులు మంజూరు చేయాలని, పరిహారాన్ని పర్యవేక్షించాలని, పరిహారాన్ని పర్యవేక్షించాలని సూచించారు. తదనంతరం, కోర్టు ముందు హాజరుకావాలని మరియు అఫిడవిట్ దాఖలు చేయాలని ఆర్థిక కార్యదర్శిని ఆదేశించింది.",
       "translated": true
     },
     {
@@ -719,20 +803,6 @@
       "translated": true
     },
     {
-      "id": "3d564d4836d2bd3cebf813904196bfdf",
-      "title": "Lok Sabha ‘guillotines’ Demands for Grants worth ₹53 lakh crore",
-      "summary": "Union Agriculture Minister Shivraj Singh Chouhan says Modi government ‘committed to transform society, improving lives, and shaping the future of the nation’",
-      "url": "https://www.thehindu.com/news/national/lok-sabha-guillotines-demands-for-grants-worth-53-lakh-crore/article70758950.ece",
-      "image": "https://th-i.thgim.com/public/incoming/k0qbq3/article70759407.ece/alternates/LANDSCAPE_1200/PTI03_18_2026_000243B.jpg",
-      "published_at": "2026-03-18T18:04:01.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "₹53 లక్షల కోట్ల విలువైన గ్రాంట్లు కోసం లోక్‌సభ ‘గిలెటిన్‌లు’ డిమాండ్ చేసింది",
-      "summary_te": "సమాజాన్ని మార్చేందుకు, జీవితాలను మెరుగుపరచడానికి, దేశ భవిష్యత్తును తీర్చిదిద్దేందుకు మోదీ ప్రభుత్వం కట్టుబడి ఉందని కేంద్ర వ్యవసాయ శాఖ మంత్రి శివరాజ్ సింగ్ చౌహాన్ అన్నారు.",
-      "translated": true
-    },
-    {
       "id": "93455c17248fd2af245eee630fd83652",
       "title": "Search ops launched in 3 J&K districts; GOC IX Corps visits Kathua",
       "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
@@ -786,34 +856,6 @@
       "language": "en",
       "title_te": "గుల్‌మార్గ్ ల్యాండ్ లీజు కేసు మూసివేయబడింది, హోటల్ యజమానులు ప్రభుత్వ పరిష్కారాన్ని ఎంచుకోవాలి",
       "summary_te": "గుల్‌మార్గ్ ల్యాండ్ లీజు కేసును పెద్దఎత్తున పిటీషన్‌ల ఉపసంహరణ తర్వాత జమ్మూ కాశ్మీర్ హైకోర్టు మూసివేసింది.",
-      "translated": true
-    },
-    {
-      "id": "2a8295852617dc9fd5fe6fa381e92970",
-      "title": "BRS could fade like Janata Party, says Revanth",
-      "summary": "It will be a resounding victory for Congress in 2029, says CM",
-      "url": "https://www.thehindu.com/news/national/telangana/brs-could-fade-like-janata-party-says-revanth/article70759382.ece",
-      "image": null,
-      "published_at": "2026-03-18T17:53:58.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "బీఆర్‌ఎస్‌ కూడా జనతా పార్టీలా మసకబారుతుందని రేవంత్‌ అన్నారు",
-      "summary_te": "2029లో కాంగ్రెస్‌ ఘన విజయం సాధిస్తుందని సీఎం అన్నారు",
-      "translated": true
-    },
-    {
-      "id": "2d0f61d38af4b149aa0c928b1b563f99",
-      "title": "Karnataka Information Commission brings Apex Bank under RTI Act",
-      "summary": "As the State Co-op Apex Bank has now now declared as public authority, the information relating to its functioning including financial decisions, will now be subject to public scrutiny under RTI",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-information-commission-brings-apex-bank-under-rti-act/article70759270.ece",
-      "image": null,
-      "published_at": "2026-03-18T17:53:51.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కర్ణాటక సమాచార కమిషన్ అపెక్స్ బ్యాంక్‌ను ఆర్టీఐ చట్టం పరిధిలోకి తీసుకొచ్చింది",
-      "summary_te": "స్టేట్ కో-ఆప్ అపెక్స్ బ్యాంక్ ఇప్పుడు పబ్లిక్ అథారిటీగా ప్రకటించినందున, ఆర్థిక నిర్ణయాలతో సహా దాని పనితీరుకు సంబంధించిన సమాచారం ఇప్పుడు RTI కింద ప్రజల పరిశీలనకు లోబడి ఉంటుంది.",
       "translated": true
     },
     {
@@ -925,7 +967,7 @@
       "category": "india",
       "language": "en",
       "title_te": "గుజరాత్ రాష్ట్ర అసెంబ్లీలో యూనిఫాం సివిల్ కోడ్ బిల్లును ప్రవేశపెట్టింది",
-      "summary_te": "రిటైర్డ్‌ న్యాయమూర్తి రంజన ప్రకాష్‌ దేశాయ్‌ నేతృత్వంలోని కమిటీ నివేదికపై రూపొందించిన బిల్లును ఉప ముఖ్యమంత్రి హర్ష సంఘవి ప్రవేశపెట్టారు.",
+      "summary_te": "రిటైర్డ్ ఎస్సీ జడ్జి రంజనా ప్రకాష్ దేశాయ్ నేతృత్వంలోని కమిటీ నివేదికపై రూపొందించిన బిల్లును ఉప ముఖ్యమంత్రి హర్ష సంఘవి ప్రవేశపెట్టారు.",
       "translated": true
     },
     {
@@ -1092,8 +1134,8 @@
       "source": "India Today",
       "category": "india",
       "language": "en",
-      "title_te": "తపోరీ కి తరహ్ ఆతే హై, రాహుల్ గాంధీ ప్రవర్తనను కంగనా రనౌత్ తప్పుపట్టారు",
-      "summary_te": "తపోరీ కి తరహ్ ఆతే హై, రాహుల్ గాంధీ ప్రవర్తనను కంగనా రనౌత్ తప్పుపట్టారు",
+      "title_te": "తపోరీ కి తరః ఆతే హై, రాహుల్ గాంధీ ప్రవర్తనను కంగనా రనౌత్ తప్పుపట్టారు",
+      "summary_te": "తపోరీ కి తరః ఆతే హై, రాహుల్ గాంధీ ప్రవర్తనను కంగనా రనౌత్ తప్పుపట్టారు",
       "translated": true
     },
     {
@@ -1360,48 +1402,6 @@
       "language": "en",
       "title_te": "ముఖ్యమైనది మరియు అత్యవసరం: దత్తత తీసుకున్న తల్లులకు ప్రసూతి సెలవుపై SC ఆర్డర్‌ను వాటాదారులు హర్షించారు",
       "summary_te": "ముఖ్యమైనది మరియు అత్యవసరం: దత్తత తీసుకున్న తల్లులకు ప్రసూతి సెలవుపై SC ఆర్డర్‌ను వాటాదారులు హర్షించారు",
-      "translated": true
-    },
-    {
-      "id": "be471203c387b9edf08f0d0f08549c9c",
-      "title": "Karnataka Tables Bill To Uphold Right Of Adults To Choose Their Partners",
-      "summary": "The Karnataka government has introduced The Karnataka Freedom of Choice in Marriage and Prevention and Prohibition of Crimes in the Name of Honour and Tradition (Eva Nammava Eva Nammava) Bill, 2026 in the Legislative Assembly on Wednesday.",
-      "url": "https://www.ndtv.com/india-news/karnataka-tables-bill-to-uphold-right-of-adults-to-choose-their-partners-11233835#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/9ejdm7a8_siddaramaiah-_625x300_18_March_26.jpeg",
-      "published_at": "2026-03-18T13:45:21.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "పెద్దలు తమ భాగస్వాములను ఎన్నుకునే హక్కును సమర్థించేలా కర్ణాటక టేబుల్స్ బిల్లు",
-      "summary_te": "కర్నాటక ప్రభుత్వం వివాహం మరియు గౌరవం మరియు సంప్రదాయం (ఎవ నమ్మవా ఎవ నమ్మవా) బిల్లు, 2026 పేరుతో వివాహం మరియు నివారణ మరియు నేరాల నిషేధంలో కర్ణాటక స్వేచ్ఛను బుధవారం శాసనసభలో ప్రవేశపెట్టింది.",
-      "translated": true
-    },
-    {
-      "id": "ec55660fecc45616c8bfac7fae0cafb0",
-      "title": "Labelled 'traitors', Iran women's football team return home after asylum episode",
-      "summary": "Iranian media on Wednesday showed visuals of the players arriving in the country via Turkey, where they landed before travelling by bus to the border, news agency AP reported. Officials received them upon arrival.",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/labelled-traitors-iran-womens-football-team-return-home-after-australia-asylum-episode/articleshow/129657739.cms",
-      "image": "https://static.toiimg.com/photo/msid-129657892,imgsize-68084.cms",
-      "published_at": "2026-03-18T13:44:39.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'ద్రోహులు' అని లేబుల్ చేయబడిన, ఇరాన్ మహిళల ఫుట్‌బాల్ జట్టు ఆశ్రయం ఎపిసోడ్ తర్వాత ఇంటికి తిరిగి వచ్చింది",
-      "summary_te": "ఇరాన్ మీడియా బుధవారం టర్కీ మీదుగా దేశానికి చేరుకున్న ఆటగాళ్ల దృశ్యాలను చూపించింది, అక్కడ వారు సరిహద్దుకు బస్సులో ప్రయాణించే ముందు దిగినట్లు వార్తా సంస్థ AP నివేదించింది. అధికారులు రాగానే వాటిని స్వీకరించారు.",
-      "translated": true
-    },
-    {
-      "id": "f7745d6e294f82557d728bbfbf2a36f9",
-      "title": "Chhattisgarh doctor sentenced in botched sterilisation case that killed 12 women in 2014",
-      "summary": "A total of 83 women from nearby rural areas had undergone sterilisation procedures at the camp and were sent home the same evening. But many fell ill",
-      "url": "https://www.hindustantimes.com/india-news/chhattisgarh-doctor-sentenced-in-botched-sterilisation-case-that-killed-12-women-101773840326066.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/18/1600x900/logo/The-court-also-imposed-a-fine-of-Rs-25-000-each-on_1773840320257.jpg",
-      "published_at": "2026-03-18T13:25:25.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "2014లో 12 మంది మహిళలను బలితీసుకున్న స్టెరిలైజేషన్ కేసులో ఛత్తీస్‌గఢ్ వైద్యుడికి శిక్ష",
-      "summary_te": "సమీపంలోని గ్రామీణ ప్రాంతాలకు చెందిన మొత్తం 83 మంది మహిళలు శిబిరంలో స్టెరిలైజేషన్ ప్రక్రియలు చేయించుకున్నారు మరియు అదే రోజు సాయంత్రం ఇంటికి పంపబడ్డారు. అయితే చాలామంది అస్వస్థతకు గురయ్యారు",
       "translated": true
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-18T21:36:38.662Z",
-  "last_updated_IST": "19/3/2026, 3:06:38 am",
-  "total_articles": 379,
+  "last_updated": "2026-03-18T22:33:40.590Z",
+  "last_updated_IST": "19/3/2026, 4:03:40 am",
+  "total_articles": 380,
   "categories": [
     "tech",
     "india",
@@ -12,12 +12,12 @@
   ],
   "sources": [
     "Dev.to",
+    "Times of India",
     "The Hindu",
+    "The Verge",
+    "ZDNet",
     "LiveMint",
     "Hindustan Times",
-    "The Verge",
-    "Times of India",
-    "ZDNet",
     "TechCrunch",
     "Inc42",
     "NDTV",
