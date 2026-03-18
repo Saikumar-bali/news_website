@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-18T18:56:52.895Z",
-  "updated_at_IST": "19/3/2026, 12:26:52 am",
+  "updated_at": "2026-03-18T19:52:48.975Z",
+  "updated_at_IST": "19/3/2026, 1:22:48 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "aa883c3638dad047ca51af87eb0f21b6",
+      "title": "Iranian top leaders killed, Supreme Leader missing – Who’s really in charge?",
+      "summary": "Iran faces growing uncertainty as leadership losses mount, with the Islamic Revolutionary Guard Corps expected to play a decisive role in shaping a more hardline leadership.",
+      "url": "https://www.livemint.com/news/world/iranian-top-leaders-killed-supreme-leader-missing-who-s-really-in-charge-11773860475794.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/IRAN-CRISIS-FUNERAL-13_1773860917695_1773860925540.JPG",
+      "published_at": "2026-03-18T19:15:55.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ అగ్రనేతలు హతమయ్యారు, సుప్రీం లీడర్ తప్పిపోయారు - నిజంగా ఎవరు బాధ్యత వహిస్తారు?",
+      "summary_te": "ఇస్లామిక్ రివల్యూషనరీ గార్డ్ కార్ప్స్ మరింత కఠినమైన నాయకత్వాన్ని రూపొందించడంలో నిర్ణయాత్మక పాత్ర పోషిస్తుందని భావిస్తున్నందున, నాయకత్వ నష్టాలు పెరుగుతున్నందున ఇరాన్ పెరుగుతున్న అనిశ్చితిని ఎదుర్కొంటుంది.",
+      "translated": true
+    },
     {
       "id": "a361b25fd5766f44c02efd70d0d18a5c",
       "title": "Middle East conflict: Israeli couple killed by Iran's cluster missile; PM Benjamin Netanyahu offers condolences",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సౌదీ ఈద్ మూన్ సైటింగ్ లైవ్ అప్‌డేట్‌లు: ఈరోజు నెలవంక కనిపించకపోవడంతో మార్చి 20, శుక్రవారం ఈద్ జరుపుకుంటారు",
       "summary_te": "సౌదీ అరేబియా ఈద్ మూన్ లైవ్ అప్‌డేట్‌లు: సౌదీ అరేబియాలో ఈరోజు చంద్రవంక కనిపించలేదు, కానీ నివేదికల ప్రకారం, మార్చి 20, శుక్రవారం నాడు రాజ్యంలో ఈద్ జరుపుకుంటారు. సౌదీ ఈద్ మూన్ లైవ్ అప్‌డేట్‌ల కోసం వేచి ఉండండి",
-      "translated": true
-    },
-    {
-      "id": "cfa4adfc3e00494901ae0bf63d4d4ea1",
-      "title": "No Swiggy, no Zomato, no maids: Gurugram society names and shames defaulters over unpaid dues",
-      "summary": "A Gurugram housing society’s warning that domestic help and delivery services could be suspended for residents who have not cleared maintenance dues has triggered a debate online and among locals, with some calling the move necessary for upkeep while others say it unfairly targets families.",
-      "url": "https://www.livemint.com/news/india/no-swiggy-no-zomato-no-maids-gurugram-society-names-and-shames-defaulters-over-unpaid-dues-11773827917453.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/18/1600x900/logo/uppal-southend-project-entrance-view9-5918_1773831512656_1773831517891.jpg",
-      "published_at": "2026-03-18T10:59:49.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "స్విగ్గీ లేదు, జొమాటో లేదు, పనిమనిషి లేదు: గురుగ్రామ్ సొసైటీ పేరు మరియు చెల్లించని బకాయిలపై డిఫాల్టర్లను సిగ్గుచేస్తుంది",
-      "summary_te": "నిర్వహణ బకాయిలను క్లియర్ చేయని నివాసితులకు గృహ సహాయం మరియు డెలివరీ సేవలను నిలిపివేయవచ్చని గురుగ్రామ్ హౌసింగ్ సొసైటీ యొక్క హెచ్చరిక ఆన్‌లైన్‌లో మరియు స్థానికులలో చర్చకు దారితీసింది, కొందరు నిర్వహణ కోసం ఈ చర్యను పిలుస్తున్నారు, మరికొందరు ఇది కుటుంబాలను అన్యాయంగా లక్ష్యంగా చేసుకుంటుందని చెప్పారు.",
       "translated": true
     },
     {
