@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-19T20:36:26.901Z",
-  "updated_at_IST": "20/3/2026, 2:06:26 am",
+  "updated_at": "2026-03-19T21:37:00.989Z",
+  "updated_at_IST": "20/3/2026, 3:07:00 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "67a49c5ef9cf61300853fc32aa0165ca",
+      "title": "Donald Trump rules out US ground troops in Iran conflict amid escalating Middle East tensions: ‘I am not putting…’",
+      "summary": "Donald Trump's comments counter recent reports suggesting the administration is weighing reinforcements, including thousands of additional personnel to secure key areas like the Strait of Hormuz.",
+      "url": "https://www.livemint.com/news/us-news/donald-trump-rules-out-us-ground-troops-in-iran-conflict-amid-escalating-middle-east-tensions-i-am-not-putting-11773952222324.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/TRUMP-TAKAICHI-15_1773952389258_1773952398868.jpg",
+      "published_at": "2026-03-19T21:21:12.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మిడిల్ ఈస్ట్ ఉద్రిక్తతల మధ్య ఇరాన్ వివాదంలో యుఎస్ గ్రౌండ్ దళాలను డోనాల్డ్ ట్రంప్ తోసిపుచ్చారు: 'నేను పెట్టడం లేదు...'",
+      "summary_te": "డొనాల్డ్ ట్రంప్ వ్యాఖ్యలు హోర్ముజ్ జలసంధి వంటి కీలక ప్రాంతాలను భద్రపరచడానికి వేలాది మంది అదనపు సిబ్బందితో సహా ఉపబలాలను తూకం వేస్తున్నట్లు సూచించే ఇటీవలి నివేదికలను వ్యతిరేకించారు.",
+      "translated": true
+    },
+    {
+      "id": "8dd0d8f3d9b40a7ec99b425a72f8e566",
+      "title": "Israel PM Netanyahu’s Iran war briefing: 15 major points",
+      "summary": "Netanyahu outlined Israel’s military achievements, Iran’s weakened nuclear and missile capabilities, the potential need for ground operations, and his close coordination with President Trump, while dismissing claims that Israel dragged the US into war.",
+      "url": "https://www.livemint.com/news/world/israel-pm-netanyahu-s-iran-war-briefing-15-major-points-11773953398108.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/IRAN-CRISIS-ISRAEL-NETANYAHU-9_1773954426872_1773954454964.JPG",
+      "published_at": "2026-03-19T21:21:09.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇజ్రాయెల్ PM నెతన్యాహు యొక్క ఇరాన్ వార్ బ్రీఫింగ్: 15 ప్రధాన అంశాలు",
+      "summary_te": "నెతన్యాహు ఇజ్రాయెల్ యొక్క సైనిక విజయాలు, ఇరాన్ యొక్క బలహీనమైన అణు మరియు క్షిపణి సామర్థ్యాలు, భూ కార్యకలాపాలకు సంభావ్య అవసరం మరియు అధ్యక్షుడు ట్రంప్‌తో తన సన్నిహిత సమన్వయాన్ని వివరించాడు, ఇజ్రాయెల్ USను యుద్ధంలోకి లాగిందనే వాదనలను తోసిపుచ్చారు.",
+      "translated": true
+    },
+    {
+      "id": "5cf7a6be5df57b632b0353fe21883335",
+      "title": "US F-35 makes emergency landing at its air base in Middle East after suspected Iranian strike: Report",
+      "summary": "The stealth aircraft was conducting a combat mission over Iran when the incident reportedly occurred.",
+      "url": "https://www.livemint.com/news/world/us-f-35-makes-emergency-landing-at-its-air-base-in-middle-east-after-suspected-iranian-strike-report-11773950132215.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/BELGIUM-US-DEFENCE-0_1763286598053_1763286610728_1773952938290.jpg",
+      "published_at": "2026-03-19T20:44:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అనుమానిత ఇరానియన్ స్ట్రైక్ తర్వాత US F-35 మిడిల్ ఈస్ట్‌లోని దాని ఎయిర్ బేస్‌లో అత్యవసర ల్యాండింగ్ చేసింది: నివేదిక",
+      "summary_te": "ఈ ఘటన జరిగినప్పుడు స్టెల్త్ ఎయిర్‌క్రాఫ్ట్ ఇరాన్‌పై పోరాట యాత్ర నిర్వహిస్తోంది.",
+      "translated": true
+    },
     {
       "id": "933cf05bc637a846ff4c096e080cbabf",
       "title": "Israeli PM Benjamin Netanyahu declares Iran can't enrich uranium or build missiles anymore",
@@ -337,49 +379,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఈ సంవత్సరం స్థోమత రక్షణ చట్టం ప్రణాళికలను పునరాలోచించడానికి అమెరికన్లను ఏది పురికొల్పుతోంది?",
-      "summary_te": "మెరుగుపరచబడిన పన్ను క్రెడిట్‌ల రోల్‌బ్యాక్ ACA ల్యాండ్‌స్కేప్‌ను పునర్నిర్మిస్తోంది, పెరుగుతున్న ప్రీమియంలు కొంతమంది అమెరికన్లను కవరేజ్ నుండి బయటకు నెట్టివేస్తాయి మరియు ఇతరులు వారి ఆరోగ్య బీమాను నిర్వహించడానికి కష్టతరమైన ట్రేడ్-ఆఫ్‌లను చేయవలసి వస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "fa8d5d76a04eef73c39fe7b2745394e3",
-      "title": "SpaceX set for launch of 29 Starlink satellites aboard Falcon 9 in major broadband expansion push",
-      "summary": "The deployment of 29 Starlink satellites will further strengthen the Starlink constellation, aimed at providing high-speed internet connectivity across the globe, particularly in remote and underserved regions.",
-      "url": "https://www.livemint.com/news/us-news/spacex-set-for-launch-of-29-starlink-satellites-aboard-falcon-9-in-major-broadband-expansion-push-11773924145287.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/spacex_1773926271922_1773926276922.jpg",
-      "published_at": "2026-03-19T13:25:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రధాన బ్రాడ్‌బ్యాండ్ విస్తరణ పుష్‌లో ఫాల్కన్ 9లో 29 స్టార్‌లింక్ ఉపగ్రహాలను ప్రయోగించడానికి స్పేస్‌ఎక్స్ సిద్ధంగా ఉంది",
-      "summary_te": "29 స్టార్‌లింక్ ఉపగ్రహాల విస్తరణ స్టార్‌లింక్ కాన్స్టెలేషన్‌ను మరింత బలోపేతం చేస్తుంది, ఇది ప్రపంచవ్యాప్తంగా హై-స్పీడ్ ఇంటర్నెట్ కనెక్టివిటీని అందించడం లక్ష్యంగా పెట్టుకుంది.",
-      "translated": true
-    },
-    {
-      "id": "51aa9efc78f4cabd56688e299a73c00d",
-      "title": "Canada immigration backlog below 1 million mark for first time in months - what study permit figures say? Report reveals",
-      "summary": "As per IRCC definitions, an immigration application is counted as part of backlog when it takes longer than the department’s stated processing timelines",
-      "url": "https://www.livemint.com/news/canada-immigration-backlog-below-1-million-mark-for-first-time-in-months-what-study-permit-figures-say-report-reveals-11773923280518.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/CANADA-INDIA-TRADE-0_1697787579702_1773926517482.JPG",
-      "published_at": "2026-03-19T13:22:33.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కెనడా ఇమ్మిగ్రేషన్ బ్యాక్‌లాగ్ నెలల్లో మొదటిసారిగా 1 మిలియన్ మార్క్ కంటే తక్కువ - అధ్యయన అనుమతి గణాంకాలు ఏమి చెబుతున్నాయి? నివేదిక వెల్లడిస్తుంది",
-      "summary_te": "IRCC నిర్వచనాల ప్రకారం, డిపార్ట్‌మెంట్ పేర్కొన్న ప్రాసెసింగ్ టైమ్‌లైన్‌ల కంటే ఎక్కువ సమయం తీసుకున్నప్పుడు ఇమ్మిగ్రేషన్ అప్లికేషన్ బ్యాక్‌లాగ్‌లో భాగంగా పరిగణించబడుతుంది",
-      "translated": true
-    },
-    {
-      "id": "0eb268b1d950955653817c8fc595db66",
-      "title": "Who is Ravi Mittal? 2016 batch IAS officer appointed as Deputy Secretary at PMO",
-      "summary": "IAS officer Ravi Mittal, was appointed as the Deputy Secretary at the Prime Minister's Office on Thursday. Here's all you need to know about him.",
-      "url": "https://www.livemint.com/news/india/who-is-ravi-mittal-2016-batch-ias-officer-appointed-as-deputy-secretary-at-pmo-11773925441017.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/Ravi_Mittal_1773925635905_1773925639229.jpg",
-      "published_at": "2026-03-19T13:17:47.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రవి మిట్టల్ ఎవరు? 2016 బ్యాచ్ ఐఏఎస్ అధికారి పీఎంఓలో డిప్యూటీ సెక్రటరీగా నియమితులయ్యారు",
-      "summary_te": "ఐఏఎస్ అధికారి రవి మిట్టల్ గురువారం ప్రధానమంత్రి కార్యాలయంలో డిప్యూటీ సెక్రటరీగా నియమితులయ్యారు. మీరు అతని గురించి తెలుసుకోవలసినది ఇక్కడ ఉంది.",
+      "summary_te": "మెరుగుపరచబడిన పన్ను క్రెడిట్‌ల రోల్‌బ్యాక్ ACA ల్యాండ్‌స్కేప్‌ను పునర్నిర్మిస్తోంది, పెరుగుతున్న ప్రీమియంలు కొంతమంది అమెరికన్లను కవరేజీ నుండి బయటకు నెట్టివేస్తాయి మరియు ఇతరులు వారి ఆరోగ్య బీమాను నిర్వహించడానికి కష్టతరమైన ట్రేడ్-ఆఫ్‌లను చేయవలసి వస్తుంది.",
       "translated": true
     },
     {
@@ -393,7 +393,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హెచ్‌డిఎఫ్‌సి బ్యాంక్ ఒక్క రోజులో 9% క్రాష్ అయింది. ఫిబ్రవరిలో ఈ స్టాక్‌కు ఏ మ్యూచువల్ ఫండ్స్ అత్యధికంగా బహిర్గతం చేశాయి",
-      "summary_te": "ఛైర్మన్ అటాను చక్రవర్తి రాజీనామాతో నాయకత్వం ఆందోళనలు రేకెత్తించిన తర్వాత HDFC బ్యాంక్ షేర్లు దాదాపు 9% పడిపోయాయి. మ్యూచువల్ ఫండ్స్ పతనానికి ముందు రూ. 3.19 లక్షల కోట్ల విలువైన 359 కోట్ల షేర్లను కలిగి ఉన్నాయి, ఎస్‌బిఐ మ్యూచువల్ ఫండ్ ఎక్స్‌పోజర్‌లో ముందుంది. ఇటీవలి అస్థిరత ఉన్నప్పటికీ స్టాక్‌లో గణనీయమైన సంస్థాగత హోల్డింగ్‌ను డేటా హైలైట్ చేస్తుంది.",
+      "summary_te": "ఛైర్మన్ అటాను చక్రవర్తి రాజీనామాతో నాయకత్వం ఆందోళనలు రేకెత్తించిన తర్వాత HDFC బ్యాంక్ షేర్లు దాదాపు 9% పడిపోయాయి. మ్యూచువల్ ఫండ్స్ పతనానికి ముందు రూ. 3.19 లక్షల కోట్ల విలువైన 359 కోట్ల షేర్లను కలిగి ఉంది, ఎస్‌బిఐ మ్యూచువల్ ఫండ్ ఎక్స్‌పోజర్‌లో ముందుంది. ఇటీవలి అస్థిరత ఉన్నప్పటికీ స్టాక్‌లో గణనీయమైన సంస్థాగత హోల్డింగ్‌ను డేటా హైలైట్ చేస్తుంది.",
       "translated": true
     },
     {
@@ -519,7 +519,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేయిస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -602,7 +602,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఐక్యరాజ్యసమితి వాతావరణ చీఫ్ సైమన్ స్టీల్ అస్థిర ప్రపంచంలో సహకారం కోసం పిలుపునిచ్చారు",
+      "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
       "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
@@ -631,7 +631,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
