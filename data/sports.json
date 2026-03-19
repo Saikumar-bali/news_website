@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-19T11:39:20.740Z",
-  "updated_at_IST": "19/3/2026, 5:09:20 pm",
+  "updated_at": "2026-03-19T12:46:03.090Z",
+  "updated_at_IST": "19/3/2026, 6:16:03 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "99a14d52046f9c8cfff8a23ef419aaa3",
+      "title": "Stirling steps down as T20I captain; Ireland confirm T20I series against India",
+      "summary": "Stirling will, however, continue to lead Ireland's ODI side as they target qualification for next year's World Cup",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528404.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413315.jpg",
+      "published_at": "2026-03-19T12:24:51.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "T20I కెప్టెన్‌గా స్టిర్లింగ్ వైదొలిగాడు; భారత్‌తో టీ20 సిరీస్‌ను ఐర్లాండ్ ధృవీకరించింది",
+      "summary_te": "అయితే స్టిర్లింగ్ వచ్చే ఏడాది ప్రపంచకప్‌కు అర్హత సాధించే లక్ష్యంతో ఐర్లాండ్ ODI జట్టుకు నాయకత్వం వహిస్తాడు.",
+      "translated": true
+    },
     {
       "id": "07271810756b840f2e628cec1873fff3",
       "title": "Nat Sciver-Brunt heads home from South Africa for family reasons",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "షీల్డ్ ఫైనల్‌కు డాగెట్ 'అసంభవం'; విక్టోరియా ఎంపిక రేసులో పెర్రీ మరియు ఇలియట్",
       "summary_te": "విక్టోరియా ఫెర్గూస్ ఓనీల్‌కు ఫైనల్‌కు చోటు కల్పించాలి, కోచ్ క్రిస్ రోజర్స్ ఇది \"కఠినమైన నిర్ణయం\" అని చెప్పారు",
-      "translated": true
-    },
-    {
-      "id": "bba9e4027d567528a693ad77382a40df",
-      "title": "Webster's four helps Tasmania finish season strongly",
-      "summary": "A successful chase was always unlikely for Queensland who had started the round a chance of the final",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528145.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414741.jpg",
-      "published_at": "2026-03-17T06:12:13.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వెబ్‌స్టర్ ఫోర్ టాస్మానియా సీజన్‌ను బలంగా ముగించడంలో సహాయపడుతుంది",
-      "summary_te": "రౌండ్‌ను ప్రారంభించిన క్వీన్స్‌లాండ్‌కు ఫైనల్‌కు అవకాశం ఉండేలా విజయవంతమైన ఛేజింగ్ ఎప్పుడూ ఉండదు",
       "translated": true
     }
   ]
