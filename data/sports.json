@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-03-19T12:46:03.090Z",
-  "updated_at_IST": "19/3/2026, 6:16:03 pm",
+  "updated_at": "2026-03-19T14:14:57.809Z",
+  "updated_at_IST": "19/3/2026, 7:44:57 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "72207bd4004b91850e3b8ed6a4c624d8",
+      "title": "New Zealand and South Africa jostle for series lead in high-scoring Auckland",
+      "summary": "NZ do not have a great record at Eden Park but will hope the experience of playing here will help them overcome the SA challenge",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528405.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414759.jpg",
+      "published_at": "2026-03-19T13:53:19.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
+      "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
+      "translated": true
+    },
+    {
+      "id": "29a143d3fcc1f56eea05e321a7632655",
+      "title": "Parag: 'Samson irreplaceable like Kohli or Rohit'",
+      "summary": "Parag reflected on RR's missed opportunities in 2025 and his journey to captaincy, and highlighted the need to protect Sooryavanshi from outside noise",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528408.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414773.jpg",
+      "published_at": "2026-03-19T13:18:16.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "పరాగ్: 'కోహ్లి లేదా రోహిత్ లాగా శాంసన్ భర్తీ చేయలేడు'",
+      "summary_te": "పరాగ్ 2025లో RR యొక్క తప్పిపోయిన అవకాశాలు మరియు కెప్టెన్సీకి అతని ప్రయాణం గురించి ప్రతిబింబించాడు మరియు సూర్యవంశీని బయటి శబ్దం నుండి రక్షించాల్సిన అవసరాన్ని హైలైట్ చేశాడు",
+      "translated": true
+    },
     {
       "id": "99a14d52046f9c8cfff8a23ef419aaa3",
       "title": "Stirling steps down as T20I captain; Ireland confirm T20I series against India",
       "summary": "Stirling will, however, continue to lead Ireland's ODI side as they target qualification for next year's World Cup",
       "url": "https://www.espncricinfo.com/ci/content/story/1528404.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413315.jpg",
-      "published_at": "2026-03-19T12:24:51.000Z",
+      "published_at": "2026-03-19T12:36:40.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "బ్రిట్స్, రేనేకే, ఖాకా మరియు మ్లాబా దక్షిణాఫ్రికా యొక్క సిరీస్-స్థాయి విజయానికి ముఖ్యాంశాలు",
       "summary_te": "న్యూజిలాండ్ తరఫున అమేలియా కెర్ అద్భుతమైన ఆల్ రౌండ్ ప్రదర్శన కనబరిచింది, అయితే దక్షిణాఫ్రికా బ్యాట్ మరియు బంతితో మరియు ఫీల్డ్‌లో అన్ని సిలిండర్లపై కాల్పులు జరిపి 18 పరుగుల విజయాన్ని సాధించింది.",
-      "translated": true
-    },
-    {
-      "id": "95a4ecbb0826b75d270a32bd315bd7bf",
-      "title": "Mulder in as SA bowl; Clarkson, Ferguson in for NZ",
-      "summary": "South Africa kept the same attack that bowled New Zealand out for 91 with no room for experienced quick Lutho Sipamla",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528166.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414691.jpg",
-      "published_at": "2026-03-17T06:26:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "SA గిన్నె వలె మల్డర్; NZ కోసం క్లార్క్సన్, ఫెర్గూసన్",
-      "summary_te": "అనుభవజ్ఞుడైన లూథో సిపమ్లాకు చోటు లేకుండా న్యూజిలాండ్‌ను 91 పరుగులకే ఆలౌట్ చేసిన దక్షిణాఫ్రికా అదే దాడిని కొనసాగించింది.",
-      "translated": true
-    },
-    {
-      "id": "431163c85b4f66c7d4e8605388892c6c",
-      "title": "Doggett 'unlikely' for Shield final; Perry and Elliott in Victoria selection race",
-      "summary": "Victoria need to find room for Fergus O'Neill for the final with coach Chris Rogers saying it's a \"hard decision\"",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528163.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/409100/409119.png",
-      "published_at": "2026-03-17T06:21:25.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "షీల్డ్ ఫైనల్‌కు డాగెట్ 'అసంభవం'; విక్టోరియా ఎంపిక రేసులో పెర్రీ మరియు ఇలియట్",
-      "summary_te": "విక్టోరియా ఫెర్గూస్ ఓనీల్‌కు ఫైనల్‌కు చోటు కల్పించాలి, కోచ్ క్రిస్ రోజర్స్ ఇది \"కఠినమైన నిర్ణయం\" అని చెప్పారు",
       "translated": true
     }
   ]
