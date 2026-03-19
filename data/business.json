@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-19T19:51:55.087Z",
-  "updated_at_IST": "20/3/2026, 1:21:55 am",
+  "updated_at": "2026-03-19T20:36:26.901Z",
+  "updated_at_IST": "20/3/2026, 2:06:26 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "933cf05bc637a846ff4c096e080cbabf",
+      "title": "Israeli PM Benjamin Netanyahu declares Iran can't enrich uranium or build missiles anymore",
+      "summary": "Earlier Israeli and US actions, including strikes in June 2025, damaged major uranium enrichment sites like Natanz and Fordow, rendering them largely inoperable.",
+      "url": "https://www.livemint.com/news/world/netanyahu-israeli-pm-declares-iran-cant-enrich-uranium-or-build-missiles-anymore-11773949230421.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/IRAN-CRISIS-ISRAEL-NETANYAHU-10_1773949419042_1773949432557.JPG",
+      "published_at": "2026-03-19T20:02:18.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ ఇకపై యురేనియంను శుద్ధి చేయడం లేదా క్షిపణులను నిర్మించడం సాధ్యం కాదని ఇజ్రాయెల్ ప్రధాని బెంజమిన్ నెతన్యాహు ప్రకటించారు.",
+      "summary_te": "జూన్ 2025లో సమ్మెలతో సహా మునుపటి ఇజ్రాయెల్ మరియు US చర్యలు, Natanz మరియు Fordow వంటి ప్రధాన యురేనియం సుసంపన్నత సైట్‌లను దెబ్బతీశాయి, అవి చాలా వరకు పనికిరాకుండా పోయాయి.",
+      "translated": true
+    },
+    {
+      "id": "82b3d90188bd94301a4f5adce24cafcd",
+      "title": "Trump defends $200B Pentagon request for Iran war; calls it ‘small price’ for national security",
+      "summary": "“This is a very volatile world,” Trump said from the Oval Office. “The emergency spending would be a very small price to pay to ensure the nation’s military stays in top shape.”",
+      "url": "https://www.livemint.com/news/us-news/trump-defends-200b-pentagon-request-for-iran-war-calls-it-small-price-for-national-security-11773944757079.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/TRUMP-TAKAICHI-27_1773945613647_1773945620110.jpg",
+      "published_at": "2026-03-19T19:46:34.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ యుద్ధం కోసం $200B పెంటగాన్ అభ్యర్థనను ట్రంప్ సమర్థించారు; జాతీయ భద్రత కోసం దీనిని 'చిన్న ధర' అని పిలుస్తుంది",
+      "summary_te": "\"ఇది చాలా అస్థిర ప్రపంచం\" అని ఓవల్ కార్యాలయం నుండి ట్రంప్ అన్నారు. \"దేశం యొక్క మిలిటరీ అత్యుత్తమ ఆకృతిలో ఉండేలా అత్యవసర వ్యయం చెల్లించడానికి చాలా తక్కువ ధర ఉంటుంది.\"",
+      "translated": true
+    },
     {
       "id": "27473545ef56e59c3913b5479537f5bd",
       "title": "Trump’s Pearl Harbor comment leaves Japan PM Takaichi speechless | Watch Video",
@@ -352,34 +380,6 @@
       "language": "en",
       "title_te": "రవి మిట్టల్ ఎవరు? 2016 బ్యాచ్ ఐఏఎస్ అధికారి పీఎంఓలో డిప్యూటీ సెక్రటరీగా నియమితులయ్యారు",
       "summary_te": "ఐఏఎస్ అధికారి రవి మిట్టల్ గురువారం ప్రధానమంత్రి కార్యాలయంలో డిప్యూటీ సెక్రటరీగా నియమితులయ్యారు. మీరు అతని గురించి తెలుసుకోవలసినది ఇక్కడ ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "edb6fb00c5fbbca8f32fa1423b53f76a",
-      "title": "Delhi weather: IMD predicts more rainfall, issues yellow alert till March 20; Indigo, SpiceJet warn of ‘slow traffic’",
-      "summary": "Delhi weather prediction: IndiGo posted a travel advisory on its X handle on Thursday afternoon, just hours before the showers continued to lash parts of the national capital.",
-      "url": "https://www.livemint.com/news/india/delhi-weather-imd-predicts-more-rainfall-issues-yellow-alert-till-march-20-indigo-spicejet-warn-of-slow-traffic-11773921982474.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/PTI03-17-2026-000388A-0_1773922513021_1773922690030.jpg",
-      "published_at": "2026-03-19T12:25:57.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఢిల్లీ వాతావరణం: IMD మరింత వర్షపాతాన్ని అంచనా వేసింది, మార్చి 20 వరకు పసుపు హెచ్చరిక జారీ చేస్తుంది; ‘స్లో ట్రాఫిక్’పై ఇండిగో, స్పైస్‌జెట్‌ హెచ్చరికలు",
-      "summary_te": "ఢిల్లీ వాతావరణ అంచనా: ఇండిగో గురువారం మధ్యాహ్నం తన X హ్యాండిల్‌పై ప్రయాణ సలహాను పోస్ట్ చేసింది, దేశ రాజధానిలోని కొన్ని ప్రాంతాలలో జల్లులు కురుస్తూనే ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "e31534674aa4905dc88092921ccc94db",
-      "title": "Nora Fatehi's Sarke Chunar Teri Sarke song lands in more trouble, Muslim body issues Fatwa",
-      "summary": "The controversy around the song Sarke Chunar from KD: The Devil has intensified after a Muslim organisation issued a fatwa against actor Nora Fatehi, while the National Commission for Women has also summoned the actor, Sanjay Dutt and lyricist Raqueeb Alam over alleged obscenity in the track.",
-      "url": "https://www.livemint.com/news/india/nora-fatehis-sarke-chunar-teri-sarke-song-lands-in-more-trouble-muslim-body-issues-fatwa-11773922283394.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/AWARDS-AMERICAN-MUSIC--139_1748309098145_1773922827183.JPG",
-      "published_at": "2026-03-19T12:25:54.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "నోరా ఫతేహి యొక్క సర్కే చునార్ తేరీ సార్కే పాట మరింత ఇబ్బందుల్లో పడింది, ముస్లిం శరీరం ఫత్వా జారీ చేసింది",
-      "summary_te": "KDలోని సర్కే చునార్: ది డెవిల్ అనే పాటకు సంబంధించిన వివాదం నటి నోరా ఫతేహికి వ్యతిరేకంగా ఒక ముస్లిం సంస్థ ఫత్వా జారీ చేయడంతో తీవ్రమైంది, అయితే ట్రాక్‌లో అశ్లీలంగా ఉందని ఆరోపించినందుకు జాతీయ మహిళా కమిషన్ నటుడు, సంజయ్ దత్ మరియు గీత రచయిత రకీబ్ ఆలమ్‌ను కూడా పిలిపించింది.",
       "translated": true
     },
     {
