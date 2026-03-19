@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-19T16:58:14.563Z",
-  "updated_at_IST": "19/3/2026, 10:28:14 pm",
+  "updated_at": "2026-03-19T18:00:45.122Z",
+  "updated_at_IST": "19/3/2026, 11:30:45 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "c981ce41c764378edb30c6f47c162d34",
+      "title": "Trump meets Japan PM Sanae Takaichi at White House amid US-Iran war, Hormuz Strait crisis: What's on agenda?",
+      "summary": "US President Donald Trump welcomed Japanese Prime Minister Sanae Takaichi to the White House on Thursday for a summit. Takaichi's visit comes amid tensions in the Middle East after the US and Israel launched a war with Iran. Here's what's expected from the meeting.",
+      "url": "https://www.livemint.com/news/world/trump-meets-japan-pm-sanae-takaichi-at-white-house-amid-iran-war-hormuz-strait-crisis-whats-on-agenda-11773939395214.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/US-Trump-Japan-10_1773937866428_1773937877895_1773939525394.jpg",
+      "published_at": "2026-03-19T17:28:02.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అమెరికా-ఇరాన్ యుద్ధం, హార్ముజ్ జలసంధి సంక్షోభం మధ్య వైట్‌హౌస్‌లో జపాన్ ప్రధాని సనే టకైచితో ట్రంప్ భేటీ: ఎజెండాలో ఏముంది?",
+      "summary_te": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ జపాన్ ప్రధాని సనే టకైచికి గురువారం వైట్‌హౌస్‌లో శిఖరాగ్ర సమావేశానికి స్వాగతం పలికారు. ఇరాన్‌తో యుఎస్ మరియు ఇజ్రాయెల్ యుద్ధం ప్రారంభించిన తర్వాత మధ్యప్రాచ్యంలో ఉద్రిక్తతల మధ్య తకైచి పర్యటన జరిగింది. సమావేశం నుండి ఏమి ఆశించబడుతుందో ఇక్కడ ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "fce806822c10d334017ca072a3c59087",
+      "title": "'Unacceptable': MEA on attacks against energy infrastructure amid Middle East conflict",
+      "summary": "External Affairs Ministry spokesperson Randhir Jaiswal described the attacks on the gas infrastructure as “deeply disturbing.”",
+      "url": "https://www.livemint.com/news/india/unacceptable-mea-on-attacks-against-energy-infrastructure-amid-middle-east-conflict-11773939813802.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/PIB-Briefing-West-Asia-War--1_1773939850102_1773939888370.jpg",
+      "published_at": "2026-03-19T17:12:09.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'ఆమోదయోగ్యం కాదు': మిడిల్ ఈస్ట్ వివాదం మధ్య ఇంధన మౌలిక సదుపాయాలపై దాడులపై MEA",
+      "summary_te": "విదేశాంగ మంత్రిత్వ శాఖ అధికార ప్రతినిధి రణధీర్ జైస్వాల్ గ్యాస్ మౌలిక సదుపాయాలపై దాడులు \"తీవ్రంగా కలవరపరిచేవి\" అని అభివర్ణించారు.",
+      "translated": true
+    },
+    {
+      "id": "5d15c263df6d3cc2ab8290d34e93652e",
+      "title": "Hegseth drops blunt line: ‘It takes money to kill bad guys’ amid Pentagon seeking $200 billion more for Iran war effort",
+      "summary": "As the Trump administration weighs its military and diplomatic options, lawmakers are making clear that any funding approval will require detailed justification, strategic clarity, and sustained engagement with Congress.",
+      "url": "https://www.livemint.com/news/us-news/hegseth-drops-blunt-line-it-takes-money-to-kill-bad-guys-amid-pentagon-seeking-200-billion-more-for-iran-war-effort-11773938216189.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/Pentagon-US-Iran-11_1773939569467_1773939583019.jpg",
+      "published_at": "2026-03-19T17:00:19.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ యుద్ధ ప్రయత్నాల కోసం పెంటగాన్ 200 బిలియన్ డాలర్లు కోరుతున్న నేపథ్యంలో హెగ్‌సేత్ మొద్దుబారిన పంక్తిని వదులుకున్నాడు: 'చెడ్డవాళ్లను చంపడానికి డబ్బు కావాలి'",
+      "summary_te": "ట్రంప్ పరిపాలన దాని సైనిక మరియు దౌత్యపరమైన ఎంపికలను పరిశీలిస్తున్నందున, ఏదైనా నిధుల ఆమోదానికి వివరణాత్మక సమర్థన, వ్యూహాత్మక స్పష్టత మరియు కాంగ్రెస్‌తో నిరంతర నిశ్చితార్థం అవసరమని చట్టసభ సభ్యులు స్పష్టం చేస్తున్నారు.",
+      "translated": true
+    },
     {
       "id": "100785fa9c83808c164e29158acd219f",
       "title": "Trump hails Operation Epic Fury: ‘Did what no president had the courage to do’",
@@ -20,15 +62,15 @@
     },
     {
       "id": "4e82ca613fcdbeaa4db2f790b13fc84f",
-      "title": "Manipur on edge again: Fresh gunfire in Ukhrul triggers tensions - what happened in Sinakeithei village?",
+      "title": "Manipur news: Fresh gunfire in Ukhrul triggers tensions - what happened in Sinakeithei village?",
       "summary": "Authorities and village representatives said that the situation reportedly escalated amid ongoing suspicions and counterclaims between communities in the region",
       "url": "https://www.livemint.com/news/india/manipur-on-edge-again-fresh-gunfire-in-ukhrul-triggers-tensions-what-happened-in-sinakeithei-village-11773937264716.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/Latest-News_1545121335238_1773938108163.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/unfire-was-also-heard-in-the-Lungter-hill-range-of_1773941996342_1773942003666.jpg",
       "published_at": "2026-03-19T16:31:37.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "మణిపూర్ మళ్లీ అంచున ఉంది: ఉఖ్రుల్‌లో తాజా కాల్పులు ఉద్రిక్తతను రేకెత్తిస్తాయి - సినాకెయితేయ్ గ్రామంలో ఏమి జరిగింది?",
+      "title_te": "మణిపూర్ వార్తలు: ఉఖ్రుల్‌లో తాజా కాల్పులు ఉద్రిక్తతను రేకెత్తిస్తాయి - సినాకేయితేయ్ గ్రామంలో ఏం జరిగింది?",
       "summary_te": "ఈ ప్రాంతంలోని వర్గాల మధ్య కొనసాగుతున్న అనుమానాలు మరియు ప్రతివాదాల మధ్య పరిస్థితి మరింత దిగజారిందని అధికారులు మరియు గ్రామ ప్రజాప్రతినిధులు తెలిపారు.",
       "translated": true
     },
@@ -197,7 +239,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఈ సంవత్సరం స్థోమత రక్షణ చట్టం ప్రణాళికలను పునరాలోచించడానికి అమెరికన్లను ఏది పురికొల్పుతోంది?",
-      "summary_te": "మెరుగుపరచబడిన పన్ను క్రెడిట్‌ల రోల్‌బ్యాక్ ACA ల్యాండ్‌స్కేప్‌ను పునర్నిర్మిస్తోంది, పెరుగుతున్న ప్రీమియంలు కొంతమంది అమెరికన్లను కవరేజ్ నుండి బయటకు నెట్టివేస్తాయి మరియు ఇతరులు వారి ఆరోగ్య బీమాను నిర్వహించడానికి కష్టతరమైన ట్రేడ్-ఆఫ్‌లను చేయవలసి వస్తుంది.",
+      "summary_te": "మెరుగుపరచబడిన పన్ను క్రెడిట్‌ల రోల్‌బ్యాక్ ACA ల్యాండ్‌స్కేప్‌ను పునర్నిర్మిస్తోంది, పెరుగుతున్న ప్రీమియంలు కొంతమంది అమెరికన్లను కవరేజీ నుండి బయటకు నెట్టివేస్తాయి మరియు ఇతరులు వారి ఆరోగ్య బీమాను నిర్వహించడానికి కష్టతరమైన ట్రేడ్-ఆఫ్‌లను చేయవలసి వస్తుంది.",
       "translated": true
     },
     {
@@ -252,7 +294,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఢిల్లీ వాతావరణం: IMD మరింత వర్షపాతాన్ని అంచనా వేసింది, మార్చి 20 వరకు పసుపు హెచ్చరిక జారీ చేస్తుంది; ‘స్లో ట్రాఫిక్’పై ఇండిగో, స్పైస్‌జెట్‌ హెచ్చరికలు",
+      "title_te": "ఢిల్లీ వాతావరణం: IMD మరింత వర్షపాతాన్ని అంచనా వేసింది, మార్చి 20 వరకు పసుపు హెచ్చరిక జారీ చేస్తుంది; 'స్లో ట్రాఫిక్' గురించి ఇండిగో, స్పైస్‌జెట్ హెచ్చరించింది",
       "summary_te": "ఢిల్లీ వాతావరణ అంచనా: ఇండిగో గురువారం మధ్యాహ్నం తన X హ్యాండిల్‌పై ప్రయాణ సలహాను పోస్ట్ చేసింది, దేశ రాజధానిలోని కొన్ని ప్రాంతాలలో జల్లులు కురుస్తూనే ఉన్నాయి.",
       "translated": true
     },
@@ -267,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "నోరా ఫతేహి యొక్క సర్కే చునార్ తేరీ సార్కే పాట మరింత ఇబ్బందుల్లో పడింది, ముస్లిం శరీరం ఫత్వా జారీ చేసింది",
-      "summary_te": "KDలోని సర్కే చునార్: ది డెవిల్ అనే పాటకు సంబంధించిన వివాదం నటి నోరా ఫతేహికి వ్యతిరేకంగా ఒక ముస్లిం సంస్థ ఫత్వా జారీ చేయడంతో తీవ్రమైంది, అయితే ట్రాక్‌లో అశ్లీలంగా ఉందని ఆరోపించినందుకు జాతీయ మహిళా కమిషన్ నటుడు, సంజయ్ దత్ మరియు గీత రచయిత రకీబ్ ఆలమ్‌ను కూడా పిలిపించింది.",
+      "summary_te": "KDలోని సర్కే చునార్: ది డెవిల్ అనే పాటకు సంబంధించిన వివాదం నటి నోరా ఫతేహికి వ్యతిరేకంగా ఫత్వా జారీ చేసిన తర్వాత డెవిల్ తీవ్రమైంది, అదే సమయంలో జాతీయ మహిళా కమిషన్ కూడా ట్రాక్‌లో అశ్లీలంగా ఉందని ఆరోపించినందుకు నటుడు, సంజయ్ దత్ మరియు గీత రచయిత రకీబ్ ఆలమ్‌లకు సమన్లు ​​పంపింది.",
       "translated": true
     },
     {
@@ -310,48 +352,6 @@
       "language": "en",
       "title_te": "FBI యొక్క మోస్ట్ వాంటెడ్ లిస్ట్‌లో ఉన్న భారత జాతీయుడు కల్పేష్‌కుమార్ రసిక్‌భాయ్ పటేల్ ఎవరు మరియు అతనిపై ఆరోపణలు ఏమిటి?",
       "summary_te": "కల్పేష్‌కుమార్ రసిక్‌భాయ్ పటేల్‌ను న్యాయం నుండి పారిపోయిన వ్యక్తిగా పరిగణిస్తారు మరియు అతని ఆచూకీకి సంబంధించిన ఏదైనా సమాచారం ముఖ్యమైనదిగా మరియు చర్య తీసుకోదగినదిగా పరిగణించబడాలని FBI తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "b48576cc5844a43dc65d038d042f9d25",
-      "title": "Quote of the Day: Tom Cruise on resilience — 'I don't care who you are, life has challenges'",
-      "summary": "Hollywood star Tom Cruise’s words capture a universal reality: challenges are inevitable regardless of fame, wealth or success. His quote reflects resilience and the mindset needed to confront adversity.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-tom-cruise-on-resilience-i-dont-care-who-you-are-life-has-challenges-11773912978477.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/53rd-Saturn-Awards---Show-1_1773913006653_1773913025901.jpg",
-      "published_at": "2026-03-19T09:43:43.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: టామ్ క్రూజ్ పునరుద్ధరణపై — 'నువ్వు ఎవరో నేను పట్టించుకోను, జీవితంలో సవాళ్లు ఉన్నాయి'",
-      "summary_te": "హాలీవుడ్ స్టార్ టామ్ క్రూజ్ మాటలు విశ్వవ్యాప్త వాస్తవికతను సంగ్రహిస్తాయి: కీర్తి, సంపద లేదా విజయంతో సంబంధం లేకుండా సవాళ్లు అనివార్యం. అతని కోట్ స్థితిస్థాపకత మరియు ప్రతికూలతను ఎదుర్కోవడానికి అవసరమైన మనస్తత్వాన్ని ప్రతిబింబిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "7864c5074393f048a411ee5295a76ea4",
-      "title": "Eid ul Fitr 2026 Moon Sighting Live: Moon NOT sighted in Lucknow, Hyderabad - Eid on Saturday, March 21",
-      "summary": "Eid ul Fitr 2026 Moon Sighting Live: The Shawwal crescent moon has not been sighted in Hyderabad or Lucknow. The Holy month of Ramadan ends tomorrow so, Eid will be celebrated on Saturday, March 21. Track Eid ul Fitr 2026 Moon Sighting Live",
-      "url": "https://www.livemint.com/news/trends/eid-ul-fitr-2026-india-moon-sighting-live-updates-delhi-mumbai-lucknow-citywise-timings-19-march-2026-11773910334154.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/ANI-20260319269-0_1773929208417_1773929226481.jpg",
-      "published_at": "2026-03-19T09:36:44.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈద్ ఉల్ ఫితర్ 2026 చంద్రుని ప్రత్యక్ష ప్రసారం: లక్నో, హైదరాబాద్‌లో చంద్రుడు కనిపించలేదు - మార్చి 21, శనివారం ఈద్",
-      "summary_te": "ఈద్ ఉల్ ఫితర్ 2026 చంద్రుని ప్రత్యక్ష ప్రసారం: హైదరాబాద్ లేదా లక్నోలో షవ్వాల్ నెలవంక కనిపించలేదు. పవిత్ర రంజాన్ మాసం రేపటితో ముగుస్తుంది కాబట్టి మార్చి 21, శనివారం నాడు ఈద్ జరుపుకుంటారు. ఈద్ ఉల్ ఫితర్ 2026 చంద్ర దర్శనాన్ని ప్రత్యక్షంగా ట్రాక్ చేయండి",
-      "translated": true
-    },
-    {
-      "id": "67d3c98bd8bec993759c2bdacdd2002b",
-      "title": "Moon sighting LIVE: Moon not sighted in Delhi, Hyderabad, Lucknow; Eid to be celebrated on March 21",
-      "summary": "Eid 2026 moon sighting today: The best time to view the crescent is between 6:15 pm and 6:30 pm IST, shortly after sunset, by looking towards the western horizon.",
-      "url": "https://www.livemint.com/news/trends/india-moon-sighting-time-live-live-bangalore-mumbai-lucknow-citywise-timings-today-11773911740100.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/19/1600x900/logo/Moon_1771419986606_1771419994060_1773921956923.png",
-      "published_at": "2026-03-19T09:34:42.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "చంద్రుని ప్రత్యక్ష ప్రసారం: ఢిల్లీ, హైదరాబాద్, లక్నోలో చంద్రుడు కనిపించలేదు; మార్చి 21న ఈద్ జరుపుకుంటారు",
-      "summary_te": "ఈద్ 2026 చంద్ర దర్శనం ఈ రోజు: నెలవంకను వీక్షించడానికి ఉత్తమ సమయం సాయంత్రం 6:15 మరియు 6:30 IST మధ్య, సూర్యాస్తమయం తర్వాత, పశ్చిమ హోరిజోన్ వైపు చూడటం.",
       "translated": true
     },
     {
@@ -519,7 +519,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేయిస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -602,7 +602,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఐక్యరాజ్యసమితి వాతావరణ చీఫ్ సైమన్ స్టీల్ అస్థిర ప్రపంచంలో సహకారం కోసం పిలుపునిచ్చారు",
+      "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
       "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
@@ -715,7 +715,7 @@
       "category": "business",
       "language": "en",
       "title_te": "విప్రోను తగ్గించండి; లక్ష్యం రూ. 410: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో విప్రో షేరుపై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
+      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి తన పరిశోధన నివేదికలో విప్రో స్టాక్‌పై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -757,7 +757,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇన్ఫోసిస్‌ను కూడబెట్టు; లక్ష్యం రూ. 1531: KR చోక్సీ",
-      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై రూ. 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
+      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -812,7 +812,7 @@
       "source": "Moneycontrol",
       "category": "business",
       "language": "en",
-      "title_te": "సిటీ యూనియన్ బ్యాంక్ కొనుగోలు; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
+      "title_te": "సిటీ యూనియన్ బ్యాంక్‌ను కొనుగోలు చేయండి; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
       "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేయడంపై ICICI సెక్యూరిటీస్ బుల్లిష్‌గా ఉంది.",
       "translated": true
     },
@@ -841,7 +841,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
