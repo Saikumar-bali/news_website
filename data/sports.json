@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-19T07:53:38.453Z",
-  "updated_at_IST": "19/3/2026, 1:23:38 pm",
+  "updated_at": "2026-03-19T08:41:57.962Z",
+  "updated_at_IST": "19/3/2026, 2:11:57 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "11aa7ae4cd8314c37bd93b0299e15513",
+      "title": "John Mooney named Delhi Capitals' fielding coach for IPL 2026",
+      "summary": "John Mooney becomes the first from Ireland to be part of an IPL franchise's coaching staff",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528394.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/288900/288957.jpg",
+      "published_at": "2026-03-19T08:16:48.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఐపీఎల్ 2026 కోసం ఢిల్లీ క్యాపిటల్స్ ఫీల్డింగ్ కోచ్‌గా జాన్ మూనీ నియమితులయ్యారు",
+      "summary_te": "జాన్ మూనీ ఐర్లాండ్ నుండి IPL ఫ్రాంచైజీ కోచింగ్ స్టాఫ్‌లో భాగమైన మొదటి వ్యక్తి అయ్యాడు",
+      "translated": true
+    },
+    {
+      "id": "e174af881341e66765125c4069005744",
+      "title": "LA Knight Riders to play MLC 2026 matches at own venue in Pomona, California",
+      "summary": "No MLC team has had its own venue before this, and the update comes even as preparations are on for cricket's reintroduction to the Olympic Games in 2028, in Los Angeles",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528393.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/402700/402736.jpg",
+      "published_at": "2026-03-19T08:16:26.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "LA నైట్ రైడర్స్ కాలిఫోర్నియాలోని పోమోనాలోని సొంత వేదికలో MLC 2026 మ్యాచ్‌లను ఆడనుంది",
+      "summary_te": "ఇంతకు ముందు ఏ MLC జట్టుకు సొంత వేదిక లేదు మరియు 2028లో లాస్ ఏంజిల్స్‌లో జరిగే ఒలింపిక్ క్రీడలకు క్రికెట్‌ను తిరిగి ప్రవేశపెట్టడానికి సన్నాహాలు జరుగుతున్నప్పుడు కూడా ఈ నవీకరణ వస్తుంది.",
+      "translated": true
+    },
     {
       "id": "b8947e2436ed796fdfe52812ede7b54d",
       "title": "Molineux set to return but full all-round role remains uncertain",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "వచ్చే వారం నిజమైన పోటీకి ముందు విక్టోరియా, దక్షిణ ఆస్ట్రేలియా డ్రాగా ఆడాయి",
       "summary_te": "షెఫీల్డ్ షీల్డ్ టైటిల్‌ను నిర్ణయించేందుకు ఇరు జట్లు మార్చి 26 నుంచి ఇదే వేదికపై మరోసారి సమావేశం కానున్నాయి",
-      "translated": true
-    },
-    {
-      "id": "c436395d97f86728b6c51165ea6ad14a",
-      "title": "Calf injury rules van Niekerk out of New Zealand tour",
-      "summary": "Jordan Hermann is also out of the South Africa men's tour of New Zealand with a hamstring injury; Anneke Bosch comes in as Dane van Niekerk's replacement",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528142.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/410600/410664.jpg",
-      "published_at": "2026-03-17T03:10:12.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "దూడ గాయం కారణంగా వాన్ నీకెర్క్ న్యూజిలాండ్ పర్యటన నుండి నిష్క్రమించాడు",
-      "summary_te": "జోర్డాన్ హెర్మాన్ కూడా న్యూజిలాండ్‌లో దక్షిణాఫ్రికా పురుషుల పర్యటనలో స్నాయువు గాయంతో నిష్క్రమించాడు; డేన్ వాన్ నీకెర్క్ స్థానంలో అన్నేకే బాష్ వచ్చారు",
-      "translated": true
-    },
-    {
-      "id": "6abcd48151cb57c0fcbc2a48458f8051",
-      "title": "Sutherland's absence means T20 batting role remains uncertain",
-      "summary": "Australia's three-match series in West Indies is crucial in the build-up to the T20 World Cup later this year",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528134.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413847.jpg",
-      "published_at": "2026-03-17T02:55:21.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సదర్లాండ్ లేకపోవడం వల్ల T20 బ్యాటింగ్ పాత్ర అనిశ్చితంగానే ఉంది",
-      "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌లో వెస్టిండీస్‌లో ఆస్ట్రేలియా మూడు మ్యాచ్‌ల సిరీస్ కీలకం",
       "translated": true
     }
   ]
