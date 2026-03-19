@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-19T15:01:12.661Z",
-  "updated_at_IST": "19/3/2026, 8:31:12 pm",
+  "updated_at": "2026-03-19T15:52:37.736Z",
+  "updated_at_IST": "19/3/2026, 9:22:37 pm",
   "category": "sports",
   "count": 25,
   "articles": [
@@ -10,12 +10,26 @@
       "summary": "Curran moved from CSK to RR last November via a trade",
       "url": "https://www.espncricinfo.com/ci/content/story/1528130.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413266.jpg",
-      "published_at": "2026-03-19T14:39:08.000Z",
+      "published_at": "2026-03-19T15:13:19.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "అనుమానాస్పద గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
       "summary_te": "కుర్రాన్ గత నవంబర్‌లో ట్రేడ్ ద్వారా CSK నుండి RRకి మారారు",
+      "translated": true
+    },
+    {
+      "id": "89a12003b98053e16b9418f97648bbf9",
+      "title": "Ferguson to miss early part of IPL 2026, committed to keep playing for New Zealand",
+      "summary": "The fast bowler plans to link up with Punjab Kings for the latter stages of the IPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528413.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398600/398656.jpg",
+      "published_at": "2026-03-19T15:06:30.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఫెర్గూసన్ IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతాడు, న్యూజిలాండ్ కోసం ఆడటం కొనసాగించడానికి కట్టుబడి ఉన్నాడు",
+      "summary_te": "ఫాస్ట్ బౌలర్ IPL యొక్క చివరి దశల కోసం పంజాబ్ కింగ్స్‌తో జతకట్టాలని యోచిస్తున్నాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "డెవాన్ కాన్వే, బౌలర్లు న్యూజిలాండ్‌ను 1-1తో సమం చేశారు",
       "summary_te": "బెన్ సియర్స్ మరియు లాకీ ఫెర్గూసన్ NZ కోసం శీఘ్ర బౌలింగ్‌లో చురుకైన ప్రదర్శనలో వారి మధ్య ఆరు వికెట్లు తీశారు.",
-      "translated": true
-    },
-    {
-      "id": "6c92f85c2c9b7c246cf0db7c9afed5b4",
-      "title": "Western Australia cling on nine down as Shipperd denied farewell NSW victory",
-      "summary": "A late surge from Liam Hatcher and Sean Abbott blew the game open but the home side couldn't quite claim the final wicket",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528146.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414751.jpg",
-      "published_at": "2026-03-17T08:35:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "షిప్పర్డ్ వీడ్కోలు NSW విజయాన్ని తిరస్కరించడంతో వెస్ట్రన్ ఆస్ట్రేలియా తొమ్మిదిని అంటిపెట్టుకుని ఉంది",
-      "summary_te": "లియామ్ హాట్చర్ మరియు సీన్ అబాట్ నుండి ఆలస్యంగా ఉప్పెనలా గేమ్‌ను ప్రారంభించింది, అయితే ఆతిథ్య జట్టు చివరి వికెట్‌ను క్లెయిమ్ చేయలేకపోయింది.",
       "translated": true
     }
   ]
