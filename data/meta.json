@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-19T03:55:03.427Z",
-  "last_updated_IST": "19/3/2026, 9:25:03 am",
-  "total_articles": 399,
+  "last_updated": "2026-03-19T05:32:18.713Z",
+  "last_updated_IST": "19/3/2026, 11:02:18 am",
+  "total_articles": 395,
   "categories": [
     "india",
     "tech",
@@ -11,15 +11,16 @@
     "telangana"
   ],
   "sources": [
-    "NDTV",
-    "Times of India",
-    "India Today",
     "The Hindu",
     "Dev.to",
-    "Hindustan Times",
     "LiveMint",
-    "NDTV India",
+    "India Today",
+    "Wired",
     "Economic Times",
+    "Hindustan Times",
+    "NDTV India",
+    "Times of India",
+    "NDTV",
     "Inc42",
     "ZDNet",
     "YourStory",
@@ -28,7 +29,6 @@
     "The Hindu AP",
     "The Hindu Telangana",
     "The Verge",
-    "Wired",
     "Moneycontrol"
   ],
   "feeds_count": 25,
