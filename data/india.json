@@ -1,21 +1,357 @@
 {
-  "updated_at": "2026-03-19T18:50:50.956Z",
-  "updated_at_IST": "20/3/2026, 12:20:50 am",
+  "updated_at": "2026-03-19T19:51:55.087Z",
+  "updated_at_IST": "20/3/2026, 1:21:55 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "c6e5d008874c77bc7dc981e6f458ef5c",
+      "title": "Kodandarama rides the lion, sits under pearl-studded canopy",
+      "summary": "The third day of the nine-day annual Brahmotsavam at Sri Kodandarama Swamy temple saw Lord Rama majestically seated on a lion and under a pearl-studded canopy, during the Simha Vahanam and Muthyapu Pandiri Vahanam processions conducted in the morning and evening respectively.The temple was teeming with devotees jostling to take a glance of the Simha Vahanam procession. ‘Snapana Tirumanjanam’ was performed later, in which the idols of Rama, Sita and Lakshmana were given a celestial ablution with milk, curd, honey, coconut water, turmeric and sandalwood.As the pearls in the Muthyapu Pandiri glittered in an off-white shade under the focus lights, the devotees chanted “Govinda Govinda” as the procession passed through the four Mada streets encircling the temple.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kodandarama-rides-the-lion-sits-under-pearl-studded-canopy/article70762438.ece",
+      "image": "https://th-i.thgim.com/public/incoming/459p9s/article70762643.ece/alternates/LANDSCAPE_1200/10745_19_3_2026_20_11_42_1_IMG_20260319_WA0096.JPG",
+      "published_at": "2026-03-19T19:35:36.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కోదండరాముడు సింహాన్ని ఎక్కాడు, ముత్యాలు పొదిగిన పందిరి క్రింద కూర్చున్నాడు",
+      "summary_te": "శ్రీ కోదండరామ స్వామి ఆలయంలో తొమ్మిది రోజుల వార్షిక బ్రహ్మోత్సవాలలో మూడవ రోజు ఉదయం మరియు సాయంత్రం వరుసగా నిర్వహించిన సింహవాహనం మరియు ముత్యపు పందిరి వాహనం ఊరేగింపులో సింహవాహనంపై మరియు ముత్యాలు పొదిగిన పందిరి క్రింద శ్రీరాముడు గంభీరంగా ఆసీనుడై ఉన్నాడు. అనంతరం ‘స్నపన తిరుమంజనం’ నిర్వహించి, అందులో రామ, సీత, లక్ష్మణ విగ్రహాలకు పాలు, పెరుగు, తేనె, కొబ్బరినీళ్లు, పసుపు, గంధం కలిపి దివ్యక్షేత్రం చేశారు. ఆలయాన్ని చుట్టుముట్టే వీధులు.",
+      "translated": true
+    },
+    {
+      "id": "0ed6113b20059b937cb169c9d627deaa",
+      "title": "Ahmedabad Crime Branch busts fake currency racket, 7 arrested",
+      "summary": "Ahmedabad Crime Branch busts fake currency racket, 7 arrested",
+      "url": " https://www.indiatoday.in/india/story/ahmedabad-crime-branch-busts-fake-currency-racket-seizes-rs-238-crore-7-arrested-2884457-2026-03-20?utm_source=rss ",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/the-ahmedabad-crime-branch-has-busted-a-major-fake-currency-racket-192628458-16x9_0.png?VersionId=sx7HSz.81AsHLSe1rdIQ3Xa0nEB4bmMp",
+      "published_at": "2026-03-19T19:32:37.000Z",
+      "source": "India Today",
+      "category": "india",
+      "language": "en",
+      "title_te": "అహ్మదాబాద్ క్రైమ్ బ్రాంచ్ నకిలీ కరెన్సీ రాకెట్‌ను ఛేదించింది, 7 మందిని అరెస్టు చేశారు",
+      "summary_te": "అహ్మదాబాద్ క్రైమ్ బ్రాంచ్ నకిలీ కరెన్సీ రాకెట్‌ను ఛేదించింది, 7 మందిని అరెస్టు చేశారు",
+      "translated": true
+    },
+    {
+      "id": "1b09efeab6b9cd2e17f44b8e619fd830",
+      "title": "‘Family first’ in BJP list of bypoll candidates in Nagaland, Tripura",
+      "summary": "The party’s candidate for the Koridang seat in Nagaland is the son of the deceased MLA, while his counterpart in Tripura’s Dharmanagar is the son-in-law of a former contestant",
+      "url": "https://www.thehindu.com/news/national/bjp-candidates-for-bypolls-in-nagaland-tripura/article70760621.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5fhhog/article70760628.ece/alternates/LANDSCAPE_1200/_KMK8356.JPG",
+      "published_at": "2026-03-19T19:24:34.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "నాగాలాండ్, త్రిపురలో ఉపఎన్నికల అభ్యర్థుల బీజేపీ జాబితాలో ‘కుటుంబమే ప్రథమం’",
+      "summary_te": "నాగాలాండ్‌లోని కోరిడాంగ్ స్థానానికి పార్టీ అభ్యర్థి మరణించిన ఎమ్మెల్యే కుమారుడు కాగా, త్రిపురలోని ధర్మనగర్‌లో అతని కౌంటర్ మాజీ పోటీదారుకి అల్లుడు.",
+      "translated": true
+    },
+    {
+      "id": "57dc0e7c98cde01665a55896175007e1",
+      "title": "Thoothukudi Class XII girl murder: police arrest 38-year-old man, say he was arrested for similar offence in 2022",
+      "summary": "The 17-year-old girl reportedly went missing on the evening of March 10 after she went to a nearby scrub jungle area",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/thoothukudi-class-12-girl-murder-one-person-arrested/article70761087.ece",
+      "image": "https://th-i.thgim.com/public/incoming/sbenjp/article70762094.ece/alternates/LANDSCAPE_1200/9865_19_3_2026_18_9_49_1_DSC_7442.JPG",
+      "published_at": "2026-03-19T19:16:55.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "తూత్తుకుడి 12వ తరగతి బాలిక హత్య: 38 ఏళ్ల వ్యక్తిని పోలీసులు అరెస్ట్ చేశారు, 2022లో ఇలాంటి నేరానికి అరెస్టయ్యారని చెప్పారు.",
+      "summary_te": "17 ఏళ్ల బాలిక మార్చి 10 సాయంత్రం సమీపంలోని స్క్రబ్ జంగిల్ ప్రాంతానికి వెళ్లిన తర్వాత కనిపించకుండా పోయింది.",
+      "translated": true
+    },
+    {
+      "id": "5e680353b7b77c840df46b326cf7dfab",
+      "title": "Settipalle land plots allotted under e-dip",
+      "summary": "District Collector S. Venkateswar formally launched the e-dip lottery system on Thursday (March 19) for allotment of plots in Settipalle, the once-controversial land parcel on the outskirts of Tirupati.Of the total 2,111 beneficiaries, the first phase of allotment of 1,711 plots was done on Sankranti day, while the second phase for 337 plots was taken up on the auspicious Ugadi day.Settipalle, declared as an Inam estate village u/s 1(4) of the A.P. Estate (Abolition & Conversion into Ryotwari) Act 1948, was taken over by the government in 1979. As the enjoyers of these lands represented to the Collector and the CMO in 2017 seeking issue of pattas, as they were under their enjoyment since the time of their ancestors, the district administration decided to conduct enjoyment survey.Aiming to address the decades-old clamour, the government came up with a land sharing pattern of 30% for agricultural lands and 50% for house sites, excluding the common area, with Tirupati Urban Development Authority (TUDA) as the executing agency.TUDA Chairman C. Divakar Reddy said the Settipalle village would be transformed into a planned model township benefitting the long-time settlers. Infrastructure facilities like water, sewage, electricity, roads and street lights would be taken up by TUDA by monetising 65 acres. The State government has waived off registration fee for these sites, said Tirupati MLA Arani Srinivasulu.The Collector said registration of sites would be taken up shortly in coordination with TUDA and revenue officials.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/settipalle-land-plots-allotted-under-e-dip/article70762360.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ybd5u/article70762676.ece/alternates/LANDSCAPE_1200/10745_19_3_2026_19_0_52_1_IMG_20260319_WA0078.JPG",
+      "published_at": "2026-03-19T19:08:10.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "సెట్టిపల్లె భూములను ఈ-డిప్ కింద కేటాయించారు",
+      "summary_te": "తిరుపతి శివార్లలో ఒకప్పుడు వివాదాస్పద ల్యాండ్ పార్శిల్ సెట్టిపల్లెలో ప్లాట్ల కేటాయింపు కోసం జిల్లా కలెక్టర్ ఎస్. వెంకటేశ్వర్లు గురువారం (మార్చి 19) ఇ-డిప్ లాటరీ విధానాన్ని లాంఛనంగా ప్రారంభించారు.మొత్తం 2,111 మంది లబ్ధిదారులలో, మొదటి దశ 1,711 ప్లాట్ల కేటాయింపు రెండవ దశ 3వ తేదీ 3వ తేదీన జరిగింది. పవిత్రమైన ఉగాది రోజున ప్లాట్లు చేపట్టబడ్డాయి. A.P. ఎస్టేట్ (అబాలిషన్ & రియోత్వారిలోకి మార్చడం) చట్టం 1948లో ఇనామ్ ఎస్టేట్ గ్రామం u/s 1(4)గా ప్రకటించబడిన సెట్టిపల్లె, 1979లో ప్రభుత్వంచే స్వాధీనం చేసుకుంది. ఈ భూములను అనుభవిస్తున్నవారుగా వారు కలెక్టర్ 20కి ప్రాతినిధ్యం వహించాలని కోరుతూ 20వ కలెక్టర్‌కి ప్రాతినిధ్యం వహించారు. తమ పూర్వీకుల కాలం నుంచి ఎంజాయ్‌మెంట్‌ సర్వే నిర్వహించాలని జిల్లా యంత్రాంగం నిర్ణయించింది.దశాబ్దాల నాటి అలజడిని పరిష్కరించడానికి ప్రభుత్వం వ్యవసాయ భూములకు 30%, ఇంటి స్థలాలకు 50% భూమిని పంచుకునే విధానాన్ని రూపొందించింది, సాధారణ ప్రాంతం మినహాయించి, తిరుపతి అర్బన్ డెవలప్‌మెంట్ అథారిటీ (తుడా) కార్యనిర్వహణాధికారి సీటీపాల్ రెడ్డి తెలిపారు. దీర్ఘకాలంగా స్థిరపడిన వారికి ప్రయోజనం చేకూర్చే ప్రణాళికాబద్ధమైన మోడల్ టౌన్‌షిప్‌గా మార్చబడుతుంది. 65 ఎకరాల్లో తుడా ద్వారా నీరు, మురుగునీరు, విద్యుత్తు, రోడ్లు మరియు వీధి దీపాలు వంటి మౌలిక సదుపాయాలు కల్పించబడతాయి. రాష్ట్ర ప్రభుత్వం ఈ సైట్‌ల రిజిస్ట్రేషన్ ఫీజును మినహాయించిందని తిరుపతి ఎమ్మెల్యే ఆరణి శ్రీనివాసులు తెలిపారు. తుడా మరియు రెవెన్యూ అధికారుల సమన్వయంతో త్వరలో సైట్‌ల రిజిస్ట్రేషన్‌ను చేపట్టనున్నట్లు కలెక్టర్ తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "43d679115f3a966a145749dab32b8e8f",
+      "title": "Book offering behind-the-scenes glimpse of political strategy launched",
+      "summary": "Speaking at the launch event, Minister Palanivel Thiaga Rajan says the book distills the author’s experiences, covering a wide range of scenarios with clarity and will serve as a learning curve for anyone entering politics or campaign-related fields",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/book-offering-behind-the-scenes-glimpse-of-political-strategy-launched/article70762195.ece",
+      "image": "https://th-i.thgim.com/public/incoming/4qaxyi/article70763171.ece/alternates/LANDSCAPE_1200/4871_19_3_2026_19_13_27_1_DSC_3949.JPG",
+      "published_at": "2026-03-19T19:08:08.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాజకీయ వ్యూహం యొక్క తెరవెనుక సంగ్రహావలోకనం పుస్తక సమర్పణ ప్రారంభించబడింది",
+      "summary_te": "ఆవిష్కరణ కార్యక్రమంలో మంత్రి పళనివేల్ త్యాగ రాజన్ మాట్లాడుతూ, ఈ పుస్తకం రచయిత యొక్క అనుభవాలను, స్పష్టతతో విస్తృత శ్రేణి దృశ్యాలను కవర్ చేస్తుందని మరియు రాజకీయాలు లేదా ప్రచార సంబంధిత రంగాలలోకి ప్రవేశించే ప్రతి ఒక్కరికీ నేర్చుకునే వక్రమార్గంగా ఉపయోగపడుతుందని చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "4b4fb2230bb36397538d5dc0e64c371d",
+      "title": "Outdoor Stadium in Kurnool to be developed with more infrastructure",
+      "summary": "Minister for Industries and Commerce T.G. Bharath said they are developing the Outdoor Stadium in the city with best available infrastructure. Mr. Bharath on Thursday laid the foundation for a synthetic walking track, and construction of pickle ball and volleyball courts with high-quality synthetic floors at a cost of ₹2.5 crore in the Outdoor Stadium. Speaking on the occasion, Mr. Bharath said he used to play at the Outdoor Stadium and had now taken up development of the stadium. These development works will be completed in three months, he said.Mr. Bharath said they are developing three sporting facilities with international standards at the Outdoor Stadium to hone the skills of the local sportspersons. He said that while the previous government neglected development of sports and its infrastructure, the NDA government under the visionary leadership of Chief Minister N. Chandrababu Naidu is making all-out efforts to develop sports in the State.Mr. Bharath added that the stadium, being constructed by Greenko at TIDCO housing complex, will be completed soon and another stadium is being constructed at the Summer Storage Tank. He said they are taking the support of Vijayawada MP Kesineni Shivnath, who is also the Andhra Cricket Assocation president, for the construction of stadia in Kurnool.Kurnool MP Bastipati Nagaraju said he would give ₹15 lakhs from his MPLADS funds to develop grass in the stadium. He said they have plans to construct the High Court Bench on 10 acres of the 67 acres available at C-Camp, a new Collectorate, a park and other development works at the same place. He said they have received the approval from Mr. Chandrababu Naidu to take up the works and a IAS officer is likely to be appointed to oversee the works.Kurnool Urban Development Authority (KUDA) Chairperson Somisetty Venkateswarlu lauded Mr. Bharath for developing the district.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/outdoor-stadium-in-kurnool-to-be-developed-with-more-infrastructure/article70762586.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-19T19:08:04.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కర్నూలులోని అవుట్‌డోర్‌ స్టేడియంను మరిన్ని మౌలిక సదుపాయాలతో అభివృద్ధి చేస్తాం",
+      "summary_te": "పరిశ్రమలు, వాణిజ్య శాఖ మంత్రి టి.జి. నగరంలోని అవుట్‌డోర్ స్టేడియంను అత్యుత్తమ మౌలిక సదుపాయాలతో అభివృద్ధి చేస్తున్నామని భరత్ చెప్పారు. శ్రీ భరత్ గురువారం ఔట్‌డోర్ స్టేడియంలో ₹2.5 కోట్ల వ్యయంతో సింథటిక్ వాకింగ్ ట్రాక్, మరియు పికిల్ బాల్ మరియు వాలీబాల్ కోర్ట్‌ల నిర్మాణానికి శంకుస్థాపన చేశారు. ఈ సందర్భంగా భరత్ మాట్లాడుతూ.. తాను ఔట్‌డోర్‌ స్టేడియంలో ఆడుకునేవాడినని, ఇప్పుడు స్టేడియం అభివృద్ధికి శ్రీకారం చుట్టానని చెప్పారు. ఈ అభివృద్ధి పనులు మూడు నెలల్లో పూర్తవుతాయని తెలిపారు. స్థానిక క్రీడాకారుల నైపుణ్యాలను మెరుగుపరిచేందుకు ఔట్‌డోర్ స్టేడియంలో అంతర్జాతీయ ప్రమాణాలతో మూడు క్రీడా సౌకర్యాలను అభివృద్ధి చేస్తున్నామని భరత్ తెలిపారు. గత ప్రభుత్వం క్రీడలు, మౌలిక సదుపాయాల అభివృద్ధిని విస్మరిస్తే, ముఖ్యమంత్రి ఎన్. చంద్రబాబు నాయుడు దార్శనికతతో కూడిన ఎన్‌డిఎ ప్రభుత్వం రాష్ట్రంలో క్రీడల అభివృద్ధికి అన్ని విధాలా కృషి చేస్తోందని అన్నారు. టిడ్కో హౌసింగ్ కాంప్లెక్స్ వద్ద గ్రీన్‌కో సంస్థ నిర్మిస్తున్న స్టేడియం త్వరలో పూర్తవుతుందని, సమ్మర్ స్టోరేజీ ట్యాంక్ వద్ద మరో స్టేడియాన్ని నిర్మిస్తున్నామని భరత్ తెలిపారు. కర్నూలులో స్టేడియం నిర్మాణానికి ఆంధ్రా క్రికెట్‌ అసోకేషన్‌ ప్రెసిడెంట్‌గా ఉన్న విజయవాడ ఎంపీ కేశినేని శివనాథ్‌ సహకారం తీసుకుంటున్నామని చెప్పారు. స్టేడియంలో గడ్డి అభివృద్ధి చేసేందుకు కర్నూలు ఎంపీ బస్తిపాటి నాగరాజు ఎంపీలాడ్స్‌ నిధుల నుంచి ₹15 లక్షలు ఇస్తానని చెప్పారు. సి-క్యాంపులో ఉన్న 67 ఎకరాల్లో 10 ఎకరాల్లో హైకోర్టు బెంచ్, అదే స్థలంలో కొత్త కలెక్టరేట్, పార్కు, ఇతర అభివృద్ధి పనులకు ప్రణాళికలు సిద్ధం చేశామన్నారు. పనులు చేపట్టేందుకు చంద్రబాబు నాయుడు నుంచి ఆమోదం లభించిందని, పనుల పర్యవేక్షణకు ఐఏఎస్‌ అధికారిని నియమించే అవకాశం ఉందని చెప్పారు. జిల్లాను అభివృద్ధి చేస్తున్న భరత్‌ని కర్నూలు అర్బన్‌ డెవలప్‌మెంట్‌ అథారిటీ (కుడా) చైర్‌పర్సన్‌ సోమిశెట్టి వెంకటేశ్వర్లు అభినందించారు.",
+      "translated": true
+    },
+    {
+      "id": "13ba70e85644fdb74209ee85f0f6b56f",
+      "title": "Grand Ugadi celebrations organised in Andhra",
+      "summary": "In the evening, Radhotsavam was held for the processional idols of Sri Bhramaramba Mallikarjuna Swamy on the streets of the temple town",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/grand-ugadi-celebrations-organised-in-andhra/article70762268.ece",
+      "image": "https://th-i.thgim.com/public/incoming/6b9kmt/article70762585.ece/alternates/LANDSCAPE_1200/10745_19_3_2026_19_39_28_3_IMG_20260319_WA0093.JPG",
+      "published_at": "2026-03-19T19:08:03.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఆంధ్రాలో ఘనంగా ఉగాది వేడుకలు నిర్వహించారు",
+      "summary_te": "సాయంత్రం ఆలయ పట్టణ వీధుల్లో ఊరేగిన శ్రీ భ్రమరాంబ మల్లికార్జున స్వామి విగ్రహాలకు రధోత్సవం నిర్వహించారు.",
+      "translated": true
+    },
+    {
+      "id": "d716155dbabca9c4212a1e6c2b02b2ce",
+      "title": "Horticulture farm at Chengalpattu begins production of herbal tea",
+      "summary": "",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/horticulture-farm-at-chengalpattu-begins-production-of-herbal-tea/article70762646.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/2d6nju/article70763161.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-19%20at%2023.53.42.jpeg",
+      "published_at": "2026-03-19T18:58:06.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "చెంగల్పట్టు వద్ద హార్టికల్చర్ ఫారం హెర్బల్ టీ ఉత్పత్తిని ప్రారంభించింది",
+      "summary_te": "",
+      "translated": true
+    },
+    {
+      "id": "f955fbb884d1707cd150dae2972ce145",
+      "title": "Palaniswami meets Shah in Delhi to discuss sharing of seats",
+      "summary": "Dhinakaran and Anbumani also expected to go to the national capital",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/palaniswami-meets-shah-in-delhi-to-discuss-sharing-of-seats/article70762734.ece",
+      "image": "https://th-i.thgim.com/public/incoming/z44h7p/article70762953.ece/alternates/LANDSCAPE_1200/AMIT_SHAH_WITH_EDAPAADI_PALANISWAMI_1.jpg",
+      "published_at": "2026-03-19T18:58:04.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "సీట్ల పంపకాలపై చర్చించేందుకు పళనిస్వామి ఢిల్లీలో షాతో భేటీ అయ్యారు",
+      "summary_te": "దినకరన్, అన్బుమణి కూడా దేశ రాజధానికి వెళ్లాలని భావించారు",
+      "translated": true
+    },
+    {
+      "id": "d943e421696c0705761e257f02c29409",
+      "title": "High drama in Kannur as protests staged for Sudhakaran’s candidature",
+      "summary": "The day-long drama over K. Sudhakaran’s candidature from Kannur triggered tension even as reports emerged that former Kannur Mayor T.O. Mohanan was being considered for the seat.Since early in the day, a large number of party workers gathered outside the District Congress Committee office, raising slogans in favour of Mr. Sudhakaran and warning that they would not cooperate with the party if he was denied a ticket.The protest briefly turned into celebrations after reports surfaced that the All India Congress Committee (AICC) might concede the demand and allot the seat to Mr. Sudhakaran. His supporters distributed sweets and raised slogans, though the AlCC did not take a final decision till evening.The protesting party workers alleged that the shortlisting of Mr. Mohanan despite a Vigilance probe against him was unacceptable.Congress worker Shibu Fernandez said fielding Mr. Sudhakaran was the “wish of party workers and the public.” He claimed that the senior leader had been promised the seat, and that the leadership should honour the commitment.However, the developments triggered mixed reactions within the district unit. While Mr. Sudhakaran’s supporters celebrated reports favouring him, a section of party workers expressed dissatisfaction, alleging that the prolonged uncertainty had demoralised the cadre.Meanwhile, the party leadership has begun efforts to restore unity in the district unit.",
+      "url": "https://www.thehindu.com/news/national/kerala/high-drama-in-kannur-as-protests-staged-for-sudhakarans-candidature/article70762451.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-19T18:58:02.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "సుధాకరన్ అభ్యర్థిత్వానికి నిరసనగా కన్నూర్‌లో హై డ్రామా",
+      "summary_te": "కన్నూర్ నుండి కె. సుధాకరన్ అభ్యర్థిత్వంపై రోజంతా జరిగిన డ్రామా ఉద్రిక్తతకు దారితీసింది, అయితే కన్నూర్ మాజీ మేయర్ టి.ఓ. మోహనన్‌ను సీటు కోసం పరిశీలిస్తున్నారు.రోజు ఉదయం నుంచి జిల్లా కాంగ్రెస్ కమిటీ కార్యాలయం వెలుపల పెద్ద సంఖ్యలో పార్టీ కార్యకర్తలు గుమిగూడి, సుధాకరన్‌కు అనుకూలంగా నినాదాలు చేస్తూ, టికెట్ నిరాకరించినట్లయితే పార్టీకి సహకరించేది లేదని హెచ్చరించారు. సాయంత్రం వరకు AlCC తుది నిర్ణయం తీసుకోనప్పటికీ, అతని మద్దతుదారులు స్వీట్లు పంచిపెట్టి నినాదాలు చేశారు. మోహనన్‌పై విజిలెన్స్ విచారణ జరిగినప్పటికీ శ్రీ మోహనన్‌ను షార్ట్‌లిస్ట్ చేయడం ఆమోదయోగ్యం కాదని నిరసన తెలిపిన పార్టీ కార్యకర్తలు ఆరోపించారు. శ్రీ సుధాకరన్‌ను రంగంలోకి దించడం “పార్టీ కార్యకర్తలు మరియు ప్రజల కోరిక” అని కాంగ్రెస్ కార్యకర్త శిబు ఫెర్నాండెజ్ అన్నారు. సీనియ‌ర్ నేత‌కు సీటు ఇప్పిస్తామ‌ని హామీ ఇచ్చార‌ని, ఆ నిబద్ధతను అధిష్టానం గౌర‌వించాల‌ని ఆయ‌న పేర్కొన్నారు. సుధాకరన్ మద్దతుదారులు ఆయనకు అనుకూలమైన నివేదికలను సంబరాలు చేసుకుంటుండగా, పార్టీ కార్యకర్తలు అసంతృప్తిని వ్యక్తం చేశారు, సుదీర్ఘ అనిశ్చితి క్యాడర్‌ను నిరుత్సాహపరిచిందని ఆరోపించింది. అదే సమయంలో, పార్టీ నాయకత్వం జిల్లా యూనిట్‌లో ఐక్యతను పునరుద్ధరించడానికి ప్రయత్నాలు ప్రారంభించింది.",
+      "translated": true
+    },
+    {
+      "id": "51c9d349b5680918bd76d0362727594a",
+      "title": "Tamil Nadu Assembly election: CPI (M) unrelenting in demand for six seats, stalemate in talks with DMK continues",
+      "summary": "The DMK’s argument is that it cannot part with more seats as it has accommodated additional parties in the alliance and has already given three more seats to the Congress.",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/cpi-m-unrelenting-in-demand-for-six-seats-stalemate-in-talks-with-dmk-continues/article70761938.ece",
+      "image": "https://th-i.thgim.com/public/incoming/huuhjt/article70761966.ece/alternates/LANDSCAPE_1200/CPIM%2024th%20party%20congress%20%202.jpg",
+      "published_at": "2026-03-19T18:48:09.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "తమిళనాడు అసెంబ్లీ ఎన్నికలు: సీపీఐ (ఎం) ఆరు సీట్ల డిమాండ్‌ను వదులుకోలేదు, డీఎంకేతో చర్చల్లో ప్రతిష్టంభన కొనసాగుతోంది.",
+      "summary_te": "కూటమిలో అదనపు పార్టీలకు స్థానం కల్పించి, ఇప్పటికే కాంగ్రెస్‌కు మరో మూడు సీట్లు ఇచ్చినందున ఎక్కువ సీట్లతో విడిపోలేమని డీఎంకే వాదన.",
+      "translated": true
+    },
+    {
+      "id": "a4cacbdcdf7360e2dbcaa3699d3ea93d",
+      "title": "T.N. Assembly’s annual sitting days declined from 64 in the first term to 32 in the 16th: PRS study",
+      "summary": "According to an analysis by PRS Legislative Research, the 16th Assembly, whose tenure began on May 11, 2021, and is set to conclude on May 10, 2026, met for only 155 days, the lowest for a full-term Assembly since 1952",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-assemblys-annual-sitting-days-declined-from-64-in-the-first-term-to-32-in-the-16th-prs-study/article70762592.ece",
+      "image": null,
+      "published_at": "2026-03-19T18:48:05.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "టి.ఎన్. అసెంబ్లీ వార్షిక సమావేశాలు మొదటి టర్మ్‌లో 64 నుండి 16వ తేదీకి 32కి తగ్గాయి: PRS అధ్యయనం",
+      "summary_te": "PRS లెజిస్లేటివ్ రీసెర్చ్ విశ్లేషణ ప్రకారం, 16వ అసెంబ్లీ, దీని పదవీకాలం మే 11, 2021న ప్రారంభమై, మే 10, 2026న ముగియనుంది, ఇది 1952 తర్వాత పూర్తికాల అసెంబ్లీకి అత్యల్పంగా 155 రోజులు మాత్రమే సమావేశమైంది.",
+      "translated": true
+    },
+    {
+      "id": "ef12dcfd9cc4970114d79e2352cb8971",
+      "title": "Trikaripur not a Left bastion, says Sandeep Varier",
+      "summary": "United Democratic Front (UDF) candidate Sandeep Varier on Thursday (March 19) asserted that Trikaripur was no longer a stronghold of the Left Democratic Front (LDF), expressing confidence that the constituency would witness a historic political shift in the upcoming Assembly elections.Mr. Varier, who received a rousing reception in the constituency, said the electoral battle in Trikaripur would be intense and hinted at a surprise outcome, describing the situation as a “Vadakara moment”, a reference to an unexpected political turnaround.He maintained that although Trikaripur had long been considered a Left bastion, the political climate had undergone significant change. “No fortress is permanent in a democracy. If the people decide, any strong fortress can fall,” he said.Dismissing reports of internal dissent, Mr. Varier said the UDF was united. “Team UDF is working as one. All constituent parties are moving forward together, and there is strong enthusiasm among workers,” he added.He said the campaign would intensify in the coming days, with a focus on local issues such as lack of development, unemployment, and other regional concerns. The support of youth and first-time voters would be crucial in determining the outcome, he noted.Alleging “misrule” by the LDF over the past decade, Mr. Varier said the large turnout at his reception reflected the growing public support and indicated the possibility of the UDF winning the seat.With Mr. Varier’s entry, Trikaripur is expected to witness a keen triangular contest this time, with UDF leaders expressing confidence that a new political chapter would be written in the constituency.",
+      "url": "https://www.thehindu.com/news/national/kerala/trikaripur-not-a-left-bastion-says-sandeep-varier/article70761977.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-19T18:48:02.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "త్రికరిపూర్ వామపక్షాల కంచుకోట కాదని సందీప్ వారియర్ అన్నారు",
+      "summary_te": "యునైటెడ్ డెమోక్రటిక్ ఫ్రంట్ (UDF) అభ్యర్థి సందీప్ వారియర్ గురువారం (మార్చి 19) త్రికరిపూర్ ఇకపై లెఫ్ట్ డెమోక్రటిక్ ఫ్రంట్ (LDF) యొక్క బలమైన కోట కాదని, రాబోయే అసెంబ్లీ ఎన్నికలలో నియోజకవర్గం చారిత్రక రాజకీయ మార్పును చూస్తుందని విశ్వాసం వ్యక్తం చేశారు. Mr. నియోజకవర్గంలో అపూర్వ ఆదరణ పొందిన వారియర్, త్రికరిపూర్‌లో ఎన్నికల పోరు ఉధృతంగా ఉంటుందని, అనూహ్య రాజకీయ పరిణామానికి సూచనగా పరిస్థితిని \"వడకర క్షణాలు\"గా అభివర్ణిస్తూ ఆశ్చర్యకరమైన ఫలితం వస్తుందని అన్నారు. \"ప్రజాస్వామ్యంలో ఏ కోట శాశ్వతం కాదు. ప్రజలు నిర్ణయిస్తే, ఏదైనా బలమైన కోట పడిపోవచ్చు,\" అని ఆయన అన్నారు. అంతర్గత అసమ్మతి నివేదికలను తోసిపుచ్చుతూ, మిస్టర్ వేరియర్ UDF ఐక్యంగా ఉందని అన్నారు. \"టీమ్ UDF ఒకటిగా పని చేస్తోంది. అన్ని భాగస్వామ్య పార్టీలు కలిసి ముందుకు సాగుతున్నాయి, మరియు కార్మికులలో బలమైన ఉత్సాహం ఉంది,\" అన్నారాయన. రాబోయే రోజుల్లో అభివృద్ధి లేమి, నిరుద్యోగం మరియు ఇతర ప్రాంతీయ సమస్యలపై దృష్టి సారించి ప్రచారం మరింత ఉధృతం అవుతుందని ఆయన అన్నారు. ఫలితాలను నిర్ణయించడంలో యువత మరియు మొదటిసారి ఓటర్ల మద్దతు కీలకం అని ఆయన పేర్కొన్నారు. గత దశాబ్దంలో ఎల్‌డిఎఫ్ \"దుష్పరిపాలన\" చేస్తోందని ఆరోపిస్తూ, తన రిసెప్షన్‌కు పెద్ద ఎత్తున హాజరైన ప్రజాభిమానాన్ని ప్రతిబింబిస్తూ యుడిఎఫ్ సీటును గెలుచుకునే అవకాశాన్ని సూచించిందని శ్రీ వారియర్ అన్నారు. నియోజకవర్గంలో కొత్త రాజకీయ అధ్యాయం లిఖించబడుతుందని విశ్వాసం వ్యక్తం చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "549b0928bb9f8b74cdf4ae5c3ea19e2e",
+      "title": "Iran creating corridor for safe exit of India-bound ships: Lloyds List",
+      "summary": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
+      "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
+      "image": "https://th-i.thgim.com/public/incoming/rhr91x/article70763062.ece/alternates/LANDSCAPE_1200/Emirates_Iran_War_43469.jpg",
+      "published_at": "2026-03-19T18:46:24.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారత్‌కు వెళ్లే నౌకలు సురక్షితంగా బయటకు వెళ్లేందుకు ఇరాన్ కారిడార్‌ను రూపొందిస్తోంది: లాయిడ్స్ జాబితా",
+      "summary_te": "హార్ముజ్ జలసంధిలోని ఇరాన్ కారిడార్ ద్వారా తొమ్మిది నౌకలు నిష్క్రమించాయని సముద్ర సమాచార సంస్థ నివేదించింది; మరోవైపు పశ్చిమాసియాలో పరిస్థితి మరింత తీవ్రరూపం దాల్చడంతో, ఇరాన్‌లోని అతిపెద్ద గ్యాస్ క్షేత్రాలపై ఇజ్రాయెల్ దాడులు చేసిన తర్వాత రెండు వారాలకు పైగా జలసంధిలో చిక్కుకున్న భారత నౌకలను ప్రస్తుతానికి 'ఉండాలని' కోరినట్లు భారతదేశంలోని విశ్వసనీయ వర్గాలు తెలిపాయి.",
+      "translated": true
+    },
+    {
+      "id": "857a96d4df2b90dfef89d41965044246",
+      "title": "Ground Report: Bhabanipur Weighs 'Bengal's Daughter' Versus Calls For Change",
+      "summary": "Often denoted as the \"mini-India\" of Kolkata, an amalgamation of Bengali and non-Bengali voters forms this Bhabanipur segment.",
+      "url": "https://www.ndtv.com/india-news/west-bengal-elections-2026-ground-report-bhabanipur-weighs-bengals-daughter-versus-calls-for-change-11240374#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/n42t0l1c_bhabanipur-mamata-banerjee-bengal-elections-2026_625x300_19_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-19T18:43:57.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "గ్రౌండ్ రిపోర్ట్: భబానీపూర్ 'బెంగాల్ డాటర్' వెయిస్ వర్సెస్ మార్పు కోసం పిలుపునిచ్చింది",
+      "summary_te": "కోల్‌కతా యొక్క \"మినీ-ఇండియా\"గా తరచుగా సూచించబడుతుంది, బెంగాలీ మరియు బెంగాలీయేతర ఓటర్ల కలయిక ఈ భబానీపూర్ సెగ్మెంట్‌ను ఏర్పరుస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "5570eb5e93fcd08247235a3943d923b1",
+      "title": "Received consular access plea for six Ukrainian nationals: MEA",
+      "summary": "Ministry of External Affairs says the Ukrainians and an American were found “wanting” of the required permits for visiting Mizoram",
+      "url": "https://www.thehindu.com/news/national/received-consular-access-plea-for-an-american-and-six-ukrainian-nationals-mea/article70762873.ece",
+      "image": "https://th-i.thgim.com/public/incoming/694f4b/article70763119.ece/alternates/LANDSCAPE_1200/20260319273L.jpg",
+      "published_at": "2026-03-19T18:41:39.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఆరుగురు ఉక్రేనియన్ జాతీయుల కోసం కాన్సులర్ యాక్సెస్ అభ్యర్థన స్వీకరించబడింది: MEA",
+      "summary_te": "ఉక్రేనియన్లు మరియు ఒక అమెరికన్ మిజోరాం సందర్శించడానికి అవసరమైన అనుమతులను \"కోరుకుంటున్నట్లు\" కనుగొనబడినట్లు విదేశీ వ్యవహారాల మంత్రిత్వ శాఖ తెలిపింది.",
+      "translated": true
+    },
+    {
+      "id": "bc4300469a647240dc3ac3474eeea547",
+      "title": "On Camera, Car Rams Bike In Gujarat's Vadodara, Biker Falls 10 Feet Away",
+      "summary": "Utilising viral mobile videos and CCTV footage from the shops, the police successfully tracked the vehicle and arrested the driver within hours.",
+      "url": "https://www.ndtv.com/india-news/on-camera-car-rams-bike-in-gujarats-vadodara-biker-falls-10-feet-away-11240390#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/jngoeeu8_vadodara_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-19T18:40:49.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "కెమెరాలో, గుజరాత్‌లోని వడోదరలో కారు ర్యామ్స్ బైక్, బైకర్ 10 అడుగుల దూరంలో పడిపోయింది",
+      "summary_te": "వైరల్ మొబైల్ వీడియోలు మరియు దుకాణాల నుండి CCTV ఫుటేజీని ఉపయోగించి, పోలీసులు విజయవంతంగా వాహనాన్ని ట్రాక్ చేసి, గంటల వ్యవధిలో డ్రైవర్‌ను అరెస్టు చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "572d2d9e45b4a37a588bf48a749a394d",
+      "title": "Kerala Assembly Elections 2026: Congress announces second list of 37 candidates",
+      "summary": "T.O. Mohanan has been fielded in the Kannur Assembly constituency, which was sought K. Sudhakaran, MP, and Satheesh Kochuparambil from the Konni constituency, which was sought by Adoor Prakash, MP",
+      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-congress-announces-second-list-of-37-candidates/article70763048.ece",
+      "image": null,
+      "published_at": "2026-03-19T18:40:17.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కేరళ అసెంబ్లీ ఎన్నికలు 2026: కాంగ్రెస్ 37 మంది అభ్యర్థులతో రెండో జాబితాను ప్రకటించింది",
+      "summary_te": "T.O. ఎంపి కె. సుధాకరన్‌ కోరిన కన్నూర్‌ అసెంబ్లీ నియోజకవర్గంలో మోహనన్‌, ఎంపి అదూర్‌ ప్రకాష్‌ కోరిన కొన్ని నియోజకవర్గం నుంచి సతీష్‌ కొచుపరంబిల్‌ అభ్యర్థించారు.",
+      "translated": true
+    },
     {
       "id": "a805ee70b97c0443888d82ba4bced8cd",
       "title": "Crescent moon not sighted; Id to be celebrated across India, except Kerala, on March 21",
       "summary": "Id will be celebrated in the country on Saturday (March 21, 2026), he said. However, the festival will be celebrated in Kerala on Friday (March 20, 2026)",
       "url": "https://www.thehindu.com/news/national/crescent-moon-not-sighted-id-to-be-celebrated-across-india-except-kerala-on-march-21/article70763108.ece",
       "image": "https://th-i.thgim.com/public/incoming/spjgwp/article70763148.ece/alternates/LANDSCAPE_1200/20260319437L.jpg",
-      "published_at": "2026-03-19T18:32:47.000Z",
+      "published_at": "2026-03-19T18:38:05.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
       "title_te": "నెలవంక కనిపించలేదు; మార్చి 21న కేరళ మినహా భారతదేశమంతటా ఈద్ జరుపుకుంటారు",
       "summary_te": "శనివారం (మార్చి 21, 2026) దేశంలో ఈద్ జరుపుకోనున్నట్లు ఆయన తెలిపారు. అయితే, కేరళలో శుక్రవారం (మార్చి 20, 2026) పండుగ జరుపుకుంటారు.",
+      "translated": true
+    },
+    {
+      "id": "509c6e0bdbdf6865524adc637e0122d9",
+      "title": "Centre should intervene to arrange travel facilities for expats, says Kerala CM",
+      "summary": "Pinarayi says it is most commendable that members of Loka Kerala Sabha and expatriate organisations in the Gulf countries are coming together to provide assistance to people in distress in this time of unrest",
+      "url": "https://www.thehindu.com/news/national/kerala/centre-should-intervene-to-arrange-travel-facilities-for-expats-says-kerala-cm/article70762997.ece",
+      "image": null,
+      "published_at": "2026-03-19T18:38:01.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రవాసులకు ప్రయాణ సౌకర్యాలు కల్పించేందుకు కేంద్రం జోక్యం చేసుకోవాలని కేరళ సీఎం అన్నారు",
+      "summary_te": "ఈ అశాంతి సమయంలో ఆపదలో ఉన్న ప్రజలను ఆదుకునేందుకు లోక కేరళ సభ సభ్యులు, గల్ఫ్ దేశాల్లోని ప్రవాస సంఘాలు కలిసి రావడం అభినందనీయమని పినరయి అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "26059cb2ca260cad4346e4d734c99f96",
+      "title": "Congress, Raijor Dal Finalise Assam Polls Alliance After Several Deadlocks",
+      "summary": "An MoU formalising the alliance between the two parties was signed on Thursday, marking a significant political development ahead of the 2026 Assembly polls.",
+      "url": "https://www.ndtv.com/india-news/congress-raijor-dal-finalise-assam-polls-alliance-after-several-deadlocks-11240382#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/ukogbic4_assam_625x300_20_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-19T18:37:53.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "కాంగ్రెస్, రైజోర్ దళ్ అనేక ప్రతిష్టంభనల తర్వాత అస్సాం ఎన్నికల పొత్తును ఖరారు చేశాయి",
+      "summary_te": "2026 అసెంబ్లీ ఎన్నికలకు ముందు ముఖ్యమైన రాజకీయ పరిణామాన్ని సూచిస్తూ రెండు పార్టీల మధ్య పొత్తును లాంఛనప్రాయంగా చేసే అవగాహన ఒప్పందం గురువారం సంతకం చేయబడింది.",
+      "translated": true
+    },
+    {
+      "id": "471593a77431c2817d0b0ad5710ea77f",
+      "title": "\"Crossed All Boundaries\": Mamata Banerjee To Poll Body On Officials' Transfer",
+      "summary": "In a strongly worded letter, her eighth to the CEC, Mamata Banerjee alleged that it had \"crossed all boundaries of decency and constitutional propriety\".",
+      "url": "https://www.ndtv.com/india-news/crossed-all-boundaries-mamata-banerjee-to-poll-body-on-officials-transfer-11240369#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/lgq17aco_mamata-banerjee-_625x300_19_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-19T18:33:02.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "\"అన్ని హద్దులు దాటింది\": అధికారుల బదిలీపై మమతా బెనర్జీ ఎన్నికలకు",
+      "summary_te": "సీఈసీకి రాసిన ఎనిమిదో లేఖలో మమతా బెనర్జీ \"మర్యాద మరియు రాజ్యాంగ ఔచిత్యం యొక్క అన్ని హద్దులు దాటిందని\" ఆరోపించారు.",
+      "translated": true
+    },
+    {
+      "id": "dd2d200441f11cb5331876e7e7fbf202",
+      "title": "New York-Mumbai Air India Flight Diverted To Saudi Arabia After Fire Indication",
+      "summary": "A Mumbai-bound Air India aircraft was diverted to Medina, Saudi Arabia, on Thursday afternoon following an aft cargo fire indication in the cockpit that turned out to be false.",
+      "url": "https://www.ndtv.com/india-news/new-york-mumbai-air-india-flight-diverted-to-saudi-arabia-after-fire-indication-11240355#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2023-11/riijiu7g_plane-generic_625x300_24_November_23.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-19T18:30:54.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "న్యూయార్క్-ముంబై ఎయిర్ ఇండియా విమానం అగ్ని ప్రమాదం తర్వాత సౌదీ అరేబియాకు మళ్లించబడింది",
+      "summary_te": "కాక్‌పిట్‌లో కార్గో ఫైర్ ఇన్‌డికేషన్ తప్పు అని తేలిన నేపథ్యంలో గురువారం మధ్యాహ్నం ముంబైకి బయలుదేరిన ఎయిర్ ఇండియా విమానం సౌదీ అరేబియాలోని మదీనాకు మళ్లించబడింది.",
+      "translated": true
+    },
+    {
+      "id": "237d73a203550c3155e39140b86034ce",
+      "title": "Cosmic explosion in space! Nasa captures comet C/2025 K1 breaking apart",
+      "summary": "The TOI Science Desk stands as an inquisitive team of journalists, ceaselessly delving into the realms of discovery to curate a captivating collection of news, features, and articles from the vast and ever-evolving world of science for the readers of The Times of India. Consider us your scientific companion, delivering a daily dose of wonder and enlightenment. Whether it&#x27;s the intricacies of genetic engineering, the marvels of space exploration, or the latest in artificial intelligence, the TOI Science Desk ensures you stay connected to the pulse of the scientific world. At the TOI Science Desk, we are not just reporters; we are storytellers of scientific narratives. We are committed to demystifying the intricacies of science, making it accessible and engaging for readers of all backgrounds. Join us as we craft knowledge with precision and passion, bringing you on a journey where the mysteries of the universe unfold with every word.Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/science/cosmic-explosion-in-space-nasas-hubble-telescope-captures-comet-c/2025-k1-breaking-apart/articleshow/129684848.cms",
+      "image": "https://static.toiimg.com/photo/msid-129684890,imgsize-16116.cms",
+      "published_at": "2026-03-19T18:30:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "అంతరిక్షంలో విశ్వ విస్ఫోటనం! నాసా కామెట్ C/2025 K1 విడిపోవడాన్ని సంగ్రహిస్తుంది",
+      "summary_te": "TOI సైన్స్ డెస్క్ జర్నలిస్టుల పరిశోధనాత్మక బృందంగా నిలుస్తుంది, టైమ్స్ ఆఫ్ ఇండియా పాఠకుల కోసం విస్తారమైన మరియు ఎప్పటికప్పుడు అభివృద్ధి చెందుతున్న సైన్స్ ప్రపంచం నుండి వార్తలు, ఫీచర్లు మరియు కథనాల యొక్క ఆకర్షణీయమైన సేకరణను క్యూరేట్ చేయడానికి ఆవిష్కరణ రంగాలను నిరంతరం పరిశోధిస్తుంది. రోజువారీ మోతాదులో అద్భుతం మరియు జ్ఞానోదయాన్ని అందజేస్తూ మమ్మల్ని మీ శాస్త్రీయ సహచరులుగా పరిగణించండి. ఇది జన్యు ఇంజనీరింగ్ యొక్క చిక్కులు, అంతరిక్ష పరిశోధన యొక్క అద్భుతాలు లేదా కృత్రిమ మేధస్సులో సరికొత్తది అయినా, TOI సైన్స్ డెస్క్ మీరు శాస్త్రీయ ప్రపంచం యొక్క పల్స్‌తో కనెక్ట్ అయ్యేలా నిర్ధారిస్తుంది. TOI సైన్స్ డెస్క్‌లో, మేము కేవలం విలేఖరులమే కాదు; మేము శాస్త్రీయ కథనాల కథకులు. విజ్ఞాన శాస్త్రంలోని చిక్కులను నిర్వీర్యం చేయడానికి, అన్ని నేపథ్యాల పాఠకులకు అందుబాటులో ఉండేలా మరియు ఆకర్షణీయంగా చేయడానికి మేము కట్టుబడి ఉన్నాము. ప్రతి పదంతో విశ్వంలోని రహస్యాలు విప్పేటటువంటి జ్ఞానాన్ని కచ్చితత్వంతో మరియు అభిరుచితో మేము రూపొందించినప్పుడు మాతో చేరండి. మరింత చదవండి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా ప్రేక్షకులు మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. మీరు అటువంటి ప్రాసెసింగ్‌ను అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -89,34 +425,6 @@
       "translated": true
     },
     {
-      "id": "5570eb5e93fcd08247235a3943d923b1",
-      "title": "Received consular access plea for an American and six Ukrainian nationals: MEA",
-      "summary": "Ministry of External Affairs says the Ukrainians and an American were found “wanting” of the required permits for visiting Mizoram",
-      "url": "https://www.thehindu.com/news/national/received-consular-access-plea-for-an-american-and-six-ukrainian-nationals-mea/article70762873.ece",
-      "image": "https://th-i.thgim.com/public/incoming/694f4b/article70763119.ece/alternates/LANDSCAPE_1200/20260319273L.jpg",
-      "published_at": "2026-03-19T18:08:04.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఒక అమెరికన్ మరియు ఆరుగురు ఉక్రేనియన్ జాతీయుల కోసం కాన్సులర్ యాక్సెస్ అభ్యర్థనను స్వీకరించారు: MEA",
-      "summary_te": "ఉక్రేనియన్లు మరియు ఒక అమెరికన్ మిజోరాం సందర్శించడానికి అవసరమైన అనుమతులను \"కోరుకుంటున్నట్లు\" కనుగొనబడినట్లు విదేశీ వ్యవహారాల మంత్రిత్వ శాఖ తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "572d2d9e45b4a37a588bf48a749a394d",
-      "title": "Kerala Assembly Elections 2026: Congress announces second list of 37 candidates",
-      "summary": "T.O. Mohanan has been fielded in the Kannur Assembly constituency, which was sought K. Sudhakaran, MP, and Satheesh Kochuparambil from the Konni constituency, which was sought by Adoor Prakash, MP",
-      "url": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-congress-announces-second-list-of-37-candidates/article70763048.ece",
-      "image": null,
-      "published_at": "2026-03-19T17:58:59.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేరళ అసెంబ్లీ ఎన్నికలు 2026: కాంగ్రెస్ 37 మంది అభ్యర్థులతో రెండో జాబితాను ప్రకటించింది",
-      "summary_te": "T.O. ఎంపి కె. సుధాకరన్‌ కోరిన కన్నూర్‌ అసెంబ్లీ నియోజకవర్గంలో మోహనన్‌, ఎంపి అదూర్‌ ప్రకాష్‌ కోరిన కొన్ని నియోజకవర్గం నుంచి సతీష్‌ కొచుపరంబిల్‌ అభ్యర్థించారు.",
-      "translated": true
-    },
-    {
       "id": "f840370972b11304a317dc6f54947ed7",
       "title": "CBI questions Anil Ambani in ₹2,929-crore cheating case",
       "summary": "Anil Ambani is facing investigation for alleged fund diversion, misappropriation and other irregularities in loan funds, based on a complaint by the State Bank of India",
@@ -126,7 +434,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "2,929 కోట్ల చీటింగ్ కేసులో అనిల్ అంబానీని సీబీఐ ప్రశ్నించింది",
+      "title_te": "₹2,929 కోట్ల చీటింగ్ కేసులో అనిల్ అంబానీని సీబీఐ ప్రశ్నించింది",
       "summary_te": "స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా ఫిర్యాదు ఆధారంగా రుణ నిధుల మళ్లింపు, దుర్వినియోగం మరియు ఇతర అవకతవకలపై అనిల్ అంబానీ విచారణను ఎదుర్కొంటున్నారు.",
       "translated": true
     },
@@ -173,6 +481,20 @@
       "translated": true
     },
     {
+      "id": "84e65c14a7bb4a507639feaa6ee6333d",
+      "title": "Eid-ul-Fitr: Wishes, messages, quotes, and images for sharing",
+      "summary": "Eid-ul-Fitr has arrived, marking the end of Ramadan with joyous celebrations. This guide offers a collection of heartfelt, fun, and spiritual messages to share with loved ones via WhatsApp and social media.",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/happy-eid-ul-fitr-2026-eid-mubarak-wishes-messages-quotes-and-images-for-sharing-on-facebook-and-whatsapp/articleshow/129680487.cms",
+      "image": "https://static.toiimg.com/photo/msid-129680580,imgsize-894102.cms",
+      "published_at": "2026-03-19T17:50:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఈద్-ఉల్-ఫితర్: శుభాకాంక్షలు, సందేశాలు, కోట్‌లు మరియు భాగస్వామ్యం కోసం చిత్రాలు",
+      "summary_te": "ఆనందోత్సాహాలతో రంజాన్ ముగింపు సందర్భంగా ఈద్-ఉల్-ఫితర్ వచ్చేసింది. ఈ గైడ్ WhatsApp మరియు సోషల్ మీడియా ద్వారా ప్రియమైనవారితో పంచుకోవడానికి హృదయపూర్వక, ఆహ్లాదకరమైన మరియు ఆధ్యాత్మిక సందేశాల సేకరణను అందిస్తుంది.",
+      "translated": true
+    },
+    {
       "id": "637f935795c69593ecd0e1fdd8a0fe3d",
       "title": "Unfenced border in focus amid arrest of seven foreigners who crossed to Myanmar via porous border",
       "summary": "According to the latest data, of the total 1,643 km of fencing approved by the government, only 43.75 km has been completed so far; fencing project has faced resistance from residents of border States as people on either side share deep ethnic, social and cultural ties",
@@ -184,20 +506,6 @@
       "language": "en",
       "title_te": "పోరస్ సరిహద్దు ద్వారా మయన్మార్‌కు వెళ్లిన ఏడుగురు విదేశీయులను అరెస్టు చేసిన నేపథ్యంలో కంచె లేని సరిహద్దుపై దృష్టి సారించింది",
       "summary_te": "తాజా సమాచారం ప్రకారం, ప్రభుత్వం ఆమోదించిన మొత్తం 1,643 కి.మీ ఫెన్సింగ్‌లో, ఇప్పటివరకు 43.75 కి.మీ మాత్రమే పూర్తయింది; ఇరువైపులా ప్రజలు లోతైన జాతి, సామాజిక మరియు సాంస్కృతిక సంబంధాలను పంచుకోవడంతో ఫెన్సింగ్ ప్రాజెక్ట్ సరిహద్దు రాష్ట్రాల నివాసితుల నుండి ప్రతిఘటనను ఎదుర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "24432fb0a024f620db05ed4ebbd7b8c0",
-      "title": "Supreme privilege to touch the sacred dust of Ayodhya, says President Murmu",
-      "summary": "Embracing the principles of Ram Rajya, we can construct a nation grounded in morality and ethical conduct, the President says",
-      "url": "https://www.thehindu.com/news/national/bowing-before-lord-ram-same-as-paying-homage-to-mother-india-president-murmu/article70761642.ece",
-      "image": "https://th-i.thgim.com/public/incoming/zc9po9/article70761665.ece/alternates/LANDSCAPE_1200/20260319188L.jpg",
-      "published_at": "2026-03-19T17:48:07.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అయోధ్యలోని పవిత్ర ధూళిని తాకడం అత్యున్నత విశేషమని అధ్యక్షుడు ముర్ము అన్నారు",
-      "summary_te": "రామరాజ్య సూత్రాలను స్వీకరించడం ద్వారా మనం నైతికత మరియు నైతిక ప్రవర్తనతో కూడిన దేశాన్ని నిర్మించగలమని రాష్ట్రపతి చెప్పారు",
       "translated": true
     },
     {
@@ -239,49 +547,21 @@
       "category": "india",
       "language": "en",
       "title_te": "ఎత్తులో ఉండగా కారును ఢీకొన్న వడోదర విద్యార్థికి బెయిల్‌ను సుప్రీంకోర్టు సమర్థించింది",
-      "summary_te": "వడోదరలో బాటసారులపైకి తన కారును ఢీకొట్టి, \"మరో రౌండ్, ఇంకో రౌండ్\" అని అరుస్తూ వాహనం నుండి బయటకు వచ్చిన 2 ఏళ్ల న్యాయ విద్యార్థికి మంజూరు చేసిన బెయిల్‌ను రద్దు చేయడానికి సుప్రీంకోర్టు నిరాకరించింది.",
+      "summary_te": "వడోదరలో బాటసారులపైకి తన కారును ఢీకొట్టి \"మరో రౌండ్, ఇంకో రౌండ్\" అని అరుస్తూ వాహనం నుండి బయటకు వచ్చిన 2 ఏళ్ల న్యాయ విద్యార్థికి మంజూరు చేసిన బెయిల్‌ను రద్దు చేయడానికి సుప్రీంకోర్టు నిరాకరించింది.",
       "translated": true
     },
     {
-      "id": "21faa01721ad685f0723cb5395541f8a",
-      "title": "ECI’s transfer of Bengal officials is political interference of the highest order, says Mamata",
-      "summary": "Mamata Banerjee described the move as a ‘systematic politicisation of institutions meant to remain impartial and a direct assault on the Constitution’",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/ecs-arbitrary-transfer-of-officials-is-political-interference-of-highest-order-mamata/article70761475.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hx8ph1/article70761608.ece/alternates/LANDSCAPE_1200/20260317336L.jpg",
-      "published_at": "2026-03-19T17:41:37.000Z",
-      "source": "The Hindu",
+      "id": "c9282254fe672398f263cb86b918aa5e",
+      "title": "Iga Swiatek faces tough Miami Open build up after Indian Wells loss",
+      "summary": "Iga Swiatek is facing a difficult build-up to the Miami Open after her Indian Wells loss. She spoke about tough weather, limited practice time, and adjustment issues in Miami. The Polish star also dropped to world No. 3 after Elena Rybakina moved ahead. With no titles in 2026 so far, Swiatek now looks to bounce back quickly.",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/iga-swiatek-faces-tough-miami-open-build-up-after-indian-wells-loss-as-practice-issues-and-ranking-slip-spark-concern/articleshow/129684885.cms",
+      "image": "https://static.toiimg.com/photo/msid-129684849,imgsize-20724.cms",
+      "published_at": "2026-03-19T17:36:50.000Z",
+      "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "బెంగాల్ అధికారులను ECI బదిలీ చేయడం అత్యున్నత క్రమంలో రాజకీయ జోక్యం అని మమత అన్నారు",
-      "summary_te": "మమతా బెనర్జీ ఈ చర్యను 'నిష్పాక్షికంగా ఉండటానికి ఉద్దేశించిన సంస్థల యొక్క క్రమబద్ధమైన రాజకీయీకరణ మరియు రాజ్యాంగంపై ప్రత్యక్ష దాడి' అని అభివర్ణించారు.",
-      "translated": true
-    },
-    {
-      "id": "549b0928bb9f8b74cdf4ae5c3ea19e2e",
-      "title": "Iran creating corridor for safe exit of India-bound ships: Lloyds List",
-      "summary": "The maritime data company has reported that nine ships have exited through Iran’s corridor in Strait of Hormuz; reliable sources in India, meanwhile, said that with the situation in West Asia escalating further, Indian ships stuck in the strait for more than two weeks have been asked to ‘stay put’ for now after Israeli strikes on Iran’s largest gas fields",
-      "url": "https://www.thehindu.com/news/national/iran-creating-corridor-for-safe-exit-of-india-bound-ships-lloyds-list/article70762901.ece",
-      "image": "https://th-i.thgim.com/public/incoming/rhr91x/article70763062.ece/alternates/LANDSCAPE_1200/Emirates_Iran_War_43469.jpg",
-      "published_at": "2026-03-19T17:38:05.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "భారత్‌కు వెళ్లే నౌకలు సురక్షితంగా బయటకు వెళ్లేందుకు ఇరాన్ కారిడార్‌ను రూపొందిస్తోంది: లాయిడ్స్ జాబితా",
-      "summary_te": "హార్ముజ్ జలసంధిలోని ఇరాన్ కారిడార్ ద్వారా తొమ్మిది నౌకలు నిష్క్రమించాయని సముద్ర సమాచార సంస్థ నివేదించింది; మరోవైపు పశ్చిమాసియాలో పరిస్థితి మరింత తీవ్రరూపం దాల్చడంతో, ఇరాన్‌లోని అతిపెద్ద గ్యాస్ క్షేత్రాలపై ఇజ్రాయెల్ దాడులు చేసిన తర్వాత రెండు వారాలకు పైగా జలసంధిలో చిక్కుకున్న భారత నౌకలను ప్రస్తుతానికి 'ఉండాలని' కోరినట్లు భారతదేశంలోని విశ్వసనీయ వర్గాలు తెలిపాయి.",
-      "translated": true
-    },
-    {
-      "id": "23474d3beca6505ad778bb693c733df3",
-      "title": "West Bengal Assembly polls: BJP announces second list of candidates; R.G. Kar rape-murder victim’s mother seeks ticket",
-      "summary": "Party fields former MPs, MLAs, and lawyers but has stayed quiet on the candidature of R.G. Kar rape-murder victim’s mother",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-announces-second-list-candidates-for-west-bengal-assembly-polls/article70762134.ece",
-      "image": "https://th-i.thgim.com/public/incoming/femz12/article70762549.ece/alternates/LANDSCAPE_1200/20260319010L.jpg",
-      "published_at": "2026-03-19T17:37:39.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "పశ్చిమ బెంగాల్ అసెంబ్లీ ఎన్నికలు: బిజెపి అభ్యర్థుల రెండవ జాబితాను ప్రకటించింది; ఆర్.జి. కర్రేప్-హత్య బాధితురాలి తల్లి టిక్కెట్టు కోరింది",
-      "summary_te": "పార్టీ మాజీ ఎంపీలు, ఎమ్మెల్యేలు మరియు న్యాయవాదులను రంగంలోకి దింపింది, అయితే ఆర్‌జి అభ్యర్థిత్వంపై మౌనంగా ఉంది. కర్ రేప్-హత్య బాధితురాలి తల్లి",
+      "title_te": "ఇండియన్ వెల్స్ ఓటమి తర్వాత ఇగా స్వియాటెక్ కఠినమైన మయామి ఓపెన్‌ను ఎదుర్కొంటుంది",
+      "summary_te": "ఇగా స్వియాటెక్ తన ఇండియన్ వెల్స్ ఓటమి తర్వాత మియామి ఓపెన్‌కు కష్టతరమైన బిల్డ్ అప్‌ను ఎదుర్కొంటోంది. ఆమె మయామిలో కఠినమైన వాతావరణం, పరిమిత ప్రాక్టీస్ సమయం మరియు సర్దుబాటు సమస్యల గురించి మాట్లాడింది. ఎలెనా రిబాకినా ముందుకు సాగిన తర్వాత పోలిష్ స్టార్ కూడా ప్రపంచ నం. 3కి పడిపోయింది. 2026లో ఇప్పటివరకు ఎలాంటి టైటిల్స్ లేకుండా, స్వియాటెక్ ఇప్పుడు త్వరగా బౌన్స్ అయ్యేలా కనిపిస్తోంది.",
       "translated": true
     },
     {
@@ -295,21 +575,7 @@
       "category": "india",
       "language": "en",
       "title_te": "యూరోపియన్ శక్తులు, జపాన్ హోర్ముజ్ భద్రతా ప్రయత్నానికి మద్దతు ఇస్తుంది; షిప్పింగ్‌పై ఇరాన్‌ దాడులను ఖండించారు",
-      "summary_te": "బ్రిటన్ మరియు ఫ్రాన్స్‌తో సహా ఆరు ప్రధాన శక్తులు హార్ముజ్ జలసంధి గుండా సురక్షితమైన ప్రయాణానికి మద్దతునిచ్చాయి, వాణిజ్య నౌకలు మరియు ఇంధన మౌలిక సదుపాయాలపై ఇరాన్ ఇటీవలి దాడులను ఖండిస్తున్నాయి. సముద్ర భద్రతకు సహకరించడానికి సిద్ధంగా ఉన్నప్పటికీ, అధిక ముప్పు స్థాయిల కారణంగా తక్షణ నౌకాదళ విస్తరణ ప్రణాళిక చేయబడదు. వారు గ్లోబల్ ఎనర్జీ మార్కెట్లను స్థిరీకరించడానికి అత్యవసర చమురు విడుదలలకు కూడా మద్దతు ఇస్తారు.",
-      "translated": true
-    },
-    {
-      "id": "8d6ae5ed3a335822424be7ef9da6d27a",
-      "title": "Modi, Jaishankar work the phones, call for dialogue as strikes on energy infrastructure escalate",
-      "summary": "French President says India and France working closely together to reduce tensions in West Asia; recent attacks against energy installations are deeply disturbing, says MEA spokesperson",
-      "url": "https://www.thehindu.com/news/national/modi-jaishankar-work-the-phones-call-for-dialogue-as-strikes-on-energy-infrastructure-escalate/article70762567.ece",
-      "image": "https://th-i.thgim.com/public/incoming/9rgrbe/article70763056.ece/alternates/LANDSCAPE_1200/PTI02_17_2026_000342A.jpg",
-      "published_at": "2026-03-19T17:30:42.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇంధన మౌలిక సదుపాయాలపై సమ్మెలు తీవ్రమవుతున్నందున మోడీ, జైశంకర్ ఫోన్‌లలో పని చేస్తున్నారు, సంభాషణకు పిలుపునిచ్చారు",
-      "summary_te": "పశ్చిమాసియాలో ఉద్రిక్తతలను తగ్గించడానికి భారతదేశం మరియు ఫ్రాన్స్ కలిసి పని చేస్తున్నాయని ఫ్రెంచ్ అధ్యక్షుడు చెప్పారు; ఎనర్జీ ఇన్‌స్టాలేషన్‌లపై ఇటీవలి దాడులు తీవ్ర ఆందోళన కలిగిస్తున్నాయని MEA ప్రతినిధి చెప్పారు",
+      "summary_te": "బ్రిటన్ మరియు ఫ్రాన్స్‌తో సహా ఆరు ప్రధాన శక్తులు హార్ముజ్ జలసంధి గుండా సురక్షితమైన ప్రయాణానికి మద్దతునిచ్చాయి, వాణిజ్య నౌకలు మరియు ఇంధన మౌలిక సదుపాయాలపై ఇరాన్ ఇటీవలి దాడులను ఖండించాయి. సముద్ర భద్రతకు సహకరించడానికి సిద్ధంగా ఉన్నప్పటికీ, అధిక ముప్పు స్థాయిల కారణంగా తక్షణ నౌకాదళ విస్తరణ ప్రణాళిక చేయబడదు. వారు గ్లోబల్ ఎనర్జీ మార్కెట్లను స్థిరీకరించడానికి అత్యవసర చమురు విడుదలలకు కూడా మద్దతు ఇస్తారు.",
       "translated": true
     },
     {
@@ -323,21 +589,7 @@
       "category": "india",
       "language": "en",
       "title_te": "లాకీ ఫెర్గూసన్ IPL 2026 ప్రారంభం నుండి తప్పుకున్నాడు, కుటుంబానికి మొదటి స్థానం ఇస్తుంది: 'నా భార్యకు సహాయం చేయి'",
-      "summary_te": "లాకీ ఫెర్గూసన్ తన నవజాత శిశువుతో సమయం గడపడానికి పంజాబ్ కింగ్స్ కోసం ప్రారంభ IPL 2026 మ్యాచ్‌లను కోల్పోతాడు. అతను తరువాత చేరాలని యోచిస్తున్నాడు. పనిభారాన్ని నిర్వహిస్తున్నప్పటికీ, \"నేను ఇప్పటికీ న్యూజిలాండ్‌కు ఆడటానికి చాలా నిబద్ధతతో ఉన్నాను\" అని అతను చెప్పాడు మరియు స్వదేశంలో భవిష్యత్ ఫ్రాంచైజీ లీగ్‌కు మద్దతునిస్తూనే రాబోయే ప్రపంచ కప్‌లలో పాల్గొనాలని లక్ష్యంగా పెట్టుకున్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "8675f00370915582219d5bd0a7e2cc72",
-      "title": "Chhattisgarh Assembly passes new anti-conversion Bill with stricter provisions",
-      "summary": "The Bill mandates life imprisonment and fines up to ₹25 lakh in specific cases; Congress MLAs raise objections, call for broader consultations, and seek the handing over of the Bill to a ‘Select Committee’",
-      "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-assembly-passes-new-anti-conversion-bill-with-stricter-provisions/article70762634.ece",
-      "image": "https://th-i.thgim.com/public/incoming/jfwej9/article70763052.ece/alternates/LANDSCAPE_1200/PTI02_24_2026_000188B.jpg",
-      "published_at": "2026-03-19T17:28:01.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఛత్తీస్‌గఢ్ అసెంబ్లీ కఠినమైన నిబంధనలతో కొత్త మతమార్పిడి నిరోధక బిల్లును ఆమోదించింది",
-      "summary_te": "బిల్లు నిర్దిష్ట కేసుల్లో జీవిత ఖైదు మరియు ₹25 లక్షల వరకు జరిమానా విధిస్తుంది; కాంగ్రెస్ ఎమ్మెల్యేలు అభ్యంతరాలను లేవనెత్తారు, విస్తృత సంప్రదింపులకు పిలుపునిచ్చారు మరియు బిల్లును 'సెలెక్ట్ కమిటీ'కి అప్పగించాలని కోరుతున్నారు.",
+      "summary_te": "లాకీ ఫెర్గూసన్ తన నవజాత శిశువుతో సమయం గడపడానికి పంజాబ్ కింగ్స్ కోసం ప్రారంభ IPL 2026 మ్యాచ్‌లను కోల్పోతాడు. అతను తరువాత చేరాలని యోచిస్తున్నాడు. పనిభారాన్ని నిర్వహిస్తున్నప్పటికీ, \"నేను ఇప్పటికీ న్యూజిలాండ్ కోసం ఆడటానికి చాలా నిబద్ధతతో ఉన్నాను\" అని అతను చెప్పాడు మరియు స్వదేశంలో భవిష్యత్ ఫ్రాంచైజీ లీగ్‌కు మద్దతునిస్తూ రాబోయే ప్రపంచ కప్‌లలో పాల్గొనాలని లక్ష్యంగా పెట్టుకున్నాడు.",
       "translated": true
     },
     {
@@ -365,7 +617,7 @@
       "category": "india",
       "language": "en",
       "title_te": "900 మంది భారతీయులు, ఎక్కువగా J&K నుండి విద్యార్థులు, ఆర్మేనియా మరియు అజర్‌బైజాన్ మీదుగా ఇరాన్ నుండి బయలుదేరారు",
-      "summary_te": "అజర్‌బైజాన్‌లోకి ప్రవేశించడంలో సమస్యలు ఉన్నాయి, ఎందుకంటే దేశం ప్రతిరోజూ 10 మంది భారతీయ పౌరులను మాత్రమే భూ సరిహద్దు గుండా అనుమతించి, ఇతరులను వెనక్కి తిప్పుతుంది.",
+      "summary_te": "అజర్‌బైజాన్‌లోకి ప్రవేశించడంలో సమస్యలు ఉన్నాయి, ఎందుకంటే దేశం ప్రతిరోజూ 10 మంది భారతీయ పౌరులను మాత్రమే భూ సరిహద్దు గుండా అనుమతించి ఇతరులను వెనక్కి తిప్పుతుంది.",
       "translated": true
     },
     {
@@ -393,7 +645,7 @@
       "category": "india",
       "language": "en",
       "title_te": "US F-35 అనుమానిత ఇరానియన్ అగ్నిప్రమాదానికి గురైంది, ఎమర్జెన్సీ ల్యాండింగ్ చేస్తుంది: నివేదిక",
-      "summary_te": "ధృవీకరించబడితే, ఫిబ్రవరిలో వివాదం ప్రారంభమైన తర్వాత ఇరాన్ US విమానంపై దాడి చేసిన మొదటి ఉదాహరణగా ఎపిసోడ్ గుర్తించబడుతుంది. సేవలో ఉన్న అత్యంత అధునాతన యుద్ధ విమానాలలో ఒకటైన F-35 $100 మిలియన్లకు పైగా ధరను కలిగి ఉంది.",
+      "summary_te": "ధృవీకరించబడితే, ఫిబ్రవరిలో వివాదం ప్రారంభమైన తర్వాత ఇరాన్ US విమానంపై దాడి చేసిన మొదటి ఉదాహరణగా ఈ ఎపిసోడ్ గుర్తించబడుతుంది. సేవలో ఉన్న అత్యంత అధునాతన యుద్ధ విమానాలలో ఒకటైన F-35, $100 మిలియన్లకు పైగా ధరను కలిగి ఉంది.",
       "translated": true
     },
     {
@@ -408,48 +660,6 @@
       "language": "en",
       "title_te": "ఇరాన్ క్షిపణి దాడి ఇజ్రాయెల్‌లోని హైఫాలోని ఆయిల్ రిఫైనరీని తాకింది: నివేదిక",
       "summary_te": "ఇరాన్ క్షిపణి దాడి ఇజ్రాయెల్‌లోని హైఫాలోని ఆయిల్ రిఫైనరీని తాకింది: నివేదిక",
-      "translated": true
-    },
-    {
-      "id": "088378c1d033db8f9350bec50bcf7f96",
-      "title": "PPAC asked to ‘collect, compile, analyse’ data about domestic fuel and energy stocks",
-      "summary": "Sujata Sharma, Joint Secretary (MoPNG) told reporters that the objective of the gazette notification is to give PPAC’s mandate “legal strength”",
-      "url": "https://www.thehindu.com/business/Economy/ppac-asked-to-collect-compile-analyse-data-about-domestic-fuel-and-energy-stocks/article70762717.ece",
-      "image": "https://th-i.thgim.com/public/incoming/iajauy/article70763006.ece/alternates/LANDSCAPE_1200/16_Sujata_Sharma_19_03_Delhi.jpg",
-      "published_at": "2026-03-19T17:08:08.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "దేశీయ ఇంధనం మరియు ఇంధన స్టాక్‌ల గురించిన డేటాను ‘సేకరించడానికి, కంపైల్ చేయడానికి, విశ్లేషించడానికి’ PPAC కోరింది",
-      "summary_te": "జాయింట్ సెక్రటరీ (MoPNG) సుజాత శర్మ విలేఖరులతో మాట్లాడుతూ, పిపిఎసికి \"చట్టపరమైన బలం\" ఇవ్వడమే గెజిట్ నోటిఫికేషన్ యొక్క లక్ష్యం.",
-      "translated": true
-    },
-    {
-      "id": "7b272864f4a46ebf4a8211731bff23a2",
-      "title": "Recipient of Aalin’s kidneys leaves hospital",
-      "summary": "The ten-year-old had been diagnosed with severe renal failure following bilateral Vesicoureteral Reflux, when she was admitted in a critical condition at SAT Hospital at eight years of age",
-      "url": "https://www.thehindu.com/news/national/kerala/recipient-of-aalins-kidneys-leaves-hospital/article70762843.ece",
-      "image": null,
-      "published_at": "2026-03-19T17:08:05.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఆలిన్ కిడ్నీ గ్రహీత ఆసుపత్రి నుండి బయలుదేరాడు",
-      "summary_te": "ద్వైపాక్షిక వెసికోరేటరల్ రిఫ్లక్స్ తర్వాత పదేళ్ల వయస్సులో తీవ్రమైన మూత్రపిండ వైఫల్యం ఉన్నట్లు నిర్ధారణ అయింది, ఆమె ఎనిమిదేళ్ల వయస్సులో SAT హాస్పిటల్‌లో ఒక క్లిష్టమైన స్థితిలో చేరింది.",
-      "translated": true
-    },
-    {
-      "id": "b8d9ced4a1ee0a7ee251626a20818411",
-      "title": "Ornamental fisheries sector holds untapped potential, say experts",
-      "summary": "India’s ornamental fisheries sector holds immense untapped potential and can emerge as a global leader with improved infrastructure, robust supply chains, and sustainable practices, experts emphasised at the international conference on Sustainable Ornamental Fisheries – Way Forward held in Kochi.D.V. Swamy, former chairman of Marine Products Export Development Authority, inaugurated the conference.Mini Sekharan, Director, School of Industrial Fisheries, Cochin University of Science and Technology (Cusat), presided.M. Harikrishnan, senior professor, Cusat; B. Madhusoodana Kurup, former Vice Chancellor of Kerala University of Fisheries and Ocean Sciences; Sagar Mehra, Joint Secretary, Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying; and Jonathan Poh, secretary-general of Ornamental Fish International, Singapore, attended.A. Biju Kumar, Vice-Chancellor, Kufos, delivered the keynote address.",
-      "url": "https://www.thehindu.com/news/national/kerala/ornamental-fisheries-sector-holds-untapped-potential-say-experts/article70762557.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-19T17:08:02.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అలంకారమైన మత్స్య రంగం ఉపయోగించని సామర్థ్యాన్ని కలిగి ఉందని నిపుణులు అంటున్నారు",
-      "summary_te": "భారతదేశ అలంకారమైన మత్స్య రంగం అపారమైన సామర్థ్యాన్ని కలిగి ఉంది మరియు మెరుగైన మౌలిక సదుపాయాలు, బలమైన సరఫరా గొలుసులు మరియు స్థిరమైన పద్ధతులతో ప్రపంచ నాయకుడిగా ఎదగగలదని కొచ్చిలో జరిగిన సుస్థిర అలంకారమైన చేపల పెంపకం - వే ఫార్వర్డ్‌పై అంతర్జాతీయ సదస్సులో నిపుణులు ఉద్ఘాటించారు. సముద్ర ఉత్పత్తుల ఎగుమతి అభివృద్ధి అథారిటీ మాజీ చైర్మన్ స్వామి సదస్సును ప్రారంభించారు. కొచ్చిన్ యూనివర్శిటీ ఆఫ్ సైన్స్ అండ్ టెక్నాలజీ (కుశాట్) స్కూల్ ఆఫ్ ఇండస్ట్రియల్ ఫిషరీస్ డైరెక్టర్ మినీ శేఖరన్ అధ్యక్షత వహించారు. హరికృష్ణన్, సీనియర్ ప్రొఫెసర్, కుశాట్; బి. మధుసూదన కురుప్, కేరళ యూనివర్సిటీ ఆఫ్ ఫిషరీస్ అండ్ ఓషన్ సైన్సెస్ మాజీ వైస్ ఛాన్సలర్; సాగర్ మెహ్రా, జాయింట్ సెక్రటరీ, డిపార్ట్‌మెంట్ ఆఫ్ ఫిషరీస్, మినిస్ట్రీ ఆఫ్ ఫిషరీస్, పశుసంవర్ధక మరియు పాడి పరిశ్రమ; మరియు సింగపూర్‌లోని ఆర్నమెంటల్ ఫిష్ ఇంటర్నేషనల్ సెక్రటరీ జనరల్ జోనాథన్ పోహ్ హాజరయ్యారు.A. కుఫోస్‌ వైస్‌ ఛాన్సలర్‌ బిజుకుమార్‌ కీలకోపన్యాసం చేశారు.",
       "translated": true
     },
     {
@@ -481,34 +691,6 @@
       "translated": true
     },
     {
-      "id": "92dd4c0141a84d2b7c58dd8e2e396d98",
-      "title": "Nine-judge Supreme Court Bench reserves verdict on ambit of ‘industry’",
-      "summary": "The 1978 judgment expanded the ambit of ‘industry’ to hold that any systematic activity including charitable and government-run services, were an industry if they met the ‘triple test’ parameters",
-      "url": "https://www.thehindu.com/news/national/nine-judge-supreme-court-bench-reserves-verdict-on-ambit-of-industry/article70762853.ece",
-      "image": "https://th-i.thgim.com/public/incoming/2ugpq4/article70763003.ece/alternates/LANDSCAPE_1200/Supreme%20Court%20%203.JPG",
-      "published_at": "2026-03-19T16:59:15.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "'పరిశ్రమ' పరిధిపై తీర్పును తొమ్మిది మంది న్యాయమూర్తుల సుప్రీంకోర్టు బెంచ్ రిజర్వ్ చేసింది",
-      "summary_te": "1978 తీర్పు 'పరిశ్రమ' పరిధిని విస్తరించింది, దాతృత్వ మరియు ప్రభుత్వం నిర్వహించే సేవలతో సహా ఏదైనా క్రమబద్ధమైన కార్యకలాపం 'ట్రిపుల్ టెస్ట్' పారామితులను కలిగి ఉంటే అది పరిశ్రమగా పరిగణించబడుతుంది.",
-      "translated": true
-    },
-    {
-      "id": "0127c5954ad761a836e59eee48849bfe",
-      "title": "He served 5 years as MLA… then was asked to repay ₹21 lakh",
-      "summary": "In our previous episode, we explored the remarkable story of a father and son — P. H. Pandian and Manoj Pandian — who lost elections but successfully challenged the election of the winning candidtes in the Supreme Court. In this epside, we continue that story.",
-      "url": "https://www.thehindu.com/videos/he-served-5-years-as-mla...-then-was-asked-to-repay-21-lakh/article70762895.ece",
-      "image": "https://th-i.thgim.com/public/videos/9wuhh5/article70762795.ece/alternates/LANDSCAPE_1200/TN%20election%20march%2019%20ab%20testing.jpg",
-      "published_at": "2026-03-19T16:57:55.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అతను ఎమ్మెల్యేగా 5 సంవత్సరాలు పనిచేశాడు… తర్వాత ₹21 లక్షలు తిరిగి చెల్లించమని అడిగాడు",
-      "summary_te": "మా మునుపటి ఎపిసోడ్‌లో, ఎన్నికల్లో ఓడిపోయినప్పటికీ, సుప్రీం కోర్టులో గెలిచిన అభ్యర్థుల ఎన్నికలను విజయవంతంగా సవాలు చేసిన తండ్రీ కొడుకులు - పి.హెచ్. పాండియన్ మరియు మనోజ్ పాండియన్ - యొక్క అద్భుతమైన కథను మేము అన్వేషించాము. ఈ ఎపిసైడ్‌లో, మేము ఆ కథను కొనసాగిస్తాము.",
-      "translated": true
-    },
-    {
       "id": "cc6e6e7f81baadfac69d80953f487445",
       "title": "Nearly Week After Probe, 1 Arrested In Tamil Nadu Minor's Murder Case",
       "summary": "After nearly a week of investigation with analysing CCTV and the Tower Dump method, Dharma Muneshwaran has been arrested by Tamil Nadu Police in connection with the sexual assault and murder of a 17-year-old girl in Thoothukudi.",
@@ -519,7 +701,7 @@
       "category": "india",
       "language": "en",
       "title_te": "దాదాపు వారం విచారణ తర్వాత, తమిళనాడు మైనర్ హత్య కేసులో 1 అరెస్టయ్యాడు",
-      "summary_te": "17 ఏళ్ల బాలికపై తూత్తుకుడిలో లైంగిక వేధింపులు మరియు హత్యకు సంబంధించి CCTV మరియు టవర్ డంప్ పద్ధతిని విశ్లేషించి దాదాపు వారం రోజుల విచారణ తర్వాత, ధర్మ మునేశ్వరన్‌ను తమిళనాడు పోలీసులు అరెస్టు చేశారు.",
+      "summary_te": "17 ఏళ్ల బాలికపై తూత్తుకుడిలో లైంగిక వేధింపులకు పాల్పడి హత్య చేసిన కేసులో సిసిటివి మరియు టవర్ డంప్ పద్ధతిని విశ్లేషించి దాదాపు వారం రోజుల విచారణ తర్వాత ధర్మ మునేశ్వరన్‌ను తమిళనాడు పోలీసులు అరెస్టు చేశారు.",
       "translated": true
     },
     {
@@ -532,7 +714,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "NIA అరెస్టు చేసిన 6 మంది జాతీయులను ఉక్రెయిన్ కాన్సులర్ యాక్సెస్‌ను కోరింది",
+      "title_te": "NIA అరెస్టు చేసిన 6 మంది జాతీయులకు కాన్సులర్ యాక్సెస్‌ను ఉక్రెయిన్ కోరింది",
       "summary_te": "కాన్సులర్ యాక్సెస్ కోసం అభ్యర్థన \"ఈ ప్రత్యేక కేసులో ఉన్న చట్టపరమైన అవసరాలను దృష్టిలో ఉంచుకుని పరిష్కరించబడుతుంది\" అని జైస్వాల్ చెప్పారు.",
       "translated": true
     },
@@ -546,78 +728,8 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "త్వరలో భారీ చమురు ఉపశమనం? ఇరాన్ క్రూడ్‌పై ట్రంప్ 'అనుమతి రద్దు' చేయడం భారతదేశానికి అర్థం",
+      "title_te": "త్వరలో భారీ చమురు ఉపశమనం? ఇరాన్ క్రూడ్‌పై ట్రంప్ 'అన్‌సాంక్షన్‌' చేయడం వల్ల భారత్‌కు అర్థం ఏమిటి",
       "summary_te": "ఇరాన్ క్రూడ్‌పై ఆంక్షలకు అమెరికా మినహాయింపునిచ్చిన తర్వాత 2019 మధ్య నుంచి భారత్ ఇరాన్ నుంచి ముడి చమురును కొనుగోలు చేయడం లేదు. భారతదేశపు ముడి చమురు అవసరాలలో దాదాపు 35-40% హార్ముజ్ జలసంధి ద్వారా ఆసియా వైపు వెళ్లే సరుకుల ద్వారానే తీర్చబడుతున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "cc5e772c81ea369d2f03b6d205837605",
-      "title": "Despite Centre’s delay, States, U.T.s, set aside funds for rural jobs programme",
-      "summary": "At least 24 States and UTs make budgetary provisions despite uncertainty over Centre’s normative allocations; most States use past expenditure under MGNREGA as the baseline",
-      "url": "https://www.thehindu.com/news/national/despite-centres-delay-states-set-aside-funds-for-rural-jobs-programme/article70762683.ece",
-      "image": "https://th-i.thgim.com/public/incoming/bj1p2d/article70762978.ece/alternates/LANDSCAPE_1200/iStock-1090964326.jpg",
-      "published_at": "2026-03-19T16:49:42.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేంద్రం ఆలస్యం చేసినప్పటికీ, రాష్ట్రాలు, యుటిలు గ్రామీణ ఉద్యోగాల కార్యక్రమానికి నిధులు కేటాయించాయి",
-      "summary_te": "కేంద్రం యొక్క సూత్రప్రాయ కేటాయింపులపై అనిశ్చితి ఉన్నప్పటికీ కనీసం 24 రాష్ట్రాలు మరియు UTలు బడ్జెట్ కేటాయింపులు చేస్తాయి; చాలా రాష్ట్రాలు MGNREGA కింద గత ఖర్చులను బేస్‌లైన్‌గా ఉపయోగిస్తాయి",
-      "translated": true
-    },
-    {
-      "id": "76d24936b2130292462dcc3162443739",
-      "title": "Uttarakhand High Court questions ‘Mohammad’ Deepak’s plea for protection, calls it ‘pressure tactic’",
-      "summary": "Advocate Navnish Negi, who represented Mr. Deepak argued that his client had been facing threats and that a crowd had gathered outside his residence and gym, creating apprehension for his safety; to this the court said that nothing happened to his client since January 26.",
-      "url": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-high-court-questions-mohammad-deepaks-plea-for-protection-calls-it-pressure-tactic/article70762632.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ou5hz1/article70762925.ece/alternates/LANDSCAPE_1200/KOTDWAR%20SPOTLIGHT_7.jpg",
-      "published_at": "2026-03-19T16:48:03.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "రక్షణ కోసం ‘మొహమ్మద్’ దీపక్ చేసిన అభ్యర్థనను ఉత్తరాఖండ్ హైకోర్టు ప్రశ్నించింది, దానిని ‘ఒత్తిడి వ్యూహం’గా పేర్కొంది",
-      "summary_te": "తన క్లయింట్ బెదిరింపులను ఎదుర్కొంటున్నారని మరియు అతని నివాసం మరియు వ్యాయామశాల వెలుపల జనం గుమిగూడారని, అతని భద్రత గురించి భయాందోళనలు సృష్టించారని, మిస్టర్ దీపక్ తరపున న్యాయవాది నవనీష్ నేగి వాదించారు; జనవరి 26 నుంచి తన క్లయింట్‌కు ఏమీ జరగలేదని కోర్టు పేర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "65ac495b9cdbb87797e6af968d376633",
-      "title": "Happy Eid-ul-Fitr 2026: Hindi shayari, wishes, messages, quotes, and poems",
-      "summary": "Eid-ul-Fitr marks the joyous end of Ramadan, a month of fasting and devotion. Celebrated with gratitude and togetherness, it's a time for delicious food, new attire, and exchanging warm greetings. The festival emphasizes generosity, ensuring everyone can partake in the celebrations and receive blessings.",
-      "url": "https://timesofindia.indiatimes.com/life-style/events/happy-eid-ul-fitr-2026-hindi-shayari-wishes-messages-quotes-greetings-images-whatsapp-status-and-poems/articleshow/129677445.cms",
-      "image": "https://static.toiimg.com/photo/msid-129677415,imgsize-18304.cms",
-      "published_at": "2026-03-19T16:45:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "హ్యాపీ ఈద్-ఉల్-ఫితర్ 2026: హిందీ షాయారీ, శుభాకాంక్షలు, సందేశాలు, కోట్స్ మరియు పద్యాలు",
-      "summary_te": "ఈద్-ఉల్-ఫితర్ రంజాన్ యొక్క సంతోషకరమైన ముగింపును సూచిస్తుంది, ఇది ఉపవాసం మరియు భక్తి యొక్క నెల. కృతజ్ఞత మరియు ఐక్యతతో జరుపుకుంటారు, ఇది రుచికరమైన ఆహారం, కొత్త వస్త్రధారణ మరియు వెచ్చని శుభాకాంక్షలు మార్పిడి కోసం సమయం. ఈ పండుగ ఉదారతను నొక్కి చెబుతుంది, ప్రతి ఒక్కరూ వేడుకల్లో పాల్గొని ఆశీర్వాదాలు పొందవచ్చని నిర్ధారిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "06eb3f8e2947498e46e9b155c2bc38aa",
-      "title": "West Bengal Assembly election: Left Front releases second list of 32 candidates",
-      "summary": "R.G. Kar Medical College rape and murder victim’s mother says she may contest on a BJP ticket; CPI(M) leader Mohammad Salim urges her not to join any political party",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/left-front-releases-second-list-of-32-candidates-for-west-bengal-assembly-election/article70762173.ece",
-      "image": "https://th-i.thgim.com/public/incoming/xhvasa/article70762962.ece/alternates/LANDSCAPE_1200/CPI_M__rally01.jpg",
-      "published_at": "2026-03-19T16:43:25.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "పశ్చిమ బెంగాల్ అసెంబ్లీ ఎన్నికలు: లెఫ్ట్ ఫ్రంట్ 32 మంది అభ్యర్థులతో రెండో జాబితాను విడుదల చేసింది",
-      "summary_te": "ఆర్.జి. కర్ మెడికల్ కాలేజీ రేప్ మరియు హత్య బాధితురాలి తల్లి తాను బిజెపి టిక్కెట్‌పై పోటీ చేయవచ్చని చెప్పింది; ఏ రాజకీయ పార్టీలో చేరవద్దని సీపీఐ(ఎం) నేత మహ్మద్ సలీం ఆమెను కోరారు",
-      "translated": true
-    },
-    {
-      "id": "c921a1b83c7a5fedd0bc3b0b6d69e7c4",
-      "title": "Kerala Governor, Chief Minister extend Id greetings to people",
-      "summary": "Governor Rajendra Vishwanath Arlekar extended Id-ul-Fitr greetings to Keralites across the globe. Marking the end of the Ramzan fast, the festival reflects self-discipline and compassion and enriches society, Mr. Arlekar said in a message. Chief Minister Pinarayi Vijayan and Leader of Opposition V.D. Satheesan also extended Id greetings to the people. Mr. Vijayan expressed his hope that the festival would help to spread the light of goodwill and love in the land.",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-governor-chief-minister-extend-id-greetings-to-people/article70762810.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-19T16:37:54.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేరళ గవర్నర్, ముఖ్యమంత్రి ప్రజలకు ఐడీ శుభాకాంక్షలు తెలిపారు",
-      "summary_te": "ప్రపంచవ్యాప్తంగా ఉన్న కేరళీయులకు గవర్నర్ రాజేంద్ర విశ్వనాథ్ అర్లేకర్ ఈద్-ఉల్-ఫితర్ శుభాకాంక్షలు తెలిపారు. రంజాన్ ఉపవాసం ముగింపు సందర్భంగా, ఈ పండుగ స్వీయ క్రమశిక్షణ మరియు కరుణను ప్రతిబింబిస్తుందని మరియు సమాజాన్ని సుసంపన్నం చేస్తుందని శ్రీ అర్లేకర్ సందేశంలో పేర్కొన్నారు. ముఖ్యమంత్రి పినరయి విజయన్, ప్రతిపక్ష నేత వి.డి. సతీశన్ ప్రజలకు ఐడీ శుభాకాంక్షలు తెలిపారు. దేశంలో సద్భావన, ప్రేమ వెలుగులు పంచేందుకు ఈ పండుగ దోహదపడుతుందని విజయన్ ఆశాభావం వ్యక్తం చేశారు.",
       "translated": true
     },
     {
@@ -630,7 +742,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "ఢిల్లీలో ముగ్గురు దుండగులు కాల్పులు జరిపిన తర్వాత 10 ఏళ్ల చిన్నారిని కాల్చి చంపారు.",
+      "title_te": "ఢిల్లీలో ముగ్గురు దుండగులు కాల్పులు జరిపిన 10 ఏళ్ల బాలుడి కాలిపై కాల్చి చంపబడ్డాడు.",
       "summary_te": "ముగ్గురు వ్యక్తులు మోటార్‌సైకిల్‌పై బాధితురాలి ఇంటికి వచ్చి పలు రౌండ్లు కాల్పులు జరిపారు. బయట నిలబడిన వ్యక్తితో సహా మొత్తం నలుగురిపై కాల్పులు జరిపారు.",
       "translated": true
     },
@@ -659,7 +771,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పశ్చిమాసియాలోని ఎనర్జీ హబ్‌ల తర్వాత భారతదేశం చేరుకోవడంలో వ్యూహంలో సూక్ష్మమైన మార్పు వచ్చింది",
-      "summary_te": "ఖతార్‌లోని ఎల్‌ఎన్‌జి సౌకర్యంపై ఇరాన్ దాడి పతనంపై ఒక ప్రశ్నకు జైస్వాల్ స్పందిస్తూ ఇది భారతదేశానికి గ్యాస్ సరఫరాపై ప్రభావం చూపుతుందని చెప్పారు.",
+      "summary_te": "ఖతార్‌లోని ఎల్‌ఎన్‌జి సౌకర్యంపై ఇరాన్ దాడి పతనంపై అడిగిన ప్రశ్నకు జైస్వాల్ స్పందిస్తూ ఇది భారతదేశానికి గ్యాస్ సరఫరాపై ప్రభావం చూపుతుందని చెప్పారు.",
       "translated": true
     },
     {
@@ -687,7 +799,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'దళాలను పెట్టడం లేదు': ఇరాన్‌లో సైనికులను మోహరించిన ట్రంప్",
-      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. మీరు అటువంటి ప్రాసెసింగ్‌ను అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -715,7 +827,7 @@
       "category": "india",
       "language": "en",
       "title_te": "రాజస్థాన్ రాయల్స్‌కు పెద్ద దెబ్బ: స్టార్ ఇంగ్లండ్ క్రికెటర్ ఐపీఎల్ 2026కి దూరమయ్యాడు",
-      "summary_te": "ESPNCricinfo నివేదిక ప్రకారం, చెన్నై సూపర్ కింగ్స్ (CSK) నుండి రాజస్థాన్ రాయల్స్ (RR)లో చేరిన కుర్రాన్, రవీంద్ర జడేజా ఇతర మార్గంలో వెళ్లడం మరియు సంజూ శాంసన్ CSK వైపు వెళ్లడం కూడా సందిగ్ధంలో ఉంది.",
+      "summary_te": "ESPNCricinfo యొక్క నివేదిక ప్రకారం, చెన్నై సూపర్ కింగ్స్ (CSK) నుండి రాజస్థాన్ రాయల్స్ (RR)లో చేరిన కుర్రాన్, రవీంద్ర జడేజా ఇతర మార్గంలో వెళ్లడం మరియు సంజూ శాంసన్ CSK వైపు వెళ్లడం కూడా సందిగ్ధంలో ఉంది.",
       "translated": true
     },
     {
@@ -728,7 +840,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఇరాన్‌ కాల్పులతో అమెరికా ఎఫ్‌-35 దాడి చేసిందా? జెట్ అత్యవసర ల్యాండింగ్ చేస్తుంది; IRGC వీడియోను విడుదల చేసింది",
+      "title_te": "యుఎస్ ఎఫ్-35 ఇరాన్ కాల్పులకు గురైందా? జెట్ అత్యవసర ల్యాండింగ్ చేస్తుంది; IRGC వీడియోను విడుదల చేసింది",
       "summary_te": "యుఎస్ ఎఫ్ -35 ఫైటర్ జెట్ ఇరాన్‌పై పోరాట యాత్రలో ఇరాన్ కాల్పులు జరపడంతో అత్యవసర ల్యాండింగ్ చేసింది. స్టెల్త్ జెట్ మధ్యప్రాచ్యంలోని US ఎయిర్ బేస్ వద్ద సురక్షితంగా ల్యాండ్ చేయబడింది, పైలట్ పరిస్థితి నిలకడగా ఉన్నట్లు నివేదించబడింది. ఈ ఘటన ప్రస్తుతం విచారణలో ఉంది.",
       "translated": true
     },
@@ -756,7 +868,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "\"ప్రజలు స్పష్టత ఇవ్వాలి\": అసోంకు చెందిన ప్రద్యుత్ బోర్డోలోయ్ కుమారుడు కాంగ్రెస్ టిక్కెట్‌ను తిరిగి ఇచ్చాడు",
+      "title_te": "\"ప్రజలు స్పష్టతకు అర్హులు\": అసోంకు చెందిన ప్రద్యుత్ బోర్డోలోయ్ కుమారుడు కాంగ్రెస్ టిక్కెట్‌ను తిరిగి ఇచ్చాడు",
       "summary_te": "ప్రద్యుత్ బోర్డోలోయ్ తన నిబద్ధత లేదా కాంగ్రెస్ స్థితికి సంబంధించి ఏదైనా గందరగోళం లేదా అవగాహన తలెత్తితే అది ప్రజలకు అన్యాయం అని అన్నారు.",
       "translated": true
     },
@@ -771,7 +883,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'నా మనిషి విజయం వెనుక బలం': ధోనీ తండ్రి కోసం సాక్షి పెన్ను పోస్ట్ చేసింది",
-      "summary_te": "MS ధోని భార్య సాక్షి ధోని పాన్ సింగ్ ధోని కోసం హృదయపూర్వక పోస్ట్‌ను పంచుకున్నారు, \"నా మనిషి విజయం వెనుక ఉన్న బలం\" అని పేర్కొన్నాడు. అతని స్ఫూర్తిదాయకమైన ప్రయాణం మరియు ఎంఎస్ ధోనిని తీర్చిదిద్దడంలో పాత్రను ఆమె ప్రశంసించింది. ఇంతలో, AB డివిలియర్స్ ధోని చెన్నై సూపర్ కింగ్స్ కోసం ఎక్కువ బ్యాటింగ్ చేయాలని లేదా మెంటార్ పాత్రను పరిగణించాలని సూచించాడు.",
+      "summary_te": "MS ధోని భార్య సాక్షి ధోనీ పాన్ సింగ్ ధోని కోసం హృదయపూర్వక పోస్ట్‌ను పంచుకున్నారు, \"నా మనిషి విజయం వెనుక ఉన్న బలం\" అని పేర్కొన్నాడు. అతని స్ఫూర్తిదాయకమైన ప్రయాణం మరియు ఎంఎస్ ధోనిని తీర్చిదిద్దడంలో పాత్రను ఆమె ప్రశంసించింది. ఇంతలో, AB డివిలియర్స్ ధోని చెన్నై సూపర్ కింగ్స్ కోసం ఎక్కువ బ్యాటింగ్ చేయాలని లేదా మెంటరింగ్ పాత్రను పరిగణించాలని సూచించాడు.",
       "translated": true
     },
     {
@@ -785,7 +897,7 @@
       "category": "india",
       "language": "en",
       "title_te": "స్కూల్ అసెంబ్లీ వార్తల ముఖ్యాంశాలు (మార్చి 20): టాప్ నేషనల్, వరల్డ్, స్పోర్ట్స్ అప్‌డేట్‌లు",
-      "summary_te": "స్కూల్ అసెంబ్లీ న్యూస్ హెడ్‌లైన్స్ ఈరోజు (మార్చి 20): ముఖ్యమైన జాతీయ, అంతర్జాతీయ, క్రీడలు మరియు విద్యా వార్తల గురించి ఎప్పటికప్పుడు తెలుసుకోవడం విద్యార్థుల మనస్సును పదును పెడుతుంది.",
+      "summary_te": "స్కూల్ అసెంబ్లీ న్యూస్ హెడ్‌లైన్స్ టుడే (మార్చి 20): ముఖ్యమైన జాతీయ, అంతర్జాతీయ, క్రీడలు మరియు విద్యా వార్తలను ఎప్పటికప్పుడు తెలుసుకోవడం విద్యార్థుల మనస్సును పదును పెడుతుంది.",
       "translated": true
     },
     {
@@ -813,7 +925,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఆర్మగెడాన్ దృశ్యం! ఖతార్ యొక్క ఎల్‌ఎన్‌జి హబ్‌పై ఇరాన్ దాడి యూరప్, ఆసియాకు ఎందుకు పీడకలగా ఉంది",
-      "summary_te": "సాధారణ పరిస్థితుల్లో, ప్రపంచంలోని ఎల్‌ఎన్‌జి సరఫరాలో దాదాపు ఐదవ వంతు రాస్ లఫాన్ నుండి ఉద్భవించింది, ఇది మూడు దశాబ్దాలుగా వందల బిలియన్ల డాలర్ల వ్యయంతో అభివృద్ధి చెందిన విశాలమైన పారిశ్రామిక కేంద్రం మరియు పారిస్‌తో పోలిస్తే దాదాపు మూడు రెట్లు విస్తరించి ఉంది.",
+      "summary_te": "సాధారణ పరిస్థితుల్లో, ప్రపంచంలోని ఎల్‌ఎన్‌జి సరఫరాలో దాదాపు ఐదవ వంతు రాస్ లఫాన్ నుండి ఉద్భవించింది, ఇది మూడు దశాబ్దాలుగా వందల బిలియన్ల డాలర్ల వ్యయంతో అభివృద్ధి చెందిన విశాలమైన పారిశ్రామిక కేంద్రంగా ఉంది మరియు పారిస్ కంటే దాదాపు మూడు రెట్లు విస్తరించి ఉంది.",
       "translated": true
     },
     {
@@ -869,7 +981,7 @@
       "category": "india",
       "language": "en",
       "title_te": "మణిపూర్‌లోని ఉఖ్రుల్‌లో అనుమానిత కుకీ, తంగ్‌ఖుల్ గ్రూపుల మధ్య కాల్పులు జరిగాయి",
-      "summary_te": "మణిపూర్‌లోని ఉఖ్రుల్‌లోని పలు చోట్ల కుకీ మరియు తంగ్‌ఖుల్ గ్రూపులు ఘర్షణ పడుతున్నట్లు కాల్పులు జరిగాయి; భద్రతా బలగాలు అప్రమత్తంగా ఉన్నాయి",
+      "summary_te": "మణిపూర్‌లోని ఉఖ్రుల్‌లోని పలు చోట్ల కుకీ మరియు తంగ్‌ఖుల్ గ్రూపులు ఘర్షణ పడినట్లు తుపాకీ కాల్పులు జరిగాయి; భద్రతా బలగాలు అప్రమత్తంగా ఉన్నాయి",
       "translated": true
     },
     {
@@ -911,7 +1023,7 @@
       "category": "india",
       "language": "en",
       "title_te": "గోవా NEP నిబంధనలను సడలించింది, పాఠశాలలు ప్రస్తుతానికి పోర్చుగీస్, ఫ్రెంచ్ భాషలను అందించడానికి అనుమతిస్తుంది",
-      "summary_te": "గోవా NEP నిబంధనలను సడలించడంతో విద్యార్థులకు ఉపశమనం, 2026–27 నుండి మరిన్ని తరగతులకు పాలసీని విస్తరింపజేసేటప్పుడు పాఠశాలలు ఫ్రెంచ్, పోర్చుగీస్‌లను కొనసాగించడానికి అనుమతిస్తాయి",
+      "summary_te": "గోవా NEP నిబంధనలను సడలించడంతో విద్యార్థులకు ఉపశమనం, పాఠశాలలు ఫ్రెంచ్, పోర్చుగీస్‌లను కొనసాగించడానికి అనుమతించడంతో పాటు 2026–27 నుండి మరిన్ని తరగతులకు పాలసీని పొడిగిస్తుంది",
       "translated": true
     },
     {
@@ -925,7 +1037,7 @@
       "category": "india",
       "language": "en",
       "title_te": "మరింత నొప్పి లోడ్ అవుతుందా? ఎల్‌ఎన్‌జిపై ఇరాన్ దాడులు, గల్ఫ్ అంతటా చమురు కేంద్రాలు భారతదేశాన్ని ఎలా ప్రభావితం చేస్తాయి",
-      "summary_te": "భారతదేశం తన LNG అవసరాలలో దాదాపు 40% ఖతార్ నుండి పొందుతుంది. మిడిల్ ఈస్ట్‌లో కీలకమైన ఇంధన మౌలిక సదుపాయాలకు జరిగిన నష్టంపై విదేశాంగ మంత్రిత్వ శాఖ ప్రతినిధి రణధీర్ జైస్వాల్ స్పందిస్తూ, \"ఈ ప్రాంతం అంతటా ఇంధన మౌలిక సదుపాయాలతో సహా పౌర మౌలిక సదుపాయాలను లక్ష్యంగా చేసుకోకుండా నిరోధించాలని భారతదేశం గతంలో పిలుపునిచ్చింది.\"",
+      "summary_te": "భారతదేశం తన LNG అవసరాలలో దాదాపు 40% ఖతార్ నుండి పొందుతుంది. మిడిల్ ఈస్ట్‌లో కీలకమైన ఇంధన మౌలిక సదుపాయాలు దెబ్బతినడంపై విదేశాంగ మంత్రిత్వ శాఖ ప్రతినిధి రణధీర్ జైస్వాల్ స్పందిస్తూ, \"ఈ ప్రాంతం అంతటా ఇంధన మౌలిక సదుపాయాలతో సహా పౌర మౌలిక సదుపాయాలను లక్ష్యంగా చేసుకోకుండా నిరోధించాలని భారతదేశం గతంలో పిలుపునిచ్చింది.\"",
       "translated": true
     },
     {
@@ -953,7 +1065,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఎస్ జైశంకర్ ఇజ్రాయెల్ కౌంటర్‌తో మాట్లాడుతూ, మధ్యప్రాచ్య సంఘర్షణపై చర్చలు",
-      "summary_te": "న్యూఢిల్లీ, మార్చి 19 (IANS) పశ్చిమాసియాలో కొనసాగుతున్న సంఘర్షణ మరియు దాని పర్యవసానాలపై విదేశాంగ మంత్రి (ఈఏఎం) ఎస్ జైశంకర్ మరియు అతని ఇజ్రాయెల్ కౌంటర్ గిడియాన్ సార్ గురువారం టెలిఫోనిక్ సంభాషణ నిర్వహించారు.",
+      "summary_te": "న్యూఢిల్లీ, మార్చి 19 (IANS) పశ్చిమాసియాలో కొనసాగుతున్న వివాదం మరియు దాని పర్యవసానాలపై విదేశాంగ మంత్రి (ఈఏఎం) ఎస్ జైశంకర్ మరియు అతని ఇజ్రాయెల్ కౌంటర్ గిడియాన్ సార్ గురువారం టెలిఫోనిక్ సంభాషణ నిర్వహించారు.",
       "translated": true
     },
     {
@@ -967,7 +1079,7 @@
       "category": "india",
       "language": "en",
       "title_te": "గల్ఫ్ యుద్ధం ఇంధన మార్కెట్లను వణుకుతున్నందున ధరలను తగ్గించడానికి ఇరాన్ చమురును అమెరికా రద్దు చేయవచ్చు",
-      "summary_te": "గల్ఫ్ వివాదం తీవ్రమవుతున్న నేపథ్యంలో అంతర్జాతీయ ధరలను స్థిరీకరించేందుకు 140 మిలియన్ బ్యారెళ్ల ఇరాన్ చమురును విడుదల చేయాలని ట్రంప్ ప్రభుత్వం పరిశీలిస్తోంది. US ట్రెజరీ సెక్రటరీ స్కాట్ బెస్సెంట్ భౌతిక సరఫరాను పెంచడానికి రోజుల వ్యవధిలో సంభావ్య చర్యను సూచించాడు, దీనిని \"బ్రేక్ ద గ్లాస్ ప్లాన్\"గా అభివర్ణించాడు.",
+      "summary_te": "గల్ఫ్ వివాదం తీవ్రమవుతున్న నేపథ్యంలో అంతర్జాతీయ ధరలను స్థిరీకరించేందుకు 140 మిలియన్ బ్యారెళ్ల ఇరాన్ చమురును విడుదల చేయాలని ట్రంప్ ప్రభుత్వం పరిశీలిస్తోంది. US ట్రెజరీ సెక్రటరీ స్కాట్ బెసెంట్ భౌతిక సరఫరాను పెంచడానికి కొన్ని రోజుల్లోనే సంభావ్య చర్యను సూచించాడు, దీనిని \"బ్రేక్ ద గ్లాస్ ప్లాన్\"గా అభివర్ణించాడు.",
       "translated": true
     },
     {
@@ -994,7 +1106,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "ఛత్తీస్‌గఢ్ మత స్వేచ్ఛ బిల్లు 2026ని ఆమోదించింది, సామూహిక మతమార్పిడులకు జీవిత ఖైదును ప్రవేశపెట్టింది",
+      "title_te": "ఛత్తీస్‌గఢ్ మత స్వేచ్ఛ బిల్లు 2026ను ఆమోదించింది, సామూహిక మతమార్పిడులకు జీవిత ఖైదును ప్రవేశపెట్టింది",
       "summary_te": "బిల్లుపై చర్చ సందర్భంగా, హోం పోర్ట్‌ఫోలియోను కూడా కలిగి ఉన్న శర్మ, కాంగ్రెస్ ఓటు బ్యాంకు రాజకీయాలకు పాల్పడుతోందని ఆరోపించారు.",
       "translated": true
     },
@@ -1055,20 +1167,6 @@
       "translated": true
     },
     {
-      "id": "c73acd147ea163867d7353cf6c121ee2",
-      "title": "Govt launches Rs 497cr RELIEF scheme to support exporters hit by Middle East conflict",
-      "summary": "India has launched the Rs 497 crore RELIEF scheme to aid exporters facing Middle East conflict disruptions. The initiative, managed by ECGC, offers extended export obligations, enhanced insurance cover, and crucial support for MSMEs grappling with increased freight and insurance costs. This aims to maintain India's market share and prevent shipment delays.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/government-launches-rs-497-crore-relief-scheme-to-support-exporters-hit-by-middle-east-conflict-all-you-need-to-know/articleshow/129681975.cms",
-      "image": "https://static.toiimg.com/photo/msid-129682090,imgsize-132192.cms",
-      "published_at": "2026-03-19T14:49:18.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ వివాదంలో దెబ్బతిన్న ఎగుమతిదారులను ఆదుకోవడానికి ప్రభుత్వం రూ. 497 కోట్ల రిలీఫ్ పథకాన్ని ప్రారంభించింది",
-      "summary_te": "మిడిల్ ఈస్ట్ సంఘర్షణ అంతరాయాలను ఎదుర్కొంటున్న ఎగుమతిదారులకు సహాయం చేయడానికి భారతదేశం రూ. 497 కోట్ల రిలీఫ్ పథకాన్ని ప్రారంభించింది. ECGC ద్వారా నిర్వహించబడే చొరవ, పొడిగించిన ఎగుమతి బాధ్యతలు, మెరుగైన బీమా రక్షణ మరియు పెరిగిన సరుకు రవాణా మరియు బీమా ఖర్చులతో పోరాడుతున్న MSMEలకు కీలకమైన మద్దతును అందిస్తుంది. ఇది భారతదేశ మార్కెట్ వాటాను కొనసాగించడం మరియు రవాణా జాప్యాన్ని నిరోధించడం లక్ష్యంగా పెట్టుకుంది.",
-      "translated": true
-    },
-    {
       "id": "8ec69bab4c17d059300a3964cd4bca32",
       "title": "Drunk Woman Shouts, Screams, Brings Traffic To Halt Outside Gujarat Hospital",
       "summary": "The erratic behaviour led to long queues of vehicles on both sides of the road, causing a tense situation as ambulances and emergency vehicles struggled to navigate through the gridlock.",
@@ -1107,7 +1205,7 @@
       "category": "india",
       "language": "en",
       "title_te": "‘ప్రపంచానికి ముప్పు’: అమెరికా ఇంటెల్ చీఫ్ తులసీ గబ్బార్డ్ వ్యాఖ్యల తర్వాత పాకిస్థాన్ ‘చరిత్ర’పై భారత్ ధ్వజమెత్తింది.",
-      "summary_te": "పాకిస్తాన్ క్షిపణులను \"అభివృద్ధి\" చేస్తోందని గబ్బర్డ్ చెప్పడంపై, MEA ప్రతినిధి రణధీర్ జైస్వాల్ ఇస్లామాబాద్ యొక్క \"అణు విస్తరణ\" చరిత్రను హైలైట్ చేశారు.",
+      "summary_te": "పాకిస్తాన్ క్షిపణులను \"అభివృద్ధి\" చేస్తోందని గబ్బర్డ్ చెప్పడంపై, MEA ప్రతినిధి రణధీర్ జైస్వాల్ ఇస్లామాబాద్ యొక్క \"అణు విస్తరణ\" చరిత్రను ఎత్తిచూపారు.",
       "translated": true
     },
     {
@@ -1121,7 +1219,7 @@
       "category": "india",
       "language": "en",
       "title_te": "వారు ఒక కలతో దుబాయ్ వెళ్ళారు, ఇప్పుడు వారు కోరుకునేది భారతదేశానికి తిరిగి రావడమే",
-      "summary_te": "హైదరాబాద్‌కు చెందిన సోదరులకు, అమెరికా-ఇజ్రాయెల్ మరియు ఇరాన్ మధ్య యుద్ధం చెలరేగడంతో వారి దుబాయ్ కల ఖరీదైన పందెంలా మారింది.",
+      "summary_te": "హైదరాబాద్‌లోని సోదరులకు, అమెరికా-ఇజ్రాయెల్ మరియు ఇరాన్ మధ్య యుద్ధం చెలరేగడంతో వారి దుబాయ్ కల ఖరీదైన పందెంలా మారింది.",
       "translated": true
     },
     {
@@ -1139,20 +1237,6 @@
       "translated": true
     },
     {
-      "id": "66c5d9f49cca885e4ffcc895ad24b688",
-      "title": "NCERT Issues Admit Cards for 2026 Non-Teaching Recruitment Exams",
-      "summary": "NCERT has released admit cards for its non teaching recruitment exam covering Group A, B, and C posts.",
-      "url": "https://www.ndtv.com/education/ncert-issues-admit-cards-for-2026-non-teaching-recruitment-exams-11239232#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/lprki4a_ncert_625x300_19_March_26.jpeg",
-      "published_at": "2026-03-19T14:19:24.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "NCERT 2026 నాన్-టీచింగ్ రిక్రూట్‌మెంట్ పరీక్షల కోసం అడ్మిట్ కార్డ్‌లను జారీ చేసింది",
-      "summary_te": "ఎన్‌సిఇఆర్‌టి గ్రూప్ ఎ, బి మరియు సి పోస్టులను కవర్ చేసే బోధనేతర రిక్రూట్‌మెంట్ పరీక్ష కోసం అడ్మిట్ కార్డ్‌లను విడుదల చేసింది.",
-      "translated": true
-    },
-    {
       "id": "43eb730be110e51bb167f8143e4fa910",
       "title": "Gold, silver prices slip to multi-weeks low amid war in West Asia | Check rates here",
       "summary": "The decline in Gold comes as investors reassess the outlook for interest rates and inflation, both of which continue to weigh on the metals market.",
@@ -1167,34 +1251,6 @@
       "translated": true
     },
     {
-      "id": "344c8a618be61aec817d1eebfe15a077",
-      "title": "Congress Versus BJP In Chhattisgarh Assembly Over Anti-Conversion Bill",
-      "summary": "High drama unfolded in the Chhattisgarh Assembly on Thursday as the Freedom of Religion Bill, 2026, triggered a fierce political showdown.",
-      "url": "https://www.ndtv.com/india-news/congress-versus-bjp-in-chhattisgarh-assembly-over-anti-conversion-bill-11239128#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-01/48vibtss_chhattisgarh-assembly-budget-session-2026_625x300_29_January_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-19T14:05:07.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మతమార్పిడి నిరోధక బిల్లుపై ఛత్తీస్‌గఢ్ అసెంబ్లీలో కాంగ్రెస్ వర్సెస్ బీజేపీ",
-      "summary_te": "మతస్వేచ్ఛ బిల్లు 2026 తీవ్ర రాజకీయ ప్రకంపనలు రేపడంతో గురువారం చత్తీస్‌గఢ్ అసెంబ్లీలో హై డ్రామా జరిగింది.",
-      "translated": true
-    },
-    {
-      "id": "87146168f1ef15e25d8ad64426b05cdc",
-      "title": "Ashram-Based Fake Currency Racket Busted In Ahmedabad, Rs 2 Crore Seized",
-      "summary": "The racket was being operated from the 'Shree Satya Yog Foundation' ashram in Dhoran Pardi village, Kamrej Taluka, Surat district. Over 40,000 counterfeit notes in Rs 500 denominations were recovered.",
-      "url": "https://www.ndtv.com/india-news/ashram-based-fake-currency-racket-busted-in-ahmedabad-rs-2-crore-seized-11239104#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/natfr25s_ashram-notes-seized_625x300_19_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-19T14:02:10.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "అహ్మదాబాద్‌లో ఆశ్రమం ఆధారిత నకిలీ కరెన్సీ రాకెట్ 2 కోట్లు స్వాధీనం",
-      "summary_te": "సూరత్ జిల్లా కమ్రెజ్ తాలూకా ధోరన్ పార్డి గ్రామంలోని 'శ్రీ సత్య యోగ్ ఫౌండేషన్' ఆశ్రమం నుంచి ఈ రాకెట్‌ను నిర్వహిస్తున్నారు. 500 డినామినేషన్లలో 40 వేలకు పైగా నకిలీ నోట్లు బయటపడ్డాయి.",
-      "translated": true
-    },
-    {
       "id": "0f5962caed0d928a2edd1374359bb6af",
       "title": "'Not 20 anymore': Abhishek Sharma told to take more responsibility in IPL",
       "summary": "The 25-year-old Abhishek has built a reputation for fast starts at the top of the order with his high-risk approach. However, his starts have not always turned into big scores.",
@@ -1205,35 +1261,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'ఇక 20 కాదు': ఐపీఎల్‌లో మరింత బాధ్యత వహించాలని అభిషేక్ శర్మ చెప్పాడు",
-      "summary_te": "25 ఏళ్ల అభిషేక్ తన అధిక-రిస్క్ విధానంతో ఆర్డర్‌లో అగ్రస్థానంలో ఫాస్ట్ స్టార్ట్‌లకు ఖ్యాతిని సంపాదించాడు. అయితే, అతని ఆరంభాలు ఎల్లప్పుడూ పెద్ద స్కోర్లుగా మారలేదు.",
-      "translated": true
-    },
-    {
-      "id": "f070091c70a5052503fa84508255d69f",
-      "title": "'Don't Be Lax': Court To Cops On Violence Threats In Delhi Ahead Of Eid",
-      "summary": "The Delhi High Court underlined that Eid is a festival of joy and must not be disrupted by any form of hooliganism.",
-      "url": "https://www.ndtv.com/india-news/uttam-nagar-delhi-high-court-tells-delhi-police-dont-be-lax-on-violence-threats-ahead-of-eid-11239004#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-03/6becqis_court-generic_625x300_05_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-19T13:48:32.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'డోంట్ బి లాక్స్': ఈద్‌కు ముందు ఢిల్లీలో హింసాత్మక బెదిరింపులపై పోలీసులకు కోర్టు",
-      "summary_te": "ఈద్ ఆనందాన్ని పంచే పండుగ అని, ఎలాంటి పోకిరీలకు అంతరాయం కలిగించకూడదని ఢిల్లీ హైకోర్టు స్పష్టం చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "b2432e29a21e106696eb08686b6644d0",
-      "title": "CBI Questions Anil Ambani for 8 Hours In Bank Fraud Case, Summons Him Again",
-      "summary": "The agency has also registered additional cases against Reliance Communications Limited and its directors based on complaints from Bank of Baroda and Punjab National Bank earlier this year.",
-      "url": "https://www.ndtv.com/india-news/cbi-questions-anil-ambani-for-8-hours-in-bank-fraud-case-summons-him-again-tomorrow-11238888#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/gpfaptjo_anil-ambani-_625x300_06_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-19T13:38:18.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "బ్యాంక్ మోసం కేసులో అనిల్ అంబానీని 8 గంటల పాటు ప్రశ్నించిన సీబీఐ, మళ్లీ సమన్లు",
-      "summary_te": "ఈ ఏడాది ప్రారంభంలో బ్యాంక్ ఆఫ్ బరోడా మరియు పంజాబ్ నేషనల్ బ్యాంక్ నుండి వచ్చిన ఫిర్యాదుల ఆధారంగా రిలయన్స్ కమ్యూనికేషన్స్ లిమిటెడ్ మరియు దాని డైరెక్టర్లపై ఏజెన్సీ అదనపు కేసులను నమోదు చేసింది.",
+      "summary_te": "25 ఏళ్ల అభిషేక్ తన అధిక-రిస్క్ విధానంతో ఆర్డర్‌లో అగ్రస్థానంలో ఫాస్ట్ స్టార్ట్‌లకు ఖ్యాతిని సంపాదించాడు. అయితే, అతని ఆరంభాలు ఎప్పుడూ పెద్ద స్కోర్లుగా మారలేదు.",
       "translated": true
     },
     {
@@ -1276,20 +1304,6 @@
       "language": "en",
       "title_te": "దావూద్ ఇబ్రహీంకు చెందిన మహారాష్ట్ర ప్లాట్లు నాలుగుసార్లు విఫలమైన తర్వాత ఎట్టకేలకు వేలం వేశారు",
       "summary_te": "దావూద్ ఇబ్రహీంకు చెందిన మహారాష్ట్ర ప్లాట్లు నాలుగుసార్లు విఫలమైన తర్వాత ఎట్టకేలకు వేలం వేశారు",
-      "translated": true
-    },
-    {
-      "id": "39563ae9f0bc1a0fd065c543bcc3fe32",
-      "title": "India to buy LPG from Russia? MEA says will ensure 'people's fuel needs are met'",
-      "summary": "India is actively seeking LPG from all available sources, including Russia, to secure energy supplies. This move comes as the Middle East conflict disrupts global energy markets. India is also continuing to provide energy assistance to neighboring nations like Bangladesh, Sri Lanka, and Maldives. Consumers are urged to use LPG wisely.",
-      "url": "https://timesofindia.indiatimes.com/india/india-to-buy-lpg-from-russia-mea-says-will-ensure-peoples-fuel-needs-are-met/articleshow/129680313.cms",
-      "image": "https://static.toiimg.com/photo/msid-129680351,imgsize-698654.cms",
-      "published_at": "2026-03-19T13:00:32.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "రష్యా నుంచి ఎల్‌పీజీ కొనుగోలు చేయనున్న భారత్? 'ప్రజల ఇంధన అవసరాలు తీరుస్తామని' MEA చెబుతోంది",
-      "summary_te": "ఇంధన సరఫరాల భద్రత కోసం రష్యాతో సహా అందుబాటులో ఉన్న అన్ని వనరుల నుండి భారతదేశం చురుకుగా LPGని కోరుతోంది. మిడిల్ ఈస్ట్ వివాదం ప్రపంచ ఇంధన మార్కెట్లకు అంతరాయం కలిగించినందున ఈ చర్య వచ్చింది. బంగ్లాదేశ్, శ్రీలంక మరియు మాల్దీవులు వంటి పొరుగు దేశాలకు కూడా భారతదేశం ఇంధన సహాయాన్ని అందిస్తోంది. వినియోగదారులు ఎల్‌పిజిని తెలివిగా ఉపయోగించాలని కోరారు.",
       "translated": true
     },
     {
@@ -1387,21 +1401,7 @@
       "category": "india",
       "language": "en",
       "title_te": "మూడు వారాలు, మూడు సవాళ్లు: మిడిల్ ఈస్ట్ పేలడంతో భారతదేశం యొక్క యుద్ధాల లోపల",
-      "summary_te": "ఆపరేషన్ ఎపిక్ ఫ్యూరీ మధ్యప్రాచ్యాన్ని గందరగోళంలోకి నెట్టింది, భారతదేశం బహుముఖ సంక్షోభాన్ని నిర్వహించడానికి ప్రేరేపించింది. 2.2 లక్షల మంది భారతీయులు పెరుగుతున్న ఘర్షణల మధ్య స్వదేశానికి తిరిగి వచ్చారు, అయితే ఇంధన సరఫరాలు ఒత్తిడిని ఎదుర్కొంటున్నాయి. న్యూ ఢిల్లీ తన పౌరులను మరియు ఆర్థిక ప్రయోజనాలను రక్షించడానికి ప్రపంచ శక్తులను సమతుల్యం చేస్తూ సున్నితమైన దౌత్య బంధాన్ని నావిగేట్ చేస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "617399127e05c1589d40ae0bf5f43e7b",
-      "title": "‘Unacceptable': India says attacks on energy sites 'deeply disturbing' as West Asia conflict escalates",
-      "summary": "India's statement comes after Iran launched retaliatory strikes on energy infrastructure in Saudi Arabia, Qatar and Kuwait.",
-      "url": "https://www.hindustantimes.com/india-news/unacceptable-india-says-attacks-on-energy-sites-deeply-disturbing-as-west-asia-conflict-escalates-us-iran-israel-war-101773921210910.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/19/1600x900/PIB-Briefing-West-Asia-War--1_1773934701669_1773934711919.jpg",
-      "published_at": "2026-03-19T12:00:35.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "‘ఆమోదయోగ్యం కాదు’: పశ్చిమాసియా సంఘర్షణ తీవ్రతరం కావడంతో ఎనర్జీ సైట్‌లపై దాడులు ‘తీవ్రంగా కలవరపెడుతున్నాయి’ అని భారత్ పేర్కొంది",
-      "summary_te": "సౌదీ అరేబియా, ఖతార్ మరియు కువైట్‌లలో ఇంధన మౌలిక సదుపాయాలపై ఇరాన్ ప్రతీకార దాడులను ప్రారంభించిన తర్వాత భారతదేశం యొక్క ప్రకటన వచ్చింది.",
+      "summary_te": "ఆపరేషన్ ఎపిక్ ఫ్యూరీ మధ్యప్రాచ్యాన్ని గందరగోళంలోకి నెట్టింది, భారతదేశం బహుముఖ సంక్షోభాన్ని నిర్వహించడానికి ప్రేరేపించింది. పెరుగుతున్న ఘర్షణల మధ్య 2.2 లక్షల మంది భారతీయులు స్వదేశానికి తిరిగి వచ్చారు, అయితే ఇంధన సరఫరాలు ఒత్తిడిని ఎదుర్కొంటున్నాయి. న్యూ ఢిల్లీ తన పౌరులను మరియు ఆర్థిక ప్రయోజనాలను రక్షించడానికి ప్రపంచ శక్తులను సమతుల్యం చేస్తూ సున్నితమైన దౌత్యపరమైన బిగుతును నావిగేట్ చేస్తుంది.",
       "translated": true
     }
   ]
