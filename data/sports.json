@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-19T01:12:35.127Z",
-  "updated_at_IST": "19/3/2026, 6:42:35 am",
+  "updated_at": "2026-03-19T03:55:03.427Z",
+  "updated_at_IST": "19/3/2026, 9:25:03 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "b8947e2436ed796fdfe52812ede7b54d",
+      "title": "Molineux set to return but full all-round role remains uncertain",
+      "summary": "Caution will be taken with Australia's new captain ahead of the T20 World Cup later this year",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528256.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
+      "published_at": "2026-03-19T01:21:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "Molineux తిరిగి రావడానికి సిద్ధంగా ఉంది కానీ పూర్తి ఆల్ రౌండ్ పాత్ర అనిశ్చితంగా ఉంది",
+      "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌కు ముందు ఆస్ట్రేలియా కొత్త కెప్టెన్‌తో జాగ్రత్తలు తీసుకోనున్నారు",
+      "translated": true
+    },
     {
       "id": "731ae2ae1d0d54b0258c037eaf5560da",
       "title": "Kishan to lead Sunrisers Hyderabad in Cummins' absence",
@@ -100,20 +114,6 @@
       "language": "en",
       "title_te": "ఫెర్గూసన్ ఆన్ సియర్స్: 'అతనికి ఇంకా ఎక్కువ వేగం ఉంది'",
       "summary_te": "\"నాకు న్యూజిలాండ్‌లో స్వదేశీ ప్రేక్షకుల ముందు ఆడటం చాలా ఇష్టం, పరిస్థితులు నాకు అలవాటు\" అని లాకీ ఫెర్గూసన్ విరామం తర్వాత తిరిగి రావడం గురించి చెప్పాడు",
-      "translated": true
-    },
-    {
-      "id": "b8947e2436ed796fdfe52812ede7b54d",
-      "title": "Molineux set to return but full all-round role remains uncertain",
-      "summary": "Caution will be taken with Australia's new captain ahead of the T20 World Cup later this year",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528256.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
-      "published_at": "2026-03-18T03:31:29.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "Molineux తిరిగి రావడానికి సిద్ధంగా ఉంది కానీ పూర్తి ఆల్ రౌండ్ పాత్ర అనిశ్చితంగా ఉంది",
-      "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌కు ముందు ఆస్ట్రేలియా కొత్త కెప్టెన్‌తో జాగ్రత్తలు తీసుకోనున్నారు",
       "translated": true
     },
     {
