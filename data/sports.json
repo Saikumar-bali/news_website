@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-03-19T09:45:43.788Z",
-  "updated_at_IST": "19/3/2026, 3:15:43 pm",
+  "updated_at": "2026-03-19T10:41:18.294Z",
+  "updated_at_IST": "19/3/2026, 4:11:18 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
+      "id": "07271810756b840f2e628cec1873fff3",
+      "title": "Nat Sciver-Brunt heads home from South Africa for family reasons",
+      "summary": "England captain had led Team Brittin to victory in the first of five intra-squad trial games in Pretoria",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528396.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/403800/403807.jpg",
+      "published_at": "2026-03-19T09:57:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "నాట్ స్కివర్-బ్రంట్ కుటుంబ కారణాల రీత్యా దక్షిణాఫ్రికా నుండి ఇంటికి వెళ్తాడు",
+      "summary_te": "ప్రిటోరియాలో జరిగిన ఐదు ఇంట్రా-స్క్వాడ్ ట్రయల్ గేమ్‌లలో ఇంగ్లండ్ కెప్టెన్ టీమ్ బ్రిటిన్‌ను విజయానికి నడిపించాడు.",
+      "translated": true
+    },
+    {
       "id": "e174af881341e66765125c4069005744",
       "title": "LA Knight Riders to play MLC 2026 matches at own venue in Pomona, California",
-      "summary": "No MLC team has had its own venue before this, and the update comes even as preparations are on for cricket's reintroduction to the Olympic Games in 2028, in Los Angeles",
+      "summary": "It is understood that the Knight Riders Cricket Field, at Fairplex in Pomona, California, will also host matches of the Los Angeles Olympic Games in 2028",
       "url": "https://www.espncricinfo.com/ci/content/story/1528393.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/402700/402736.jpg",
       "published_at": "2026-03-19T09:25:57.000Z",
@@ -15,7 +29,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "LA నైట్ రైడర్స్ కాలిఫోర్నియాలోని పోమోనాలోని సొంత వేదికలో MLC 2026 మ్యాచ్‌లను ఆడనుంది",
-      "summary_te": "ఇంతకు ముందు ఏ MLC జట్టుకు సొంత వేదిక లేదు మరియు 2028లో లాస్ ఏంజిల్స్‌లో జరిగే ఒలింపిక్ క్రీడలకు క్రికెట్‌ను తిరిగి ప్రవేశపెట్టడానికి సన్నాహాలు జరుగుతున్నప్పుడు కూడా ఈ నవీకరణ వస్తుంది.",
+      "summary_te": "కాలిఫోర్నియాలోని పోమోనాలోని ఫెయిర్‌ప్లెక్స్‌లోని నైట్ రైడర్స్ క్రికెట్ ఫీల్డ్ 2028లో లాస్ ఏంజిల్స్ ఒలింపిక్ క్రీడల మ్యాచ్‌లకు కూడా ఆతిథ్యం ఇవ్వనున్న విషయం తెలిసిందే.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "వెబ్‌స్టర్ ఫోర్ టాస్మానియా సీజన్‌ను బలంగా ముగించడంలో సహాయపడుతుంది",
       "summary_te": "రౌండ్‌ను ప్రారంభించిన క్వీన్స్‌లాండ్‌కు ఫైనల్‌కు అవకాశం ఉండేలా విజయవంతమైన ఛేజింగ్ ఎప్పుడూ ఉండదు",
-      "translated": true
-    },
-    {
-      "id": "3342f27407f9c8d6494526479e7b0a08",
-      "title": "Victoria, South Australia shake on a draw ahead of real contest next week",
-      "summary": "The two sides will meet again at the same venue from March 26 to decide the Sheffield Shield title",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528160.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414745.jpg",
-      "published_at": "2026-03-17T05:46:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వచ్చే వారం నిజమైన పోటీకి ముందు విక్టోరియా, దక్షిణ ఆస్ట్రేలియా డ్రాగా ఆడాయి",
-      "summary_te": "షెఫీల్డ్ షీల్డ్ టైటిల్‌ను నిర్ణయించేందుకు ఇరు జట్లు మార్చి 26 నుంచి ఇదే వేదికపై మరోసారి సమావేశం కానున్నాయి",
       "translated": true
     }
   ]
