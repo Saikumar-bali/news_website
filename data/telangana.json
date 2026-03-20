@@ -1,65 +1,9 @@
 {
-  "updated_at": "2026-03-20T16:42:52.308Z",
-  "updated_at_IST": "20/3/2026, 10:12:52 pm",
+  "updated_at": "2026-03-20T17:41:10.023Z",
+  "updated_at_IST": "20/3/2026, 11:11:10 pm",
   "category": "telangana",
-  "count": 32,
+  "count": 21,
   "articles": [
-    {
-      "id": "d534c14b036170f57e36da1d1a4d22dd",
-      "title": "A missile on the journalist.. A tear-jerking video",
-      "summary": "Missile on Journalist.. tear-jerking video dsudheer Fri, 03/20/2026 - 21:26",
-      "url": "https://www.sakshi.com/telugu-news/international/missile-hurtles-towards-journalist-2738519",
-      "image": null,
-      "published_at": "2026-03-20T15:56:31.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "జర్నలిస్టు పైకి మిసైల్‌.. ఒళ్లు గగుల్పొరిచే వీడియో",
-      "summary_te": "జర్నలిస్టు పైకి మిసైల్‌.. ఒళ్లు గగుల్పొరిచే వీడియో dsudheer Fri, 03/20/2026 - 21:26",
-      "translated": true
-    },
-    {
-      "id": "b171191ca60158658d2cf3c2ce8a7b4b",
-      "title": "Forward in technology.. backward in ideas?",
-      "summary": "Forward in technology.. backward in ideas? sirikumar Fri, 03/20/2026 - 21:24",
-      "url": "https://www.sakshi.com/telugu-news/business/gen-z-surprising-gender-attitudes-savvy-2738518",
-      "image": null,
-      "published_at": "2026-03-20T15:54:25.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "టెక్నాలజీలో ముందుకు.. ఆలోచనల్లో వెనక్కి?",
-      "summary_te": "టెక్నాలజీలో ముందుకు.. ఆలోచనల్లో వెనక్కి? sirikumar Fri, 03/20/2026 - 21:24",
-      "translated": true
-    },
-    {
-      "id": "568de77db0cb215ddf6d20db1ee5f2ed",
-      "title": "IPL 2026: Rajasthan gave up billions",
-      "summary": "IPL 2026: Rajasthan swarun who gave up billions Fri, 03/20/2026 - 21:18",
-      "url": "https://www.sakshi.com/telugu-news/sports/rajasthan-royals-rejects-inr-16000-crore-bid-ahead-ipl-2026-2738517",
-      "image": null,
-      "published_at": "2026-03-20T15:48:07.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "IPL 2026: వేలకోట్లు వదులుకున్న రాజస్థాన్‌",
-      "summary_te": "IPL 2026: వేలకోట్లు వదులుకున్న రాజస్థాన్‌ svarun Fri, 03/20/2026 - 21:18",
-      "translated": true
-    },
-    {
-      "id": "dc90f7c37915a53af8c386f8a617cb68",
-      "title": "Samyukta Menon Glamorous Pics.. Pragya Jaiswal in Maldives..!",
-      "summary": "Samyukta Menon Glamorous Pics.. Pragya Jaiswal in Maldives..! madhusudhan Fri, 03/20/2026 - 21:12",
-      "url": "https://www.sakshi.com/telugu-news/movies/tollywood-actresses-latest-social-media-updates-instagram-2738516",
-      "image": null,
-      "published_at": "2026-03-20T15:42:22.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "సంయుక్త మీనన్ గ్లామరస్ పిక్స్.. మాల్దీవుస్‌లో ప్రగ్యా జైస్వాల్..!",
-      "summary_te": "సంయుక్త మీనన్ గ్లామరస్ పిక్స్.. మాల్దీవుస్‌లో ప్రగ్యా జైస్వాల్..! madhusudhan Fri, 03/20/2026 - 21:12",
-      "translated": true
-    },
     {
       "id": "e23e301be66f27cbe93809fda1d22114",
       "title": "Telangana Budget 2026-27| 5% increase in allocation to Minorities Welfare",
@@ -159,20 +103,6 @@
       "translated": true
     },
     {
-      "id": "3918166e5cad8e96d5484bc01364835e",
-      "title": "902 km range on one charge!.. Xiaomi car",
-      "summary": "902 km range on one charge!.. Xiaomi car sirikumar Fri, 03/20/2026 - 20:35",
-      "url": "https://www.sakshi.com/telugu-news/business/new-xiaomi-su7-car-902-km-range-2738515",
-      "image": null,
-      "published_at": "2026-03-20T15:05:33.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "ఒక ఛార్జ్‌తో 902 కిమీ రేంజ్!.. షియోమి కారు",
-      "summary_te": "ఒక ఛార్జ్‌తో 902 కిమీ రేంజ్!.. షియోమి కారు sirikumar Fri, 03/20/2026 - 20:35",
-      "translated": true
-    },
-    {
       "id": "5a95ddd147d007ffc90d250fab133718",
       "title": "Telangana puts hospitals under fire safety radar amid nationwide blaze concerns",
       "summary": "Fire audits begin with 140 hospitals on day one; checks to continue for 10–12 days covering between 1,400 and 1,600 government and private hospital buildings",
@@ -215,20 +145,6 @@
       "translated": true
     },
     {
-      "id": "f217a613784a2d48d1283e35ef27e4ba",
-      "title": "Let's not sit back and watch Jagan's personality being insulted.",
-      "summary": "Let's watch Jagan's personality being insulted' naresh Fri, 03/20/2026 - 20:33",
-      "url": "https://www.sakshi.com/telugu-news/politics/rachamallu-siva-prasad-reddy-slams-sharmila-2738514",
-      "image": null,
-      "published_at": "2026-03-20T15:03:00.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "‘జగన్‌ వ్యక్తిత్వాన్ని హననం చేస్తుంటే చూస్తూ ఊరుకోం’",
-      "summary_te": "‘జగన్‌ వ్యక్తిత్వాన్ని హననం చేస్తుంటే చూస్తూ ఊరుకోం’ naresh Fri, 03/20/2026 - 20:33",
-      "translated": true
-    },
-    {
       "id": "f40775b99dbfa3177208f48dc1d5259b",
       "title": "City gets static allocation in budget despite expanded city region",
       "summary": "The 2026-27 budget shows minimal change in allocations after the tri-corporation area was renamed as Core Urban Region, with most GHMC figures retained, major funds going to infrastructure projects, and reduced allocations for disaster response, MMTS and heritage authority works.",
@@ -240,20 +156,6 @@
       "language": "en",
       "title_te": "నగర ప్రాంతం విస్తరించబడినప్పటికీ బడ్జెట్‌లో నగరానికి స్థిరమైన కేటాయింపులు లభిస్తాయి",
       "summary_te": "2026-27 బడ్జెట్‌లో ట్రై-కార్పొరేషన్ ప్రాంతం కోర్ అర్బన్ రీజియన్‌గా పేరు మార్చబడిన తర్వాత కేటాయింపులలో కనీస మార్పును చూపుతుంది, చాలా GHMC గణాంకాలు అలాగే ఉంచబడ్డాయి, ప్రధాన నిధులు మౌలిక సదుపాయాల ప్రాజెక్టులకు వెళుతున్నాయి మరియు విపత్తు ప్రతిస్పందన, MMTS మరియు హెరిటేజ్ అథారిటీ పనులకు కేటాయింపులు తగ్గాయి.",
-      "translated": true
-    },
-    {
-      "id": "fb9d66442cdb38f575daf0850195a9ff",
-      "title": "'Experiencing mental agony'",
-      "summary": "'Experiencing mental anguish' svarun Fri, 03/20/2026 - 20:23",
-      "url": "https://www.sakshi.com/telugu-news/sports/iga-swiatek-shocking-comments-tennis-feels-complicated-match-lost-2738511",
-      "image": null,
-      "published_at": "2026-03-20T14:53:00.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "‘మానసిక వేదన అనుభవిస్తున్నా’",
-      "summary_te": "‘మానసిక వేదన అనుభవిస్తున్నా’ svarun Fri, 03/20/2026 - 20:23",
       "translated": true
     },
     {
@@ -327,20 +229,6 @@
       "translated": true
     },
     {
-      "id": "abde31527ed82186c0dfd6609fdf3ee9",
-      "title": "West Asia is more tense",
-      "summary": "West Asia gets more tense dsudheer Fri, 03/20/2026 - 20:06",
-      "url": "https://www.sakshi.com/telugu-news/international/ukraine-sends-advisers-gulf-it-counterattacks-russian-forces-2738513",
-      "image": null,
-      "published_at": "2026-03-20T14:36:22.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "పశ్చిమాసియా మరింత ఉద్రిక్తం",
-      "summary_te": "పశ్చిమాసియా మరింత ఉద్రిక్తం dsudheer Fri, 03/20/2026 - 20:06",
-      "translated": true
-    },
-    {
       "id": "31b148c5c52addc65fb65e919d520c8e",
       "title": "Asaduddin Owaisi criticises BJP, police over arrest of Muslim youth in Varanasi",
       "summary": "HyderabadAll India Majlis-e-Ittehadul Muslimeen (AIMIM) president Asaduddin Owaisi, on Friday, criticised the Bharatiya Janata Party and Uttar Pradesh police over the arrest of 14 Muslim youths in Varanasi, who broke their fast aboard a boat on the Ganga.Mr. Owaisi was addressing a gathering at the Mecca Masjid on Jumatul Vida, the last Friday of Ramzan, where he questioned the basis of the charges.“If one were to take a boat ride on the Hussainsagar in Hyderabad, wear a life jacket and consume food such as chicken biryani while breaking the fast, the authorities would invoke sections of the law?” he drew parallels, and questioned how, according to UP police, eating food on a river could be construed as an offence under Sections 298, 296, 270 and 223 of the Bharatiya Nyaya Sanhita.Mr. Owaisi also raised concerns over pollution in the Ganga and the selective outrage, stating that sewage and human waste were being discharged into the river without attracting similar scrutiny. “You will not say anything about that,” he said, adding that the arrested youths were in jail “for the crime of being Muslim”.The AIMIM president further accused the BJP of inconsistency, stating that while the party spoke of outreach to Pasmanda Muslims, it simultaneously supported actions that, he alleged, targeted the community. He also criticised the closure of meat shops during certain festivals, pointing to its impact on communities like the Qureshis engaged in the meat trade.Questioning the selective sensitivity, he said that liquor shops remained open during Ramzan, asking whether the sentiments of Muslims could not be hurt in this.On economic issues arising from the USA-Israel and Iran conflict in West Asia, he claimed that India’s Strategic Petroleum Reserve was sufficient for only about 9.5 days and expressed concern over disruptions in exports, including fruits and basmati rice, citing logistical challenges. He also criticised calls for economic boycotts targeting specific communities, terming them divisive.",
@@ -397,20 +285,6 @@
       "translated": true
     },
     {
-      "id": "625d306d83323123ee11bec1f1e24935",
-      "title": "South stars praise Durandhar-2.. Prakash Raj's reaction is this..!",
-      "summary": "South stars praise Durandhar-2.. Prakash Raj's reaction is this..! madhusudhan Fri, 03/20/2026 - 19:51",
-      "url": "https://www.sakshi.com/telugu-news/movies/prakash-raj-comment-allu-arjun-and-jr-ntr-praise-over-dhurandhar-2-2738512",
-      "image": null,
-      "published_at": "2026-03-20T14:21:42.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "దురంధర్‌-2పై సౌత్ స్టార్స్ ప్రశంసలు.. ప్రకాశ్‌ రాజ్‌ రియాక్షన్ ఇదే..!",
-      "summary_te": "దురంధర్‌-2పై సౌత్ స్టార్స్ ప్రశంసలు.. ప్రకాశ్‌ రాజ్‌ రియాక్షన్ ఇదే..! madhusudhan Fri, 03/20/2026 - 19:51",
-      "translated": true
-    },
-    {
       "id": "0eeece96e557a77adebd7a9cec809785",
       "title": "Telangana Budget 2026-27: BRS legislators stage protest demanding Congress to implement ‘six guarantees’ poll promise",
       "summary": "They displayed placards in the name of “debt cards” with slogans on the unkept promises made as part of the Six Guarantees and a large number of other promises made by the Congress party before the 2023 Assembly elections",
@@ -422,34 +296,6 @@
       "language": "en",
       "title_te": "తెలంగాణ బడ్జెట్ 2026-27: 'ఆరు హామీలు' ఎన్నికల వాగ్దానాన్ని అమలు చేయాలని కాంగ్రెస్‌ను డిమాండ్ చేస్తూ BRS శాసనసభ్యులు నిరసన చేపట్టారు.",
       "summary_te": "2023 అసెంబ్లీ ఎన్నికలకు ముందు కాంగ్రెస్ పార్టీ చేసిన ఆరు హామీలలో భాగంగా చేసిన అమలుకాని వాగ్దానాలు మరియు పెద్ద సంఖ్యలో ఇతర వాగ్దానాలతో వారు “రుణ కార్డులు” పేరుతో ప్లకార్డులను ప్రదర్శించారు.",
-      "translated": true
-    },
-    {
-      "id": "0e2f905156e7d9b647712025bf833259",
-      "title": "Telangana Budget FY2026-27: Government aims to position State as global tourism destination with ₹1,224 crore allocation",
-      "summary": "The Telangana government has proposed an allocation of ₹1,224 crore for the tourism sector in the 2026-27 Budget, as part of its broader push to position the State as a major global destination.Presenting the budget in the Telangana Legislative Assembly on Friday (March 20), Deputy Chief Minister and Finance Minister Mallu Bhatti Vikramarka said the government is implementing the Telangana Tourism Policy 2025-2030 to ensure comprehensive development of tourism across the State. “The policy aims to attract investments, generate employment opportunities, and showcase Telangana’s local arts, culture, and traditions on the global stage,” he added.Mr. Vikramarka said the policy has received a strong response from the private sector, with investment proposals worth over ₹25,000 crore currently under consideration. Highlighting Telangana’s growing global visibility, he said Hyderabad drew international attention by hosting the Miss World beauty pageant, marking the first time the event was held in the country.",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-allocates-1224-crore-for-tourism-in-2026-27-budget/article70764774.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wsiod/article70764965.ece/alternates/LANDSCAPE_1200/IMG_TH12_Corrected_Telan_2_1_9AFN068S.jpg",
-      "published_at": "2026-03-20T14:15:07.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "తెలంగాణ బడ్జెట్ FY2026-27: ₹1,224 కోట్ల కేటాయింపుతో రాష్ట్రాన్ని గ్లోబల్ టూరిజం డెస్టినేషన్‌గా మార్చాలని ప్రభుత్వం లక్ష్యంగా పెట్టుకుంది.",
-      "summary_te": "తెలంగాణ ప్రభుత్వం 2026-27 బడ్జెట్‌లో పర్యాటక రంగానికి ₹1,224 కోట్లు కేటాయించాలని ప్రతిపాదించిందని, రాష్ట్రాన్ని ప్రపంచ దేశంగా తీర్చిదిద్దడంలో భాగంగా తెలంగాణ రాష్ట్రాన్ని శుక్రవారం (మార్చి 20) శాసనసభలో బడ్జెట్‌ను సమర్పిస్తూ ఉపముఖ్యమంత్రి, ఆర్థిక మంత్రి మల్లు భట్టి విక్రమార్క అన్నారు. 2025-2030 రాష్ట్రవ్యాప్తంగా టూరిజం యొక్క సమగ్ర అభివృద్ధిని నిర్ధారించడానికి. “ఈ విధానం పెట్టుబడులను ఆకర్షించడం, ఉపాధి అవకాశాలను సృష్టించడం మరియు తెలంగాణ స్థానిక కళలు, సంస్కృతి మరియు సంప్రదాయాలను ప్రపంచ వేదికపై ప్రదర్శించడం లక్ష్యంగా పెట్టుకుంది,” అన్నారాయన. ఈ పాలసీకి ప్రైవేట్ రంగం నుండి బలమైన స్పందన లభించిందని, ప్రస్తుతం ₹25,000 కోట్ల విలువైన పెట్టుబడి ప్రతిపాదనలు పరిశీలనలో ఉన్నాయని విక్రమార్క చెప్పారు. తెలంగాణ పెరుగుతున్న ప్రపంచ విజిబిలిటీని హైలైట్ చేస్తూ, మిస్ వరల్డ్ అందాల పోటీని నిర్వహించడం ద్వారా హైదరాబాద్ అంతర్జాతీయ దృష్టిని ఆకర్షించిందని, దేశంలోనే తొలిసారిగా ఈ కార్యక్రమాన్ని నిర్వహించడం జరిగిందని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "9cd9bb625f2a07b0d02f2a1df0bd0edf",
-      "title": "'Telangana is going to be another Sri Lanka'",
-      "summary": "'Telangana is going to be another Sri Lanka' naresh Fri, 03/20/2026 - 19:34",
-      "url": "https://www.sakshi.com/telugu-news/politics/bjp-mp-bandi-sanjay-slams-elangana-budget-2738510",
-      "image": null,
-      "published_at": "2026-03-20T14:04:49.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "‘తెలంగాణ మరో శ్రీలంక కాబోతోంది’",
-      "summary_te": "‘తెలంగాణ మరో శ్రీలంక కాబోతోంది’ naresh Fri, 03/20/2026 - 19:34",
       "translated": true
     }
   ]
