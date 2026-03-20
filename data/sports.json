@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-20T05:23:44.099Z",
-  "updated_at_IST": "20/3/2026, 10:53:44 am",
+  "updated_at": "2026-03-20T06:52:03.561Z",
+  "updated_at_IST": "20/3/2026, 12:22:03 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "cb4e2981b05e4e83603713825fa8f8e1",
+      "title": "Devine's all-round masterclass hands New Zealand 2-1 series lead",
+      "summary": "Dercksen and Reyneke powered South Africa but a slowdown in between left them with an under par 149 for 7",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528463.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414789.jpg",
+      "published_at": "2026-03-20T06:32:02.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డివైన్ యొక్క ఆల్-రౌండ్ మాస్టర్‌క్లాస్ న్యూజిలాండ్‌ను 2-1 సిరీస్‌లో ఆధిక్యంలో ఉంచింది",
+      "summary_te": "డెర్క్‌సెన్ మరియు రేనెకే దక్షిణాఫ్రికాకు శక్తినిచ్చారు, అయితే మధ్యలో మందగమనం కారణంగా 7 వికెట్లకు 149 కంటే తక్కువ స్కోరుతో ఉన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "838f2bbc31c48348be1529088de00afd",
+      "title": "New Zealand ask South Africa to bat in third T20I; Jacobs comes back, Sipamla comes in",
+      "summary": "This will be the last fixture of the series for Devon Conway, Mitchell Santner and Lockie Ferguson, who will all be rested for the remaining two matches",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528470.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414797.jpg",
+      "published_at": "2026-03-20T06:09:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మూడో T20Iలో బ్యాటింగ్ చేయమని న్యూజిలాండ్ దక్షిణాఫ్రికాను కోరింది; జాకబ్స్ తిరిగి వస్తాడు, సిపమ్లా లోపలికి వస్తాడు",
+      "summary_te": "డెవాన్ కాన్వే, మిచెల్ సాంట్నర్ మరియు లాకీ ఫెర్గూసన్‌లకు ఇది సిరీస్‌లో చివరి మ్యాచ్ అవుతుంది, వీరందరికీ మిగిలిన రెండు మ్యాచ్‌లకు విశ్రాంతి ఇవ్వబడుతుంది.",
+      "translated": true
+    },
+    {
+      "id": "881049b5232da5d77fe447e4c69c83f7",
+      "title": "Starc and Hazlewood likely to sit out initial games of IPL 2026",
+      "summary": "Mitchell Starc and Josh Hazlewood have joined a growing list of Australian players who will miss part of or the whole of IPL 2026",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528465.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/403100/403183.jpg",
+      "published_at": "2026-03-20T05:55:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "స్టార్క్ మరియు హేజిల్‌వుడ్ IPL 2026 ప్రారంభ ఆటలకు దూరంగా ఉండే అవకాశం ఉంది",
+      "summary_te": "మిచెల్ స్టార్క్ మరియు జోష్ హేజిల్‌వుడ్ ఐపీఎల్ 2026లో కొంత భాగాన్ని లేదా మొత్తం మిస్ అయ్యే ఆస్ట్రేలియా ఆటగాళ్ల జాబితాలో చేరారు.",
+      "translated": true
+    },
     {
       "id": "502158d9d1bf66a1f3e9a5d751e4e333",
       "title": "BBL privatisation may not be an all-in decision as deadline looms",
@@ -61,20 +103,6 @@
       "translated": true
     },
     {
-      "id": "95a4ecbb0826b75d270a32bd315bd7bf",
-      "title": "Mulder in as SA bowl; Clarkson, Ferguson in for NZ",
-      "summary": "South Africa kept the same attack that bowled New Zealand out for 91 with no room for experienced quick Lutho Sipamla",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528166.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414691.jpg",
-      "published_at": "2026-03-20T02:05:53.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "SA గిన్నె వలె మల్డర్; NZ కోసం క్లార్క్సన్, ఫెర్గూసన్",
-      "summary_te": "అనుభవజ్ఞుడైన లూథో సిపమ్లాకు చోటు లేకుండా న్యూజిలాండ్‌ను 91 పరుగులకే ఆలౌట్ చేసిన దక్షిణాఫ్రికా అదే దాడిని కొనసాగించింది.",
-      "translated": true
-    },
-    {
       "id": "11aa7ae4cd8314c37bd93b0299e15513",
       "title": "John Mooney named Delhi Capitals' fielding coach for IPL 2026",
       "summary": "John Mooney becomes the first from Ireland to be part of an IPL franchise's coaching staff",
@@ -114,34 +142,6 @@
       "language": "en",
       "title_te": "సంగీతాన్ని ఎదుర్కోవడానికి సోపానక్రమం సిద్ధమవుతున్నందున ECB కొత్త పురుషుల సెలెక్టర్ కోసం ప్రకటన చేస్తుంది",
       "summary_te": "కౌంటీ గేమ్‌తో కమ్యూనికేషన్ గురించి విమర్శల నేపథ్యంలో కొత్త పాత్ర మరింత జవాబుదారీతనం కలిగి ఉంటుంది",
-      "translated": true
-    },
-    {
-      "id": "b590f014e269daa5fc58b7670135956c",
-      "title": "PSL 2026: Labuschagne appointed Hyderabad Kingsmen captain",
-      "summary": "Labuschagne will work with fellow Australian Jason Gillespie, who was appointed the franchise's coach",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528189.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413892.jpg",
-      "published_at": "2026-03-19T16:40:48.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "PSL 2026: లాబుస్చాగ్నే హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్‌గా నియమితులయ్యారు",
-      "summary_te": "ఫ్రాంచైజీ కోచ్‌గా నియమించబడిన తోటి ఆస్ట్రేలియన్ జాసన్ గిల్లెస్పీతో కలిసి లాబుస్చాగ్నే పని చేస్తాడు.",
-      "translated": true
-    },
-    {
-      "id": "ae06e226e9969f9b3562f7f1fb182ae9",
-      "title": "Pope: Ashes axing was 'right decision at the time'",
-      "summary": "Former vice-captain will be back in county ranks for first time since 2022 ahead of Test summer",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528198.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398744.jpg",
-      "published_at": "2026-03-19T16:39:35.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "పోప్: యాషెస్ గొడ్డలిపెట్టు 'ఆ సమయంలో సరైన నిర్ణయం'",
-      "summary_te": "మాజీ వైస్ కెప్టెన్ 2022 తర్వాత టెస్ట్ సమ్మర్‌కు ముందు మొదటిసారి కౌంటీ ర్యాంక్‌లోకి తిరిగి వస్తాడు",
       "translated": true
     },
     {
@@ -196,7 +196,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "అనుమానిత గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
+      "title_te": "అనుమానాస్పద గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
       "summary_te": "కుర్రాన్ గత నవంబర్‌లో ట్రేడ్ ద్వారా CSK నుండి RRకి మారారు",
       "translated": true
     },
