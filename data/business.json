@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-20T07:51:57.791Z",
-  "updated_at_IST": "20/3/2026, 1:21:57 pm",
+  "updated_at": "2026-03-20T08:40:36.627Z",
+  "updated_at_IST": "20/3/2026, 2:10:36 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "fc5918afd262d04a7b267b2c9821d338",
+      "title": "Bottom-up stock picking crucial as market risks rise: Rajiv Batra",
+      "summary": "Investors face a volatile market. Discipline and risk management are crucial now. Capital preservation is key for future gains. Defensives offer some protection but are not foolproof. A bottom-up approach is advised. Banking, especially PSU banks, looks promising. Governance is a key differentiator. Auto sector demand impact will be delayed. A balanced strategy is essential.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bottom-up-stock-picking-crucial-as-market-risks-rise-rajiv-batra/articleshow/129695311.cms",
+      "image": null,
+      "published_at": "2026-03-20T07:47:34.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్కెట్ నష్టాలు పెరిగే కొద్దీ బాటమ్-అప్ స్టాక్ పికింగ్ కీలకం: రాజీవ్ బాత్రా",
+      "summary_te": "పెట్టుబడిదారులు అస్థిర మార్కెట్‌ను ఎదుర్కొంటారు. క్రమశిక్షణ మరియు రిస్క్ మేనేజ్‌మెంట్ ఇప్పుడు కీలకం. భవిష్యత్ లాభాలకు మూలధన సంరక్షణ కీలకం. డిఫెన్సివ్‌లు కొంత రక్షణను అందిస్తాయి కానీ అవి ఫూల్‌ప్రూఫ్ కాదు. బాటమ్-అప్ విధానం సూచించబడింది. బ్యాంకింగ్, ముఖ్యంగా PSU బ్యాంకులు, ఆశాజనకంగా కనిపిస్తున్నాయి. పాలన అనేది కీలకమైన భేదం. ఆటో రంగ డిమాండ్ ప్రభావం ఆలస్యం అవుతుంది. సమతుల్య వ్యూహం అవసరం.",
+      "translated": true
+    },
     {
       "id": "62068c8127233f828777995800eee1cd",
       "title": "Quote of the Day by Sun Tzu: ‘All warfare is based on deception. Hence, when we are able to attack, we must…’",
@@ -75,6 +89,20 @@
       "translated": true
     },
     {
+      "id": "6068ed7bade8ce4c8e92ed305e61a600",
+      "title": "Rs 1 lakh crore wiped off! Bajaj Finance shares tumble 18% in March so far amid raging Iran-US war",
+      "summary": "Bajaj Finance shares have plunged over 20% in a month, eroding more than Rs 1 lakh crore in market value amid escalating Iran-US tensions. Rising oil prices, inflation concerns and macroeconomic risks flagged by Moody’s have weighed on sentiment, dragging financial stocks lower and keeping investors cautious amid ongoing geopolitical uncertainty.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-bajaj-finance-shares-tumble-18-in-march-so-far-amid-raging-iran-us-war/articleshow/129694027.cms",
+      "image": null,
+      "published_at": "2026-03-20T06:30:44.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "రూ.లక్ష కోట్లు తుడిచిపెట్టుకుపోయాయి! ఇరాన్-అమెరికా మధ్య జరుగుతున్న యుద్ధంలో బజాజ్ ఫైనాన్స్ షేర్లు మార్చిలో ఇప్పటివరకు 18% పడిపోయాయి",
+      "summary_te": "బజాజ్ ఫైనాన్స్ షేర్లు ఒక నెలలో 20% పైగా పడిపోయాయి, ఇరాన్-యుఎస్ ఉద్రిక్తతల మధ్య మార్కెట్ విలువలో రూ. 1 లక్ష కోట్లకు పైగా క్షీణించింది. పెరుగుతున్న చమురు ధరలు, ద్రవ్యోల్బణం ఆందోళనలు మరియు మూడీస్ ఫ్లాగ్ చేసిన స్థూల ఆర్థిక నష్టాలు సెంటిమెంట్‌ను ప్రభావితం చేశాయి, ఆర్థిక స్టాక్‌లను తగ్గించడం మరియు కొనసాగుతున్న భౌగోళిక రాజకీయ అనిశ్చితి మధ్య పెట్టుబడిదారులను జాగ్రత్తగా ఉంచడం.",
+      "translated": true
+    },
+    {
       "id": "aeffe8e56ae127c3234e44335e456509",
       "title": "Massive fire at Daejeon auto parts factory in South Korea injures at least 50, many seriously hurt | Watch Video",
       "summary": "More than 200 firefighters and 70 vehicles were deployed to fight the blaze. It wasn’t immediately clear how many workers remained inside the facility and South Korea's National Fire Agency warned the number of casualties could rise.",
@@ -86,20 +114,6 @@
       "language": "en",
       "title_te": "దక్షిణ కొరియాలోని డేజియోన్ ఆటో విడిభాగాల కర్మాగారంలో భారీ అగ్నిప్రమాదం కనీసం 50 మందికి గాయాలు, పలువురు తీవ్రంగా గాయపడ్డారు | వీడియో చూడండి",
       "summary_te": "మంటలను అదుపు చేసేందుకు 200కు పైగా అగ్నిమాపక సిబ్బంది, 70 వాహనాలు రంగంలోకి దిగాయి. సదుపాయం లోపల ఎంత మంది కార్మికులు ఉన్నారనేది వెంటనే స్పష్టంగా తెలియలేదు మరియు దక్షిణ కొరియా యొక్క నేషనల్ ఫైర్ ఏజెన్సీ మృతుల సంఖ్య పెరగవచ్చని హెచ్చరించింది.",
-      "translated": true
-    },
-    {
-      "id": "d344542a4437fdbeff89bda8baae9b78",
-      "title": "Markets in waiting mode: Retail investors advised patience amid global tensions",
-      "summary": "Global markets are volatile due to Middle East conflict. India's energy security provides a strong position. Experts advise patience for retail investors. A relief rally is expected once tensions ease. Domestic consumption remains a key theme. Investors should time their entries carefully. Disciplined investing is crucial for navigating this uncertain phase.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/markets-in-waiting-mode-retail-investors-advised-patience-amid-global-tensions/articleshow/129693732.cms",
-      "image": null,
-      "published_at": "2026-03-20T06:14:59.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మార్కెట్లు వెయిటింగ్ మోడ్‌లో ఉన్నాయి: గ్లోబల్ టెన్షన్‌ల మధ్య రిటైల్ ఇన్వెస్టర్లు ఓపిక పట్టాలని సూచించారు",
-      "summary_te": "మిడిల్ ఈస్ట్ వివాదం కారణంగా గ్లోబల్ మార్కెట్లు అస్థిరంగా ఉన్నాయి. భారతదేశ ఇంధన భద్రత బలమైన స్థానాన్ని అందిస్తుంది. రిటైల్ ఇన్వెస్టర్లకు ఓపిక పట్టాలని నిపుణులు సూచిస్తున్నారు. ఉద్రిక్తతలు సడలిన తర్వాత రిలీఫ్ ర్యాలీ నిర్వహించాలని భావిస్తున్నారు. దేశీయ వినియోగం కీలక అంశంగా మిగిలిపోయింది. పెట్టుబడిదారులు తమ ఎంట్రీలను జాగ్రత్తగా సమయాన్ని వెచ్చించాలి. ఈ అనిశ్చిత దశను నావిగేట్ చేయడానికి క్రమశిక్షణతో కూడిన పెట్టుబడి కీలకం.",
       "translated": true
     },
     {
@@ -128,6 +142,20 @@
       "language": "en",
       "title_te": "నేడు ఢిల్లీ వాతావరణం: శుక్రవారం నాడు నగరాన్ని వర్షం ముంచెత్తడంతో దేశ రాజధానిలో పసుపు అలర్ట్ | వీడియోలను చూడండి",
       "summary_te": "కేవలం 10 రోజుల్లో, ఢిల్లీ 50 ఏళ్లలో మార్చి వారంలో అత్యంత వేడిగా ఉండి 2023 నుండి అత్యంత తేమగా మారింది.",
+      "translated": true
+    },
+    {
+      "id": "84792b23e6c93a5794c1ae155bc7f801",
+      "title": "Tata Power shares jump 5% after Gujarat govt approves supply agreement for Mundra plant",
+      "summary": "Tata Power share price surged after Gujarat approved a new power supply deal. This allows the company to restart its 4-gigawatt Mundra plant. The agreement aims to boost power output amid potential summer gas shortages. It requires federal approval and takes effect from April 2025. Tariffs will align with other states. This development offers relief to India's energy sector.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-power-shares-jump-5-after-gujarat-govt-approves-supply-agreement-for-mundra-plant/articleshow/129693407.cms",
+      "image": null,
+      "published_at": "2026-03-20T05:55:15.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ముంద్రా ప్లాంట్‌కు సరఫరా ఒప్పందాన్ని గుజరాత్ ప్రభుత్వం ఆమోదించడంతో టాటా పవర్ షేర్లు 5% పెరిగాయి",
+      "summary_te": "గుజరాత్ కొత్త విద్యుత్ సరఫరా ఒప్పందాన్ని ఆమోదించడంతో టాటా పవర్ షేర్ ధర పెరిగింది. ఇది కంపెనీ తన 4-గిగావాట్ల ముంద్రా ప్లాంట్‌ను పునఃప్రారంభించటానికి అనుమతిస్తుంది. వేసవిలో గ్యాస్ కొరత ఏర్పడే అవకాశం ఉన్న నేపథ్యంలో విద్యుత్ ఉత్పత్తిని పెంచడం ఈ ఒప్పందం లక్ష్యం. దీనికి సమాఖ్య ఆమోదం అవసరం మరియు ఏప్రిల్ 2025 నుండి అమలులోకి వస్తుంది. సుంకాలు ఇతర రాష్ట్రాలకు అనుగుణంగా ఉంటాయి. ఈ పరిణామం భారతదేశ ఇంధన రంగానికి ఉపశమనం కలిగిస్తుంది.",
       "translated": true
     },
     {
@@ -170,20 +198,6 @@
       "language": "en",
       "title_te": "‘బెంజమిన్ నెతన్యాహూ, డొనాల్డ్ ట్రంప్ మిమ్మల్ని అడిగితే మీరు ఇరాన్ యుద్ధాన్ని ముగిస్తారా?’ అని ఇజ్రాయెల్ ప్రధాని స్పందించారు.",
       "summary_te": "ఇరాన్ యుద్ధం ప్రారంభమైన తర్వాత ఇజ్రాయెల్ ప్రధాని నెతన్యాహు తన మొదటి విలేకరుల సమావేశంలో మరణ పుకార్లను తోసిపుచ్చారు. అతను ఇరాన్‌కు వ్యతిరేకంగా ఇజ్రాయెల్ వ్యూహాన్ని సమర్థించాడు మరియు చమురు సౌకర్యాలను కొట్టడాన్ని నివారించడానికి నిబద్ధతను ధృవీకరించాడు.",
-      "translated": true
-    },
-    {
-      "id": "1505bdcc1f71cda6ca86081945cc61ea",
-      "title": "Accenture’s AI momentum strong, but revenue growth signals caution for IT sector: Sudip Bandyopadhyay",
-      "summary": "Accenture reports strong AI deal wins. This indicates a major shift in the IT sector where artificial intelligence is now essential. While revenue growth is moderate, experts believe Accenture may exceed expectations. The company has stopped reporting AI revenue separately, reflecting its integration into core services. This trend will likely shape future performance for IT companies.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/accentures-ai-momentum-strong-but-revenue-growth-signals-caution-for-it-sector-sudip-bandyopadhyay/articleshow/129692697.cms",
-      "image": null,
-      "published_at": "2026-03-20T05:10:24.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "యాక్సెంచర్ యొక్క AI మొమెంటం బలంగా ఉంది, కానీ ఆదాయ వృద్ధి IT రంగానికి హెచ్చరిక: సుదీప్ బందోపాధ్యాయ",
-      "summary_te": "యాక్సెంచర్ బలమైన AI డీల్ విజయాలను నివేదించింది. ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ ఇప్పుడు ఆవశ్యకమైన ఐటీ రంగంలో పెద్ద మార్పును ఇది సూచిస్తుంది. రాబడి వృద్ధి మధ్యస్థంగా ఉన్నప్పటికీ, యాక్సెంచర్ అంచనాలను అధిగమించవచ్చని నిపుణులు భావిస్తున్నారు. AI ఆదాయాన్ని విడిగా నివేదించడాన్ని కంపెనీ నిలిపివేసింది, ఇది కోర్ సేవలలో దాని ఏకీకరణను ప్రతిబింబిస్తుంది. ఈ ట్రెండ్ ఐటి కంపెనీల భవిష్యత్తు పనితీరును రూపొందిస్తుంది.",
       "translated": true
     },
     {
@@ -336,22 +350,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఈరోజు భూకంపం: సౌత్ షెట్లాండ్ దీవుల్లో 6.7 తీవ్రతతో భూకంపం సంభవించింది",
+      "title_te": "ఈరోజు భూకంపం: సౌత్ షెట్‌లాండ్ దీవుల్లో 6.7 తీవ్రతతో భూకంపం సంభవించింది",
       "summary_te": "అంటార్కిటికాలోని సౌత్ షెట్‌లాండ్ దీవుల్లో 10 కిమీ (6.21 మైళ్లు) లోతులో భూకంపం సంభవించిందని GFZ తెలిపింది.",
-      "translated": true
-    },
-    {
-      "id": "c93dacfd602cb4026460e39c11fe03a9",
-      "title": "Indian indices log biggest single-day decline in nearly two years",
-      "summary": "Indian equity benchmarks experienced their steepest single-day drop in nearly two years, plummeting over 3% on Thursday. Attacks on West Asian oil and gas infrastructure fueled inflation concerns, while HDFC Bank's sharp decline added further pressure. The Nifty closed below 23,000, and the Sensex fell significantly, wiping out recent gains and impacting market capitalization.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-indices-log-biggest-single-day-decline-in-nearly-two-years/articleshow/129690097.cms",
-      "image": null,
-      "published_at": "2026-03-20T00:59:10.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "భారతీయ సూచీలు దాదాపు రెండేళ్లలో ఒకేరోజు అతిపెద్ద క్షీణతను నమోదు చేశాయి",
-      "summary_te": "భారతీయ ఈక్విటీ బెంచ్‌మార్క్‌లు దాదాపు రెండేళ్లలో అత్యధిక సింగిల్-డే డ్రాప్‌ను చవిచూశాయి, గురువారం 3% పైగా క్షీణించాయి. పశ్చిమాసియా చమురు మరియు గ్యాస్ మౌలిక సదుపాయాలపై దాడులు ద్రవ్యోల్బణం ఆందోళనలకు ఆజ్యం పోశాయి, అయితే HDFC బ్యాంక్ యొక్క తీవ్ర క్షీణత మరింత ఒత్తిడిని పెంచింది. నిఫ్టీ 23,000 దిగువన ముగిసింది మరియు సెన్సెక్స్ గణనీయంగా పడిపోయింది, ఇది ఇటీవలి లాభాలను తుడిచిపెట్టింది మరియు మార్కెట్ క్యాపిటలైజేషన్‌ను ప్రభావితం చేసింది.",
       "translated": true
     },
     {
@@ -365,7 +365,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హ్యాపీ చైత్ర నవరాత్రి 2026 2వ రోజు శుభాకాంక్షలు: 250+ శుభాకాంక్షలు, చిత్రాలు, స్థితి, మీ ప్రియమైన వారితో పంచుకోవడానికి GIFలు",
-      "summary_te": "తొమ్మిది రోజుల నవరాత్రి ఉత్సవం ప్రారంభమైంది, భక్తులు ప్రార్థన, ఉపవాసం మరియు ఆధ్యాత్మిక ప్రతిబింబంలో మునిగిపోయారు. పండుగ ఆనందాన్ని పంచడంలో మరియు ఈ శుభ సందర్భాన్ని జరుపుకోవడంలో మీకు సహాయపడటానికి, హృదయపూర్వక శుభాకాంక్షలు, సందేశాలు మరియు శుభాకాంక్షల జాబితా ఇక్కడ ఉంది.",
+      "summary_te": "తొమ్మిది రోజుల నవరాత్రి ఉత్సవాలు ప్రారంభమయ్యాయి, భక్తులు ప్రార్థన, ఉపవాసం మరియు ఆధ్యాత్మిక ప్రతిబింబంలో మునిగిపోయారు. పండుగ ఆనందాన్ని పంచడంలో మరియు ఈ శుభ సందర్భాన్ని జరుపుకోవడంలో మీకు సహాయపడటానికి, హృదయపూర్వక శుభాకాంక్షలు, సందేశాలు మరియు శుభాకాంక్షల జాబితా ఇక్కడ ఉంది.",
       "translated": true
     },
     {
@@ -384,15 +384,15 @@
     },
     {
       "id": "60cbcc44473c867d7fc2723e1d6ca6ec",
-      "title": "US-Israel-Iran War News Live: Did Iran shoot down US F-35? CENTCOM says ‘pilot is in…’",
+      "title": "US-Israel-Iran War News Live: Iran's IRGC Spokesperson Ali Mohammad Naini killed in strike",
       "summary": "US-Israel-Iran War News Live: Iran’s Islamic Revolutionary Guard Corps (IRGC) claims it struck a US Air Force F‑35 stealth fighter over central Iranian airspace using its air defence systems, according to state media.",
       "url": "https://www.livemint.com/news/us-news/us-israel-iran-war-news-live-updates-donald-trump-strait-of-hormuz-march-20-dubai-abu-dhabi-saudi-arabia-crude-oil-price-11773963754153.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/INDIA-WAR-IRAN-US-ISRAEL-0_1773986472426_1773986498762.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/IRAN-ISRAEL-US-WAR-21_1773994202937_1773994213096.jpg",
       "published_at": "2026-03-20T00:03:42.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "US-Israel-Iran War News Live: US F-35ని ఇరాన్ కూల్చివేసిందా? CENTCOM 'పైలట్ ఉన్నారు...'",
+      "title_te": "US-Israel-Iran War News Live: ఇరాన్ యొక్క IRGC ప్రతినిధి అలీ మొహమ్మద్ నైనీ సమ్మెలో మరణించారు",
       "summary_te": "యుఎస్-ఇజ్రాయెల్-ఇరాన్ వార్ న్యూస్ లైవ్: ఇరాన్ యొక్క ఇస్లామిక్ రివల్యూషనరీ గార్డ్ కార్ప్స్ (IRGC) రాష్ట్ర మీడియా ప్రకారం, సెంట్రల్ ఇరాన్ గగనతలంపై యుఎస్ ఎయిర్ ఫోర్స్ F‑35 స్టెల్త్ ఫైటర్‌ను తాకినట్లు రాష్ట్ర మీడియా పేర్కొంది.",
       "translated": true
     },
