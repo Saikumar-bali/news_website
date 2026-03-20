@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-20T17:41:10.023Z",
-  "updated_at_IST": "20/3/2026, 11:11:10 pm",
+  "updated_at": "2026-03-20T18:43:18.305Z",
+  "updated_at_IST": "21/3/2026, 12:13:18 am",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "a9d9c59c27a5ff549323d438b1d1a598",
+      "title": "NATO exit from Iraq - Alliance pulls out hundreds of personnel as US' conflict with Iran rages on",
+      "summary": "The personnel include troops from NATO allies, along with partner countries such as Austria and Australia",
+      "url": "https://www.livemint.com/news/world/nato-exit-from-iraq-alliance-pulls-out-hundreds-of-personnel-as-us-conflict-with-iran-rages-on-11774027046766.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/ISRAEL-LEBANON-IRAN-US-WAR-17_1774027966495_1774027981850.jpg",
+      "published_at": "2026-03-20T17:31:00.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాక్ నుండి NATO నిష్క్రమణ - ఇరాన్‌తో యుఎస్ వివాదం తీవ్రమవుతున్నందున కూటమి వందలాది మంది సిబ్బందిని ఉపసంహరించుకుంది",
+      "summary_te": "సిబ్బందిలో ఆస్ట్రియా మరియు ఆస్ట్రేలియా వంటి భాగస్వామ్య దేశాలతో పాటు NATO మిత్రదేశాల నుండి దళాలు ఉన్నాయి",
+      "translated": true
+    },
+    {
+      "id": "fc5880ebd809ea107767ba506cbd0885",
+      "title": "US Education Department transfers student loan management to Treasury Dept — Here's what changes for borrowers",
+      "summary": "The US Education Department has transferred student loans to the Treasury Department, marking a significant step toward the Trump administration's dismantling of the agency. Here's what changes for the borrowers:&nbsp;",
+      "url": "https://www.livemint.com/news/us-news/us-govt-education-department-transfers-student-loan-management-collection-treasury-dept-what-changes-borrowers-11774025072602.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/Department-of-Education-4_1774026269341_1774026283622.jpg",
+      "published_at": "2026-03-20T17:30:54.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US ఎడ్యుకేషన్ డిపార్ట్‌మెంట్ స్టూడెంట్ లోన్ మేనేజ్‌మెంట్‌ను ట్రెజరీ డిపార్ట్‌మెంట్‌కి బదిలీ చేస్తుంది — రుణగ్రహీతలకు ఎలాంటి మార్పులు ఉంటాయి",
+      "summary_te": "US ఎడ్యుకేషన్ డిపార్ట్‌మెంట్ ట్రెజరీ డిపార్ట్‌మెంట్‌కు విద్యార్థుల రుణాలను బదిలీ చేసింది, ఇది ట్రంప్ పరిపాలన ఏజెన్సీని నిర్వీర్యం చేసే దిశగా ఒక ముఖ్యమైన అడుగు. రుణగ్రహీతలకు ఎలాంటి మార్పులు జరుగుతాయో ఇక్కడ ఉన్నాయి: ",
+      "translated": true
+    },
     {
       "id": "594120b71fe904124cba03719cddcf17",
       "title": "Rohit Godara–Jitender Gogi gang sharpshooter wanted in Gurugram nightclub grenade attacks, arrested by Delhi Police",
@@ -21,7 +49,7 @@
     {
       "id": "aa82c9e1d67b9e4c3327a0bc8e37dc36",
       "title": "Raymond Group's Gautam Singhania injured after speedboat accident in Maldives, recovering in Mumbai",
-      "summary": "Raymond Group Chairman & Managing Director Gautam Hari Singhania suffered minor injuries in a speedboat accident in the Maldives.",
+      "summary": "Raymond Group Chairman & Managing Director Gautam Hari Singhania suffered minor injuries in a speedboat accident in the Maldives",
       "url": "https://www.livemint.com/news/india/raymond-groups-gautam-singhania-injured-after-speedboat-accident-in-maldives-recovering-in-mumbai-11774024941809.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/2-0-1001681320-gautamsinghania-0_1679907375349_1774025750541.jpg",
       "published_at": "2026-03-20T17:17:56.000Z",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "చెస్టర్ బెన్నింగ్టన్ ద్వారా కోట్ ఆఫ్ ది డే: 'ఒకటి ఓడించలేనిది ప్రేమ. మీరు ద్వేషాన్ని జయించగలరు...'",
       "summary_te": "చెస్టర్ బెన్నింగ్టన్ దుర్వినియోగం, బెదిరింపు మరియు వ్యసనం నుండి బయటపడ్డాడు. అతను తన బాధను మిలియన్ల మందిని తాకే సంగీతంగా మార్చాడు. అతని 50వ పుట్టినరోజు సందర్భంగా, అతని సందేశం చాలా సులభం — మీ పక్కన ఉన్న వ్యక్తిని ప్రేమించండి.",
-      "translated": true
-    },
-    {
-      "id": "9bd7b0a46f732a09d3379319ab2bba37",
-      "title": "From 130 kg to 63 kg and beauty queen crown: Mrs Arunachal recalls her weight loss struggles — ‘People laughed at me’",
-      "summary": "Speaking with Livemint, the 39-year-old said she encountered persistent discouragement, with several people even criticising modelling as a profession.",
-      "url": "https://www.livemint.com/news/trends/mrs-arunachal-2026-shares-weight-loss-journey-says-people-laughed-at-me-11774005359136.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/Untitled_design_-_2026-03-20T171312.687_1774007008261_1774007013897.png",
-      "published_at": "2026-03-20T13:32:39.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "130 కిలోల నుండి 63 కిలోల వరకు మరియు అందాల రాణి కిరీటం: శ్రీమతి అరుణాచల్ తన బరువు తగ్గించే పోరాటాన్ని గుర్తుచేసుకుంది - 'ప్రజలు నన్ను చూసి నవ్వారు'",
-      "summary_te": "లైవ్‌మింట్‌తో మాట్లాడుతూ, 39 ఏళ్ల ఆమె నిరంతర నిరుత్సాహాన్ని ఎదుర్కొందని, చాలా మంది వ్యక్తులు మోడలింగ్‌ను వృత్తిగా విమర్శించారని చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "6757685b625a4c18dfe7185e20e0ca2e",
-      "title": "Jeffrey Epstein spotted in South Florida? Internet stunned as lookalike's video goes viral - See here",
-      "summary": "The clip that fueled speculations about Epstein being alive and spotted in South Florida, showed a man – who netizens said looked similar to Epstein – sporting a pair of sunglasses and a white cap as he cruised in a convertible. Here's what happened next&nbsp;",
-      "url": "https://www.livemint.com/news/us-news/jeffrey-epstein-spotted-in-south-florida-internet-stunned-as-lookalikes-video-goes-viral-see-here-11774009028318.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/epstein_palm_beach_1774012785527_1774012794046.jpg",
-      "published_at": "2026-03-20T13:21:03.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జెఫ్రీ ఎప్స్టీన్ సౌత్ ఫ్లోరిడాలో కనిపించారా? లుక్‌లైక్ వీడియో వైరల్ కావడంతో ఇంటర్నెట్ ఆశ్చర్యపోయింది - ఇక్కడ చూడండి",
-      "summary_te": "ఎప్స్టీన్ సజీవంగా ఉన్నాడని మరియు సౌత్ ఫ్లోరిడాలో కనిపించాడని ఊహాగానాలకు ఆజ్యం పోసిన క్లిప్, కన్వర్టిబుల్‌లో ప్రయాణిస్తున్నప్పుడు ఒక జత సన్ గ్లాసెస్ మరియు తెల్లటి టోపీని ధరించి - ఎప్స్టీన్ లాగా ఉందని నెటిజన్లు చెప్పారు. తర్వాత ఏమి జరిగిందో ఇక్కడ ఉంది ",
       "translated": true
     },
     {

@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-20T17:41:10.023Z",
-  "updated_at_IST": "20/3/2026, 11:11:10 pm",
+  "updated_at": "2026-03-20T18:43:18.305Z",
+  "updated_at_IST": "21/3/2026, 12:13:18 am",
   "category": "andhra",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "2bc8de7bbda1ede2e6795014aa460947",
+      "title": "Job calendar a big let down for unemployed youth in A.P., says DYFI",
+      "summary": "It demands that the job calendar be revised, with at least 1 lakh posts, and the upper age limit for the aspirants be increased to 47 years",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/job-calendar-a-big-let-down-for-unemployed-youth-in-ap-says-dyfi/article70766546.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mrykm6/article70766933.ece/alternates/LANDSCAPE_1200/vjkvg-dyfi%203.JPG",
+      "published_at": "2026-03-20T16:14:19.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "A.P.లోని నిరుద్యోగ యువతకు ఉద్యోగ క్యాలెండర్ పెద్ద నిరాశ అని DYFI పేర్కొంది",
+      "summary_te": "కనీసం 1 లక్ష పోస్టులతో ఉద్యోగ క్యాలెండర్‌ను సవరించాలని, అభ్యర్థుల గరిష్ట వయోపరిమితిని 47 ఏళ్లకు పెంచాలని డిమాండ్ చేస్తోంది.",
+      "translated": true
+    },
+    {
+      "id": "1222504ce8b16d87843c03b5ab0eb47f",
+      "title": "RGUKT Nuzvid IIIT students excel in GATE-2026",
+      "summary": "About 30 students have good ranks at national level, says Director Gopala Raju",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rgukt-nuzvid-iiit-students-excel-in-gate-2026/article70766434.ece",
+      "image": null,
+      "published_at": "2026-03-20T16:04:15.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "RGUKT Nuzvid IIIT విద్యార్థులు GATE-2026లో రాణిస్తున్నారు",
+      "summary_te": "దాదాపు 30 మంది విద్యార్థులు జాతీయ స్థాయిలో మంచి ర్యాంకులు సాధించారని దర్శకుడు గోపాలరాజు తెలిపారు",
+      "translated": true
+    },
     {
       "id": "83ee9e2162612a3f27c152665bb94720",
       "title": "Environmentalists call for protection of sparrows",
