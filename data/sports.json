@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-20T19:43:24.526Z",
-  "updated_at_IST": "21/3/2026, 1:13:24 am",
+  "updated_at": "2026-03-20T20:31:13.617Z",
+  "updated_at_IST": "21/3/2026, 2:01:13 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "487520b99b137a3d0beed1da9806b658",
+      "title": "Matheesha Pathirana to miss early part of IPL 2026",
+      "summary": "KKR head coach Abhishek Nayar said that Pathirana would be available from mid-April, while all but ruling Harshit Rana out of the tournament",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528513.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411500/411565.jpg",
+      "published_at": "2026-03-20T19:44:36.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతారు",
+      "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి అందుబాటులో ఉంటారని, అయితే హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి తప్పుకున్నారు",
+      "translated": true
+    },
     {
       "id": "3dd0307958523a4a79110544e1287cb7",
       "title": "Ireland to host Afghanistan men for ODIs despite 'moral discomfort'",
@@ -16,20 +30,6 @@
       "language": "en",
       "title_te": "'నైతిక అసౌకర్యం' ఉన్నప్పటికీ ఐర్లాండ్ వన్డేలకు ఆఫ్ఘనిస్తాన్ పురుషులకు ఆతిథ్యం ఇవ్వనుంది",
       "summary_te": "ఐర్లాండ్‌లో మ్యాచ్‌లు ఆడేందుకు బహిష్కృత ఆఫ్ఘనిస్తాన్ మహిళల జట్టుకు క్రికెట్ ఐర్లాండ్ కూడా ఆహ్వానం పంపింది.",
-      "translated": true
-    },
-    {
-      "id": "487520b99b137a3d0beed1da9806b658",
-      "title": "Matheesha Pathirana set to miss early part of IPL 2026",
-      "summary": "KKR head coach Abhishek Nayar said that Pathirana would be available from mid-April, while all but ruling Harshit Rana out of the tournament",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528513.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411500/411565.jpg",
-      "published_at": "2026-03-20T15:22:46.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోనున్నారు",
-      "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి అందుబాటులో ఉంటారని, అయితే హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి తప్పుకున్నారు",
       "translated": true
     },
     {

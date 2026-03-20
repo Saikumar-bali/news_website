@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-20T19:43:24.526Z",
-  "updated_at_IST": "21/3/2026, 1:13:24 am",
+  "updated_at": "2026-03-20T20:31:13.617Z",
+  "updated_at_IST": "21/3/2026, 2:01:13 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "87b161ff6302b1893b1232dfa9550af0",
+      "title": "How old is Barron Trump? What we know about US President Donald Trump's youngest son?",
+      "summary": "As Barron Trump turns 20, he is increasingly focused on business and education. He maintains a low profile while attending New York University, with much of his early life kept private, highlighting his preference for a quieter path away from media attention.",
+      "url": "https://www.livemint.com/news/us-news/how-old-is-barron-trump-what-we-know-about-us-president-donald-trumps-youngest-son-11774033957066.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/barron_trump_1774034721532_1774034721750.webp",
+      "published_at": "2026-03-20T19:58:48.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "బారన్ ట్రంప్ వయస్సు ఎంత? అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ చిన్న కొడుకు గురించి మనకు ఏమి తెలుసు?",
+      "summary_te": "బారన్ ట్రంప్‌కు 20 ఏళ్లు వచ్చేసరికి, అతను వ్యాపారం మరియు విద్యపై ఎక్కువగా దృష్టి సారిస్తున్నారు. అతను న్యూయార్క్ విశ్వవిద్యాలయంలో చదువుతున్నప్పుడు తక్కువ ప్రొఫైల్‌ను కలిగి ఉన్నాడు, అతని ప్రారంభ జీవితంలో ఎక్కువ భాగం ప్రైవేట్‌గా ఉంచబడింది, మీడియా దృష్టికి దూరంగా నిశ్శబ్ద మార్గం కోసం అతని ప్రాధాన్యతను హైలైట్ చేస్తుంది.",
+      "translated": true
+    },
     {
       "id": "8fef70e422e9dd9eefbeb0a0b7524c38",
       "title": "‘Enemy defeated…’: Mojtaba Khamenei says Iran dealt enemies ‘dizzying blow’ as conflict with US, Israel drags on",
@@ -352,20 +366,6 @@
       "language": "en",
       "title_te": "జార్జియో అర్మానీ ద్వారా ఈ రోజు కోట్: 'స్టైల్ మరియు ఫ్యాషన్ మధ్య వ్యత్యాసం...'",
       "summary_te": "ప్రతి కొత్త ట్రెండ్‌ను వెంబడించడం కంటే నాణ్యమైన, దీర్ఘకాలం ఉండే ముక్కలపై దృష్టి పెట్టడానికి మరియు పెట్టుబడి పెట్టడానికి ప్రజలను ప్రోత్సహించడానికి ఈ కోట్ ఉద్దేశించబడింది, నాణ్యత, ప్రజాదరణ కాదు, ఇక్కడ నిజమైన అధునాతనత ఉందని ధృవీకరిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "5a0992852cc988387b5bb65e8f7150e0",
-      "title": "Can Strait of Hormuz reopen as US Navy's Tripoli with 2,000 marines heads to Middle East amid conflict? Report says…",
-      "summary": "The USS Tripoli is set to enter the Arabian Sea to support navigation in the Strait of Hormuz amid US-Iran tensions. The large warship is currently south of Sri Lanka in the southern Indian Ocean and is headed toward the Gulf of Oman.",
-      "url": "https://www.livemint.com/news/us-news/can-strait-of-hormuz-reopen-as-us-navys-tripoli-with-2000-marines-heads-to-middle-east-amid-conflict-report-says-11774009006785.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/US_Navy_1774014010667_1774014014270.jpg",
-      "published_at": "2026-03-20T13:42:33.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "2,000 మంది మెరైన్‌లతో యుఎస్ నేవీ యొక్క ట్రిపోలీ మధ్య ప్రాచ్యానికి వివాదాల మధ్య హార్ముజ్ జలసంధిని తిరిగి తెరవగలరా? నివేదిక చెబుతోంది…",
-      "summary_te": "US-ఇరాన్ ఉద్రిక్తతల మధ్య హోర్ముజ్ జలసంధిలో నావిగేషన్‌కు మద్దతుగా USS ట్రిపోలీ అరేబియా సముద్రంలోకి ప్రవేశించడానికి సిద్ధంగా ఉంది. పెద్ద యుద్ధనౌక ప్రస్తుతం దక్షిణ హిందూ మహాసముద్రంలో శ్రీలంకకు దక్షిణాన ఉంది మరియు ఒమన్ గల్ఫ్ వైపు వెళుతోంది.",
       "translated": true
     },
     {
