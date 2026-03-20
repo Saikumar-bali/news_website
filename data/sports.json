@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-03-20T14:48:16.277Z",
-  "updated_at_IST": "20/3/2026, 8:18:16 pm",
+  "updated_at": "2026-03-20T15:46:09.274Z",
+  "updated_at_IST": "20/3/2026, 9:16:09 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
       "id": "487520b99b137a3d0beed1da9806b658",
       "title": "Matheesha Pathirana set to miss early part of IPL 2026",
-      "summary": "KKR head coach Abhishek Nayar said that Pathirana will only be available from mid-April, while all but ruling Harshit Rana out of the tournament",
+      "summary": "KKR head coach Abhishek Nayar said that Pathirana would be available from mid-April, while all but ruling Harshit Rana out of the tournament",
       "url": "https://www.espncricinfo.com/ci/content/story/1528513.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414807.jpg",
-      "published_at": "2026-03-20T14:25:50.000Z",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411500/411565.jpg",
+      "published_at": "2026-03-20T15:22:46.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోనున్నారు",
-      "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి మాత్రమే అందుబాటులో ఉంటుందని, హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి నిష్క్రమించారు",
+      "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి అందుబాటులో ఉంటారని, అయితే హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి తప్పుకున్నారు",
+      "translated": true
+    },
+    {
+      "id": "c8ada7828e7c2c1f7a4bdc9cf7d2be08",
+      "title": "Ireland eye 2027 launch for 'Euro Nations Cup'",
+      "summary": "The tournament would evoke the Asia Cup, featuring a handful of European teams",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528521.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/406400/406433.jpg",
+      "published_at": "2026-03-20T14:58:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'యూరో నేషన్స్ కప్' కోసం ఐర్లాండ్ ఐ 2027 ప్రారంభం",
+      "summary_te": "ఈ టోర్నమెంట్ ఆసియా కప్‌ను రేకెత్తిస్తుంది, ఇందులో కొన్ని యూరోపియన్ జట్లు పాల్గొంటాయి",
       "translated": true
     },
     {
@@ -57,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -85,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "LA నైట్ రైడర్స్ కాలిఫోర్నియాలోని పోమోనాలోని సొంత వేదికలో MLC 2026 మ్యాచ్‌లను ఆడనుంది",
       "summary_te": "కాలిఫోర్నియాలోని పోమోనాలోని ఫెయిర్‌ప్లెక్స్‌లోని నైట్ రైడర్స్ క్రికెట్ ఫీల్డ్ 2028లో లాస్ ఏంజిల్స్ ఒలింపిక్ క్రీడల మ్యాచ్‌లకు కూడా ఆతిథ్యం ఇవ్వనున్న విషయం తెలిసిందే.",
-      "translated": true
-    },
-    {
-      "id": "b8947e2436ed796fdfe52812ede7b54d",
-      "title": "Molineux set to return but full all-round role remains uncertain",
-      "summary": "Caution will be taken with Australia's new captain ahead of the T20 World Cup later this year",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528256.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
-      "published_at": "2026-03-19T01:21:03.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "Molineux తిరిగి రావడానికి సిద్ధంగా ఉంది కానీ పూర్తి ఆల్ రౌండ్ పాత్ర అనిశ్చితంగా ఉంది",
-      "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌కు ముందు ఆస్ట్రేలియా కొత్త కెప్టెన్‌తో జాగ్రత్తలు తీసుకోనున్నారు",
       "translated": true
     }
   ]
