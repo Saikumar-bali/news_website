@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-20T11:34:42.594Z",
-  "updated_at_IST": "20/3/2026, 5:04:42 pm",
+  "updated_at": "2026-03-20T12:42:04.684Z",
+  "updated_at_IST": "20/3/2026, 6:12:04 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a1aa1d7ed9fd82f15f976b11fed13368",
+      "title": "Keshav Maharaj: 'We are very inexperienced, but it's not an excuse'",
+      "summary": "They currently trail a five-match T20I series 2-1 against New Zealand, with many first-choice players missing from their squad",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528505.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413517.jpg",
+      "published_at": "2026-03-20T11:30:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కేశవ్ మహారాజ్: 'మేము చాలా అనుభవం లేనివాళ్లం, కానీ ఇది సబబు కాదు'",
+      "summary_te": "వారు ప్రస్తుతం న్యూజిలాండ్‌తో జరిగిన ఐదు మ్యాచ్‌ల T20I సిరీస్‌లో 2-1తో వెనుకబడి ఉన్నారు, వారి జట్టులో చాలా మంది ఫస్ట్-ఛాయిస్ ప్లేయర్‌లు తప్పిపోయారు.",
+      "translated": true
+    },
     {
       "id": "0b058b7ec9f6130569b128dab9fd1ee7",
       "title": "India, Australia tours highlight SA women's home summer",
@@ -15,7 +29,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -43,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "టీ20 ప్రపంచకప్‌లో పతనమైనప్పటికీ బట్లర్‌కి ఇంకా ఇంగ్లాండ్ ఆశలు ఉన్నాయి",
       "summary_te": "ఇంగ్లండ్ మాజీ కెప్టెన్ నాలుగు ICC ఈవెంట్లలో ఒక అర్ధ సెంచరీ చేసాడు, కానీ మరో 18 నెలలకు ఒప్పందం చేసుకున్నాడు",
-      "translated": true
-    },
-    {
-      "id": "e92c7515189918edba6c669b6a6def40",
-      "title": "Jamie Smith: IPL omission can be blessing in disguise",
-      "summary": "Keeper-batter rues shortcomings in Australia but hopes to take lessons into new season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528339.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/399100/399181.jpg",
-      "published_at": "2026-03-18T10:47:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "జామీ స్మిత్: ఐపీఎల్‌ను తప్పించడం మారువేషంలో ఆశీర్వాదం",
-      "summary_te": "కీపర్-బ్యాటర్ ఆస్ట్రేలియాలో లోపాలను రూపుమాపారు కానీ కొత్త సీజన్‌లో పాఠాలు తీసుకోవాలని ఆశిస్తున్నారు",
       "translated": true
     }
   ]
