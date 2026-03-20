@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-20T06:52:03.561Z",
-  "updated_at_IST": "20/3/2026, 12:22:03 pm",
+  "updated_at": "2026-03-20T07:51:57.791Z",
+  "updated_at_IST": "20/3/2026, 1:21:57 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "89a12003b98053e16b9418f97648bbf9",
+      "title": "Ferguson to miss early part of IPL 2026, committed to keep playing for New Zealand",
+      "summary": "The fast bowler plans to link up with Punjab Kings for the latter stages of the IPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528413.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398600/398656.jpg",
+      "published_at": "2026-03-20T07:17:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఫెర్గూసన్ IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతాడు, న్యూజిలాండ్ కోసం ఆడటం కొనసాగించడానికి కట్టుబడి ఉన్నాడు",
+      "summary_te": "ఫాస్ట్ బౌలర్ IPL యొక్క చివరి దశల కోసం పంజాబ్ కింగ్స్‌తో జతకట్టాలని యోచిస్తున్నాడు",
+      "translated": true
+    },
+    {
+      "id": "838f2bbc31c48348be1529088de00afd",
+      "title": "New Zealand ask South Africa to bat in third T20I; Jacobs comes back, Sipamla comes in",
+      "summary": "This will be the last fixture of the series for Devon Conway, Mitchell Santner and Lockie Ferguson, who will all be rested for the remaining two matches",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528470.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414797.jpg",
+      "published_at": "2026-03-20T06:37:13.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మూడో T20Iలో బ్యాటింగ్ చేయమని న్యూజిలాండ్ దక్షిణాఫ్రికాను కోరింది; జాకబ్స్ తిరిగి వస్తాడు, సిపమ్లా లోపలికి వస్తాడు",
+      "summary_te": "డెవాన్ కాన్వే, మిచెల్ సాంట్నర్ మరియు లాకీ ఫెర్గూసన్‌లకు ఇది సిరీస్‌లో చివరి మ్యాచ్ అవుతుంది, వీరందరికీ మిగిలిన రెండు మ్యాచ్‌లకు విశ్రాంతి ఇవ్వబడుతుంది.",
+      "translated": true
+    },
     {
       "id": "cb4e2981b05e4e83603713825fa8f8e1",
       "title": "Devine's all-round masterclass hands New Zealand 2-1 series lead",
@@ -16,20 +44,6 @@
       "language": "en",
       "title_te": "డివైన్ యొక్క ఆల్-రౌండ్ మాస్టర్‌క్లాస్ న్యూజిలాండ్‌ను 2-1 సిరీస్‌లో ఆధిక్యంలో ఉంచింది",
       "summary_te": "డెర్క్‌సెన్ మరియు రేనెకే దక్షిణాఫ్రికాకు శక్తినిచ్చారు, అయితే మధ్యలో మందగమనం కారణంగా 7 వికెట్లకు 149 కంటే తక్కువ స్కోరుతో ఉన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "838f2bbc31c48348be1529088de00afd",
-      "title": "New Zealand ask South Africa to bat in third T20I; Jacobs comes back, Sipamla comes in",
-      "summary": "This will be the last fixture of the series for Devon Conway, Mitchell Santner and Lockie Ferguson, who will all be rested for the remaining two matches",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528470.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414797.jpg",
-      "published_at": "2026-03-20T06:09:03.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మూడో T20Iలో బ్యాటింగ్ చేయమని న్యూజిలాండ్ దక్షిణాఫ్రికాను కోరింది; జాకబ్స్ తిరిగి వస్తాడు, సిపమ్లా లోపలికి వస్తాడు",
-      "summary_te": "డెవాన్ కాన్వే, మిచెల్ సాంట్నర్ మరియు లాకీ ఫెర్గూసన్‌లకు ఇది సిరీస్‌లో చివరి మ్యాచ్ అవుతుంది, వీరందరికీ మిగిలిన రెండు మ్యాచ్‌లకు విశ్రాంతి ఇవ్వబడుతుంది.",
       "translated": true
     },
     {
@@ -126,7 +140,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోరింగ్ ఆక్లాండ్‌లో సిరీస్‌లో ఆధిక్యం కోసం పోరాడుతున్నాయి",
+      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
       "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
       "translated": true
     },
@@ -173,20 +187,6 @@
       "translated": true
     },
     {
-      "id": "89a12003b98053e16b9418f97648bbf9",
-      "title": "Ferguson to miss early part of IPL 2026, committed to keep playing for New Zealand",
-      "summary": "The fast bowler plans to link up with Punjab Kings for the latter stages of the IPL",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528413.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398600/398656.jpg",
-      "published_at": "2026-03-19T15:48:22.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఫెర్గూసన్ IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతాడు, న్యూజిలాండ్ కోసం ఆడటం కొనసాగించడానికి కట్టుబడి ఉన్నాడు",
-      "summary_te": "ఫాస్ట్ బౌలర్ IPL యొక్క చివరి దశల కోసం పంజాబ్ కింగ్స్‌తో జతకట్టాలని యోచిస్తున్నాడు",
-      "translated": true
-    },
-    {
       "id": "d229a3320c5efe0a3665b922132f0d18",
       "title": "Sam Curran set to miss IPL 2026 with suspected injury",
       "summary": "Curran moved from CSK to RR last November via a trade",
@@ -211,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పరాగ్: 'కోహ్లి లేదా రోహిత్ లాగా శాంసన్ భర్తీ చేయలేడు'",
-      "summary_te": "పరాగ్ 2025లో RR యొక్క కోల్పోయిన అవకాశాలను మరియు కెప్టెన్సీకి అతని ప్రయాణం గురించి ప్రతిబింబించాడు మరియు సూర్యవంశీని బయటి శబ్దం నుండి రక్షించాల్సిన అవసరాన్ని హైలైట్ చేశాడు",
+      "summary_te": "పరాగ్ 2025లో RR యొక్క తప్పిపోయిన అవకాశాలు మరియు కెప్టెన్సీకి అతని ప్రయాణం గురించి ప్రతిబింబించాడు మరియు సూర్యవంశీని బయటి శబ్దం నుండి రక్షించాల్సిన అవసరాన్ని హైలైట్ చేశాడు",
       "translated": true
     },
     {
