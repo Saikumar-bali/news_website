@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-20T21:31:41.332Z",
-  "updated_at_IST": "21/3/2026, 3:01:41 am",
+  "updated_at": "2026-03-20T22:28:53.729Z",
+  "updated_at_IST": "21/3/2026, 3:58:53 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "797d78352b13155472c84eb26f84b87c",
+      "title": "Watch: NYC Mayor Zohran Mamdani marks Ramadan end with message on ‘gratification’",
+      "summary": "In his latest video, NYC Mayor Zohran Mamdani emphasised Ramadan's significance beyond fasting, highlighting its role in reflection, community, and understanding the fleeting nature of satisfaction versus desire.",
+      "url": "https://www.livemint.com/news/us-news/zohran-mamdani-marks-ramadan-end-with-message-on-restraint-and-limits-of-instant-gratification-nyc-mayor-watch-video-11774041276804.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/zohran_mamdani_1774041271797_1774041271951.png",
+      "published_at": "2026-03-20T21:44:57.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "చూడండి: NYC మేయర్ జోహ్రాన్ మమ్దానీ రంజాన్ ముగింపును ‘సంతృప్తి’ సందేశంతో గుర్తు చేశారు",
+      "summary_te": "NYC మేయర్ జోహ్రాన్ మమ్దానీ తన తాజా వీడియోలో, ఉపవాసం కంటే రంజాన్ యొక్క ప్రాముఖ్యతను నొక్కిచెప్పారు, ప్రతిబింబం, సంఘం మరియు కోరికకు వ్యతిరేకంగా సంతృప్తి యొక్క నశ్వరమైన స్వభావాన్ని అర్థం చేసుకోవడంలో దాని పాత్రను హైలైట్ చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "948e41857f7dce44471668f862f53d79",
+      "title": "US, Germany, Canada disrupt botnets that infected millions of devices",
+      "summary": "USA-CYBERSECURITY:US, Germany, Canada disrupt botnets that infected millions of devices",
+      "url": "https://www.livemint.com/news/us-germany-canada-disrupt-botnets-that-infected-millions-of-devices-11774042874472.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
+      "published_at": "2026-03-20T21:41:14.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "యుఎస్, జర్మనీ, కెనడా మిలియన్ల కొద్దీ పరికరాలకు సోకిన బోట్‌నెట్‌లకు అంతరాయం కలిగించాయి",
+      "summary_te": "USA-సైబర్‌సెక్యూరిటీ: US, జర్మనీ, కెనడా మిలియన్ల కొద్దీ పరికరాలకు సోకిన బాట్‌నెట్‌లను భంగపరిచాయి",
+      "translated": true
+    },
     {
       "id": "87b161ff6302b1893b1232dfa9550af0",
       "title": "How old is Barron Trump? What we know about US President Donald Trump's youngest son?",
@@ -127,7 +155,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఎస్మాయిల్ అహ్మదీ ఎవరు? ఇరాన్‌కు చెందిన బసిజ్ ఫోర్స్ ఇంటెలిజెన్స్ చీఫ్ ఇజ్రాయెల్ యొక్క టెహ్రాన్ సమ్మెలో వివాదం తీవ్రరూపం దాల్చడంతో మరణించారు",
-      "summary_te": "బాసిజ్ ఫోర్స్‌కు చెందిన ఇంటెలిజెన్స్ చీఫ్ ఎస్మాయిల్ అహ్మదీ ఇజ్రాయెల్ జరిపిన వైమానిక దాడిలో సంఘర్షణ తీవ్రతరం కావడంతో మరణించారు. మరొక అభివృద్ధిలో, ఇరాన్ తన క్షిపణి కార్యక్రమం కొనసాగుతుందని నొక్కి చెబుతూనే ప్రపంచవ్యాప్తంగా వినోద మరియు పర్యాటక ప్రదేశాలను తాకగలదని హెచ్చరించింది.",
+      "summary_te": "బాసిజ్ ఫోర్స్ యొక్క ఇంటెలిజెన్స్ చీఫ్, ఎస్మాయిల్ అహ్మదీ, పెరుగుతున్న సంఘర్షణ మధ్య ఇజ్రాయెల్ జరిపిన వైమానిక దాడిలో మరణించాడు. మరొక అభివృద్ధిలో, ఇరాన్ తన క్షిపణి కార్యక్రమం కొనసాగుతుందని నొక్కి చెబుతూనే ప్రపంచవ్యాప్తంగా వినోద మరియు పర్యాటక ప్రదేశాలను తాకగలదని హెచ్చరించింది.",
       "translated": true
     },
     {
@@ -338,34 +366,6 @@
       "language": "en",
       "title_te": "‘స్పృహ తప్పింది, త్రాడుపైకి వాలిపోయింది’: టెక్సాస్‌లో ఒక ప్రాణాన్ని బలిగొన్న ‘బ్లాక్‌అవుట్’ సోషల్ మీడియా ఛాలెంజ్ ఏమిటి?",
       "summary_te": "2022లో, UK ఆధారిత మీడియా నివేదిక 18 నెలల్లో కనీసం 20 మరణాలు బ్లాక్‌అవుట్ ఛాలెంజ్‌తో ముడిపడి ఉన్నాయని, 15 మంది బాధితులు 12 లేదా అంతకంటే తక్కువ వయస్సు ఉన్నారని పేర్కొన్నారు. టెక్సాస్‌కు చెందిన తొమ్మిదేళ్ల చిన్నారి తన ప్రాణాలను బలిగొన్న ట్రెండ్ గురించి మీరు తెలుసుకోవలసినది ఇక్కడ ఉంది ",
-      "translated": true
-    },
-    {
-      "id": "1f73702d65246c2927485c8009d89288",
-      "title": "Chuck Norris, iconic Hollywood action star, dies at 86",
-      "summary": "Iconic Hollywood action star Chuck Norris has died at the age of 86.",
-      "url": "https://www.livemint.com/news/us-news/iconic-hollywood-action-star-chuck-norris-passes-away-at-86-11774015633622.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/chuck_norris_1774016426208_1774016426348.webp",
-      "published_at": "2026-03-20T14:11:38.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రముఖ హాలీవుడ్ యాక్షన్ స్టార్ చక్ నోరిస్ (86) కన్నుమూశారు",
-      "summary_te": "ప్రముఖ హాలీవుడ్ యాక్షన్ స్టార్ చక్ నోరిస్ (86) కన్నుమూశారు.",
-      "translated": true
-    },
-    {
-      "id": "524af54e59ea17a548aebec6633f7bdf",
-      "title": "Quote of the day by Giorgio Armani: ‘The difference between style and fashion is…’",
-      "summary": "The quote is meant to encourage people to focus on and invest in quality, long-lasting pieces rather than chasing every new trend, affirming that quality, not popularity, is where true sophistication lies.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-by-giorgio-armani-the-difference-between-style-and-fashion-is-11774012345845.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/Untitled_design_-_2026-03-20T185112.572_1774012896833_1774012901579.png",
-      "published_at": "2026-03-20T13:52:58.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జార్జియో అర్మానీ ద్వారా ఈ రోజు కోట్: 'స్టైల్ మరియు ఫ్యాషన్ మధ్య వ్యత్యాసం...'",
-      "summary_te": "ప్రతి కొత్త ట్రెండ్‌ను వెంబడించడం కంటే నాణ్యమైన, దీర్ఘకాలం ఉండే ముక్కలపై దృష్టి పెట్టడానికి మరియు పెట్టుబడి పెట్టడానికి ప్రజలను ప్రోత్సహించడానికి ఈ కోట్ ఉద్దేశించబడింది, నాణ్యత, ప్రజాదరణ కాదు, ఇక్కడ నిజమైన అధునాతనత ఉందని ధృవీకరిస్తుంది.",
       "translated": true
     },
     {
