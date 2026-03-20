@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-20T10:38:47.235Z",
-  "updated_at_IST": "20/3/2026, 4:08:47 pm",
+  "updated_at": "2026-03-20T11:34:42.594Z",
+  "updated_at_IST": "20/3/2026, 5:04:42 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "3eb73765264049932ab9b11640c80a3d",
+      "title": "Global Terrorism Index 2026: Pakistan tops the list; Where do India, Israel, US and Iran rank?",
+      "summary": "The Global Terrorism Index 2026 ranks Pakistan as the top country impacted by terrorism, with a score of 8.57 and significant violence from TTP and BLA. Despite a global decline in terrorism deaths, Pakistan's situation worsened, highlighting regional security risks.",
+      "url": "https://www.livemint.com/news/global-terrorism-index-2026-pakistan-tops-the-list-india-israel-iran-rank-11774003960871.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/USA-CONGRESS-AFGHANISTAN-BLINKEN-3_1710756322046_1774004342009.JPG",
+      "published_at": "2026-03-20T11:08:37.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "గ్లోబల్ టెర్రరిజం ఇండెక్స్ 2026: జాబితాలో పాకిస్థాన్ అగ్రస్థానంలో ఉంది; భారతదేశం, ఇజ్రాయెల్, యుఎస్ మరియు ఇరాన్ ర్యాంక్ ఎక్కడ ఉన్నాయి?",
+      "summary_te": "గ్లోబల్ టెర్రరిజం ఇండెక్స్ 2026 8.57 స్కోర్‌తో మరియు TTP మరియు BLA నుండి గణనీయమైన హింసతో తీవ్రవాదం ద్వారా ప్రభావితమైన అగ్ర దేశంగా పాకిస్తాన్‌ను ర్యాంక్ చేసింది. ఉగ్రవాద మరణాలు ప్రపంచవ్యాప్తంగా క్షీణించినప్పటికీ, పాకిస్తాన్ పరిస్థితి మరింత దిగజారింది, ప్రాంతీయ భద్రతా ప్రమాదాలను ఎత్తిచూపింది.",
+      "translated": true
+    },
+    {
+      "id": "6d3e951ab3d78e584303bf115725bc49",
+      "title": "Quote of the day by Subhas Chandra Bose: 'One individual may die for an idea, but that idea will, after his death….'",
+      "summary": "Subhas Chandra Bose emphasised that while an individual may perish, their ideas can inspire countless others. His reflections on sacrifice highlight the enduring power of beliefs, urging each generation to uphold and propagate meaningful ideals for justice and freedom.",
+      "url": "https://www.livemint.com/news/india/quote-of-the-day-by-subhas-chandra-bose-one-individual-may-die-for-an-idea-but-that-idea-will-after-his-death-11774000172879.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/download_1774003434706_1774003439064.jpg",
+      "published_at": "2026-03-20T10:44:38.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సుభాష్ చంద్రబోస్ యొక్క కోట్ ఆఫ్ ది డే: 'ఒక వ్యక్తి ఒక ఆలోచన కోసం చనిపోవచ్చు, కానీ ఆ ఆలోచన అతని మరణం తర్వాత ఉంటుంది....'",
+      "summary_te": "ఒక వ్యక్తి నశించినప్పటికీ, వారి ఆలోచనలు అసంఖ్యాకమైన ఇతరులకు స్ఫూర్తినిస్తాయని సుభాష్ చంద్రబోస్ ఉద్ఘాటించారు. త్యాగంపై అతని ప్రతిబింబాలు విశ్వాసాల శాశ్వత శక్తిని హైలైట్ చేస్తాయి, న్యాయం మరియు స్వేచ్ఛ కోసం అర్ధవంతమైన ఆదర్శాలను సమర్థించాలని మరియు ప్రచారం చేయాలని ప్రతి తరాన్ని ప్రోత్సహిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "39a988197b1bc11b5ad1b5d3c77afc2b",
+      "title": "Eternal shares jump 3% from lows as Zomato hikes platform fee by Rs 2.4 per order",
+      "summary": "Eternal shares surged 3% after Zomato increased its platform fee by Rs 2.40 per order, bringing it in line with rival Swiggy. This move follows a significant correction in Eternal's stock, which has underperformed broader indices over the past six months.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/eternal-shares-jump-3-from-lows-as-zomato-hikes-platform-fee-by-rs-2-4-per-order/articleshow/129698053.cms",
+      "image": null,
+      "published_at": "2026-03-20T10:23:47.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "జొమాటో ప్లాట్‌ఫారమ్ ఫీజును ఒక్కో ఆర్డర్‌కు రూ. 2.4 పెంచడంతో ఎటర్నల్ షేర్లు కనిష్ట స్థాయిల నుంచి 3% పెరిగాయి.",
+      "summary_te": "జొమాటో తన ప్లాట్‌ఫారమ్ ఫీజును ఒక్కో ఆర్డర్‌కు రూ. 2.40 చొప్పున పెంచడంతో ఎటర్నల్ షేర్లు 3% పెరిగాయి, ఇది ప్రత్యర్థి స్విగ్గీకి అనుగుణంగా వచ్చింది. ఈ చర్య ఎటర్నల్ యొక్క స్టాక్‌లో గణనీయమైన దిద్దుబాటును అనుసరిస్తుంది, ఇది గత ఆరు నెలలుగా విస్తృత సూచికలను బలహీనపరిచింది.",
+      "translated": true
+    },
     {
       "id": "84478349dc0caba92d2745ced1566320",
       "title": "What is Spring Equinox and when will it occur in 2026? All you need to know",
@@ -49,7 +91,7 @@
     {
       "id": "55a144f0518c07d7b49d26865f239726",
       "title": "Flipkart's Group CFO Sriram Venkataraman quits after a decade— A look at his career",
-      "summary": "Flipkart's Group CFO Sriram Venkataraman has resigned, effective in the coming months, as the company prepares for its IPO in India. Here's a look at his career.&nbsp;",
+      "summary": "Flipkart's Group CFO Sriram Venkataraman has resigned, effective in the coming months, as the company prepares for its IPO in India. Here's a look at the senior executive's career.&nbsp;",
       "url": "https://www.livemint.com/news/flipkarts-group-cfo-sriram-venkataraman-quits-after-a-decade-a-look-at-his-career-11773996586313.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/Screenshot_2026-03-20_153448_1774001102366_1774001107054.png",
       "published_at": "2026-03-20T10:07:19.000Z",
@@ -57,7 +99,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఫ్లిప్‌కార్ట్ గ్రూప్ CFO శ్రీరామ్ వెంకటరామన్ ఒక దశాబ్దం తర్వాత నిష్క్రమించారు- అతని కెరీర్‌పై ఒక లుక్",
-      "summary_te": "ఫ్లిప్‌కార్ట్ గ్రూప్ CFO శ్రీరామ్ వెంకటరామన్ రాజీనామా చేశారు, ఇది రాబోయే నెలల్లో అమలులోకి వస్తుంది, కంపెనీ భారతదేశంలో తన IPO కోసం సిద్ధమవుతోంది. అతని కెరీర్‌ను ఇక్కడ చూడండి. ",
+      "summary_te": "ఫ్లిప్‌కార్ట్ గ్రూప్ CFO శ్రీరామ్ వెంకటరామన్ రాజీనామా చేశారు, ఇది రాబోయే నెలల్లో అమలులోకి వస్తుంది, కంపెనీ భారతదేశంలో తన IPO కోసం సిద్ధమవుతోంది. సీనియర్ ఎగ్జిక్యూటివ్ కెరీర్‌ను ఇక్కడ చూడండి. ",
       "translated": true
     },
     {
@@ -89,20 +131,6 @@
       "translated": true
     },
     {
-      "id": "af44fc0597199d6ba833c91c95608a6b",
-      "title": "Rupee weakness likely to persist as oil prices stay elevated: Anindya Banerjee",
-      "summary": "The Indian rupee is at a critical point, falling past 93 against the US dollar. Crude oil prices and foreign investor outflows are pressuring the currency. Geopolitical risks, especially concerning the Strait of Hormuz, are a major factor. The Reserve Bank of India is intervening to manage volatility. The rupee's future direction depends on easing energy prices and global stability.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-weakness-likely-to-persist-as-oil-prices-stay-elevated-anindya-banerjee/articleshow/129696103.cms",
-      "image": null,
-      "published_at": "2026-03-20T08:37:36.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "చమురు ధరలు పెరిగినందున రూపాయి బలహీనత కొనసాగుతుంది: అనింద్యా బెనర్జీ",
-      "summary_te": "అమెరికా డాలర్‌తో పోలిస్తే భారత రూపాయి 93కి పడిపోయి కీలక దశలో ఉంది. ముడి చమురు ధరలు, విదేశీ ఇన్వెస్టర్ల ప్రవాహాలు కరెన్సీపై ఒత్తిడి తెస్తున్నాయి. భౌగోళిక రాజకీయ ప్రమాదాలు, ప్రత్యేకించి హార్ముజ్ జలసంధికి సంబంధించిన ప్రధాన అంశం. అస్థిరతను నిర్వహించడానికి రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా జోక్యం చేసుకుంటోంది. రూపాయి యొక్క భవిష్యత్తు దిశ ఇంధన ధరలను తగ్గించడం మరియు ప్రపంచ స్థిరత్వంపై ఆధారపడి ఉంటుంది.",
-      "translated": true
-    },
-    {
       "id": "3033ea09dba6614d2057fed3c796c1b6",
       "title": "Prince William and Kate Middleton: Amid divorce rumours, new book celebrates chemistry between future King and his Queen",
       "summary": "Prince William and Princess Kate Middleton have faced numerous challenges, including health crises and family losses, yet their bond remains strong. Royal journalist Russell Myers emphasises Kate's vital role in the monarchy.",
@@ -118,7 +146,7 @@
     },
     {
       "id": "84169d747a08e2f57a3b58323a3f7db6",
-      "title": "​10 high-priced stocks: FY26’s top performers & laggards with FII and MF stakes​",
+      "title": "​6 high-priced stocks fall up to 40% in FY26; here’s FII and MF exposure",
       "summary": "​The top six laggards have fallen in the range of 25–40%, while the top six gainers have surged between 40-130% in FY26 among these high-priced stocks.",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-high-priced-stocks-fy26s-top-performers-amp-laggards-with-fii-and-mf-stakes/slideshow/129695610.cms",
       "image": null,
@@ -126,7 +154,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "10 అధిక ధర గల స్టాక్‌లు: FY26 యొక్క అత్యుత్తమ ప్రదర్శనకారులు & FII మరియు MF వాటాలతో వెనుకబడి ఉన్నారు",
+      "title_te": "6 అధిక ధర కలిగిన స్టాక్‌లు FY26లో 40% వరకు పడిపోతాయి; ఇక్కడ FII మరియు MF ఎక్స్పోజర్ ఉంది",
       "summary_te": "ఈ అధిక ధర కలిగిన స్టాక్‌లలో మొదటి ఆరు వెనుకబడినవి 25-40% పరిధిలో పడిపోయాయి, అయితే మొదటి ఆరు గెయినర్లు FY26లో 40-130% మధ్య పెరిగాయి.",
       "translated": true
     },
@@ -397,34 +425,6 @@
       "translated": true
     },
     {
-      "id": "1ccf68dd554b6258d11d7597371f6a24",
-      "title": "Quote of the Day: American diplomat Henry Kissinger's words of wisdom on politics ― ‘Power is the ultimate aphrodisiac’",
-      "summary": "Henry Kissinger, a prominent U.S. diplomat and strategist, was known for his role in Cold War policies.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-american-diplomat-henry-kissingers-words-of-wisdom-on-politics-power-is-the-ultimate-aphrodisiac-11773973968915.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/henrykissinger_1773974024611_1773974024750.jpg",
-      "published_at": "2026-03-20T03:31:23.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: రాజకీయాలపై అమెరికన్ దౌత్యవేత్త హెన్రీ కిస్సింగర్ యొక్క వివేకం యొక్క పదాలు - 'అధికారమే అంతిమ కామోద్దీపన'",
-      "summary_te": "హెన్రీ కిస్సింజర్, ప్రముఖ US దౌత్యవేత్త మరియు వ్యూహకర్త, ప్రచ్ఛన్న యుద్ధ విధానాలలో అతని పాత్రకు ప్రసిద్ధి చెందారు.",
-      "translated": true
-    },
-    {
-      "id": "cc012bb8b42ae4ec5c1bb54de38ec020",
-      "title": "Benjamin Netanyahu quashes death rumours with live appearance — ‘I’m alive and you're all witnesses' | Watch",
-      "summary": "Rumours about Netanyahu's death began after the Israel government's press office released a video last week showing the Israeli prime minister addressing the public in his first news conference since the war with Tehran began. Some users claimed it was AI-generated, sparking speculation about death.",
-      "url": "https://www.livemint.com/news/world/benjamin-netanyahu-quashes-death-rumours-with-live-appearance-i-m-alive-and-youre-all-witnesses-watch-11773975255373.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/IRAN-CRISIS-ISRAEL-NETANYAHU-10_1773949419042_1773949432557_1773975666344.JPG",
-      "published_at": "2026-03-20T03:01:25.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "బెంజమిన్ నెతన్యాహు ప్రత్యక్ష ప్రదర్శనతో మరణ పుకార్లను కొట్టివేసారు — ‘నేను సజీవంగా ఉన్నాను మరియు మీరందరూ సాక్షులు’ | చూడండి",
-      "summary_te": "టెహ్రాన్‌తో యుద్ధం ప్రారంభమైనప్పటి నుండి ఇజ్రాయెల్ ప్రధాని తన మొదటి వార్తా సమావేశంలో ప్రజలను ఉద్దేశించి ప్రసంగిస్తున్న వీడియోను ఇజ్రాయెల్ ప్రభుత్వ పత్రికా కార్యాలయం గత వారం విడుదల చేసిన తర్వాత నెతన్యాహు మరణం గురించి పుకార్లు మొదలయ్యాయి. కొంతమంది వినియోగదారులు ఇది AI-సృష్టించబడిందని పేర్కొన్నారు, ఇది మరణం గురించి ఊహాగానాలకు దారితీసింది.",
-      "translated": true
-    },
-    {
       "id": "f25cabd94956e0adc62a133264b5ed63",
       "title": "Small-caps bear the brunt as geopolitical risks dent valuations",
       "summary": "Small-cap stocks are facing greater valuation pressure due to geopolitical concerns. More than half of these smaller companies trade below their three-year average valuations. Technical indicators also suggest small-caps are entering oversold territory faster. This trend persists across longer timeframes, indicating significant price exhaustion in the small-cap segment.",
@@ -519,7 +519,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేయిస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -575,7 +575,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -602,7 +602,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ఐక్యరాజ్యసమితి వాతావరణ చీఫ్ సైమన్ స్టీల్ అస్థిర ప్రపంచంలో సహకారం కోసం పిలుపునిచ్చారు",
+      "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
       "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
@@ -715,7 +715,7 @@
       "category": "business",
       "language": "en",
       "title_te": "విప్రోను తగ్గించండి; లక్ష్యం రూ. 410: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో విప్రో షేరుపై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
+      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి తన పరిశోధన నివేదికలో విప్రో స్టాక్‌పై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -757,7 +757,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇన్ఫోసిస్‌ను కూడబెట్టు; లక్ష్యం రూ. 1531: KR చోక్సీ",
-      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై రూ. 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
+      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -812,7 +812,7 @@
       "source": "Moneycontrol",
       "category": "business",
       "language": "en",
-      "title_te": "సిటీ యూనియన్ బ్యాంక్ కొనుగోలు; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
+      "title_te": "సిటీ యూనియన్ బ్యాంక్‌ను కొనుగోలు చేయండి; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
       "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేయడంపై ICICI సెక్యూరిటీస్ బుల్లిష్‌గా ఉంది.",
       "translated": true
     },
@@ -841,7 +841,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
