@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-20T14:05:45.307Z",
-  "updated_at_IST": "20/3/2026, 7:35:45 pm",
+  "updated_at": "2026-03-20T14:48:16.277Z",
+  "updated_at_IST": "20/3/2026, 8:18:16 pm",
   "category": "sports",
   "count": 25,
   "articles": [
@@ -9,13 +9,27 @@
       "title": "Matheesha Pathirana set to miss early part of IPL 2026",
       "summary": "KKR head coach Abhishek Nayar said that Pathirana will only be available from mid-April, while all but ruling Harshit Rana out of the tournament",
       "url": "https://www.espncricinfo.com/ci/content/story/1528513.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412600/412690.jpg",
-      "published_at": "2026-03-20T13:44:44.000Z",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414807.jpg",
+      "published_at": "2026-03-20T14:25:50.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోనున్నారు",
       "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి మాత్రమే అందుబాటులో ఉంటుందని, హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి నిష్క్రమించారు",
+      "translated": true
+    },
+    {
+      "id": "f810abaf10c95e7bc81ba0f455713758",
+      "title": "Rwanda's Utagushimaninde becomes youngest centurion in women's T20Is",
+      "summary": "At 15 years and 223, Utagushimaninde also became the first woman to score a hundred on T20I debut",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528515.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414805.jpg",
+      "published_at": "2026-03-20T14:06:58.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రువాండాకు చెందిన ఉటాగుషిమానిండే మహిళల టీ20ల్లో అత్యంత పిన్న వయస్కుడైన సెంచరీ",
+      "summary_te": "15 సంవత్సరాల మరియు 223 సంవత్సరాల వయస్సులో, ఉటాగుషిమానిండే T20I అరంగేట్రంలో సెంచరీ చేసిన మొదటి మహిళగా కూడా నిలిచింది.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "Molineux తిరిగి రావడానికి సిద్ధంగా ఉంది కానీ పూర్తి ఆల్ రౌండ్ పాత్ర అనిశ్చితంగా ఉంది",
       "summary_te": "ఈ ఏడాది చివర్లో జరగనున్న టీ20 ప్రపంచకప్‌కు ముందు ఆస్ట్రేలియా కొత్త కెప్టెన్‌తో జాగ్రత్తలు తీసుకోనున్నారు",
-      "translated": true
-    },
-    {
-      "id": "731ae2ae1d0d54b0258c037eaf5560da",
-      "title": "Kishan to lead Sunrisers Hyderabad in Cummins' absence",
-      "summary": "Cummins, who is recuperating from a lumbar stress issue, is set to miss the early part of the season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528345.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/401000/401033.jpg",
-      "published_at": "2026-03-19T00:35:38.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కమిన్స్ గైర్హాజరీలో సన్‌రైజర్స్ హైదరాబాద్‌కు కిషన్ నాయకత్వం వహించనున్నాడు",
-      "summary_te": "నడుము ఒత్తిడి సమస్య నుండి కోలుకుంటున్న కమ్మిన్స్, సీజన్ ప్రారంభ భాగాన్ని కోల్పోవలసి ఉంది",
       "translated": true
     }
   ]
