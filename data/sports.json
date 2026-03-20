@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-20T12:42:04.684Z",
-  "updated_at_IST": "20/3/2026, 6:12:04 pm",
+  "updated_at": "2026-03-20T14:05:45.307Z",
+  "updated_at_IST": "20/3/2026, 7:35:45 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "487520b99b137a3d0beed1da9806b658",
+      "title": "Matheesha Pathirana set to miss early part of IPL 2026",
+      "summary": "KKR head coach Abhishek Nayar said that Pathirana will only be available from mid-April, while all but ruling Harshit Rana out of the tournament",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528513.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412600/412690.jpg",
+      "published_at": "2026-03-20T13:44:44.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోనున్నారు",
+      "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి మాత్రమే అందుబాటులో ఉంటుందని, హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి నిష్క్రమించారు",
+      "translated": true
+    },
     {
       "id": "a1aa1d7ed9fd82f15f976b11fed13368",
       "title": "Keshav Maharaj: 'We are very inexperienced, but it's not an excuse'",
@@ -29,7 +43,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -57,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "కమిన్స్ గైర్హాజరీలో సన్‌రైజర్స్ హైదరాబాద్‌కు కిషన్ నాయకత్వం వహించనున్నాడు",
       "summary_te": "నడుము ఒత్తిడి సమస్య నుండి కోలుకుంటున్న కమ్మిన్స్, సీజన్ ప్రారంభ భాగాన్ని కోల్పోవలసి ఉంది",
-      "translated": true
-    },
-    {
-      "id": "bc0b0f68ee3dee2a010a74fb3df32b9a",
-      "title": "Buttler 'still has England ambitions' despite T20 World Cup slump",
-      "summary": "Former England captain has made one half-century in four ICC events, but is contracted for another 18 months",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528343.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414770.jpg",
-      "published_at": "2026-03-18T10:52:44.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "టీ20 ప్రపంచకప్‌లో పతనమైనప్పటికీ బట్లర్‌కి ఇంకా ఇంగ్లాండ్ ఆశలు ఉన్నాయి",
-      "summary_te": "ఇంగ్లండ్ మాజీ కెప్టెన్ నాలుగు ICC ఈవెంట్లలో ఒక అర్ధ సెంచరీ చేసాడు, కానీ మరో 18 నెలలకు ఒప్పందం చేసుకున్నాడు",
       "translated": true
     }
   ]
