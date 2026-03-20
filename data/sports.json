@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-20T01:11:27.516Z",
-  "updated_at_IST": "20/3/2026, 6:41:27 am",
+  "updated_at": "2026-03-20T03:41:40.870Z",
+  "updated_at_IST": "20/3/2026, 9:11:40 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "9081203120bd895e035598bb345a5c05",
+      "title": "King and Mooney star as Australia escape catching nightmare",
+      "summary": "The visitors spilled five chances but still emerged from the opening T20I as comfortable winners",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528435.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/395000/395089.jpg",
+      "published_at": "2026-03-20T03:16:41.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కింగ్ మరియు మూనీ ఆస్ట్రేలియా పాత్రలో పీడకల నుండి తప్పించుకున్నారు",
+      "summary_te": "సందర్శకులు ఐదు అవకాశాలను చిందించినప్పటికీ, ప్రారంభ T20I నుండి సౌకర్యవంతమైన విజేతలుగా నిలిచారు",
+      "translated": true
+    },
+    {
+      "id": "95a4ecbb0826b75d270a32bd315bd7bf",
+      "title": "Mulder in as SA bowl; Clarkson, Ferguson in for NZ",
+      "summary": "South Africa kept the same attack that bowled New Zealand out for 91 with no room for experienced quick Lutho Sipamla",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528166.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414691.jpg",
+      "published_at": "2026-03-20T02:05:53.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "SA గిన్నె వలె మల్డర్; NZ కోసం క్లార్క్సన్, ఫెర్గూసన్",
+      "summary_te": "అనుభవజ్ఞుడైన లూథో సిపమ్లాకు చోటు లేకుండా న్యూజిలాండ్‌ను 91 పరుగులకే ఆలౌట్ చేసిన దక్షిణాఫ్రికా అదే దాడిని కొనసాగించింది.",
+      "translated": true
+    },
     {
       "id": "11aa7ae4cd8314c37bd93b0299e15513",
       "title": "John Mooney named Delhi Capitals' fielding coach for IPL 2026",
@@ -28,7 +56,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
+      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోరింగ్ ఆక్లాండ్‌లో సిరీస్‌లో ఆధిక్యం కోసం పోరాడుతున్నాయి",
       "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
       "translated": true
     },
@@ -57,7 +85,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "PSL 2026: లాబుస్చాగ్నే హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్‌గా నియమితులయ్యారు",
-      "summary_te": "ఫ్రాంచైజీ కోచ్‌గా నియమితులైన తోటి ఆస్ట్రేలియన్ జాసన్ గిల్లెస్పీతో కలిసి లాబుస్చాగ్నే పని చేస్తాడు.",
+      "summary_te": "ఫ్రాంచైజీ కోచ్‌గా నియమించబడిన తోటి ఆస్ట్రేలియన్ జాసన్ గిల్లెస్పీతో కలిసి లాబుస్చాగ్నే పని చేస్తాడు.",
       "translated": true
     },
     {
@@ -126,7 +154,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "అనుమానాస్పద గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
+      "title_te": "అనుమానిత గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
       "summary_te": "కుర్రాన్ గత నవంబర్‌లో ట్రేడ్ ద్వారా CSK నుండి RRకి మారారు",
       "translated": true
     },
@@ -141,7 +169,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పరాగ్: 'కోహ్లి లేదా రోహిత్ లాగా శాంసన్ భర్తీ చేయలేడు'",
-      "summary_te": "పరాగ్ 2025లో RR యొక్క తప్పిపోయిన అవకాశాలు మరియు కెప్టెన్సీకి అతని ప్రయాణం గురించి ప్రతిబింబించాడు మరియు సూర్యవంశీని బయటి శబ్దం నుండి రక్షించాల్సిన అవసరాన్ని హైలైట్ చేశాడు",
+      "summary_te": "పరాగ్ 2025లో RR యొక్క కోల్పోయిన అవకాశాలను మరియు కెప్టెన్సీకి అతని ప్రయాణం గురించి ప్రతిబింబించాడు మరియు సూర్యవంశీని బయటి శబ్దం నుండి రక్షించాల్సిన అవసరాన్ని హైలైట్ చేశాడు",
       "translated": true
     },
     {
@@ -225,7 +253,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "యాషెస్ అనంతర వాస్తవాలకు అనుగుణంగా ఇంగ్లాండ్ పాలన మారగలదా?",
-      "summary_te": "ఇఎస్‌పిఎన్‌క్రిక్‌ఇన్‌ఫోతో లివింగ్‌స్టోన్ యొక్క పేలుడు ఇంటర్వ్యూ విభజిత ఇంగ్లండ్ సెటప్‌లోని సమస్యలను బహిర్గతం చేసింది",
+      "summary_te": "ESPNcricinfoతో లివింగ్‌స్టోన్ యొక్క పేలుడు ఇంటర్వ్యూ విభజిత ఇంగ్లాండ్ సెటప్‌లోని సమస్యలను బహిర్గతం చేసింది",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "బట్టీ: కౌంటీ క్రికెట్ నుండి ఇంగ్లండ్ జట్టుకు రూట్‌లు 'మిస్డ్ ఓవర్'",
       "summary_te": "సర్రే యొక్క ప్రధాన కోచ్ ఛాంపియన్‌షిప్‌ను ప్రపంచ గేమ్‌లో 'ఉత్తమ సంతానోత్పత్తి ప్రదేశం'గా సమర్థించాడు",
-      "translated": true
-    },
-    {
-      "id": "64598dbc79af39462c07e37346874f22",
-      "title": "Ashwell Prince rues lack of partnerships in South Africa's Hamilton defeat",
-      "summary": "\"The only box we ticked was George Linde, who played a really nice cameo towards the end, but we didn't get any partnerships going,\" the South Africa batting coach said",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528192.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414756.jpg",
-      "published_at": "2026-03-17T12:24:35.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "దక్షిణాఫ్రికా హామిల్టన్ ఓటమిలో భాగస్వామ్యాలు లేకపోవడాన్ని ఆష్వెల్ ప్రిన్స్ ఆరోపించాడు",
-      "summary_te": "\"మేము టిక్ చేసిన ఏకైక పెట్టె జార్జ్ లిండే, అతను చివరలో చాలా చక్కని అతిధి పాత్ర పోషించాడు, కానీ మాకు ఎటువంటి భాగస్వామ్యాలు జరగలేదు\" అని దక్షిణాఫ్రికా బ్యాటింగ్ కోచ్ చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "d92b4473b1c5af6e58884d1d8d19e388",
-      "title": "MCC on Agha run-out: 'No case to be made that this was not out'",
-      "summary": "The lawmaking body contended that the dismissal was fully in accordance with the Laws of the game",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528190.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414653.jpg",
-      "published_at": "2026-03-17T12:07:29.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆఘా రనౌట్‌పై MCC: 'ఇది నాట్ అవుట్ కాదని కేసు పెట్టకూడదు'",
-      "summary_te": "తొలగింపు పూర్తిగా ఆట యొక్క చట్టాలకు అనుగుణంగా ఉందని చట్ట నిర్మాణ సంస్థ వాదించింది",
       "translated": true
     }
   ]
