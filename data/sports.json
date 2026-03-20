@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-20T08:40:36.627Z",
-  "updated_at_IST": "20/3/2026, 2:10:36 pm",
+  "updated_at": "2026-03-20T09:41:48.839Z",
+  "updated_at_IST": "20/3/2026, 3:11:48 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "cb4e2981b05e4e83603713825fa8f8e1",
+      "title": "Devine's all-round masterclass hands New Zealand 2-1 series lead",
+      "summary": "Dercksen and Reyneke powered South Africa but a slowdown in between left them with an under par 149 for 7",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528463.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414789.jpg",
+      "published_at": "2026-03-20T08:56:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డివైన్ యొక్క ఆల్-రౌండ్ మాస్టర్‌క్లాస్ న్యూజిలాండ్‌ను 2-1 సిరీస్‌లో ఆధిక్యంలో ఉంచింది",
+      "summary_te": "డెర్క్‌సెన్ మరియు రేనెకే దక్షిణాఫ్రికాకు శక్తినిచ్చారు, అయితే మధ్యలో మందగమనం కారణంగా 7 వికెట్లకు 149 కంటే తక్కువ స్కోరుతో ఉన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "332f7b4c4dfdf8f422849e917469bbed",
+      "title": "Hamstring injury rules Nathan Ellis out of IPL 2026",
+      "summary": "CSK fast bowler Nathan Ellis has aggravated an old hamstring injury",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528407.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/382100/382179.jpg",
+      "published_at": "2026-03-20T08:50:20.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హామ్ స్ట్రింగ్ గాయం నాథన్ ఎల్లిస్‌ను IPL 2026 నుండి తప్పించింది",
+      "summary_te": "CSK ఫాస్ట్ బౌలర్ నాథన్ ఎల్లిస్ పాత స్నాయువు గాయాన్ని తీవ్రతరం చేశాడు",
+      "translated": true
+    },
     {
       "id": "89a12003b98053e16b9418f97648bbf9",
       "title": "Ferguson to miss early part of IPL 2026, committed to keep playing for New Zealand",
@@ -30,20 +58,6 @@
       "language": "en",
       "title_te": "మూడో T20Iలో బ్యాటింగ్ చేయమని న్యూజిలాండ్ దక్షిణాఫ్రికాను కోరింది; జాకబ్స్ తిరిగి వస్తాడు, సిపమ్లా లోపలికి వస్తాడు",
       "summary_te": "డెవాన్ కాన్వే, మిచెల్ సాంట్నర్ మరియు లాకీ ఫెర్గూసన్‌లకు ఇది సిరీస్‌లో చివరి మ్యాచ్ అవుతుంది, వీరందరికీ మిగిలిన రెండు మ్యాచ్‌లకు విశ్రాంతి ఇవ్వబడుతుంది.",
-      "translated": true
-    },
-    {
-      "id": "cb4e2981b05e4e83603713825fa8f8e1",
-      "title": "Devine's all-round masterclass hands New Zealand 2-1 series lead",
-      "summary": "Dercksen and Reyneke powered South Africa but a slowdown in between left them with an under par 149 for 7",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528463.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414789.jpg",
-      "published_at": "2026-03-20T06:32:02.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డివైన్ యొక్క ఆల్-రౌండ్ మాస్టర్‌క్లాస్ న్యూజిలాండ్‌ను 2-1 సిరీస్‌లో ఆధిక్యంలో ఉంచింది",
-      "summary_te": "డెర్క్‌సెన్ మరియు రేనెకే దక్షిణాఫ్రికాకు శక్తినిచ్చారు, అయితే మధ్యలో మందగమనం కారణంగా 7 వికెట్లకు 149 కంటే తక్కువ స్కోరుతో ఉన్నారు.",
       "translated": true
     },
     {
@@ -86,20 +100,6 @@
       "language": "en",
       "title_te": "SRH యొక్క జాక్ ఎడ్వర్డ్స్ పాదాల గాయంతో IPL 2026 నుండి తప్పుకున్నాడు",
       "summary_te": "జాక్ ఎడ్వర్డ్స్ గాయం IPL 2026కి ముందు గాయాలతో బాధపడుతున్న ఆస్ట్రేలియన్ శీఘ్ర బౌలర్ల జాబితాకు జోడించబడింది",
-      "translated": true
-    },
-    {
-      "id": "332f7b4c4dfdf8f422849e917469bbed",
-      "title": "Hamstring injury expected to rule Nathan Ellis out of IPL 2026",
-      "summary": "CSK fast bowler Nathan Ellis has aggravated an old hamstring injury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528407.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/382100/382179.jpg",
-      "published_at": "2026-03-20T03:59:51.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హామ్ స్ట్రింగ్ గాయం నాథన్ ఎల్లిస్‌ను IPL 2026 నుండి తప్పించే అవకాశం ఉంది",
-      "summary_te": "CSK ఫాస్ట్ బౌలర్ నాథన్ ఎల్లిస్ పాత స్నాయువు గాయాన్ని తీవ్రతరం చేశాడు",
       "translated": true
     },
     {
