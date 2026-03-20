@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-20T03:41:40.870Z",
-  "updated_at_IST": "20/3/2026, 9:11:40 am",
+  "updated_at": "2026-03-20T05:23:44.099Z",
+  "updated_at_IST": "20/3/2026, 10:53:44 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "502158d9d1bf66a1f3e9a5d751e4e333",
+      "title": "BBL privatisation may not be an all-in decision as deadline looms",
+      "summary": "A model has been discussed whereby a sale of clubs could continue even if some opt against it",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528453.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412300/412333.jpg",
+      "published_at": "2026-03-20T04:33:32.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గడువు ముగుస్తున్నందున BBL ప్రైవేటీకరణ అనేది ఆల్ ఇన్ నిర్ణయం కాకపోవచ్చు",
+      "summary_te": "క్లబ్‌ల విక్రయాన్ని కొందరు వ్యతిరేకించినప్పటికీ కొనసాగించే మోడల్ గురించి చర్చించబడింది",
+      "translated": true
+    },
+    {
+      "id": "b4ae9c23b4138dcf905172463f4f3a34",
+      "title": "SRH's Jack Edwards ruled out of IPL 2026 with foot injury",
+      "summary": "Jack Edwards's injury adds to the growing list of Australian quick bowlers who have been hit with injuries ahead of IPL 2026",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528448.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412200/412258.jpg",
+      "published_at": "2026-03-20T04:20:19.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "SRH యొక్క జాక్ ఎడ్వర్డ్స్ పాదాల గాయంతో IPL 2026 నుండి తప్పుకున్నాడు",
+      "summary_te": "జాక్ ఎడ్వర్డ్స్ గాయం IPL 2026కి ముందు గాయాలతో బాధపడుతున్న ఆస్ట్రేలియన్ శీఘ్ర బౌలర్ల జాబితాకు జోడించబడింది",
+      "translated": true
+    },
+    {
+      "id": "332f7b4c4dfdf8f422849e917469bbed",
+      "title": "Hamstring injury expected to rule Nathan Ellis out of IPL 2026",
+      "summary": "CSK fast bowler Nathan Ellis has aggravated an old hamstring injury",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528407.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/382100/382179.jpg",
+      "published_at": "2026-03-20T03:59:51.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హామ్ స్ట్రింగ్ గాయం నాథన్ ఎల్లిస్‌ను IPL 2026 నుండి తప్పించే అవకాశం ఉంది",
+      "summary_te": "CSK ఫాస్ట్ బౌలర్ నాథన్ ఎల్లిస్ పాత స్నాయువు గాయాన్ని తీవ్రతరం చేశాడు",
+      "translated": true
+    },
     {
       "id": "9081203120bd895e035598bb345a5c05",
       "title": "King and Mooney star as Australia escape catching nightmare",
@@ -243,20 +285,6 @@
       "translated": true
     },
     {
-      "id": "635b91f5479f05558729bfe53405b836",
-      "title": "Can England's regime change to meet post-Ashes realities?",
-      "summary": "Livingstone's explosive interview with ESPNcricinfo exposes issues within disjointed England set-up",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528248.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/402300/402324.jpg",
-      "published_at": "2026-03-18T18:54:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "యాషెస్ అనంతర వాస్తవాలకు అనుగుణంగా ఇంగ్లాండ్ పాలన మారగలదా?",
-      "summary_te": "ESPNcricinfoతో లివింగ్‌స్టోన్ యొక్క పేలుడు ఇంటర్వ్యూ విభజిత ఇంగ్లాండ్ సెటప్‌లోని సమస్యలను బహిర్గతం చేసింది",
-      "translated": true
-    },
-    {
       "id": "bc0b0f68ee3dee2a010a74fb3df32b9a",
       "title": "Buttler 'still has England ambitions' despite T20 World Cup slump",
       "summary": "Former England captain has made one half-century in four ICC events, but is contracted for another 18 months",
@@ -299,20 +327,6 @@
       "translated": true
     },
     {
-      "id": "76728afdffb32025c6973f58b16fb852",
-      "title": "Haddin named New South Wales head coach",
-      "summary": "The former wicketkeeper-batter takes over from Greg Shipperd after a messy few months for the state",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528186.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414760.jpg",
-      "published_at": "2026-03-18T06:13:38.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హాడిన్ న్యూ సౌత్ వేల్స్ ప్రధాన కోచ్‌గా నియమితులయ్యారు",
-      "summary_te": "మాజీ వికెట్ కీపర్-బ్యాటర్ రాష్ట్రం కోసం కొన్ని నెలల గందరగోళం తర్వాత గ్రెగ్ షిప్పర్డ్ నుండి బాధ్యతలు స్వీకరించాడు",
-      "translated": true
-    },
-    {
       "id": "19cb1e551b2f9b11b859a73f15b27607",
       "title": "Ferguson on Sears: 'He has still got more pace in him'",
       "summary": "\"I love playing in New Zealand in front of the home crowd, conditions I'm used to,\" Lockie Ferguson says of returning after a break",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "'యాషెస్ సిరీస్ మీ నుండి చాలా ప్రయోజనం పొందుతుంది' - కారీ అలసిపోయాడు కానీ షీల్డ్ ఫైనల్ కోసం ఉత్సాహంగా ఉన్నాడు",
       "summary_te": "తాను విరామం కోసం ఎదురు చూస్తున్నానని, అయితే వచ్చే వారం విక్టోరియాతో జరిగిన మ్యాచ్‌లో దక్షిణ ఆస్ట్రేలియాకు షీల్డ్ టైటిల్స్‌ను తిరిగి సాధించడంలో సహాయపడటానికి తాను చాలా ప్రేరేపిస్తున్నానని కారీ చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "e6c81d08a2da3e32d96de8186dcacb5e",
-      "title": "Batty: Routes from county cricket to England team have 'misted over'",
-      "summary": "Surrey's head coach defends Championship as 'best breeding ground' in world game",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528193.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/338200/338237.jpg",
-      "published_at": "2026-03-17T12:43:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బట్టీ: కౌంటీ క్రికెట్ నుండి ఇంగ్లండ్ జట్టుకు రూట్‌లు 'మిస్డ్ ఓవర్'",
-      "summary_te": "సర్రే యొక్క ప్రధాన కోచ్ ఛాంపియన్‌షిప్‌ను ప్రపంచ గేమ్‌లో 'ఉత్తమ సంతానోత్పత్తి ప్రదేశం'గా సమర్థించాడు",
       "translated": true
     }
   ]

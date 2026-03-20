@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-20T03:41:40.870Z",
-  "updated_at_IST": "20/3/2026, 9:11:40 am",
+  "updated_at": "2026-03-20T05:23:44.099Z",
+  "updated_at_IST": "20/3/2026, 10:53:44 am",
   "category": "andhra",
   "count": 23,
   "articles": [
+    {
+      "id": "c6e5d008874c77bc7dc981e6f458ef5c",
+      "title": "Kodandarama rides the lion, sits under pearl-studded canopy",
+      "summary": "The third day of the nine-day annual Brahmotsavam at Sri Kodandarama Swamy temple saw Lord Rama majestically seated on a lion and under a pearl-studded canopy, during the Simha Vahanam and Muthyapu Pandiri Vahanam processions conducted in the morning and evening respectively.The temple was teeming with devotees jostling to take a glance of the Simha Vahanam procession. ‘Snapana Tirumanjanam’ was performed later, in which the idols of Rama, Sita and Lakshmana were given a celestial ablution with milk, curd, honey, coconut water, turmeric and sandalwood.As the pearls in the Muthyapu Pandiri glittered in an off-white shade under the focus lights, the devotees chanted “Govinda Govinda” as the procession passed through the four Mada streets encircling the temple.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kodandarama-rides-the-lion-sits-under-pearl-studded-canopy/article70762438.ece",
+      "image": "https://th-i.thgim.com/public/incoming/459p9s/article70762643.ece/alternates/LANDSCAPE_1200/10745_19_3_2026_20_11_42_1_IMG_20260319_WA0096.JPG",
+      "published_at": "2026-03-19T19:38:02.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "కోదండరాముడు సింహాన్ని ఎక్కాడు, ముత్యాలు పొదిగిన పందిరి క్రింద కూర్చున్నాడు",
+      "summary_te": "శ్రీ కోదండరామ స్వామి ఆలయంలో తొమ్మిది రోజుల వార్షిక బ్రహ్మోత్సవాలలో మూడవ రోజు ఉదయం మరియు సాయంత్రం వరుసగా నిర్వహించిన సింహవాహనం మరియు ముత్యపు పందిరి వాహనం ఊరేగింపులో సింహవాహనంపై మరియు ముత్యాలు పొదిగిన పందిరి క్రింద శ్రీరాముడు గంభీరంగా ఆసీనుడై ఉన్నాడు. అనంతరం ‘స్నపన తిరుమంజనం’ నిర్వహించి, అందులో రామ, సీత, లక్ష్మణ విగ్రహాలకు పాలు, పెరుగు, తేనె, కొబ్బరినీళ్లు, పసుపు, గంధం కలిపి దివ్యక్షేత్రం చేశారు. ఆలయాన్ని చుట్టుముట్టే వీధులు.",
+      "translated": true
+    },
     {
       "id": "5e680353b7b77c840df46b326cf7dfab",
       "title": "Settipalle land plots allotted under e-dip",
@@ -310,20 +324,6 @@
       "language": "en",
       "title_te": "విశాఖపట్నంలో బనానా స్టెమ్ పేపర్ వర్క్ షాప్ జరిగింది",
       "summary_te": "విశాఖపట్నంలో మూడు రోజుల వర్క్‌షాప్ అరటి కాడలను మన్నికైన చేతితో తయారు చేసిన కాగితంగా మార్చడాన్ని అన్వేషిస్తుంది",
-      "translated": true
-    },
-    {
-      "id": "a7c574cb38f306e1039ce16465bc996e",
-      "title": "TTD priests render ‘Vedasirvachanams’ on CM Naidu and Governor",
-      "summary": "A team of TTD priests accompanied by Additional Executive Officer Ch. Venkaiah Chowdary on Thursday (March 19) rendered Vedasirvachanams on Chief Minister N. Chandrababu Naidu on the auspicious occasion of Sri Parabhavanama Telugu Ugadi at his residence in Amaravati.He was also presented with Prasadams of Lord Venkateswara, as part of the ceremonial observance.Later Mr. Chowdary formally invited Mr. Naidu to attend the annual Sri Sita Rama Kalyanam on April 1 at the historic Ontimitta temple of Sri Kodandarama Swamy in Kadapa which is known for hosting the State-sponsored celestial wedding ceremony of Lord Rama and Sita every year.The TTD delegation also called on Governor S. Abdul Nazeer and formally invited him to attend the Ontimitta Kalyanotsavam after the customary asirvachanams.The annual Sri Sita Rama Kalyanam at Ontimitta is a significant religious event in the State calendar, drawing devotees from across the State and beyond.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-priests-render-vedasirvachanams-on-cm-naidu-and-governor/article70761055.ece",
-      "image": "https://th-i.thgim.com/public/incoming/3vqr57/article70761478.ece/alternates/LANDSCAPE_1200/10745_19_3_2026_12_37_42_2_IMG_20260319_WA0025.JPG",
-      "published_at": "2026-03-19T10:47:34.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "సీఎం నాయుడు, గవర్నర్‌పై టీటీడీ అర్చకులు ‘వేదాశీర్వచనం’ చేశారు",
-      "summary_te": "టీటీడీ అర్చకుల బృందం అడిషనల్ ఎగ్జిక్యూటివ్ ఆఫీసర్ సిహెచ్. వెంకయ్య చౌదరి గురువారం (మార్చి 19) అమరావతిలోని తన స్వగృహంలో శ్రీ పరాభవనామ తెలుగు ఉగాది సందర్భంగా ముఖ్యమంత్రి ఎన్. చంద్రబాబు నాయుడుపై వేదాశీర్వచనం చేశారు. వార్షిక ఉత్సవంలో భాగంగా ఆయనకు శ్రీ వేంకటేశ్వరుని ప్రసాదాలను కూడా అందజేశారు. కడపలోని శ్రీ కోదండరామ స్వామి వారి చారిత్రాత్మకమైన ఒంటిమిట్ట ఆలయంలో ప్రతి ఏటా ప్రభుత్వ ఆధ్వర్యంలో శ్రీరాముడు, సీతాదేవిల వివాహ వేడుకలు నిర్వహిస్తారు. TTD ప్రతినిధి బృందం గవర్నర్ S. అబ్దుల్ నజీర్‌ను కూడా కలిసి, ఒంటిమిట్ట కల్యాణోత్సవానికి హాజరుకావలసిందిగా ఆయనను అధికారికంగా ఆహ్వానించింది. క్యాలెండర్, రాష్ట్రం అంతటా మరియు వెలుపల నుండి భక్తులను ఆకర్షిస్తుంది.",
       "translated": true
     }
   ]
