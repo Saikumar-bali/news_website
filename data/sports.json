@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T07:38:10.503Z",
-  "updated_at_IST": "21/3/2026, 1:08:10 pm",
+  "updated_at": "2026-03-21T08:31:15.682Z",
+  "updated_at_IST": "21/3/2026, 2:01:15 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "854c9859830eb86f777e481b86686462",
+      "title": "Sri Lanka players told to clear fitness test to get NOCs for IPL 2026",
+      "summary": "Chameera, Nissanka and Kamindu have passed their tests, while Hasaranga, Pathirana and Malinga are yet to undergo theirs",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528610.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/399300/399362.jpg",
+      "published_at": "2026-03-21T07:47:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 కోసం NOCలు పొందడానికి ఫిట్‌నెస్ పరీక్షను క్లియర్ చేయాలని శ్రీలంక ఆటగాళ్లకు చెప్పారు",
+      "summary_te": "చమీర, నిస్సాంక మరియు కమిందు వారి పరీక్షలలో ఉత్తీర్ణులయ్యారు, హసరంగ, పతిరనా మరియు మలింగ ఇంకా వారి పరీక్షలు చేయించుకోలేదు",
+      "translated": true
+    },
     {
       "id": "e429e37cd1f40aa47dd6b52d7c60bd72",
       "title": "New Zealand seek rare bilateral series win over South Africa",
@@ -308,7 +322,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
+      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోరింగ్ ఆక్లాండ్‌లో సిరీస్‌లో ఆధిక్యం కోసం పోరాడుతున్నాయి",
       "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ECB కౌంటీ సీజన్‌కు ముందు డ్యూక్స్ సరఫరా-గొలుసు భయాలను తగ్గించింది",
       "summary_te": "గల్ఫ్‌లో ఘర్షణలు సరుకు రవాణా ఖర్చులను ప్రభావితం చేస్తున్నందున తయారీదారు \"పెద్ద సంక్షోభం\" గురించి హెచ్చరించాడు",
-      "translated": true
-    },
-    {
-      "id": "53cc7741048cd7e9693d775f18f4238d",
-      "title": "Sean Abbott returns to Surrey for fourth stint",
-      "summary": "The Australian allrounder is available for the first eight County Championship fixtures and the Vitality Blast",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528415.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/359100/359150.jpg",
-      "published_at": "2026-03-19T15:55:21.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సీన్ అబాట్ నాల్గవ పని కోసం సర్రేకి తిరిగి వచ్చాడు",
-      "summary_te": "ఆస్ట్రేలియన్ ఆల్‌రౌండర్ మొదటి ఎనిమిది కౌంటీ ఛాంపియన్‌షిప్ మ్యాచ్‌లు మరియు వైటాలిటీ బ్లాస్ట్ కోసం అందుబాటులో ఉన్నాడు",
       "translated": true
     }
   ]

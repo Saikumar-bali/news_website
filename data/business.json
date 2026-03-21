@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-21T07:38:10.503Z",
-  "updated_at_IST": "21/3/2026, 1:08:10 pm",
+  "updated_at": "2026-03-21T08:31:15.682Z",
+  "updated_at_IST": "21/3/2026, 2:01:15 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "ac4138e91df47ff4fa042575b133171e",
+      "title": "Quote of the Day by Meryl Streep: ‘Disrespect invites disrespect, violence incites violence...’",
+      "summary": "Quote of the Day by Meryl Streep: Meryl Streep once referred to Donald Trump who reportedly mocked a journalist, and urged the world to be kind. ‘When the powerful use their position to bully others, we all lose,’ she also said.",
+      "url": "https://www.livemint.com/news/trends/quote-of-the-day-by-meryl-streep-disrespect-invites-disrespect-violence-incites-violence-11774076442169.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/Gemini_Generated_Image_ttc2ujttc2ujttc2_1774079135415_1774079139495.png",
+      "published_at": "2026-03-21T07:46:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మెరిల్ స్ట్రీప్ ద్వారా కోట్ ఆఫ్ ది డే: 'అగౌరవం అగౌరవాన్ని ఆహ్వానిస్తుంది, హింస హింసను ప్రేరేపిస్తుంది...'",
+      "summary_te": "మెరిల్ స్ట్రీప్ ద్వారా కోట్ ఆఫ్ ది డే: మెరిల్ స్ట్రీప్ ఒకసారి డొనాల్డ్ ట్రంప్‌ను ప్రస్తావించారు, అతను జర్నలిస్టును ఎగతాళి చేసినట్లు నివేదించాడు మరియు ప్రపంచాన్ని దయతో ఉండాలని కోరారు. 'బలవంతులు తమ స్థానాన్ని ఇతరులను బెదిరించడానికి ఉపయోగించినప్పుడు, మనమందరం ఓడిపోతాము' అని కూడా ఆమె చెప్పింది.",
+      "translated": true
+    },
+    {
+      "id": "208dab31e79b6d032524690d120d68ae",
+      "title": "Quote of the Day by Mark Zuckerberg: ‘A simple rule of business is, if you do…’",
+      "summary": "Quote of the Day, 21 March: Today's Quote of the Day by Mark Zuckerberg captures the insight of how to do business and what to focus on while starting a business and making it successful.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-mark-zuckerberg-a-simple-rule-of-business-is-if-you-do-11774069389919.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/SOCIALMEDIA-TRIAL--0_1774078815089_1774078830369.JPG",
+      "published_at": "2026-03-21T07:43:36.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్క్ జుకర్‌బర్గ్ ద్వారా కోట్ ఆఫ్ ది డే: 'వ్యాపారం యొక్క సాధారణ నియమం ఏమిటంటే, మీరు చేస్తే...'",
+      "summary_te": "కోట్ ఆఫ్ ది డే, 21 మార్చి: మార్క్ జుకర్‌బర్గ్ రాసిన నేటి కోట్ ఆఫ్ ది డే వ్యాపారం ఎలా చేయాలి మరియు వ్యాపారాన్ని ప్రారంభించేటప్పుడు మరియు దానిని విజయవంతం చేసేటప్పుడు దేనిపై దృష్టి పెట్టాలి అనే అంతర్దృష్టిని సంగ్రహిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "83129ed93df9efb23a00538682c1507a",
+      "title": "Eid al-Fitr 2026: Sunny Deol, Akshay Kumar, Allu Arjun and other celebrities wish fans Eid Mubarak",
+      "summary": "Happy Eid-ul-fitr 2026 Wishes: Sachin Tendulkar, Akshay Kumar, Allu Arjun and several other stars from Indian cinema and the cricket world took to social media to share their wishes.",
+      "url": "https://www.livemint.com/news/trends/eid-al-fitr-2026-sunny-deol-akshay-kumar-allu-arjun-and-other-celebrities-wish-fans-eid-mubarak-11774067838290.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/3a7df2cf59edc6acfa80536bbd60fc01_1774067829135_1774067835776.jpg",
+      "published_at": "2026-03-21T07:38:25.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈద్ అల్-ఫితర్ 2026: సన్నీ డియోల్, అక్షయ్ కుమార్, అల్లు అర్జున్ మరియు ఇతర ప్రముఖులు అభిమానులకు ఈద్ ముబారక్ శుభాకాంక్షలు తెలిపారు",
+      "summary_te": "హ్యాపీ ఈద్-ఉల్-ఫితర్ 2026 శుభాకాంక్షలు: సచిన్ టెండూల్కర్, అక్షయ్ కుమార్, అల్లు అర్జున్ మరియు భారతీయ సినిమా మరియు క్రికెట్ ప్రపంచంలోని అనేక ఇతర తారలు తమ శుభాకాంక్షలను పంచుకోవడానికి సోషల్ మీడియాకు వెళ్లారు.",
+      "translated": true
+    },
+    {
+      "id": "02dbc6be28556be48d89a226d38f07fa",
+      "title": "Looking around for sectors or themes to favour and avoid? Here is what these 5 experts recommend",
+      "summary": "Amid rising geopolitical tensions and market volatility, investors are reassessing sectoral allocations. Mutual fund experts suggest focusing on domestic cyclicals, financials, and defensives like pharma, while remaining cautious on IT, metals, and oil and gas. They also highlight valuation risks and stress the importance of resilient businesses in uncertain conditions.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/looking-around-for-sectors-or-themes-to-favour-and-avoid-here-is-what-these-5-experts-recommend/slideshow/129714884.cms",
+      "image": null,
+      "published_at": "2026-03-21T07:07:42.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "అనుకూలంగా మరియు నివారించడానికి సెక్టార్‌లు లేదా థీమ్‌ల కోసం చూస్తున్నారా? ఈ 5 నిపుణులు సిఫార్సు చేస్తున్నది ఇక్కడ ఉంది",
+      "summary_te": "పెరుగుతున్న భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు మార్కెట్ అస్థిరత మధ్య, పెట్టుబడిదారులు రంగాల కేటాయింపులను తిరిగి అంచనా వేస్తున్నారు. మ్యూచువల్ ఫండ్ నిపుణులు దేశీయ సైక్లికల్స్, ఫైనాన్షియల్స్ మరియు ఫార్మా వంటి డిఫెన్సివ్‌లపై దృష్టి పెట్టాలని సూచిస్తున్నారు, ఐటి, లోహాలు మరియు చమురు మరియు గ్యాస్‌పై జాగ్రత్తగా ఉండండి. వారు వాల్యుయేషన్ రిస్క్‌లను కూడా హైలైట్ చేస్తారు మరియు అనిశ్చిత పరిస్థితుల్లో స్థితిస్థాపకంగా ఉండే వ్యాపారాల ప్రాముఖ్యతను నొక్కి చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "813897d266830e848df39f41d491af11",
       "title": "At least 11 killed, 59 hurt in South Korea as car parts factory fire death toll rises; three missing—what we know so far",
@@ -47,6 +103,20 @@
       "translated": true
     },
     {
+      "id": "12051d375c8608bad1eeb2e7789cbfa4",
+      "title": "These 5 flexi cap mutual funds offer up to 25% CAGR in 3 years. Do you own any?",
+      "summary": "Several mutual funds have delivered strong returns over the past three years, with some posting CAGRs of up to 25%. The list includes a mix of flexi cap, focused, and passive funds. However, category inconsistencies raise questions, even as investors look at performance-driven fund selection.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/these-5-flexi-cap-mutual-funds-offer-up-to-25-cagr-in-3-years-do-you-own-any/slideshow/129714475.cms",
+      "image": null,
+      "published_at": "2026-03-21T06:25:56.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈ 5 ఫ్లెక్సీ క్యాప్ మ్యూచువల్ ఫండ్‌లు 3 సంవత్సరాలలో 25% CAGR వరకు అందిస్తాయి. మీరు ఏదైనా కలిగి ఉన్నారా?",
+      "summary_te": "అనేక మ్యూచువల్ ఫండ్‌లు గత మూడు సంవత్సరాల్లో బలమైన రాబడిని అందించాయి, కొన్ని CAGRలను 25% వరకు పోస్ట్ చేశాయి. జాబితాలో ఫ్లెక్సీ క్యాప్, ఫోకస్డ్ మరియు పాసివ్ ఫండ్స్ మిక్స్ ఉన్నాయి. అయితే, పెట్టుబడిదారులు పనితీరు-ఆధారిత ఫండ్ ఎంపికను చూస్తున్నప్పటికీ, వర్గం అసమానతలు ప్రశ్నలను లేవనెత్తుతాయి.",
+      "translated": true
+    },
+    {
       "id": "46a493f664eb423f7c38f51f46414e5e",
       "title": "Global markets to remain driven by West Asia conflict, Fed neutral guidance reflects uncertainty: Report",
       "summary": "Global markets face continued impact from the West Asia conflict. Uncertainty is expected to drive risk aversion. The Federal Open Market Committee (FOMC) acknowledged this in its recent meeting. While GDP growth projections were raised, inflation forecasts were revised upwards. Rate cuts are still anticipated, but higher energy prices pose a risk of delay.",
@@ -58,48 +128,6 @@
       "language": "en",
       "title_te": "గ్లోబల్ మార్కెట్లు పశ్చిమాసియా వివాదంతో నడపబడతాయి, ఫెడ్ తటస్థ మార్గదర్శకత్వం అనిశ్చితిని ప్రతిబింబిస్తుంది: నివేదిక",
       "summary_te": "గ్లోబల్ మార్కెట్లు పశ్చిమాసియా వివాదం నుండి నిరంతర ప్రభావాన్ని ఎదుర్కొంటున్నాయి. అనిశ్చితి ప్రమాద విరక్తిని పెంచుతుందని భావిస్తున్నారు. ఫెడరల్ ఓపెన్ మార్కెట్ కమిటీ (FOMC) తన ఇటీవలి సమావేశంలో దీనిని అంగీకరించింది. GDP వృద్ధి అంచనాలు పెంచబడినప్పుడు, ద్రవ్యోల్బణం అంచనాలు పైకి సవరించబడ్డాయి. రేటు తగ్గింపులు ఇంకా ఊహించబడ్డాయి, అయితే అధిక ఇంధన ధరలు ఆలస్యం అయ్యే ప్రమాదం ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "1c7195be246ced54ba62c517f7a70b41",
-      "title": "Don't panic, stay invested: NSE's Harish Ahuja advices retail investors amid global market volatility",
-      "summary": "Amid global market volatility, NSE's Harish K Ahuja advises retail investors against panic selling, urging patience and a long-term perspective. He highlighted that India's market fundamentals remain strong with positive GDP growth and industrial indicators, despite short-term fluctuations. Ahuja emphasized that disciplined, patient investors are likely to be rewarded.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dont-panic-stay-invested-nses-harish-ahuja-advices-retail-investors-amid-global-market-volatility/articleshow/129714256.cms",
-      "image": null,
-      "published_at": "2026-03-21T06:18:03.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "భయపడవద్దు, పెట్టుబడి పెట్టండి: గ్లోబల్ మార్కెట్ అస్థిరత మధ్య రిటైల్ పెట్టుబడిదారులకు NSE యొక్క హరీష్ అహుజా సలహా",
-      "summary_te": "గ్లోబల్ మార్కెట్ అస్థిరత మధ్య, NSE యొక్క హరీష్ కె అహుజా రిటైల్ పెట్టుబడిదారులకు భయాందోళనలకు వ్యతిరేకంగా, సహనం మరియు దీర్ఘకాలిక దృక్పథాన్ని ప్రోత్సహించాలని సూచించారు. స్వల్పకాలిక హెచ్చుతగ్గులు ఉన్నప్పటికీ, సానుకూల GDP వృద్ధి మరియు పారిశ్రామిక సూచికలతో భారతదేశ మార్కెట్ ఫండమెంటల్స్ బలంగా ఉన్నాయని ఆయన హైలైట్ చేశారు. క్రమశిక్షణ, సహనంతో కూడిన పెట్టుబడిదారులకు ప్రతిఫలం లభించే అవకాశం ఉందని అహుజా ఉద్ఘాటించారు.",
-      "translated": true
-    },
-    {
-      "id": "280c60dbc3c4ceed8fb374ee89827e05",
-      "title": "Metals to shine? Hindustan Copper, Tata Steel, other stocks plunge up to 14% in one month; what lies ahead?",
-      "summary": "Metal stocks have plunged recently due to geopolitical tensions and hawkish Fed commentary. However, experts anticipate a near-term surge in metal prices, driven by the Iran-US conflict and rising oil costs. Supply disruptions in the Middle East are particularly impacting steel and aluminum markets, with potential implications for Indian producers.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/metals-to-shine-hindustan-copper-tata-steel-other-stocks-plunge-up-to-14-in-one-month-what-lies-ahead/articleshow/129714250.cms",
-      "image": null,
-      "published_at": "2026-03-21T06:17:25.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "లోహాలు మెరుస్తాయా? హిందుస్థాన్ కాపర్, టాటా స్టీల్, ఇతర స్టాక్‌లు ఒక నెలలో 14% వరకు పడిపోయాయి; ముందు ఏమి ఉంది?",
-      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు హాకిష్ ఫెడ్ వ్యాఖ్యానాల కారణంగా ఇటీవల మెటల్ స్టాక్‌లు పడిపోయాయి. ఏది ఏమైనప్పటికీ, ఇరాన్-యుఎస్ వివాదం మరియు పెరుగుతున్న చమురు ధరల కారణంగా మెటల్ ధరలు దాదాపు-కాలిక పెరుగుదలను నిపుణులు అంచనా వేస్తున్నారు. మధ్యప్రాచ్యంలో సరఫరా అంతరాయాలు ముఖ్యంగా ఉక్కు మరియు అల్యూమినియం మార్కెట్లపై ప్రభావం చూపుతున్నాయి, భారతీయ ఉత్పత్తిదారులకు సంభావ్య చిక్కులు ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "e6262f4472f5fdb0d826b4421f4c95ed",
-      "title": "Dubai realty slows amid geopolitical shocks; India emerges as preferred investment destination, suggest experts",
-      "summary": "Global real estate investment is shifting. Geopolitical tensions are making investors cautious about Dubai. Capital is now flowing towards India's stable markets like Gurugram and Mumbai. Domestic demand is driving growth in India. Investors are prioritizing long-term fundamentals and quality assets. Dubai remains an option for rental income, but India is seen as a wealth creation hub.",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dubai-realty-slows-amid-geopolitical-shocks-india-emerges-as-preferred-investment-destination-suggest-experts/articleshow/129714203.cms",
-      "image": null,
-      "published_at": "2026-03-21T06:13:48.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "భౌగోళిక రాజకీయ షాక్‌ల మధ్య దుబాయ్ రియాల్టీ మందగించింది; భారతదేశం ఇష్టపడే పెట్టుబడి గమ్యస్థానంగా ఉద్భవించిందని నిపుణులు సూచిస్తున్నారు",
-      "summary_te": "గ్లోబల్ రియల్ ఎస్టేట్ పెట్టుబడులు మారుతున్నాయి. భౌగోళిక రాజకీయ ఉద్రిక్తతలు పెట్టుబడిదారులను దుబాయ్ గురించి జాగ్రత్తగా ఉంచుతున్నాయి. గురుగ్రామ్ మరియు ముంబై వంటి భారతదేశ స్థిరమైన మార్కెట్ల వైపు ఇప్పుడు మూలధనం ప్రవహిస్తోంది. దేశీయ డిమాండ్ భారత్‌లో వృద్ధిని పెంచుతోంది. పెట్టుబడిదారులు దీర్ఘకాలిక ఫండమెంటల్స్ మరియు నాణ్యమైన ఆస్తులకు ప్రాధాన్యతనిస్తున్నారు. అద్దె ఆదాయానికి దుబాయ్ ఒక ఎంపికగా మిగిలిపోయింది, కానీ భారతదేశం సంపద సృష్టి కేంద్రంగా పరిగణించబడుతుంది.",
       "translated": true
     },
     {
@@ -117,20 +145,6 @@
       "translated": true
     },
     {
-      "id": "da2b1ce4cef845058b26a9283de7a06b",
-      "title": "Planning child education with mutual funds? Expert suggests right fund mix and key portfolio tweaks",
-      "summary": "A 37-year-old investor seeks guidance on structuring her mutual fund portfolio for her children’s education. Expert Harshvardhan Roongta recommends rebalancing allocations by reducing small-cap exposure and strengthening large- and mid-cap holdings. The advice focuses on disciplined investing, clear fund categorisation, and maintaining a balanced portfolio aligned with long-term financial goals.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/planning-child-education-with-mutual-funds-expert-suggests-right-fund-mix-and-key-portfolio-tweaks/articleshow/129714167.cms",
-      "image": null,
-      "published_at": "2026-03-21T06:10:06.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "మ్యూచువల్ ఫండ్స్‌తో పిల్లల విద్యను ప్లాన్ చేస్తున్నారా? నిపుణుడు సరైన ఫండ్ మిక్స్ మరియు కీ పోర్ట్‌ఫోలియో ట్వీక్‌లను సూచిస్తారు",
-      "summary_te": "37 ఏళ్ల పెట్టుబడిదారుడు తన పిల్లల చదువుల కోసం తన మ్యూచువల్ ఫండ్ పోర్ట్‌ఫోలియోను రూపొందించడంలో మార్గదర్శకత్వం కోరుతున్నారు. నిపుణుడు హర్షవర్ధన్ రూంగ్తా స్మాల్-క్యాప్ ఎక్స్‌పోజర్‌ను తగ్గించడం ద్వారా మరియు లార్జ్ మరియు మిడ్-క్యాప్ హోల్డింగ్‌లను బలోపేతం చేయడం ద్వారా కేటాయింపులను రీబ్యాలెన్స్ చేయాలని సిఫార్సు చేస్తున్నారు. సలహా క్రమశిక్షణతో కూడిన పెట్టుబడి, స్పష్టమైన ఫండ్ వర్గీకరణ మరియు దీర్ఘకాలిక ఆర్థిక లక్ష్యాలకు అనుగుణంగా సమతుల్య పోర్ట్‌ఫోలియోను నిర్వహించడంపై దృష్టి పెడుతుంది.",
-      "translated": true
-    },
-    {
       "id": "1b2c273cd652b032ab786ca394dc1edc",
       "title": "Uttam Nagar residents observe Eid ul-Fitr amid heavy security arrangements following Holi communal clash",
       "summary": "The usual festive buzz for Eid ul-Fitr celebrations in Uttam Nagar is absent this time, ground reports said, pointing out a persistent gloom in locality the aftermath of a communal clash that broke out on Holi, resulting in the death of one and injuries to several.",
@@ -142,6 +156,20 @@
       "language": "en",
       "title_te": "హోలీ మత ఘర్షణ నేపథ్యంలో భారీ భద్రతా ఏర్పాట్ల మధ్య ఉత్తమ్ నగర్ వాసులు ఈద్ ఉల్-ఫితర్‌ను జరుపుకున్నారు",
       "summary_te": "ఉత్తమ్ నగర్‌లో ఈద్ ఉల్-ఫితర్ వేడుకలకు సాధారణ పండుగ సందడి ఈసారి లేదు, హోలీ రోజున చెలరేగిన మత ఘర్షణ ఫలితంగా ఒకరు మరణించారు మరియు అనేకమంది గాయపడ్డారు, ఫలితంగా స్థానికంగా నిరంతర చీకటిని ఎత్తి చూపుతూ గ్రౌండ్ రిపోర్ట్స్ తెలిపాయి.",
+      "translated": true
+    },
+    {
+      "id": "769581524498f142dfea8edd2921aa83",
+      "title": "IDBI, SpiceJet among 10 stocks that saw sharpest fall, down up to 21% this week. Do you own any?",
+      "summary": "Indian markets witnessed a broad-based sell-off amid escalating Middle East tensions and rising crude oil prices. Several stocks, including IDBI Bank and SpiceJet, declined sharply during the week. Geopolitical risks, inflation concerns, and regulatory developments weighed on investor sentiment, dragging multiple sectors lower despite selective resilience in parts of the market.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/idbi-spicejet-among-10-stocks-that-saw-sharpest-fall-down-up-to-21-this-week-do-you-own-any/slideshow/129714131.cms",
+      "image": null,
+      "published_at": "2026-03-21T05:46:49.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఈ వారం 21% వరకు పడిపోయిన 10 స్టాక్‌లలో IDBI, స్పైస్‌జెట్. మీరు ఏదైనా కలిగి ఉన్నారా?",
+      "summary_te": "మిడిల్ ఈస్ట్ ఉద్రిక్తతలు మరియు పెరుగుతున్న ముడి చమురు ధరల మధ్య భారతీయ మార్కెట్లు విస్తృత ఆధారిత విక్రయాలను చూశాయి. ఐడీబీఐ బ్యాంక్, స్పైస్‌జెట్ సహా పలు షేర్లు వారంలో భారీగా క్షీణించాయి. భౌగోళిక రాజకీయ రిస్క్‌లు, ద్రవ్యోల్బణం ఆందోళనలు మరియు నియంత్రణాపరమైన పరిణామాలు పెట్టుబడిదారుల సెంటిమెంట్‌పై ప్రభావం చూపాయి, మార్కెట్‌లోని కొన్ని భాగాలలో ఎంపిక చేసిన స్థితిస్థాపకత ఉన్నప్పటికీ పలు రంగాలను దిగువకు లాగాయి.",
       "translated": true
     },
     {
@@ -184,6 +212,20 @@
       "language": "en",
       "title_te": "భారతదేశం, పాకిస్తాన్, చైనా మరియు ఇప్పుడు జపాన్? హార్ముజ్ జలసంధి గుండా నౌకలు అనుమతించబడిన దేశాల పూర్తి జాబితా",
       "summary_te": "హార్ముజ్ జలసంధిపై ఇరాన్ యొక్క వాస్తవిక దిగ్బంధనం ప్రపంచాన్ని ప్రపంచ చమురు సరఫరా షాక్‌కు పంపింది, ఇది దశాబ్దాలలో చెత్తగా పిలువబడుతోంది, మధ్యప్రాచ్య వివాదం దాదాపు నాల్గవ వారంలోకి ప్రవేశించింది.",
+      "translated": true
+    },
+    {
+      "id": "d7d1acf85fd672bc195a4630b1030458",
+      "title": "Concurrent losers: 14 smallcap stocks decline for 5 consecutive sessions",
+      "summary": "Fourteen stocks from the BSE SmallCap index declined continuously over five trading sessions ending March 20, with losses of up to 23%. Despite the Sensex remaining largely flat, sharp volatility during the period highlights continued pressure in broader markets, particularly in smallcap stocks witnessing sustained selling across consecutive sessions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-losers-14-smallcap-stocks-decline-for-5-consecutive-sessions/slideshow/129713346.cms",
+      "image": null,
+      "published_at": "2026-03-21T04:47:18.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఏకకాలంలో నష్టపోయినవారు: 14 స్మాల్‌క్యాప్ స్టాక్‌లు వరుసగా 5 సెషన్‌లకు క్షీణించాయి",
+      "summary_te": "BSE స్మాల్‌క్యాప్ ఇండెక్స్ నుండి పద్నాలుగు స్టాక్‌లు మార్చి 20తో ముగిసిన ఐదు ట్రేడింగ్ సెషన్‌లలో 23% వరకు నష్టాలతో నిరంతరం క్షీణించాయి. సెన్సెక్స్ చాలావరకు ఫ్లాట్‌గా ఉన్నప్పటికీ, ఈ కాలంలో పదునైన అస్థిరత విస్తృత మార్కెట్లలో, ప్రత్యేకించి స్మాల్‌క్యాప్ స్టాక్‌లలో నిరంతర సెషన్‌లలో స్థిరమైన అమ్మకాలను కొనసాగిస్తున్న ఒత్తిడిని హైలైట్ చేస్తుంది.",
       "translated": true
     },
     {
@@ -286,7 +328,7 @@
     },
     {
       "id": "1270753bc282d80084e03f394ee92c12",
-      "title": "Happy Eid-ul-fitr 2026 Wishes: 225+ Happy Eid Chand Raat Mubarak wishes, quotes, WhatsApp messages",
+      "title": "Happy Eid-ul-fitr 2026 Wishes: 250+ Happy Eid Chand Raat Mubarak wishes, quotes, WhatsApp messages",
       "summary": "Happy Eid-ul-fitr 2026 Wishes: To help spread the festive cheer, here are Eid Mubarak 2026 wishes, messages, and greetings to share with your family, friends, and significant other.",
       "url": "https://www.livemint.com/news/trends/happy-eid-chand-raat-mubarak-wishes-quotes-whatsapp-messages-11774024459605.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/0f98bd86ab8d022fa2f35cd289d9f10f_1774059547536_1774059557593.jpg",
@@ -294,7 +336,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "హ్యాపీ ఈద్-ఉల్-ఫితర్ 2026 శుభాకాంక్షలు: 225+ హ్యాపీ ఈద్ చంద్ రాత్ ముబారక్ శుభాకాంక్షలు, కోట్స్, WhatsApp సందేశాలు",
+      "title_te": "హ్యాపీ ఈద్-ఉల్-ఫితర్ 2026 శుభాకాంక్షలు: 250+ హ్యాపీ ఈద్ చంద్ రాత్ ముబారక్ శుభాకాంక్షలు, కోట్స్, WhatsApp సందేశాలు",
       "summary_te": "హ్యాపీ ఈద్-ఉల్-ఫితర్ 2026 శుభాకాంక్షలు: పండుగ ఉల్లాసాన్ని పంచడంలో సహాయపడటానికి, మీ కుటుంబం, స్నేహితులు మరియు ముఖ్యమైన ఇతరులతో పంచుకోవడానికి ఈద్ ముబారక్ 2026 శుభాకాంక్షలు, సందేశాలు మరియు శుభాకాంక్షలు ఇక్కడ ఉన్నాయి.",
       "translated": true
     },
@@ -411,48 +453,6 @@
       "translated": true
     },
     {
-      "id": "594120b71fe904124cba03719cddcf17",
-      "title": "Rohit Godara–Jitender Gogi gang sharpshooter wanted in Gurugram nightclub grenade attacks, arrested by Delhi Police",
-      "summary": "Karamvir, a sharpshooter linked to the Rohit Godara gang, was arrested in Rajasthan after a lengthy manhunt. He possessed fake identification and is wanted for multiple crimes, including involvement in grenade attacks on Gurugram nightclubs in December 2024. Investigations are ongoing.",
-      "url": "https://www.livemint.com/news/india/rohit-godara-jitender-gogi-gang-sharpshooter-wanted-in-gurugram-nightclub-grenade-attacks-arrested-by-delhi-police-11774026207850.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/pexels-photo-7714896_1774026557503_1774026586322.jpeg",
-      "published_at": "2026-03-20T17:21:12.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "గురుగ్రామ్ నైట్‌క్లబ్‌లో గ్రెనేడ్ దాడులకు పాల్పడిన రోహిత్ గోదారా-జితేందర్ గోగి గ్యాంగ్ షార్ప్ షూటర్‌ను ఢిల్లీ పోలీసులు అరెస్టు చేశారు.",
-      "summary_te": "రోహిత్ గోదారా గ్యాంగ్‌తో సంబంధం ఉన్న షార్ప్ షూటర్ కరమ్‌వీర్‌ను సుదీర్ఘమైన వేట తర్వాత రాజస్థాన్‌లో అరెస్టు చేశారు. అతను నకిలీ గుర్తింపును కలిగి ఉన్నాడు మరియు 2024 డిసెంబర్‌లో గురుగ్రామ్ నైట్‌క్లబ్‌లపై గ్రెనేడ్ దాడులతో సహా పలు నేరాలకు పాల్పడినట్లు కోరుతున్నారు. పరిశోధనలు కొనసాగుతున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "aa82c9e1d67b9e4c3327a0bc8e37dc36",
-      "title": "Raymond Group's Gautam Singhania injured after speedboat accident in Maldives, recovering in Mumbai",
-      "summary": "Raymond Group Chairman & Managing Director Gautam Hari Singhania suffered minor injuries in a speedboat accident in the Maldives",
-      "url": "https://www.livemint.com/news/india/raymond-groups-gautam-singhania-injured-after-speedboat-accident-in-maldives-recovering-in-mumbai-11774024941809.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/2-0-1001681320-gautamsinghania-0_1679907375349_1774025750541.jpg",
-      "published_at": "2026-03-20T17:17:56.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మాల్దీవుల్లో స్పీడ్ బోట్ ప్రమాదంలో గాయపడిన రేమండ్ గ్రూప్‌కు చెందిన గౌతమ్ సింఘానియా, ముంబైలో కోలుకున్నారు",
-      "summary_te": "మాల్దీవుల్లో స్పీడ్ బోట్ ప్రమాదంలో రేమండ్ గ్రూప్ చైర్మన్ & మేనేజింగ్ డైరెక్టర్ గౌతమ్ హరి సింఘానియాకు స్వల్ప గాయాలయ్యాయి.",
-      "translated": true
-    },
-    {
-      "id": "69faac48da7de8bfda87e96626734675",
-      "title": "Quote of the Day by Warren Buffett: ‘Every decade or so, dark clouds will fill economic skies and briefly rain gold’",
-      "summary": "Ace investor Warren Buffett believes that economic distress is cyclical and provides a window of opportunity every decade or so, for prepared investors to capitalise on. Here's what he means…",
-      "url": "https://www.livemint.com/news/us-news/quote-of-day-warren-buffett-every-decade-dark-clouds-economic-skies-rain-gold-financial-crisis-opportunity-prepare-value-11774013788430.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/20/1600x900/logo/FILES-US-ECONOMY-MARKET-BERKSHIRE-BUFFETT-0_1750136544297_1774017073023.jpg",
-      "published_at": "2026-03-20T17:00:18.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "వారెన్ బఫెట్ యొక్క కోట్ ఆఫ్ ది డే: 'ప్రతి దశాబ్దం లేదా అంతకంటే ఎక్కువ కాలం, చీకటి మేఘాలు ఆర్థిక ఆకాశాన్ని నింపుతాయి మరియు క్లుప్తంగా బంగారాన్ని వర్షం చేస్తాయి'",
-      "summary_te": "ఏస్ ఇన్వెస్టర్ వారెన్ బఫ్ఫెట్ ఆర్థిక సంక్షోభం చక్రీయమని మరియు ప్రతి దశాబ్దం లేదా అంతకంటే ఎక్కువ అవకాశాల విండోను అందిస్తుంది, సిద్ధమైన పెట్టుబడిదారులు పెట్టుబడి పెట్టడానికి. ఆయన ఉద్దేశ్యం ఇక్కడ ఉంది…",
-      "translated": true
-    },
-    {
       "id": "45bacd28cc11d478b3ac1e34ed0aa8d6",
       "title": "Oil shock, inflation pressures dampen RBI rate-cut hopes",
       "summary": "Economists believe India's policy interest rate cuts are unlikely to continue due to West Asia crisis-driven inflation risks and the fading of a favorable base effect. Sustained foreign outflows and a weakening rupee could also force the Reserve Bank of India to reconsider further easing, potentially even a hike.",
@@ -533,7 +533,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇరాన్‌పై ప్రధాన US, ఇజ్రాయెల్ దాడిని జీర్ణించుకోవడానికి యూరోపియన్లు పెనుగులాడుతున్నప్పుడు జాగ్రత్తగా ఉన్నారు",
-      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు జరిపిన భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలో తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేయిస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్త వహించాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
+      "summary_te": "ఇరాన్‌పై అమెరికా, ఇజ్రాయెల్‌లు చేస్తున్న భారీ దాడులపై యూరోపియన్ దేశాలు స్పందిస్తున్నాయి. మధ్యప్రాచ్యంలోని తమ పౌరులను రక్షించడానికి నాయకులు కృషి చేస్తున్నారు. జర్మనీ అత్యవసర సమావేశాన్ని నిర్వహిస్తోంది. యూరోపియన్ యూనియన్ కొంతమంది సిబ్బందిని ఖాళీ చేస్తోంది. ఫ్రాన్స్ మరియు ఇటలీ తమ పౌరుల పట్ల జాగ్రత్తగా ఉండాలని కోరుతున్నాయి. పరిస్థితి ప్రమాదకరంగా వర్ణించబడింది మరియు సైనిక తీవ్రతరం జరుగుతోంది.",
       "translated": true
     },
     {
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చి 5న నేపాల్ ఓట్లు; ఉద్యోగాలు, ఆర్థిక వ్యవస్థపై దృష్టి",
-      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న నేపాల్ జాతీయ ఎన్నికలకు కొద్దిరోజుల దూరంలోనే ఉన్నాయి. ప్రచారం ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై కేంద్రీకృతమై, యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
+      "summary_te": "లక్షలాది మంది అర్హులైన ఓటర్లు తమ ఓటు హక్కు వినియోగించుకునేందుకు సిద్ధమవుతున్న తరుణంలో నేపాల్ జాతీయ ఎన్నికలకు కొద్ది రోజుల సమయం మాత్రమే ఉంది. యువతకు అవకాశాలపై ప్రత్యేక ప్రాధాన్యతనిస్తూ, ఉద్యోగాలు మరియు ఆర్థిక వ్యవస్థపై ప్రచారం కేంద్రీకరిస్తుంది. భారత్, చైనా పరిణామాలను నిశితంగా గమనిస్తున్నాయి.",
       "translated": true
     },
     {
@@ -589,7 +589,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
+      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. మాజీ ప్రధాని షేక్ హసీనాను భారత్ నుంచి రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. కొత్త పరిపాలనకు భారత్‌తో సంబంధాలు కీలకం.",
       "translated": true
     },
     {
@@ -603,7 +603,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హీర్మేస్ అమ్మకాల అంచనాలను అధిగమించింది, చైనాలో సానుకూల సంకేతాలను చూస్తుంది",
-      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనా వేసింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేస్తోంది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
+      "summary_te": "హీర్మేస్ నాల్గవ త్రైమాసిక ఆదాయ వృద్ధిని అంచనాలను మించి, పటిష్టంగా నివేదించింది. యునైటెడ్ స్టేట్స్ మరియు జపాన్‌లో బలమైన అమ్మకాలు పనితీరును పెంచాయి. విలాసవంతమైన బ్రాండ్ ప్రత్యర్థుల కంటే మెరుగైన రంగం మందగమనాన్ని ఎదుర్కొంటోంది. హీర్మేస్ 2026లో విశ్వాసం కొనసాగుతుందని అంచనా వేసింది. ధరల పెంపుదల కొంచెం నెమ్మదిగా ఉన్నప్పటికీ ప్రణాళిక చేయబడింది. చైనా నుంచి సానుకూల సంకేతాలు వెలువడుతున్నాయి.",
       "translated": true
     },
     {
@@ -616,7 +616,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "అస్థిర ప్రపంచంలో సహకారం కోసం UN వాతావరణ చీఫ్ సైమన్ స్టీల్ పిలుపునిచ్చారు",
+      "title_te": "ఐక్యరాజ్యసమితి వాతావరణ చీఫ్ సైమన్ స్టీల్ అస్థిర ప్రపంచంలో సహకారం కోసం పిలుపునిచ్చారు",
       "summary_te": "UN వాతావరణ చీఫ్ సైమన్ స్టీల్ ప్రపంచ భద్రత మరియు శ్రేయస్సు కోసం వాతావరణ చర్యను ఒక ముఖ్యమైన సాధనంగా హైలైట్ చేశారు. ప్రపంచ అస్థిరత ఉన్నప్పటికీ, క్లీన్ ఎనర్జీలో పెట్టుబడులు వేగంగా పెరుగుతున్నాయని ఆయన పేర్కొన్నారు. పునరుత్పాదక విద్యుత్ వనరులు ఇప్పుడు అగ్రగామిగా ఉన్నాయి మరియు ప్రపంచ ఉద్గారాలు పడిపోయాయి. స్టీల్ పురోగతిని గుర్తించాడు కానీ వేగవంతమైన మరియు సరసమైన పరివర్తనల అవసరాన్ని నొక్కి చెప్పాడు.",
       "translated": true
     },
@@ -715,7 +715,7 @@
       "category": "business",
       "language": "en",
       "title_te": "విప్రోను తగ్గించండి; లక్ష్యం రూ. 410: ICICI సెక్యూరిటీస్",
-      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి తన పరిశోధన నివేదికలో విప్రో స్టాక్‌పై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
+      "summary_te": "ఐసిఐసిఐ సెక్యూరిటీస్ ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో విప్రో షేరుపై రూ. 410 టార్గెట్ ధరతో కొనుగోలు రేటింగ్‌ను సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -757,7 +757,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఇన్ఫోసిస్‌ను కూడబెట్టు; లక్ష్యం రూ. 1531: KR చోక్సీ",
-      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
+      "summary_te": "KR Choksey ఏప్రిల్ 22, 2024 నాటి తన పరిశోధన నివేదికలో ఇన్ఫోసిస్‌పై రూ. 1531 టార్గెట్ ధరతో రేటింగ్‌ను సేకరించాలని సిఫార్సు చేసింది.",
       "translated": true
     },
     {
@@ -812,7 +812,7 @@
       "source": "Moneycontrol",
       "category": "business",
       "language": "en",
-      "title_te": "సిటీ యూనియన్ బ్యాంక్‌ను కొనుగోలు చేయండి; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
+      "title_te": "సిటీ యూనియన్ బ్యాంక్ కొనుగోలు; లక్ష్యం రూ. 170: ICICI సెక్యూరిటీస్",
       "summary_te": "ఏప్రిల్ 21, 2024 నాటి పరిశోధన నివేదికలో సిటీ యూనియన్ బ్యాంక్ రూ. 170 టార్గెట్ ధరతో స్టాక్‌పై కొనుగోలు రేటింగ్‌ను సిఫార్సు చేయడంపై ICICI సెక్యూరిటీస్ బుల్లిష్‌గా ఉంది.",
       "translated": true
     },
@@ -841,7 +841,7 @@
       "category": "business",
       "language": "en",
       "title_te": "యాపిల్ భారతీయ ఇంజనీర్ పక్షపాత దావాను ఎదుర్కొంటుంది",
-      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన బృందం సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
+      "summary_te": "అనితా నారియాని షుల్జే సింధీ మైనారిటీలో భాగం. సానుకూల పనితీరు మూల్యాంకనాలు మరియు గణనీయమైన జట్టు సహకారం ఉన్నప్పటికీ, ఆమె సీనియర్ మరియు డైరెక్ట్ మేనేజర్‌లు, పురుషులు ఇద్దరూ, తన మగ సహచరులను ఆహ్వానిస్తున్నప్పుడు, ఆమెను సమావేశాల నుండి నిలకడగా మినహాయించారని, ఆమెను విమర్శించారని, ఆమె పనిని మైక్రోమేనేజ్ చేశారని మరియు బోనస్‌లను కోల్పోయారని ఆమె ఫిర్యాదు ఆరోపించింది.",
       "translated": true
     },
     {
