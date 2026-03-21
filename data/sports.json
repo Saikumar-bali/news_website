@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T11:26:43.626Z",
-  "updated_at_IST": "21/3/2026, 4:56:43 pm",
+  "updated_at": "2026-03-21T12:32:23.731Z",
+  "updated_at_IST": "21/3/2026, 6:02:23 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "2c32b9bdacd102acc717ce862efa35bd",
+      "title": "KKR's Akash Deep ruled out of IPL 2026",
+      "summary": "His absence adds to a long list of seam-bowler injuries at KKR",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528614.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/404400/404466.jpg",
+      "published_at": "2026-03-21T11:34:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "KKR యొక్క ఆకాష్ దీప్ IPL 2026 నుండి తప్పుకున్నాడు",
+      "summary_te": "అతని లేకపోవడం KKRలో సీమ్-బౌలర్ గాయాల యొక్క సుదీర్ఘ జాబితాకు జతచేస్తుంది",
+      "translated": true
+    },
     {
       "id": "eb6434151cac6c1d9c3b141c4e86a108",
       "title": "Queensland hold on for WNCL title to deny Healy farewell win",
@@ -155,7 +169,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -183,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
       "translated": true
     },
     {
@@ -336,22 +350,8 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోరింగ్ ఆక్లాండ్‌లో సిరీస్‌లో ఆధిక్యం కోసం పోరాడుతున్నాయి",
+      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
       "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
-      "translated": true
-    },
-    {
-      "id": "41d20494f183fb00370907f003328c92",
-      "title": "ECB advertise for new Men's Selector as hierarchy prepares to face the music",
-      "summary": "New role could feature more accountability in wake of criticisms about communication with county game",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528419.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414775.jpg",
-      "published_at": "2026-03-19T16:47:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "సంగీతాన్ని ఎదుర్కోవడానికి సోపానక్రమం సిద్ధమవుతున్నందున ECB కొత్త పురుషుల సెలెక్టర్ కోసం ప్రకటన చేస్తుంది",
-      "summary_te": "కౌంటీ గేమ్‌తో కమ్యూనికేషన్ గురించి విమర్శల నేపథ్యంలో కొత్త పాత్ర మరింత జవాబుదారీతనం కలిగి ఉంటుంది",
       "translated": true
     }
   ]
