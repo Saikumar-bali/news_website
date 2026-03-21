@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T13:48:14.707Z",
-  "updated_at_IST": "21/3/2026, 7:18:14 pm",
+  "updated_at": "2026-03-21T14:28:34.964Z",
+  "updated_at_IST": "21/3/2026, 7:58:34 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0423127c4ae40d8070067dd03a8732c5",
+      "title": "The who's who of injured and unavailable players for IPL 2026",
+      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
+      "published_at": "2026-03-21T14:01:18.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
+      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
+      "translated": true
+    },
     {
       "id": "c4f2f2f0a84bff7edb6267a1a2099685",
       "title": "Khoza, Ngwenya get top posts in World Cup 2027 local organising committee",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "కింగ్ మరియు మూనీ ఆస్ట్రేలియా పాత్రలో పీడకల నుండి తప్పించుకున్నారు",
       "summary_te": "సందర్శకులు ఐదు అవకాశాలను చిందించినప్పటికీ, ప్రారంభ T20I నుండి సౌకర్యవంతమైన విజేతలుగా నిలిచారు",
-      "translated": true
-    },
-    {
-      "id": "11aa7ae4cd8314c37bd93b0299e15513",
-      "title": "John Mooney named Delhi Capitals' fielding coach for IPL 2026",
-      "summary": "John Mooney becomes the first from Ireland to be part of an IPL franchise's coaching staff",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528394.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/288900/288957.jpg",
-      "published_at": "2026-03-19T16:55:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఐపీఎల్ 2026 కోసం ఢిల్లీ క్యాపిటల్స్ ఫీల్డింగ్ కోచ్‌గా జాన్ మూనీ నియమితులయ్యారు",
-      "summary_te": "జాన్ మూనీ ఐర్లాండ్ నుండి IPL ఫ్రాంచైజీ కోచింగ్ స్టాఫ్‌లో భాగమైన మొదటి వ్యక్తి అయ్యాడు",
       "translated": true
     }
   ]

@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-21T13:48:14.707Z",
-  "updated_at_IST": "21/3/2026, 7:18:14 pm",
+  "updated_at": "2026-03-21T14:28:34.964Z",
+  "updated_at_IST": "21/3/2026, 7:58:34 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "cc6eeeceb23cea74753646d3aea42fd0",
+      "title": "Union govt increases commercial LPG allocation to 50% amid supply recovery",
+      "summary": "This enhanced quota will prioritize essential sectors, including restaurants, hotels, food processing units, industrial canteens, and community kitchens",
+      "url": "https://www.livemint.com/news/india/union-govt-increases-commercial-lpg-allocation-to-50-amid-supply-recovery-11774099731352.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/20260321-DNO-SGH-MN-LPGgasCylinder-005-0_1774099815538_1774099841997.jpg",
+      "published_at": "2026-03-21T13:59:51.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సరఫరా పునరుద్ధరణ మధ్య కేంద్ర ప్రభుత్వం వాణిజ్య LPG కేటాయింపును 50%కి పెంచింది",
+      "summary_te": "ఈ మెరుగైన కోటా రెస్టారెంట్లు, హోటళ్లు, ఫుడ్ ప్రాసెసింగ్ యూనిట్లు, పారిశ్రామిక క్యాంటీన్‌లు మరియు కమ్యూనిటీ కిచెన్‌లతో సహా అవసరమైన రంగాలకు ప్రాధాన్యతనిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "97c49ec371f6d738f41841bd80cd1532",
+      "title": "Centre expands MSME credit scheme, adds service sector firms",
+      "summary": "Revisions to MCGS–MSME lower entry barriers, increase guarantee coverage, and make upfront contribution partially refundable",
+      "url": "https://www.livemint.com/news/centre-expands-msme-credit-scheme-adds-service-sector-firms-11774099326726.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/India-has-a-scheme-to-support-cluster-based-develo_1686591222740_1774100292837.jpg",
+      "published_at": "2026-03-21T13:46:55.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కేంద్రం MSME క్రెడిట్ పథకాన్ని విస్తరించింది, సేవా రంగ సంస్థలను జోడిస్తుంది",
+      "summary_te": "MCGS-MSMEకి సవరణలు తక్కువ ప్రవేశ అడ్డంకులు, గ్యారెంటీ కవరేజీని పెంచుతాయి మరియు ముందస్తు సహకారం పాక్షికంగా తిరిగి చెల్లించబడేలా చేస్తాయి",
+      "translated": true
+    },
     {
       "id": "d448899078de33a93885ec81c5e14b6c",
       "title": "Duggar couple arrested: What are the new charges against Joseph Duggar and Kendra Duggar?",
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "కారు విడిభాగాల కర్మాగారంలో అగ్నిప్రమాదం కారణంగా దక్షిణ కొరియాలో కనీసం 11 మంది మరణించారు, 59 మంది గాయపడ్డారు. మూడు తప్పిపోయాయి-ఇప్పటి వరకు మనకు తెలిసినవి",
       "summary_te": "డేజియోన్‌లోని కారు విడిభాగాల ఫ్యాక్టరీలో మొత్తం 170 మంది కార్మికులు ఉండగా శుక్రవారం స్థానిక కాలమానం ప్రకారం మధ్యాహ్నం 1.17 గంటలకు మంటలు చెలరేగాయి. అగ్నిమాపక సిబ్బంది సంఘటనా స్థలానికి చేరుకున్నప్పటికీ, నిర్మాణ సమగ్రతపై ఆందోళనలు మరియు కుప్పకూలడం వల్ల వారు మొదట భవనంలోకి ప్రవేశించలేకపోయారు.",
-      "translated": true
-    },
-    {
-      "id": "e263194d844cdfc3d7304f266b29fe8d",
-      "title": "Quote of the day: American diplomat Henry Kissinger's word of wisdom on foreign policy — ‘A country that demands…’",
-      "summary": "Henry Kissinger, influential diplomat and advisor, founded Kissinger Associates post-government.&nbsp;",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-american-diplomat-henry-kissingers-word-of-wisdom-on-foreign-policy-a-country-that-demands-11774073583569.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/Kissinger-100th-Birthday-0_1689663104263_1774074204713.jpg",
-      "published_at": "2026-03-21T06:43:45.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈ రోజు కోట్: విదేశాంగ విధానంపై అమెరికన్ దౌత్యవేత్త హెన్రీ కిస్సింజర్ యొక్క విజ్ఞత పదం — ‘ఏ కంట్రీ డిమాండ్…’",
-      "summary_te": "హెన్రీ కిస్సింజర్, ప్రభావవంతమైన దౌత్యవేత్త మరియు సలహాదారు, కిస్సింజర్ అసోసియేట్స్ పోస్ట్-గవర్నమెంట్‌ను స్థాపించారు. ",
-      "translated": true
-    },
-    {
-      "id": "9ed240a973c569aa4911970bdf35967a",
-      "title": "Kendra, Joseph Duggar arrested over molesting minor: How much is the net worth of '19 Kids and Counting' alum, wife?",
-      "summary": "Joseph Duggar was charged in connection with a child sexual abuse case involving a then-9-year-old girl who was on vacation with her family in Panama City Beach in 2020.",
-      "url": "https://www.livemint.com/news/us-news/kendra-duggar-joseph-duggar-net-worth-19-kids-and-counting-tlc-reality-tv-star-arrested-molestation-charges-11774069860572.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/Screenshot_2026-03-21_104458_1774070106047_1774070124171.png",
-      "published_at": "2026-03-21T06:13:09.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మైనర్‌ను వేధించినందుకు కేంద్ర, జోసెఫ్ దుగ్గర్ అరెస్ట్: '19 కిడ్స్ అండ్ కౌంటింగ్' ఆలుమ్, భార్య నికర విలువ ఎంత?",
-      "summary_te": "2020లో పనామా సిటీ బీచ్‌లో తన కుటుంబంతో కలిసి విహారయాత్రకు వెళ్లిన అప్పటి 9 ఏళ్ల బాలికకు సంబంధించిన పిల్లల లైంగిక వేధింపుల కేసుకు సంబంధించి జోసెఫ్ దుగ్గర్‌పై అభియోగాలు మోపారు.",
       "translated": true
     },
     {

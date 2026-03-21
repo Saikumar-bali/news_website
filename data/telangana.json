@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-21T13:48:14.707Z",
-  "updated_at_IST": "21/3/2026, 7:18:14 pm",
+  "updated_at": "2026-03-21T14:28:34.964Z",
+  "updated_at_IST": "21/3/2026, 7:58:34 pm",
   "category": "telangana",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "6bc5967888cfea9d0a16680d0fd91c50",
+      "title": "DG Prisons inspects Siddipet jail ahead of inauguration",
+      "summary": "Director General of Prisons Soumya Mishra visited the newly-constructed district jail in Siddipet on Saturday and reviewed the arrangements ahead of its inauguration by Chief Minister A. Revanth Reddy at 4 p.m. on Sunday.The DG inspected the venue for plaque installation and issued instructions to prison officials to ensure smooth conduct of the inauguration. She held discussions with Siddipet Commissioner of Police Sadhana Rashmi Perumal on coordination measures for security and other arrangements.The new Siddipet District Jail will have room for 415 inmates, aimed at reducing over-crowding in nearby prisons. The facility will also include high-security ‘Swastik Cells’ designed for housing high-risk prisoners.Meanwhile, she inspected the jail premises, along with officials including N. Muralibabu, IG Prisons, D. Srinivas, DIG Prisons, G. Ratnam, Deputy Superintendent of Prisons, and engineers from the Police Housing Corporation. The team reviewed the quality of construction and progress of works.",
+      "url": "https://www.thehindu.com/news/national/telangana/dg-prisons-inspects-siddipet-jail-ahead-of-inauguration/article70769136.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/acx1jy/article70769134.ece/alternates/LANDSCAPE_1200/Siddipet%20dist%20jail.jpeg",
+      "published_at": "2026-03-21T13:33:08.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "ప్రారంభోత్సవానికి ముందు సిద్దిపేట జైలును తనిఖీ చేసిన జైళ్ల డీజీ",
+      "summary_te": "సిద్దిపేటలో నూతనంగా నిర్మించిన జిల్లా కారాగారాన్ని ముఖ్యమంత్రి ఎ. రేవంత్‌రెడ్డి సాయంత్రం 4 గంటలకు ప్రారంభించనున్న నేపథ్యంలో జైళ్ల శాఖ డైరెక్టర్ జనరల్ సౌమ్యమిశ్రా శనివారం జైలును సందర్శించి ఏర్పాట్లను సమీక్షించారు. ఆదివారం నాడు. శిలాఫలకం ఏర్పాటు కోసం డిజి వేదికను పరిశీలించారు మరియు ప్రారంభోత్సవం సజావుగా జరిగేలా జైలు అధికారులకు ఆదేశాలు జారీ చేశారు. భద్రత మరియు ఇతర ఏర్పాట్ల కోసం సమన్వయ చర్యలపై ఆమె సిద్దిపేట పోలీసు కమిషనర్ సాధనా రష్మీ పెరుమాళ్‌తో చర్చించారు. కొత్త సిద్దిపేట జిల్లా జైలులో 415 మంది ఖైదీలకు గది ఉంటుంది, ఇది సమీప జైళ్లలో రద్దీని తగ్గించే లక్ష్యంతో ఉంది. ఈ సదుపాయంలో హై-రిస్క్ ఖైదీల నివాసం కోసం రూపొందించిన హై-సెక్యూరిటీ 'స్వస్తిక్ సెల్స్' కూడా ఉంటాయి. అదే సమయంలో, ఎన్. మురళీబాబు, ఐజి ప్రిజన్స్, డి. శ్రీనివాస్, డిఐజి ప్రిజన్స్, జి. రత్నం, జైళ్ల డిప్యూటీ సూపరింటెండెంట్ జి. రత్నం మరియు పోలీస్ హౌసింగ్ కార్పొరేషన్ ఇంజనీర్లతో కలిసి ఆమె జైలు ప్రాంగణాన్ని పరిశీలించారు. నిర్మాణ నాణ్యత, పనుల పురోగతిని బృందం సమీక్షించింది.",
+      "translated": true
+    },
+    {
+      "id": "fd2af6a1330dbff7c388545a674365db",
+      "title": "Medico’s death over pet cat dispute exposes deeper student mental health crisis in Hyderabad",
+      "summary": "Students make up over a quarter of daily distress calls, signalling growing stress, emotional dependency and coping gaps, say operators of helplines",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/medicos-death-over-pet-cat-dispute-exposes-deeper-student-mental-health-crisis-in-hyderabad/article70769183.ece",
+      "image": "https://th-i.thgim.com/public/incoming/w36ojp/article70769175.ece/alternates/LANDSCAPE_1200/Retd.-ISRO-emplGFNFJUSRE.1.jpg.jpg",
+      "published_at": "2026-03-21T13:33:01.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "పెంపుడు పిల్లి వివాదంలో మెడికో మరణం హైదరాబాద్‌లో లోతైన విద్యార్థి మానసిక ఆరోగ్య సంక్షోభాన్ని బహిర్గతం చేసింది",
+      "summary_te": "విద్యార్ధులు రోజువారీ డిస్ట్రెస్ కాల్స్‌లో నాలుగింట ఒక వంతు మంది ఉన్నారు, పెరుగుతున్న ఒత్తిడి, భావోద్వేగ పరాధీనత మరియు అంతరాలను ఎదుర్కొంటారు అని హెల్ప్‌లైన్ ఆపరేటర్లు చెప్పారు",
+      "translated": true
+    },
+    {
+      "id": "dd993d8026d84a79ad4f3f70edb6110f",
+      "title": "BRS should come clean on KCR’s health: Congress",
+      "summary": "Mettu Sai Kumar, Chairman of the Telangana State Fisheries Corporation, said the BRS should come clean on the absence of BRS chief and Leader of the Opposition K. Chandrashekhar Rao in the Assembly. At a press conference here, he said there were rumours of Mr. Rao’s health conditions and Telangana people have a right to know about his condition as he is not only a Leader of the Opposition but was also a former Chief Minister. He urged the BRS leadership to ensure his participation in the Assembly proceedings",
+      "url": "https://www.thehindu.com/news/national/telangana/brs-should-come-clean-on-kcrs-health-congress/article70769188.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/og9up1/article70769186.ece/alternates/LANDSCAPE_1200/Congress%20.jpeg",
+      "published_at": "2026-03-21T13:23:05.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "కేసీఆర్ ఆరోగ్యంపై బీఆర్ఎస్ క్లీన్‌గా రావాలి: కాంగ్రెస్",
+      "summary_te": "బీఆర్‌ఎస్ అధినేత, ప్రతిపక్ష నేత కె.చంద్రశేఖర్‌రావు అసెంబ్లీకి గైర్హాజరు కావడంపై తెలంగాణ రాష్ట్ర మత్స్యకార కార్పొరేషన్ చైర్మన్ మెట్టు సాయికుమార్ అన్నారు. ఇక్కడ జరిగిన విలేకరుల సమావేశంలో ఆయన మాట్లాడుతూ శ్రీ రావు ఆరోగ్య పరిస్థితిపై పుకార్లు వచ్చాయని, ఆయన ప్రతిపక్ష నేతగానే కాకుండా మాజీ ముఖ్యమంత్రి కూడా అయినందున ఆయన పరిస్థితి గురించి తెలుసుకునే హక్కు తెలంగాణ ప్రజలకు ఉందన్నారు. తాను అసెంబ్లీ కార్యక్రమాల్లో పాల్గొనేలా చూడాలని బీఆర్‌ఎస్ నాయకత్వాన్ని కోరారు",
+      "translated": true
+    },
     {
       "id": "b5b6b0b6ed0a421085d675af005319cd",
       "title": "Cracker-laden lorry gutted in fire after contact with high-tension wire",
@@ -273,15 +315,15 @@
     {
       "id": "d40ef832e71825ca0f9e9fab4391ac76",
       "title": "Two arrested for attempt to murder after car rams bike in Shamshabad",
-      "summary": "",
+      "summary": "The Shamshabad police arrested a woman and her associate on charges of attempt to murder after they rammed a car into a motorcycle, leaving two men injured on the outskirts of the city.According to the police, the incident stems from a marital dispute dating back several months. The complainant was married to a 29-year-old private school teacher from Mahabubnagar district in 2020 and was living separately following differences. The woman was residing in a hostel in Nagole and working as a teacher.",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/two-arrested-for-attempt-to-murder-after-car-rams-bike-in-shamshabad/article70766499.ece",
-      "image": null,
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
       "published_at": "2026-03-20T15:14:13.000Z",
       "source": "The Hindu Telangana",
       "category": "telangana",
       "language": "en",
       "title_te": "శంషాబాద్‌లో బైక్‌ను కారు ఢీకొట్టి హత్యాయత్నానికి పాల్పడిన ఇద్దరి అరెస్ట్",
-      "summary_te": "",
+      "summary_te": "శంషాబాద్ పోలీసులు మోటారు సైకిల్‌పై కారును ఢీకొట్టిన తర్వాత హత్యాయత్నానికి పాల్పడ్డారనే ఆరోపణలపై ఒక మహిళ మరియు ఆమె సహచరుడిని అరెస్టు చేశారు, ఇద్దరు వ్యక్తులు గాయపడ్డారు. పోలీసులు తెలిపిన వివరాల ప్రకారం, ఈ సంఘటన చాలా నెలల క్రితం నాటి వైవాహిక వివాదం నుండి వచ్చింది. ఫిర్యాదుదారు 2020లో మహబూబ్‌నగర్ జిల్లాకు చెందిన 29 ఏళ్ల ప్రైవేట్ స్కూల్ టీచర్‌ని వివాహం చేసుకున్నాడు మరియు విభేదాల కారణంగా విడివిడిగా నివసిస్తున్నాడు. ఆ మహిళ నాగోల్‌లోని ఓ హాస్టల్‌లో ఉంటూ టీచర్‌గా పనిచేస్తోంది.",
       "translated": true
     },
     {
@@ -296,20 +338,6 @@
       "language": "en",
       "title_te": "UK పాఠశాల సమూహాలు తెలంగాణ ప్రభుత్వంతో నిమగ్నమై ఉన్నాయి. విద్యా కార్యక్రమాలపై",
       "summary_te": "శుక్రవారం ఇక్కడ UK హైకమిషన్ ఆధ్వర్యంలో ప్రముఖ UK పాఠశాల సమూహాలు మరియు రాష్ట్ర ప్రభుత్వ సీనియర్ అధికారుల మధ్య ఉన్నత స్థాయి పరస్పర చర్చ జరిగింది. ఈ సమావేశంలో ముఖ్య ప్రభుత్వ అధికారులు మరియు ప్రముఖ UK పాఠశాల యాజమాన్యాల ప్రతినిధులు పాల్గొన్నారు, ఇందులో CEOలు మరియు వాణిజ్య భాగస్వామ్య అధిపతులు ఉన్నారు. CBSE, ICSE, IB మరియు కేంబ్రిడ్జ్ అనుబంధాల కోసం నో-అబ్జెక్షన్ సర్టిఫికేట్‌లను పొందడం. అదనపు డైరెక్టర్ కె. లింగయ్య సమర్థవంతమైన మరియు పారదర్శక అనుమతుల కోసం రాష్ట్ర ఆన్‌లైన్ పోర్టల్‌ను ప్రదర్శించగా, జిహెచ్‌ఎంసి కమిషనర్ (సైబరాబాద్) జి. సృజన పాఠశాలలకు భవన భద్రతా ప్రమాణాలు మరియు ఏకీకృత సమ్మతి విధానాలను హైలైట్ చేశారు. సమావేశంలో, ఫ్యూచర్ సిటీ డెవలప్‌మెంట్ అథారిటీ కమిషనర్ కె. శశాంక భారత్ ఫ్యూచర్ సిటీ, యూనివర్శిటీలు, యూనివర్శిటీలు మరియు యూనివర్శిటీల దృష్టిని నొక్కి చెప్పారు. UK సంస్థలు తమ క్యాంపస్‌లను స్థాపించడానికి. ‘విజన్ 2047’ ప్రకారం పారదర్శకమైన, పెట్టుబడిదారులకు అనుకూలమైన పర్యావరణ వ్యవస్థ మరియు ప్రపంచ స్థాయి విద్యాపరమైన మౌలిక సదుపాయాలకు తెలంగాణ కట్టుబడి ఉందని శ్రీ శశాంక అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "5a95ddd147d007ffc90d250fab133718",
-      "title": "Telangana puts hospitals under fire safety radar amid nationwide blaze concerns",
-      "summary": "Fire audits begin with 140 hospitals on day one; checks to continue for 10–12 days covering between 1,400 and 1,600 government and private hospital buildings",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-puts-hospitals-under-fire-safety-radar-amid-nationwide-blaze-concerns/article70765881.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1jyl/article70765832.ece/alternates/LANDSCAPE_1200/DSC3438.jpg",
-      "published_at": "2026-03-20T15:04:31.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "దేశవ్యాప్తంగా మంటలు చెలరేగుతున్న ఆందోళనల మధ్య తెలంగాణా ఆసుపత్రులను ఫైర్ సేఫ్టీ రాడార్ కింద ఉంచింది",
-      "summary_te": "మొదటి రోజు 140 ఆసుపత్రులతో అగ్నిమాపక తనిఖీలు ప్రారంభమవుతాయి; 1,400 మరియు 1,600 ప్రభుత్వ మరియు ప్రైవేట్ ఆసుపత్రి భవనాల్లో 10-12 రోజుల పాటు తనిఖీలు కొనసాగుతాయి",
       "translated": true
     }
   ]
