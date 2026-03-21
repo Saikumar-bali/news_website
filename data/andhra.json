@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-21T06:42:04.791Z",
-  "updated_at_IST": "21/3/2026, 12:12:04 pm",
+  "updated_at": "2026-03-21T07:38:10.503Z",
+  "updated_at_IST": "21/3/2026, 1:08:10 pm",
   "category": "andhra",
-  "count": 23,
+  "count": 24,
   "articles": [
+    {
+      "id": "29efb64f4b27c22568c90bef4b19d197",
+      "title": "Odisha-bound bus catches fire near Ramabhadrapuram, all passengers safe",
+      "summary": "The bus was travelling from Bhubaneswar to Malkangiri in Odisha",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/fire-accident-in-odisha-bound-bus-near-rambabhadrapuram-of-ap-all-passengers-safe/article70768256.ece",
+      "image": null,
+      "published_at": "2026-03-21T03:52:30.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "రామభద్రపురం దగ్గర ఒడిశా వెళ్తున్న బస్సులో మంటలు, ప్రయాణికులందరూ క్షేమంగా ఉన్నారు",
+      "summary_te": "బస్సు భువనేశ్వర్ నుంచి ఒడిశాలోని మల్కన్‌గిరికి వెళ్తోంది",
+      "translated": true
+    },
+    {
+      "id": "edad8f8484962bab6e7901a496193b9b",
+      "title": "​Chandrababu opts for general queue at Tirumala",
+      "summary": "The Chief Minister is visiting the shrine on the occasion of his grandson Devaansh’s birthday",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chandrababu-opts-for-general-queue-at-tirumala/article70766945.ece",
+      "image": "https://th-i.thgim.com/public/news/national/r1aj7m/article70768295.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-21%20at%209.00.55%20AM.jpeg",
+      "published_at": "2026-03-21T03:42:28.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "చంద్రబాబు తిరుమల వద్ద సాధారణ క్యూను ఎంచుకున్నారు",
+      "summary_te": "ముఖ్యమంత్రి తన మనవడు దేవాన్ష్ పుట్టినరోజు సందర్భంగా పుణ్యక్షేత్రాన్ని సందర్శిస్తున్నారు",
+      "translated": true
+    },
     {
       "id": "2bc8de7bbda1ede2e6795014aa460947",
       "title": "Job calendar a big let down for unemployed youth in A.P., says DYFI",
@@ -310,20 +338,6 @@
       "language": "en",
       "title_te": "ప్రభుత్వ రాష్ట్రంలో 1,803 శ్మశాన వాటికలను అప్‌గ్రేడ్ చేయడానికి డ్రైవ్‌ను ప్రారంభించింది",
       "summary_te": "తక్షణ చర్యగా, 15 రోజుల్లోగా ఈ సైట్‌లలో కనీస సేవా ప్రమాణాలు ఉండేలా చూడాలని అన్ని పట్టణ స్థానిక సంస్థలను ఆదేశించింది.",
-      "translated": true
-    },
-    {
-      "id": "298e8b188115038c74855f5f09ed1ab6",
-      "title": "Livestock units exempted from paying key charges in ULBs and UDAs in Andhra Pradesh",
-      "summary": "The move is expected to facilitate establishment of livestock units in peri-urban and urban areas, boosting productivity and incomes",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/livestock-units-exempted-from-paying-key-charges-in-ulbs-and-udas-in-andhra-pradesh/article70765341.ece",
-      "image": null,
-      "published_at": "2026-03-20T12:51:43.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఆంధ్రప్రదేశ్‌లోని యుఎల్‌బిలు మరియు యుడిఎలలో కీలకమైన ఛార్జీలు చెల్లించకుండా పశువుల యూనిట్లకు మినహాయింపు ఇవ్వబడింది",
-      "summary_te": "ఈ చర్య పెరి-అర్బన్ మరియు అర్బన్ ప్రాంతాలలో పశువుల యూనిట్ల స్థాపనను సులభతరం చేస్తుంది, ఉత్పాదకత మరియు ఆదాయాలను పెంచుతుంది",
       "translated": true
     }
   ]
