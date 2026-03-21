@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T17:30:02.673Z",
-  "updated_at_IST": "21/3/2026, 11:00:02 pm",
+  "updated_at": "2026-03-21T18:31:58.181Z",
+  "updated_at_IST": "22/3/2026, 12:01:58 am",
   "category": "andhra",
-  "count": 24,
+  "count": 21,
   "articles": [
+    {
+      "id": "5fa8f4448a8b4d1d6918acaf2e338aa5",
+      "title": "Devotional fervour marks Ramzan celebrations",
+      "summary": "Ramzan, culminating in Eid-ul-Fitr, was marked by celebrations of devotion and community spirit in various towns in Chittoor, Annamayya, and Sri Sathya Sai districts on Saturday.In Chittoor district, a large congregation was seen at Greamspet, where devout Muslims gathered at the mosque early in the morning. Dressed in traditional attire, they offered prayers and greeted one another after ‘namaz’. Later, families spent time together, sharing food and visiting relatives. Police maintained bandobast at various mosques in Chittoor, Palamaner, and Nagari town, and managed traffic to avoid congestion.Meanwhile, in Annamayya district, celebrations were held on a grand scale at Madanapalle, Piler, Punganur, and Rayachoti towns. Thousands attended the morning prayers, marking the end of the fasting period. Many people were seen distributing food and offering charity as part of the occasion. Police kept vigil using drones and CCTV cameras.The Ramzan festivities were witnessed across Sri Sathya Sai district, especially in Hindupur, Dharmavaram, and Kadiri divisions. Large crowds gathered for prayers, after which people visited friends and relatives. Traffic movement was regulated at key points to avoid congestions.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/devotional-fervour-marks-ramadan-celebrations/article70769387.ece",
+      "image": "https://th-i.thgim.com/public/incoming/9x4msf/article70770160.ece/alternates/LANDSCAPE_1200/10215_21_3_2026_21_54_47_1_IMG_20260321_WA0123.JPG",
+      "published_at": "2026-03-21T16:39:12.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "భక్తి శ్రద్ధలతో రంజాన్ వేడుకలు జరుగుతున్నాయి",
+      "summary_te": "చిత్తూరు, అన్నమయ్య, శ్రీ సత్యసాయి జిల్లాల్లోని వివిధ పట్టణాల్లో శనివారం రంజాన్, ఈద్-ఉల్-ఫితర్‌తో ముగియడంతో భక్తి మరియు సమాజ స్ఫూర్తితో వేడుకలు జరిగాయి. చిత్తూరు జిల్లా గ్రీమ్స్‌పేట్‌లో పెద్ద సంఖ్యలో ముస్లింలు మసీదు వద్ద గుమిగూడారు. సంప్రదాయ దుస్తులు ధరించి నమాజ్‌ అనంతరం ఒకరికొకరు శుభాకాంక్షలు తెలుపుకున్నారు. తరువాత, కుటుంబాలు కలిసి సమయం గడిపారు, ఆహారం పంచుకున్నారు మరియు బంధువులను సందర్శించారు. చిత్తూరు, పలమనేరు, నగరి పట్టణంలోని వివిధ మసీదుల వద్ద పోలీసులు బందోబస్త్ నిర్వహించి ట్రాఫిక్ రద్దీని నివారించారు. మరోవైపు అన్నమయ్య జిల్లాలో మదనపల్లె, పీలేరు, పుంగనూరు, రాయచోటి పట్టణాల్లో వేడుకలు ఘనంగా నిర్వహించారు. ఉపవాసం ముగింపు సందర్భంగా ఉదయం జరిగిన ప్రార్థనలకు వేలాది మంది హాజరయ్యారు. ఈ సందర్భంగా పలువురు వ్యక్తులు అన్నదానం చేస్తూ, అన్నదానం చేస్తూ కనిపించారు. పోలీసులు డ్రోన్లు, సీసీ కెమెరాలతో నిఘా ఉంచారు.శ్రీ సత్యసాయి జిల్లా వ్యాప్తంగా ముఖ్యంగా హిందూపురం, ధర్మవరం, కదిరి డివిజన్లలో రంజాన్ ఉత్సవాలు ఘనంగా జరిగాయి. ప్రార్థనల కోసం పెద్ద సంఖ్యలో గుమిగూడారు, ఆ తర్వాత ప్రజలు స్నేహితులు మరియు బంధువులను సందర్శించారు. రద్దీని నివారించేందుకు కీలక పాయింట్ల వద్ద ట్రాఫిక్‌ను క్రమబద్ధీకరించారు.",
+      "translated": true
+    },
     {
       "id": "0b90231567ea58fad0d553ec6d1ef533",
       "title": "Barashaheed Dargah will be developed at cost of ₹9.8 crore, says A.P. Minister",
@@ -282,62 +296,6 @@
       "language": "en",
       "title_te": "అడవుల సంరక్షణ ఒక ఐచ్ఛికం కాదని, సమిష్టి బాధ్యత అని ఆంధ్రప్రదేశ్ డిప్యూటీ సీఎం పవన్ కల్యాణ్ అన్నారు",
       "summary_te": "అంతర్జాతీయ అటవీ దినోత్సవం సందర్భంగా, ఆంధ్రప్రదేశ్ పచ్చదనాన్ని 50%కి పెంచడానికి కట్టుబడి ఉందని మరియు పచ్చదనం, ఆరోగ్యకరమైన మరియు మరింత స్థిరమైన భవిష్యత్తు కోసం నిర్ణయాత్మక అడుగులు వేస్తున్నట్లు చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "e35b7546481f63c735c93a41b8805dfc",
-      "title": "Industrialist joins BJP in Visakhapatnam",
-      "summary": "Prominent industrialist from Anakapalle, Mutyala Venkateswara Rao, joined the BJP in the presence of State party president P. V. N. Madhav in Visakhapatnam on Saturday.Mr. Madhav welcomed Mr. Venkateswara Rao, popularly known as MVR, into the party at a function held at the party office. Mr. Venkateswara Rao joined along with nearly 100 followers, including elected representatives of local bodies from Anakapalle.Speaking on the occasion, Mr. Venkateswara Rao said he was drawn to the BJP by its ideology and the leadership of Prime Minister Narendra Modi.Mr. Madhav urged party leaders to strengthen the organisation at the grassroots level in the district and to take Central government schemes to the people.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/industrialist-joins-bjp-in-visakhapatnam/article70769194.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-21T12:42:54.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "విశాఖపట్నంలో బీజేపీలో చేరిన పారిశ్రామికవేత్త",
-      "summary_te": "అనకాపల్లికి చెందిన ప్రముఖ పారిశ్రామికవేత్త ముత్యాల వెంకటేశ్వరరావు శనివారం విశాఖపట్నంలో పార్టీ రాష్ట్ర అధ్యక్షుడు పీవీఎన్ మాధవ్ సమక్షంలో బీజేపీలో చేరారు. పార్టీ కార్యాలయంలో జరిగిన కార్యక్రమంలో ఎంవీఆర్‌గా పేరుగాంచిన శ్రీ వెంకటేశ్వరరావును మాధవ్ పార్టీలోకి ఆహ్వానించారు. అనకాపల్లి స్థానిక సంస్థల ప్రజాప్రతినిధులతో సహా దాదాపు 100 మంది అనుచరులతో శ్రీ వెంకటేశ్వరరావు చేరారు. ఈ సందర్భంగా శ్రీ వెంకటేశ్వరరావు మాట్లాడుతూ, బిజెపి సిద్ధాంతాలు మరియు ప్రధానమంత్రి నరేంద్ర మోడీ నాయకత్వంతో తాను బిజెపి వైపు ఆకర్షితుడయ్యానని అన్నారు. జిల్లాలో పార్టీని అట్టడుగు స్థాయిలో బలోపేతం చేయాలని, కేంద్ర ప్రభుత్వ పథకాలను ప్రజల్లోకి తీసుకెళ్లాలని మాధవ్ పార్టీ నాయకులను కోరారు.",
-      "translated": true
-    },
-    {
-      "id": "a8fd038499fbb3b29b1548c5db53981e",
-      "title": "Chief Minister Chandrababu Naidu calls for transforming TTD temples into advanced spiritual hubs",
-      "summary": "The Chief Minister emphasised the importance of proactive governance in ensuring a seamless and hassle-free pilgrimage. He directed the officials to further strengthen systems capable of anticipating potential inconveniences to devotees and addressing them in real time",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-calls-for-transforming-ttd-temples-into-advanced-spiritual-hubs/article70768864.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5cszp3/article70768970.ece/alternates/LANDSCAPE_1200/IMG-20260321-WA0018.jpg",
-      "published_at": "2026-03-21T11:13:29.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "టీటీడీ ఆలయాలను అధునాతన ఆధ్యాత్మిక కేంద్రాలుగా మార్చాలని ముఖ్యమంత్రి చంద్రబాబు నాయుడు పిలుపునిచ్చారు",
-      "summary_te": "ఎటువంటి అవాంతరాలు లేని తీర్థయాత్రను నిర్వహించడంలో చురుకైన పాలన యొక్క ప్రాముఖ్యతను ముఖ్యమంత్రి నొక్కి చెప్పారు. భక్తులకు ఎదురయ్యే అసౌకర్యాలను ముందుగానే పసిగట్టి వాటిని రియల్ టైమ్‌లో పరిష్కరించేందుకు వీలుగా వ్యవస్థలను మరింత పటిష్టం చేయాలని అధికారులను ఆదేశించారు.",
-      "translated": true
-    },
-    {
-      "id": "d575c5b946134e03418bb6808e398cf8",
-      "title": "Weekend Special train to run as regular train from April 2",
-      "summary": "The train No. 02683/02684 Santragachhi-Yelahanka-Santragachhi weekend special express, which has been running since the past one year, will now be operated as a regular weekend express train from April 2 this year, Nandyal MP Byreddy Shabari said.The train with new number 18063 will start at Santragachhi in West Bengal every Thursday and reach Nandyal at 3.25 p.m. the next day passing through Duvvada and Vijayawada and leave to Yelahanka. In the return direction, Train No. 18064 will start at Yelahanka every Saturday morning at 4.50 a.m. and reach Nandyal at 1 p.m. passing through Dhone and Anantapur. It will reach Santragacchi at 5 p.m. on Sunday via Vijayawada and Duvvada.The train will be entirely an A/C train. As it is now a regular express train, the fares will be 30% lower than that of a special train, Ms. Shabari said. The MP said people of Nandyal can now utilize this train service for their travel needs to Kolkata and Bengaluru.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/weekend-special-train-to-run-as-regular-train-from-april-2/article70768594.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-21T09:52:40.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "వారాంతపు ప్రత్యేక రైలు ఏప్రిల్ 2 నుండి సాధారణ రైలుగా నడుస్తుంది",
-      "summary_te": "02683/02684 సంత్రాగచ్చి-యలహంక-సంత్రగచ్చి వారాంతపు ప్రత్యేక ఎక్స్‌ప్రెస్‌ను గత ఏడాది కాలంగా నడుపుతున్న ఈ రైలును ఈ ఏడాది ఏప్రిల్ 2 నుంచి సాధారణ వారాంతపు ఎక్స్‌ప్రెస్ రైలుగా నడపనున్నట్లు నంద్యాల ఎంపీ బైరెడ్డి శబరి తెలిపారు. కొత్త నంబర్ 18063తో రైలు ప్రతి గురువారం 3వ తేదీ పశ్చిమ బెంగాల్‌లో పశ్చిమ బెంగాల్‌కు చేరుకుంటుంది. మరుసటి రోజు దువ్వాడ, విజయవాడ మీదుగా యలహంకకు బయలుదేరుతుంది. తిరుగు ప్రయాణంలో, రైలు నంబర్ 18064 ప్రతి శనివారం ఉదయం 4.50 గంటలకు యలహంకలో బయలుదేరి మధ్యాహ్నం 1 గంటలకు నంద్యాలకు చేరుకుంటుంది. ధోన్ మరియు అనంతపురం మీదుగా వెళుతుంది. సాయంత్రం 5 గంటలకు సంత్రాగచ్చి చేరుకుంటుంది. ఆదివారం విజయవాడ మరియు దువ్వాడ మీదుగా ఈ రైలు పూర్తిగా A/C రైలుగా ఉంటుంది. ఇది ఇప్పుడు సాధారణ ఎక్స్‌ప్రెస్ రైలు కాబట్టి, ప్రత్యేక రైలు కంటే 30% తక్కువ ఛార్జీలు ఉంటాయని శ్రీమతి శబరి తెలిపారు. నంద్యాల ప్రజలు కోల్‌కతా మరియు బెంగళూరు ప్రయాణ అవసరాల కోసం ఇప్పుడు ఈ రైలు సేవలను ఉపయోగించుకోవచ్చని ఎంపీ చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "82e5a2e6dd7394dd029284c5437d0f87",
-      "title": "Two more bodies retrieved from Godavari River",
-      "summary": "The Kukunoor police on Saturday (March 21, 2026) retrieved the bodies of two other youth, who drowned in the Godavari River in Eluru district.The Eluru District Response Force (EDRF) and the SDRF retrieved the bodies of G. Tejagna and P. Satish Kumar, from the waters. They were natives of Madanapalli and Vuyyuru respectively, said Eluru district Superintendent of Police K. Pratap Shiv Kishore.Seven students went for a bath in Godavari on Friday (March 20), of them five drowned and the NDRF and the State Disaster Response Force (SDRF) retrieved three bodies after a few hours on Friday (March 20) itself, but two were missing and they were traced on Saturday (March 21) said Polavaram Deputy Superintendent of Police (DSP) M. Venkateswara Rao, who monitored the operation.“Two youth, C.H. Deepak of Kalidindi and G. Harshavardhan of Vizianagaram, who escaped the mishap, had alerted the locals and the police”, Mr. Venkateswara Rao told The Hindu on Saturday (March 21).The Kukunoor police registered a case and the bodies were sent to Bhadrachalam Government Hospital for postmortem, the DSP said.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/two-more-bodies-retrieved-from-godavari-river/article70768663.ece",
-      "image": "https://th-i.thgim.com/public/incoming/yxwznu/article70768718.ece/alternates/LANDSCAPE_1200/Three-students-G4EFO93N9.3.jpg.jpg",
-      "published_at": "2026-03-21T08:32:50.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "గోదావరి నదిలో మరో ఇద్దరి మృతదేహాలు లభ్యమయ్యాయి",
-      "summary_te": "ఏలూరు జిల్లాలో గోదావరి నదిలో గల్లంతైన మరో ఇద్దరు యువకుల మృతదేహాలను కుకునూర్ పోలీసులు శనివారం (మార్చి 21, 2026) వెలికి తీశారు. ఏలూరు జిల్లా రెస్పాన్స్ ఫోర్స్ (EDRF) మరియు SDRF జలాల నుండి జి. తేజగ్న మరియు పి. సతీష్ కుమార్ మృతదేహాలను వెలికితీశారు. వారు వరుసగా మదనపల్లి మరియు వుయ్యూరుకు చెందిన వారని ఏలూరు జిల్లా పోలీసు సూపరింటెండెంట్ కె. ప్రతాప్ శివ్ కిషోర్ తెలిపారు. ఏడుగురు విద్యార్థులు శుక్రవారం (మార్చి 20) గోదావరిలో స్నానానికి వెళ్లారు, వారిలో ఐదుగురు మునిగిపోయారు, NDRF మరియు స్టేట్ డిజాస్టర్ రెస్పాన్స్ ఫోర్స్ (SDRF) మూడు మృతదేహాలను వెలికి తీశారు. శనివారం (మార్చి 21) పోలవరం డిప్యూటి సూపరింటెండెంట్ ఆఫ్ పోలీస్ (డిఎస్పీ) ఎం. వెంకటేశ్వరరావు ఆపరేషన్‌ను పర్యవేక్షించారు. \"ఇద్దరు యువకులు, కలిదిండి సి.హెచ్. దీపక్, విజయనగరానికి చెందిన జి. హర్షవర్ధన్, ప్రమాదం నుండి తప్పించుకున్నారని, స్థానికులు మరియు పోలీసులకు సమాచారం అందించారు\" అని శ్రీ వెంకటేశ్వరరావు శనివారం కేసు నమోదు చేశారు. భద్రాచలం ప్రభుత్వాసుపత్రిలో పోస్టుమార్టం నిర్వహించనున్నట్లు డీఎస్పీ తెలిపారు.",
       "translated": true
     }
   ]

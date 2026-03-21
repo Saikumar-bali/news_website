@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T17:30:02.673Z",
-  "updated_at_IST": "21/3/2026, 11:00:02 pm",
+  "updated_at": "2026-03-21T18:31:58.181Z",
+  "updated_at_IST": "22/3/2026, 12:01:58 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a22616c22835c40cbca7358b350f14e2",
+      "title": "Reeza Hendricks replaces Johnson Charles at Karachi Kings for PSL 2026",
+      "summary": "Hendricks joins an experienced overseas contingent at Kings that includes Warner, Zampa, Moeen and Waseem",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528629.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/392900/392961.jpg",
+      "published_at": "2026-03-21T17:44:04.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL 2026 కోసం కరాచీ కింగ్స్‌లో జాన్సన్ చార్లెస్ స్థానంలో రీజా హెండ్రిక్స్ చేరింది",
+      "summary_te": "హెండ్రిక్స్ కింగ్స్‌లో వార్నర్, జంపా, మోయిన్ మరియు వసీమ్‌లతో కూడిన అనుభవజ్ఞుడైన విదేశీ బృందంలో చేరాడు",
+      "translated": true
+    },
     {
       "id": "0423127c4ae40d8070067dd03a8732c5",
       "title": "The who's who of injured and unavailable players for IPL 2026",
@@ -197,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -225,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
       "translated": true
     },
     {
@@ -254,20 +268,6 @@
       "language": "en",
       "title_te": "ఫెర్గూసన్ IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతాడు, న్యూజిలాండ్ కోసం ఆడటం కొనసాగించడానికి కట్టుబడి ఉన్నాడు",
       "summary_te": "ఫాస్ట్ బౌలర్ IPL యొక్క చివరి దశల కోసం పంజాబ్ కింగ్స్‌తో జతకట్టాలని యోచిస్తున్నాడు",
-      "translated": true
-    },
-    {
-      "id": "99a14d52046f9c8cfff8a23ef419aaa3",
-      "title": "Stirling steps down as T20I captain; Ireland confirm T20I series against India",
-      "summary": "Stirling will, however, continue to lead Ireland's ODI side as they target qualification for next year's World Cup",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528404.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413315.jpg",
-      "published_at": "2026-03-20T09:27:48.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "T20I కెప్టెన్‌గా స్టిర్లింగ్ వైదొలిగాడు; భారత్‌తో టీ20 సిరీస్‌ను ఐర్లాండ్ ధృవీకరించింది",
-      "summary_te": "అయితే స్టిర్లింగ్ వచ్చే ఏడాది ప్రపంచకప్‌కు అర్హత సాధించే లక్ష్యంతో ఐర్లాండ్ ODI జట్టుకు నాయకత్వం వహిస్తాడు.",
       "translated": true
     },
     {

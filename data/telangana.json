@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-21T17:30:02.673Z",
-  "updated_at_IST": "21/3/2026, 11:00:02 pm",
+  "updated_at": "2026-03-21T18:31:58.181Z",
+  "updated_at_IST": "22/3/2026, 12:01:58 am",
   "category": "telangana",
   "count": 34,
   "articles": [
+    {
+      "id": "2f31b5b725bff8bdff70a9ff4870c411",
+      "title": "A key terrorist of Lashkar-e-Taiba was brutally murdered",
+      "summary": "Lashkar-e-Taiba key terrorist brutally killed johnpaul Sat, 03/21/2026 - 23:26",
+      "url": "https://www.sakshi.com/telugu-news/international/most-wanted-lashkar-e-taiba-terrorist-mohammad-bilal-arif-salafi-stabbed",
+      "image": null,
+      "published_at": "2026-03-21T17:56:08.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "లష్కర్-ఎ-తయిబా కీలక ఉగ్రవాది దారుణ హత్య",
+      "summary_te": "లష్కర్-ఎ-తయిబా కీలక ఉగ్రవాది దారుణ హత్య johnpaul Sat, 03/21/2026 - 23:26",
+      "translated": true
+    },
+    {
+      "id": "ca0adfe0d8e50dbed5db2b55337115f1",
+      "title": "Judge of Indian origin found guilty in money laundering case",
+      "summary": "Indian origin judge johnpaul convicted in money laundering case Sat, 03/21/2026 - 22:56",
+      "url": "https://www.sakshi.com/telugu-news/international/indian-origin-county-judge-us-convicted-money-laundering-sentencing-june",
+      "image": null,
+      "published_at": "2026-03-21T17:26:24.000Z",
+      "source": "Sakshi",
+      "category": "telangana",
+      "language": "te",
+      "title_te": "మనీలాండరింగ్‌ కేసులో దోషిగా తేలిన భారత సంతతి జడ్జి",
+      "summary_te": "మనీలాండరింగ్‌ కేసులో దోషిగా తేలిన భారత సంతతి జడ్జి johnpaul Sat, 03/21/2026 - 22:56",
+      "translated": true
+    },
     {
       "id": "13486cf7504eceec2d5d9b467e60e257",
       "title": "Ugadi is a grand festival in Tokyo",
@@ -16,6 +44,20 @@
       "language": "te",
       "title_te": "టోక్యోలో ఘనంగా ఉగాది పండుగ",
       "summary_te": "టోక్యోలో ఘనంగా ఉగాది పండుగ naresh Sat, 03/21/2026 - 21:54",
+      "translated": true
+    },
+    {
+      "id": "8baf252863353c3b34271bb5e5927c89",
+      "title": "Two arrested for burglary in Miyapur; cash, bike seized",
+      "summary": "Two habitual offenders were arrested by the Miyapur police for breaking into a wine shop and stealing cash earlier this month.The accused were identified as 34-year-old Maddala Srinivasa Rao, a driver with ride hailing platform, and 22-year-old Akash Kumar, a mason. Police said Srinivasa Rao is a repeat offender and has been involved in previous cases registered at Suraram and Petbasheerabad police stations.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-arrested-for-burglary-in-miyapur-cash-bike-seized/article70766540.ece",
+      "image": "https://th-i.thgim.com/public/incoming/d5jjmv/article70766539.ece/alternates/LANDSCAPE_1200/wine%20shop%20theft%20.jpeg",
+      "published_at": "2026-03-21T16:23:10.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "మియాపూర్‌లో చోరీలకు పాల్పడిన ఇద్దరి అరెస్ట్; నగదు, బైక్ స్వాధీనం",
+      "summary_te": "ఈ నెల ప్రారంభంలో వైన్ షాప్‌లో చొరబడి నగదు దొంగిలించినందుకు ఇద్దరు సాధారణ నేరస్థులను మియాపూర్ పోలీసులు అరెస్టు చేశారు. నిందితులను 34 ఏళ్ల మద్దాల శ్రీనివాసరావు, రైడ్ హెయిలింగ్ ప్లాట్‌ఫారమ్‌తో డ్రైవర్ మరియు 22 ఏళ్ల ఆకాష్ కుమార్, తాపీ మేస్త్రీగా గుర్తించారు. శ్రీనివాసరావు పదే పదే నేరస్తుడని, గతంలో సూరారం, పేట్బషీరాబాద్ పోలీస్ స్టేషన్లలో నమోదైన కేసుల్లో ప్రమేయం ఉందని పోలీసులు తెలిపారు.",
       "translated": true
     },
     {
@@ -271,34 +313,6 @@
       "translated": true
     },
     {
-      "id": "c75a4c9d10e798f5de2dce1be9cc50a0",
-      "title": "'Big' postponement rumours.. what is happening?",
-      "summary": "'Big' postponement rumours.. what is happening? dchandu Sat, 03/21/2026 - 20:11",
-      "url": "https://www.sakshi.com/telugu-news/movies/peddi-movie-postponed-rumours-whats-real-talk-2739379",
-      "image": null,
-      "published_at": "2026-03-21T14:41:56.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "'పెద్ది' వాయిదా రూమర్స్.. ఏం జరుగుతోంది?",
-      "summary_te": "'పెద్ది' వాయిదా రూమర్స్.. ఏం జరుగుతోంది? dchandu Sat, 03/21/2026 - 20:11",
-      "translated": true
-    },
-    {
-      "id": "70629c5713198c7520ef1ff347f1ba11",
-      "title": "Cheap Semaglutide.. The launch of famous companies!",
-      "summary": "Cheap Semaglutide.. The launch of famous companies! sirikumar Sat, 03/21/2026 - 20:10",
-      "url": "https://www.sakshi.com/telugu-news/business/affordable-semaglutide-hits-market-pharma-giants-launch-generics-2739378",
-      "image": null,
-      "published_at": "2026-03-21T14:40:29.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "చౌకగా సెమాగ్లూటైడ్.. దిగ్గజ కంపెనీల లాంచ్!",
-      "summary_te": "చౌకగా సెమాగ్లూటైడ్.. దిగ్గజ కంపెనీల లాంచ్! sirikumar Sat, 03/21/2026 - 20:10",
-      "translated": true
-    },
-    {
       "id": "73277aaadcc4be991fba8bcd611ae9ec",
       "title": "Man arrested with cannabis oil worth ₹4.5 lakh by Madhapur police",
       "summary": "A 28-year-old man was arrested by Madhapur police after being found in possession of cannabis oil valued at about ₹4.5 lakh during a patrol in the Ayyappa Society area.The accused, 28-year-old car mechanic Parusamula Dinesh, from Kaithalapur in Allapur and a native of Kurnool in Andhra Pradesh, was apprehended at about 12.35 p.m. on March 19, at Ayyappa Society Road following specific information received earlier in the day.According to the police, a search of his bag led to the seizure of 184 small plastic boxes containing cannabis oil, an extract derived from cannabis. The total quantity seized was about 920 grams. His motorcycle was also confiscated. A case has been registered under the Narcotic Drugs and Psychotropic Substances Act. The accused was produced before a court and remanded to judicial custody for 14 days. Further investigation is under way.",
@@ -464,20 +478,6 @@
       "language": "en",
       "title_te": "కరీంనగర్ జిల్లాలో భార్య చనిపోయిన నాలుగు రోజులకే ఎస్‌ఐ జీవితాన్ని ముగించాడు",
       "summary_te": "విషాదకరమైన సంఘటనలో, కరీంనగర్ జిల్లా ఎల్లంతకుంట మండలం సీతంపేట గ్రామంలో శనివారం కరీంనగర్ టూటౌన్ సబ్ ఇన్‌స్పెక్టర్ ఆఫ్ పోలీస్ చంద్రశేఖర్ (36) తన భార్య దివ్య ఆత్మహత్యాయత్నానికి పాల్పడి నాలుగు రోజులకు ఆత్మహత్య చేసుకున్నాడు. రెండ్రోజుల తేడాతో దంపతులు మృతి చెందడంతో 9, 6 ఏళ్ల వయసున్న ఇద్దరు కుమారులు అనాథలయ్యారు.దివ్య(32) మంగళవారం అర్థరాత్రి హైదరాబాద్‌లోని ఓ ఆస్పత్రిలో చికిత్స పొందుతూ మృతి చెందింది. కడుపునొప్పి భరించలేనంతగా ఆమె ఈ చర్య తీసుకున్నట్లు పోలీసులు తెలిపారు. దివ్య మరణానంతర ఆచారానికి హాజరయ్యేందుకు చంద్రశేఖర్ శనివారం ఉదయం సీతంపేటకు వచ్చినట్లు సమాచారం. కొద్దిసేపటికే ఉరివేసుకుని మృతి చెందినట్లు సమాచారం. మృతదేహాన్ని జమ్మికుంట ప్రభుత్వాసుపత్రిలోని మార్చురీకి తరలించారు. జమ్మికుంట పోలీస్ స్టేషన్‌లో కేసు నమోదైంది. తదుపరి విచారణ కొనసాగుతోంది. సీతంపేటలో దివ్య అంత్యక్రియల సందర్భంగా కొందరు ఆగ్రహానికి గురైన బంధువులు చంద్రశేఖర్‌ను ఒక గదిలో బంధించారని ఆరోపిస్తూ ఆమె మరణం వెనుక ‘అసలు నాటకం’ ఉందని ఆరోపిస్తూ, ఆమె తండ్రి మరియు ఇతర కుటుంబ సభ్యులు ఆ ఆరోపణలను ఖండించారు. 66202000/2001)",
-      "translated": true
-    },
-    {
-      "id": "fb9470fbb718c38914c66f9c82bacb35",
-      "title": "Illegal samosa making unit busted in Hyderabad’s Jiyaguda; stale eggs, used cooking oil seized",
-      "summary": "The unit was being run without mandatory clearances, including an FSSAI licence, trade licence, or fire safety certification",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/illegal-samosa-making-unit-busted-in-hyderabads-jiyaguda-stale-eggs-used-cooking-oil-seized/article70768563.ece",
-      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/mouad5/article70768602.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-21%20at%2011.17.56%20AM.jpeg",
-      "published_at": "2026-03-21T07:32:47.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "హైదరాబాద్‌లోని జియాగూడలో అక్రమ సమోసా తయారీ యూనిట్‌ను ఛేదించారు; పాత గుడ్లు, ఉపయోగించిన వంట నూనెను స్వాధీనం చేసుకున్నారు",
-      "summary_te": "FSSAI లైసెన్స్, ట్రేడ్ లైసెన్స్ లేదా ఫైర్ సేఫ్టీ సర్టిఫికేషన్‌తో సహా తప్పనిసరి అనుమతులు లేకుండా యూనిట్ నడుస్తోంది.",
       "translated": true
     }
   ]
