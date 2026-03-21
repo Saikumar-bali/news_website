@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T12:32:23.731Z",
-  "updated_at_IST": "21/3/2026, 6:02:23 pm",
+  "updated_at": "2026-03-21T13:48:14.707Z",
+  "updated_at_IST": "21/3/2026, 7:18:14 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c4f2f2f0a84bff7edb6267a1a2099685",
+      "title": "Khoza, Ngwenya get top posts in World Cup 2027 local organising committee",
+      "summary": "Khoza has held multiple posts in CSA while Ngwenya is currently the president of Cycling South Africa",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528619.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414815.jpg",
+      "published_at": "2026-03-21T13:13:31.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ప్రపంచ కప్ 2027 లోకల్ ఆర్గనైజింగ్ కమిటీలో ఖోజా, ంగ్వేన్యా ఉన్నత పదవులు పొందారు",
+      "summary_te": "Ngwenya ప్రస్తుతం సైక్లింగ్ దక్షిణాఫ్రికా అధ్యక్షుడిగా ఉండగా ఖోజా CSAలో పలు పదవులను నిర్వహించారు",
+      "translated": true
+    },
     {
       "id": "2c32b9bdacd102acc717ce862efa35bd",
       "title": "KKR's Akash Deep ruled out of IPL 2026",
@@ -169,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -197,7 +211,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఐపీఎల్ 2026 కోసం ఢిల్లీ క్యాపిటల్స్ ఫీల్డింగ్ కోచ్‌గా జాన్ మూనీ నియమితులయ్యారు",
       "summary_te": "జాన్ మూనీ ఐర్లాండ్ నుండి IPL ఫ్రాంచైజీ కోచింగ్ స్టాఫ్‌లో భాగమైన మొదటి వ్యక్తి అయ్యాడు",
-      "translated": true
-    },
-    {
-      "id": "72207bd4004b91850e3b8ed6a4c624d8",
-      "title": "New Zealand and South Africa jostle for series lead in high-scoring Auckland",
-      "summary": "NZ do not have a great record at Eden Park but will hope the experience of playing here helps them overcome the SA challenge",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528405.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414755.jpg",
-      "published_at": "2026-03-19T16:49:45.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
-      "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
       "translated": true
     }
   ]
