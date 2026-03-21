@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T05:53:17.037Z",
-  "updated_at_IST": "21/3/2026, 11:23:17 am",
+  "updated_at": "2026-03-21T06:42:04.791Z",
+  "updated_at_IST": "21/3/2026, 12:12:04 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "f810abaf10c95e7bc81ba0f455713758",
+      "title": "Rwanda's Utagushimaninde becomes youngest centurion in women's T20Is",
+      "summary": "At 15 years and 223, Utagushimaninde also became the first woman to score a hundred on T20I debut",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528515.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414813.jpg",
+      "published_at": "2026-03-21T05:39:42.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రువాండాకు చెందిన ఉటాగుషిమానిండే మహిళల టీ20ల్లో అత్యంత పిన్న వయస్కుడైన సెంచరీ",
+      "summary_te": "15 సంవత్సరాల మరియు 223 సంవత్సరాల వయస్సులో, ఉటాగుషిమానిండే T20I అరంగేట్రంలో సెంచరీ చేసిన మొదటి మహిళగా కూడా నిలిచింది.",
+      "translated": true
+    },
     {
       "id": "2e039af098f43a0b208e4672c28ef478",
       "title": "King's T20I return highlights Australia's selection crunch",
@@ -72,20 +86,6 @@
       "language": "en",
       "title_te": "'యూరో నేషన్స్ కప్' కోసం ఐర్లాండ్ ఐ 2027 ప్రారంభం",
       "summary_te": "ఈ టోర్నమెంట్ ఆసియా కప్‌ను రేకెత్తిస్తుంది, ఇందులో కొన్ని యూరోపియన్ జట్లు పాల్గొంటాయి",
-      "translated": true
-    },
-    {
-      "id": "f810abaf10c95e7bc81ba0f455713758",
-      "title": "Rwanda's Utagushimaninde becomes youngest centurion in women's T20Is",
-      "summary": "At 15 years and 223, Utagushimaninde also became the first woman to score a hundred on T20I debut",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528515.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414805.jpg",
-      "published_at": "2026-03-20T14:06:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రువాండాకు చెందిన ఉటాగుషిమానిండే మహిళల టీ20ల్లో అత్యంత పిన్న వయస్కుడైన సెంచరీ",
-      "summary_te": "15 సంవత్సరాల మరియు 223 సంవత్సరాల వయస్సులో, ఉటాగుషిమానిండే T20I అరంగేట్రంలో సెంచరీ చేసిన మొదటి మహిళగా కూడా నిలిచింది.",
       "translated": true
     },
     {
@@ -294,7 +294,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోరింగ్ ఆక్లాండ్‌లో సిరీస్‌లో ఆధిక్యం కోసం పోరాడుతున్నాయి",
+      "title_te": "న్యూజిలాండ్ మరియు దక్షిణాఫ్రికా అత్యధిక స్కోర్ చేసిన ఆక్లాండ్‌లో సిరీస్ ఆధిక్యం కోసం పోరాడుతున్నాయి",
       "summary_te": "ఈడెన్ పార్క్‌లో NZకి గొప్ప రికార్డు లేదు కానీ ఇక్కడ ఆడిన అనుభవం SA సవాలును అధిగమించడంలో వారికి సహాయపడుతుందని ఆశిస్తున్నాను",
       "translated": true
     },
@@ -350,7 +350,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "అనుమానిత గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
+      "title_te": "అనుమానాస్పద గాయంతో సామ్ కుర్రాన్ IPL 2026కి దూరమయ్యాడు",
       "summary_te": "కుర్రాన్ గత నవంబర్‌లో ట్రేడ్ ద్వారా CSK నుండి RRకి మారారు",
       "translated": true
     }
