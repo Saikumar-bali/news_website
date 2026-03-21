@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T21:26:17.599Z",
-  "updated_at_IST": "22/3/2026, 2:56:17 am",
+  "updated_at": "2026-03-21T22:25:02.961Z",
+  "updated_at_IST": "22/3/2026, 3:55:02 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "231845951e24b285621bee49b26af724",
+      "title": "Donald Trump says he's 'glad' after death of former special counsel Robert Mueller",
+      "summary": "Donald Trump said he was “glad” after the death of Robert Mueller, who led the Russia probe. Mueller died aged 81 after Parkinson’s, as tributes came from others.",
+      "url": "https://www.livemint.com/news/us-news/us-president-donald-trump-says-hes-glad-after-death-of-former-special-counsel-robert-mueller-11774125569269.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/donald_trump_reacted_to_robert_mueller__1774127396481_1774127396657.jpg",
+      "published_at": "2026-03-21T21:18:26.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మాజీ ప్రత్యేక న్యాయవాది రాబర్ట్ ముల్లర్ మరణం తర్వాత తాను 'సంతోషిస్తున్నాను' అని డొనాల్డ్ ట్రంప్ అన్నారు",
+      "summary_te": "రష్యా విచారణకు నాయకత్వం వహించిన రాబర్ట్ ముల్లర్ మరణం తర్వాత తాను \"సంతోషించాను\" అని డొనాల్డ్ ట్రంప్ అన్నారు. ఇతరుల నుండి నివాళులు అర్పించినందున, పార్కిన్సన్ తర్వాత ముల్లర్ 81 సంవత్సరాల వయస్సులో మరణించాడు.",
+      "translated": true
+    },
     {
       "id": "bec6fdbe5ae3b094faf81f7d989d9ecb",
       "title": "OpenAI CEO Sam Altman wins dismissal against sister's ‘abuse’ claims: From 2025 lawsuit to 2026 ruling - how it unfolded",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సరఫరా పునరుద్ధరణ మధ్య కేంద్ర ప్రభుత్వం వాణిజ్య LPG కేటాయింపును 50%కి పెంచింది",
       "summary_te": "ఈ మెరుగైన కోటా రెస్టారెంట్లు, హోటళ్లు, ఫుడ్ ప్రాసెసింగ్ యూనిట్లు, పారిశ్రామిక క్యాంటీన్‌లు మరియు కమ్యూనిటీ కిచెన్‌లతో సహా అవసరమైన రంగాలకు ప్రాధాన్యతనిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "97c49ec371f6d738f41841bd80cd1532",
-      "title": "Centre expands MSME credit scheme, adds service sector firms",
-      "summary": "Revisions to MCGS–MSME lower entry barriers, increase guarantee coverage, and make upfront contribution partially refundable",
-      "url": "https://www.livemint.com/news/centre-expands-msme-credit-scheme-adds-service-sector-firms-11774099326726.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/India-has-a-scheme-to-support-cluster-based-develo_1686591222740_1774100292837.jpg",
-      "published_at": "2026-03-21T13:46:55.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కేంద్రం MSME క్రెడిట్ పథకాన్ని విస్తరించింది, సేవా రంగ సంస్థలను జోడిస్తుంది",
-      "summary_te": "MCGS-MSMEకి సవరణలు తక్కువ ప్రవేశ అడ్డంకులు, గ్యారెంటీ కవరేజీని పెంచుతాయి మరియు ముందస్తు సహకారం పాక్షికంగా తిరిగి చెల్లించబడేలా చేస్తాయి",
       "translated": true
     },
     {
