@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T09:32:32.533Z",
-  "updated_at_IST": "21/3/2026, 3:02:32 pm",
+  "updated_at": "2026-03-21T10:26:35.256Z",
+  "updated_at_IST": "21/3/2026, 3:56:35 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "eb6434151cac6c1d9c3b141c4e86a108",
+      "title": "Queensland hold on for WNCL title to deny Healy farewell win",
+      "summary": "Georgia Redmayne and Grace Harris hit centuries in a big total but NSW were ahead of the DLS when rain halted their chase",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528608.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414812.jpg",
+      "published_at": "2026-03-21T09:57:36.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "హీలీ వీడ్కోలు విజయాన్ని తిరస్కరించడానికి క్వీన్స్‌లాండ్ WNCL టైటిల్‌ను నిలబెట్టుకుంది",
+      "summary_te": "జార్జియా రెడ్‌మైన్ మరియు గ్రేస్ హారిస్ భారీ మొత్తంలో సెంచరీలు కొట్టారు, అయితే వర్షం వారి ఛేజింగ్‌ను ఆపినప్పుడు NSW DLS కంటే ముందుంది.",
+      "translated": true
+    },
     {
       "id": "854c9859830eb86f777e481b86686462",
       "title": "Sri Lanka players told to clear fitness test to get NOCs for IPL 2026",
@@ -141,7 +155,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
+      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్టు మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     },
     {
@@ -169,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ 96 పరుగులతో ఓపెనింగ్ స్టాండ్‌ను నెలకొల్పారు.",
+      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "సంగీతాన్ని ఎదుర్కోవడానికి సోపానక్రమం సిద్ధమవుతున్నందున ECB కొత్త పురుషుల సెలెక్టర్ కోసం ప్రకటన చేస్తుంది",
       "summary_te": "కౌంటీ గేమ్‌తో కమ్యూనికేషన్ గురించి విమర్శల నేపథ్యంలో కొత్త పాత్ర మరింత జవాబుదారీతనం కలిగి ఉంటుంది",
-      "translated": true
-    },
-    {
-      "id": "d5d7fbf542307d1763c39674592467ac",
-      "title": "ECB play down Dukes supply-chain fears ahead of county season",
-      "summary": "Manufacturer warns of \"major crisis\" as conflict in Gulf impacts freight costs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528418.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/227400/227467.jpg",
-      "published_at": "2026-03-19T16:01:29.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ECB కౌంటీ సీజన్‌కు ముందు డ్యూక్స్ సరఫరా-గొలుసు భయాలను తగ్గించింది",
-      "summary_te": "గల్ఫ్‌లో ఘర్షణలు సరుకు రవాణా ఖర్చులను ప్రభావితం చేస్తున్నందున తయారీదారు \"పెద్ద సంక్షోభం\" గురించి హెచ్చరించాడు",
       "translated": true
     }
   ]
