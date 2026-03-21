@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T20:14:51.835Z",
-  "updated_at_IST": "22/3/2026, 1:44:51 am",
+  "updated_at": "2026-03-21T21:26:17.599Z",
+  "updated_at_IST": "22/3/2026, 2:56:17 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "bec6fdbe5ae3b094faf81f7d989d9ecb",
+      "title": "OpenAI CEO Sam Altman wins dismissal against sister's ‘abuse’ claims: From 2025 lawsuit to 2026 ruling - how it unfolded",
+      "summary": "In her complaint, Ann Altman, who was 30-years-old back then, alleged that the abuse involved ‘numerous acts’ of rape, sexual assault, molestation, sodomy and battery until she was 11 or 12 years old",
+      "url": "https://www.livemint.com/news/us-news/openai-ceo-sam-altman-wins-dismissal-against-sisters-abuse-claims-from-2025-lawsuit-to-2026-ruling-how-it-unfolded-11774121177893.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/OPENAI-ALTMAN-SISTER-LAWSUIT-0_1774124757460_1774124775691.JPG",
+      "published_at": "2026-03-21T20:26:53.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "OpenAI CEO సామ్ ఆల్ట్‌మాన్ సోదరి 'దుర్వినియోగం' వాదనలకు వ్యతిరేకంగా తొలగింపును గెలుచుకున్నాడు: 2025 దావా నుండి 2026 తీర్పు వరకు - ఇది ఎలా బయటపడింది",
+      "summary_te": "తన ఫిర్యాదులో, అప్పటికి 30 ఏళ్ల వయస్సు ఉన్న ఆన్ ఆల్ట్‌మాన్, తనకు 11 లేదా 12 సంవత్సరాల వయస్సు వచ్చే వరకు అత్యాచారం, లైంగిక వేధింపులు, వేధింపులు, సోడోమీ మరియు బ్యాటరీ వంటి 'అనేక చర్యలు' దుర్వినియోగం చేయబడిందని ఆరోపించారు.",
+      "translated": true
+    },
     {
       "id": "5fe4ecb37c80063055b76ad17afca1c0",
       "title": "Quote of the day by Aravind Srinivas: ‘The only way to build something truly great is to be extremely opinionated...'",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "కేంద్రం MSME క్రెడిట్ పథకాన్ని విస్తరించింది, సేవా రంగ సంస్థలను జోడిస్తుంది",
       "summary_te": "MCGS-MSMEకి సవరణలు తక్కువ ప్రవేశ అడ్డంకులు, గ్యారెంటీ కవరేజీని పెంచుతాయి మరియు ముందస్తు సహకారం పాక్షికంగా తిరిగి చెల్లించబడేలా చేస్తాయి",
-      "translated": true
-    },
-    {
-      "id": "d448899078de33a93885ec81c5e14b6c",
-      "title": "Duggar couple arrested: What are the new charges against Joseph Duggar and Kendra Duggar?",
-      "summary": "Former reality star Joseph Duggar will be transferred to Florida to face child molestation charges after waiving his extradition hearing. He faces serious allegations, including false imprisonment, mirroring past legal troubles of his brother, Josh Duggar, who was convicted of child sexual abuse.",
-      "url": "https://www.livemint.com/news/what-are-the-new-charges-against-joseph-duggar-and-kendra-duggar-11774095671801.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/Screenshot_2026-03-21_083911_1774062558570_1774062747579_1774095864172.png",
-      "published_at": "2026-03-21T13:29:47.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "దుగ్గర్ దంపతుల అరెస్ట్: జోసెఫ్ దుగ్గర్ మరియు కేంద్ర దుగ్గర్‌లపై కొత్త అభియోగాలు ఏమిటి?",
-      "summary_te": "మాజీ రియాలిటీ స్టార్ జోసెఫ్ దుగ్గర్ తన అప్పగింత విచారణను రద్దు చేసిన తర్వాత పిల్లల వేధింపుల ఆరోపణలను ఎదుర్కొనేందుకు ఫ్లోరిడాకు బదిలీ చేయబడతాడు. బాలలపై లైంగిక వేధింపులకు పాల్పడిన అతని సోదరుడు జోష్ దుగ్గర్ గత న్యాయపరమైన ఇబ్బందులను ప్రతిబింబిస్తూ తప్పుడు జైలు శిక్షతో సహా తీవ్రమైన ఆరోపణలను అతను ఎదుర్కొన్నాడు.",
       "translated": true
     },
     {

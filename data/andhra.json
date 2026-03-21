@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-21T20:14:51.835Z",
-  "updated_at_IST": "22/3/2026, 1:44:51 am",
+  "updated_at": "2026-03-21T21:26:17.599Z",
+  "updated_at_IST": "22/3/2026, 2:56:17 am",
   "category": "andhra",
   "count": 21,
   "articles": [
+    {
+      "id": "28913fc114671c59f05f8ed5f5d98313",
+      "title": "CII Meet Outlines Roadmap for ‘Swarna Andhra 2047’",
+      "summary": "The Confederation of Indian Industry (CII-Andhra Pradesh) held its annual meeting and a conference on ‘Swarna Andhra Pradesh’ at Novotel hotel here on Saturday (March 21), outlining a strategic roadmap for the State’s transition into a global industrial powerhouse by 2047.Union Minister for Civil Aviation K. Rammohan Naidu, attending as the chief guest, noted that the current environment is highly favorable for ‘Swarnandhra 2047’ vision, with strong support from the Union government fostering partnerships necessary for growth.",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/cii-meet-outlines-roadmap-for-swarna-andhra-2047/article70769412.ece",
+      "image": "https://th-i.thgim.com/public/incoming/covzaf/article70770240.ece/alternates/LANDSCAPE_1200/DSC_1004.JPG",
+      "published_at": "2026-03-21T17:12:25.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "‘స్వర్ణ ఆంధ్ర 2047’ కోసం CII మీట్ అవుట్‌లైన్ రోడ్‌మ్యాప్",
+      "summary_te": "భారత పరిశ్రమల సమాఖ్య (సిఐఐ-ఆంధ్రప్రదేశ్) శనివారం (మార్చి 21) ఇక్కడి నోవాటెల్ హోటల్‌లో 'స్వర్ణ ఆంధ్రప్రదేశ్'పై వార్షిక సమావేశం మరియు సదస్సును నిర్వహించింది, 2047 నాటికి రాష్ట్రాన్ని గ్లోబల్ ఇండస్ట్రియల్ పవర్‌హౌస్‌గా మార్చడానికి వ్యూహాత్మక రోడ్‌మ్యాప్‌ను వివరిస్తుంది. ప్రస్తుత పౌర విమానయాన శాఖ మంత్రి కె. రామ్మోహన్ నాయుడు ముఖ్య అతిథిగా హాజరుకాలేదు. 'స్వర్ణాంధ్ర 2047' విజన్ కోసం, వృద్ధికి అవసరమైన భాగస్వామ్యాలను పెంపొందించే కేంద్ర ప్రభుత్వం నుండి బలమైన మద్దతుతో.",
+      "translated": true
+    },
     {
       "id": "5fa8f4448a8b4d1d6918acaf2e338aa5",
       "title": "Devotional fervour marks Ramzan celebrations",
@@ -282,20 +296,6 @@
       "language": "en",
       "title_te": "తిరుపతిలో బ్రహ్మోత్సవాల్లో నాలుగో రోజు కోదండరాముడు కల్పవృక్ష వాహనంపై విహరించారు.",
       "summary_te": "కోరికలు తీర్చే చెట్టు క్రింద స్వామిని దర్శించుకోవడానికి భక్తులు మాడ వీధుల్లోకి వస్తారు; మధ్యాహ్నం స్నపన తిరుమంజనం నిర్వహించారు",
-      "translated": true
-    },
-    {
-      "id": "437129de3e936733e8e528bd2b3bbc39",
-      "title": "Protection of forests not an option, but a collective responsibility, says Andhra Pradesh Deputy CM Pawan Kalyan",
-      "summary": "On the International Day of Forests, he says Andhra Pradesh is committed to increasing green cover to 50%, and is taking decisive steps towards a greener, healthier, and more sustainable future",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/protection-of-forests-not-an-option-but-a-collective-responsibility-says-andhra-pradesh-deputy-cm-pawan-kalyan/article70769135.ece",
-      "image": "https://th-i.thgim.com/public/incoming/rbn0ac/article70769338.ece/alternates/LANDSCAPE_1200/Legal-system-toGEOFO4IB1.3.jpg.jpg",
-      "published_at": "2026-03-21T13:13:03.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "అడవుల సంరక్షణ ఒక ఐచ్ఛికం కాదని, సమిష్టి బాధ్యత అని ఆంధ్రప్రదేశ్ డిప్యూటీ సీఎం పవన్ కల్యాణ్ అన్నారు",
-      "summary_te": "అంతర్జాతీయ అటవీ దినోత్సవం సందర్భంగా, ఆంధ్రప్రదేశ్ పచ్చదనాన్ని 50%కి పెంచడానికి కట్టుబడి ఉందని మరియు పచ్చదనం, ఆరోగ్యకరమైన మరియు మరింత స్థిరమైన భవిష్యత్తు కోసం నిర్ణయాత్మక అడుగులు వేస్తున్నట్లు చెప్పారు.",
       "translated": true
     }
   ]

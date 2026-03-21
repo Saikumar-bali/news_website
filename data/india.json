@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-21T20:14:51.835Z",
-  "updated_at_IST": "22/3/2026, 1:44:51 am",
+  "updated_at": "2026-03-21T21:26:17.599Z",
+  "updated_at_IST": "22/3/2026, 2:56:17 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "3c63e6b37bbdd1583dfaaf1d7dab12a9",
+      "title": "Kanshi Ram returns",
+      "summary": "The Bahujan Samaj Party founder’s name is being invoked by the leaders in Uttar Pradesh across political lines over the past two weeks and his supporters say that the architect of Dalit consciousness is being resurrected for the State’s Assembly poll next year, finds Mayank Kumar",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/kanshi-ram-returns/article70766163.ece",
+      "image": "https://th-i.thgim.com/public/incoming/kumnoi/article70766187.ece/alternates/LANDSCAPE_1200/6744_19_3_2026_17_41_10_2_02_KANSHIRAM.JPG",
+      "published_at": "2026-03-21T21:03:06.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కాన్షీరామ్ తిరిగి వచ్చాడు",
+      "summary_te": "బహుజన్ సమాజ్ పార్టీ వ్యవస్థాపకుడి పేరును ఉత్తరప్రదేశ్‌లోని నాయకులు గత రెండు వారాలుగా రాజకీయ శ్రేణులలో స్మరిస్తున్నారు మరియు ఆయన మద్దతుదారులు వచ్చే ఏడాది రాష్ట్ర అసెంబ్లీ ఎన్నికల కోసం దళిత స్పృహ యొక్క రూపశిల్పి పునరుత్థానం అవుతున్నారని చెప్పారు, మయాంక్ కుమార్",
+      "translated": true
+    },
+    {
+      "id": "465aee4fd2ad395115d86f70a2b655d2",
+      "title": "Jharkhand accidents: 3 killed in Latehar bike crash, auto driver dies in another",
+      "summary": "Jharkhand accidents: 3 killed in Latehar bike crash, auto driver dies in another",
+      "url": " https://www.indiatoday.in/india/story/4-killed-7-injured-in-separate-road-accidents-in-jharkhands-latehar-2885377-2026-03-22?utm_source=rss ",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/3-killed--4-injured-in-head-on-bike-collision-in-jharkhands-latehar-213101435-16x9_0.jpg?VersionId=64YyHSQPUAhOa08HKV2lL_TYppQNettI",
+      "published_at": "2026-03-21T20:36:30.000Z",
+      "source": "India Today",
+      "category": "india",
+      "language": "en",
+      "title_te": "జార్ఖండ్‌లో జరిగిన ప్రమాదాలు: లతేహర్‌లో బైక్‌ ఢీకొని ముగ్గురు మృతి చెందగా, మరొకరు ఆటో డ్రైవర్‌ మృతి చెందారు",
+      "summary_te": "జార్ఖండ్‌లో జరిగిన ప్రమాదాలు: లతేహర్‌లో బైక్‌ ఢీకొని ముగ్గురు మృతి చెందగా, మరొకరు ఆటో డ్రైవర్‌ మృతి చెందారు",
+      "translated": true
+    },
+    {
+      "id": "3f7d7179261005c632ab58e207ac4ed1",
+      "title": "Adequate coal stocks to meet rising energy needs: Govt",
+      "summary": "Representative image Atul Mathur is a Senior Assistant Editor at The Times of India with over 27 years of experience in journalism. Based in Delhi, he has spent much of his career reporting on governance, public policy and politics, churning out researched, data-driven stories that impact daily lives. Atul is known for investigative depth and strong human-interest narratives as he strives to bring clarity and context to complex issues. He currently tracks the energy sector, writing on power, renewable energy, coal and mines.Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/adequate-coal-stocks-to-meet-rising-energy-needs-govt/articleshow/129724950.cms",
+      "image": "https://static.toiimg.com/photo/msid-129724958,imgsize-457376.cms",
+      "published_at": "2026-03-21T20:23:35.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "పెరుగుతున్న ఇంధన అవసరాలకు సరిపడా బొగ్గు నిల్వలు: ప్రభుత్వం",
+      "summary_te": "ప్రతినిధి చిత్రం అతుల్ మాథుర్ జర్నలిజంలో 27 సంవత్సరాల అనుభవంతో టైమ్స్ ఆఫ్ ఇండియాలో సీనియర్ అసిస్టెంట్ ఎడిటర్. ఢిల్లీలో ఉన్న అతను తన కెరీర్‌లో ఎక్కువ భాగం పాలన, పబ్లిక్ పాలసీ మరియు రాజకీయాలపై రిపోర్టింగ్‌లో గడిపాడు, రోజువారీ జీవితాలను ప్రభావితం చేసే పరిశోధనాత్మక, డేటా-ఆధారిత కథనాలను ప్రచురించాడు. అతుల్ పరిశోధనాత్మక లోతు మరియు బలమైన మానవ-ఆసక్తి కథనాలకు ప్రసిద్ధి చెందాడు, అతను సంక్లిష్ట సమస్యలకు స్పష్టత మరియు సందర్భాన్ని తీసుకురావడానికి ప్రయత్నిస్తాడు. అతను ప్రస్తుతం శక్తి రంగాన్ని ట్రాక్ చేస్తున్నాడు, పవర్, పునరుత్పాదక శక్తి, బొగ్గు మరియు గనులపై వ్రాస్తూ. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "6ff19a29cc386261f44ed3b52cd70496",
+      "title": "Staring at energy and fertiliser crisis if war continues: Rajnath",
+      "summary": "File photo A Senior Assistant Editor in TOI with an inclination towards political reporting. Covers chief minister office, Congress and Tourism. We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/staring-at-energy-and-fertiliser-crisis-if-war-continues-rajnath/articleshow/129724927.cms",
+      "image": "https://static.toiimg.com/photo/msid-129724933,imgsize-51478.cms",
+      "published_at": "2026-03-21T20:08:06.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "యుద్ధం కొనసాగితే ఇంధనం, ఎరువుల సంక్షోభం ఎదురుకానుంది: రాజ్‌నాథ్",
+      "summary_te": "ఫైల్ ఫోటో పొలిటికల్ రిపోర్టింగ్ వైపు మొగ్గు చూపుతూ TOIలో సీనియర్ అసిస్టెంట్ ఎడిటర్. ముఖ్యమంత్రి కార్యాలయం, కాంగ్రెస్ మరియు పర్యాటకం కవర్ చేస్తుంది. వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
     {
       "id": "f1db33b1e776c7e4269e207adc8b0ade",
       "title": "A harrowing time but home at last, recalls crew member of Indian-flagged ship",
@@ -43,7 +99,7 @@
       "category": "india",
       "language": "en",
       "title_te": "సినిమాల విషయంలో ‘సెన్సార్‌షిప్’ను విరమించుకోవాలని కమల్ మీడియాను కోరారు",
-      "summary_te": "సినిమాలకు సంబంధించి “సెన్సార్‌షిప్” అనే పదాన్ని ఉపయోగించడం మానుకోవాలని నటుడు-రాజకీయవేత్త కమల్ హాసన్ తమిళ మీడియాను కోరారు, సంవత్సరాల చర్చల తర్వాత పదం అధికారికంగా పక్కన పెట్టబడింది. ఒక సోషల్ మీడియా పోస్ట్‌లో, భారతదేశ చలనచిత్ర నియంత్రణ సంస్థకు సెంట్రల్ బోర్డ్ ఆఫ్ ఫిల్మ్ సర్టిఫికేషన్ అని పేరు మార్చబడిందని, ఇది సినిమా “సెన్సార్” ఆలోచన నుండి వైదొలగడాన్ని ప్రతిబింబిస్తుంది. \"సెన్సార్‌షిప్\" అనే పదం చట్టబద్ధంగా వివాదాస్పదమైంది మరియు వాడుకలో లేదని, ఇకపై మీడియా సంస్థలు ఉపయోగించకూడదని ఆయన అన్నారు. కళను సెన్సార్ చేసే హక్కును ప్రజాస్వామ్య ప్రభుత్వం క్లెయిమ్ చేయకూడదని శ్రీ హాసన్ అన్నారు, ఇది ప్రపంచ సినిమాల్లో విస్తృతంగా ఆమోదించబడిన సూత్రం. తమిళ సినిమా కూడా ఈ స్థానంలో నిలిచిందని అన్నారు.",
+      "summary_te": "సినిమాలకు సంబంధించి “సెన్సార్‌షిప్” అనే పదాన్ని ఉపయోగించడం మానుకోవాలని నటుడు-రాజకీయవేత్త కమల్ హాసన్ తమిళ మీడియాను కోరారు, సంవత్సరాల చర్చల తర్వాత పదం అధికారికంగా పక్కన పెట్టబడింది. ఒక సోషల్ మీడియా పోస్ట్‌లో, భారతదేశ చలనచిత్ర నియంత్రణ సంస్థకు సెంట్రల్ బోర్డ్ ఆఫ్ ఫిల్మ్ సర్టిఫికేషన్ అని పేరు మార్చబడిందని, ఇది సినిమా “సెన్సార్” ఆలోచన నుండి వైదొలగడాన్ని ప్రతిబింబిస్తుంది. \"సెన్సార్‌షిప్\" అనే పదం చట్టబద్ధంగా వివాదాస్పదమైంది మరియు వాడుకలో లేనిదిగా మార్చబడింది మరియు ఇకపై మీడియా సంస్థలు ఉపయోగించకూడదని ఆయన అన్నారు. కళను సెన్సార్ చేసే హక్కును ప్రజాస్వామ్య ప్రభుత్వం క్లెయిమ్ చేయకూడదని శ్రీ హాసన్ అన్నారు, ఇది ప్రపంచ సినిమాల్లో విస్తృతంగా ఆమోదించబడిన సూత్రం. తమిళ సినిమా కూడా ఈ స్థానంలో నిలిచిందని అన్నారు.",
       "translated": true
     },
     {
@@ -103,6 +159,20 @@
       "translated": true
     },
     {
+      "id": "f65b5f2499ed4c942b3e36f0d9b7b18d",
+      "title": "'I don’t want to force it': Stephen Curry on new step with Ayesha Curry",
+      "summary": "​Stephen Curry, the Golden State Warriors’ star player and NBA legend, and his wife, Ayesha Curry, seem to have built a pretty strong marriage over the last decade that they have been together as they have become parents to four young children. While the two continue to keep their lives private, Stephen Curry opens up about his hesitation of taking the next step alongside his wife, Ayesha Curry.",
+      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/i-dont-want-to-force-it-stephen-curry-opens-up-about-the-pressure-of-taking-a-new-step-with-ayesha-curry-amid-brutal-trolling/articleshow/129724698.cms",
+      "image": "https://static.toiimg.com/photo/msid-129724699,imgsize-1236973.cms",
+      "published_at": "2026-03-21T19:21:49.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'నేను బలవంతం చేయకూడదనుకుంటున్నాను': అయేషా కర్రీతో కొత్త అడుగులో స్టీఫెన్ కర్రీ",
+      "summary_te": "గోల్డెన్ స్టేట్ వారియర్స్ యొక్క స్టార్ ప్లేయర్ మరియు NBA లెజెండ్ అయిన స్టీఫెన్ కర్రీ మరియు అతని భార్య, అయేషా కర్రీ, గత దశాబ్దంలో వారు నలుగురు చిన్న పిల్లలకు తల్లిదండ్రులుగా మారినందున వారు చాలా బలమైన వివాహాన్ని నిర్మించుకున్నారు. ఇద్దరూ తమ జీవితాలను ప్రైవేట్‌గా ఉంచుకోవడం కొనసాగిస్తున్నప్పుడు, స్టీఫెన్ కర్రీ తన భార్య అయేషా కర్రీతో కలిసి తదుపరి అడుగు వేయడానికి సంకోచించడాన్ని గురించి తెరుచుకున్నాడు.",
+      "translated": true
+    },
+    {
       "id": "c967a2506460d08e38136bbfe998434d",
       "title": "No blanket exemption for women teachers above 50 from SIR and census: Revenue Department",
       "summary": "A senior woman teacher at a government school in Bengaluru says that teachers will meet School Education and Literacy Minister Madhu Bangarappa and seek a blanket exemption again.",
@@ -133,15 +203,15 @@
     {
       "id": "e5cff66120afc2f07117e160cb41336a",
       "title": "Social Welfare Department found dead",
-      "summary": "",
+      "summary": "An Assistant Director of the Social Welfare Department from Tumakuru was allegedly found dead at the office in which he worked in Pavagada on Friday, after recording a video alleging harassment by his senior officer.The deceased has been identified as Mallikarjunaiah G.E., a native of Gundarlahalli near Pavagada. The police have booked Krishnappa, Joint Director of the Social Welfare Department, Tumakuru, the senior officer named by Mallikarjunaiah in the video, under Section 108 of Bharatiya Nyaya Sanhita, 2023, for abetment to suicide.",
       "url": "https://www.thehindu.com/news/cities/bangalore/social-welfare-department-officer-dies-at-his-office-in-tumakuru-alleges-harassment-by-senior-in-a-video/article70769730.ece",
-      "image": null,
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
       "published_at": "2026-03-21T19:02:33.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
       "title_te": "సాంఘిక సంక్షేమ శాఖ శవమై కనిపించింది",
-      "summary_te": "",
+      "summary_te": "తుమకూరుకు చెందిన సాంఘిక సంక్షేమ శాఖ సహాయ సంచాలకులు శుక్రవారం పావగడలోని తాను పనిచేస్తున్న కార్యాలయంలో తన సీనియర్ అధికారి వేధింపులకు గురిచేస్తున్నట్లు వీడియో రికార్డు చేసి శవమై కనిపించారు.మృతుడిని పావగడ సమీపంలోని గుండార్లహళ్లి ప్రాంతానికి చెందిన మల్లికార్జునయ్య జి.ఇ.గా గుర్తించారు. వీడియోలో మల్లికార్జునయ్య పేర్కొన్న సీనియర్ అధికారి తుమకూరులోని సాంఘిక సంక్షేమ శాఖ జాయింట్ డైరెక్టర్ కృష్ణప్పపై పోలీసులు ఆత్మహత్యకు ప్రేరేపించినందుకు భారతీయ న్యాయ సంహిత, 2023లోని సెక్షన్ 108 కింద కేసు నమోదు చేశారు.",
       "translated": true
     },
     {
@@ -243,6 +313,20 @@
       "translated": true
     },
     {
+      "id": "110516d8d20af0f919fb5dc50817a6ee",
+      "title": "BJD suspends six MLAs for defying party’s whip in Rajya Sabha election",
+      "summary": "Regional party’s tally in Odisha Legislative Assembly has come down to 42 from 51 seats won in 2024 assembly election",
+      "url": "https://www.thehindu.com/news/national/odisha/bjd-suspends-six-mlas-for-defying-partys-whip-in-rajya-sabha-election/article70769657.ece",
+      "image": null,
+      "published_at": "2026-03-21T18:43:02.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాజ్యసభ ఎన్నికల్లో పార్టీ విప్‌ను ధిక్కరించినందుకు ఆరుగురు ఎమ్మెల్యేలను బీజేడీ సస్పెండ్ చేసింది",
+      "summary_te": "2024 అసెంబ్లీ ఎన్నికల్లో గెలిచిన 51 స్థానాల నుంచి ఒడిశా శాసనసభలో ప్రాంతీయ పార్టీల సంఖ్య 42కి తగ్గింది.",
+      "translated": true
+    },
+    {
       "id": "1e5dca23f32771bf2e7655f1bb56dc58",
       "title": "NHL isider Elliotte Friedman clarifies Toronto Maple Leafs' stance on forward Matthew",
       "summary": "Contrary to fan speculation, NHL insider Elliotte Friedman clarified that trade talks involving Matthew Knies were not about dissatisfaction with the player. The Maple Leafs were merely assessing his market value, with teams like the Ducks and Devils showing serious interest. Knies remains a highly valued young forward for Toronto.",
@@ -294,8 +378,22 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఒమర్ అబ్దుల్లా ఈద్ రోజున మసీదు మూసివేయడాన్ని నిందించారు, 'సాధారణ స్థితి' వాదనను ప్రశ్నించారు",
+      "title_te": "ఈద్ రోజున మసీదు మూసివేయడాన్ని ఒమర్ అబ్దుల్లా విమర్శించారు, 'సాధారణ స్థితి' వాదనను ప్రశ్నించారు",
       "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "5b78613f9db9223754a1b9b449107457",
+      "title": "Punjab Minister Bhullar resigns from Cabinet as Opposition demands murder case, CBI probe",
+      "summary": "Laljit Singh Bhullar has been accused of abetting suicide of Gagandeep Singh Randhawa, district manager of the Punjab Warehousing Corporation in Amritsar",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-minister-bhullar-resigns-from-cabinet-as-opposition-demands-murder-case-cbi-probe/article70769263.ece",
+      "image": null,
+      "published_at": "2026-03-21T18:23:04.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "హత్య కేసు, సీబీఐ విచారణను ప్రతిపక్షాలు డిమాండ్ చేయడంతో పంజాబ్ మంత్రి భుల్లర్ మంత్రివర్గానికి రాజీనామా చేశారు",
+      "summary_te": "అమృత్‌సర్‌లోని పంజాబ్ వేర్‌హౌసింగ్ కార్పొరేషన్ జిల్లా మేనేజర్ గగన్‌దీప్ సింగ్ రంధవా ఆత్మహత్యకు పాల్పడినట్లు లాల్జీత్ సింగ్ భుల్లర్‌పై ఆరోపణలు వచ్చాయి.",
       "translated": true
     },
     {
@@ -366,6 +464,20 @@
       "language": "en",
       "title_te": "శుద్ధి చేయని వ్యర్థాలు, పేద పౌర మౌలిక సదుపాయాలు ఈరోడ్ (తూర్పు) అసెంబ్లీ నియోజకవర్గం",
       "summary_te": "కాలుష్యం, ట్రాఫిక్ రద్దీ మరియు పేలవమైన పట్టణ మౌలిక సదుపాయాలు ఖచ్చితమైన ఫలితాల కోసం చూస్తున్న ఓటర్లకు కీలక ఆందోళనలు.",
+      "translated": true
+    },
+    {
+      "id": "c7a0638c871fdd9055ec737e800dda64",
+      "title": "South Pars | Same field, two fates",
+      "summary": "An Israeli attack on a gas field straddling the Persian Gulf and Iran’s counterstrikes have laid bare how fragile the world’s energy security really is",
+      "url": "https://www.thehindu.com/news/national/south-pars-same-field-two-fates/article70770224.ece",
+      "image": "https://th-i.thgim.com/public/incoming/w5y9vy/article70770223.ece/alternates/LANDSCAPE_1200/Iran_US_Asia_Watches_22278.jpg",
+      "published_at": "2026-03-21T17:54:18.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "సౌత్ పార్స్ | ఒకే క్షేత్రం, రెండు విధి",
+      "summary_te": "పెర్షియన్ గల్ఫ్‌లో ఉన్న గ్యాస్ ఫీల్డ్‌పై ఇజ్రాయెల్ దాడి మరియు ఇరాన్ ఎదురుదెబ్బలు ప్రపంచంలోని ఇంధన భద్రత నిజంగా ఎంత దుర్బలంగా ఉందో బయటపెట్టింది.",
       "translated": true
     },
     {
@@ -509,20 +621,6 @@
       "translated": true
     },
     {
-      "id": "5ca0bb966890acebcd267b3c57fb6235",
-      "title": "Assembly election highlights: BJP out to claim its share in Bihar: Prashant Kishor on Nitish's exit as CM",
-      "summary": "The Election Commission of India announces the completion of the first randomisation of EVMs and VVPATs in Assam, Kerala, and Puducherry",
-      "url": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-21-2026/article70768264.ece",
-      "image": null,
-      "published_at": "2026-03-21T17:31:54.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అసెంబ్లీ ఎన్నికల ముఖ్యాంశాలు: బీహార్‌లో తమ వాటాను క్లెయిమ్ చేయడానికి బీజేపీ బయటకు వచ్చింది: సీఎంగా నితీష్ నిష్క్రమణపై ప్రశాంత్ కిషోర్",
-      "summary_te": "అస్సాం, కేరళ మరియు పుదుచ్చేరిలలో ఈవీఎంలు మరియు వీవీప్యాట్‌ల మొదటి ర్యాండమైజేషన్ పూర్తయినట్లు భారత ఎన్నికల సంఘం ప్రకటించింది.",
-      "translated": true
-    },
-    {
       "id": "82cfcc79e6a719af8e25100fd0bd8345",
       "title": "Act responsibly: Govt withdraws domestic airfare caps imposed after IndiGo fiasco",
       "summary": "Act responsibly: Govt withdraws domestic airfare caps imposed after IndiGo fiasco",
@@ -534,34 +632,6 @@
       "language": "en",
       "title_te": "బాధ్యతాయుతంగా వ్యవహరించండి: ఇండిగో వైఫల్యం తర్వాత విధించిన దేశీయ విమాన ఛార్జీల పరిమితులను ప్రభుత్వం ఉపసంహరించుకుంది",
       "summary_te": "బాధ్యతాయుతంగా వ్యవహరించండి: ఇండిగో వైఫల్యం తర్వాత విధించిన దేశీయ విమాన ఛార్జీల పరిమితులను ప్రభుత్వం ఉపసంహరించుకుంది",
-      "translated": true
-    },
-    {
-      "id": "b7e453e6f3491d6f974e5a96be570d41",
-      "title": "Tribals near Tirupattur town threaten to boycott polls due to lack of basic facilities",
-      "summary": "Lack of good roads affects bus services, ambulances and access to healthcare, say residents",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tribals-near-tirupattur-town-threaten-to-boycott-polls-due-to-lack-of-basic-facilities/article70769035.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/eg2mbe/article70769428.ece/alternates/LANDSCAPE_1200/election.jpeg",
-      "published_at": "2026-03-21T17:23:06.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "తిరుపత్తూరు పట్టణంలో కనీస వసతులు లేవని గిరిజనులు ఎన్నికలను బహిష్కరిస్తామన్నారు",
-      "summary_te": "మంచి రోడ్లు లేకపోవడం బస్సు సర్వీసులు, అంబులెన్స్‌లు మరియు ఆరోగ్య సంరక్షణను ప్రభావితం చేస్తుందని నివాసితులు అంటున్నారు",
-      "translated": true
-    },
-    {
-      "id": "6c375789cb0d70cd8a80910c02adc156",
-      "title": "Three persons arrested for killing a trader in Tiruvannamalai",
-      "summary": "The victim was stabbed by the suspect after the two were disputing a financial issue",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-arrested-for-killing-a-trader-in-tiruvannamalai/article70769034.ece",
-      "image": null,
-      "published_at": "2026-03-21T17:23:03.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "తిరువణ్ణామలైలో వ్యాపారిని హత్య చేసిన ముగ్గురు వ్యక్తులను అరెస్టు చేశారు",
-      "summary_te": "ఆర్థిక సమస్యపై ఇద్దరి మధ్య వాగ్వాదం జరగడంతో నిందితుడు బాధితురాలిని కత్తితో పొడిచాడు",
       "translated": true
     },
     {
@@ -604,20 +674,6 @@
       "language": "en",
       "title_te": "5,100 కోట్ల సెటిల్‌మెంట్ తర్వాత సందేశరా కేసులో తదుపరి చర్యలను సుప్రీంకోర్టు ప్రశ్నించింది",
       "summary_te": "డిపాజిట్ చేసిన నిధుల పంపిణీకి సంబంధించి స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా నేతృత్వంలోని రుణదాతలను కూడా సుప్రీంకోర్టు విచారించింది.",
-      "translated": true
-    },
-    {
-      "id": "38fec56d00107672da50eb900af621a7",
-      "title": "Vellore Mayor, councillor booked for violating Model Code of Conduct",
-      "summary": "Inquiry reveals that along with the local ward councillor, Mayor Sujatha Anandakumar allegedly distributed government-sponsored sports equipment to youth in a corporation office at Sathuvachari",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/vellore-mayor-councillor-booked-for-violating-model-code-of-conduct/article70769033.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/pywewv/article70769390.ece/alternates/LANDSCAPE_1200/car-11.jpeg",
-      "published_at": "2026-03-21T17:13:09.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మోడల్ ప్రవర్తనా నియమావళిని ఉల్లంఘించినందుకు వేలూరు మేయర్, కౌన్సిలర్లపై కేసు నమోదు చేశారు",
-      "summary_te": "స్థానిక వార్డు కౌన్సిలర్‌తో కలిసి మేయర్ సుజాత ఆనందకుమార్ సతువాచారిలోని కార్పొరేషన్ కార్యాలయంలో యువతకు ప్రభుత్వం అందించే క్రీడా సామగ్రిని పంపిణీ చేసినట్లు విచారణలో వెల్లడైంది.",
       "translated": true
     },
     {
@@ -758,34 +814,6 @@
       "language": "en",
       "title_te": "మస్క్ ఫండింగ్ స్టాండ్‌ఆఫ్ మధ్య US ఎయిర్‌పోర్ట్ స్టాఫ్ వర్కర్ జీతాలను చెల్లించడానికి ఆఫర్ చేస్తుంది",
       "summary_te": "డిపార్ట్‌మెంట్ ఆఫ్ హోమ్‌ల్యాండ్ సెక్యూరిటీ (DHS)కి సంబంధించిన రాజకీయ ప్రతిష్టంభన సందర్భంగా టెక్ టైకూన్ ఎలోన్ మస్క్ శనివారం US విమానాశ్రయాలలో భద్రతా సిబ్బందికి చెల్లించాలని ప్రతిపాదించారు.",
-      "translated": true
-    },
-    {
-      "id": "a7fb1c951a64114cb76168738d104f6f",
-      "title": "Ashwin says 'deduct Rs 2 crores' if star Australian fails to bowl 4 overs in IPL",
-      "summary": "During the T20 World Cup, Green scored 24 runs in three innings with a highest score of 21. He bowled three overs across two matches and picked up one wicket. In a recent Sheffield Shield match for Western Australia against New South Wales, where he scored a century, he did not bowl.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ashwin-says-deduct-rs-2-crores-if-star-australian-cricketer-fails-to-bowl-four-overs-in-ipl/articleshow/129721627.cms",
-      "image": "https://static.toiimg.com/photo/msid-129721746,imgsize-29730.cms",
-      "published_at": "2026-03-21T16:08:01.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఐపీఎల్‌లో 4 ఓవర్లు బౌలింగ్ చేయడంలో స్టార్ ఆస్ట్రేలియన్ విఫలమైతే 'రూ. 2 కోట్లు తగ్గించండి' అని అశ్విన్ చెప్పాడు.",
-      "summary_te": "T20 ప్రపంచ కప్ సమయంలో, గ్రీన్ అత్యధిక స్కోరు 21తో మూడు ఇన్నింగ్స్‌లలో 24 పరుగులు చేశాడు. అతను రెండు మ్యాచ్‌లలో మూడు ఓవర్లు బౌల్ చేసి ఒక వికెట్ తీశాడు. వెస్ట్రన్ ఆస్ట్రేలియా తరపున న్యూ సౌత్ వేల్స్‌తో జరిగిన ఇటీవలి షెఫీల్డ్ షీల్డ్ మ్యాచ్‌లో అతను సెంచరీ సాధించాడు, అతను బౌలింగ్ చేయలేదు.",
-      "translated": true
-    },
-    {
-      "id": "488126447bd45ffce3631047d64ad82e",
-      "title": "'Will put ICE in airports': Trump threatens after bill to fund homeland security failed",
-      "summary": "Former President Donald Trump has threatened to deploy ICE agents to airports for security, demanding Democrats agree to fund airport safety. He specifically targeted immigrants from Somalia, blaming them and Minnesota officials for issues in the state. This comes after a Homeland Security funding bill stalled in the Senate, with Democrats seeking immigration enforcement reforms following recent shootings.",
-      "url": "https://timesofindia.indiatimes.com/world/us/will-put-ice-in-airports-trump-threatens-after-bill-to-fund-us-homeland-security-failed/articleshow/129721644.cms",
-      "image": "https://static.toiimg.com/photo/msid-129721727,imgsize-44420.cms",
-      "published_at": "2026-03-21T16:02:50.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'విమానాశ్రయాల్లో ICE పెడతాం': మాతృభూమి భద్రతకు నిధుల బిల్లు విఫలమైన తర్వాత ట్రంప్ బెదిరించారు",
-      "summary_te": "మాజీ అధ్యక్షుడు డొనాల్డ్ ట్రంప్ భద్రత కోసం విమానాశ్రయాలకు ICE ఏజెంట్లను మోహరించమని బెదిరించారు, డెమొక్రాట్లు విమానాశ్రయ భద్రతకు నిధులు ఇవ్వడానికి అంగీకరించాలని డిమాండ్ చేశారు. అతను ప్రత్యేకంగా సోమాలియా నుండి వలస వచ్చినవారిని లక్ష్యంగా చేసుకున్నాడు, రాష్ట్రంలోని సమస్యలకు వారిని మరియు మిన్నెసోటా అధికారులను నిందించాడు. సెనేట్‌లో హోమ్‌ల్యాండ్ సెక్యూరిటీ ఫండింగ్ బిల్లు నిలిచిపోయిన తర్వాత ఇది జరిగింది, ఇటీవలి కాల్పుల తర్వాత డెమొక్రాట్‌లు ఇమ్మిగ్రేషన్ ఎన్‌ఫోర్స్‌మెంట్ సంస్కరణలను కోరుతున్నారు.",
       "translated": true
     },
     {
@@ -952,7 +980,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "‘ఎల్లప్పుడూ బుజ్జగింపునే ఎంచుకుంటుంది’: ఢిల్లీలోని ఉత్తమ్ నగర్‌లో మతపరమైన ఉద్రిక్తతలపై చేసిన వ్యాఖ్యలపై బీజేపీ రాహుల్ గాంధీని నిందించింది.",
+      "title_te": "‘ఎల్లప్పుడూ బుజ్జగింపునే ఎంచుకుంటుంది’: ఢిల్లీలోని ఉత్తమ్ నగర్‌లో మతపరమైన ఉద్రిక్తతలపై చేసిన వ్యాఖ్యలపై రాహుల్ గాంధీని బీజేపీ నిందించింది.",
       "summary_te": "కాంగ్రెస్‌ డీఎన్‌ఏ దళిత వ్యతిరేకి అని, ఉత్తమ్‌నగర్‌ ఘర్షణలో కొడుకును కోల్పోయిన కుటుంబాన్ని కూడా రాహుల్ పరామర్శించలేదని బీజేపీ అధికార ప్రతినిధి పాశ్వాన్‌ అన్నారు.",
       "translated": true
     },
@@ -1205,7 +1233,7 @@
       "category": "india",
       "language": "en",
       "title_te": "NFL పుకార్లలో మాజీ సెయింట్స్ $10m పాస్ రషర్‌తో లింక్ చేయబడిన చీఫ్‌లు",
-      "summary_te": "ఇటీవలి NFL ట్రేడ్ పుకార్ల ప్రకారం, కాన్సాస్ సిటీ చీఫ్‌లు తమ పాస్ రష్‌ని పెంచుకోవడానికి వెటరన్ ఎడ్జ్ రషర్ కామ్ జోర్డాన్‌పై దృష్టి సారిస్తున్నారు. నిరాశాజనకమైన సీజన్‌ను అనుసరించి, ఉచిత ఏజెన్సీ మరియు ట్రేడ్‌లలో చీఫ్‌ల కార్యకలాపాలు, జోర్డాన్ యొక్క నిరూపితమైన ఉత్పత్తి, 35 ఏళ్ళ వయసులో కూడా అతనిని ఆకర్షణీయమైన లక్ష్యంగా చేసింది. కాన్సాస్ సిటీ జోర్డాన్‌ను స్వాధీనం చేసుకుంటే, అది తన డిఫెన్సివ్ గేమ్‌ను బలోపేతం చేయగలదు మరియు రాబోయే సీజన్‌ను ప్రకాశవంతంగా కలిగి ఉంటుంది.",
+      "summary_te": "ఇటీవలి NFL ట్రేడ్ పుకార్ల ప్రకారం, కాన్సాస్ సిటీ చీఫ్‌లు తమ పాస్ రష్‌ని పెంచుకోవడానికి వెటరన్ ఎడ్జ్ రషర్ కామ్ జోర్డాన్‌పై దృష్టి సారిస్తున్నారు. నిరాశాజనకమైన సీజన్‌ను అనుసరించి, ఉచిత ఏజెన్సీ మరియు ట్రేడ్‌లలో చీఫ్‌ల కార్యకలాపాలు, జోర్డాన్ యొక్క నిరూపితమైన ఉత్పత్తి, 35 ఏళ్ళ వయసులో కూడా అతనిని ఆకర్షణీయమైన లక్ష్యంగా చేసింది. కాన్సాస్ సిటీ జోర్డాన్‌ను స్వాధీనం చేసుకుంటే, అది తన డిఫెన్సివ్ గేమ్‌ను బలోపేతం చేస్తుంది మరియు రాబోయే సీజన్‌ను మరింత మెరుగ్గా కలిగి ఉంటుంది.",
       "translated": true
     },
     {
@@ -1374,34 +1402,6 @@
       "language": "en",
       "title_te": "గురువాయూర్‌లో బీజేపీ అభ్యర్థి ‘హిందూ ఎమ్మెల్యే’ పిలుపుపై ​​ఎదురుదెబ్బ తగిలింది",
       "summary_te": "గురువాయూర్‌ను తిరిగి స్వాధీనం చేసుకోవడానికి \"హిందూ ఎమ్మెల్యే\" కోసం పిలుపునిచ్చినందుకు బిజెపికి చెందిన బి గోపాలకృష్ణన్ ఎదురుదెబ్బలు ఎదుర్కొన్నారు, కేరళ స్టూడెంట్స్ యూనియన్ నుండి ఫిర్యాదు వచ్చింది.",
-      "translated": true
-    },
-    {
-      "id": "6b31212bf2e71f211b584dd1cf8acc7d",
-      "title": "Govt orders WhatsApp to block device IDs used in digital arrest scams: Sources",
-      "summary": "Govt orders WhatsApp to block device IDs used in digital arrest scams: Sources",
-      "url": " https://www.indiatoday.in/india/story/government-whatsapp-block-device-ids-digital-arrest-scam-crackdown-2885218-2026-03-21?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/whatsapp-215726205-16x9_0.jpg?VersionId=OJWcuW6l0XhtdOMPri.TrzuBvDcse6G.",
-      "published_at": "2026-03-21T11:08:49.000Z",
-      "source": "India Today",
-      "category": "india",
-      "language": "en",
-      "title_te": "డిజిటల్ అరెస్ట్ స్కామ్‌లలో ఉపయోగించే డివైజ్ ఐడీలను బ్లాక్ చేయమని వాట్సాప్‌ను ప్రభుత్వం ఆదేశించింది: సోర్సెస్",
-      "summary_te": "డిజిటల్ అరెస్ట్ స్కామ్‌లలో ఉపయోగించే డివైజ్ ఐడీలను బ్లాక్ చేయమని వాట్సాప్‌ను ప్రభుత్వం ఆదేశించింది: సోర్సెస్",
-      "translated": true
-    },
-    {
-      "id": "f19ed24ffc6f0b221357fb21b0214c6c",
-      "title": "UDF women’s representation stays below 10%",
-      "summary": "Congress party's women candidates for Kerala elections remain under 10%, with only 9 out of 92 nominees. UDF's overall representation is similarly low at 8%.",
-      "url": "https://www.hindustantimes.com/india-news/udf-women-s-representation-stays-below-10-101774091183964.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/21/1600x900/logo/Shama-Mohamed_1774091177681.jpg",
-      "published_at": "2026-03-21T11:06:23.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "UDF మహిళా ప్రాతినిధ్యం 10% కంటే తక్కువగా ఉంది",
-      "summary_te": "కేరళ ఎన్నికలకు కాంగ్రెస్ పార్టీ మహిళా అభ్యర్థులు 10% లోపు ఉన్నారు, 92 మంది నామినేట్‌లలో 9 మంది మాత్రమే ఉన్నారు. UDF యొక్క మొత్తం ప్రాతినిధ్యం 8% వద్ద అదే విధంగా తక్కువగా ఉంది.",
       "translated": true
     }
   ]
