@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-22T06:48:51.391Z",
-  "updated_at_IST": "22/3/2026, 12:18:51 pm",
+  "updated_at": "2026-03-22T07:45:09.611Z",
+  "updated_at_IST": "22/3/2026, 1:15:09 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 23,
   "articles": [
     {
       "id": "3a27ea1257acf8478e01a08d49cc2366",
@@ -324,20 +324,6 @@
       "language": "en",
       "title_te": "గుంటుపల్లి రైస్ సెంటర్‌కు నీతి ఆయోగ్ ₹1.55 కోట్ల ఆర్థిక సాయం: కలెక్టర్",
       "summary_te": "ఇబ్రహీంపట్నం బ్లాక్‌లో AI ఆధారిత నైపుణ్యాల సర్వే, నైపుణ్యాభివృద్ధి మరియు శిక్షణా కార్యక్రమాలు మరియు అవసరమైన మౌలిక సదుపాయాల కల్పనతో సహా కార్యక్రమాలను నిర్వహించడానికి నిధులు ఉపయోగించబడతాయి, లక్ష్మీషా చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "32c876baaecea57d4a117b69a03f72d2",
-      "title": "Biogas produced from urban wet waste fuels 400 city buses in Indore",
-      "summary": "The plant, set up in PPP mode, processes 500 tonnes of wet waste daily to produce 21 tonnes of Compressed Bio Gas, with over 95 per cent methane purity",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/biogas-produced-from-urban-wet-waste-fuels-400-city-buses-in-indore/article70769032.ece",
-      "image": "https://th-i.thgim.com/public/incoming/a6uxma/article70769364.ece/alternates/LANDSCAPE_1200/10215_21_3_2026_17_50_17_1_DSC_3370JPG1.JPEG",
-      "published_at": "2026-03-21T13:22:56.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఇండోర్‌లోని 400 సిటీ బస్సులకు అర్బన్ వెట్ వేస్ట్ ఇంధనాల నుండి ఉత్పత్తి చేయబడిన బయోగ్యాస్",
-      "summary_te": "PPP విధానంలో ఏర్పాటు చేయబడిన ఈ ప్లాంట్, 95 శాతం పైగా మీథేన్ స్వచ్ఛతతో 21 టన్నుల కంప్రెస్డ్ బయో గ్యాస్‌ను ఉత్పత్తి చేయడానికి ప్రతిరోజూ 500 టన్నుల తడి వ్యర్థాలను ప్రాసెస్ చేస్తుంది.",
       "translated": true
     }
   ]

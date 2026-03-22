@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T06:48:51.391Z",
-  "updated_at_IST": "22/3/2026, 12:18:51 pm",
+  "updated_at": "2026-03-22T07:45:09.611Z",
+  "updated_at_IST": "22/3/2026, 1:15:09 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0423127c4ae40d8070067dd03a8732c5",
+      "title": "The who's who of injured and unavailable players for IPL 2026",
+      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
+      "published_at": "2026-03-22T07:22:50.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
+      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
+      "translated": true
+    },
     {
       "id": "59b0914d9ebaf230bd4ea78fd88801d1",
       "title": "South Africa ask New Zealand to field as both sides ring in the changes",
@@ -72,20 +86,6 @@
       "language": "en",
       "title_te": "PSL 2026 కోసం కరాచీ కింగ్స్‌లో జాన్సన్ చార్లెస్ స్థానంలో రీజా హెండ్రిక్స్ చేరింది",
       "summary_te": "హెండ్రిక్స్ కింగ్స్‌లో వార్నర్, జంపా, మోయిన్ మరియు వసీమ్‌లతో కూడిన అనుభవజ్ఞుడైన విదేశీ బృందంలో చేరాడు",
-      "translated": true
-    },
-    {
-      "id": "0423127c4ae40d8070067dd03a8732c5",
-      "title": "The who's who of injured and unavailable players for IPL 2026",
-      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
-      "published_at": "2026-03-21T14:15:53.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
-      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
       "translated": true
     },
     {
