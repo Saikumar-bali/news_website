@@ -1,9 +1,121 @@
 {
-  "updated_at": "2026-03-22T22:25:41.867Z",
-  "updated_at_IST": "23/3/2026, 3:55:41 am",
+  "updated_at": "2026-03-22T23:28:36.336Z",
+  "updated_at_IST": "23/3/2026, 4:58:36 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "e428d1fbfdae627fc7de21f3ed77a37d",
+      "title": "CAFE 3.0 rollout: Penalty recovery for carmakers remains a grey area",
+      "summary": "Government seeks clarity on recovering hefty penalties from carmakers for missing fuel efficiency targets. With stricter norms ahead, the PMO is pushing ministries to define who evaluates, approves, and recovers the dues. Over Rs 8,800 crore in penalties have been levied for past non-compliance, yet no recovery has occurred.",
+      "url": "https://timesofindia.indiatimes.com/india/cafe-3-0-rollout-penalty-recovery-for-carmakers-remains-a-grey-area/articleshow/129740600.cms",
+      "image": "https://static.toiimg.com/photo/msid-129740603,imgsize-1115523.cms",
+      "published_at": "2026-03-22T22:58:11.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "CAFE 3.0 రోల్‌అవుట్: కార్ల తయారీదారులకు పెనాల్టీ రికవరీ గ్రే ఏరియాగా మిగిలిపోయింది",
+      "summary_te": "Government seeks clarity on recovering hefty penalties from carmakers for missing fuel efficiency targets. కఠినమైన నిబంధనలతో, బకాయిలను ఎవరు మూల్యాంకనం చేస్తారు, ఆమోదించారు మరియు రికవరీ చేస్తారో నిర్వచించడానికి PMO మంత్రిత్వ శాఖలను ఒత్తిడి చేస్తోంది. గతంలో పాటించని కారణంగా రూ.8,800 కోట్లకు పైగా పెనాల్టీలు విధించారు, అయినప్పటికీ రికవరీ జరగలేదు.",
+      "translated": true
+    },
+    {
+      "id": "ebe262c8ddd582f4a52a081be49ad951",
+      "title": "Kilometrage allowance hiked by 25% for train crew",
+      "summary": "Indian Railways has boosted Kilometrage Allowance and Allowance in lieu of Kilometrage by 25% for over two lakh running staff, effective January 2024. This decision aligns compensation with the 50% Dearness Allowance hike, addressing long-standing demands for better financial benefits for essential operational personnel.",
+      "url": "https://timesofindia.indiatimes.com/india/kilometrage-allowance-hiked-by-25-for-train-crew/articleshow/129740589.cms",
+      "image": "https://static.toiimg.com/photo/msid-129740596,imgsize-949570.cms",
+      "published_at": "2026-03-22T22:51:32.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "రైలు సిబ్బందికి కిలోమీటరేజీ భత్యం 25% పెరిగింది",
+      "summary_te": "2024 జనవరి నుంచి అమలులోకి వచ్చే రెండు లక్షల మంది సిబ్బందికి కిలోమీట్రేజీకి బదులుగా కిలోమీట్రేజీ అలవెన్స్ మరియు అలవెన్స్‌ను భారతీయ రైల్వే 25% పెంచింది. ఈ నిర్ణయం అవసరమైన కార్యాచరణ సిబ్బందికి మెరుగైన ఆర్థిక ప్రయోజనాల కోసం దీర్ఘకాలంగా ఉన్న డిమాండ్లను పరిష్కరిస్తూ 50% డియర్‌నెస్ అలవెన్స్ పెంపుతో పరిహారాన్ని సమం చేస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "a79c4651587d3a461e8241feadc83770",
+      "title": "Maoist endgame nears, but no political fanfare in offing",
+      "summary": "The March 31 deadline for eliminating Left-wing extremism may pass without fanfare, having successfully created a psychological impetus for stakeholders. This pressure led to the neutralization or surrender of most CPI(Maoist) leadership, fracturing the group and pushing remaining members towards surrender.",
+      "url": "https://timesofindia.indiatimes.com/india/maoist-endgame-nears-but-no-political-fanfare-in-offing/articleshow/129740567.cms",
+      "image": "https://static.toiimg.com/photo/msid-129740572,imgsize-63428.cms",
+      "published_at": "2026-03-22T22:41:58.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మావోయిస్ట్ ముగింపు సమీపించింది, కానీ రాజకీయ కోలాహలం లేదు",
+      "summary_te": "వామపక్ష తీవ్రవాదాన్ని నిర్మూలించడానికి మార్చి 31 గడువు ఆర్భాటాలు లేకుండా గడిచిపోవచ్చు, తద్వారా వాటాదారులకు మానసిక ప్రేరణను విజయవంతంగా సృష్టించింది. This pressure led to the neutralization or surrender of most CPI(Maoist) leadership, fracturing the group and pushing remaining members towards surrender.",
+      "translated": true
+    },
+    {
+      "id": "2b6e2d9909029a32766d436184fdf2f9",
+      "title": "AI can never perform core job of judgment writing: SC judge",
+      "summary": "Supreme Court's Justice Vikram Nath asserted AI can aid judicial processes but won't replace judges' core judgment-writing role. He highlighted AI's limitations in complex cases like matrimonial disputes and constitutional matters. Other judges echoed concerns about AI's potential for bias and the need for human conscience in justice delivery, emphasizing its role as a facilitator, not a substitute.",
+      "url": "https://timesofindia.indiatimes.com/india/ai-can-never-perform-core-job-of-judgment-writing-sc-judge/articleshow/129740550.cms",
+      "image": "https://static.toiimg.com/photo/msid-129740563,imgsize-660625.cms",
+      "published_at": "2026-03-22T22:37:58.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "తీర్పు రాయడంలో AI ఎప్పుడూ ప్రధాన పనిని నిర్వహించదు: SC న్యాయమూర్తి",
+      "summary_te": "సుప్రీంకోర్టు న్యాయమూర్తి విక్రమ్ నాథ్ AI న్యాయ ప్రక్రియలకు సహాయం చేయగలదని, అయితే న్యాయమూర్తుల ప్రధాన తీర్పు-వ్రాత పాత్రను భర్తీ చేయదని నొక్కి చెప్పారు. వైవాహిక వివాదాలు మరియు రాజ్యాంగపరమైన విషయాల వంటి సంక్లిష్ట సందర్భాలలో AI యొక్క పరిమితులను అతను హైలైట్ చేశాడు. ఇతర న్యాయమూర్తులు AI యొక్క పక్షపాతం మరియు న్యాయం అందించడంలో మానవ మనస్సాక్షి యొక్క ఆవశ్యకత గురించి ఆందోళనలను ప్రతిధ్వనించారు, ప్రత్యామ్నాయంగా కాకుండా సులభతరం చేసే పాత్రగా దాని పాత్రను నొక్కి చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "156ea99891afaec28a69cc4018685275",
+      "title": "Few women get past collegium's subjective assessment: SC judge",
+      "summary": "Supreme Court Justice Ujjal Bhuyan highlighted a stark gender disparity in higher judicial appointments, noting women excel in lower judicial services but are underrepresented in High Courts and the Supreme Court due to subjective collegium criteria. He stressed the need for greater gender parity for India to achieve developed nation status by 2047.",
+      "url": "https://timesofindia.indiatimes.com/india/few-women-get-past-collegiums-subjective-assessment-sc-judge/articleshow/129740461.cms",
+      "image": "https://static.toiimg.com/photo/msid-129740499,imgsize-1304329.cms",
+      "published_at": "2026-03-22T22:33:46.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "కొలీజియం యొక్క సబ్జెక్టివ్ అసెస్‌మెంట్‌ను కొంతమంది మహిళలు పొందారు: SC న్యాయమూర్తి",
+      "summary_te": "Supreme Court Justice Ujjal Bhuyan highlighted a stark gender disparity in higher judicial appointments, noting women excel in lower judicial services but are underrepresented in High Courts and the Supreme Court due to subjective collegium criteria. 2047 నాటికి అభివృద్ధి చెందిన దేశ హోదాను సాధించడానికి భారతదేశానికి లింగ సమానత్వం అవసరమని ఆయన నొక్కి చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "df583b4344ea1730c9995b9237becf13",
+      "title": "Cloudy skies to prevail in Delhi; IMD issues yellow alert in Himachal after landslide",
+      "summary": "Delhi weather is expected to remain generally cloudy on Monday with maximum and minimum temperatures expected to hover around 30 degrees Celsius.",
+      "url": "https://www.hindustantimes.com/india-news/cloudy-skies-to-prevail-in-delhi-imd-issues-yellow-alert-in-himachal-after-landslide-101774208114799.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/22/1600x900/logo/Visitors-caught-in-the-rain-at-the-Sector-17-Plaza_1774211415073_1774211429887.jpg",
+      "published_at": "2026-03-22T22:33:38.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఢిల్లీలో మేఘావృతమైన ఆకాశం; హిమాచల్‌లో కొండచరియలు విరిగిపడటంతో IMD ఎల్లో అలర్ట్ ప్రకటించింది",
+      "summary_te": "ఢిల్లీ వాతావరణం సోమవారం సాధారణంగా మేఘావృతమై ఉంటుందని, గరిష్ట మరియు కనిష్ట ఉష్ణోగ్రతలు 30 డిగ్రీల సెల్సియస్‌గా నమోదయ్యే అవకాశం ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "2846c3cb6e7a2b073f0df8e698239e89",
+      "title": "UAPA misuse not a model for Viksit Bharat: SC judge",
+      "summary": "SC judge Ujjal Bhuyan emphasized that a developed India by 2047 requires greater tolerance for debate and dissent, without criminalizing them. He highlighted that thousands arrested under the UAPA with minuscule convictions indicate overuse or misuse of the law, hindering justice delivery and the ideal of a developed nation.",
+      "url": "https://timesofindia.indiatimes.com/india/uapa-misuse-not-a-model-for-viksit-bharat-sc-judge/articleshow/129739695.cms",
+      "image": "https://static.toiimg.com/photo/msid-129739945,imgsize-745580.cms",
+      "published_at": "2026-03-22T22:16:24.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "యుఎపిఎ దుర్వినియోగం విక్షిత్ భారత్ మోడల్ కాదు: SC న్యాయమూర్తి",
+      "summary_te": "2047 నాటికి అభివృద్ధి చెందిన భారతదేశానికి చర్చలు మరియు భిన్నాభిప్రాయాలను నేరంగా పరిగణించకుండా ఎక్కువ సహనం అవసరమని ఎస్సీ న్యాయమూర్తి ఉజ్జల్ భుయాన్ ఉద్ఘాటించారు. He highlighted that thousands arrested under the UAPA with minuscule convictions indicate overuse or misuse of the law, hindering justice delivery and the ideal of a developed nation.",
+      "translated": true
+    },
+    {
+      "id": "984f6501e3bb1e11fdff5a8bbac10c56",
+      "title": "PM Modi is India's longest serving head of govt",
+      "summary": "Prime Minister Narendra Modi has become the longest-serving head of government, surpassing the record previously held by Pawan Kumar Chamling. This milestone marks 25 continuous years in leadership, beginning with his tenure as Gujarat Chief Minister in October 2001 and continuing as Prime Minister since May 2014.",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-is-indias-longest-serving-head-of-govt/articleshow/129739205.cms",
+      "image": "https://static.toiimg.com/photo/msid-129739401,imgsize-56060.cms",
+      "published_at": "2026-03-22T22:09:37.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రధాని మోదీ భారతదేశంలో ఎక్కువ కాలం పనిచేసిన ప్రభుత్వాధినేత",
+      "summary_te": "గతంలో పవన్ కుమార్ చామ్లింగ్ పేరిట ఉన్న రికార్డును అధిగమించి అత్యధిక కాలం ప్రభుత్వాధినేతగా ప్రధాని నరేంద్ర మోదీ నిలిచారు. అక్టోబరు 2001లో గుజరాత్ ముఖ్యమంత్రిగా ఆయన పదవీకాలం ప్రారంభించి, మే 2014 నుంచి ప్రధానమంత్రిగా కొనసాగుతున్న 25 ఏళ్ల నిరంతర నాయకత్వం ఈ మైలురాయిని సూచిస్తుంది.",
+      "translated": true
+    },
     {
       "id": "4daa8569affaf7c3d6fcb8162b394477",
       "title": "Govt pushes for PNG connections, asks all ministries to assess demand",
@@ -229,6 +341,20 @@
       "translated": true
     },
     {
+      "id": "e45e4fe98c5e6c7aa5a96e81ea817f25",
+      "title": "Kashmiris collect donations for war-hit Iran; Iranian Embassy says 'will never forget kindness'",
+      "summary": "The donations have been collected, especially in Budgam and Baramulla, with a considerable population of Shias.",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiris-collect-donations-for-war-hit-iran-iranian-embassy-says-will-never-forget-kindness/article70773364.ece",
+      "image": "https://th-i.thgim.com/public/incoming/1elmp9/article70773369.ece/alternates/LANDSCAPE_1200/20260322277L.jpg",
+      "published_at": "2026-03-22T19:12:37.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "కాశ్మీరీలు యుద్ధంలో దెబ్బతిన్న ఇరాన్ కోసం విరాళాలు సేకరిస్తారు; 'దయను ఎప్పటికీ మరచిపోలేను' అని ఇరాన్ రాయబార కార్యాలయం",
+      "summary_te": "విరాళాలు సేకరించబడ్డాయి, ముఖ్యంగా బుద్గాం మరియు బారాముల్లాలో గణనీయమైన జనాభా షియాలు ఉన్నాయి.",
+      "translated": true
+    },
+    {
       "id": "8b5dd8f6879115cf5081c6897b8394da",
       "title": "Karnataka bypolls: Fear of rebellion looms large over Congress in Davangere",
       "summary": "Though KPCC president and Deputy Chief Minister D.K. Shivakumar claimed in Bengaluru that candidates’ selection for the Assembly bypoll was based on consensus and the decision was unanimous, a Congress leader and disappointed ticket aspirant for Davangere South constituency Mohammad Sadiq Pehelwan announced in Davangere that he would challenge Congress candidate Samarth as a rebel candidate",
@@ -268,6 +394,20 @@
       "language": "en",
       "title_te": "తూర్పు బెంగళూరులో మినీ ట్రక్కు నిశ్చల వాహనాన్ని ఢీకొనడంతో ముగ్గురు మృతి చెందారు",
       "summary_te": "శనివారం రాత్రి తూర్పు బెంగళూరులోని మేడహళ్లి సమీపంలో నిశ్చలంగా ఉన్న ట్రక్కును వారి మినీ ట్రక్కు ఢీకొనడంతో ముగ్గురు వ్యక్తులు రోడ్డు ప్రమాదంలో మరణించారని పోలీసులు తెలిపారు. మృతులను తూర్పు బెంగళూరుకు చెందిన సురేష్, మణికంఠ మరియు శ్రీనివాస్‌గా గుర్తించారు. ప్రాథమిక విచారణ ప్రకారం, సంఘటన జరిగినప్పుడు ముగ్గురు హోస్కోట్ నుండి నగరానికి వస్తున్నారు. అయితే, వారు ఎక్కడి నుంచి వస్తున్నారనే విషయాన్ని పోలీసులు ఇంకా నిర్ధారించలేదు.",
+      "translated": true
+    },
+    {
+      "id": "918f0cfff54596d7f6deb1d2be2bd53f",
+      "title": "BJD ready for legal battle to ensure 6 suspended MLAs' disqualification from Odisha Assembly",
+      "summary": "The suspended legislators are Chakramani Kanhar, Naba Kishor Mallick, Souvic Biswal, Subasini Jena, Ramakanta Bhoi and Devi Ranjan Tripathy",
+      "url": "https://www.thehindu.com/news/national/odisha/bjd-ready-for-legal-battle-to-ensure-6-suspended-mlas-disqualification-from-odisha-assembly/article70773363.ece",
+      "image": null,
+      "published_at": "2026-03-22T19:02:32.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఒడిశా అసెంబ్లీకి సస్పెండ్ అయిన ఆరుగురు ఎమ్మెల్యేలపై అనర్హత వేటు వేయాలని న్యాయ పోరాటానికి బీజేడీ సిద్ధమైంది",
+      "summary_te": "సస్పెండ్ అయిన శాసనసభ్యులు చక్రమణి కన్హర్, నబా కిషోర్ మల్లిక్, సౌవిక్ బిస్వాల్, సుబాసిని జెనా, రమాకాంత భోయ్ మరియు దేవి రంజన్ త్రిపాఠి",
       "translated": true
     },
     {
@@ -537,34 +677,6 @@
       "translated": true
     },
     {
-      "id": "9dc528d0a98cfb6a34cd173d12552b32",
-      "title": "Battle for Bhabanipur: Mamata begins campaign with workers’ meet",
-      "summary": "In the 2026 Assembly polls, the contest has become interesting because BJP leader Suvendu Adhikari is contesting against the Chief Minister. The Assembly has seen about 47,000 electors deleted during SIR and fate of 14,000 others hanging under judicial adjudication",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/battle-for-bhabanipur-mamata-begins-campaign-with-workers-meet/article70773008.ece",
-      "image": "https://th-i.thgim.com/public/incoming/tg3s1y/article70773323.ece/alternates/LANDSCAPE_1200/PTI03_22_2026_000287A.jpg",
-      "published_at": "2026-03-22T18:02:38.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "భబానీపూర్ కోసం యుద్ధం: కార్యకర్తల సమావేశంతో మమత ప్రచారాన్ని ప్రారంభించారు",
-      "summary_te": "2026 అసెంబ్లీ ఎన్నికల్లో ముఖ్యమంత్రిపై బీజేపీ నేత సువేందు అధికారి పోటీ చేయడంతో పోటీ ఆసక్తికరంగా మారింది. SIR సమయంలో దాదాపు 47,000 మంది ఓటర్లు తొలగించబడ్డారు మరియు 14,000 మంది ఇతరుల విధి న్యాయపరమైన తీర్పు కింద ఉరితీయడాన్ని అసెంబ్లీ చూసింది.",
-      "translated": true
-    },
-    {
-      "id": "4280afcd8560912c8c5bb4c531dada64",
-      "title": "Welfare of handloom artisans priority for government, says Minister",
-      "summary": "Savitha says government is implementing several schemes to strengthen the handloom sector; subsidies on raw materials, net funds, and training in modern designs being provided and up to 90% subsidy is being offered on purchase of equipment to enhance productivity",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/welfare-of-handloom-artisans-priority-for-government-says-minister/article70773072.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wxnzjn/article70773322.ece/alternates/LANDSCAPE_1200/DSC_2317.JPG.jpeg",
-      "published_at": "2026-03-22T18:02:35.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "చేనేత కళాకారుల సంక్షేమానికి ప్రభుత్వం ప్రాధాన్యత ఇస్తున్నట్లు మంత్రి తెలిపారు",
-      "summary_te": "చేనేత రంగాన్ని బలోపేతం చేసేందుకు ప్రభుత్వం అనేక పథకాలు అమలు చేస్తోందని సవిత చెప్పారు. ముడిసరుకుపై రాయితీలు, నికర నిధులు, మరియు ఆధునిక డిజైన్లలో శిక్షణ అందించబడుతున్నాయి మరియు ఉత్పాదకతను పెంచడానికి పరికరాల కొనుగోలుపై 90% వరకు రాయితీ అందించబడుతోంది.",
-      "translated": true
-    },
-    {
       "id": "5db91026998f76f8ca4b229f2e03cabe",
       "title": "Citizens Must Be Safeguarded From Iran War Effect: PM Modi At Key Meet",
       "summary": "Defence Minister Rajnath Singh, Home Minister Amit Shah, Finance Minister Nirmala Sitharaman and External Affairs Minister S Jaishankar are members of the CCS, which is headed by PM Modi.",
@@ -691,20 +803,6 @@
       "translated": true
     },
     {
-      "id": "82eb6ac747ec736f40e0d5e031d2c0e6",
-      "title": "The 50 Winner: Shiv Thakare lifts the trophy; takes home Rs 50 lakh for a lucky fan",
-      "summary": "Shiv Thakare has clinched the inaugural season of 'The 50', triumphing over formidable competitors like Mr Faisu and Rajat Dalal. His victory, marked by a Rs 50 lakh prize for a fan, underscores his enduring popularity.",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/the-50-winner-shiv-thakare-lifts-the-trophy-takes-home-rs-50-lakh-for-a-lucky-fan/articleshow/129735962.cms",
-      "image": "https://static.toiimg.com/photo/msid-129736303,imgsize-32248.cms",
-      "published_at": "2026-03-22T17:00:01.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "50 విజేత: శివ్ థాకరే ట్రోఫీని ఎత్తాడు; ఒక అదృష్ట అభిమాని కోసం రూ. 50 లక్షలు ఇంటికి తీసుకువెళతాడు",
-      "summary_te": "శివ్ థాకరే 'ది 50' ప్రారంభ సీజన్‌ను కైవసం చేసుకున్నారు, మిస్టర్ ఫైసు మరియు రజత్ దలాల్ వంటి బలీయమైన పోటీదారులపై విజయం సాధించారు. ఒక అభిమానికి రూ. 50 లక్షల బహుమతిని అందించిన అతని విజయం, అతని శాశ్వత ప్రజాదరణను నొక్కి చెబుతుంది.",
-      "translated": true
-    },
-    {
       "id": "1d0e7543879e87550332364f550c034e",
       "title": "UP man, father of 18, murdered by girlfriend; body found in sack",
       "summary": "UP man, father of 18, murdered by girlfriend; body found in sack",
@@ -800,20 +898,6 @@
       "language": "en",
       "title_te": "మార్చి 28న నోయిడా ఎయిర్‌పోర్ట్‌ను ప్రధాని మోదీ ప్రారంభోత్సవానికి సన్నాహాలను సమీక్షించిన యూపీ సీఎం",
       "summary_te": "మార్చి 28న నోయిడా ఎయిర్‌పోర్ట్‌ను ప్రధాని మోదీ ప్రారంభోత్సవానికి సన్నాహాలను సమీక్షించిన యూపీ సీఎం",
-      "translated": true
-    },
-    {
-      "id": "530d71095e2db6273c683c9a697fae7c",
-      "title": "Dhurandhar 2 actor Mustafa Ahmed, once a Rs 10,000 gym trainer",
-      "summary": "Mustafa Ahmed, once a struggling gym trainer earning Rs 10,000 monthly, defied dyslexia and societal expectations to become a sought-after fitness expert. His journey, marked by a pivotal moment with a client, led him to train Bollywood stars like Hrithik Roshan and eventually to an acting role in 'Dhurandhar 2', proving that passion and perseverance can overcome any obstacle.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-actor-mustafa-ahmed-who-played-hamzas-aide-rizwan-started-his-journey-with-rs-10000-a-month-as-a-gym-trainer/articleshow/129735121.cms",
-      "image": "https://static.toiimg.com/photo/msid-129735178,imgsize-30086.cms",
-      "published_at": "2026-03-22T15:56:22.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ధురంధర్ 2 నటుడు ముస్తఫా అహ్మద్, ఒకప్పుడు రూ. 10,000 జిమ్ ట్రైనర్",
-      "summary_te": "ముస్తఫా అహ్మద్, ఒకప్పుడు జిమ్ ట్రైనర్‌గా నెలవారీ రూ. 10,000 సంపాదిస్తూ కష్టపడుతున్నాడు, ఫిట్‌నెస్ నిపుణుడు కావాలనే డైస్లెక్సియా మరియు సామాజిక అంచనాలను ధిక్కరించాడు. అతని ప్రయాణం, క్లయింట్‌తో కీలకమైన క్షణం ద్వారా గుర్తించబడింది, అతను హృతిక్ రోషన్ వంటి బాలీవుడ్ స్టార్‌లకు శిక్షణ ఇచ్చాడు మరియు చివరికి 'ధురంధర్ 2'లో నటనా పాత్రలో నటించాడు, అభిరుచి మరియు పట్టుదల ఏదైనా అడ్డంకిని అధిగమించగలవని నిరూపించింది.",
       "translated": true
     },
     {
@@ -915,20 +999,6 @@
       "translated": true
     },
     {
-      "id": "5f9b51388ed03015a9409648a5debfe5",
-      "title": "Will Trump's 48-hour ultimatum to Iran leave him red-faced again?",
-      "summary": "As a 48-hour deadline looms, Iran has retaliated against President Trump's threat to \"obliterate\" its power plants. Tehran warns that energy facilities in countries hosting US bases are now \"lawful targets.\" The escalating conflict, now in its fourth week, has already seen cross-border attacks and rising casualties, with oil prices surging.",
-      "url": "https://timesofindia.indiatimes.com/world/us/will-trumps-48-hour-ultimatum-to-iran-leave-him-red-faced-again/articleshow/129734531.cms",
-      "image": "https://static.toiimg.com/photo/msid-129734596,imgsize-649501.cms",
-      "published_at": "2026-03-22T14:54:27.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్‌కు ట్రంప్ 48 గంటల అల్టిమేటం అతన్ని మళ్లీ ఎర్రగా మారుస్తుందా?",
-      "summary_te": "48 గంటల గడువు ముగుస్తున్నందున, ఇరాన్ తన పవర్ ప్లాంట్లను \"తొలగించు\" చేస్తానని అధ్యక్షుడు ట్రంప్ బెదిరింపుపై ప్రతీకారం తీర్చుకుంది. యుఎస్ స్థావరాలను కలిగి ఉన్న దేశాలలో ఇంధన సౌకర్యాలు ఇప్పుడు \"చట్టబద్ధమైన లక్ష్యాలు\" అని టెహ్రాన్ హెచ్చరించింది. ఇప్పుడు నాల్గవ వారంలో పెరుగుతున్న సంఘర్షణ, చమురు ధరలు పెరగడంతో ఇప్పటికే సరిహద్దు దాడులు మరియు పెరుగుతున్న ప్రాణనష్టాన్ని చూసింది.",
-      "translated": true
-    },
-    {
       "id": "d2ee41ca8717b68758fdd2119f9b1137",
       "title": "TMC names 23 candidates in Assam; Raijor Dal drops 3 after alliance",
       "summary": "TMC releases consolidated list of 23 candidates, Raijor Dal revises nominees after seat-sharing deal ahead of Assam Assembly elections on April 9.",
@@ -996,20 +1066,6 @@
       "language": "en",
       "title_te": "శశికళ-రామదాస్ కూటమి తమిళనాడు ఎన్నికల్లో ఎన్డీయేపై భారీ నష్టాన్ని చవిచూడవచ్చు.",
       "summary_te": "ఓట్లను చీల్చేందుకు, అన్నాడీఎంకే నేతృత్వంలోని ఎన్డీయేకు నష్టం కలిగించేందుకు ఉద్దేశించిన శక్తిగా కూటమి తనను తాను నిలబెట్టుకుంటుంది.",
-      "translated": true
-    },
-    {
-      "id": "e0faef50ef7ec563dfdac5aa9beb4e0f",
-      "title": "Iran's missile map decoded: Who falls within its expanding strike range",
-      "summary": "Iran's extensive missile program, ranging from short-range tactical systems to long-range weapons covering much of the Middle East, serves as a core element of its deterrence and retaliation strategy. With capabilities reaching up to 2,500km, Tehran can target regional adversaries and US bases, projecting power and ensuring a retaliatory capacity.",
-      "url": "https://timesofindia.indiatimes.com/defence/international/irans-missile-map-decoded-who-falls-within-its-expanding-strike-range/articleshow/129733555.cms",
-      "image": "https://static.toiimg.com/photo/msid-129733815,imgsize-2502069.cms",
-      "published_at": "2026-03-22T13:50:40.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్ క్షిపణి మ్యాప్ డీకోడ్ చేయబడింది: దాని విస్తరిస్తున్న స్ట్రైక్ పరిధిలో ఎవరు వస్తారు",
-      "summary_te": "ఇరాన్ యొక్క విస్తృతమైన క్షిపణి కార్యక్రమం, స్వల్ప-శ్రేణి వ్యూహాత్మక వ్యవస్థల నుండి మధ్యప్రాచ్యంలోని చాలా ప్రాంతాలను కవర్ చేసే సుదూర ఆయుధాల వరకు, దాని నిరోధం మరియు ప్రతీకార వ్యూహంలో ప్రధాన అంశంగా పనిచేస్తుంది. 2,500కి.మీ వరకు సామర్థ్యాలతో, టెహ్రాన్ ప్రాంతీయ విరోధులను మరియు US స్థావరాలను లక్ష్యంగా చేసుకోవచ్చు, శక్తిని అంచనా వేయగలదు మరియు ప్రతీకార సామర్థ్యాన్ని నిర్ధారిస్తుంది.",
       "translated": true
     },
     {
@@ -1307,20 +1363,6 @@
       "translated": true
     },
     {
-      "id": "fb4365a336377ca26e3587943462f484",
-      "title": "IPL 2026: Ishan Kishan gets animated send-off as things heat up in SRH camp",
-      "summary": "Sunrisers Hyderabad's stand-in captain Ishan Kishan was playfully sent off by teammate Zeeshan Ansari during a practice game. Kishan, who is leading SRH in Pat Cummins' absence due to injury, responded sportingly to the leg-spinner's animated gesture. This incident occurs as Kishan takes on leadership duties following his stellar T20 World Cup performance.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-ishan-kishan-gets-animated-send-off-as-things-heat-up-in-srh-camp/articleshow/129731937.cms",
-      "image": "https://static.toiimg.com/photo/msid-129731929,imgsize-671015.cms",
-      "published_at": "2026-03-22T10:48:50.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "IPL 2026: SRH క్యాంప్‌లో విషయాలు వేడెక్కడంతో ఇషాన్ కిషన్ యానిమేషన్ పంపబడ్డాడు",
-      "summary_te": "సన్‌రైజర్స్ హైదరాబాద్ స్టాండ్-ఇన్ కెప్టెన్ ఇషాన్ కిషన్‌ను ప్రాక్టీస్ గేమ్‌లో సహచరుడు జీషన్ అన్సారీ సరదాగా పంపాడు. గాయం కారణంగా పాట్ కమిన్స్ గైర్హాజరీలో SRHకి నాయకత్వం వహిస్తున్న కిషన్, లెగ్-స్పిన్నర్ యానిమేషన్ సంజ్ఞకు క్రీడాాత్మకంగా స్పందించాడు. కిషన్ తన అద్భుతమైన T20 ప్రపంచ కప్ ప్రదర్శన తర్వాత నాయకత్వ బాధ్యతలు స్వీకరించినప్పుడు ఈ సంఘటన జరిగింది.",
-      "translated": true
-    },
-    {
       "id": "a9a51ead6d034c21df4d82de990f8544",
       "title": "1 killed, 17 injured as ropeway collapses at Chhattisgarh temple during Navratri rush",
       "summary": "1 killed, 17 injured as ropeway collapses at Chhattisgarh temple during Navratri rush",
@@ -1360,48 +1402,6 @@
       "language": "en",
       "title_te": "బెదిరించారు, తుపాకీతో పట్టుకున్నారు: PWC అధికారి ఆత్మహత్య కేసులో పంజాబ్ మంత్రిపై షాకింగ్ వాదనలు వెలువడ్డాయి",
       "summary_te": "గిడ్డంగి టెండర్‌ను ఉపసంహరించుకోవాలని మంత్రి భుల్లార్ నిరంతరం ఒత్తిడి చేయడంతో మార్చి 21 తెల్లవారుజామున రంధవా ఆత్మహత్య చేసుకున్నాడని అతని భార్య పేర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "4a7e80f5e48bef1ce4fcb9fc30e3bfab",
-      "title": "As INDIA bloc blocks Congress in states, why grand old party should quit alliance",
-      "summary": "The INDIA bloc faces internal strife post-Rajya Sabha elections, with allies like SP, CPM, and CPI(ML) criticising Congress. Cross-voting and state-level rivalries, particularly in Maharashtra, Delhi, West Bengal, Tamil Nadu, and Kerala, have frayed the alliance. Regional parties question Congress's leadership, suggesting a need for independent rebuilding before any grand coalition.",
-      "url": "https://timesofindia.indiatimes.com/india/allies-in-delhi-rivals-in-states-why-congress-should-quit-india-bloc-fight-regional-parties-assembly-elections-20206/articleshow/129731064.cms",
-      "image": "https://static.toiimg.com/photo/msid-129731195,imgsize-136634.cms",
-      "published_at": "2026-03-22T09:40:32.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "రాష్ట్రాలలో కాంగ్రెస్‌ను భారత కూటమి అడ్డుకున్నందున, మహా పాత పార్టీ పొత్తును ఎందుకు వదులుకోవాలి",
-      "summary_te": "SP, CPM, మరియు CPI(ML) వంటి మిత్రపక్షాలు కాంగ్రెస్‌ను విమర్శించడంతో, రాజ్యసభ ఎన్నికల తర్వాత భారత కూటమి అంతర్గత కలహాలను ఎదుర్కొంటోంది. ముఖ్యంగా మహారాష్ట్ర, ఢిల్లీ, పశ్చిమ బెంగాల్, తమిళనాడు మరియు కేరళలో క్రాస్ ఓటింగ్ మరియు రాష్ట్ర స్థాయి పోటీలు కూటమికి విఘాతం కలిగించాయి. ప్రాంతీయ పార్టీలు కాంగ్రెస్ నాయకత్వాన్ని ప్రశ్నిస్తున్నాయి, ఏదైనా మహాకూటమికి ముందు స్వతంత్ర పునర్నిర్మాణం అవసరమని సూచిస్తున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "1e18b9bfb470af4bb89c5353a3c32624",
-      "title": "Manipur: ‘Ice-breaking’ meet marks first Manipur peace outreach in 3 years",
-      "summary": "The meeting was held in Guwahati on Saturday and marked the first engagement between the two sides since violence broke out on May 3, 2023.",
-      "url": "https://www.hindustantimes.com/india-news/manipur-ice-breaking-meet-marks-first-manipur-peace-outreach-in-3-years-101774171192305.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/22/1600x900/logo/Manipur-CM-Yumnam-Khemchand-Singh--right--briefs-t_1774171186035.jpeg",
-      "published_at": "2026-03-22T09:19:51.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "మణిపూర్: 'ఐస్ బ్రేకింగ్' మీట్ 3 సంవత్సరాలలో మణిపూర్ శాంతి విస్తరణకు గుర్తుగా ఉంది",
-      "summary_te": "ఈ సమావేశం శనివారం గౌహతిలో జరిగింది మరియు మే 3, 2023న హింస చెలరేగిన తర్వాత ఇరుపక్షాల మధ్య మొదటి నిశ్చితార్థం జరిగింది.",
-      "translated": true
-    },
-    {
-      "id": "e0e3d5f9a17b91100be64ff52be5c8b6",
-      "title": "‘Some people only want to do politics’: Fadnavis slams Opposition amid row over ‘godman’ Ashok Kharat's arrest",
-      "summary": "Ashok Kharat, a self-styled godman and numerologist, was arrested by Nashik police for allegedly raping a woman who had approached him for astrological advice.",
-      "url": "https://www.hindustantimes.com/india-news/some-people-only-want-to-do-politics-fadnavis-slams-opposition-amid-row-over-godman-ashok-kharat-arrest-rape-charge-101774169132306.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/22/1600x900/logo/ANI-20250607194-0_1749365887728_1774169732363.jpg",
-      "published_at": "2026-03-22T09:07:55.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "‘కొంతమంది రాజకీయాలు చేయాలనుకుంటున్నారు’: ‘గాడ్‌మాన్’ అశోక్ ఖరత్ అరెస్టుపై గొడవల మధ్య ఫడ్నవీస్ ప్రతిపక్షాలను నిందించారు",
-      "summary_te": "జ్యోతిష్య సలహా కోసం తనను సంప్రదించిన మహిళపై అత్యాచారం చేశాడనే ఆరోపణలపై అశోక్ ఖరత్ అనే స్వయం ప్రఖ్యాత దేవత మరియు సంఖ్యాశాస్త్రవేత్తను నాసిక్ పోలీసులు అరెస్టు చేశారు.",
       "translated": true
     }
   ]

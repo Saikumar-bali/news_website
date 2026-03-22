@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T22:25:41.867Z",
-  "updated_at_IST": "23/3/2026, 3:55:41 am",
+  "updated_at": "2026-03-22T23:28:36.336Z",
+  "updated_at_IST": "23/3/2026, 4:58:36 am",
   "category": "andhra",
-  "count": 21,
+  "count": 22,
   "articles": [
+    {
+      "id": "4280afcd8560912c8c5bb4c531dada64",
+      "title": "Welfare of handloom artisans priority for government, says Minister",
+      "summary": "Savitha says government is implementing several schemes to strengthen the handloom sector; subsidies on raw materials, net funds, and training in modern designs being provided and up to 90% subsidy is being offered on purchase of equipment to enhance productivity",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/welfare-of-handloom-artisans-priority-for-government-says-minister/article70773072.ece",
+      "image": "https://th-i.thgim.com/public/incoming/wxnzjn/article70773322.ece/alternates/LANDSCAPE_1200/DSC_2317.JPG.jpeg",
+      "published_at": "2026-03-22T18:02:35.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "చేనేత కళాకారుల సంక్షేమానికి ప్రభుత్వం ప్రాధాన్యత ఇస్తున్నట్లు మంత్రి తెలిపారు",
+      "summary_te": "చేనేత రంగాన్ని బలోపేతం చేసేందుకు ప్రభుత్వం అనేక పథకాలు అమలు చేస్తోందని సవిత చెప్పారు. ముడిసరుకుపై రాయితీలు, నికర నిధులు, మరియు ఆధునిక డిజైన్లలో శిక్షణ అందించబడుతున్నాయి మరియు ఉత్పాదకతను పెంచడానికి పరికరాల కొనుగోలుపై 90% వరకు రాయితీ అందించబడుతోంది.",
+      "translated": true
+    },
     {
       "id": "a0169c18613ae52eafd7a4a6a2d85a23",
       "title": "School of Planning and Architecture to host cultural fest from March 23",
