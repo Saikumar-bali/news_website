@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T19:29:28.831Z",
-  "updated_at_IST": "23/3/2026, 12:59:28 am",
+  "updated_at": "2026-03-22T20:25:14.069Z",
+  "updated_at_IST": "23/3/2026, 1:55:14 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "f2cf175c4d781e7da638c69cd5ae74b7",
+      "title": "Meghan Markle and Prince Harry face tensions as claims of ‘separate lives’ surface: Report",
+      "summary": "A source claims Meghan Markle and Prince Harry are facing tensions in private, with periods of living separate lives due to work and differing priorities. Pressure from public expectations and maintaining their success is said to be adding to strain.",
+      "url": "https://www.livemint.com/news/world/meghan-markle-and-prince-harry-face-tensions-as-claims-of-separate-lives-surface-report-11774207343476.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/meghan_markle_and_prince_harry_1774209261945_1774209262138.jpg",
+      "published_at": "2026-03-22T19:59:50.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మేఘన్ మార్క్లే మరియు ప్రిన్స్ హ్యారీ 'ప్రత్యేక జీవితాలు' ఉపరితలం యొక్క వాదనలుగా ఉద్రిక్తతలను ఎదుర్కొంటున్నారు: నివేదిక",
+      "summary_te": "మేఘన్ మార్క్లే మరియు ప్రిన్స్ హ్యారీ వ్యక్తిగతంగా ఉద్రిక్తతలను ఎదుర్కొంటున్నారని ఒక మూలం పేర్కొంది, పని మరియు విభిన్న ప్రాధాన్యతల కారణంగా వేర్వేరు జీవితాలను గడిపారు. ప్రజల అంచనాల నుండి ఒత్తిడి మరియు వారి విజయాన్ని నిలబెట్టుకోవడం ఒత్తిడిని జోడిస్తుంది.",
+      "translated": true
+    },
     {
       "id": "a2c34c91259641d82c909bf50df9308b",
       "title": "SNL UK sketch mocking Keir Starmer shared by Trump amid UK-US tensions | Watch",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఛత్తీస్‌గఢ్ జంతు సంరక్షణ కేంద్రం 15 జింకలపై వీధికుక్కలు దాడి చేయడంతో మృత్యు ఉచ్చుగా మారింది.",
       "summary_te": "ఛత్తీస్‌గఢ్‌లోని సుర్గుజా జిల్లాలో జంతు సంరక్షణ కేంద్రంలో 15 జింకలను వీధికుక్కలు చంపాయి. నిర్లక్ష్యంగా వ్యవహరించిన నలుగురు అధికారులను అటవీ శాఖ సస్పెండ్ చేసి, ఘటనపై విచారణ ప్రారంభించింది.",
-      "translated": true
-    },
-    {
-      "id": "f4eba6bcbd5d4bcec5207949ba764276",
-      "title": "Mumbai vs Netherlands: Dutch woman lists 7 key differences in raising children in these cities | Viral video",
-      "summary": "A Dutch woman living in Mumbai has gone viral after sharing her experience of raising a child in India, highlighting differences in community, safety, education and parenting styles compared to the Netherlands.",
-      "url": "https://www.livemint.com/news/trends/mumbai-vs-netherlands-dutch-woman-lists-7-key-differences-in-raising-children-in-these-cities-viral-video-11774185085865.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/DUTCH_1774185289677_1774185298921.png",
-      "published_at": "2026-03-22T13:23:26.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ముంబై vs నెదర్లాండ్స్: డచ్ మహిళ ఈ నగరాల్లో పిల్లలను పెంచడంలో 7 కీలక తేడాలను జాబితా చేసింది | వైరల్ వీడియో",
-      "summary_te": "ముంబైలో నివసిస్తున్న ఒక డచ్ మహిళ, నెదర్లాండ్స్‌తో పోలిస్తే సమాజంలో, భద్రత, విద్య మరియు తల్లిదండ్రుల శైలులలో తేడాలను హైలైట్ చేస్తూ, భారతదేశంలో బిడ్డను పెంచడంపై తన అనుభవాన్ని పంచుకున్న తర్వాత వైరల్ అయ్యింది.",
       "translated": true
     },
     {
