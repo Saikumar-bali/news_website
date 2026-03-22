@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T11:27:20.900Z",
-  "updated_at_IST": "22/3/2026, 4:57:20 pm",
+  "updated_at": "2026-03-22T12:34:25.943Z",
+  "updated_at_IST": "22/3/2026, 6:04:25 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e33db6ab4a4adca1421406c471df7d43",
+      "title": "Shanaka set to replace the injured Curran at Rajasthan Royals",
+      "summary": "Dasun Shanaka has informed his PSL franchise, Lahore Qalandars, of his decision to opt out of the deal",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528734.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413358.jpg",
+      "published_at": "2026-03-22T11:27:57.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రాజస్థాన్ రాయల్స్‌లో గాయపడిన కుర్రాన్ స్థానంలో షనక బరిలోకి దిగాడు",
+      "summary_te": "దాసున్ షనక తన PSL ఫ్రాంచైజీ, లాహోర్ క్వాలండర్స్‌కు డీల్ నుండి వైదొలగాలనే తన నిర్ణయాన్ని తెలియజేశాడు",
+      "translated": true
+    },
+    {
+      "id": "d3affdaeee2d61c0682088bd3c949f28",
+      "title": "PSL 2026 to be played behind closed doors; Lahore and Karachi to host all games",
+      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
+      "published_at": "2026-03-22T11:19:28.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది; లాహోర్ మరియు కరాచీ అన్ని గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
+      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
+      "translated": true
+    },
     {
       "id": "117b9aac157245040dff2996b007fe53",
       "title": "Esterhuizen's 57 and all-star bowling show take South Africa to series-levelling win",
@@ -16,34 +44,6 @@
       "language": "en",
       "title_te": "Esterhuizen యొక్క 57 మరియు ఆల్-స్టార్ బౌలింగ్ ప్రదర్శన దక్షిణాఫ్రికాను సిరీస్-స్థాయి విజయానికి తీసుకువెళ్లింది",
       "summary_te": "దక్షిణాఫ్రికా 164 పరుగుల వద్ద ఆగిపోయినట్లు కనిపించింది, కానీ వారి బౌలర్లు తక్కువ బలం న్యూజిలాండ్‌పై స్ఫూర్తిదాయకమైన ప్రదర్శనను ప్రదర్శించారు.",
-      "translated": true
-    },
-    {
-      "id": "d3affdaeee2d61c0682088bd3c949f28",
-      "title": "PSL 2026 to be played behind closed doors; Lahore and Karachi to host all games",
-      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
-      "published_at": "2026-03-22T10:16:17.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది; లాహోర్ మరియు కరాచీ అన్ని గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
-      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
-      "translated": true
-    },
-    {
-      "id": "e33db6ab4a4adca1421406c471df7d43",
-      "title": "Shanaka set to replace the injured Curran at Rajasthan Royals",
-      "summary": "Dasun Shanaka has informed his PSL franchise, Lahore Qalandars, of his decision to opt out of the deal",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528734.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413358.jpg",
-      "published_at": "2026-03-22T10:16:16.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రాజస్థాన్ రాయల్స్‌లో గాయపడిన కుర్రాన్ స్థానంలో షనక బరిలోకి దిగాడు",
-      "summary_te": "దాసున్ షనక తన PSL ఫ్రాంచైజీ, లాహోర్ క్వాలండర్స్‌కు డీల్ నుండి వైదొలగాలనే తన నిర్ణయాన్ని తెలియజేశాడు",
       "translated": true
     },
     {

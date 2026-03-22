@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T11:27:20.900Z",
-  "updated_at_IST": "22/3/2026, 4:57:20 pm",
+  "updated_at": "2026-03-22T12:34:25.943Z",
+  "updated_at_IST": "22/3/2026, 6:04:25 pm",
   "category": "andhra",
   "count": 22,
   "articles": [
+    {
+      "id": "971384805a5ad1fad25ad02882b41db4",
+      "title": "SEIL Energy India bags CII award for industrial safety",
+      "summary": "Nellore-based independent power producer SEIL Energy India Limited on Sunday (March 22) announced that it has been conferred with the Confederation of Indian Industry (CII) Andhra Pradesh ‘Industrial Safety Leadership Award -2025 (Gold)’ in the category of power and energy.On behalf of the company, the award was received by the company’s head of Maintenance Department Praveen Kumar Sunkara and AGM (HSE department) Lakshmipati Raju during the CII AP Industrial Safety Excellence Awards 2025 organised in Visakhapatnam on Saturday (March 21). Speaking on the occasion, Janmejaya Mahapatra, CEO of the company, said: “This award reflects our commitment to ensuring the highest standards of safety in our operations. At SEIL Energy, safety is at the core of everything we do, and this recognition motivates us to continue our efforts towards creating a safer and healthier work environment.”The CII Industrial Safety Excellence Awards recognise organisations that demonstrate exceptional commitment to industrial safety and health management, and SEIL Energy’s win is a testament to its focus on safety leadership in the power and energy sector, he added.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/seil-energy-india-bags-cii-award-for-industrial-safety/article70771896.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-22T10:02:12.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పారిశ్రామిక భద్రత కోసం SEIL ఎనర్జీ ఇండియా CII అవార్డును పొందింది",
+      "summary_te": "నెల్లూరుకు చెందిన స్వతంత్ర విద్యుత్ ఉత్పత్తిదారు SEIL ఎనర్జీ ఇండియా లిమిటెడ్ ఆదివారం (మార్చి 22) విద్యుత్ మరియు ఇంధన విభాగంలో భారత పరిశ్రమల సమాఖ్య (CII) ఆంధ్రప్రదేశ్ ‘ఇండస్ట్రియల్ సేఫ్టీ లీడర్‌షిప్ అవార్డు -2025 (గోల్డ్)’ను ప్రదానం చేసినట్లు ప్రకటించింది. (HSE విభాగం) శనివారం (మార్చి 21) విశాఖపట్నంలో ఏర్పాటు చేసిన CII AP ఇండస్ట్రియల్ సేఫ్టీ ఎక్సలెన్స్ అవార్డ్స్ 2025 సందర్భంగా లక్ష్మీపతి రాజు. ఈ సందర్భంగా కంపెనీ CEO జనమేజయ మహాపాత్ర మాట్లాడుతూ, \"ఈ అవార్డు మా కార్యకలాపాలలో భద్రత యొక్క అత్యున్నత ప్రమాణాలను నిర్ధారించడంలో మా నిబద్ధతను ప్రతిబింబిస్తుంది. SEIL ఎనర్జీలో, మేము చేసే ప్రతి పనిలో భద్రత ఉంది, మరియు ఈ గుర్తింపు సురక్షితమైన మరియు ఆరోగ్యకరమైన పని వాతావరణాన్ని సృష్టించే దిశగా మా ప్రయత్నాలను కొనసాగించడానికి మాకు ప్రేరేపిస్తుంది.\" పారిశ్రామిక భద్రత మరియు ఆరోగ్య నిర్వహణకు అసాధారణమైన నిబద్ధత, మరియు SEIL ఎనర్జీ విజయం విద్యుత్ మరియు ఇంధన రంగంలో భద్రతా నాయకత్వంపై దాని దృష్టికి నిదర్శనమని ఆయన తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "77300198348aeef3daa18c9efc0f0152",
+      "title": "Tomato farmers hope for a ‘bright’ summer in Madanapalle",
+      "summary": "Horticulture officials said the season remained largely free from extreme weather conditions and they expect stable weather till May to support yields",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tomato-farmers-hope-for-a-bright-summer-in-madanapalle/article70769217.ece",
+      "image": "https://th-i.thgim.com/public/incoming/bpq750/article70771934.ece/alternates/LANDSCAPE_1200/A.P.-horticultuG8OFD6795.3.jpg.jpg",
+      "published_at": "2026-03-22T09:32:13.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "మదనపల్లెలో ‘ప్రకాశవంతమైన’ వేసవిని టమోటా రైతులు ఆశిస్తున్నారు",
+      "summary_te": "హార్టికల్చర్ అధికారులు ఈ సీజన్‌లో తీవ్రమైన వాతావరణ పరిస్థితుల నుండి చాలా వరకు విముక్తి పొందారు మరియు మే వరకు స్థిరమైన వాతావరణం దిగుబడికి తోడ్పడుతుందని వారు భావిస్తున్నారు.",
+      "translated": true
+    },
     {
       "id": "f7dd5b9f26b99a5394e3f25fef030e99",
       "title": "Two from Karnataka killed in road accident near Chittoor; four others injured",
@@ -282,34 +310,6 @@
       "language": "en",
       "title_te": "తిరుమల ఆలయంలో ముఖ్యమంత్రి చంద్రబాబు నాయుడు ప్రార్థనలు; అన్నదానం కాంప్లెక్స్‌లో తింటాడు",
       "summary_te": "ముఖ్యమంత్రి ఎన్. చంద్రబాబు నాయుడు తన మనవడు నారా దేవాన్ష్ జన్మదినాన్ని పురస్కరించుకుని శనివారం (మార్చి 21) ఉదయం తన కుటుంబ సమేతంగా తిరుమల వేంకటేశ్వర ఆలయాన్ని సందర్శించారు. టీటీడీ ఆలయాలను అధునాతన ఆధ్యాత్మిక కేంద్రాలుగా మార్చాలని ముఖ్యమంత్రి చంద్రబాబు నాయుడు పిలుపునిచ్చారు",
-      "translated": true
-    },
-    {
-      "id": "31242ed17464282ed15d1fbce539bde4",
-      "title": "Masked persons break into house, steal ₹2.3 lakh cash, valuables",
-      "summary": "Masked persons reportedly committed theft in a house and attempted to rob another house at Tadigadapa in Krishna district.They broke into the house of M. Tateswara Rao, who had to gone to Bengaluru with his family a few days ago. The domestic help, who observed the theft on Friday, alerted the house owners. The men allegedly entered the house by breaking open the iron window grill, and stole ₹2.3 lakh cash, gold ornaments weighing nearly 100 grams and silver jewellery.The robbers also allegedly attempted to steal from another house but escaped when the pet dog alerted the house owners. The Penamaluru police registered a case and initiated investigation.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/masked-men-break-into-house-steal-23-lakh-cash-valuables/article70769322.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-21T14:03:09.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ముసుగులు ధరించిన వ్యక్తులు ఇంట్లోకి చొరబడి ₹2.3 లక్షల నగదు, విలువైన వస్తువులను అపహరించారు",
-      "summary_te": "కృష్ణా జిల్లా తాడిగడపలో ముసుగులు ధరించిన వ్యక్తులు ఓ ఇంట్లో చోరీకి పాల్పడ్డారని, మరో ఇంట్లో చోరీకి యత్నించారని సమాచారం.కొద్ది రోజుల క్రితం కుటుంబంతో కలిసి బెంగళూరు వెళ్లాల్సిన ఎం.తాతేశ్వరరావు ఇంట్లోకి చొరబడ్డారు. శుక్రవారం చోరీ జరగడాన్ని గమనించిన గృహిణి ఇంటి యజమానులను అప్రమత్తం చేసింది. ఇనుప కిటికీ గ్రిల్‌ను పగులగొట్టి ఇంట్లోకి ప్రవేశించిన వ్యక్తులు రూ. 2.3 లక్షల నగదు, దాదాపు 100 గ్రాముల బంగారు ఆభరణాలు మరియు వెండి ఆభరణాలను అపహరించారు. మరో ఇంట్లో కూడా దొంగిలించడానికి ప్రయత్నించారు, అయితే పెంపుడు కుక్క ఇంటి యజమానులను అప్రమత్తం చేయడంతో దొంగలు తప్పించుకున్నారు. పెనమలూరు పోలీసులు కేసు నమోదు చేసి దర్యాప్తు చేపట్టారు.",
-      "translated": true
-    },
-    {
-      "id": "c8da106b7c96f00e8316cb2ecd590f83",
-      "title": "Chief Minister Chandrababu Naidu inaugurates food analysis laboratory in Tirumala",
-      "summary": "The facility routinely collects samples from multiple sources and conducts rigorous testing, including those used in the preparation of Srivari Prasadam and Anna Prasadam",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chief-minister-chandrababu-naidu-inaugurates-food-analysis-laboratory-in-tirumala/article70768975.ece",
-      "image": "https://th-i.thgim.com/public/incoming/id0u3q/article70769572.ece/alternates/LANDSCAPE_1200/10215_21_3_2026_18_3_19_1_WHATSAPPIMAGE2026_03_21AT45631PM.JPEG",
-      "published_at": "2026-03-21T13:55:42.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "తిరుమలలో ఆహార విశ్లేషణ ల్యాబొరేటరీని ముఖ్యమంత్రి చంద్రబాబు నాయుడు ప్రారంభించారు",
-      "summary_te": "ఈ సదుపాయం మామూలుగా బహుళ వనరుల నుండి నమూనాలను సేకరిస్తుంది మరియు శ్రీవారి ప్రసాదం మరియు అన్నప్రసాదం తయారీలో ఉపయోగించే వాటితో సహా కఠినమైన పరీక్షలను నిర్వహిస్తుంది.",
       "translated": true
     }
   ]
