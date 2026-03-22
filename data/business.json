@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T21:28:36.537Z",
-  "updated_at_IST": "23/3/2026, 2:58:36 am",
+  "updated_at": "2026-03-22T22:25:41.867Z",
+  "updated_at_IST": "23/3/2026, 3:55:41 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "a2e5021d6ba4df72b363740c2b6f277d",
+      "title": "Trump mocks Schumer over ‘fund ICE’ gaffe in senate remarks | Watch",
+      "summary": "As the funding impasse continues, Trump is using moments like Schumer’s gaffe to sharpen their messaging. Republicans emphasize national security risks tied to the broader DHS shutdown, while Democrats focus on immediate disruptions affecting travelers and calls for immigration enforcement reforms.",
+      "url": "https://www.livemint.com/news/us-news/trump-mocks-schumer-over-fund-ice-gaffe-in-senate-remarks-watch-11774211344645.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Senate-Democrats-8_1774211709405_1774211719395.jpg",
+      "published_at": "2026-03-22T21:23:03.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సెనేట్ వ్యాఖ్యలలో ‘ఫండ్ ICE’ గాఫ్‌పై షుమర్‌ను ట్రంప్ ఎగతాళి చేశారు | చూడండి",
+      "summary_te": "నిధుల ప్రతిష్టంభన కొనసాగుతున్నందున, ట్రంప్ వారి సందేశాలను పదును పెట్టడానికి షుమర్స్ గాఫే వంటి క్షణాలను ఉపయోగిస్తున్నారు. రిపబ్లికన్లు విస్తృత DHS షట్‌డౌన్‌తో ముడిపడి ఉన్న జాతీయ భద్రతా ప్రమాదాలను నొక్కిచెప్పారు, అయితే డెమొక్రాట్‌లు ప్రయాణికులను ప్రభావితం చేసే తక్షణ అంతరాయాలపై దృష్టి పెడతారు మరియు ఇమ్మిగ్రేషన్ అమలు సంస్కరణల కోసం పిలుపునిచ్చారు.",
+      "translated": true
+    },
     {
       "id": "75900c5a5c52d462fdacaee89a4bdd09",
       "title": "Markwayne Mullin moves closer to becoming DHS Secretary after Senate vote, faces final test amid shutdown crisis",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఉల్కాపాతం టెక్సాస్ మీదుగా మధ్య-గాలిలో విడిపోతుంది, బిగ్గరగా విజృంభిస్తుంది | చూడండి",
       "summary_te": "అంతరిక్ష సంస్థ ప్రకారం, నివాసితులు సాయంత్రం 4:40 గంటలకు ప్రకాశించే వస్తువును చూసినట్లు నివేదించారు. CDT, దీనిని ఆకాశం అంతటా స్ట్రీక్ రేసింగ్‌గా అభివర్ణించింది. ఉల్కాపాతం మొదట హ్యూస్టన్‌కు వాయువ్యంగా ఉన్న స్టేజ్‌కోచ్ నుండి దాదాపు 49 మైళ్ల ఎత్తులో కనిపించింది.",
-      "translated": true
-    },
-    {
-      "id": "fba42dc9f6eec9efb236d8eea7246234",
-      "title": "Nicholas Brendon, ‘Buffy the Vampire Slayer’ star, dies at 54",
-      "summary": "Actor Nicholas Brendon, known for his role in Buffy the Vampire Slayer, has died at 54. His family stated he passed away in his sleep. Brendon was passionate about art and had been optimistic about his future despite past struggles.",
-      "url": "https://www.livemint.com/news/us-news/nicholas-brendon-buffy-the-vampire-slayer-star-dies-at-54-11774186263598.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/nicholas_brendon_1774186333482_1774186333715.jpg",
-      "published_at": "2026-03-22T13:36:03.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "నికోలస్ బ్రెండన్, 'బఫీ ది వాంపైర్ స్లేయర్' స్టార్, 54 ఏళ్ళ వయసులో మరణించాడు",
-      "summary_te": "నటుడు నికోలస్ బ్రెండన్, బఫీ ది వాంపైర్ స్లేయర్‌లో తన పాత్రకు పేరుగాంచాడు, 54 ఏళ్ళ వయసులో మరణించాడు. అతను నిద్రలోనే మరణించాడని అతని కుటుంబం పేర్కొంది. బ్రెండన్ కళ పట్ల మక్కువ కలిగి ఉన్నాడు మరియు గత పోరాటాలు ఉన్నప్పటికీ అతని భవిష్యత్తు గురించి ఆశాజనకంగా ఉన్నాడు.",
       "translated": true
     },
     {

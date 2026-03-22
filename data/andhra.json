@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T21:28:36.537Z",
-  "updated_at_IST": "23/3/2026, 2:58:36 am",
+  "updated_at": "2026-03-22T22:25:41.867Z",
+  "updated_at_IST": "23/3/2026, 3:55:41 am",
   "category": "andhra",
-  "count": 20,
+  "count": 21,
   "articles": [
+    {
+      "id": "a0169c18613ae52eafd7a4a6a2d85a23",
+      "title": "School of Planning and Architecture to host cultural fest from March 23",
+      "summary": "School of Planning and Architecture (SPA), Vijayawada, will host INYAN 2026, a two-day annual cultural fest from March 23 (Monday).A press release from the institution said that during the two days, visitors to the campus would witness an array of activities including traditional leather puppetry workshops, immersive design experiences and high-energy performances from the diverse student clubs.The Department of Architecture and Planning will showcase ‘Heritage in Motion’, which will include a leather puppetry workshop, sustainable material showcases, visual spectacles of the ‘Biennale Photo Wall’, a market space art exhibition, and ‘The Night of Stars’, which will feature an investiture ceremony and a musical dance finale.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/school-of-planning-and-architecture-to-host-cultural-fest-from-march-23/article70772989.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-22T18:02:34.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "స్కూల్ ఆఫ్ ప్లానింగ్ అండ్ ఆర్కిటెక్చర్ మార్చి 23 నుంచి సాంస్కృతిక ఉత్సవాలను నిర్వహించనుంది",
+      "summary_te": "స్కూల్ ఆఫ్ ప్లానింగ్ అండ్ ఆర్కిటెక్చర్ (SPA), విజయవాడ, INYAN 2026, మార్చి 23 (సోమవారం) నుండి రెండు రోజుల వార్షిక సాంస్కృతిక ఉత్సవానికి ఆతిథ్యం ఇవ్వనుంది. రెండు రోజులలో, క్యాంపస్‌కు వచ్చే సందర్శకులు సాంప్రదాయ లెదర్ తోలుబొమ్మల వర్క్‌షాప్‌లు, క్లబ్‌లోని వివిధ రకాల క్లబ్‌ల ప్రదర్శనలతో సహా పలు కార్యక్రమాలను చూస్తారని సంస్థ నుండి ఒక పత్రికా ప్రకటన తెలిపింది. ఆర్కిటెక్చర్ అండ్ ప్లానింగ్ ‘హెరిటేజ్ ఇన్ మోషన్’ను ప్రదర్శిస్తుంది, ఇందులో లెదర్ తోలుబొమ్మల వర్క్‌షాప్, స్థిరమైన మెటీరియల్ షోకేస్‌లు, ‘బిన్నాలే ఫోటో వాల్’ విజువల్ గ్లాసెస్, మార్కెట్ స్పేస్ ఆర్ట్ ఎగ్జిబిషన్ మరియు ‘ది నైట్ ఆఫ్ స్టార్స్’ ఉన్నాయి, ఇందులో ఇన్వెస్టిచర్ వేడుక మరియు సంగీత నృత్య ముగింపు ఉంటుంది.",
+      "translated": true
+    },
     {
       "id": "070889608bfb27f6fb15e28b2d8b2c2c",
       "title": "Cyber fraudsters dupe Polavaram MLA, siphon off ₹12 lakh",
