@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T08:33:10.234Z",
-  "updated_at_IST": "22/3/2026, 2:03:10 pm",
+  "updated_at": "2026-03-22T09:35:20.187Z",
+  "updated_at_IST": "22/3/2026, 3:05:20 pm",
   "category": "andhra",
-  "count": 23,
+  "count": 24,
   "articles": [
+    {
+      "id": "63650ac48999d94b2e09b00a32655589",
+      "title": "AMRUT scheme worth ₹88.41 crore to change the face of Kavali in Nellore district: Lanka Dinakar",
+      "summary": "The project will help rid the town of its perennial drinking water scarcity, the Chairman of the 20-Point Programme said",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/amrut-scheme-worth-8841-crore-to-change-the-face-of-kavali-in-nellore-district-lanka-dinakar/article70769789.ece",
+      "image": "https://th-i.thgim.com/public/incoming/eo54bj/article70771628.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-22%20at%2011.11.32.jpeg",
+      "published_at": "2026-03-22T06:12:10.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "నెల్లూరు జిల్లా కావలి రూపురేఖలు మార్చేందుకు ₹88.41 కోట్లతో అమృత్ పథకం: లంక దినకర్",
+      "summary_te": "ఈ ప్రాజెక్ట్ పట్టణాన్ని శాశ్వత తాగునీటి కొరత నుండి విముక్తి చేయడానికి సహాయపడుతుందని 20-పాయింట్ ప్రోగ్రామ్ చైర్మన్ చెప్పారు",
+      "translated": true
+    },
     {
       "id": "3a27ea1257acf8478e01a08d49cc2366",
       "title": "KLU releases Management Aptitude Test results",
