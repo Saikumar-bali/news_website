@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T20:25:14.069Z",
-  "updated_at_IST": "23/3/2026, 1:55:14 am",
+  "updated_at": "2026-03-22T21:28:36.537Z",
+  "updated_at_IST": "23/3/2026, 2:58:36 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "75900c5a5c52d462fdacaee89a4bdd09",
+      "title": "Markwayne Mullin moves closer to becoming DHS Secretary after Senate vote, faces final test amid shutdown crisis",
+      "summary": "With the final vote imminent, Mullin’s confirmation would place him at the helm of a deeply divided agency amid ongoing political battles over immigration policy and enforcement authority.",
+      "url": "https://www.livemint.com/news/us-news/markwayne-mullin-moves-closer-to-becoming-dhs-secretary-after-senate-vote-faces-final-test-amid-shutdown-crisis-11774210261044.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/SENATE-HOLDS-CONFIRMATION-HEARING-FOR-DHS-SECRE_1774210357203_1774210357297.jpg",
+      "published_at": "2026-03-22T20:39:28.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మార్క్‌వేన్ ముల్లిన్ సెనేట్ ఓటు తర్వాత DHS కార్యదర్శిగా మారడానికి దగ్గరగా ఉన్నాడు, షట్డౌన్ సంక్షోభం మధ్య చివరి పరీక్షను ఎదుర్కొన్నాడు",
+      "summary_te": "చివరి ఓటు ఆసన్నమైనందున, ఇమ్మిగ్రేషన్ పాలసీ మరియు ఎన్‌ఫోర్స్‌మెంట్ అథారిటీపై కొనసాగుతున్న రాజకీయ పోరాటాల మధ్య ముల్లిన్ యొక్క ధృవీకరణ అతన్ని లోతుగా విభజించబడిన ఏజెన్సీ యొక్క అధికారంలో ఉంచుతుంది.",
+      "translated": true
+    },
+    {
+      "id": "f3d7fe030d670f1454d1ad69f7b64ee7",
+      "title": "Iran warns of ‘complete closure’ of Strait of Hormuz if US targets its power plants",
+      "summary": "The warning follows a direct threat from Donald Trump, who said the US would strike Iran’s power infrastructure if the Strait is not reopened.",
+      "url": "https://www.livemint.com/news/us-news/iran-warns-of-complete-closure-of-strait-of-hormuz-if-us-targets-its-power-plants-11774206458346.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Emirates-Iran-War-0_1774207261084_1774207282450.jpg",
+      "published_at": "2026-03-22T20:10:50.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అమెరికా తన పవర్ ప్లాంట్లను లక్ష్యంగా చేసుకుంటే హార్ముజ్ జలసంధిని పూర్తిగా మూసివేస్తామని ఇరాన్ హెచ్చరించింది",
+      "summary_te": "ఈ హెచ్చరిక డొనాల్డ్ ట్రంప్ నుండి ప్రత్యక్ష బెదిరింపును అనుసరిస్తుంది, జలసంధిని తిరిగి తెరవకపోతే ఇరాన్ యొక్క విద్యుత్ మౌలిక సదుపాయాలపై అమెరికా దాడి చేస్తుందని చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "f2cf175c4d781e7da638c69cd5ae74b7",
       "title": "Meghan Markle and Prince Harry face tensions as claims of ‘separate lives’ surface: Report",
@@ -15,7 +43,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మేఘన్ మార్క్లే మరియు ప్రిన్స్ హ్యారీ 'ప్రత్యేక జీవితాలు' ఉపరితలం యొక్క వాదనలుగా ఉద్రిక్తతలను ఎదుర్కొంటున్నారు: నివేదిక",
-      "summary_te": "మేఘన్ మార్క్లే మరియు ప్రిన్స్ హ్యారీ వ్యక్తిగతంగా ఉద్రిక్తతలను ఎదుర్కొంటున్నారని ఒక మూలం పేర్కొంది, పని మరియు విభిన్న ప్రాధాన్యతల కారణంగా వేర్వేరు జీవితాలను గడిపారు. ప్రజల అంచనాల నుండి ఒత్తిడి మరియు వారి విజయాన్ని నిలబెట్టుకోవడం ఒత్తిడిని జోడిస్తుంది.",
+      "summary_te": "మేఘన్ మార్క్లే మరియు ప్రిన్స్ హ్యారీ ప్రైవేట్‌గా టెన్షన్‌లను ఎదుర్కొంటున్నారని ఒక మూలం పేర్కొంది, పని మరియు విభిన్న ప్రాధాన్యతల కారణంగా వేర్వేరు జీవితాలను గడిపారు. ప్రజల అంచనాల నుండి ఒత్తిడి మరియు వారి విజయాన్ని నిలబెట్టుకోవడం ఒత్తిడిని జోడిస్తుంది.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "నికోలస్ బ్రెండన్, 'బఫీ ది వాంపైర్ స్లేయర్' స్టార్, 54 ఏళ్ళ వయసులో మరణించాడు",
       "summary_te": "నటుడు నికోలస్ బ్రెండన్, బఫీ ది వాంపైర్ స్లేయర్‌లో తన పాత్రకు పేరుగాంచాడు, 54 ఏళ్ళ వయసులో మరణించాడు. అతను నిద్రలోనే మరణించాడని అతని కుటుంబం పేర్కొంది. బ్రెండన్ కళ పట్ల మక్కువ కలిగి ఉన్నాడు మరియు గత పోరాటాలు ఉన్నప్పటికీ అతని భవిష్యత్తు గురించి ఆశాజనకంగా ఉన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "0c65d5d042341ba9ae97d4f6f2625405",
-      "title": "KKR mentor Dwayne Bravo brings Chepauk crowd onto its feet with ‘Champion’ show at CSK's ROAR 2026; watch viral video",
-      "summary": "Dwayne Bravo, who played 116 games for Chennai Super Kings in IPL, is currently the mentor three-time champions Kolkata Knight Riders. Bravo was present at the ROAR 2026 event hosted by KKR.&nbsp;",
-      "url": "https://www.livemint.com/news/kkr-mentor-dwayne-bravo-brings-chepauk-crowd-onto-its-feet-with-champion-show-at-csks-roar-2026-watch-viral-video-11774184043462.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Bravo_1774188534394_1774188534544.jpg",
-      "published_at": "2026-03-22T13:33:51.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "KKR గురువు డ్వేన్ బ్రావో CSK యొక్క ROAR 2026లో 'ఛాంపియన్' షోతో చెపాక్ ప్రేక్షకులను తన పాదాలపైకి తీసుకువచ్చాడు; వైరల్ వీడియో చూడండి",
-      "summary_te": "ఐపీఎల్‌లో చెన్నై సూపర్ కింగ్స్ తరఫున 116 మ్యాచ్‌లు ఆడిన డ్వేన్ బ్రావో ప్రస్తుతం మూడుసార్లు చాంపియన్‌గా నిలిచిన కోల్‌కతా నైట్ రైడర్స్‌కు మెంటార్‌గా ఉన్నాడు. KKR హోస్ట్ చేసిన ROAR 2026 ఈవెంట్‌లో బ్రావో హాజరయ్యాడు. ",
-      "translated": true
-    },
-    {
-      "id": "1b2609923c3d50902285c35f0f7477f1",
-      "title": "Chhattisgarh animal rescue centre turns into death trap for 15 deer after stray dogs attacked them",
-      "summary": "Fifteen deer were killed by a pack of stray dogs at an animal rescue center in Chhattisgarh's Surguja district. The forest department suspended four officials for negligence, and an inquiry has been initiated to investigate the incident.",
-      "url": "https://www.livemint.com/news/india/chhattisgarh-animal-rescue-centre-turns-into-death-trap-for-15-deer-after-stray-dogs-attacked-them-11774183395494.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/pexels-photo-6894733_1774185327320_1774185334906.jpeg",
-      "published_at": "2026-03-22T13:28:01.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఛత్తీస్‌గఢ్ జంతు సంరక్షణ కేంద్రం 15 జింకలపై వీధికుక్కలు దాడి చేయడంతో మృత్యు ఉచ్చుగా మారింది.",
-      "summary_te": "ఛత్తీస్‌గఢ్‌లోని సుర్గుజా జిల్లాలో జంతు సంరక్షణ కేంద్రంలో 15 జింకలను వీధికుక్కలు చంపాయి. నిర్లక్ష్యంగా వ్యవహరించిన నలుగురు అధికారులను అటవీ శాఖ సస్పెండ్ చేసి, ఘటనపై విచారణ ప్రారంభించింది.",
       "translated": true
     },
     {
