@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T15:27:43.449Z",
-  "updated_at_IST": "22/3/2026, 8:57:43 pm",
+  "updated_at": "2026-03-22T16:28:21.853Z",
+  "updated_at_IST": "22/3/2026, 9:58:21 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "1e640cd496b6bac3ee50abef79fc74c3",
+      "title": "Lahore and Karachi to host all PSL 2026 games",
+      "summary": "While the PCB has reduced the venues from six to two, the schedule for the games remains unchanged",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528753.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397070.jpg",
+      "published_at": "2026-03-22T16:06:00.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "లాహోర్ మరియు కరాచీ అన్ని PSL 2026 గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
+      "summary_te": "పిసిబి వేదికలను ఆరు నుండి రెండుకి తగ్గించినప్పటికీ, ఆటల షెడ్యూల్ మారలేదు",
+      "translated": true
+    },
+    {
+      "id": "d3affdaeee2d61c0682088bd3c949f28",
+      "title": "PSL 2026 to be played behind closed doors",
+      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
+      "published_at": "2026-03-22T15:38:21.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది",
+      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
+      "translated": true
+    },
     {
       "id": "3225fa85db34e75e8d5fdcca9de935f9",
       "title": "Covid 'sort of a saving grace in cricketing terms' for Esterhuizen",
@@ -30,20 +58,6 @@
       "language": "en",
       "title_te": "నఖ్వీ: IPL కోసం PSL నుండి వైదొలిగిన ఆటగాళ్లపై PCB 'చర్య తీసుకుంటుంది'",
       "summary_te": "ఇటీవలి వారాల్లో IPL ఒప్పందం కోసం PSL నుండి వైదొలిగిన రెండవ ఆటగాడిగా షనక ​​నిలిచాడు",
-      "translated": true
-    },
-    {
-      "id": "d3affdaeee2d61c0682088bd3c949f28",
-      "title": "PSL 2026 to be played behind closed doors; Lahore and Karachi to host all games",
-      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
-      "published_at": "2026-03-22T12:32:26.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది; లాహోర్ మరియు కరాచీ అన్ని గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
-      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
       "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "332f7b4c4dfdf8f422849e917469bbed",
-      "title": "Hamstring injury rules Nathan Ellis out of IPL 2026",
-      "summary": "CSK fast bowler Nathan Ellis has aggravated an old hamstring injury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528407.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/382100/382179.jpg",
-      "published_at": "2026-03-20T10:13:44.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హామ్ స్ట్రింగ్ గాయం నాథన్ ఎల్లిస్‌ను IPL 2026 నుండి తప్పించింది",
-      "summary_te": "CSK ఫాస్ట్ బౌలర్ నాథన్ ఎల్లిస్ పాత స్నాయువు గాయాన్ని తీవ్రతరం చేశాడు",
       "translated": true
     }
   ]
