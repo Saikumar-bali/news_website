@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T12:34:25.943Z",
-  "updated_at_IST": "22/3/2026, 6:04:25 pm",
+  "updated_at": "2026-03-22T13:49:42.025Z",
+  "updated_at_IST": "22/3/2026, 7:19:42 pm",
   "category": "telangana",
   "count": 24,
   "articles": [
+    {
+      "id": "ff79f9521572eef7786af57feb3511b1",
+      "title": "Telangana Govt raises TDR use, allows more floors and setback relaxations in new building rules",
+      "summary": "The new norms were issued on March 22, 2026 by the Municipal Administration and Urban Development (MA&UD) Department.",
+      "url": "https://www.thehindu.com/news/national/telangana/government-raises-tdr-use-allows-more-floors-and-setback-relaxations-in-new-building-rules/article70771607.ece",
+      "image": "https://th-i.thgim.com/public/incoming/62kuwz/article70771620.ece/alternates/LANDSCAPE_1200/09thMWMaking-hoG9BFJ5P7S.3.jpg.jpg",
+      "published_at": "2026-03-22T11:05:25.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "తెలంగాణ ప్రభుత్వం TDR వినియోగాన్ని పెంచింది, మరిన్ని అంతస్తులను అనుమతిస్తుంది మరియు కొత్త బిల్డింగ్ నియమాలలో సెటబ్యాక్ సడలింపులను అనుమతిస్తుంది",
+      "summary_te": "మునిసిపల్ అడ్మినిస్ట్రేషన్ మరియు అర్బన్ డెవలప్‌మెంట్ (MA&UD) డిపార్ట్‌మెంట్ మార్చి 22, 2026న కొత్త నిబంధనలను జారీ చేసింది.",
+      "translated": true
+    },
     {
       "id": "a6f3f0c69cd5d0471c9d83f8fd585cdf",
       "title": "Teen killed, four others critically injured as speeding car rams auto in Vikarabad",
@@ -324,20 +338,6 @@
       "language": "en",
       "title_te": "పెంపుడు పిల్లి వివాదంలో మెడికో మరణం హైదరాబాద్‌లో లోతైన విద్యార్థి మానసిక ఆరోగ్య సంక్షోభాన్ని బహిర్గతం చేసింది",
       "summary_te": "విద్యార్ధులు రోజువారీ డిస్ట్రెస్ కాల్స్‌లో నాలుగింట ఒక వంతు మంది ఉన్నారు, పెరుగుతున్న ఒత్తిడి, భావోద్వేగ పరాధీనత మరియు అంతరాలను ఎదుర్కొంటారు అని హెల్ప్‌లైన్ ఆపరేటర్లు చెప్పారు",
-      "translated": true
-    },
-    {
-      "id": "dd993d8026d84a79ad4f3f70edb6110f",
-      "title": "BRS should come clean on KCR’s health: Congress",
-      "summary": "Mettu Sai Kumar, Chairman of the Telangana State Fisheries Corporation, said the BRS should come clean on the absence of BRS chief and Leader of the Opposition K. Chandrashekhar Rao in the Assembly. At a press conference here, he said there were rumours of Mr. Rao’s health conditions and Telangana people have a right to know about his condition as he is not only a Leader of the Opposition but was also a former Chief Minister. He urged the BRS leadership to ensure his participation in the Assembly proceedings",
-      "url": "https://www.thehindu.com/news/national/telangana/brs-should-come-clean-on-kcrs-health-congress/article70769188.ece",
-      "image": "https://th-i.thgim.com/public/news/national/telangana/og9up1/article70769186.ece/alternates/LANDSCAPE_1200/Congress%20.jpeg",
-      "published_at": "2026-03-21T13:23:05.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "కేసీఆర్ ఆరోగ్యంపై బీఆర్ఎస్ క్లీన్‌గా రావాలి: కాంగ్రెస్",
-      "summary_te": "బీఆర్‌ఎస్ అధినేత, ప్రతిపక్ష నేత కె.చంద్రశేఖర్‌రావు అసెంబ్లీకి గైర్హాజరు కావడంపై తెలంగాణ రాష్ట్ర మత్స్యకార కార్పొరేషన్ చైర్మన్ మెట్టు సాయికుమార్ అన్నారు. ఇక్కడ జరిగిన విలేకరుల సమావేశంలో ఆయన మాట్లాడుతూ శ్రీ రావు ఆరోగ్య పరిస్థితిపై పుకార్లు వచ్చాయని, ఆయన ప్రతిపక్ష నేతగానే కాకుండా మాజీ ముఖ్యమంత్రి కూడా అయినందున ఆయన పరిస్థితి గురించి తెలుసుకునే హక్కు తెలంగాణ ప్రజలకు ఉందన్నారు. తాను అసెంబ్లీ కార్యక్రమాల్లో పాల్గొనేలా చూడాలని బీఆర్‌ఎస్ నాయకత్వాన్ని కోరారు",
       "translated": true
     }
   ]

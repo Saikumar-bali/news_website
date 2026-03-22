@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-22T12:34:25.943Z",
-  "updated_at_IST": "22/3/2026, 6:04:25 pm",
+  "updated_at": "2026-03-22T13:49:42.025Z",
+  "updated_at_IST": "22/3/2026, 7:19:42 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "3225fa85db34e75e8d5fdcca9de935f9",
+      "title": "Covid 'sort of a saving grace in cricketing terms' for Esterhuizen",
+      "summary": "Esterhuizen, who is on his maiden tour for South Africa, reflects on how he had doubts about a career in professional cricket a few years ago",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528745.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414847.jpg",
+      "published_at": "2026-03-22T13:05:26.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "Esterhuizen కోసం కోవిడ్ 'క్రికెట్ పరంగా ఒక విధమైన పొదుపు దయ'",
+      "summary_te": "దక్షిణాఫ్రికా కోసం తన తొలి పర్యటనలో ఉన్న ఎస్టర్‌హుజెన్, కొన్ని సంవత్సరాల క్రితం ప్రొఫెషనల్ క్రికెట్‌లో కెరీర్‌పై తనకు ఎలా సందేహాలు ఉన్నాయో ప్రతిబింబిస్తుంది",
+      "translated": true
+    },
+    {
+      "id": "c711904391c74037a78846a023e933e4",
+      "title": "Naqvi: PCB 'will take action' against players opting out of PSL for IPL",
+      "summary": "Shanaka became the second player in recent weeks to opt out of the PSL for an IPL deal",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528747.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/373600/373699.jpg",
+      "published_at": "2026-03-22T13:05:25.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "నఖ్వీ: IPL కోసం PSL నుండి వైదొలిగిన ఆటగాళ్లపై PCB 'చర్య తీసుకుంటుంది'",
+      "summary_te": "ఇటీవలి వారాల్లో IPL ఒప్పందం కోసం PSL నుండి వైదొలిగిన రెండవ ఆటగాడిగా షనక ​​నిలిచాడు",
+      "translated": true
+    },
+    {
+      "id": "d3affdaeee2d61c0682088bd3c949f28",
+      "title": "PSL 2026 to be played behind closed doors; Lahore and Karachi to host all games",
+      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
+      "published_at": "2026-03-22T12:32:26.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది; లాహోర్ మరియు కరాచీ అన్ని గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
+      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
+      "translated": true
+    },
     {
       "id": "e33db6ab4a4adca1421406c471df7d43",
       "title": "Shanaka set to replace the injured Curran at Rajasthan Royals",
@@ -16,20 +58,6 @@
       "language": "en",
       "title_te": "రాజస్థాన్ రాయల్స్‌లో గాయపడిన కుర్రాన్ స్థానంలో షనక బరిలోకి దిగాడు",
       "summary_te": "దాసున్ షనక తన PSL ఫ్రాంచైజీ, లాహోర్ క్వాలండర్స్‌కు డీల్ నుండి వైదొలగాలనే తన నిర్ణయాన్ని తెలియజేశాడు",
-      "translated": true
-    },
-    {
-      "id": "d3affdaeee2d61c0682088bd3c949f28",
-      "title": "PSL 2026 to be played behind closed doors; Lahore and Karachi to host all games",
-      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
-      "published_at": "2026-03-22T11:19:28.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది; లాహోర్ మరియు కరాచీ అన్ని గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
-      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "హామ్ స్ట్రింగ్ గాయం నాథన్ ఎల్లిస్‌ను IPL 2026 నుండి తప్పించింది",
       "summary_te": "CSK ఫాస్ట్ బౌలర్ నాథన్ ఎల్లిస్ పాత స్నాయువు గాయాన్ని తీవ్రతరం చేశాడు",
-      "translated": true
-    },
-    {
-      "id": "b8f2769e194d3c7c02ac33ae686e798c",
-      "title": "Ferguson, Santner, Latham help New Zealand take 2-1 series lead",
-      "summary": "Conway and Latham put on an opening stand of 96 in New Zealand's chase of 137",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528495.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414798.jpg",
-      "published_at": "2026-03-20T09:52:36.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఫెర్గూసన్, సాంట్నర్, లాథమ్ న్యూజిలాండ్ 2-1 సిరీస్‌లో ఆధిక్యం సాధించడంలో సహాయపడుతున్నారు",
-      "summary_te": "న్యూజిలాండ్ 137 పరుగుల ఛేదనలో కాన్వే మరియు లాథమ్ ఓపెనింగ్ స్టాండ్‌తో 96 పరుగులు చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "30e4ec4719f52fff71ee129e48b29978",
-      "title": "'I probably do lean towards the NZ20,' says Devine as New Zealand braces for winds of change",
-      "summary": "\"It's looking hopefully likely, having a New Zealand tournament and that's pretty exciting,\" says Lockie Ferguson",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528491.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414732.jpg",
-      "published_at": "2026-03-20T09:45:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'నేను బహుశా NZ20 వైపు మొగ్గు చూపుతాను,' అని డివైన్ న్యూజిలాండ్ మార్పు యొక్క గాలుల కోసం బ్రేస్ చేస్తున్నప్పుడు చెప్పాడు",
-      "summary_te": "\"ఇది న్యూజిలాండ్ టోర్నమెంట్‌ను కలిగి ఉండటం ఆశాజనకంగా కనిపిస్తోంది మరియు ఇది చాలా ఉత్తేజకరమైనది\" అని లాకీ ఫెర్గూసన్ చెప్పారు",
       "translated": true
     }
   ]

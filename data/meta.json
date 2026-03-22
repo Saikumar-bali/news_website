@@ -1,43 +1,44 @@
 {
-  "last_updated": "2026-03-22T12:34:25.943Z",
-  "last_updated_IST": "22/3/2026, 6:04:25 pm",
-  "total_articles": 381,
+  "last_updated": "2026-03-22T13:49:42.025Z",
+  "last_updated_IST": "22/3/2026, 7:19:42 pm",
+  "total_articles": 392,
   "categories": [
+    "tech",
     "india",
     "business",
-    "tech",
     "sports",
-    "telangana",
-    "andhra"
+    "andhra",
+    "telangana"
   ],
   "sources": [
-    "India Today",
+    "Dev.to",
     "The Hindu",
     "LiveMint",
-    "Dev.to",
     "Hindustan Times",
-    "TechCrunch",
+    "ESPNCricinfo",
     "The Verge",
+    "Times of India",
+    "NDTV",
+    "India Today",
+    "TechCrunch",
     "Wired",
     "NDTV India",
-    "ESPNCricinfo",
-    "Times of India",
-    "Economic Times",
-    "NDTV",
-    "The Hindu Telangana",
     "The Hindu AP",
+    "Economic Times",
+    "The Hindu Telangana",
     "ZDNet",
     "Inc42",
-    "YourStory"
+    "YourStory",
+    "Moneycontrol"
   ],
   "feeds_count": 25,
   "data_files": [
     "news.json",
+    "tech.json",
     "india.json",
     "business.json",
-    "tech.json",
     "sports.json",
-    "telangana.json",
-    "andhra.json"
+    "andhra.json",
+    "telangana.json"
   ]
 }
