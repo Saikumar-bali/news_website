@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T07:45:09.611Z",
-  "updated_at_IST": "22/3/2026, 1:15:09 pm",
+  "updated_at": "2026-03-22T08:33:10.234Z",
+  "updated_at_IST": "22/3/2026, 2:03:10 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "031649449bb6f997bdf43484dbfa1073",
+      "title": "Four Tests in four weeks to challenge Australia, New Zealand quicks",
+      "summary": "Australia's men will also host England for white-ball cricket while the women will face Bangladesh and New Zealand",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528605.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/376900/376910.jpg",
+      "published_at": "2026-03-22T08:12:18.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఆస్ట్రేలియా, న్యూజిలాండ్ త్వరితగతిన సవాల్ చేసేందుకు నాలుగు వారాల్లో నాలుగు టెస్టులు",
+      "summary_te": "ఆస్ట్రేలియా పురుషులు కూడా వైట్-బాల్ క్రికెట్ కోసం ఇంగ్లాండ్‌కు ఆతిథ్యం ఇవ్వగా, మహిళలు బంగ్లాదేశ్ మరియు న్యూజిలాండ్‌లతో తలపడతారు",
+      "translated": true
+    },
     {
       "id": "0423127c4ae40d8070067dd03a8732c5",
       "title": "The who's who of injured and unavailable players for IPL 2026",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "స్టార్క్ మరియు హేజిల్‌వుడ్ IPL 2026 ప్రారంభ ఆటలకు దూరంగా ఉండే అవకాశం ఉంది",
       "summary_te": "మిచెల్ స్టార్క్ మరియు జోష్ హేజిల్‌వుడ్ ఐపీఎల్ 2026లో కొంత భాగాన్ని లేదా మొత్తం మిస్ అయ్యే ఆస్ట్రేలియా ఆటగాళ్ల జాబితాలో చేరారు.",
-      "translated": true
-    },
-    {
-      "id": "502158d9d1bf66a1f3e9a5d751e4e333",
-      "title": "BBL privatisation may not be an all-in decision as deadline looms",
-      "summary": "A model has been discussed whereby a sale of clubs could continue even if some opt against it",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528453.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412300/412333.jpg",
-      "published_at": "2026-03-20T04:33:32.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "గడువు ముగుస్తున్నందున BBL ప్రైవేటీకరణ అనేది ఆల్ ఇన్ నిర్ణయం కాకపోవచ్చు",
-      "summary_te": "క్లబ్‌ల విక్రయాన్ని కొందరు వ్యతిరేకించినప్పటికీ కొనసాగించే మోడల్ గురించి చర్చించబడింది",
       "translated": true
     }
   ]

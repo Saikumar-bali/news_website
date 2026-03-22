@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T07:45:09.611Z",
-  "updated_at_IST": "22/3/2026, 1:15:09 pm",
+  "updated_at": "2026-03-22T08:33:10.234Z",
+  "updated_at_IST": "22/3/2026, 2:03:10 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "b2ad792a20d3d429c4187f6d6f4fd755",
+      "title": "CSK's ROAR 2026: AR Rahman joins MS Dhoni & Co at Chepauk; Where to watch, list of events & all you need to know",
+      "summary": "Chennai Super Kings will host ROAR 2026 - a fan event at the MA Chidambaram Stadium in Chepauk on March 22. The event will have the current squad, a few former stars and musical icons AR Rahman and Sivakarthikeyan.",
+      "url": "https://www.livemint.com/news/csks-roar-2026-ar-rahman-joins-ms-dhoni-co-at-chepauk-where-to-watch-list-of-events-all-you-need-to-know-11774161312745.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Sanju_Samson_1774162208204_1774162208307.jpg",
+      "published_at": "2026-03-22T07:38:23.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "CSK యొక్క ROAR 2026: AR రెహమాన్ చెపాక్‌లో MS ధోని & కోలో చేరాడు; ఎక్కడ చూడాలి, ఈవెంట్‌ల జాబితా & మీరు తెలుసుకోవలసినవన్నీ",
+      "summary_te": "చెన్నై సూపర్ కింగ్స్ మార్చి 22న చెపాక్‌లోని MA చిదంబరం స్టేడియంలో ROAR 2026 - అభిమానుల ఈవెంట్‌ను నిర్వహించనుంది. ఈ ఈవెంట్‌లో ప్రస్తుత జట్టు, కొంతమంది మాజీ స్టార్లు మరియు సంగీత దిగ్గజాలు AR రెహమాన్ మరియు శివకార్తికేయన్‌లు పాల్గొంటారు.",
+      "translated": true
+    },
     {
       "id": "5899a2e426063871c704a3d776a64a6d",
       "title": "US LPG cargo ship arrives at New Mangalore Port as supply tightens",
@@ -188,15 +202,15 @@
     },
     {
       "id": "93a16dbaf4cd3c6f2769bd379b812bef",
-      "title": "Iran Israel War LIVE: Can Iran’s long-range missile reach London, Paris or Berlin? Bibi says ‘very difficult evening’",
+      "title": "Iran Israel War LIVE: Can Iran’s long-range missile reach London, Paris or Rome? Bibi says ‘very difficult evening’",
       "summary": "Iran Israel War LIVE: Track the latest developments in the US–Israel–Iran conflict as of Sunday, March 22. Iran launched missile strikes on the Israeli towns of Arad and Dimona, injuring more than 100 civilians and causing heavy damage to buildings near Israel’s main nuclear research facility.",
       "url": "https://www.livemint.com/news/world/us-israel-iran-war-live-updates-hormuz-oil-prices-trump-tehran-israel-netanyahu-natanz-attack-march-22-2026-11774137777898.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/TOPSHOT-ISRAEL-US-IRAN-WAR-NETANYAHU-0_1774155094912_1774155106259.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Slovenia-Election-Protests-2_1774166713819_1774166743291.jpg",
       "published_at": "2026-03-22T00:23:29.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ ఇజ్రాయెల్ యుద్ధం ప్రత్యక్ష ప్రసారం: ఇరాన్ యొక్క సుదూర క్షిపణి లండన్, పారిస్ లేదా బెర్లిన్‌ను చేరుకోగలదా? బీబీ 'చాలా కష్టమైన సాయంత్రం' అని చెప్పింది",
+      "title_te": "ఇరాన్ ఇజ్రాయెల్ యుద్ధం ప్రత్యక్ష ప్రసారం: ఇరాన్ యొక్క సుదూర క్షిపణి లండన్, పారిస్ లేదా రోమ్‌ను చేరుకోగలదా? బీబీ 'చాలా కష్టమైన సాయంత్రం' అని చెప్పింది",
       "summary_te": "ఇరాన్ ఇజ్రాయెల్ వార్ లైవ్: మార్చి 22, ఆదివారం నాటికి యుఎస్-ఇజ్రాయెల్-ఇరాన్ వివాదంలో తాజా పరిణామాలను ట్రాక్ చేయండి. ఇరాన్ ఇజ్రాయెల్ పట్టణాలైన అరద్ మరియు డిమోనాపై క్షిపణి దాడులను ప్రారంభించింది, 100 మందికి పైగా పౌరులు గాయపడ్డారు మరియు ఇజ్రాయెల్ యొక్క ప్రధాన అణు పరిశోధనా కేంద్రానికి సమీపంలో ఉన్న భవనాలకు భారీ నష్టం కలిగించారు.",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఉత్తరప్రదేశ్: ఖమేనీతో సంబంధాలు ఉన్న బారాబంకి కింటూర్ గ్రామం అతని మరణానికి సంతాపంగా ఈద్ ఉత్సవాలను విరమించుకుంది",
       "summary_te": "దివంగత ఇరానియన్ మత గురువుతో సంఘం పంచుకునే లోతైన పూర్వీకుల సంబంధాల ద్వారా ఆజ్యం పోసిన దుఃఖం యొక్క భారీ వాతావరణం గ్రామంలో స్థిరపడింది.",
-      "translated": true
-    },
-    {
-      "id": "613f4404d7e69854e6445ef43acefbf8",
-      "title": "Nancy Guthrie case update: Expert suggests more than one person was involved in her disappearance",
-      "summary": "Nancy Guthrie, who was last seen on 31 January, has been missing from her home in Tucson, Arizona. As investigation continues, a former homicide detective has pointed out that there could be a possibility of involvement of more than one person in her disappearance.&nbsp;",
-      "url": "https://www.livemint.com/news/us-news/nancy-guthrie-case-update-expert-suggests-more-than-one-person-was-involvement-in-her-disappearance-11774110069144.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/21/1600x900/logo/USA-CRIME-GUTHRIE-4_1771380355352_1771380373713_1774110257205.JPG",
-      "published_at": "2026-03-21T16:55:17.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "నాన్సీ గుత్రీ కేసు నవీకరణ: ఆమె అదృశ్యంలో ఒకటి కంటే ఎక్కువ మంది వ్యక్తులు పాల్గొన్నారని నిపుణుడు సూచిస్తున్నారు",
-      "summary_te": "జనవరి 31న చివరిసారిగా కనిపించిన నాన్సీ గుత్రీ, అరిజోనాలోని టక్సన్‌లోని తన ఇంటి నుండి తప్పిపోయింది. దర్యాప్తు కొనసాగుతుండగా, ఆమె అదృశ్యంలో ఒకరి కంటే ఎక్కువ మంది వ్యక్తుల ప్రమేయం ఉండే అవకాశం ఉందని మాజీ నరహత్య డిటెక్టివ్ ఎత్తి చూపారు. ",
       "translated": true
     },
     {
