@@ -1,13 +1,55 @@
 {
-  "updated_at": "2026-03-22T14:31:19.534Z",
-  "updated_at_IST": "22/3/2026, 8:01:19 pm",
+  "updated_at": "2026-03-22T15:27:43.449Z",
+  "updated_at_IST": "22/3/2026, 8:57:43 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "9ea9059d2471475bffbc25d09ffbb98e",
+      "title": "Trouble continues for Cuba as it faces second blackout in a week. Will the island nation be forced to fold?",
+      "summary": "On Saturday, Cuba faced its second blackout in a week after the grid collapsed. The island nation is already witnessing troubles as the US has blocked fuel supplies to Havana, plunging the country into a state of uncertainty.",
+      "url": "https://www.livemint.com/news/world/trouble-continues-for-cuba-as-it-faces-second-blackout-in-a-week-will-the-island-nation-be-forced-to-fold-11774189882658.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/APTOPIX-Cuba-US-Venezuela-0_1768236325953_1768236340500_1774190030147.jpg",
+      "published_at": "2026-03-22T14:53:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఒక వారంలో రెండవ బ్లాక్‌అవుట్‌ను ఎదుర్కొంటున్నందున క్యూబాకు సమస్య కొనసాగుతోంది. ద్వీప దేశం బలవంతంగా ముడుచుకోబడుతుందా?",
+      "summary_te": "శనివారం, గ్రిడ్ కుప్పకూలిన తర్వాత ఒక వారంలో క్యూబా రెండవ బ్లాక్‌అవుట్‌ను ఎదుర్కొంది. హవానాకు ఇంధన సరఫరాను అమెరికా అడ్డుకోవడంతో దేశాన్ని అనిశ్చితి స్థితిలోకి నెట్టడంతో ద్వీప దేశం ఇప్పటికే ఇబ్బందులను ఎదుర్కొంటోంది.",
+      "translated": true
+    },
+    {
+      "id": "fc5a7df131f9a3bda99b669e1c47141c",
+      "title": "Hawaii flooding: ‘Aquaman’ actor Jason Momoa forced to flee his home with no power amid powerful storm, says ‘We’re….'",
+      "summary": "Hawaii Emergency Management stated about ongoing storms threatening Oahu’s Wahiawa dam. Jason Momoa shared a video about the crisis, highlighting evacuations, landslides, and rising waters. He urged people to check on neighbours and expressed concern for those affected by recent storms.",
+      "url": "https://www.livemint.com/news/us-news/hawaii-flooding-aquaman-actor-jason-momoa-forced-to-flee-his-home-with-no-power-amid-powerful-storm-says-were-11774186706616.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Britain-The-Wrecking-Crew-Screening-12_1774188584909_1774188598359.jpg",
+      "published_at": "2026-03-22T14:43:01.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "హవాయి వరదలు: 'ఆక్వామాన్' నటుడు జాసన్ మోమోవా శక్తివంతమైన తుఫాను మధ్య శక్తి లేకుండా తన ఇంటి నుండి పారిపోవాల్సి వచ్చింది, 'మేము...'",
+      "summary_te": "హవాయి ఎమర్జెన్సీ మేనేజ్‌మెంట్ ఓహు యొక్క వహియావా ఆనకట్టను బెదిరించే తుఫానుల గురించి పేర్కొంది. జాసన్ మోమోవా సంక్షోభం గురించి వీడియోను పంచుకున్నారు, తరలింపులు, కొండచరియలు విరిగిపడటం మరియు పెరుగుతున్న జలాలను హైలైట్ చేశారు. ఇరుగుపొరుగు వారిని తనిఖీ చేయాలని ఆయన ప్రజలను కోరారు మరియు ఇటీవలి తుఫానుల వల్ల ప్రభావితమైన వారి పట్ల ఆందోళన వ్యక్తం చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "73b646b9d45a8b55e52e2be0bccbe4a8",
+      "title": "Trump sends ICE to airports under Homan as TSA shortages worsen amid DHS funding deadlock",
+      "summary": "Trump’s announcement follows his earlier warning that ICE agents would be deployed if lawmakers failed to reach a funding agreement for the Department of Homeland Security (DHS).",
+      "url": "https://www.livemint.com/news/us-news/trump-sends-ice-to-airports-under-homan-as-tsa-shortages-worsen-amid-dhs-funding-deadlock-11774188819988.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Travel-Delays-7_1774190081677_1774190100135.jpg",
+      "published_at": "2026-03-22T14:38:44.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "DHS నిధుల ప్రతిష్టంభన మధ్య TSA కొరత తీవ్రమవుతున్నందున ట్రంప్ హోమన్ కింద విమానాశ్రయాలకు ICEని పంపారు",
+      "summary_te": "డిపార్ట్‌మెంట్ ఆఫ్ హోమ్‌ల్యాండ్ సెక్యూరిటీ (డిహెచ్‌ఎస్) కోసం చట్టసభ సభ్యులు నిధుల ఒప్పందాన్ని కుదుర్చుకోవడంలో విఫలమైతే, ఐసిఇ ఏజెంట్లను మోహరిస్తామని గతంలో చేసిన హెచ్చరికను అనుసరించి ట్రంప్ ప్రకటన చేశారు.",
+      "translated": true
+    },
+    {
       "id": "8e155430a71b59d4cd994630b4857f60",
       "title": "MS Dhoni shakes leg with DJ Bravo at CSK's ROAR 2026 event in Chepauk; internet reacts ‘Dhurandhar’; watch viral video",
-      "summary": "MS Dhoni shakes leg with DJ Bravo at CSK's ROAR 2026 event in Chepauk; internet reacts ‘Dhurandhar’; watch viral video",
+      "summary": "MS Dhoni was seen in light mood during the ROAR 2026 event hosted by CSK at the Chepauk. The event also saw the reunion of many CSK stalwarts, with Dwayne Bravo among them.",
       "url": "https://www.livemint.com/news/ms-dhoni-shakes-leg-with-dj-bravo-at-csks-roar-2026-event-in-chepauk-internet-reacts-dhurandhar-watch-viral-video-11774187616094.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/CSK_1774188401109_1774188401280.jpg",
       "published_at": "2026-03-22T14:08:28.000Z",
@@ -15,7 +57,7 @@
       "category": "business",
       "language": "en",
       "title_te": "చెపాక్‌లో జరిగిన CSK యొక్క ROAR 2026 ఈవెంట్‌లో MS ధోని DJ బ్రావోతో కాలు వణుకుతున్నాడు; ఇంటర్నెట్ 'ధురంధర్' ప్రతిస్పందిస్తుంది; వైరల్ వీడియో చూడండి",
-      "summary_te": "చెపాక్‌లో జరిగిన CSK యొక్క ROAR 2026 ఈవెంట్‌లో MS ధోని DJ బ్రావోతో కాలు వణుకుతున్నాడు; ఇంటర్నెట్ 'ధురంధర్' ప్రతిస్పందిస్తుంది; వైరల్ వీడియో చూడండి",
+      "summary_te": "చెపాక్‌లో CSK హోస్ట్ చేసిన ROAR 2026 ఈవెంట్‌లో MS ధోని లైట్ మూడ్‌లో కనిపించాడు. ఈ కార్యక్రమంలో డ్వేన్ బ్రావోతో పాటు పలువురు CSK దిగ్గజాలు తిరిగి కలుసుకున్నారు.",
       "translated": true
     },
     {
@@ -93,7 +135,7 @@
       "title": "KKR mentor Dwayne Bravo brings Chepauk crowd onto its feet with ‘Champion’ show at CSK's ROAR 2026; watch viral video",
       "summary": "Dwayne Bravo, who played 116 games for Chennai Super Kings in IPL, is currently the mentor three-time champions Kolkata Knight Riders. Bravo was present at the ROAR 2026 event hosted by KKR.&nbsp;",
       "url": "https://www.livemint.com/news/kkr-mentor-dwayne-bravo-brings-chepauk-crowd-onto-its-feet-with-champion-show-at-csks-roar-2026-watch-viral-video-11774184043462.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/Bravo_1774188534394_1774188534544.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/Bravo_1774188534394_1774188534544.jpg",
       "published_at": "2026-03-22T13:33:51.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -313,20 +355,6 @@
       "translated": true
     },
     {
-      "id": "9bc2489282ecc46d99d4621f543b2e62",
-      "title": "US-operated Patriot missile likely involved in Bahrain blast on March 9 that injured over 30 people",
-      "summary": "A blast in Bahrain's Mahazza, injuring over 30 civilians, may have resulted from a U.S. Patriot missile intercepting an Iranian drone. Analysis suggests the missile detonated mid-air, causing extensive damage, while Bahrain's defenses failed to prevent the Iranian attack on a nearby oil refinery.",
-      "url": "https://www.livemint.com/news/usoperated-patriot-missile-likely-involved-in-bahrain-blast-on-march-9-11774177815083.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/im-59263732_1772673126339_1772673257232_1774177918447.jpg",
-      "published_at": "2026-03-22T11:23:07.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మార్చి 9న 30 మందికి పైగా గాయపడిన బహ్రెయిన్ పేలుడులో అమెరికా నిర్వహించే పేట్రియాట్ క్షిపణి ప్రమేయం ఉండవచ్చు.",
-      "summary_te": "బహ్రెయిన్‌లోని మహాజ్జాలో పేలుడు సంభవించి, 30 మందికి పైగా పౌరులు గాయపడ్డారు, ఇరాన్ డ్రోన్‌ను యుఎస్ పేట్రియాట్ క్షిపణి అడ్డగించడం వల్ల సంభవించి ఉండవచ్చు. క్షిపణి గాలి మధ్యలోనే పేలిపోయి, భారీ నష్టాన్ని కలిగించిందని, సమీపంలోని చమురు శుద్ధి కర్మాగారంపై ఇరాన్ దాడిని నిరోధించడంలో బహ్రెయిన్ రక్షణ విఫలమైందని విశ్లేషణ సూచిస్తుంది.",
-      "translated": true
-    },
-    {
       "id": "46ce14da4dd4862ba83cd8cec1e70746",
       "title": "Govt may consider OFS option for raising public float in IDBI Bank",
       "summary": "The government may consider selling a stake in IDBI Bank through the Offer-for-Sale (OFS) route to increase public shareholding, after the unsuccessful attempt to divest stake in the LIC-controlled lender, sources said.",
@@ -338,34 +366,6 @@
       "language": "en",
       "title_te": "IDBI బ్యాంక్‌లో పబ్లిక్ ఫ్లోట్‌ను పెంచడానికి OFS ఎంపికను ప్రభుత్వం పరిగణించవచ్చు",
       "summary_te": "ఎల్‌ఐసి నియంత్రణలో ఉన్న రుణదాతలో వాటాను ఉపసంహరించుకునే ప్రయత్నం విఫలమైన తర్వాత, పబ్లిక్ షేర్‌హోల్డింగ్‌ను పెంచడానికి ఆఫర్-ఫర్-సేల్ (OFS) మార్గం ద్వారా IDBI బ్యాంక్‌లో వాటాను విక్రయించడాన్ని ప్రభుత్వం పరిగణించవచ్చని వర్గాలు తెలిపాయి.",
-      "translated": true
-    },
-    {
-      "id": "da7a956c3a6226c894b1118e229fed34",
-      "title": "Delhi horror: Mother kills two daughters in Malviya Nagar, attempts suicide; arrested",
-      "summary": "Delhi Police arrested a 54-year-old woman after her two daughters, aged 34 and 28, were found dead in their Malviya Nagar home. The mother, suspected of consuming poison, was undergoing a psychiatric assessment. Investigations suggest her mental distress may have contributed to the incident.",
-      "url": "https://www.livemint.com/news/india/delhi-horror-mother-kills-two-daughters-in-malviya-nagar-attempts-suicide-arrested-11774176217807.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/crime_scene_1762737441686_1762737441843_1774176784689.jpg",
-      "published_at": "2026-03-22T11:00:46.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఢిల్లీలో ఘోరం: మాల్వియా నగర్‌లో ఇద్దరు కూతుళ్లను చంపిన తల్లి, ఆత్మహత్యాయత్నం; అరెస్టు చేశారు",
-      "summary_te": "ఢిల్లీ పోలీసులు 54 ఏళ్ల మహిళను అరెస్టు చేశారు, ఆమె ఇద్దరు కుమార్తెలు, 34 మరియు 28 సంవత్సరాలు, వారి మాళవియా నగర్ ఇంటిలో శవమై కనిపించారు. విషం తాగినట్లు అనుమానించిన తల్లికి మానసిక వైద్య పరీక్షలు చేస్తున్నారు. ఆమె మానసిక క్షోభే ఈ ఘటనకు కారణమై ఉండవచ్చని పరిశోధనలు చెబుతున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "8884dea4c448ec788c3c40a0226ab447",
-      "title": "Andhra Pradesh milk adulteration case: 16 dead, dairy's milk supply suspended—what did preliminary inquiry reveal?",
-      "summary": "A suspected milk adulteration case in East Godavari, Andhra Pradesh, has resulted in 16 deaths, according to District Medical Officer K. Venkateswara Rao. Three individuals remain hospitalised as doctors monitor their conditions following serious symptoms observed in elderly patients since Feb 22.",
-      "url": "https://www.livemint.com/news/india/andhra-pradesh-milk-adulteration-case-16-dead-dairys-milk-supply-suspended-what-did-preliminary-inquiry-reveal-11774172786384.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/22/1600x900/logo/pexels-photo-5967316_1774176007308_1774176015933.jpeg",
-      "published_at": "2026-03-22T10:42:33.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆంధ్రప్రదేశ్ పాల కల్తీ కేసు: 16 మంది మృతి, డెయిరీ పాల సరఫరా నిలిపివేయబడింది-ప్రాథమిక విచారణలో ఏం వెల్లడైంది?",
-      "summary_te": "ఆంధ్రప్రదేశ్‌లోని తూర్పుగోదావరిలో అనుమానాస్పద పాల కల్తీ కేసులో 16 మంది మృతి చెందినట్లు జిల్లా వైద్యాధికారి కె. వెంకటేశ్వరరావు తెలిపారు. ఫిబ్రవరి 22 నుండి వృద్ధ రోగులలో గమనించిన తీవ్రమైన లక్షణాల కారణంగా వైద్యులు వారి పరిస్థితిని పర్యవేక్షిస్తున్నందున ముగ్గురు వ్యక్తులు ఆసుపత్రిలో ఉన్నారు.",
       "translated": true
     },
     {
