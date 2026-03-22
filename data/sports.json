@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T05:29:07.109Z",
-  "updated_at_IST": "22/3/2026, 10:59:07 am",
+  "updated_at": "2026-03-22T06:48:51.391Z",
+  "updated_at_IST": "22/3/2026, 12:18:51 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "59b0914d9ebaf230bd4ea78fd88801d1",
+      "title": "South Africa ask New Zealand to field as both sides ring in the changes",
+      "summary": "Katene Clarke is on his international debut with many seniors rested for New Zealand; Prenelan Subrayen comes in to join Keshav Maharaj and George Linde in the spin attack for South Africa",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528685.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414539.jpg",
+      "published_at": "2026-03-22T06:15:57.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రెండు జట్లూ మార్పులు చేర్పులు చేయడంతో దక్షిణాఫ్రికా న్యూజిలాండ్‌ను ఫీల్డింగ్ చేయమని కోరింది",
+      "summary_te": "కాటేన్ క్లార్క్ తన అంతర్జాతీయ అరంగేట్రంలో చాలా మంది సీనియర్‌లతో న్యూజిలాండ్‌లో విశ్రాంతి తీసుకున్నాడు; దక్షిణాఫ్రికా కోసం స్పిన్ దాడిలో కేశవ్ మహారాజ్ మరియు జార్జ్ లిండేతో కలిసి ప్రేనెలన్ సుబ్రాయెన్ వచ్చాడు",
+      "translated": true
+    },
+    {
+      "id": "8355b39c829b3f7a7cd91a9ccf687c5e",
+      "title": "Devine, Jess Kerr power New Zealand to a series win with a game to spare",
+      "summary": "Dercksen also put on a powerful display for South Africa but it ended in vain",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528674.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414826.jpg",
+      "published_at": "2026-03-22T05:45:48.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డివైన్, జెస్ కెర్ న్యూజిలాండ్‌కు ఇంకా ఒక గేమ్ మిగిలి ఉండగానే సిరీస్ విజయం సాధించారు",
+      "summary_te": "డెర్క్‌సెన్ కూడా దక్షిణాఫ్రికా కోసం శక్తివంతమైన ప్రదర్శనను ప్రదర్శించాడు, కానీ అది ఫలించలేదు",
+      "translated": true
+    },
     {
       "id": "98c7eb5025081f5ecadb4c26e6071665",
       "title": "King and Garth star as Australia seal 2-0 series win despite Matthews scare",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "గడువు ముగుస్తున్నందున BBL ప్రైవేటీకరణ అనేది ఆల్ ఇన్ నిర్ణయం కాకపోవచ్చు",
       "summary_te": "క్లబ్‌ల విక్రయాన్ని కొందరు వ్యతిరేకించినప్పటికీ కొనసాగించే మోడల్ గురించి చర్చించబడింది",
-      "translated": true
-    },
-    {
-      "id": "b4ae9c23b4138dcf905172463f4f3a34",
-      "title": "SRH's Jack Edwards ruled out of IPL 2026 with foot injury",
-      "summary": "Jack Edwards's injury adds to the growing list of Australian quick bowlers who have been hit with injuries ahead of IPL 2026",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528448.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/412200/412258.jpg",
-      "published_at": "2026-03-20T04:20:19.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "SRH యొక్క జాక్ ఎడ్వర్డ్స్ పాదాల గాయంతో IPL 2026 నుండి తప్పుకున్నాడు",
-      "summary_te": "జాక్ ఎడ్వర్డ్స్ గాయం IPL 2026కి ముందు గాయాలతో బాధపడుతున్న ఆస్ట్రేలియన్ శీఘ్ర బౌలర్ల జాబితాకు జోడించబడింది",
-      "translated": true
-    },
-    {
-      "id": "9081203120bd895e035598bb345a5c05",
-      "title": "King and Mooney star as Australia escape catching nightmare",
-      "summary": "The visitors spilled five chances but still emerged from the opening T20I as comfortable winners",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528435.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/395000/395089.jpg",
-      "published_at": "2026-03-20T03:16:41.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కింగ్ మరియు మూనీ ఆస్ట్రేలియా పాత్రలో పీడకల నుండి తప్పించుకున్నారు",
-      "summary_te": "సందర్శకులు ఐదు అవకాశాలను చిందించినప్పటికీ, ప్రారంభ T20I నుండి సౌకర్యవంతమైన విజేతలుగా నిలిచారు",
       "translated": true
     }
   ]
