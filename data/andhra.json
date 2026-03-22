@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T03:52:15.336Z",
-  "updated_at_IST": "22/3/2026, 9:22:15 am",
+  "updated_at": "2026-03-22T05:29:07.109Z",
+  "updated_at_IST": "22/3/2026, 10:59:07 am",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "3a27ea1257acf8478e01a08d49cc2366",
+      "title": "KLU releases Management Aptitude Test results",
+      "summary": "The university will conduct an entrance examination for engineering courses for three days from March 27",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/klu-releases-management-aptitude-test-results/article70769885.ece",
+      "image": null,
+      "published_at": "2026-03-21T18:03:06.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "KLU మేనేజ్‌మెంట్ ఆప్టిట్యూడ్ టెస్ట్ ఫలితాలను విడుదల చేసింది",
+      "summary_te": "మార్చి 27 నుంచి మూడు రోజుల పాటు ఇంజినీరింగ్ కోర్సుల ప్రవేశ పరీక్షను యూనివర్సిటీ నిర్వహించనుంది",
+      "translated": true
+    },
     {
       "id": "1d77a1c82b4d56f0197cf57787c4c503",
       "title": "Religious fervour and prayers for harmony mark Eid-Ul-Fitr",
