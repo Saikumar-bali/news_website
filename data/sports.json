@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T01:12:48.819Z",
-  "updated_at_IST": "22/3/2026, 6:42:48 am",
+  "updated_at": "2026-03-22T03:52:15.336Z",
+  "updated_at_IST": "22/3/2026, 9:22:15 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "98c7eb5025081f5ecadb4c26e6071665",
+      "title": "King and Garth star as Australia seal 2-0 series win despite Matthews scare",
+      "summary": "King's 2 for 25 sealed victory after Matthews' half-century gave West Indies hope in the chase",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528636.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413833.jpg",
+      "published_at": "2026-03-22T02:32:22.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కింగ్ మరియు గార్త్ స్టార్ మాథ్యూస్ భయపెట్టినప్పటికీ ఆస్ట్రేలియా 2-0తో సిరీస్ విజయం సాధించింది",
+      "summary_te": "మాథ్యూస్ హాఫ్ సెంచరీ తర్వాత కింగ్స్ 25 పరుగులకు 2 వికెట్లు కోల్పోయి వెస్టిండీస్‌కు విజయాన్ని అందించాడు.",
+      "translated": true
+    },
+    {
+      "id": "e429e37cd1f40aa47dd6b52d7c60bd72",
+      "title": "Latham injured as New Zealand seek rare bilateral series win over South Africa",
+      "summary": "New Zealand have never beaten South Africa in a bilateral series of two or more T20Is",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528609.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414801.jpg",
+      "published_at": "2026-03-22T01:54:38.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "దక్షిణాఫ్రికాపై న్యూజిలాండ్ అరుదైన ద్వైపాక్షిక సిరీస్ విజయాన్ని కోరుతున్నందున లాథమ్ గాయపడ్డాడు",
+      "summary_te": "రెండు లేదా అంతకంటే ఎక్కువ టీ20ల ద్వైపాక్షిక సిరీస్‌లో న్యూజిలాండ్ ఎప్పుడూ దక్షిణాఫ్రికాను ఓడించలేదు",
+      "translated": true
+    },
     {
       "id": "a22616c22835c40cbca7358b350f14e2",
       "title": "Reeza Hendricks replaces Johnson Charles at Karachi Kings for PSL 2026",
@@ -86,20 +114,6 @@
       "language": "en",
       "title_te": "IPL 2026 కోసం NOCలు పొందడానికి ఫిట్‌నెస్ పరీక్షను క్లియర్ చేయాలని శ్రీలంక ఆటగాళ్లకు చెప్పారు",
       "summary_te": "చమీర, నిస్సాంక మరియు కమిందు వారి పరీక్షలలో ఉత్తీర్ణులయ్యారు, హసరంగ, పతిరనా మరియు మలింగ ఇంకా వారి పరీక్షలు చేయించుకోలేదు",
-      "translated": true
-    },
-    {
-      "id": "e429e37cd1f40aa47dd6b52d7c60bd72",
-      "title": "New Zealand seek rare bilateral series win over South Africa",
-      "summary": "New Zealand have never beaten South Africa in a bilateral series of two or more T20Is",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528609.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414801.jpg",
-      "published_at": "2026-03-21T07:09:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "దక్షిణాఫ్రికాపై న్యూజిలాండ్ అరుదైన ద్వైపాక్షిక సిరీస్ విజయాన్ని కోరుకుంది",
-      "summary_te": "రెండు లేదా అంతకంటే ఎక్కువ టీ20ల ద్వైపాక్షిక సిరీస్‌లో న్యూజిలాండ్ ఎప్పుడూ దక్షిణాఫ్రికాను ఓడించలేదు",
       "translated": true
     },
     {
@@ -254,20 +268,6 @@
       "language": "en",
       "title_te": "'నేను బహుశా NZ20 వైపు మొగ్గు చూపుతాను,' అని డివైన్ న్యూజిలాండ్ మార్పు యొక్క గాలుల కోసం బ్రేస్ చేస్తున్నప్పుడు చెప్పాడు",
       "summary_te": "\"ఇది న్యూజిలాండ్ టోర్నమెంట్‌ను కలిగి ఉండటం ఆశాజనకంగా కనిపిస్తోంది మరియు ఇది చాలా ఉత్తేజకరమైనది\" అని లాకీ ఫెర్గూసన్ చెప్పారు",
-      "translated": true
-    },
-    {
-      "id": "89a12003b98053e16b9418f97648bbf9",
-      "title": "Ferguson to miss early part of IPL 2026, committed to keep playing for New Zealand",
-      "summary": "The fast bowler plans to link up with Punjab Kings for the latter stages of the IPL",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528413.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398600/398656.jpg",
-      "published_at": "2026-03-20T09:33:02.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఫెర్గూసన్ IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతాడు, న్యూజిలాండ్ కోసం ఆడటం కొనసాగించడానికి కట్టుబడి ఉన్నాడు",
-      "summary_te": "ఫాస్ట్ బౌలర్ IPL యొక్క చివరి దశల కోసం పంజాబ్ కింగ్స్‌తో జతకట్టాలని యోచిస్తున్నాడు",
       "translated": true
     },
     {
