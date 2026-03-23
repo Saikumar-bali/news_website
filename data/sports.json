@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-23T06:18:00.806Z",
-  "updated_at_IST": "23/3/2026, 11:48:00 am",
+  "updated_at": "2026-03-23T08:08:26.127Z",
+  "updated_at_IST": "23/3/2026, 1:38:26 pm",
   "category": "sports",
   "count": 25,
   "articles": [
@@ -10,12 +10,26 @@
       "summary": "The decision is not a final commitment and the NZ board wants a greater focus on the women's game",
       "url": "https://www.espncricinfo.com/ci/content/story/1528761.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/412700/412711.jpg",
-      "published_at": "2026-03-23T04:30:10.000Z",
+      "published_at": "2026-03-23T07:19:33.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "న్యూజిలాండ్ క్రికెట్ భవిష్యత్తు కోసం NZ20ని ప్రాధాన్యత ఎంపికగా ఎంచుకుంటుంది",
       "summary_te": "ఈ నిర్ణయం అంతిమ నిబద్ధత కాదు మరియు మహిళల ఆటపై ఎక్కువ దృష్టి పెట్టాలని NZ బోర్డు కోరుకుంటోంది",
+      "translated": true
+    },
+    {
+      "id": "cf4212f2ed8adc27e90bc706777044d2",
+      "title": "'I can adapt to any situation' - Renshaw pushes for Australia Test place",
+      "summary": "Says his white-ball improvements can help him be better if he gets a red-ball comeback",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528884.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/396300/396375.jpg",
+      "published_at": "2026-03-23T07:12:33.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'నేను ఎలాంటి పరిస్థితులకైనా అనుగుణంగా మారగలను' - రెన్‌షా ఆస్ట్రేలియా టెస్ట్ ప్లేస్ కోసం ముందుకు వచ్చాడు",
+      "summary_te": "అతను రెడ్-బాల్ పునరాగమనం పొందినట్లయితే అతని వైట్-బాల్ మెరుగుదలలు అతనికి మరింత మెరుగ్గా ఉండటానికి సహాయపడతాయని చెప్పాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతారు",
       "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి అందుబాటులో ఉంటారని, అయితే హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి తప్పుకున్నారు",
-      "translated": true
-    },
-    {
-      "id": "3dd0307958523a4a79110544e1287cb7",
-      "title": "Ireland to host Afghanistan men for ODIs despite 'moral discomfort'",
-      "summary": "Cricket Ireland has also extended an invitation to the exiled Afghanistan women's team to play fixtures in Ireland",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528592.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/377900/377954.jpg",
-      "published_at": "2026-03-20T18:24:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'నైతిక అసౌకర్యం' ఉన్నప్పటికీ ఐర్లాండ్ వన్డేలకు ఆఫ్ఘనిస్తాన్ పురుషులకు ఆతిథ్యం ఇవ్వనుంది",
-      "summary_te": "ఐర్లాండ్‌లో మ్యాచ్‌లు ఆడేందుకు బహిష్కృత ఆఫ్ఘనిస్తాన్ మహిళల జట్టుకు క్రికెట్ ఐర్లాండ్ కూడా ఆహ్వానం పంపింది.",
       "translated": true
     }
   ]
