@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T12:48:36.943Z",
-  "updated_at_IST": "23/3/2026, 6:18:36 pm",
+  "updated_at": "2026-03-23T14:19:31.209Z",
+  "updated_at_IST": "23/3/2026, 7:49:31 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "0423127c4ae40d8070067dd03a8732c5",
+      "title": "The who's who of injured and unavailable players for IPL 2026",
+      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
+      "published_at": "2026-03-23T13:57:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
+      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
+      "translated": true
+    },
     {
       "id": "e33db6ab4a4adca1421406c471df7d43",
       "title": "Shanaka replaces injured Curran at Rajasthan Royals",
@@ -86,20 +100,6 @@
       "language": "en",
       "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "0423127c4ae40d8070067dd03a8732c5",
-      "title": "The who's who of injured and unavailable players for IPL 2026",
-      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
-      "published_at": "2026-03-23T02:52:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
-      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
       "translated": true
     },
     {
