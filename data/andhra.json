@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-23T18:50:02.412Z",
-  "updated_at_IST": "24/3/2026, 12:20:02 am",
+  "updated_at": "2026-03-23T19:51:35.541Z",
+  "updated_at_IST": "24/3/2026, 1:21:35 am",
   "category": "andhra",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "67e72311f2fc68a19c249f5dc0a49726",
+      "title": "Community Health Officers protest for workload reduction and incentives",
+      "summary": "They allege that instead of increasing salaries for putting in more hours, the CHOs are being stripped off whatever they used to receive earlier",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/community-health-officers-protest-for-workload-reduction-and-incentives/article70776737.ece",
+      "image": "https://th-i.thgim.com/public/incoming/3eza7p/article70777054.ece/alternates/LANDSCAPE_1200/vjkvg-health%202.JPG",
+      "published_at": "2026-03-23T17:46:53.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "కమ్యూనిటీ హెల్త్ ఆఫీసర్లు పనిభారం తగ్గింపు మరియు ప్రోత్సాహకాల కోసం నిరసన",
+      "summary_te": "ఎక్కువ గంటలు పెట్టడం కోసం జీతాలు పెంచే బదులు, సిహెచ్‌ఓలు ఇంతకుముందు పొందుతున్న వాటిని తొలగిస్తున్నారని వారు ఆరోపించారు.",
+      "translated": true
+    },
+    {
+      "id": "f2537d6586f24472c9f966f58903ae14",
+      "title": "Minister sets May 15 deadline for Piduguralla medical college completion",
+      "summary": "Satya Kumar Yadav directs officials to complete the recruitment process by the end of April to ensure admissions to 100 MBBS seats can begin from the 2026-27 academic year",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-sets-may-15-deadline-for-pidiguralla-medical-college-completion/article70776129.ece",
+      "image": null,
+      "published_at": "2026-03-23T17:46:12.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పిడుగురాళ్ల మెడికల్ కాలేజీ పూర్తికి మే 15 డెడ్‌లైన్ విధించిన మంత్రి",
+      "summary_te": "2026-27 విద్యా సంవత్సరం నుంచి 100 MBBS సీట్లకు అడ్మిషన్లు ప్రారంభమయ్యేలా చూసేందుకు ఏప్రిల్ చివరి నాటికి రిక్రూట్‌మెంట్ ప్రక్రియను పూర్తి చేయాలని సత్య కుమార్ యాదవ్ అధికారులను ఆదేశించారు.",
+      "translated": true
+    },
     {
       "id": "90f12e709dce767a34039b619119f0e1",
       "title": "A.P. govt. tracking 760 projects, bunch of them to be grounded in April, says Nara Lokesh",

@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-23T18:50:02.412Z",
-  "updated_at_IST": "24/3/2026, 12:20:02 am",
+  "updated_at": "2026-03-23T19:51:35.541Z",
+  "updated_at_IST": "24/3/2026, 1:21:35 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "0ba1341e0987f6a490ecb09742cbb5ec",
+      "title": "Jaishankar, Rubio discuss energy security concerns as West Asia conflict escalates",
+      "summary": "The conversation comes at a time when the West Asia conflict is affecting global markets, especially oil and gas flows, raising concerns for major energy-importing nations like India.",
+      "url": "https://www.livemint.com/news/world/jaishankar-raises-energy-security-concerns-in-call-with-marco-rubio-amid-west-asia-crisis-11774292171885.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/jaishankar_and_rubio_1774293210347_1774293215587.jpg",
+      "published_at": "2026-03-23T19:05:31.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "జైశంకర్, రూబియో పశ్చిమాసియా సంఘర్షణ తీవ్రతరం కావడంతో ఇంధన భద్రత సమస్యలను చర్చించారు",
+      "summary_te": "పశ్చిమాసియా వివాదం ప్రపంచ మార్కెట్లను, ముఖ్యంగా చమురు మరియు గ్యాస్ ప్రవాహాలను ప్రభావితం చేస్తున్న సమయంలో, భారతదేశం వంటి ప్రధాన ఇంధన-దిగుమతి దేశాలకు ఆందోళనలను పెంచుతున్న సమయంలో ఈ సంభాషణ వచ్చింది.",
+      "translated": true
+    },
+    {
+      "id": "e5a20d8ae70271560ce70f9990f92e5a",
+      "title": "LaGuardia crash update: Airport reopens after Air Canada crash with fire truck",
+      "summary": "The disruption led to approximately 600 flight cancellations throughout the day. Despite the chaos, travelers have begun moving through TSA checkpoints as flights slowly restart.",
+      "url": "https://www.livemint.com/news/us-news/laguardia-crash-update-airport-reopens-after-air-canada-crash-with-fire-truck-11774291081754.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/USA-CRASH-AIR-CANADA-56_1774291172019_1774291178507.JPG",
+      "published_at": "2026-03-23T18:55:24.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "లాగార్డియా క్రాష్ అప్‌డేట్: ఎయిర్ కెనడా అగ్నిమాపక ట్రక్‌తో క్రాష్ అయిన తర్వాత విమానాశ్రయం తిరిగి తెరవబడింది",
+      "summary_te": "అంతరాయం కారణంగా రోజంతా సుమారు 600 విమానాలు రద్దు చేయబడ్డాయి. గందరగోళం ఉన్నప్పటికీ, విమానాలు నెమ్మదిగా పునఃప్రారంభం కావడంతో ప్రయాణికులు TSA చెక్‌పోస్టుల ద్వారా వెళ్లడం ప్రారంభించారు.",
+      "translated": true
+    },
+    {
+      "id": "e19bea1d1530a85dc2203be10196bdf7",
+      "title": "Consumption hit as kitchens feel the heat of LPG shortage",
+      "summary": "India's culinary landscape is feeling the pressure as a lack of LPG supplies disrupts the food industry. Establishments like hotels and bustling street vendors are trimming their resources, leading to lower usage of essential ingredients like edible oil and flour. The decline in wheat flour sales poses challenges for the production of staples such as bread and biscuits.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/consumption-hit-as-kitchens-feel-the-heat-of-lpg-shortage/articleshow/129760797.cms",
+      "image": null,
+      "published_at": "2026-03-23T18:42:23.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "వంటశాలలు LPG కొరత వేడిని అనుభవిస్తున్నందున వినియోగం దెబ్బతింది",
+      "summary_te": "LPG సరఫరాల కొరత ఆహార పరిశ్రమకు అంతరాయం కలిగించినందున భారతదేశం యొక్క పాక ప్రకృతి దృశ్యం ఒత్తిడిని అనుభవిస్తోంది. హోటళ్లు మరియు సందడిగా ఉండే వీధి వ్యాపారులు వంటి సంస్థలు తమ వనరులను తగ్గించుకుంటున్నాయి, ఇది తినదగిన నూనె మరియు పిండి వంటి ముఖ్యమైన పదార్థాల వినియోగాన్ని తగ్గించడానికి దారితీస్తుంది. గోధుమ పిండి అమ్మకాలు క్షీణించడం వల్ల బ్రెడ్ మరియు బిస్కెట్లు వంటి ప్రధాన ఉత్పత్తుల ఉత్పత్తికి సవాళ్లు ఎదురవుతున్నాయి.",
+      "translated": true
+    },
     {
       "id": "a69db4f1869b331b689740f7ad078a93",
       "title": "‘...I messed up’: Air traffic control audio reveals warnings before deadly LaGuardia crash",
@@ -149,7 +191,7 @@
       "title": "Colombian Air Force plane crashes near Peru border with 110 soldiers onboard; rescue operations underway",
       "summary": "A Lockheed Martin C-130 crash in southern Colombia left only 20 soldiers alive, with 110 on board. Cause and casualties remain unclear as rescue efforts continue.",
       "url": "https://www.livemint.com/news/world/colombian-air-force-plane-crashes-near-peru-border-with-110-soldiers-onboard-rescue-operation-underway-11774284383536.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/pexels-photo-358319_1774286395542_1774286414197.jpeg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/TOPSHOT-COLOMBIA-ACCIDENT-DEFENCE-0_1774290945385_1774290955974.jpg",
       "published_at": "2026-03-23T16:55:16.000Z",
       "source": "LiveMint",
       "category": "business",
@@ -369,34 +411,6 @@
       "translated": true
     },
     {
-      "id": "76c796c6da92361fe1df6a2c36dd8a0a",
-      "title": "MOMA Foods porridge recall: Multiple flavours may be unsafe to eat due to contamination risk",
-      "summary": "Food Standards Agency has recalled multiple porridge products from MOMA Foods over possible mouse contamination at a manufacturing site. The recall affects various porridge pots and sachets across flavours and pack sizes. Consumers are advised not to eat the products and return them for a refund.",
-      "url": "https://www.livemint.com/news/us-news/moma-foods-porridge-recall-multiple-flavours-may-be-unsafe-to-eat-due-to-contamination-risk-11774272380953.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/moma_porridge_1774273144413_1774273159800.jpg",
-      "published_at": "2026-03-23T13:51:02.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "MOMA ఫుడ్స్ గంజి రీకాల్: కలుషిత ప్రమాదం కారణంగా బహుళ రుచులు తినడానికి సురక్షితం కాకపోవచ్చు",
-      "summary_te": "ఫుడ్ స్టాండర్డ్స్ ఏజెన్సీ MOMA ఫుడ్స్ నుండి బహుళ గంజి ఉత్పత్తులను తయారీ సైట్‌లో మౌస్ కాలుష్యం కారణంగా రీకాల్ చేసింది. రీకాల్ రుచులు మరియు ప్యాక్ పరిమాణాలలో వివిధ గంజి కుండలు మరియు సాచెట్‌లను ప్రభావితం చేస్తుంది. వినియోగదారులు ఉత్పత్తులను తినకూడదని మరియు వాపసు కోసం వాటిని తిరిగి ఇవ్వమని సలహా ఇస్తారు.",
-      "translated": true
-    },
-    {
-      "id": "d06280c986311365b8089bf7df78c3ce",
-      "title": "Quote of the day by Muhammad Ali: 'Champions aren't made in the gyms, Champions are made from something they have…'",
-      "summary": "Muhammad Ali overcame hardships, defied the odds and went on to become one of the greatest athletes the world has ever produced.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-muhammad-ali-champions-arent-made-in-the-gyms-champions-are-made-from-something-they-have-11774270249534.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/Muhammad_Ali_1774271316064_1774271323956.jpg",
-      "published_at": "2026-03-23T13:39:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ముహమ్మద్ అలీ ద్వారా ఈ రోజు కోట్: 'ఛాంపియన్‌లు జిమ్‌లలో తయారు చేయబడరు, ఛాంపియన్‌లు వారి వద్ద ఉన్న వాటితో తయారు చేయబడతారు...'",
-      "summary_te": "ముహమ్మద్ అలీ కష్టాలను అధిగమించాడు, అసమానతలను ధిక్కరించాడు మరియు ప్రపంచం సృష్టించిన గొప్ప అథ్లెట్లలో ఒకడు అయ్యాడు.",
-      "translated": true
-    },
-    {
       "id": "9b85644ee31cb77ec59b0596bb1a7b7c",
       "title": "Vedanta declares Rs 11/share interim dividend; total payout at Rs 4,300 crore",
       "summary": "Vedanta Ltd on Monday announced a third interim dividend of Rs 11 per share for FY26. The board approved the payout earlier in the day and informed the exchanges during market hours. The company has set Saturday, March 28, as the record date to determine shareholders eligible to receive the payout.",
@@ -562,20 +576,6 @@
       "language": "en",
       "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "9a051028f242f27596b52aec78e0a8eb",
-      "title": "Govt plans ‘Champion CPSEs’ for Viksit Bharat by 2047, NITI Aayog roadmap soon",
-      "summary": "India is preparing to create 'champion' public sector companies. These firms will boost economic growth and technology. The goal is to help India become a developed nation by 2047. These companies will get more freedom in decisions and talent hiring. They will use new technologies for better performance.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/govt-plans-champion-cpses-for-viksit-bharat-by-2047-niti-aayog-roadmap-soon/articleshow/128434749.cms",
-      "image": null,
-      "published_at": "2026-02-16T18:44:40.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "2047 నాటికి విక్షిత్ భారత్ కోసం ‘ఛాంపియన్ CPSE’లను ప్రభుత్వం ప్లాన్ చేస్తుంది, నీతి ఆయోగ్ రోడ్‌మ్యాప్ త్వరలో",
-      "summary_te": "'ఛాంపియన్' ప్రభుత్వ రంగ సంస్థలను రూపొందించేందుకు భారత్ సిద్ధమవుతోంది. ఈ సంస్థలు ఆర్థిక వృద్ధిని మరియు సాంకేతికతను పెంచుతాయి. 2047 నాటికి భారతదేశాన్ని అభివృద్ధి చెందిన దేశంగా మార్చడం లక్ష్యం. ఈ కంపెనీలు నిర్ణయాలు మరియు ప్రతిభను నియమించుకోవడంలో మరింత స్వేచ్ఛను పొందుతాయి. మెరుగైన పనితీరు కోసం వారు కొత్త సాంకేతికతలను ఉపయోగిస్తారు.",
       "translated": true
     },
     {

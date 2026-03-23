@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-23T18:50:02.412Z",
-  "updated_at_IST": "24/3/2026, 12:20:02 am",
+  "updated_at": "2026-03-23T19:51:35.541Z",
+  "updated_at_IST": "24/3/2026, 1:21:35 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "17a4db3d3effd72555ff97b2f4b2cda4",
+      "title": "No change is all change as ECB opt for the rinse-and-repeat cycle",
+      "summary": "Management back the incumbents to turn the Test team's fortunes, but proof will be in the pudding",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528916.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409942.jpg",
+      "published_at": "2026-03-23T19:36:05.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ECB శుభ్రం చేయు మరియు పునరావృత చక్రాన్ని ఎంచుకున్నందున ఎటువంటి మార్పు లేదు",
+      "summary_te": "టెస్ట్ జట్టు అదృష్టాన్ని మార్చడానికి మేనేజ్‌మెంట్ బాధ్యతలను తిరిగి ఇస్తుంది, కానీ రుజువు పుడ్డింగ్‌లో ఉంటుంది",
+      "translated": true
+    },
+    {
+      "id": "61290520eae3ede78ebfb11363797cb0",
+      "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
+      "summary": "ECB chief executive puts faith in Key, McCullum and Stokes to learn from Ashes disappointment",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414855.jpg",
+      "published_at": "2026-03-23T19:26:47.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "యథాతథ స్థితిని కలిగి ఉన్నందున 'అడాప్ట్' చేయడానికి గౌల్డ్ ఇంగ్లాండ్ సోపానక్రమానికి మద్దతు ఇచ్చాడు",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ యాషెస్ నిరాశ నుండి నేర్చుకోవడానికి కీ, మెకల్లమ్ మరియు స్టోక్స్‌లపై విశ్వాసం ఉంచాడు",
+      "translated": true
+    },
     {
       "id": "03b2c512af72fe041446d82c4c968b22",
       "title": "KKR to replace injured Akash Deep with Saurabh Dubey",
@@ -30,20 +58,6 @@
       "language": "en",
       "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
       "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
-      "translated": true
-    },
-    {
-      "id": "61290520eae3ede78ebfb11363797cb0",
-      "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
-      "summary": "ECB chief executive puts faith in Key, McCullum and Stokes to learn from Ashes disappointment",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414855.jpg",
-      "published_at": "2026-03-23T18:11:43.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "యథాతథ స్థితిని కలిగి ఉన్నందున 'అడాప్ట్' చేయడానికి గౌల్డ్ ఇంగ్లాండ్ సోపానక్రమానికి మద్దతు ఇచ్చాడు",
-      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ యాషెస్ నిరాశ నుండి నేర్చుకోవడానికి కీ, మెకల్లమ్ మరియు స్టోక్స్‌లపై విశ్వాసం ఉంచాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ప్రపంచ కప్ 2027 లోకల్ ఆర్గనైజింగ్ కమిటీలో ఖోజా, ంగ్వేన్యా ఉన్నత పదవులు పొందారు",
       "summary_te": "Ngwenya ప్రస్తుతం సైక్లింగ్ దక్షిణాఫ్రికా అధ్యక్షుడిగా ఉండగా ఖోజా CSAలో పలు పదవులను నిర్వహించారు",
-      "translated": true
-    },
-    {
-      "id": "2c32b9bdacd102acc717ce862efa35bd",
-      "title": "KKR's Akash Deep ruled out of IPL 2026",
-      "summary": "His absence adds to a long list of seam-bowler injuries at KKR",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528614.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/404400/404466.jpg",
-      "published_at": "2026-03-21T11:34:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "KKR యొక్క ఆకాష్ దీప్ IPL 2026 నుండి తప్పుకున్నాడు",
-      "summary_te": "అతని లేకపోవడం KKRలో సీమ్-బౌలర్ గాయాల యొక్క సుదీర్ఘ జాబితాకు జతచేస్తుంది",
       "translated": true
     }
   ]
