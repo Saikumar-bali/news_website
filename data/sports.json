@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-22T23:28:36.336Z",
-  "updated_at_IST": "23/3/2026, 4:58:36 am",
+  "updated_at": "2026-03-23T01:14:58.574Z",
+  "updated_at_IST": "23/3/2026, 6:44:58 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a936f3f500fdb5dc3aca870052b17a1b",
+      "title": "New Zealand Cricket chooses NZ20 as preferred option for the future",
+      "summary": "The decision is not a final commitment and the NZ board wants a greater focus on the women's game",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528761.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412700/412711.jpg",
+      "published_at": "2026-03-23T00:50:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "న్యూజిలాండ్ క్రికెట్ భవిష్యత్తు కోసం NZ20ని ప్రాధాన్యత ఎంపికగా ఎంచుకుంటుంది",
+      "summary_te": "ఈ నిర్ణయం అంతిమ నిబద్ధత కాదు మరియు మహిళల ఆటపై ఎక్కువ దృష్టి పెట్టాలని NZ బోర్డు కోరుకుంటోంది",
+      "translated": true
+    },
     {
       "id": "1e640cd496b6bac3ee50abef79fc74c3",
       "title": "Lahore and Karachi to host all PSL 2026 games",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "కేశవ్ మహారాజ్: 'మేము చాలా అనుభవం లేనివాళ్లం, కానీ ఇది సబబు కాదు'",
       "summary_te": "వారు ప్రస్తుతం న్యూజిలాండ్‌తో జరిగిన ఐదు మ్యాచ్‌ల T20I సిరీస్‌లో 2-1తో వెనుకబడి ఉన్నారు, వారి జట్టులో చాలా మంది ఫస్ట్-ఛాయిస్ ప్లేయర్‌లు తప్పిపోయారు.",
-      "translated": true
-    },
-    {
-      "id": "0b058b7ec9f6130569b128dab9fd1ee7",
-      "title": "India, Australia tours highlight SA women's home summer",
-      "summary": "India will play one Test and three ODIs later in the year while Australia will visit SA for a full tour, which includes ODIs, T20Is and a Test",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528498.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/408800/408846.jpg",
-      "published_at": "2026-03-20T10:54:44.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "భారతదేశం, ఆస్ట్రేలియా పర్యటనలు SA మహిళల ఇంటి వేసవిని హైలైట్ చేస్తాయి",
-      "summary_te": "ఏడాది తర్వాత భారత్ ఒక టెస్ట్ మరియు మూడు ODIలు ఆడుతుంది, అయితే ఆస్ట్రేలియా పూర్తి పర్యటన కోసం SA ను సందర్శించనుంది, ఇందులో ODIలు, T20Iలు మరియు ఒక టెస్ట్ ఉన్నాయి.",
       "translated": true
     }
   ]

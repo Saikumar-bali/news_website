@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-22T23:28:36.336Z",
-  "updated_at_IST": "23/3/2026, 4:58:36 am",
+  "updated_at": "2026-03-23T01:14:58.574Z",
+  "updated_at_IST": "23/3/2026, 6:44:58 am",
   "category": "andhra",
-  "count": 22,
+  "count": 24,
   "articles": [
+    {
+      "id": "619f351f3fbf0ca1a70a620c27ec1adc",
+      "title": "Eluru police seize 13 vehicles in cordon and search operation",
+      "summary": "The Eluru Rural police conducted cordon and search operation at Indiramma Colony in Palagudem and seized 12 two-wheelers and a car that did not have valid documents.Police teams, led by trainee IPS officer Jaya Sharma, Eluru Deputy Superintendent of Police (DSP) D. Sravan Kumar, and other officers, searched the houses in the colony since morning on Sunday. They questioned the suspects and appealed to the residents to alert the nearby police if they noticed suspicious movement of strangers or any anti-social elements.Ms. Jaya Sharma appealed to the residents to cooperate with the police in combating drugs, ganja and crime.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/eluru-police-seize-13-vehicles-in-cordon-and-search-operation/article70773101.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-22T18:12:31.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఏలూరు పోలీసులు కార్డన్ అండ్ సెర్చ్ ఆపరేషన్‌లో 13 వాహనాలను సీజ్ చేశారు",
+      "summary_te": "ఏలూరు రూరల్‌ పోలీసులు పాలగూడెంలోని ఇందిరమ్మ కాలనీలో కార్డన్‌ అండ్‌ సెర్చ్‌ ఆపరేషన్‌ నిర్వహించి సరైన పత్రాలు లేని 12 ద్విచక్ర వాహనాలు, కారును స్వాధీనం చేసుకున్నారు. ట్రైనీ ఐపీఎస్‌ అధికారి జయ శర్మ, ఏలూరు డిప్యూటీ సూపరింటెండెంట్‌ ఆఫ్‌ పోలీస్‌ (డీఎస్పీ) డి. శ్రావణ్‌ కుమార్‌, ఇతర అధికారులు ఆదివారం ఉదయం నుంచి కాలనీలోని ఇళ్లలో తనిఖీలు చేపట్టారు. వారు అనుమానితులను ప్రశ్నించారు మరియు అపరిచితుల అనుమానాస్పద కదలికలు లేదా ఏదైనా సంఘ వ్యతిరేక వ్యక్తులను గమనించినట్లయితే సమీపంలోని పోలీసులకు తెలియజేయాలని నివాసితులకు విజ్ఞప్తి చేశారు. డ్రగ్స్, గంజాయి, నేరాల నియంత్రణలో పోలీసులకు సహకరించాలని జయశర్మ ప్రజలకు విజ్ఞప్తి చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "6cee80f3025246df25ac6baca91ca76a",
+      "title": "Jana Sena party aims for one lakh memberships in Srikakulam",
+      "summary": "Villagers were happy with the speedy development of rural areas and were coming forward to enrol their names in ‘Udyami’ membership drive, Mr. Ravikumar said",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/jana-sena-party-aims-for-one-lakh-memberships-in-srikakulam/article70772228.ece",
+      "image": "https://th-i.thgim.com/public/incoming/plzw4x/article70773330.ece/alternates/LANDSCAPE_1200/10215_22_3_2026_20_45_13_1_WHATSAPPIMAGE2026_03_22AT105217AM.JPEG",
+      "published_at": "2026-03-22T18:07:37.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "శ్రీకాకుళంలో లక్ష సభ్యత్వాలు చేయడమే జనసేన పార్టీ లక్ష్యం",
+      "summary_te": "గ్రామీణ ప్రాంతాలు వేగంగా అభివృద్ధి చెందడం పట్ల గ్రామస్తులు సంతోషం వ్యక్తం చేస్తూ ‘ఉద్యమి’ సభ్యత్వ కార్యక్రమంలో తమ పేర్లను నమోదు చేసుకోవడానికి ముందుకు వస్తున్నారని శ్రీ రవికుమార్ తెలిపారు.",
+      "translated": true
+    },
     {
       "id": "4280afcd8560912c8c5bb4c531dada64",
       "title": "Welfare of handloom artisans priority for government, says Minister",
