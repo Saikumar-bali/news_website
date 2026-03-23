@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T20:39:41.094Z",
-  "updated_at_IST": "24/3/2026, 2:09:41 am",
+  "updated_at": "2026-03-23T21:37:57.817Z",
+  "updated_at_IST": "24/3/2026, 3:07:57 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "acd49d817c682f185020bfc56e02fc41",
+      "title": "Valerie Perrine, well-known for Superman, dies at 82",
+      "summary": "Valerie Perrine, the Oscar-nominated actress known for Lenny and Superman, died at 82 on March 23, 2026, after battling Parkinson’s disease. Her career spanned decades, marked by critical acclaim and resilience, leaving a lasting impact on Hollywood.",
+      "url": "https://www.livemint.com/news/us-news/valerie-perrine-well-known-for-superman-dies-at-82-11774297320753.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/Valerie_perrine_1774297316545_1774297316667.webp",
+      "published_at": "2026-03-23T20:48:41.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సూపర్‌మ్యాన్‌కు ప్రసిద్ధి చెందిన వాలెరీ పెర్రిన్ 82వ ఏట మరణించారు",
+      "summary_te": "లెన్నీ మరియు సూపర్‌మ్యాన్‌లకు ప్రసిద్ధి చెందిన వాలెరీ పెర్రిన్, ఆస్కార్-నామినేట్ అయిన నటి, పార్కిన్సన్స్ వ్యాధితో పోరాడుతూ మార్చి 23, 2026న 82వ ఏట మరణించారు. ఆమె కెరీర్ దశాబ్దాలుగా విస్తరించింది, విమర్శకుల ప్రశంసలు మరియు స్థితిస్థాపకతతో గుర్తించబడింది, ఇది హాలీవుడ్‌పై శాశ్వత ప్రభావాన్ని చూపింది.",
+      "translated": true
+    },
     {
       "id": "1325991e39dfae0e3def6c56ddad30e5",
       "title": "LaGuardia Airport crash: Video shows moment Air Canada jet hits fire truck on runway | Watch",
@@ -394,20 +408,6 @@
       "language": "en",
       "title_te": "మధ్యప్రాచ్య యుద్ధం: 22 భారతీయ నౌకలు, 600 మంది నావికులు సురక్షితంగా ఉన్నారని ప్రభుత్వం తెలిపింది; హార్ముజ్ జలసంధి సంక్షోభం మధ్య సముద్రంలో ఎటువంటి సంఘటనలు నివేదించబడలేదు",
       "summary_te": "600 మంది నావికులతో పాటు 22 భారత నౌకలు సురక్షితంగా ఉన్నాయని ఓడరేవులు, షిప్పింగ్ మరియు జలమార్గాల మంత్రిత్వ శాఖ ప్రత్యేక కార్యదర్శి రాజేష్ కుమార్ సిన్హా తెలిపారు. ఈరోజు పార్లమెంట్‌లో ప్రధాని మోదీ ప్రసంగించిన నేపథ్యంలో పశ్చిమాసియాలో కొనసాగుతున్న వివాదం నేపథ్యంలో ఆయన ఈ వ్యాఖ్యలు చేశారు. ",
-      "translated": true
-    },
-    {
-      "id": "f6176277879257d8fd6109703e0e2503",
-      "title": "‘We’ll just keep bombing’: Trump issues stark warning if Iran deal fails",
-      "summary": "Trump said: “We have had very, very strong talks. We'll see where they lead. We have major points of agreement… almost all points of agreement.”",
-      "url": "https://www.livemint.com/news/us-news/well-just-keep-bombing-trump-issues-stark-warning-if-iran-deal-fails-11774276088350.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/PRESIDENT-TRUMP-DEPARTS-PALM-BEACH-FOR-MEMPHIS-_1774276462475_1774276462621.jpg",
-      "published_at": "2026-03-23T14:37:51.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘మేము బాంబు దాడి చేస్తూనే ఉంటాం’: ఇరాన్ ఒప్పందం విఫలమైతే ట్రంప్ వార్నింగ్ ఇచ్చారు",
-      "summary_te": "ట్రంప్ ఇలా అన్నారు: \"మేము చాలా చాలా బలమైన చర్చలు చేసాము. అవి ఎక్కడికి దారితీస్తాయో మేము చూస్తాము. మాకు ప్రధాన ఒప్పందాలు ఉన్నాయి... దాదాపు అన్ని ఒప్పందాలు ఉన్నాయి.\"",
       "translated": true
     },
     {
