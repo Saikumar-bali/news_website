@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-23T17:55:51.747Z",
-  "updated_at_IST": "23/3/2026, 11:25:51 pm",
+  "updated_at": "2026-03-23T18:50:02.412Z",
+  "updated_at_IST": "24/3/2026, 12:20:02 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "03b2c512af72fe041446d82c4c968b22",
+      "title": "KKR to replace injured Akash Deep with Saurabh Dubey",
+      "summary": "Uncapped in the IPL, Dubey has not played competitive cricket in nearly two-and-a-half years",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528917.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398700/398764.jpg",
+      "published_at": "2026-03-23T18:29:41.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గాయపడిన ఆకాష్ దీప్ స్థానంలో సౌరభ్ దూబేతో KKR",
+      "summary_te": "ఐపీఎల్‌లో పాల్గొనని దూబే దాదాపు రెండున్నరేళ్లుగా పోటీ క్రికెట్ ఆడలేదు.",
+      "translated": true
+    },
+    {
+      "id": "0423127c4ae40d8070067dd03a8732c5",
+      "title": "The who's who of injured and unavailable players for IPL 2026",
+      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
+      "published_at": "2026-03-23T18:28:44.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
+      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
+      "translated": true
+    },
+    {
+      "id": "61290520eae3ede78ebfb11363797cb0",
+      "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
+      "summary": "ECB chief executive puts faith in Key, McCullum and Stokes to learn from Ashes disappointment",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414855.jpg",
+      "published_at": "2026-03-23T18:11:43.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "యథాతథ స్థితిని కలిగి ఉన్నందున 'అడాప్ట్' చేయడానికి గౌల్డ్ ఇంగ్లాండ్ సోపానక్రమానికి మద్దతు ఇచ్చాడు",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ యాషెస్ నిరాశ నుండి నేర్చుకోవడానికి కీ, మెకల్లమ్ మరియు స్టోక్స్‌లపై విశ్వాసం ఉంచాడు",
+      "translated": true
+    },
     {
       "id": "a48d15cd092ac3319d896f12b84b710e",
       "title": "Gould: England Tests against Australia, India are 'significant priorities'",
@@ -15,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -33,20 +75,6 @@
       "translated": true
     },
     {
-      "id": "61290520eae3ede78ebfb11363797cb0",
-      "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
-      "summary": "ECB chief executive puts faith in Key, McCullum and Stokes to learn from Ashes disappointment",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528905.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414855.jpg",
-      "published_at": "2026-03-23T14:40:08.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "యథాతథ స్థితిని కలిగి ఉన్నందున 'అడాప్ట్' చేయడానికి గౌల్డ్ ఇంగ్లాండ్ సోపానక్రమానికి మద్దతు ఇచ్చాడు",
-      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ యాషెస్ నిరాశ నుండి నేర్చుకోవడానికి కీ, మెకల్లమ్ మరియు స్టోక్స్‌లపై విశ్వాసం ఉంచాడు",
-      "translated": true
-    },
-    {
       "id": "2af8172b8f8710a2e2b14bf09ca5c7d5",
       "title": "BCB names Habibul Bashar as chairman of selection committee",
       "summary": "Bashar replaces Gazi Ashraf whose tenure ended in February",
@@ -58,20 +86,6 @@
       "language": "en",
       "title_te": "బీసీబీ సెలక్షన్ కమిటీ చైర్మన్‌గా హబీబుల్ బషర్‌ను నియమించింది",
       "summary_te": "ఫిబ్రవరిలో పదవీకాలం ముగిసిన గాజీ అష్రఫ్ స్థానంలో బషర్ నియమితులయ్యారు",
-      "translated": true
-    },
-    {
-      "id": "0423127c4ae40d8070067dd03a8732c5",
-      "title": "The who's who of injured and unavailable players for IPL 2026",
-      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
-      "published_at": "2026-03-23T13:57:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
-      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయాలతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
       "translated": true
     },
     {
@@ -322,7 +336,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "ప్రపంచ కప్ 2027 లోకల్ ఆర్గనైజింగ్ కమిటీలో ఖోజా, ంగ్వేన్యా ఉన్నత పదవులను పొందారు",
+      "title_te": "ప్రపంచ కప్ 2027 లోకల్ ఆర్గనైజింగ్ కమిటీలో ఖోజా, ంగ్వేన్యా ఉన్నత పదవులు పొందారు",
       "summary_te": "Ngwenya ప్రస్తుతం సైక్లింగ్ దక్షిణాఫ్రికా అధ్యక్షుడిగా ఉండగా ఖోజా CSAలో పలు పదవులను నిర్వహించారు",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "KKR యొక్క ఆకాష్ దీప్ IPL 2026 నుండి తప్పుకున్నాడు",
       "summary_te": "అతని లేకపోవడం KKRలో సీమ్-బౌలర్ గాయాల యొక్క సుదీర్ఘ జాబితాకు జతచేస్తుంది",
-      "translated": true
-    },
-    {
-      "id": "eb6434151cac6c1d9c3b141c4e86a108",
-      "title": "Queensland hold on for WNCL title to deny Healy farewell win",
-      "summary": "Georgia Redmayne and Grace Harris hit centuries in a big total but NSW were ahead of the DLS when rain halted their chase",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528608.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414812.jpg",
-      "published_at": "2026-03-21T09:57:36.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "హీలీ వీడ్కోలు విజయాన్ని తిరస్కరించడానికి క్వీన్స్‌లాండ్ WNCL టైటిల్‌ను నిలబెట్టుకుంది",
-      "summary_te": "జార్జియా రెడ్‌మైన్ మరియు గ్రేస్ హారిస్ భారీ మొత్తంలో సెంచరీలు కొట్టారు, అయితే వర్షం వారి ఛేజింగ్‌ను ఆపినప్పుడు NSW DLS కంటే ముందుంది.",
       "translated": true
     }
   ]
