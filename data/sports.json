@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T11:48:32.657Z",
-  "updated_at_IST": "23/3/2026, 5:18:32 pm",
+  "updated_at": "2026-03-23T12:48:36.943Z",
+  "updated_at_IST": "23/3/2026, 6:18:36 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "e33db6ab4a4adca1421406c471df7d43",
+      "title": "Shanaka replaces injured Curran at Rajasthan Royals",
+      "summary": "Dasun Shanaka has informed his PSL franchise, Lahore Qalandars, of his decision to opt out of the deal",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528734.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413358.jpg",
+      "published_at": "2026-03-23T11:45:58.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రాజస్థాన్ రాయల్స్‌లో గాయపడిన కర్రన్ స్థానంలో షనక జట్టులోకి వచ్చాడు",
+      "summary_te": "దాసున్ షనక తన PSL ఫ్రాంచైజీ, లాహోర్ క్వాలండర్స్‌కు డీల్ నుండి వైదొలగాలనే తన నిర్ణయాన్ని తెలియజేశాడు",
+      "translated": true
+    },
     {
       "id": "5d8748bba7a4b4354df42aa95e511515",
       "title": "Alex Davies steps down as Warwickshire captain",
@@ -142,20 +156,6 @@
       "language": "en",
       "title_te": "నఖ్వీ: IPL కోసం PSL నుండి వైదొలిగిన ఆటగాళ్లపై PCB 'చర్య తీసుకుంటుంది'",
       "summary_te": "ఇటీవలి వారాల్లో IPL ఒప్పందం కోసం PSL నుండి వైదొలిగిన రెండవ ఆటగాడిగా షనక ​​నిలిచాడు",
-      "translated": true
-    },
-    {
-      "id": "e33db6ab4a4adca1421406c471df7d43",
-      "title": "Shanaka set to replace the injured Curran at Rajasthan Royals",
-      "summary": "Dasun Shanaka has informed his PSL franchise, Lahore Qalandars, of his decision to opt out of the deal",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528734.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413300/413358.jpg",
-      "published_at": "2026-03-22T11:27:57.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రాజస్థాన్ రాయల్స్‌లో గాయపడిన కుర్రాన్ స్థానంలో షనక బరిలోకి దిగాడు",
-      "summary_te": "దాసున్ షనక తన PSL ఫ్రాంచైజీ, లాహోర్ క్వాలండర్స్‌కు డీల్ నుండి వైదొలగాలనే తన నిర్ణయాన్ని తెలియజేశాడు",
       "translated": true
     },
     {
