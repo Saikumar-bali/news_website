@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T19:51:35.541Z",
-  "updated_at_IST": "24/3/2026, 1:21:35 am",
+  "updated_at": "2026-03-23T20:39:41.094Z",
+  "updated_at_IST": "24/3/2026, 2:09:41 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "1325991e39dfae0e3def6c56ddad30e5",
+      "title": "LaGuardia Airport crash: Video shows moment Air Canada jet hits fire truck on runway | Watch",
+      "summary": "The aircraft, Flight AC8646 — a Bombardier CRJ-900 operated by Jazz Aviation — had arrived from Montréal–Pierre Elliott Trudeau International Airport when it struck a Port Authority fire truck on the runway.",
+      "url": "https://www.livemint.com/news/us-news/laguardia-airport-crash-video-shows-moment-air-canada-jet-hits-fire-truck-on-runway-watch-11774294414946.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/US-TRANSPORTATION-AVIATION-ACCIDENT-18_1774294848814_1774294888906.jpg",
+      "published_at": "2026-03-23T19:44:30.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "లాగార్డియా ఎయిర్‌పోర్ట్ క్రాష్: రన్‌వేపై ఎయిర్ కెనడా జెట్ ఫైర్ ట్రక్కును ఢీకొట్టిన క్షణాన్ని వీడియో చూపిస్తుంది | చూడండి",
+      "summary_te": "విమానం, ఫ్లైట్ AC8646 - జాజ్ ఏవియేషన్ ద్వారా నిర్వహించబడే ఒక బొంబార్డియర్ CRJ-900 - మాంట్రియల్-పియర్ ఇలియట్ ట్రూడో అంతర్జాతీయ విమానాశ్రయం నుండి వచ్చింది, అది రన్‌వేపై పోర్ట్ అథారిటీ అగ్నిమాపక ట్రక్కును ఢీకొట్టింది.",
+      "translated": true
+    },
     {
       "id": "0ba1341e0987f6a490ecb09742cbb5ec",
       "title": "Jaishankar, Rubio discuss energy security concerns as West Asia conflict escalates",
@@ -394,20 +408,6 @@
       "language": "en",
       "title_te": "‘మేము బాంబు దాడి చేస్తూనే ఉంటాం’: ఇరాన్ ఒప్పందం విఫలమైతే ట్రంప్ వార్నింగ్ ఇచ్చారు",
       "summary_te": "ట్రంప్ ఇలా అన్నారు: \"మేము చాలా చాలా బలమైన చర్చలు చేసాము. అవి ఎక్కడికి దారితీస్తాయో మేము చూస్తాము. మాకు ప్రధాన ఒప్పందాలు ఉన్నాయి... దాదాపు అన్ని ఒప్పందాలు ఉన్నాయి.\"",
-      "translated": true
-    },
-    {
-      "id": "a9a63e2341d9f83e04eeb8f844e73427",
-      "title": "‘Due to war started by orange-haired man': Pune eatery’s veiled dig at ‘Trump’ over LPG price hike goes viral",
-      "summary": "A snapshot of the message, posted by a social media user who goes by the username Sayali Mahashur, playfully conveyed that the restaurant would increase the food price due to the ongoing war in the Middle East.",
-      "url": "https://www.livemint.com/news/trends/middle-east-war-pune-eatery-s-veiled-dig-over-lpg-price-hike-goes-viral-11774273580941.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/Untitled_design_-_2026-03-23T192520.392_1774274134561_1774274139404.png",
-      "published_at": "2026-03-23T14:13:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘నారింజ రంగు బొచ్చు మనిషి ప్రారంభించిన యుద్ధం కారణంగా’: ఎల్‌పిజి ధరల పెంపుపై ‘ట్రంప్’పై పూణే తినుబండారం కప్పిపుచ్చిన తవ్వకం వైరల్ అవుతుంది",
-      "summary_te": "మధ్యప్రాచ్యంలో కొనసాగుతున్న యుద్ధం కారణంగా రెస్టారెంట్ ఆహార ధరలను పెంచుతుందని సయాలీ మహషుర్ అనే వినియోగదారు పేరు గల సోషల్ మీడియా వినియోగదారు పోస్ట్ చేసిన సందేశం యొక్క స్నాప్‌షాట్ సరదాగా తెలియజేసింది.",
       "translated": true
     },
     {

@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-03-23T19:51:35.541Z",
-  "updated_at_IST": "24/3/2026, 1:21:35 am",
+  "updated_at": "2026-03-23T20:39:41.094Z",
+  "updated_at_IST": "24/3/2026, 2:09:41 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "b2019fd80d3bf9f4a3c25562629d190b",
+      "title": "Top US Defence Official Elbridge Colby To Visit India",
+      "summary": "US Ambassador to India Sergio Gor has announced the upcoming visit of top defence official Elbridge Colby to the country.",
+      "url": "https://www.ndtv.com/india-news/top-us-defence-official-elbridge-colby-to-visit-india-11256945#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/1ml67nhg_elbridge-colby_625x300_24_March_26.jpeg",
+      "published_at": "2026-03-23T20:07:33.000Z",
+      "source": "NDTV India",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారతదేశాన్ని సందర్శించడానికి అగ్రశ్రేణి US రక్షణ అధికారి ఎల్బ్రిడ్జ్ కాల్బీ",
+      "summary_te": "భారతదేశంలోని యుఎస్ రాయబారి సెర్గియో గోర్ దేశానికి అత్యున్నత రక్షణ అధికారి ఎల్బ్రిడ్జ్ కాల్బీ రాబోయే పర్యటనను ప్రకటించారు.",
+      "translated": true
+    },
     {
       "id": "509d26822cfa71e06ec5b0a19aa9c9ab",
       "title": "Bill to amend trans rights law listed for consideration, passing in Lok Sabha on Tuesday",
       "summary": "Bill proposes amendments on transgender individuals, the procedure for obtaining a transgender certificate, and compliance requirements for medical institutions that may perform gender-affirming care procedures",
       "url": "https://www.thehindu.com/news/national/bill-to-amend-trans-rights-law-listed-for-consideration-passing-in-lok-sabha-on-tuesday/article70777017.ece",
       "image": "https://th-i.thgim.com/public/incoming/r5xz1y/article70777204.ece/alternates/LANDSCAPE_1200/20260323565L.jpg",
-      "published_at": "2026-03-23T19:32:12.000Z",
+      "published_at": "2026-03-23T19:47:55.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
       "title_te": "పరిశీలన కోసం జాబితా చేయబడిన ట్రాన్స్ రైట్స్ చట్ట సవరణ బిల్లు మంగళవారం లోక్‌సభలో ఆమోదం పొందింది",
       "summary_te": "లింగమార్పిడి వ్యక్తులపై సవరణలు, లింగమార్పిడి ధృవీకరణ పత్రం పొందే విధానం మరియు లింగ నిర్ధారిత సంరక్షణ విధానాలను నిర్వహించే వైద్య సంస్థలకు సమ్మతి అవసరాలను బిల్లు ప్రతిపాదిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "ae31397437736b8c0c02ea991e4599d7",
+      "title": "ED restitutes $5.6 billion assets in corruption cases: Director",
+      "summary": "India hosts 12th Steering Committee meeting of Global Operational Network of Anti-Corruption Law Enforcement Authorities, seeks deeper international cooperation",
+      "url": "https://www.thehindu.com/news/national/ed-restitutes-56-billion-assets-in-corruption-cases-director/article70776209.ece",
+      "image": "https://th-i.thgim.com/public/incoming/27aw1j/article70750943.ece/alternates/LANDSCAPE_1200/vbk-stock-Enforcement%20Directorate%20thmni.jpg",
+      "published_at": "2026-03-23T19:46:51.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "అవినీతి కేసుల్లో $5.6 బిలియన్ల ఆస్తులను ED పునరుద్ధరించింది: డైరెక్టర్",
+      "summary_te": "గ్లోబల్ ఆపరేషనల్ నెట్‌వర్క్ ఆఫ్ యాంటీ కరప్షన్ లా ఎన్‌ఫోర్స్‌మెంట్ అథారిటీస్ యొక్క 12వ స్టీరింగ్ కమిటీ సమావేశాన్ని భారతదేశం నిర్వహించింది, లోతైన అంతర్జాతీయ సహకారాన్ని కోరుతోంది",
+      "translated": true
+    },
+    {
+      "id": "e4f666cd0ef0e69120a6e2a2148f5ab4",
+      "title": "Ambulance drivers sensitised to Model Code of Conduct rules in Vellore, nearby districts",
+      "summary": "The guidelines say ambulance drivers should cooperate with Static Surveillance Teams during vehicle checks",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/ambulance-drivers-sensitised-to-model-code-of-conduct-rules-in-vellore-nearby-districts/article70758566.ece",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/3fh4bs/article70759081.ece/alternates/LANDSCAPE_1200/ambulance-1.jpg",
+      "published_at": "2026-03-23T19:37:10.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "అంబులెన్స్ డ్రైవర్లు వేలూరు, సమీప జిల్లాల్లో మోడల్ కోడ్ ఆఫ్ కండక్ట్ నిబంధనలపై అవగాహన కల్పించారు",
+      "summary_te": "వాహన తనిఖీల సమయంలో అంబులెన్స్ డ్రైవర్లు స్టాటిక్ సర్వైలెన్స్ బృందాలకు సహకరించాలని మార్గదర్శకాలు చెబుతున్నాయి.",
       "translated": true
     },
     {
@@ -397,34 +439,6 @@
       "translated": true
     },
     {
-      "id": "00eb98acfa0020835e2bd04a4436771e",
-      "title": "Kerala Assembly Elections 2026: 120 candidates file nominations in Ernakulam as deadline ends",
-      "summary": "As many as 120 candidates filed nominations in the district as the deadline to submit papers for the Assembly elections slated for April 9 ended on Monday (March 23). They filed a total of 221 nominations, including multiple sets, according to an official statement.Those who submitted the nominations include official candidates announced by political parties, dummy candidates put up by parties, and Independents.The highest number of candidates filed nominations for the Kalamassery constituency, with 12 contenders submitting their papers. As many as 11 candidates filed nominations for the Thripunithura constituency and 10 each for Paravur and Kothamangalam.The number of nominations received from other constituencies is: Perumbavoor - 7, Angamaly - 9, Aluva - 5, Vypeen - 9, Kochi - 8, Ernakulam - 8, Thrikkakara - 7, Kunnathunad - 8, Piravom - 9, and Muvattupuzha - 7.The candidates who submitted nominations include all sitting MLAs of the Congress-led United Democratic Front (UDF) and the CPI(M)-led Left Democratic Front (LDF), except the Congress’ Thripunithura MLA K. Babu, who has opted out of electoral politics.Prominent candidates who filed nominations on Monday include Leader of the Opposition V.D. Satheesan, Thrikkakara MLA Uma Thomas, Muvattupuzha MLA Mathew Kuzhalnadan and his contender from the LDF N. Arun.Scrutiny of nominations will be held on March 24. The last date for withdrawal is March 26.",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-120-candidates-file-nominations-in-ernakulam-as-deadline-ends/article70776835.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-23T18:46:52.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేరళ అసెంబ్లీ ఎన్నికలు 2026: గడువు ముగియడంతో ఎర్నాకులంలో 120 మంది అభ్యర్థులు నామినేషన్లు దాఖలు చేశారు",
-      "summary_te": "ఏప్రిల్ 9న జరగాల్సిన అసెంబ్లీ ఎన్నికలకు పత్రాల సమర్పణ గడువు సోమవారం (మార్చి 23)తో ముగియడంతో జిల్లాలో 120 మంది అభ్యర్థులు నామినేషన్లు దాఖలు చేశారు. అధికారిక ప్రకటన ప్రకారం వారు బహుళ సెట్లతో సహా మొత్తం 221 నామినేషన్లను దాఖలు చేశారు. నామినేషన్లు సమర్పించిన వారిలో రాజకీయ పార్టీలు ప్రకటించిన అధికారిక అభ్యర్థులు, పార్టీలు పెట్టిన డమ్మీ అభ్యర్థులు మరియు స్వతంత్రులు ఉన్నారు. కలమస్సేరి నియోజకవర్గానికి అత్యధిక సంఖ్యలో అభ్యర్థులు నామినేషన్లు దాఖలు చేశారు, 12 మంది పోటీదారులు తమ పత్రాలను సమర్పించారు. త్రిపుణితుర నియోజకవర్గానికి 11 మంది, పరవూరు, కొత్తమంగళంలకు ఒక్కొక్కరు చొప్పున 10 మంది అభ్యర్థులు నామినేషన్లు దాఖలు చేశారు. ఇతర నియోజకవర్గాల నుంచి వచ్చిన నామినేషన్ల సంఖ్య: పెరుంబవూరు - 7, అంగమలీ - 9, అలువా - 5, వైపీన్ - 9, కొచ్చి - 8, ఎర్నాకులం - 8, త్రిక్కాకర - 8, త్రిక్కాకర - మువట్టుపుజ - 7. నామినేషన్లు సమర్పించిన అభ్యర్థుల్లో కాంగ్రెస్ నేతృత్వంలోని యునైటెడ్ డెమోక్రటిక్ ఫ్రంట్ (యుడిఎఫ్), సిపిఐ(ఎం) నేతృత్వంలోని లెఫ్ట్ డెమోక్రటిక్ ఫ్రంట్ (ఎల్‌డిఎఫ్) సిట్టింగ్ ఎమ్మెల్యేలందరూ ఉన్నారు, కాంగ్రెస్ త్రిపుణితుర ఎమ్మెల్యే కె. బాబు మినహా ఎన్నికల రాజకీయాలకు దూరంగా ఉన్నారు. సోమవారం నామినేషన్ దాఖలు చేసిన వి.డి. సతీశన్, త్రిక్కాకర ఎమ్మెల్యే ఉమా థామస్, మువాట్టుపుజా ఎమ్మెల్యే మాథ్యూ కుజల్నాదన్ మరియు ఎల్‌డిఎఫ్ నుండి అతని పోటీదారు ఎన్. అరుణ్. నామినేషన్ల పరిశీలన మార్చి 24న జరుగుతుంది. ఉపసంహరణకు చివరి తేదీ మార్చి 26.",
-      "translated": true
-    },
-    {
-      "id": "40ca76d05cd3faefa56f92303d719860",
-      "title": "High Court issues notices to Danam, Speaker",
-      "summary": "The Telangana High Court on Monday issued notices to Khairatabad MLA Danam Nagender who got elected on BRS ticket but later contested from Secunderabad Lok Sabha seat as Congress nominee, and the Assembly Speaker in a writ petition challenging the latter’s recent order dismissing disqualification petition of Nagender. The Bench of Chief Justice Aparesh Kumar Singh and Justice G.M. Mohiuddin directed the office of the Speaker and Danam Nagender to file their counter affidavits in the matter by April 16. The BJP Assembly floor leader Alleti Mahesh Reddy, who filed the writ petition, sought a direction to quash and set aside the order issued by the Speaker on March 11 after hearing the disqualification petition no. 4 of 2024 pertaining to Danam Nagender. The petitioner contended that the Kharaitabad MLA should be disqualified as the affidavit he had filed on April 23 of 2024 during Lok Sabha elections while contesting from Secunderabad claimed he was nominee of Congress party having been elected as MLA on BRS ticket earlier. The petitioner requested the Bench to dispose the petition expeditiously as per the Supreme Court verdict in connected matters.",
-      "url": "https://www.thehindu.com/news/national/telangana/high-court-issues-notices-to-danam-speaker/article70776874.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-23T18:46:51.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "దానం, స్పీకర్‌కు హైకోర్టు నోటీసులు",
-      "summary_te": "ఖైరతాబాద్ ఎమ్మెల్యే దానం నాగేందర్ బీఆర్‌ఎస్ టికెట్‌పై ఎన్నికై కాంగ్రెస్ అభ్యర్థిగా సికింద్రాబాద్ లోక్‌సభ స్థానం నుంచి పోటీ చేసిన దానం నాగేందర్‌కు, అనర్హత పిటిషన్‌ను కొట్టివేస్తూ ఇటీవల ఇచ్చిన ఉత్తర్వులను సవాల్ చేస్తూ రిట్ పిటిషన్‌పై తెలంగాణ హైకోర్టు సోమవారం నోటీసులు జారీ చేసింది. ప్రధాన న్యాయమూర్తి అపరేష్ కుమార్ సింగ్, న్యాయమూర్తి జి.ఎం. ఏప్రిల్ 16లోగా కౌంటర్‌ అఫిడవిట్‌ దాఖలు చేయాలని స్పీకర్‌, దానం నాగేందర్‌ కార్యాలయాన్ని మొహియుద్దీన్‌ ఆదేశించారు. రిట్‌ పిటిషన్‌ దాఖలు చేసిన బీజేపీ అసెంబ్లీ ఫ్లోర్‌ లీడర్‌ అల్లేటి మహేశ్‌ రెడ్డి, అనర్హత పిటిషన్‌పై విచారణ జరిపి మార్చి 11న స్పీకర్‌ జారీ చేసిన ఉత్తర్వులను కొట్టివేయాలని కోరారు. దానం నాగేందర్‌కు సంబంధించిన 2024లో 4. ఖరైతాబాద్ ఎమ్మెల్యే 2024 ఏప్రిల్ 23న లోక్‌సభ ఎన్నికల సందర్భంగా సికింద్రాబాద్ నుంచి పోటీ చేస్తున్న సమయంలో దాఖలు చేసిన అఫిడవిట్‌లో గతంలో బీఆర్‌ఎస్ టిక్కెట్‌పై ఎమ్మెల్యేగా ఎన్నికైన తాను కాంగ్రెస్ పార్టీ అభ్యర్థినని పేర్కొన్నందున అతనిపై అనర్హత వేటు వేయాలని పిటిషనర్ వాదించారు. సంబంధిత అంశాల్లో సుప్రీంకోర్టు తీర్పు ప్రకారం పిటిషన్‌ను త్వరగా పరిష్కరించాలని పిటిషనర్ బెంచ్‌ను అభ్యర్థించారు.",
-      "translated": true
-    },
-    {
       "id": "1bd0713bb1a905d21f01c60cf13929af",
       "title": "Air Canada Express Collision Updates: Air Canada Express Plane Collides With Ground Vehicle In New York",
       "summary": "Air Canada Express Collision Live Updates: An Air Canada Express flight from Montreal collided with a ground vehicle while landing at New York's La Guardia Airport",
@@ -533,7 +547,7 @@
       "category": "india",
       "language": "en",
       "title_te": "వాస్తవ తనిఖీ: మాజీ ఉద్యోగి కాండస్ ఓవెన్స్ ప్రవర్తనను బహిర్గతం చేశారా?",
-      "summary_te": "ఒక మాజీ ఉద్యోగి కాండస్ ఓవెన్స్‌ను \"నార్సిసిస్టిక్\" ప్రవర్తనకు ఆరోపించాడు, అయితే క్లెయిమ్‌లు ధృవీకరించబడలేదు. ఎటువంటి ఆధారాలు, అధికారిక ప్రతిస్పందన లేదా స్వతంత్ర నిర్ధారణ అందించబడలేదు. ఆరోపణలలో టర్నింగ్ పాయింట్ USA మరియు బ్లెక్సిట్ గురించి ప్రస్తావించబడింది, కానీ ఏదీ నిరూపించబడలేదు. సోషల్ మీడియా విభజించబడింది మరియు ఇప్పటివరకు ఎటువంటి విచారణ లేదా చట్టపరమైన చర్యలు లేకుండా పరిస్థితి ఇంకా అస్పష్టంగా ఉంది.",
+      "summary_te": "ఒక మాజీ ఉద్యోగి కాండేస్ ఓవెన్స్‌పై \"నార్సిసిస్టిక్\" ప్రవర్తనను ఆరోపించాడు, అయితే క్లెయిమ్‌లు ధృవీకరించబడలేదు. ఎటువంటి ఆధారాలు, అధికారిక ప్రతిస్పందన లేదా స్వతంత్ర నిర్ధారణ అందించబడలేదు. ఆరోపణలలో టర్నింగ్ పాయింట్ USA మరియు Blexit గురించి ప్రస్తావించబడింది, కానీ ఏదీ నిరూపించబడలేదు. సోషల్ మీడియా విభజించబడింది మరియు ఇప్పటివరకు ఎటువంటి విచారణ లేదా చట్టపరమైన చర్యలు లేకుండా పరిస్థితి ఇంకా అస్పష్టంగా ఉంది.",
       "translated": true
     },
     {
@@ -649,6 +663,20 @@
       "translated": true
     },
     {
+      "id": "a101eb2b31a13ce2302edc64a7806d48",
+      "title": "Burnt in Ashes, but no clean-up: ECB decides against sacking Stokes & McCullum",
+      "summary": "The review, which was announced soon after the final Test in January, was completed on Monday. ECB chief executive Richard Gould said removing individuals would have been the easier option but the board has chosen not to take that route.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ashes/burnt-in-the-ashes-but-no-clean-up-ecb-decides-against-sacking-ben-stokes-and-mccullum/articleshow/129758356.cms",
+      "image": "https://static.toiimg.com/photo/msid-129758474,imgsize-38320.cms",
+      "published_at": "2026-03-23T17:25:07.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "యాషెస్‌లో కాలిపోయింది, కానీ క్లీన్ అప్ లేదు: స్టోక్స్ & మెకల్లమ్‌ను తొలగించకుండా ECB నిర్ణయించింది",
+      "summary_te": "జనవరిలో చివరి టెస్టు ముగిసిన వెంటనే ప్రకటించిన సమీక్ష సోమవారంతో ముగిసింది. ECB చీఫ్ ఎగ్జిక్యూటివ్ రిచర్డ్ గౌల్డ్ మాట్లాడుతూ, వ్యక్తులను తొలగించడం చాలా సులభమైన ఎంపిక, అయితే బోర్డు ఆ మార్గంలో వెళ్లకూడదని ఎంచుకుంది.",
+      "translated": true
+    },
+    {
       "id": "705228fa5c2d374738b96bd5ded10ccf",
       "title": "IndiGo appoints Air India Express ex-head as new chief strategy officer",
       "summary": "The IndiGo managing director said chief strategy officer Aloke Singh will report directly to him until a new CEO is appointed",
@@ -700,8 +728,8 @@
       "source": "India Today",
       "category": "india",
       "language": "en",
-      "title_te": "పశ్చిమాసియా యుద్ధం: LPG కొరత కారణంగా లక్నోలో బొగ్గు, కట్టెలు వాడాల్సిన తినుబండారాలు",
-      "summary_te": "పశ్చిమాసియా యుద్ధం: LPG కొరత కారణంగా లక్నోలో బొగ్గు, కట్టెలు వాడాల్సిన తినుబండారాలు",
+      "title_te": "పశ్చిమాసియా యుద్ధం: LPG కొరత లక్నోలో బొగ్గు, కట్టెలను ఉపయోగించాల్సిన తినుబండారాలను బలవంతం చేసింది",
+      "summary_te": "పశ్చిమాసియా యుద్ధం: LPG కొరత లక్నోలో బొగ్గు, కట్టెలను ఉపయోగించాల్సిన తినుబండారాలను బలవంతం చేసింది",
       "translated": true
     },
     {
@@ -729,7 +757,7 @@
       "category": "india",
       "language": "en",
       "title_te": "\"కాంగ్రెస్ మైనారిటీలను నాశనం చేసింది\": బద్రుద్దీన్ అజ్మల్ కళ్ళు అస్సాం పునరాగమనం",
-      "summary_te": "భారీ జనసందోహం మధ్య కొత్తగా ఏర్పడిన బిన్నకండి అసెంబ్లీ నియోజకవర్గం నుంచి ఏఐయూడీఎఫ్ తన నామినేషన్ పత్రాలను దాఖలు చేసింది. రెండు దశాబ్దాల తర్వాత రాష్ట్ర స్థాయి ఎన్నికల రాజకీయాల్లోకి అజ్మల్ తిరిగి రావడం ఇదే.",
+      "summary_te": "భారీ జనసందోహం మధ్య కొత్తగా ఏర్పడిన బిన్నకండి అసెంబ్లీ నియోజకవర్గం స్థానం నుంచి ఏఐయూడీఎఫ్ తన నామినేషన్ పత్రాలను దాఖలు చేసింది. రెండు దశాబ్దాల తర్వాత రాష్ట్ర స్థాయి ఎన్నికల రాజకీయాల్లోకి అజ్మల్ తిరిగి రావడం ఇదే.",
       "translated": true
     },
     {
@@ -845,20 +873,6 @@
       "translated": true
     },
     {
-      "id": "e1648899530b072155880c4379af1f65",
-      "title": "'AI will be sold like electricity and water by OpenAI': Sam Altman",
-      "summary": "The TOI Tech Desk is a dedicated team of journalists committed to delivering the latest and most relevant news from the world of technology to readers of The Times of India. TOI Tech Desk’s news coverage spans a wide spectrum across gadget launches, gadget reviews, trends, in-depth analysis, exclusive reports and breaking stories that impact technology and the digital universe. Be it how-tos or the latest happenings in AI, cybersecurity, personal gadgets, platforms like WhatsApp, Instagram, Facebook and more; TOI Tech Desk brings the news with accuracy and authenticity.Read More ₹16,470 ₹7,499 ₹18,999 ₹11,999 ₹32,999 ₹12,999 ₹39,999 ₹24,999",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-will-be-sold-like-electricity-and-water-by-openai-sam-altman-explains-how-youll-pay-by-usage-not-subscription/articleshow/129756816.cms",
-      "image": "https://static.toiimg.com/photo/msid-129756830,imgsize-28890.cms",
-      "published_at": "2026-03-23T16:30:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'ఓపెన్‌ఏఐ ద్వారా AI విద్యుత్ మరియు నీరు వలె విక్రయించబడుతుంది': సామ్ ఆల్ట్‌మాన్",
-      "summary_te": "TOI టెక్ డెస్క్ అనేది ది టైమ్స్ ఆఫ్ ఇండియా పాఠకులకు టెక్నాలజీ ప్రపంచం నుండి తాజా మరియు అత్యంత సంబంధిత వార్తలను అందించడానికి కట్టుబడి ఉన్న జర్నలిస్టుల ప్రత్యేక బృందం. TOI టెక్ డెస్క్ వార్తా కవరేజీ, గాడ్జెట్ లాంచ్‌లు, గాడ్జెట్ సమీక్షలు, ట్రెండ్‌లు, లోతైన విశ్లేషణ, ప్రత్యేకమైన నివేదికలు మరియు సాంకేతికత మరియు డిజిటల్ విశ్వంపై ప్రభావం చూపే బ్రేకింగ్ స్టోరీలు అంతటా విస్తృత పరిధిని కలిగి ఉంది. AI, సైబర్‌ సెక్యూరిటీ, వ్యక్తిగత గాడ్జెట్‌లు, WhatsApp, Instagram, Facebook మరియు మరిన్ని ప్లాట్‌ఫారమ్‌లలో హౌ-టూస్ లేదా తాజా సంఘటనలు కావచ్చు; TOI టెక్ డెస్క్ వార్తలను ఖచ్చితత్వం మరియు ప్రామాణికతతో అందిస్తుంది. మరింత చదవండి ₹16,470 ₹7,499 ₹18,999 ₹11,999 ₹32,999 ₹12,999 ₹39,999 ₹24,999",
-      "translated": true
-    },
-    {
       "id": "d6c42c5f280806d38582fbdf66954acb",
       "title": "Ajinkya Rahane sends strong message ahead of IPL 2026 with blazing 20-ball fifty",
       "summary": "Kolkata Knight Riders captain Ajinkya Rahane signaled his intent for IPL 2026 with a rapid 58 off 25 balls in a practice game. Despite a tough 2025, Rahane, the team's leading scorer, expressed optimism and a positive outlook towards the upcoming season. He emphasized the importance of a strong start and consistent performance for the revamped KKR squad.",
@@ -869,7 +883,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఐపీఎల్ 2026కి ముందు అజింక్య రహానే 20 బంతుల్లో అర్ధ సెంచరీతో బలమైన సందేశం పంపాడు.",
-      "summary_te": "కోల్‌కతా నైట్ రైడర్స్ కెప్టెన్ అజింక్య రహానే ప్రాక్టీస్ గేమ్‌లో 25 బంతుల్లో వేగంగా 58 పరుగులు చేసి IPL 2026 కోసం తన ఉద్దేశాన్ని సూచించాడు. 2025 కష్టతరమైనప్పటికీ, జట్టు యొక్క ప్రధాన స్కోరర్ అయిన రహానే రాబోయే సీజన్ పట్ల ఆశావాదం మరియు సానుకూల దృక్పథాన్ని వ్యక్తం చేశాడు. పునరుద్ధరించబడిన KKR జట్టుకు బలమైన ఆరంభం మరియు స్థిరమైన ప్రదర్శన యొక్క ప్రాముఖ్యతను అతను నొక్కి చెప్పాడు.",
+      "summary_te": "కోల్‌కతా నైట్ రైడర్స్ కెప్టెన్ అజింక్య రహానె ప్రాక్టీస్ గేమ్‌లో 25 బంతుల్లో వేగంగా 58 పరుగులు చేసి IPL 2026 కోసం తన ఉద్దేశాన్ని సూచించాడు. 2025 కష్టతరమైనప్పటికీ, జట్టు యొక్క ప్రధాన స్కోరర్ అయిన రహానే రాబోయే సీజన్ పట్ల ఆశావాదం మరియు సానుకూల దృక్పథాన్ని వ్యక్తం చేశాడు. పునరుద్ధరించబడిన KKR జట్టుకు బలమైన ఆరంభం మరియు స్థిరమైన ప్రదర్శన యొక్క ప్రాముఖ్యతను అతను నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -1209,20 +1223,6 @@
       "translated": true
     },
     {
-      "id": "5f1cbbd588d195c52fbe95aff5121a6c",
-      "title": "EC circular with BJP seal? Poll panel calls it 'clerical error' in clarification",
-      "summary": "The TOI News Desk comprises a dedicated and tireless team of journalists who operate around the clock to deliver the most current and comprehensive news and updates to the readers of The Times of India worldwide. With an unwavering commitment to excellence in journalism, our team is at the forefront of gathering, verifying, and presenting breaking news, in-depth analysis, and insightful reports on a wide range of topics. The TOI News Desk is your trusted source for staying informed and connected to the ever-evolving global landscape, ensuring that our readers are equipped with the latest developments that matter most.\"Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/india/ec-circular-with-bjp-seal-poll-panel-calls-it-clerical-error-in-clarification/articleshow/129755536.cms",
-      "image": "https://static.toiimg.com/photo/msid-129755720,imgsize-100988.cms",
-      "published_at": "2026-03-23T14:45:11.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "బీజేపీ ముద్రతో ఈసీ సర్క్యులర్? పోల్ ప్యానెల్ దానిని క్లారిఫికేషన్‌లో 'క్లరికల్ ఎర్రర్' అని పిలుస్తుంది",
-      "summary_te": "TOI న్యూస్ డెస్క్ అనేది ప్రపంచవ్యాప్తంగా ఉన్న టైమ్స్ ఆఫ్ ఇండియా పాఠకులకు అత్యంత ప్రస్తుత మరియు సమగ్రమైన వార్తలు మరియు అప్‌డేట్‌లను అందించడానికి 24 గంటలూ పనిచేసే అంకితమైన మరియు అలసిపోని జర్నలిస్టుల బృందాన్ని కలిగి ఉంది. జర్నలిజంలో శ్రేష్ఠతకు తిరుగులేని నిబద్ధతతో, విస్తృత శ్రేణి అంశాలపై బ్రేకింగ్ న్యూస్, లోతైన విశ్లేషణ మరియు తెలివైన నివేదికలను సేకరించడం, ధృవీకరించడం మరియు అందించడంలో మా బృందం ముందంజలో ఉంది. TOI న్యూస్ డెస్క్ అనేది ఎప్పటికప్పుడు అభివృద్ధి చెందుతున్న గ్లోబల్ ల్యాండ్‌స్కేప్‌కు సమాచారం అందించడానికి మరియు కనెక్ట్ అవ్వడానికి మీ విశ్వసనీయ మూలం, మా పాఠకులు అత్యంత ముఖ్యమైన తాజా పరిణామాలను కలిగి ఉన్నారని నిర్ధారిస్తుంది.\" మరింత చదవండి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. వెబ్‌సైట్. ఈ వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి, మీరు ఈ కుకీల వినియోగానికి సమ్మతిస్తున్నారు, అటువంటి ప్రాసెసింగ్‌ను మీరు ఆక్షేపించాలనుకుంటే, దయచేసి మా ';Q+=' కుకీ పాలసీలో వివరించిన సూచనలను చదవండి '; Q+=' గోప్యతా విధానం= దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='ని సమీక్షించండి",
-      "translated": true
-    },
-    {
       "id": "e6c7772ecabe9b7aed37d7fe894645ab",
       "title": "IndiGo appoints former Air India Express MD Aloke Singh as chief strategy officer",
       "summary": "Commenting on his appointment, Aloke Singh said, “I look forward to sharpening strategy, boosting operational excellence, and expanding our markets globally.”",
@@ -1234,20 +1234,6 @@
       "language": "en",
       "title_te": "ఇండిగో మాజీ ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ ఎండి అలోకే సింగ్‌ను చీఫ్ స్ట్రాటజీ ఆఫీసర్‌గా నియమించింది",
       "summary_te": "అలోక్ సింగ్ తన నియామకంపై వ్యాఖ్యానిస్తూ, \"నేను వ్యూహాన్ని పదును పెట్టడం, కార్యాచరణ నైపుణ్యాన్ని పెంచడం మరియు ప్రపంచవ్యాప్తంగా మా మార్కెట్లను విస్తరించడం కోసం ఎదురుచూస్తున్నాను\" అని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "5c22538d7acc4ab42bd988a62c3d0ab5",
-      "title": "BSEB Bihar Board 12th Result (OUT): Milk Parlor Owner's Daughter Among Science Toppers",
-      "summary": "BSEB Bihar Board Class 12th Result 2026 LIVE Updates: Bihar School Examination Board will announce Class 12 board exam results on March 23. Students can check results online.",
-      "url": "https://www.ndtv.com/education/bseb-bihar-board-12th-result-out-live-heres-how-to-check-your-scorecard-quickly-11252837#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/hkgvc9ok_bihar-board-2026_625x300_16_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-23T14:12:08.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "BSEB బీహార్ బోర్డు 12వ ఫలితాలు (OUT): సైన్స్ టాపర్స్‌లో మిల్క్ పార్లర్ ఓనర్ కూతురు",
-      "summary_te": "BSEB బీహార్ బోర్డ్ 12వ తరగతి ఫలితం 2026 లైవ్ అప్‌డేట్‌లు: బీహార్ స్కూల్ ఎగ్జామినేషన్ బోర్డ్ మార్చి 23న 12వ తరగతి బోర్డు పరీక్ష ఫలితాలను ప్రకటిస్తుంది. విద్యార్థులు ఫలితాలను ఆన్‌లైన్‌లో తనిఖీ చేయవచ్చు.",
       "translated": true
     },
     {
@@ -1274,7 +1260,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "‘100% ట్రంప్ నియంత్రణలో’: లోక్‌సభ ప్రసంగంలో అమెరికాపై మౌనం వహించడంపై రాహుల్ గాంధీ ప్రధాని మోదీని టార్గెట్ చేశారు.",
+      "title_te": "‘100% ట్రంప్ నియంత్రణలో’: రాహుల్ గాంధీ లోక్‌సభ ప్రసంగంలో అమెరికాపై మౌనం వహించడంపై ప్రధాని మోదీని టార్గెట్ చేశారు.",
       "summary_te": "లోక్‌సభలో ప్రధాని ప్రసంగాన్ని రాహుల్ గాంధీ ప్రశ్నించారు మరియు మోడీ మౌనం యాదృచ్ఛికం కాదని, లోతైన సమస్యను సూచిస్తుందని అన్నారు.",
       "translated": true
     },
@@ -1402,6 +1388,20 @@
       "language": "en",
       "title_te": "ED బాధితులకు $5.6 బిలియన్ల ఆస్తులను తిరిగి ఇచ్చింది: డైరెక్టర్ రాహుల్ నవీన్",
       "summary_te": "ఆధునిక అవినీతి నిరోధక ఫ్రేమ్‌వర్క్‌లో ఆస్తుల రికవరీ అనేది ఒక ఆలోచనా విధానం కాదని, అది అమలు విజయానికి నిజమైన కొలమానమని రాహుల్ నవిన్ నొక్కిచెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "92dcf334d91a87f2290c553514df4b63",
+      "title": "Mastermind among 8 more arrested in Ghaziabad's Pak-linked spy module case",
+      "summary": "Mastermind among 8 more arrested in Ghaziabad's Pak-linked spy module case",
+      "url": " https://www.indiatoday.in/india/story/ghaziabad-spy-module-arrested-mastermind-caught-pakistan-isi-espionage-case-2885881-2026-03-23?utm_source=rss ",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/ghaziabad-spy-case-22453480-16x9_1.png?VersionId=M4eKc5sdrFGfAnmb_PmlhK_VPVRfiCZS",
+      "published_at": "2026-03-23T12:17:35.000Z",
+      "source": "India Today",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఘజియాబాద్‌లోని పాక్‌తో సంబంధం ఉన్న గూఢచారి మాడ్యూల్ కేసులో మరో 8 మందితో పాటు సూత్రధారి అరెస్ట్",
+      "summary_te": "ఘజియాబాద్‌లోని పాక్‌తో సంబంధం ఉన్న గూఢచారి మాడ్యూల్ కేసులో మరో 8 మందితో పాటు సూత్రధారి అరెస్ట్",
       "translated": true
     }
   ]

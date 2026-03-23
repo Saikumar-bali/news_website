@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T19:51:35.541Z",
-  "updated_at_IST": "24/3/2026, 1:21:35 am",
+  "updated_at": "2026-03-23T20:39:41.094Z",
+  "updated_at_IST": "24/3/2026, 2:09:41 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "649c8c265b27a63da57356926d49898d",
+      "title": "Stokes: Ashes aftermath has been 'hardest period' of captaincy",
+      "summary": "England captain 'so happy' to continue to work with McCullum and Key, despite gruelling winter",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528920.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411600/411614.jpg",
+      "published_at": "2026-03-23T20:12:37.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "స్టోక్స్: యాషెస్ తర్వాత కెప్టెన్సీకి 'కష్టతరమైన కాలం'",
+      "summary_te": "కఠినమైన శీతాకాలం ఉన్నప్పటికీ, మెకల్లమ్ మరియు కీలతో కలిసి పనిచేయడం కొనసాగించినందుకు ఇంగ్లండ్ కెప్టెన్ 'చాలా సంతోషంగా' ఉన్నాడు",
+      "translated": true
+    },
     {
       "id": "17a4db3d3effd72555ff97b2f4b2cda4",
       "title": "No change is all change as ECB opt for the rinse-and-repeat cycle",
@@ -182,7 +196,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "title_te": "'అనూహ్యమైనది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "PSL 2026 కోసం కరాచీ కింగ్స్‌లో జాన్సన్ చార్లెస్ స్థానంలో రీజా హెండ్రిక్స్ చేరింది",
       "summary_te": "హెండ్రిక్స్ కింగ్స్‌లో వార్నర్, జంపా, మోయిన్ మరియు వసీమ్‌లతో కూడిన అనుభవజ్ఞుడైన విదేశీ బృందంలో చేరాడు",
-      "translated": true
-    },
-    {
-      "id": "c4f2f2f0a84bff7edb6267a1a2099685",
-      "title": "Khoza, Ngwenya get top posts in World Cup 2027 local organising committee",
-      "summary": "Khoza has held multiple posts in CSA while Ngwenya is currently the president of Cycling South Africa",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528619.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414815.jpg",
-      "published_at": "2026-03-21T13:13:31.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ప్రపంచ కప్ 2027 లోకల్ ఆర్గనైజింగ్ కమిటీలో ఖోజా, ంగ్వేన్యా ఉన్నత పదవులు పొందారు",
-      "summary_te": "Ngwenya ప్రస్తుతం సైక్లింగ్ దక్షిణాఫ్రికా అధ్యక్షుడిగా ఉండగా ఖోజా CSAలో పలు పదవులను నిర్వహించారు",
       "translated": true
     }
   ]
