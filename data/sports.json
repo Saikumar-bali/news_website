@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-03-23T01:14:58.574Z",
-  "updated_at_IST": "23/3/2026, 6:44:58 am",
+  "updated_at": "2026-03-23T04:28:49.872Z",
+  "updated_at_IST": "23/3/2026, 9:58:49 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "58f630336e6f827a2e98ddb6e2377303",
+      "title": "Doggett loses fitness race for Sheffield Shield final",
+      "summary": "The quick injured his hamstring last month but made a strong push to recover for the decider",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528768.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/409300/409331.jpg",
+      "published_at": "2026-03-23T04:08:59.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "షెఫీల్డ్ షీల్డ్ ఫైనల్ కోసం డాగెట్ ఫిట్‌నెస్ రేసులో ఓడిపోయాడు",
+      "summary_te": "శీఘ్ర గత నెలలో అతని స్నాయువుకు గాయమైంది, కానీ నిర్ణయం తీసుకున్న వ్యక్తి కోసం కోలుకోవడానికి బలమైన పుష్ చేసాడు",
+      "translated": true
+    },
     {
       "id": "a936f3f500fdb5dc3aca870052b17a1b",
       "title": "New Zealand Cricket chooses NZ20 as preferred option for the future",
       "summary": "The decision is not a final commitment and the NZ board wants a greater focus on the women's game",
       "url": "https://www.espncricinfo.com/ci/content/story/1528761.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/412700/412711.jpg",
-      "published_at": "2026-03-23T00:50:23.000Z",
+      "published_at": "2026-03-23T04:02:02.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "న్యూజిలాండ్ క్రికెట్ భవిష్యత్తు కోసం NZ20ని ప్రాధాన్యత ఎంపికగా ఎంచుకుంటుంది",
       "summary_te": "ఈ నిర్ణయం అంతిమ నిబద్ధత కాదు మరియు మహిళల ఆటపై ఎక్కువ దృష్టి పెట్టాలని NZ బోర్డు కోరుకుంటోంది",
+      "translated": true
+    },
+    {
+      "id": "b782559d0b8dfc6659c0dc5ad6af13a5",
+      "title": "'Inconceivable': CA won't seek more Test pitch control",
+      "summary": "There is confidence that the balance between bat and ball can be addressed after the pair of two-day Tests this season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528767.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411122.png",
+      "published_at": "2026-03-23T03:55:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "0423127c4ae40d8070067dd03a8732c5",
+      "title": "The who's who of injured and unavailable players for IPL 2026",
+      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
+      "published_at": "2026-03-23T02:52:56.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
+      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
       "translated": true
     },
     {
@@ -114,20 +156,6 @@
       "language": "en",
       "title_te": "ఆస్ట్రేలియా, న్యూజిలాండ్ త్వరితగతిన సవాల్ చేసేందుకు నాలుగు వారాల్లో నాలుగు టెస్టులు",
       "summary_te": "ఆస్ట్రేలియా పురుషులు కూడా వైట్-బాల్ క్రికెట్ కోసం ఇంగ్లాండ్‌కు ఆతిథ్యం ఇవ్వగా, మహిళలు బంగ్లాదేశ్ మరియు న్యూజిలాండ్‌లతో తలపడతారు",
-      "translated": true
-    },
-    {
-      "id": "0423127c4ae40d8070067dd03a8732c5",
-      "title": "The who's who of injured and unavailable players for IPL 2026",
-      "summary": "KKR are the worst hit so far with injuries to Akash Deep, Harshit Rana and Pathirana",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528625.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/398500/398570.jpg",
-      "published_at": "2026-03-22T07:22:50.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
-      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "'నైతిక అసౌకర్యం' ఉన్నప్పటికీ ఐర్లాండ్ వన్డేలకు ఆఫ్ఘనిస్తాన్ పురుషులకు ఆతిథ్యం ఇవ్వనుంది",
       "summary_te": "ఐర్లాండ్‌లో మ్యాచ్‌లు ఆడేందుకు బహిష్కృత ఆఫ్ఘనిస్తాన్ మహిళల జట్టుకు క్రికెట్ ఐర్లాండ్ కూడా ఆహ్వానం పంపింది.",
-      "translated": true
-    },
-    {
-      "id": "c8ada7828e7c2c1f7a4bdc9cf7d2be08",
-      "title": "Ireland eye 2027 launch for 'Euro Nations Cup'",
-      "summary": "The tournament would evoke the Asia Cup, featuring a handful of European teams",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528521.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/406400/406433.jpg",
-      "published_at": "2026-03-20T14:58:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'యూరో నేషన్స్ కప్' కోసం ఐర్లాండ్ ఐ 2027 ప్రారంభం",
-      "summary_te": "ఈ టోర్నమెంట్ ఆసియా కప్‌ను రేకెత్తిస్తుంది, ఇందులో కొన్ని యూరోపియన్ జట్లు పాల్గొంటాయి",
-      "translated": true
-    },
-    {
-      "id": "a1aa1d7ed9fd82f15f976b11fed13368",
-      "title": "Keshav Maharaj: 'We are very inexperienced, but it's not an excuse'",
-      "summary": "They currently trail a five-match T20I series 2-1 against New Zealand, with many first-choice players missing from their squad",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528505.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413500/413517.jpg",
-      "published_at": "2026-03-20T11:30:04.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కేశవ్ మహారాజ్: 'మేము చాలా అనుభవం లేనివాళ్లం, కానీ ఇది సబబు కాదు'",
-      "summary_te": "వారు ప్రస్తుతం న్యూజిలాండ్‌తో జరిగిన ఐదు మ్యాచ్‌ల T20I సిరీస్‌లో 2-1తో వెనుకబడి ఉన్నారు, వారి జట్టులో చాలా మంది ఫస్ట్-ఛాయిస్ ప్లేయర్‌లు తప్పిపోయారు.",
       "translated": true
     }
   ]

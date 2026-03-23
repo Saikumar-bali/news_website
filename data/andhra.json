@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T01:14:58.574Z",
-  "updated_at_IST": "23/3/2026, 6:44:58 am",
+  "updated_at": "2026-03-23T04:28:49.872Z",
+  "updated_at_IST": "23/3/2026, 9:58:49 am",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "f9e19438de588d2429983c55b61e2ddf",
+      "title": "Walkathon held to promote health, community engagement in Tirupati",
+      "summary": "Hospitality company Ekante Bliss - Indian Hotels Company Limited (IHCL) organised ‘Bharat EkSaath’ walkathon in Tirupati on Sunday. The inclusive 3-km wellness walk was held to bring together company’s associates, their families, local partners, vendors and communities across 14 countries in over 200 locations to advance its sustainability and social impact agenda through ‘Paathya’, its ESG+ framework.The walk commenced from the hotel, proceeded up to Lakshmipuram Circle via Air bypass road, and returned to the hotel, reinforcing the brand’s commitment to promoting health, wellness, and community engagement.The funds raised through the walkathon support Taj Public Service Welfare Trust (TPSWT), reinforcing IHCL’s approach to social impact, the company said in a press release.",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/walkathon-held-to-promote-health-community-engagement-in-tirupati/article70772765.ece",
+      "image": "https://th-i.thgim.com/public/incoming/nctmrv/article70773365.ece/alternates/LANDSCAPE_1200/Walk.jpg",
+      "published_at": "2026-03-22T18:54:25.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "తిరుపతిలో ఆరోగ్యం, కమ్యూనిటీ ఎంగేజ్‌మెంట్‌ను ప్రోత్సహించేందుకు వాకథాన్‌ను నిర్వహించారు",
+      "summary_te": "హాస్పిటాలిటీ కంపెనీ ఏకాంటే బ్లిస్ - ఇండియన్ హోటల్స్ కంపెనీ లిమిటెడ్ (ఐహెచ్‌సిఎల్) ఆదివారం తిరుపతిలో ‘భారత్ ఏక్‌సాత్’ వాకథాన్‌ను నిర్వహించింది. 200కి పైగా లొకేషన్లలో కంపెనీ అసోసియేట్‌లు, వారి కుటుంబాలు, స్థానిక భాగస్వాములు, విక్రేతలు మరియు కమ్యూనిటీలను కలిపి 3 కిలోమీటర్ల వెల్‌నెస్ వాక్‌ని 200కి పైగా లొకేషన్‌లలో ఒకచోట చేర్చి, దాని ESG+ ఫ్రేమ్‌వర్క్ ద్వారా దాని సుస్థిరత మరియు సామాజిక ప్రభావ ఎజెండాను ముందుకు తీసుకువెళ్లడానికి నడక జరిగింది. ఆరోగ్యం, ఆరోగ్యం మరియు సమాజ నిశ్చితార్థాన్ని ప్రోత్సహించడంలో బ్రాండ్ యొక్క నిబద్ధత. వాకథాన్ ద్వారా సేకరించిన నిధులు తాజ్ పబ్లిక్ సర్వీస్ వెల్ఫేర్ ట్రస్ట్ (TPSWT)కి మద్దతు ఇస్తున్నాయి, సామాజిక ప్రభావానికి IHCL యొక్క విధానాన్ని బలోపేతం చేస్తున్నాయని కంపెనీ ఒక పత్రికా ప్రకటనలో తెలిపింది.",
+      "translated": true
+    },
     {
       "id": "619f351f3fbf0ca1a70a620c27ec1adc",
       "title": "Eluru police seize 13 vehicles in cordon and search operation",
