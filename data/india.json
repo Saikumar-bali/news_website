@@ -1,9 +1,65 @@
 {
-  "updated_at": "2026-03-23T21:37:57.817Z",
-  "updated_at_IST": "24/3/2026, 3:07:57 am",
+  "updated_at": "2026-03-23T22:31:13.571Z",
+  "updated_at_IST": "24/3/2026, 4:01:13 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "c5118c063622f16dda70acbc26ec7497",
+      "title": "2 India-flagged tankers clear Hormuz; Iran denies taking ransom",
+      "summary": "Two Indian-flagged LPG tankers, Jag Vasant and Pine Gas, carrying substantial cooking gas, successfully navigated the war-torn Strait of Hormuz. This marks the fourth Indian vessel passage since the conflict's onset, with four more Indian ships and crews awaiting safe transit. The government is prioritizing their secure passage amid regional tensions.",
+      "url": "https://timesofindia.indiatimes.com/india/2-india-flagged-tankers-clear-hormuz-iran-denies-taking-ransom/articleshow/129762666.cms",
+      "image": "https://static.toiimg.com/photo/msid-129762672,imgsize-649421.cms",
+      "published_at": "2026-03-23T21:49:06.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "2 భారతదేశం-జెండాతో కూడిన ట్యాంకర్లు హార్ముజ్‌ను క్లియర్ చేశాయి; విమోచన క్రయధనాన్ని ఇరాన్ ఖండించింది",
+      "summary_te": "రెండు భారతీయ జెండాలతో కూడిన LPG ట్యాంకర్లు, జగ్ వసంత్ మరియు పైన్ గ్యాస్, గణనీయమైన వంట గ్యాస్‌ను మోసుకెళ్లి, యుద్ధంలో దెబ్బతిన్న హార్ముజ్ జలసంధిని విజయవంతంగా నావిగేట్ చేశాయి. సంఘర్షణ ప్రారంభమైనప్పటి నుండి ఇది నాల్గవ భారతీయ నౌక మార్గాన్ని సూచిస్తుంది, మరో నాలుగు భారతీయ నౌకలు మరియు సిబ్బంది సురక్షితమైన రవాణా కోసం వేచి ఉన్నారు. ప్రాంతీయ ఉద్రిక్తతల మధ్య ప్రభుత్వం వారి సురక్షిత మార్గానికి ప్రాధాన్యత ఇస్తోంది.",
+      "translated": true
+    },
+    {
+      "id": "0a094f9dd9539e0ebd4324a1b2aca17a",
+      "title": "PM Modi: India has strategic petro reserves of over 53 lakh tonne",
+      "summary": "Prime Minister Narendra Modi assured that the government is actively working to maintain uninterrupted supplies of essential commodities like petrol, diesel, gas, and fertilizers amidst West Asian conflicts. Diversified energy import sources, increased ethanol blending, and extensive railway electrification have significantly reduced dependence on fossil fuels, bolstering India's energy security.",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-india-has-strategic-petro-reserves-of-over-53-lakh-tonne/articleshow/129762605.cms",
+      "image": "https://static.toiimg.com/photo/msid-129762653,imgsize-39338.cms",
+      "published_at": "2026-03-23T21:44:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రధాని మోదీ: భారతదేశంలో 53 లక్షల టన్నులకు పైగా వ్యూహాత్మక పెట్రో నిల్వలు ఉన్నాయి",
+      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పెట్రోల్, డీజిల్, గ్యాస్, ఎరువులు వంటి నిత్యావసర సరుకులను నిరంతరాయంగా సరఫరా చేసేందుకు ప్రభుత్వం చురుకుగా పనిచేస్తోందని ప్రధాని నరేంద్ర మోదీ హామీ ఇచ్చారు. వైవిధ్యభరితమైన ఇంధన దిగుమతి వనరులు, పెరిగిన ఇథనాల్ మిశ్రమం మరియు విస్తృతమైన రైల్వే విద్యుదీకరణ వంటివి భారతదేశ ఇంధన భద్రతను పెంపొందించడం ద్వారా శిలాజ ఇంధనాలపై ఆధారపడటాన్ని గణనీయంగా తగ్గించాయి.",
+      "translated": true
+    },
+    {
+      "id": "038a7ea1100865ae3d1445d2638070b6",
+      "title": "Your next LPG refill could be of 10kg instead of regular 14.2kg",
+      "summary": "Oil marketing companies are reportedly considering delivering underweight LPG cylinders to ensure more equitable distribution amid critical availability. While the petroleum ministry dismisses these reports as speculative, refiners confirm the proposal is under government consideration. Increased domestic production is now meeting a higher percentage of demand, despite disruptions in West Asia impacting imports.",
+      "url": "https://timesofindia.indiatimes.com/india/your-next-lpg-refill-could-be-of-10kg-instead-of-regular-14-2kg/articleshow/129762430.cms",
+      "image": "https://static.toiimg.com/photo/msid-129762435,imgsize-1422656.cms",
+      "published_at": "2026-03-23T21:36:53.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మీ తదుపరి LPG రీఫిల్ సాధారణ 14.2kgకి బదులుగా 10kgలు ఉండవచ్చు",
+      "summary_te": "చమురు మార్కెటింగ్ కంపెనీలు క్లిష్టమైన లభ్యత మధ్య మరింత సమానమైన పంపిణీని నిర్ధారించడానికి తక్కువ బరువు కలిగిన LPG సిలిండర్‌లను పంపిణీ చేయాలని ఆలోచిస్తున్నట్లు నివేదించబడింది. పెట్రోలియం మంత్రిత్వ శాఖ ఈ నివేదికలను ఊహాజనితమని కొట్టిపారేసినప్పటికీ, ఈ ప్రతిపాదన ప్రభుత్వ పరిశీలనలో ఉందని రిఫైనర్లు ధృవీకరించారు. పశ్చిమాసియాలో అంతరాయాలు దిగుమతులపై ప్రభావం చూపుతున్నప్పటికీ, పెరిగిన దేశీయ ఉత్పత్తి ఇప్పుడు డిమాండ్‌లో అధిక శాతం కలుస్తోంది.",
+      "translated": true
+    },
+    {
+      "id": "f9d13988442b7b0820677f99b6a8b66e",
+      "title": "14 polling stations across T.N. to be in high-rise buildings or group housing societies",
+      "summary": "Five such polling stations would be in Chennai district",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/14-polling-stations-across-tn-to-be-in-high-rise-buildings-or-group-housing-societies/article70765895.ece",
+      "image": null,
+      "published_at": "2026-03-23T21:17:35.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "T.N వ్యాప్తంగా 14 పోలింగ్ స్టేషన్లు ఎత్తైన భవనాలు లేదా గ్రూప్ హౌసింగ్ సొసైటీలలో ఉండాలి",
+      "summary_te": "అలాంటి ఐదు పోలింగ్ స్టేషన్లు చెన్నై జిల్లాలో ఉంటాయి",
+      "translated": true
+    },
     {
       "id": "f00784ebe63adf8adb7a34f7e87c55fa",
       "title": "Tamil Nadu Assembly election 2026: Ramadoss, Sasikala join hands, to field candidates in all 234 seats",
@@ -75,6 +131,20 @@
       "translated": true
     },
     {
+      "id": "ed1b5e4a413762a99435660f52390de8",
+      "title": "Colombia Military Aircraft Carrying 125 On Board Crashes, Many Feared Dead",
+      "summary": "A military transport plane with 125 people on board crashed shortly after taking off Monday in southwestern Colombia, causing an undetermined number of casualties, officials said.",
+      "url": "https://www.ndtv.com/world-news/military-plane-with-125-aboard-crashes-in-colombia-at-least-48-rescued-11256788#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/a8mp2qsc_colombia-plane-crash_625x300_24_March_26.jpeg",
+      "published_at": "2026-03-23T20:44:41.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "కొలంబియా మిలిటరీ ఎయిర్‌క్రాఫ్ట్ 125 మందిని తీసుకెళ్తుంది, చాలా మంది చనిపోయారని భయపడ్డారు",
+      "summary_te": "నైరుతి కొలంబియాలో సోమవారం టేకాఫ్ అయిన కొద్దిసేపటికే 125 మందితో ప్రయాణిస్తున్న సైనిక రవాణా విమానం కుప్పకూలిందని, దీనివల్ల మృతుల సంఖ్య నిశ్చయించుకోలేదని అధికారులు తెలిపారు.",
+      "translated": true
+    },
+    {
       "id": "5b3381a59eeed5b092a4e0e1c9aa895a",
       "title": "Medical bodies raise concerns over permits for procedures",
       "summary": "Warn of safety risks in Dental Council of India nod to Master of Dental Surgery doctors to perform such surgeries",
@@ -84,7 +154,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "విధానాలకు సంబంధించిన అనుమతులపై వైద్య సంస్థలు ఆందోళనలు చేస్తున్నాయి",
+      "title_te": "విధానాలకు అనుమతులపై వైద్య సంస్థలు ఆందోళనలు చేస్తున్నాయి",
       "summary_te": "డెంటల్ కౌన్సిల్ ఆఫ్ ఇండియాలో భద్రతా ప్రమాదాల గురించి హెచ్చరించండి, అటువంటి శస్త్రచికిత్సలు చేయడానికి మాస్టర్ ఆఫ్ డెంటల్ సర్జరీ వైద్యులకు ఆమోదం",
       "translated": true
     },
@@ -169,7 +239,7 @@
       "category": "india",
       "language": "en",
       "title_te": "భారతీయార్ యూనివర్శిటీ రిజిస్ట్రార్ నియామకాన్ని పరిశీలించేందుకు షెడ్యూల్డ్ కులాల జాతీయ కమిషన్",
-      "summary_te": "భారతియార్ యూనివర్సిటీ రిజిస్ట్రార్ పోస్టుకు (అపాయింట్‌మెంట్) కమిటీకి సరైన ఎస్సీ (షెడ్యూల్డ్ కులాల సభ్యుడు) ప్రాతినిధ్యం లేదని చేసిన ఆరోపణపై జాతీయ షెడ్యూల్డ్ కులాల కమిషన్ స్పందిస్తూ, వాస్తవాలను సమర్పించాల్సిందిగా తమిళనాడు ప్రభుత్వ ఉన్నత విద్యాశాఖను అభ్యర్థించింది. కెమిస్ట్రీ, భారతియార్ విశ్వవిద్యాలయం, జాతీయ షెడ్యూల్డ్ కులాల కమీషన్ డైరెక్టర్, శ్రీ రవివర్మన్, తమిళనాడు ప్రభుత్వ ఉన్నత విద్యా శాఖ అదనపు ప్రధాన కార్యదర్శికి, భారతియార్ యూనివర్శిటీకి మార్క్ చేసిన ఒక కాపీతో, “కమీషన్ ఈ విషయంపై దర్యాప్తు/విచారణ చేయాలని నిర్ణయించింది” అని తెలిపారు. భారతదేశంలోని షెడ్యూల్డ్ కులాల సామాజిక-ఆర్థిక అభివృద్ధి). P. శంకర్ (కన్వీనర్, VC కమిటీ), E. సుందరవల్లి (సిండికేట్ సభ్యుడు), M. ధరణీధరన్ (సిండికేట్ సభ్యుడు), R. దుర్గాశంకర్ (సిండికేట్ సభ్యుడు), మరియు M.V. రమణ మూర్తి (ఛాన్సలర్ నామినీ) సేలంలోని పెరియార్ విశ్వవిద్యాలయంలో కెమిస్ట్రీ ప్రొఫెసర్‌గా ఉన్న ఆర్. రాజవేల్‌ను ఆగస్టు 8, 2025న రిజిస్ట్రార్‌గా నియమించారు.",
+      "summary_te": "భారతియార్ యూనివర్సిటీ రిజిస్ట్రార్ పోస్టుకు (నియామక) కమిటీకి సరైన ఎస్సీ (షెడ్యూల్డ్ కులాల సభ్యుడు) ప్రాతినిధ్యం లేదని చేసిన ఆరోపణపై జాతీయ షెడ్యూల్డ్ కులాల కమిషన్ స్పందిస్తూ, వాస్తవాలను సమర్పించాలని తమిళనాడు ప్రభుత్వ ఉన్నత విద్యా శాఖను అభ్యర్థించింది. కెమిస్ట్రీ, భారతియార్ విశ్వవిద్యాలయం, జాతీయ షెడ్యూల్డ్ కులాల కమీషన్ డైరెక్టర్, శ్రీ రవివర్మన్, తమిళనాడు ప్రభుత్వ ఉన్నత విద్యా శాఖ అదనపు ప్రధాన కార్యదర్శికి, భారతియార్ యూనివర్శిటీకి మార్క్ చేసిన ఒక కాపీతో, “కమీషన్ ఈ విషయంపై దర్యాప్తు/విచారణ చేయాలని నిర్ణయించింది” అని తెలిపారు. భారతదేశంలోని షెడ్యూల్డ్ కులాల సామాజిక-ఆర్థిక అభివృద్ధి). P. శంకర్ (కన్వీనర్, VC కమిటీ), E. సుందరవల్లి (సిండికేట్ సభ్యుడు), M. ధరణీధరన్ (సిండికేట్ సభ్యుడు), R. దుర్గాశంకర్ (సిండికేట్ సభ్యుడు), మరియు M.V. రమణ మూర్తి (ఛాన్సలర్ నామినీ) సేలంలోని పెరియార్ విశ్వవిద్యాలయంలో కెమిస్ట్రీ ప్రొఫెసర్‌గా ఉన్న ఆర్. రాజవేల్‌ను ఆగస్టు 8, 2025న రిజిస్ట్రార్‌గా నియమించారు.",
       "translated": true
     },
     {
@@ -197,7 +267,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పంజాబ్ అధికారిక మరణ కేసు: ఆప్ మాజీ మంత్రి అరెస్ట్ క్రెడిట్ వార్‌కు దారితీసింది",
-      "summary_te": "పాలక AAP దానిని వేగవంతమైన చర్య అని పిలుస్తుంది, అయితే ప్రతిపక్ష పార్టీలు పంజాబ్ ప్రభుత్వం అని అంటున్నాయి. బలవంతంగా నటించారు",
+      "summary_te": "పాలక AAP దానిని వేగవంతమైన చర్య అని పిలుస్తుంది, అయితే ప్రతిపక్ష పార్టీలు పంజాబ్ ప్రభుత్వం అని అంటున్నాయి. బలవంతంగా నటించాల్సి వచ్చింది",
       "translated": true
     },
     {
@@ -327,20 +397,6 @@
       "translated": true
     },
     {
-      "id": "ed1b5e4a413762a99435660f52390de8",
-      "title": "Colombian Military Plane With 125 Onboard Crashes, 48 Rescued",
-      "summary": "A military transport plane with 125 people on board crashed shortly after taking off Monday in southwestern Colombia, causing an undetermined number of casualties, officials said.",
-      "url": "https://www.ndtv.com/world-news/military-plane-with-125-aboard-crashes-in-colombia-at-least-48-rescued-11256788#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/a8mp2qsc_colombia-plane-crash_625x300_24_March_26.jpeg",
-      "published_at": "2026-03-23T19:34:06.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "125 ఆన్‌బోర్డ్ క్రాష్‌లతో కొలంబియన్ మిలిటరీ విమానం, 48 మంది రక్షించబడ్డారు",
-      "summary_te": "నైరుతి కొలంబియాలో సోమవారం టేకాఫ్ అయిన కొద్దిసేపటికే 125 మందితో ప్రయాణిస్తున్న సైనిక రవాణా విమానం కుప్పకూలిందని, దీనివల్ల మృతుల సంఖ్య నిశ్చయించుకోలేదని అధికారులు తెలిపారు.",
-      "translated": true
-    },
-    {
       "id": "37427b371a0690e47cc9ac35ef84516d",
       "title": "Doncic cleared to play: NBA rescinds suspension listing; star available vs Pistons",
       "summary": "Luka Doncic faces a surprising one-game suspension for the Lakers' March 23rd clash against the Pistons, despite his 16th technical foul being rescinded. This unexpected absence impacts the surging Lakers, who are on a nine-game win streak. The Pistons, leading the East, will also be without star Cade Cunningham, creating a pivotal matchup.",
@@ -422,20 +478,6 @@
       "language": "en",
       "title_te": "వాయనాడ్‌కు కర్ణాటక నుండి అదనంగా ₹10 కోట్లు లభిస్తాయి",
       "summary_te": "కేరళ అసెంబ్లీకి ఎన్నికలకు ముందు, వయనాడ్ జిల్లా మెప్పాడిలో కొండచరియలు విరిగిపడటంతో నష్టపోయిన కుటుంబాల పునరావాసం కోసం కర్ణాటకలోని కాంగ్రెస్ ప్రభుత్వం ₹10 కోట్ల అదనపు గ్రాంట్‌ను అందించనుంది. దీనికి సంబంధించి 2025-26 అనుబంధ అంచనాలలో (మూడవ మరియు చివరి విడత) కర్ణాటక అసెంబ్లీలో సమర్పించబడింది (2వ తేదీ సోమవారం నాడు). 2025-26 (మూడవ మరియు చివరి వాయిదా) అంచనాలు మొత్తం ₹14,767.89 కోట్లకు చేరాయి. చట్టపరమైన వ్యయం, కర్నాటక ప్రభుత్వం తరఫున సీనియర్ న్యాయవాది కపిల్ సిబల్ హాజరుకావడానికి అదనంగా ₹20 లక్షలను చెల్లించడానికి కూడా సప్లిమెంటరీ అంచనాలు ఏర్పాటు చేశాయి. 210/2024. మరొక సందర్భంలో, SLP (సివిల్) నం. 8832/2025 కేసులో రాష్ట్ర ప్రభుత్వం తరపున సుప్రీంకోర్టుకు హాజరైనందుకు గాను మిస్టర్ సిబల్‌కు అదనంగా ₹40 లక్షలు చెల్లించాలని నిబంధన విధించబడింది. కర్ణాటక ప్రభుత్వ పర్యటన కోసం అదనంగా ₹10 కోట్లు చెల్లించడానికి అనుబంధ అంచనాలు ఏర్పాటు చేశాయి. స్విట్జర్లాండ్, వరల్డ్ ఎకనామిక్ ఫోరమ్ వార్షిక సమావేశం 2026లో పాల్గొనడం కోసం. హవేరి, విజయనగరం మరియు హాసన్‌లలో వివిధ పథకాల లబ్ధిదారుల కోసం నిర్వహించిన ముఖ్యమంత్రి సమావేశానికి బకాయి బిల్లులు చెల్లించడానికి ₹16.3 కోట్లు అందించబడింది.",
-      "translated": true
-    },
-    {
-      "id": "f08531c177dda582c1b8f91499cfae4d",
-      "title": "Bypoll: BJP candidates richer than Congress candidates",
-      "summary": "The BJP candidates are richer compared to the Congress candidates as per their affidavits filed along with their nomination papers in the byelections to Bagalkot and Davangere South Assembly constituencies.",
-      "url": "https://www.thehindu.com/news/national/karnataka/bypoll-bjp-candidates-richer-than-congress-candidates/article70776337.ece",
-      "image": "https://th-i.thgim.com/public/incoming/1z40rr/article70776793.ece/alternates/LANDSCAPE_1200/9727_22_3_2026_20_53_49_1_23BGMUMESHMETI1.JPG",
-      "published_at": "2026-03-23T19:22:24.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఉప ఎన్నిక: కాంగ్రెస్ అభ్యర్థుల కంటే బీజేపీ అభ్యర్థులు ధనవంతులు",
-      "summary_te": "బాగల్‌కోట్ మరియు దావణగెరె దక్షిణ అసెంబ్లీ నియోజకవర్గాలకు జరిగిన ఉప ఎన్నికల్లో తమ నామినేషన్ పత్రాలతో పాటు దాఖలు చేసిన అఫిడవిట్‌ల ప్రకారం కాంగ్రెస్ అభ్యర్థులతో పోలిస్తే బిజెపి అభ్యర్థులు ధనవంతులు.",
       "translated": true
     },
     {
@@ -617,7 +659,7 @@
       "category": "india",
       "language": "en",
       "title_te": "వాస్తవ తనిఖీ: మాజీ ఉద్యోగి కాండస్ ఓవెన్స్ ప్రవర్తనను బహిర్గతం చేశారా?",
-      "summary_te": "ఒక మాజీ ఉద్యోగి కాండస్ ఓవెన్స్‌ను \"నార్సిసిస్టిక్\" ప్రవర్తనకు ఆరోపించాడు, అయితే క్లెయిమ్‌లు ధృవీకరించబడలేదు. ఎటువంటి ఆధారాలు, అధికారిక ప్రతిస్పందన లేదా స్వతంత్ర నిర్ధారణ అందించబడలేదు. ఆరోపణలలో టర్నింగ్ పాయింట్ USA మరియు బ్లెక్సిట్ గురించి ప్రస్తావించబడింది, కానీ ఏదీ నిరూపించబడలేదు. సోషల్ మీడియా విభజించబడింది మరియు ఇప్పటివరకు ఎటువంటి విచారణ లేదా చట్టపరమైన చర్యలు లేకుండా పరిస్థితి ఇంకా అస్పష్టంగా ఉంది.",
+      "summary_te": "ఒక మాజీ ఉద్యోగి కాండేస్ ఓవెన్స్‌పై \"నార్సిసిస్టిక్\" ప్రవర్తనను ఆరోపించాడు, అయితే క్లెయిమ్‌లు ధృవీకరించబడలేదు. ఎటువంటి ఆధారాలు, అధికారిక ప్రతిస్పందన లేదా స్వతంత్ర నిర్ధారణ అందించబడలేదు. ఆరోపణలలో టర్నింగ్ పాయింట్ USA మరియు Blexit గురించి ప్రస్తావించబడింది, కానీ ఏదీ నిరూపించబడలేదు. సోషల్ మీడియా విభజించబడింది మరియు ఇప్పటివరకు ఎటువంటి విచారణ లేదా చట్టపరమైన చర్యలు లేకుండా పరిస్థితి ఇంకా అస్పష్టంగా ఉంది.",
       "translated": true
     },
     {
@@ -688,20 +730,6 @@
       "language": "en",
       "title_te": "మేఘాలయ: అశాంతి తర్వాత గిరిజనేతరులు ఎన్నికల్లో పోటీ చేయకుండా గారో జిల్లా మండలి నిషేధించింది",
       "summary_te": "కౌన్సిల్ ఎన్నికల్లో పోటీ చేసేందుకు షెడ్యూల్డ్ తెగ (ఎస్టీ) సర్టిఫికెట్లను తప్పనిసరి చేసేందుకు GHADC తన నిబంధనలను సవరించింది. ఈ నిర్ణయాన్ని ప్రభుత్వం ఆమోదించాల్సి ఉంది",
-      "translated": true
-    },
-    {
-      "id": "930ddb9b39a1adf095a8f6a784fa5d8a",
-      "title": "Who is AmineMaTue? French streamer Mohamed Amine Mahmoud joins Sidemen Charity Match",
-      "summary": "AmineMaTue, whose real name is Mohamed Amine Mahmoud, will play in the Sidemen Charity Match 2026 at Wembley Stadium. The French streamer is known for his Twitch content and football events. He joins Sidemen FC after being picked in the draft. His entry is expected to bring more viewers, though some fans have mixed reactions.",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-aminematue-french-streamer-mohamed-amine-mahmoud-joins-sidemen-charity-match-2026-at-wembley-stadium/articleshow/129759091.cms",
-      "image": "https://static.toiimg.com/photo/msid-129759025,imgsize-20940.cms",
-      "published_at": "2026-03-23T17:36:37.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "AmineMaTue ఎవరు? ఫ్రెంచ్ స్ట్రీమర్ మొహమ్మద్ అమీన్ మహమూద్ సైడ్‌మెన్ ఛారిటీ మ్యాచ్‌లో చేరాడు",
-      "summary_te": "అమీన్‌మాట్యూ, దీని అసలు పేరు మొహమ్మద్ అమీన్ మహమూద్, వెంబ్లీ స్టేడియంలో సైడ్‌మెన్ ఛారిటీ మ్యాచ్ 2026లో ఆడతారు. ఫ్రెంచ్ స్ట్రీమర్ తన ట్విచ్ కంటెంట్ మరియు ఫుట్‌బాల్ ఈవెంట్‌లకు ప్రసిద్ధి చెందాడు. డ్రాఫ్ట్‌లో ఎంపికైన తర్వాత అతను సైడ్‌మెన్ FCలో చేరాడు. కొంతమంది అభిమానులు మిశ్రమ స్పందనలను కలిగి ఉన్నప్పటికీ, అతని ప్రవేశం మరింత మంది ప్రేక్షకులను తీసుకువస్తుందని భావిస్తున్నారు.",
       "translated": true
     },
     {
@@ -841,7 +869,7 @@
       "category": "india",
       "language": "en",
       "title_te": "\"కాంగ్రెస్ మైనారిటీలను నాశనం చేసింది\": బద్రుద్దీన్ అజ్మల్ కళ్ళు అస్సాం పునరాగమనం",
-      "summary_te": "భారీ జనసందోహం మధ్య కొత్తగా ఏర్పడిన బిన్నకండి అసెంబ్లీ నియోజకవర్గం నుంచి ఏఐయూడీఎఫ్ తన నామినేషన్ పత్రాలను దాఖలు చేసింది. రెండు దశాబ్దాల తర్వాత రాష్ట్ర స్థాయి ఎన్నికల రాజకీయాల్లోకి అజ్మల్ తిరిగి రావడం ఇదే.",
+      "summary_te": "భారీ జనసందోహం మధ్య కొత్తగా ఏర్పడిన బిన్నకండి అసెంబ్లీ నియోజకవర్గం స్థానం నుంచి ఏఐయూడీఎఫ్ తన నామినేషన్ పత్రాలను దాఖలు చేసింది. రెండు దశాబ్దాల తర్వాత రాష్ట్ర స్థాయి ఎన్నికల రాజకీయాల్లోకి అజ్మల్ తిరిగి రావడం ఇదే.",
       "translated": true
     },
     {
@@ -910,7 +938,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "'ఫేక్ న్యూస్': ట్రంప్ చర్చలు చమురు మార్కెట్లను తారుమారు చేసే లక్ష్యంతో ఉన్నాయని ఇరాన్ స్పీకర్ చెప్పారు",
+      "title_te": "'ఫేక్ న్యూస్': ట్రంప్ చర్చలు చమురు మార్కెట్లను తారుమారు చేయడమే లక్ష్యంగా ఉన్నాయని ఇరాన్ స్పీకర్ చెప్పారు",
       "summary_te": "\"చాలా మంచి మరియు ఉత్పాదక సంభాషణలు\" అని ట్రంప్ చేసిన వాదనలను చమురు మార్కెట్లను మార్చటానికి ఉద్దేశించిన \"నకిలీ వార్తలు\" అని లేబుల్ చేస్తూ, యునైటెడ్ స్టేట్స్‌తో ఎటువంటి చర్చలు జరపడాన్ని ఇరాన్ ఖండించింది. టెహ్రాన్ ఎటువంటి చర్చలు జరగడం లేదని మరియు క్లిష్ట పరిస్థితి నుండి తప్పించుకోవడానికి ఇటువంటి ప్రకటనలు ఒక ఎత్తుగడ అని నొక్కిచెప్పారు, అయితే ట్రంప్ ఇరాన్ లక్ష్యాలపై సైనిక దాడులకు తాత్కాలిక విరామం ప్రకటించారు.",
       "translated": true
     },
@@ -924,7 +952,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "110 మంది సైనికులతో కూడిన కొలంబియా మిలిటరీ విమానం కూలిపోయిన తర్వాత మంటల్లో ఎగసిపడుతోంది - చూడండి",
+      "title_te": "110 మంది సైనికులతో ఉన్న కొలంబియా మిలిటరీ విమానం క్రాష్ తర్వాత మంటల్లో విస్ఫోటనం చెందింది - చూడండి",
       "summary_te": "దాదాపు 110 మంది సైనికులతో ప్రయాణిస్తున్న లాక్‌హీడ్ మార్టిన్ హెర్క్యులస్ సి-130 విమానం దక్షిణ కొలంబియాలో పెరూ సరిహద్దు సమీపంలో కూలిపోయింది. ప్యూర్టో లెగ్యుజామో నుండి టేకాఫ్ సమయంలో ఈ ప్రమాదం సంభవించింది, విమానం మంటల్లో చిక్కుకున్నట్లు వీడియో ఫుటేజీలో ఉంది. మృతుల సంఖ్య మరియు ప్రమాదానికి గల కారణాలు ఇంకా దర్యాప్తులో ఉన్నాయి.",
       "translated": true
     },
@@ -967,7 +995,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఫ్యాక్ట్‌బాక్స్-ప్రపంచవ్యాప్త ప్రభుత్వాలు పెరుగుతున్న ఇంధన ఖర్చుల నుండి గృహాలను కాపాడతాయి",
-      "summary_te": "ఇరాన్-సంక్షోభం-దేశాలు-చర్యలు: ఫ్యాక్ట్‌బాక్స్-ప్రపంచవ్యాప్త ప్రభుత్వాలు పెరుగుతున్న ఇంధన ఖర్చుల నుండి గృహాలను కాపాడుతున్నాయి",
+      "summary_te": "ఇరాన్-సంక్షోభ-దేశాలు-చర్యలు: ఫ్యాక్ట్‌బాక్స్-ప్రపంచవ్యాప్తంగా ప్రభుత్వాలు పెరుగుతున్న ఇంధన ఖర్చుల నుండి గృహాలను కాపాడుతున్నాయి",
       "translated": true
     },
     {
@@ -981,7 +1009,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఐపీఎల్ 2026కి ముందు అజింక్య రహానే 20 బంతుల్లో అర్ధ సెంచరీతో బలమైన సందేశం పంపాడు.",
-      "summary_te": "కోల్‌కతా నైట్ రైడర్స్ కెప్టెన్ అజింక్య రహానే ప్రాక్టీస్ గేమ్‌లో 25 బంతుల్లో వేగంగా 58 పరుగులు చేసి IPL 2026 కోసం తన ఉద్దేశాన్ని సూచించాడు. 2025 కష్టతరమైనప్పటికీ, జట్టు యొక్క ప్రధాన స్కోరర్ అయిన రహానే రాబోయే సీజన్ పట్ల ఆశావాదం మరియు సానుకూల దృక్పథాన్ని వ్యక్తం చేశాడు. పునరుద్ధరించబడిన KKR జట్టుకు బలమైన ఆరంభం మరియు స్థిరమైన ప్రదర్శన యొక్క ప్రాముఖ్యతను అతను నొక్కి చెప్పాడు.",
+      "summary_te": "కోల్‌కతా నైట్ రైడర్స్ కెప్టెన్ అజింక్య రహానే ప్రాక్టీస్ గేమ్‌లో 25 బంతుల్లో వేగంగా 58 పరుగులు చేయడంతో IPL 2026 కోసం తన ఉద్దేశాన్ని సూచించాడు. 2025 కష్టతరమైనప్పటికీ, జట్టు యొక్క ప్రధాన స్కోరర్ అయిన రహానే రాబోయే సీజన్ పట్ల ఆశావాదం మరియు సానుకూల దృక్పథాన్ని వ్యక్తం చేశాడు. పునరుద్ధరించబడిన KKR జట్టుకు బలమైన ఆరంభం మరియు స్థిరమైన ప్రదర్శన యొక్క ప్రాముఖ్యతను అతను నొక్కి చెప్పాడు.",
       "translated": true
     },
     {
@@ -1050,7 +1078,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "లండన్‌కు వెళ్లే ఎయిరిండియా విమానం సాంకేతిక లోపంతో ప్రయాణికులంతా క్షేమంగా ఉండడంతో జెడ్డాకు మళ్లించారు",
+      "title_te": "లండన్‌కు వెళ్లే ఎయిర్ ఇండియా విమానం సాంకేతిక లోపంతో ప్రయాణికులందరూ సురక్షితంగా ఉండడంతో జెడ్డాకు మళ్లించారు",
       "summary_te": "సేఫ్టీ ప్రోటోకాల్స్ ప్రకారం విమానం ప్రస్తుతం వివరణాత్మక సాంకేతిక తనిఖీలను జరుపుకుంటుందని ఎయిర్ ఇండియా ఒక ప్రకటనలో తెలిపింది.",
       "translated": true
     },
@@ -1064,7 +1092,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "మణిపూర్‌లోని ఉఖ్రుల్‌లో కాల్పుల్లో గాయపడిన మహిళ; గ్రామస్థులు రక్షించారు: పోలీసులు",
+      "title_te": "మణిపూర్‌లోని ఉఖ్రుల్‌లో కాల్పుల్లో గాయపడిన మహిళ; రక్షించిన గ్రామస్థులు: పోలీసులు",
       "summary_te": "కుకీ-జో గ్రామ వాలంటీర్లు మరియు తంగ్‌ఖుల్ నాగా గ్రామ వాలంటీర్లుగా అనుమానిస్తున్న రెండు సాయుధ గ్రూపుల మధ్య ఈ సంఘటన జరిగిందని పోలీసులు తెలిపారు.",
       "translated": true
     },
@@ -1079,7 +1107,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పతనమైన బంగారం ధరలు! US-ఇరాన్ యుద్ధం $9tn పసుపు మెటల్ మార్కెట్ క్యాప్‌ను తుడిచిపెట్టేసింది - దాని ప్రకాశాన్ని కోల్పోతుందా?",
-      "summary_te": "భౌగోళిక రాజకీయ అనిశ్చితి సమయంలో, బంగారం పెట్టుబడికి వెళ్లడం - ఇది పెట్టుబడిదారులు పరుగెత్తే సమయ-పరీక్షించిన సురక్షితమైన స్వర్గధామం. అలాంటప్పుడు జరుగుతున్న యుద్ధం మధ్య బంగారం ధరలు ఎందుకు పడిపోతున్నాయి? బంగారం యొక్క సురక్షిత స్వర్గపు ఆకర్షణ క్షీణిస్తోందని దీని అర్థం?",
+      "summary_te": "భౌగోళిక రాజకీయ అనిశ్చితి సమయాల్లో, బంగారం పెట్టుబడికి మార్గం - ఇది పెట్టుబడిదారులు పరుగెత్తే సమయ-పరీక్షించిన సురక్షితమైన స్వర్గధామం. అలాంటప్పుడు జరుగుతున్న యుద్ధం మధ్య బంగారం ధరలు ఎందుకు పడిపోతున్నాయి? బంగారం యొక్క సురక్షిత స్వర్గ ఆకర్షణ క్షీణిస్తోందని దీని అర్థం?",
       "translated": true
     },
     {
@@ -1176,8 +1204,8 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "అధికారిక పత్రంపై బీజేపీ ముద్రను ‘క్లరికల్ ఎర్రర్’గా అభివర్ణించిన కేరళ సీఈఓ",
-      "summary_te": "బిజెపి తన ముద్రతో 2019 మార్గదర్శక ప్రతిని సమర్పించిందని పేర్కొంది; కార్యాలయం దానిని విస్మరించింది మరియు వివరణను అభ్యర్థిస్తున్నప్పుడు పొరపాటున ఇతర పార్టీలతో పంచుకుంది",
+      "title_te": "అధికారిక పత్రంపై బీజేపీ ముద్రను ‘క్లెరికల్ ఎర్రర్’గా అభివర్ణించిన కేరళ సీఈవో",
+      "summary_te": "బిజెపి తన ముద్రతో 2019 మార్గదర్శక ప్రతిని సమర్పించిందని పేర్కొంది; కార్యాలయం దానిని పట్టించుకోలేదు మరియు వివరణను అభ్యర్థిస్తున్నప్పుడు పొరపాటున ఇతర పార్టీలతో పంచుకుంది",
       "translated": true
     },
     {
@@ -1205,7 +1233,7 @@
       "category": "india",
       "language": "en",
       "title_te": "అస్సాం ఎన్నికలలో లెగసీ జోర్హాట్ స్వంత గౌరవ్ గొగోయ్‌ను రక్షిస్తుంది",
-      "summary_te": "అహోం ఓటర్లు అనేక పాకెట్లలో ఆధిపత్యం చెలాయిస్తున్నారు; బ్రాహ్మణులతో సహా ఉన్నత-కులాల అస్సామీలు పట్టణ మరియు సెమీ-అర్బన్ సమూహాలలో ప్రభావాన్ని కలిగి ఉన్నారు. జోర్హాట్ గుర్తుచేసుకున్నాడు, రీకాలిబ్రేట్ చేస్తాడు మరియు అప్పుడప్పుడు మారాడు, కానీ దశాబ్దాలుగా అది కాంగ్రెస్ వైపు మొగ్గు చూపింది",
+      "summary_te": "అహోం ఓటర్లు అనేక పాకెట్లలో ఆధిపత్యం చెలాయిస్తున్నారు; బ్రాహ్మణులతో సహా ఉన్నత-కులాల అస్సామీలు పట్టణ మరియు సెమీ-అర్బన్ సమూహాలలో తమ ప్రభావాన్ని కలిగి ఉన్నారు. జోర్హాట్ గుర్తుచేసుకున్నాడు, రీకాలిబ్రేట్ చేస్తాడు మరియు అప్పుడప్పుడు మారాడు, కానీ దశాబ్దాలుగా అది కాంగ్రెస్ వైపు మొగ్గు చూపింది",
       "translated": true
     },
     {
@@ -1233,7 +1261,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇండిగో మాజీ ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ చీఫ్ అలోక్ సింగ్‌ను చీఫ్ స్ట్రాటజీ ఆఫీసర్‌గా పేర్కొంది",
-      "summary_te": "ఇండిగో మేనేజింగ్ డైరెక్టర్, రాహుల్ భాటియా మాట్లాడుతూ, అలోక్ సింగ్ వ్యూహాత్మక దృష్టి మరియు కార్యాచరణ లోతు యొక్క అసాధారణమైన సమ్మేళనాన్ని తీసుకువస్తున్నారని అన్నారు.",
+      "summary_te": "ఇండిగో మేనేజింగ్ డైరెక్టర్, రాహుల్ భాటియా మాట్లాడుతూ, అలోకే సింగ్ వ్యూహాత్మక దృష్టి మరియు కార్యాచరణ లోతు యొక్క అసాధారణమైన సమ్మేళనాన్ని తీసుకువస్తున్నారని అన్నారు.",
       "translated": true
     },
     {
@@ -1261,7 +1289,7 @@
       "category": "india",
       "language": "en",
       "title_te": "తమిళనాడు తండ్రీ కొడుకుల కస్టడీ డెత్ కేసులో మొత్తం 9 మంది పోలీసులు దోషులు",
-      "summary_te": "కస్టడీ హింస జూన్ 19, 2020 నాటిది, మొబైల్ దుకాణాన్ని నడుపుతున్న జయరాజ్ మరియు బెనిక్స్ లాక్‌డౌన్ సమయంలో తమ దుకాణాన్ని అనుమతించిన గంటలకు మించి తెరిచి ఉంచారని ఆరోపిస్తూ అరెస్టు చేయబడ్డారు, ఆ వాదన తప్పు అని తేలింది.",
+      "summary_te": "కస్టడీ హింస జూన్ 19, 2020 నాటిది, మొబైల్ షాప్ నడుపుతున్న జయరాజ్ మరియు బెనిక్స్ లాక్‌డౌన్ సమయంలో తమ దుకాణాన్ని అనుమతించిన గంటలకు మించి తెరిచి ఉంచారని ఆరోపిస్తూ అరెస్టు చేయబడ్డారు, ఆ వాదన తప్పు అని తేలింది.",
       "translated": true
     },
     {
@@ -1275,7 +1303,7 @@
       "category": "india",
       "language": "en",
       "title_te": "సివిల్ సర్వీసెస్ ప్రిలిమ్స్ నుండి సమాధానాల కీలను విడుదల చేయాలని UPSC, ప్రభుత్వం రాజ్యసభకు తెలిపింది",
-      "summary_te": "రాజ్యసభ ఎంపీ కార్తికేయ శర్మ అడిగిన ప్రశ్నకు కేంద్ర సిబ్బంది శాఖ సహాయ మంత్రి జితేంద్ర సింగ్‌ లిఖితపూర్వకంగా సమాధానమిచ్చారు.",
+      "summary_te": "రాజ్యసభ ఎంపీ కార్తికేయ శర్మ అడిగిన ప్రశ్నకు కేంద్ర సిబ్బంది శాఖ సహాయ మంత్రి జితేంద్ర సింగ్ లిఖితపూర్వకంగా సమాధానం ఇచ్చారు.",
       "translated": true
     },
     {
@@ -1302,7 +1330,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "ఆదివాసీల కోసం 'వనవాసి' పదంపై రాహుల్ గాంధీ RSS, BJPని టార్గెట్ చేశారు; అమెరికా వాణిజ్య ఒప్పందంపై మోదీ సర్కార్‌పై విమర్శలు గుప్పించారు",
+      "title_te": "గిరిజనులకు 'వనవాసి' పదంపై రాహుల్ గాంధీ RSS, BJPని టార్గెట్ చేశారు; అమెరికా వాణిజ్య ఒప్పందంపై మోదీ సర్కార్‌పై విమర్శలు గుప్పించారు",
       "summary_te": "ఆదివాసీలను ‘వనవాసీలు’ అని పిలవడం రాజ్యాంగంపై దాడి, గౌరవనీయ గిరిజన నాయకుడు బిర్సా ముండా అని కాంగ్రెస్ నాయకుడు అన్నారు.",
       "translated": true
     },
@@ -1374,34 +1402,6 @@
       "language": "en",
       "title_te": "‘ఇది క్యాప్సికమ్’: భోపాల్ యూనివర్సిటీ ఫుడ్‌లో బల్లి కనిపించిందని విద్యార్థి పేర్కొన్నాడు, దావాను తిరస్కరించడానికి సిబ్బంది దానిని తిన్నారు",
       "summary_te": "అక్కడ భోజనం చేస్తున్న విద్యార్థులు కూరగాయల వంటకంలో ఏదో అసాధారణ విషయాన్ని గమనించామని, చనిపోయిన బల్లిగా భావిస్తున్నామని చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "d7adb633287894257bdf44faa8647985",
-      "title": "India, Russia engagement has deepened, is rooted in trust, says Jaishankar",
-      "summary": "Russian foreign minister Sergey Lavrov said the two countries have close coordination on foreign policy matters amid the ongoing geopolitical turbulence",
-      "url": "https://www.hindustantimes.com/india-news/india-russia-engagement-has-deepened-is-rooted-in-trust-says-jaishankar-101774272567856.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/23/1600x900/logo/India-s-foreign-minister-S-Jaishankar-noted-that-b_1774272562300.jpg",
-      "published_at": "2026-03-23T13:29:27.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "భారత్, రష్యాల మధ్య సంబంధాలు మరింతగా పెరిగాయని, విశ్వాసంతో పాతుకుపోయిందని జైశంకర్ అన్నారు",
-      "summary_te": "రష్యా విదేశాంగ మంత్రి సెర్గీ లావ్రోవ్ మాట్లాడుతూ, కొనసాగుతున్న భౌగోళిక రాజకీయ అల్లకల్లోలం మధ్య విదేశాంగ విధాన విషయాలపై రెండు దేశాలు సన్నిహిత సమన్వయంతో ఉన్నాయని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "5f160f8e6bd6f2fcaa22eef741a6ef14",
-      "title": "Fragile footing: How India, China face sizeable economic damage from US-Iran war",
-      "summary": "What does this latest disruption mean for the growth prospects of Asian economies that are in large part dependent on oil and energy imports. Since the start of the Middle East conflict, passage of ships through the Strait of Hormuz has been curtailed.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/fragile-footing-how-india-china-face-sizeable-economic-damage-prospects-from-us-iran-war-outlook-has-grown-more-daunting/articleshow/129753757.cms",
-      "image": "https://static.toiimg.com/photo/msid-129754044,imgsize-132982.cms",
-      "published_at": "2026-03-23T13:27:44.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "పెళుసైన అడుగు: యుఎస్-ఇరాన్ యుద్ధం నుండి భారతదేశం, చైనా గణనీయమైన ఆర్థిక నష్టాన్ని ఎలా ఎదుర్కొంటాయి",
-      "summary_te": "చమురు మరియు ఇంధన దిగుమతులపై ఎక్కువగా ఆధారపడిన ఆసియా ఆర్థిక వ్యవస్థల వృద్ధి అవకాశాలకు ఈ తాజా అంతరాయం అర్థం ఏమిటి. మధ్యప్రాచ్య సంఘర్షణ ప్రారంభమైనప్పటి నుండి, హార్ముజ్ జలసంధి గుండా ఓడల ప్రయాణం తగ్గించబడింది.",
       "translated": true
     }
   ]
