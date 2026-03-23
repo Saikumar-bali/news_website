@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T10:03:43.015Z",
-  "updated_at_IST": "23/3/2026, 3:33:43 pm",
+  "updated_at": "2026-03-23T10:54:33.372Z",
+  "updated_at_IST": "23/3/2026, 4:24:33 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "5d8748bba7a4b4354df42aa95e511515",
+      "title": "Alex Davies steps down as Warwickshire captain",
+      "summary": "Ed Barnard takes over as captain across all three formats",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528892.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/379100/379127.jpg",
+      "published_at": "2026-03-23T10:23:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "వార్విక్‌షైర్ కెప్టెన్సీ నుంచి అలెక్స్ డేవిస్ తప్పుకున్నాడు",
+      "summary_te": "ఎడ్ బర్నార్డ్ మూడు ఫార్మాట్లలో కెప్టెన్‌గా బాధ్యతలు చేపట్టాడు",
+      "translated": true
+    },
     {
       "id": "a936f3f500fdb5dc3aca870052b17a1b",
       "title": "New Zealand Cricket chooses NZ20 as preferred option for the future",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "రస్సెల్ తర్వాత KKRపై నాయర్: 'ఇది అవకాశాల సీజన్'",
       "summary_te": "KKR యొక్క ప్రధాన కోచ్ IPL 2026 మరియు అతని వద్ద \"అద్భుతమైన ప్రపంచ స్థాయి ఎంపికలు\" కోసం ఎదురు చూస్తున్నాడు",
-      "translated": true
-    },
-    {
-      "id": "487520b99b137a3d0beed1da9806b658",
-      "title": "Matheesha Pathirana to miss early part of IPL 2026",
-      "summary": "KKR head coach Abhishek Nayar said that Pathirana would be available from mid-April, while all but ruling Harshit Rana out of the tournament",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528513.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411500/411565.jpg",
-      "published_at": "2026-03-20T19:44:36.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మతీషా పతిరనా IPL 2026 ప్రారంభ భాగాన్ని కోల్పోతారు",
-      "summary_te": "KKR ప్రధాన కోచ్ అభిషేక్ నాయర్ మాట్లాడుతూ, పతిరానా ఏప్రిల్ మధ్య నుండి అందుబాటులో ఉంటారని, అయితే హర్షిత్ రాణా మినహా అందరూ టోర్నమెంట్ నుండి తప్పుకున్నారు",
       "translated": true
     }
   ]
