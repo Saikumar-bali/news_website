@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-03-23T14:19:31.209Z",
-  "updated_at_IST": "23/3/2026, 7:49:31 pm",
+  "updated_at": "2026-03-23T16:03:20.619Z",
+  "updated_at_IST": "23/3/2026, 9:33:20 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "a6c3829ff32dab609117a2ad8a2bf26d",
+      "title": "TSA crisis at US airports: ICE agents step in during shutdown, but delays continue",
+      "summary": "While ICE agents have been deployed to support basic tasks, travelers continue to face long waits and confusion, especially at busy hubs like Hartsfield-Jackson Atlanta International Airport.",
+      "url": "https://www.livemint.com/news/us-news/tsa-crisis-at-us-airports-ice-agents-step-in-during-shutdown-but-delays-continue-11774279035381.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/APTOPIX-Travel-Delays-8_1774279161152_1774279174090.jpg",
+      "published_at": "2026-03-23T15:32:04.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US విమానాశ్రయాలలో TSA సంక్షోభం: షట్‌డౌన్ సమయంలో ICE ఏజెంట్లు అడుగు పెట్టారు, అయితే జాప్యాలు కొనసాగుతున్నాయి",
+      "summary_te": "ప్రాథమిక పనులకు మద్దతుగా ICE ఏజెంట్లు నియమించబడినప్పటికీ, ప్రయాణికులు చాలా కాలం నిరీక్షణలు మరియు గందరగోళాన్ని ఎదుర్కొంటారు, ముఖ్యంగా హార్ట్‌ఫీల్డ్-జాక్సన్ అట్లాంటా అంతర్జాతీయ విమానాశ్రయం వంటి రద్దీ కేంద్రాలలో.",
+      "translated": true
+    },
+    {
+      "id": "b14984d5b2e062b020f4273d033fda3e",
+      "title": "Brand Concepts bulk deal: Ashish Kacholia exits microcap as stock price erodes 36% in a year",
+      "summary": "Ashish Kacholia sold his entire 1.44% stake in Brand Concepts via a bulk deal worth ₹3.9 crore. The sale follows weak microcap performance, with the stock down 36% over a year and 6% today.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/brand-concepts-bulk-deal-ashish-kacholia-exits-microcap-as-stock-price-erodes-36-in-a-year/articleshow/129756498.cms",
+      "image": null,
+      "published_at": "2026-03-23T15:20:16.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "బ్రాండ్ కాన్సెప్ట్స్ బల్క్ డీల్: ఏడాదిలో స్టాక్ ధర 36% క్షీణించడంతో ఆశిష్ కచోలియా మైక్రోక్యాప్ నుండి నిష్క్రమించారు",
+      "summary_te": "ఆశిష్ కచోలియా బ్రాండ్ కాన్సెప్ట్స్‌లో తన మొత్తం 1.44% వాటాను ₹3.9 కోట్ల విలువైన భారీ డీల్ ద్వారా విక్రయించాడు. సేల్ బలహీనమైన మైక్రోక్యాప్ పనితీరును అనుసరిస్తుంది, స్టాక్ ఒక సంవత్సరంలో 36% మరియు నేడు 6% తగ్గింది.",
+      "translated": true
+    },
+    {
+      "id": "0313af733c56371bf038b96ab882bb6f",
+      "title": "‘LPG supply remains a concern, but no dry out at distributors’, says Petroleum Ministry — Check top updates",
+      "summary": "The Ministry of Petroleum & Natural Gas today confirmed that while the supply of liquified petroleum gas (LPG) remains a concern, there is no dry out at distributors. It added that delivery of cylinders is normal.",
+      "url": "https://www.livemint.com/news/india/lpg-supply-remains-concern-but-no-dry-out-at-distributors-cylinders-say-india-petroleum-ministry-fuel-status-top-updates-11774271398884.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/PTI03-20-2026-000006A-0_1773980305983_1773980382321_1774278265118.jpg",
+      "published_at": "2026-03-23T15:16:33.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘ఎల్‌పిజి సరఫరా ఆందోళనకరంగానే ఉంది, అయితే పంపిణీదారుల వద్ద ఎండిపోలేదు’ అని పెట్రోలియం మంత్రిత్వ శాఖ తెలిపింది - టాప్ అప్‌డేట్‌లను తనిఖీ చేయండి",
+      "summary_te": "లిక్విఫైడ్ పెట్రోలియం గ్యాస్ (LPG) సరఫరా ఆందోళనకరంగానే ఉన్నప్పటికీ, పంపిణీదారుల వద్ద ఎండిపోవడం లేదని పెట్రోలియం & సహజ వాయువు మంత్రిత్వ శాఖ ఈరోజు ధృవీకరించింది. సిలిండర్ల పంపిణీ సాధారణమేనని పేర్కొంది.",
+      "translated": true
+    },
+    {
+      "id": "f3216a6de796d9ea91175cd96546b6fb",
+      "title": "Middle East war: Govt says 22 Indian ships, 600 seafarers safe; no maritime incident reported amid Hormuz Strait crisis",
+      "summary": "Rajesh Kumar Sinha, Special Secretary, Ministry of Ports, Shipping and Waterways, says 22 Indian vessels are safe, along with 600 seafarers. His remarks came amid the ongoing conflict in West Asia, following PM Modi's address to Parliament on the issue today.&nbsp;",
+      "url": "https://www.livemint.com/news/india/middle-east-conflict-22-indian-vessels-and-600-seafarers-safe-no-maritime-incident-reported-says-govt-11774270003492.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/INDIA-WAR-IRAN-US-ISRAEL-SHIP-0_1773758771205_1773758782278_1774272603147.jpg",
+      "published_at": "2026-03-23T15:10:22.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మధ్యప్రాచ్య యుద్ధం: 22 భారతీయ నౌకలు, 600 మంది నావికులు సురక్షితంగా ఉన్నారని ప్రభుత్వం తెలిపింది; హార్ముజ్ జలసంధి సంక్షోభం మధ్య సముద్రంలో ఎటువంటి సంఘటనలు నివేదించబడలేదు",
+      "summary_te": "600 మంది నావికులతో పాటు 22 భారత నౌకలు సురక్షితంగా ఉన్నాయని ఓడరేవులు, షిప్పింగ్ మరియు జలమార్గాల మంత్రిత్వ శాఖ ప్రత్యేక కార్యదర్శి రాజేష్ కుమార్ సిన్హా తెలిపారు. ఈరోజు పార్లమెంట్‌లో ప్రధాని మోదీ ప్రసంగించిన నేపథ్యంలో పశ్చిమాసియాలో కొనసాగుతున్న వివాదం నేపథ్యంలో ఆయన ఈ వ్యాఖ్యలు చేశారు. ",
+      "translated": true
+    },
+    {
+      "id": "f6176277879257d8fd6109703e0e2503",
+      "title": "‘We’ll just keep bombing’: Trump issues stark warning if Iran deal fails",
+      "summary": "Trump said: “We have had very, very strong talks. We'll see where they lead. We have major points of agreement… almost all points of agreement.”",
+      "url": "https://www.livemint.com/news/us-news/well-just-keep-bombing-trump-issues-stark-warning-if-iran-deal-fails-11774276088350.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/PRESIDENT-TRUMP-DEPARTS-PALM-BEACH-FOR-MEMPHIS-_1774276462475_1774276462621.jpg",
+      "published_at": "2026-03-23T14:37:51.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘మేము బాంబు దాడి చేస్తూనే ఉంటాం’: ఇరాన్ ఒప్పందం విఫలమైతే ట్రంప్ వార్నింగ్ ఇచ్చారు",
+      "summary_te": "ట్రంప్ ఇలా అన్నారు: \"మేము చాలా బలమైన చర్చలు చేసాము. అవి ఎక్కడికి దారితీస్తాయో మేము చూస్తాము. మాకు ప్రధాన ఒప్పందాలు ఉన్నాయి... దాదాపు అన్ని ఒప్పందాలు ఉన్నాయి.\"",
+      "translated": true
+    },
+    {
+      "id": "a9a63e2341d9f83e04eeb8f844e73427",
+      "title": "‘Due to war started by orange-haired man': Pune eatery’s veiled dig at ‘Trump’ over LPG price hike goes viral",
+      "summary": "A snapshot of the message, posted by a social media user who goes by the username Sayali Mahashur, playfully conveyed that the restaurant would increase the food price due to the ongoing war in the Middle East.",
+      "url": "https://www.livemint.com/news/trends/middle-east-war-pune-eatery-s-veiled-dig-over-lpg-price-hike-goes-viral-11774273580941.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/Untitled_design_-_2026-03-23T192520.392_1774274134561_1774274139404.png",
+      "published_at": "2026-03-23T14:13:22.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘నారింజ రంగు బొచ్చు మనిషి ప్రారంభించిన యుద్ధం కారణంగా’: ఎల్‌పిజి ధరల పెంపుపై పుణె తినుబండారం ‘ట్రంప్’పై కప్పదాటు చేసిన వ్యాఖ్యలు వైరల్‌గా మారాయి.",
+      "summary_te": "మధ్యప్రాచ్యంలో కొనసాగుతున్న యుద్ధం కారణంగా రెస్టారెంట్ ఆహార ధరలను పెంచుతుందని సయాలీ మహషుర్ అనే వినియోగదారు పేరుతో ఉన్న సోషల్ మీడియా వినియోగదారు పోస్ట్ చేసిన సందేశం యొక్క స్నాప్‌షాట్ సరదాగా తెలియజేసింది.",
+      "translated": true
+    },
     {
       "id": "76c796c6da92361fe1df6a2c36dd8a0a",
       "title": "MOMA Foods porridge recall: Multiple flavours may be unsafe to eat due to contamination risk",
@@ -15,7 +99,7 @@
       "category": "business",
       "language": "en",
       "title_te": "MOMA ఫుడ్స్ గంజి రీకాల్: కలుషిత ప్రమాదం కారణంగా బహుళ రుచులు తినడానికి సురక్షితం కాకపోవచ్చు",
-      "summary_te": "ఫుడ్ స్టాండర్డ్స్ ఏజెన్సీ MOMA ఫుడ్స్ నుండి బహుళ గంజి ఉత్పత్తులను తయారీ సైట్‌లో మౌస్ కాలుష్యం కారణంగా రీకాల్ చేసింది. రీకాల్ రుచులు మరియు ప్యాక్ పరిమాణాలలో వివిధ గంజి కుండలు మరియు సాచెట్‌లను ప్రభావితం చేస్తుంది. వినియోగదారులు ఉత్పత్తులను తినకూడదని మరియు వాపసు కోసం వాటిని తిరిగి ఇవ్వమని సలహా ఇస్తారు.",
+      "summary_te": "ఫుడ్ స్టాండర్డ్స్ ఏజెన్సీ MOMA ఫుడ్స్ నుండి బహుళ గంజి ఉత్పత్తులను తయారీ సైట్‌లో మౌస్ కలుషితం చేసే అవకాశం ఉన్నందున రీకాల్ చేసింది. రీకాల్ రుచులు మరియు ప్యాక్ పరిమాణాలలో వివిధ గంజి కుండలు మరియు సాచెట్‌లను ప్రభావితం చేస్తుంది. వినియోగదారులు ఉత్పత్తులను తినకూడదని మరియు వాపసు కోసం వాటిని తిరిగి ఇవ్వమని సలహా ఇస్తారు.",
       "translated": true
     },
     {
@@ -42,22 +126,22 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఆలస్యంగా వచ్చిన మెయిల్ బ్యాలెట్‌లను లెక్కించాలా వద్దా అనే కేసును US సుప్రీం కోర్ట్ చేపట్టింది",
+      "title_te": "ఆలస్యంగా వచ్చిన మెయిల్ బ్యాలెట్‌లను లెక్కించాలా వద్దా అనే దానిపై US సుప్రీం కోర్ట్ కేసును స్వీకరించింది",
       "summary_te": "14 రాష్ట్రాల్లో ఉపయోగించే బ్యాలెట్‌లను సమయానికి మెయిల్ చేసినా ఎన్నికల రోజు తర్వాత వచ్చిన వాటిని లెక్కించవచ్చో లేదో సుప్రీంకోర్టు నిర్ణయిస్తుంది.",
       "translated": true
     },
     {
       "id": "a92ef739d6d7c7732f714038a402eda8",
-      "title": "PM Modi announces ₹2 lakh ex gratia amid reports of five dead, 9 injured after building collapses in UP's Prayagraj",
-      "summary": "Prime Minister Narendra Modi announced ₹2 lakh ex gratia for victims after a cold storage collapsed in Prayagraj, killing five and injuring several. An ammonia leak followed the incident, triggering rescue operations",
+      "title": "PM Modi announces ₹2 lakh ex gratia for Prayagraj victims; 4 labourers dead, 9 hurt in cold storage collapse",
+      "summary": "Prime Minister Narendra Modi announced ₹2 lakh ex gratia for victims after a cold storage building collapsed in Prayagraj, killing 4 labourers and injuring many. The incident sparked an ammonia leak, triggering rescue operations.",
       "url": "https://www.livemint.com/news/india/pm-modi-announces-rs-2-lakh-ex-gratia-amid-reports-of-five-dead-9-injured-after-building-collapses-in-ups-prayagraj-11774270343705.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/PTI03-22-2026-000153B-0_1774256147541_1774271256491.jpg",
       "published_at": "2026-03-23T12:56:38.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "యుపిలోని ప్రయాగ్‌రాజ్‌లో భవనం కూలి ఐదుగురు మృతి చెందారని, 9 మంది గాయపడ్డారని వార్తల నేపథ్యంలో ప్రధాని మోదీ ₹2 లక్షల ఎక్స్‌గ్రేషియా ప్రకటించారు.",
-      "summary_te": "ప్రయాగ్‌రాజ్‌లో కోల్డ్ స్టోరేజీ కుప్పకూలడంతో ఐదుగురు మృతి చెందగా, పలువురు గాయపడిన తర్వాత బాధితులకు ప్రధాని నరేంద్ర మోదీ ₹2 లక్షల ఎక్స్‌గ్రేషియా ప్రకటించారు. ఈ ఘటన తర్వాత అమ్మోనియా లీక్ కావడంతో సహాయక చర్యలు చేపట్టారు",
+      "title_te": "ప్రయాగ్‌రాజ్ బాధితులకు ₹2 లక్షల ఎక్స్‌గ్రేషియా ప్రకటించిన ప్రధాని మోదీ; కోల్డ్ స్టోరేజీ కూలి నలుగురు కూలీలు మృతి, 9 మందికి గాయాలు",
+      "summary_te": "ప్రయాగ్‌రాజ్‌లో కోల్డ్ స్టోరేజీ భవనం కుప్పకూలడంతో 4 మంది కార్మికులు మృతి చెందగా, పలువురు గాయపడిన తర్వాత బాధితులకు ప్రధానమంత్రి నరేంద్ర మోదీ ₹2 లక్షల ఎక్స్‌గ్రేషియా ప్రకటించారు. ఈ సంఘటన అమ్మోనియా లీక్‌కు దారితీసింది, రెస్క్యూ కార్యకలాపాలను ప్రారంభించింది.",
       "translated": true
     },
     {
@@ -84,8 +168,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "చార్లీ ముంగెర్ ద్వారా కోట్ ఆఫ్ ది డే: 'బెర్క్‌షైర్ హాత్వే సగటు కంటే మెరుగ్గా చేసింది ఎందుకంటే...'",
-      "summary_te": "ఏస్ ఇన్వెస్టర్ చార్లీ ముంగెర్ బెర్క్‌షైర్ హాత్వే విజయవంతమైందని మరియు వారెన్ బఫ్ఫెట్ పెట్టుబడి మరియు పెట్టుబడి సలహాలను ఎలా సంప్రదిస్తాడనే విషయాన్ని తాను ఎందుకు నమ్ముతున్నాడో పంచుకున్నాడు. సాధారణ సమాధానం ఆశ్చర్యకరంగా ఉంది: తక్కువ చేయడానికి ప్రయత్నించండి.",
+      "title_te": "చార్లీ ముంగెర్ ద్వారా కోట్ ఆఫ్ ది డే: 'బెర్క్‌షైర్ హాత్వే సగటు కంటే మెరుగ్గా పనిచేసింది ఎందుకంటే...'",
+      "summary_te": "ఏస్ ఇన్వెస్టర్ చార్లీ ముంగెర్ బెర్క్‌షైర్ హాత్వే విజయవంతమైందని మరియు వారెన్ బఫ్ఫెట్ పెట్టుబడి మరియు పెట్టుబడి సలహాలను ఎలా సంప్రదిస్తాడనే విషయాన్ని తాను ఎందుకు విశ్వసిస్తున్నాడో పంచుకున్నాడు. సాధారణ సమాధానం ఆశ్చర్యకరంగా ఉంది: తక్కువ చేయడానికి ప్రయత్నించండి.",
       "translated": true
     },
     {
@@ -127,7 +211,7 @@
       "category": "business",
       "language": "en",
       "title_te": "న్యూజెర్సీలోని నెవార్క్ లిబర్టీ విమానాశ్రయం పొగ బలగాల టవర్ తరలింపు తర్వాత అన్ని నిష్క్రమణలను నిలిపివేసింది",
-      "summary_te": "నెవార్క్ విమానాశ్రయంలోని ఒక ఎలివేటర్ నుండి పొగ మరియు మండే వాసన నివేదించబడిన తర్వాత విమానాశ్రయం అంతర్జాతీయ విమానాశ్రయం నుండి అన్ని బయలుదేరే మార్గాలను కూడా నిలిపివేసింది.",
+      "summary_te": "నెవార్క్ విమానాశ్రయంలోని ఎలివేటర్ నుండి పొగ మరియు మండే వాసన నివేదించబడిన తరువాత విమానాశ్రయం అంతర్జాతీయ విమానాశ్రయం నుండి బయలుదేరే అన్ని విమానాలను కూడా నిలిపివేసింది.",
       "translated": true
     },
     {
@@ -211,7 +295,7 @@
       "category": "business",
       "language": "en",
       "title_te": "చర్చల తర్వాత అమెరికా-ఇరాన్ వివాదం సడలుతుందా? టెహ్రాన్ యొక్క ఎనర్జీ సైట్‌లకు వ్యతిరేకంగా సమ్మెల గురించి ట్రంప్ తీసుకున్న నిర్ణయంపై ప్రకటనను చదవండి",
-      "summary_te": "ఇరాన్‌తో ఉత్పాదక చర్చల తర్వాత ట్రంప్ సైనిక దాడులను నిలిపివేశారు. ఇంతలో, US మరియు ఇజ్రాయెల్ ఇరాన్ యొక్క సైనిక మౌలిక సదుపాయాలను లక్ష్యంగా చేసుకుంటుండగా, అడ్మ్. బ్రాడ్ కూపర్ ఇరాన్ పౌరులను ఇంటి లోపల ఉండాలని కోరారు. ఫిబ్రవరి 28న ప్రారంభమైన సంఘర్షణ ఫలితంగా 2,000 మందికి పైగా మరణించారు మరియు ప్రపంచ మార్కెట్ అంతరాయాలు సంభవించాయి.",
+      "summary_te": "ఇరాన్‌తో ఉత్పాదక చర్చల తర్వాత ట్రంప్ సైనిక దాడులను నిలిపివేశారు. ఇంతలో, US మరియు ఇజ్రాయెల్ ఇరాన్ యొక్క సైనిక మౌలిక సదుపాయాలను లక్ష్యంగా చేసుకుంటుండగా, అడ్మ్. బ్రాడ్ కూపర్ ఇరాన్ పౌరులను ఇంటి లోపల ఉండాలని కోరారు. ఫిబ్రవరి 28న ప్రారంభమైన ఈ సంఘర్షణ ఫలితంగా 2,000 మందికి పైగా మరణాలు మరియు ప్రపంచ మార్కెట్ అంతరాయాలు సంభవించాయి.",
       "translated": true
     },
     {
@@ -239,7 +323,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మధ్యప్రాచ్య శత్రుత్వానికి 'మొత్తం పరిష్కారం' గురించి ట్రంప్ సూచించాడు, ఇరాన్ యొక్క శక్తి సైట్‌లపై US దాడులను 5 రోజుల పాటు నిలిపివేశాడు",
-      "summary_te": "ఇరాన్ మరియు యుఎస్ మధ్య ఇటీవలి చర్చలు చాలా ఉత్పాదకంగా ఉన్నాయని, మధ్యప్రాచ్య శత్రుత్వాల సమగ్ర పరిష్కారాన్ని లక్ష్యంగా చేసుకుని అధ్యక్షుడు ట్రంప్ మార్చి 23 న సూచించారు.",
+      "summary_te": "ఇరాన్ మరియు యుఎస్ మధ్య ఇటీవలి చర్చలు చాలా ఉత్పాదకతను కలిగి ఉన్నాయని, మధ్యప్రాచ్య శత్రుత్వాల సమగ్ర పరిష్కారాన్ని లక్ష్యంగా చేసుకుని అధ్యక్షుడు ట్రంప్ మార్చి 23 న సూచించారు.",
       "translated": true
     },
     {
@@ -313,34 +397,6 @@
       "translated": true
     },
     {
-      "id": "529ab9f9b4a116e80dac682524698fff",
-      "title": "US-Israel, Iran conflict: PM Modi says in Lok Sabha security of Indians ‘biggest priority’ —Top 10 quotes",
-      "summary": "PM Modi addressed Lok Sabha, expressing concern over the West Asia conflict and prioritising the security of Indians. he noted that 3.75 lakh Indians have returned home since the conflict began. Check top quotes from his speech.",
-      "url": "https://www.livemint.com/news/india/us-israel-iran-conflict-pm-modi-says-in-lok-sabha-security-of-indians-biggest-priority-top-10-quotes-11774256089765.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/PTI03-22-2026-000153B-0_1774256147541_1774256158317.jpg",
-      "published_at": "2026-03-23T09:09:16.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "యుఎస్-ఇజ్రాయెల్, ఇరాన్ వివాదం: ప్రధాని మోదీ లోక్‌సభలో భారతీయుల భద్రత 'అత్యంత ప్రాధాన్యత' అని చెప్పారు - టాప్ 10 కోట్స్",
-      "summary_te": "పశ్చిమాసియా వివాదంపై ఆందోళన వ్యక్తం చేస్తూ, భారతీయుల భద్రతకు ప్రాధాన్యతనిస్తూ లోక్‌సభలో ప్రధాని మోదీ ప్రసంగించారు. వివాదం ప్రారంభమైనప్పటి నుండి 3.75 లక్షల మంది భారతీయులు స్వదేశానికి తిరిగి వచ్చారని ఆయన పేర్కొన్నారు. అతని ప్రసంగం నుండి అగ్ర కోట్‌లను తనిఖీ చేయండి.",
-      "translated": true
-    },
-    {
-      "id": "5da8d67ab94463b47d6b909913fd00b3",
-      "title": "Iran threatens to cut off Gulf with sea mines if southern coast, islands attacked - as US eyes Kharg Island blockade",
-      "summary": "The threat from the Iranian authorities has come after reports that the United States was eyeing Kharg Island blockade to reopen the Strait of Hormuz for all shipping.",
-      "url": "https://www.livemint.com/news/world/iran-threatens-to-cut-off-gulf-with-sea-mines-if-southern-coast-islands-attacked-as-us-eyes-kharg-island-blockade-11774254958711.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/TOPSHOT-IRAN-US-ISRAEL-WAR-ENERGY-OIL-0_1774256457574_1774256492852.jpg",
-      "published_at": "2026-03-23T09:07:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "దక్షిణ తీరం, దీవులపై దాడి చేస్తే సముద్ర గనులతో గల్ఫ్‌ను నరికివేస్తామని ఇరాన్ బెదిరించింది - అమెరికా దృష్టిలో ఖర్గ్ ద్వీపం దిగ్బంధనం",
-      "summary_te": "అన్ని షిప్పింగ్ కోసం హార్ముజ్ జలసంధిని తిరిగి తెరవడానికి యునైటెడ్ స్టేట్స్ ఖార్గ్ ద్వీపం దిగ్బంధనాన్ని చూస్తున్నట్లు నివేదికల తర్వాత ఇరాన్ అధికారుల నుండి ముప్పు వచ్చింది.",
-      "translated": true
-    },
-    {
       "id": "36ad659295e4e27c3b57bc5fc4aab820",
       "title": "Benchmark bond yield rises to 14-month high amid crude price worries",
       "summary": "Indian benchmark bond yield rose to a 14-month high on Monday, possibly due to surge in Brent crude oil prices amid escalating conflict in the Middle east.",
@@ -352,48 +408,6 @@
       "language": "en",
       "title_te": "ముడిచమురు ధర ఆందోళనల మధ్య బెంచ్‌మార్క్ బాండ్ ఈల్డ్ 14 నెలల గరిష్ట స్థాయికి చేరుకుంది",
       "summary_te": "మధ్యప్రాచ్యంలో పెరుగుతున్న సంఘర్షణల మధ్య బ్రెంట్ ముడి చమురు ధరలు పెరగడం వల్ల భారతీయ బెంచ్‌మార్క్ బాండ్ ఈల్డ్ సోమవారం 14 నెలల గరిష్ట స్థాయికి పెరిగింది.",
-      "translated": true
-    },
-    {
-      "id": "4f75dd0b3519422b897452808aeb2f3b",
-      "title": "PM Modi's Speech in Lok Sabha LIVE: PM Narendra Modi to speak on Middle East Conflict in Rajya Sabha on Tuesday",
-      "summary": "PM Modi's Speech in Lok Sabha LIVE: In his address to the Lok Sabha today, PM Modi touched upon India’s position on the evolving situation, including its diplomatic engagement, concerns over regional stability, and the impact on global energy and trade routes.",
-      "url": "https://www.livemint.com/news/world/pm-modi-speech-in-parliament-live-updates-pm-to-speak-in-lok-sabha-west-asia-iran-war-us-israel-strike-strait-hormuz-11774252287050.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/ANI-20260323123-0_1774263788600_1774263802425.jpg",
-      "published_at": "2026-03-23T08:18:55.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "లోక్‌సభలో ప్రధాని మోదీ ప్రసంగం ప్రత్యక్ష ప్రసారం: మంగళవారం రాజ్యసభలో మధ్యప్రాచ్య వివాదంపై ప్రధాని నరేంద్ర మోదీ మాట్లాడనున్నారు.",
-      "summary_te": "లోక్‌సభ లైవ్‌లో ప్రధాని మోదీ ప్రసంగం: ఈరోజు లోక్‌సభలో తన ప్రసంగంలో, దౌత్యపరమైన నిశ్చితార్థం, ప్రాంతీయ స్థిరత్వంపై ఆందోళనలు మరియు ప్రపంచ ఇంధనం మరియు వాణిజ్య మార్గాలపై ప్రభావంతో సహా అభివృద్ధి చెందుతున్న పరిస్థితులపై భారతదేశం యొక్క స్థితిని పిఎం మోడీ స్పృశించారు.",
-      "translated": true
-    },
-    {
-      "id": "10ed76e14277804e1bcc2efef935a4ae",
-      "title": "Prince Harry and Meghan Markle news: ‘No one will work with them in Hollywood’, says royal family commentator",
-      "summary": "Prince Harry and Meghan Markle face criticism following a damaging Variety report questioning their Hollywood standing and Netflix partnership. They are reportedly considering legal action against the publication.",
-      "url": "https://www.livemint.com/news/world/prince-harry-and-meghan-markle-news-no-one-will-work-with-them-in-hollywood-says-royal-family-commentator-11774253218082.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/BASKETBALL-NBA--50_1774253512995_1774253524531.JPG",
-      "published_at": "2026-03-23T08:15:10.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రిన్స్ హ్యారీ మరియు మేఘన్ మార్క్లే వార్తలు: 'హాలీవుడ్‌లో వారితో ఎవరూ పని చేయరు' అని రాజ కుటుంబ వ్యాఖ్యాత చెప్పారు",
-      "summary_te": "ప్రిన్స్ హ్యారీ మరియు మేఘన్ మార్క్లే తమ హాలీవుడ్ స్థితిని మరియు నెట్‌ఫ్లిక్స్ భాగస్వామ్యాన్ని ప్రశ్నించే వెరైటీ నివేదికను దెబ్బతీసిన తర్వాత విమర్శలను ఎదుర్కొన్నారు. ప్రచురణపై చట్టపరమైన చర్యలను వారు పరిశీలిస్తున్నట్లు సమాచారం.",
-      "translated": true
-    },
-    {
-      "id": "2abf3f998e913588419ec16aa12ef6a6",
-      "title": "Supreme Court judge flags misuse of UAPA, calls for tolerance of dissent",
-      "summary": "Supreme Court Judge Justice Ujjal Bhuyan has asserted that the goal of a Viksit Bharat by 2047 cannot be achieved through criminalisation of dissent, mindless arrests under the anti-terror law UAPA and 'deep social fault lines'",
-      "url": "https://www.livemint.com/news/india/supreme-court-judge-justice-ujjal-bhuyan-flags-misuse-of-uapa-calls-for-tolerance-11774250919432.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/23/1600x900/logo/The-Supreme-Court-of-India---PTI-_1774251719441_1774251734289.jpg",
-      "published_at": "2026-03-23T07:51:06.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సుప్రీంకోర్టు న్యాయమూర్తి UAPA దుర్వినియోగాన్ని ధ్వజమెత్తారు, అసమ్మతిని సహించమని పిలుపునిచ్చారు",
-      "summary_te": "అసమ్మతిని నేరంగా పరిగణించడం, ఉగ్రవాద నిరోధక చట్టం UAPA కింద బుద్ధిహీన అరెస్టులు మరియు 'లోతైన సామాజిక తప్పిదాల' ద్వారా 2047 నాటికి విక్షిత్ భారత్ లక్ష్యాన్ని సాధించలేమని సుప్రీంకోర్టు న్యాయమూర్తి జస్టిస్ ఉజ్జల్ భుయాన్ నొక్కిచెప్పారు.",
       "translated": true
     },
     {
@@ -422,20 +436,6 @@
       "language": "en",
       "title_te": "క్రెడిట్ సూయిస్ యొక్క AT1 బాండ్ క్రాష్ HDFCలో నాయకత్వ సంక్షోభానికి ఆజ్యం పోసింది",
       "summary_te": "హెచ్‌డిఎఫ్‌సి బ్యాంక్ ఛైర్మన్ \"నైతిక\" విభేదాల కారణంగా రాజీనామా చేశారు, మార్కెట్ గందరగోళానికి దారితీసింది. క్రెడిట్ సూయిస్ బాండ్‌లు మరియు దుబాయ్ బ్రాంచ్ పరిమితులతో ముడిపడి ఉన్న క్లయింట్ నష్టాలకు జవాబుదారీతనంపై విభేదాల నుండి ఈ చీలిక ఏర్పడింది. మేనేజ్‌మెంట్ తీరుతో విభేదిస్తూ సీనియర్ అధికారులపై ఎక్కువ బాధ్యత వహించాలని మాజీ చైర్మన్ కోరాడు.",
-      "translated": true
-    },
-    {
-      "id": "ab15d1374ac2b12736ae31f2b03c161b",
-      "title": "Starting SIPs in new financial year? Experts suggest largecap, flexicap mix; prefer gold over silver",
-      "summary": "As the new financial year begins, experts advise new investors to start SIPs with a blend of large-cap and flexi-cap mutual funds. Gold is recommended for hedging against global uncertainties, while silver is advised against due to current valuations. Investors should maintain disciplined SIPs, avoid pausing during volatility, and consider stepping up investments annually for long-term wealth creation.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/starting-sips-in-new-financial-year-experts-suggest-largecap-flexicap-mix-prefer-gold-over-silver/articleshow/129742698.cms",
-      "image": null,
-      "published_at": "2026-03-23T04:03:35.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "కొత్త ఆర్థిక సంవత్సరంలో SIPలను ప్రారంభించాలా? నిపుణులు లార్జ్‌క్యాప్, ఫ్లెక్సిక్యాప్ మిశ్రమాన్ని సూచిస్తారు; వెండి కంటే బంగారాన్ని ఇష్టపడతారు",
-      "summary_te": "కొత్త ఆర్థిక సంవత్సరం ప్రారంభమైనందున, లార్జ్ క్యాప్ మరియు ఫ్లెక్సీ-క్యాప్ మ్యూచువల్ ఫండ్ల మిశ్రమంతో SIPలను ప్రారంభించాలని నిపుణులు కొత్త పెట్టుబడిదారులకు సలహా ఇస్తున్నారు. గ్లోబల్ అనిశ్చితుల నుండి రక్షణ కోసం బంగారం సిఫార్సు చేయబడింది, అయితే ప్రస్తుత విలువల కారణంగా వెండికి వ్యతిరేకంగా సలహా ఇవ్వబడుతుంది. పెట్టుబడిదారులు క్రమశిక్షణతో కూడిన SIPలను నిర్వహించాలి, అస్థిరత సమయంలో పాజ్ చేయకుండా ఉండాలి మరియు దీర్ఘకాలిక సంపద సృష్టి కోసం ఏటా పెట్టుబడులను పెంచడాన్ని పరిగణించాలి.",
       "translated": true
     },
     {
