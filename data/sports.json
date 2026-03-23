@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-23T16:56:59.188Z",
-  "updated_at_IST": "23/3/2026, 10:26:59 pm",
+  "updated_at": "2026-03-23T17:55:51.747Z",
+  "updated_at_IST": "23/3/2026, 11:25:51 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "a48d15cd092ac3319d896f12b84b710e",
+      "title": "Gould: England Tests against Australia, India are 'significant priorities'",
+      "summary": "ECB chief executive says uptick in interest over past four years is reason to keep faith in leadership",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528910.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401700/401736.jpg",
+      "published_at": "2026-03-23T17:06:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
+      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "translated": true
+    },
+    {
+      "id": "ca587a07d73ec432ae8e696fbf194f32",
+      "title": "James Harris retires from professional cricket after 19-year career",
+      "summary": "Seamer made debut aged 16, and went on to claim best post-war bowling figures at Lord's",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528909.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/315700/315780.jpg",
+      "published_at": "2026-03-23T16:50:31.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "జేమ్స్ హారిస్ 19 ఏళ్ల కెరీర్ తర్వాత ప్రొఫెషనల్ క్రికెట్ నుంచి రిటైర్ అయ్యాడు",
+      "summary_te": "సీమర్ 16 ఏళ్ల వయసులో అరంగేట్రం చేశాడు మరియు లార్డ్స్‌లో యుద్ధానంతర బౌలింగ్‌లో అత్యుత్తమ ఆటగాడిగా నిలిచాడు.",
+      "translated": true
+    },
     {
       "id": "61290520eae3ede78ebfb11363797cb0",
       "title": "Gould backs England hierarchy to 'adapt' as status quo holds sway",
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "హీలీ వీడ్కోలు విజయాన్ని తిరస్కరించడానికి క్వీన్స్‌లాండ్ WNCL టైటిల్‌ను నిలబెట్టుకుంది",
       "summary_te": "జార్జియా రెడ్‌మైన్ మరియు గ్రేస్ హారిస్ భారీ మొత్తంలో సెంచరీలు కొట్టారు, అయితే వర్షం వారి ఛేజింగ్‌ను ఆపినప్పుడు NSW DLS కంటే ముందుంది.",
-      "translated": true
-    },
-    {
-      "id": "854c9859830eb86f777e481b86686462",
-      "title": "Sri Lanka players told to clear fitness test to get NOCs for IPL 2026",
-      "summary": "Chameera, Nissanka and Kamindu have passed their tests, while Hasaranga, Pathirana and Malinga are yet to undergo theirs",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528610.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/399300/399362.jpg",
-      "published_at": "2026-03-21T07:47:59.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026 కోసం NOCలు పొందడానికి ఫిట్‌నెస్ పరీక్షను క్లియర్ చేయాలని శ్రీలంక ఆటగాళ్లకు చెప్పారు",
-      "summary_te": "చమీర, నిస్సాంక మరియు కమిందు వారి పరీక్షలలో ఉత్తీర్ణులయ్యారు, హసరంగ, పతిరనా మరియు మలింగ ఇంకా వారి పరీక్షలు చేయించుకోలేదు",
-      "translated": true
-    },
-    {
-      "id": "2e039af098f43a0b208e4672c28ef478",
-      "title": "King's T20I return highlights Australia's selection crunch",
-      "summary": "The legspinner claimed three wickets in the first match against West Indies but may still be forced out of the XI at the World Cup",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528593.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/395100/395103.jpg",
-      "published_at": "2026-03-21T03:05:23.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "కింగ్స్ T20I రిటర్న్ ఆస్ట్రేలియా యొక్క ఎంపిక సంక్షోభాన్ని హైలైట్ చేస్తుంది",
-      "summary_te": "లెగ్ స్పిన్నర్ వెస్టిండీస్‌తో జరిగిన మొదటి మ్యాచ్‌లో మూడు వికెట్లు తీశాడు, అయితే ప్రపంచ కప్‌లో XI నుండి బలవంతంగా నిష్క్రమించబడవచ్చు",
       "translated": true
     }
   ]
