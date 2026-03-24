@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T14:23:46.724Z",
-  "updated_at_IST": "24/3/2026, 7:53:46 pm",
+  "updated_at": "2026-03-24T16:07:43.031Z",
+  "updated_at_IST": "24/3/2026, 9:37:43 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "d00b7cb15cfad1d54f753301895602f1",
+      "title": "Duckett pulls out of IPL 2026 to focus on Test revival",
+      "summary": "Duckett has never previously played in the IPL and was signed for INR 2 crore by Delhi Capitals",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529020.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/410900/410992.jpg",
+      "published_at": "2026-03-24T15:00:36.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "టెస్ట్ పునరుద్ధరణపై దృష్టి పెట్టడానికి డకెట్ IPL 2026 నుండి వైదొలిగాడు",
+      "summary_te": "డకెట్ ఇంతకు ముందు IPLలో ఆడలేదు మరియు ఢిల్లీ క్యాపిటల్స్ ద్వారా INR 2 కోట్లకు సంతకం చేశాడు.",
+      "translated": true
+    },
     {
       "id": "c7af2005bca267bdbcbc03ae26556446",
       "title": "IPL 2026: Spencer Johnson replaces injured Nathan Ellis at CSK",
@@ -211,7 +225,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "లాహోర్ మరియు కరాచీ అన్ని PSL 2026 గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
       "summary_te": "పిసిబి వేదికలను ఆరు నుండి రెండుకి తగ్గించినప్పటికీ, ఆటల షెడ్యూల్ మారలేదు",
-      "translated": true
-    },
-    {
-      "id": "d3affdaeee2d61c0682088bd3c949f28",
-      "title": "PSL 2026 to be played behind closed doors",
-      "summary": "The move was necessitated due to Pakistan facing an oil crisis amid the West Asia conflict",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528733.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413200/413291.jpg",
-      "published_at": "2026-03-22T15:38:21.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "PSL 2026 మూసివేయబడిన తలుపుల వెనుక ఆడబడుతుంది",
-      "summary_te": "పశ్చిమాసియా వివాదాల మధ్య పాకిస్తాన్ చమురు సంక్షోభాన్ని ఎదుర్కొంటున్నందున ఈ చర్య తప్పనిసరి",
       "translated": true
     }
   ]
