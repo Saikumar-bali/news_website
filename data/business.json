@@ -1,21 +1,119 @@
 {
-  "updated_at": "2026-03-24T17:02:45.243Z",
-  "updated_at_IST": "24/3/2026, 10:32:45 pm",
+  "updated_at": "2026-03-24T18:00:16.516Z",
+  "updated_at_IST": "24/3/2026, 11:30:16 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "ec565782035c34fe450c94bc9fb6ba44",
+      "title": "Melania Trump attends her own global summit for just 7 minutes on day one; Israeli PM's wife among attendees",
+      "summary": "Melania arrived at 10:01 am, addressed attendees, and departed at 10:08 am shortly after completing her speech.",
+      "url": "https://www.livemint.com/news/us-news/melania-trump-attends-her-own-global-summit-for-just-7-minutes-on-day-one-israeli-pms-wife-among-attendees-11774371332054.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/USA-TRUMP-MELANIA-17_1774373311432_1774373324929.JPG",
+      "published_at": "2026-03-24T17:42:10.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "మెలానియా ట్రంప్ తన సొంత గ్లోబల్ సమ్మిట్‌కి మొదటి రోజు కేవలం 7 నిమిషాల పాటు హాజరయ్యారు; హాజరైన వారిలో ఇజ్రాయెల్ ప్రధాని భార్య",
+      "summary_te": "మెలానియా ఉదయం 10:01 గంటలకు వచ్చి, హాజరైన వారిని ఉద్దేశించి ప్రసంగించారు మరియు తన ప్రసంగాన్ని పూర్తి చేసిన కొద్దిసేపటికే 10:08 గంటలకు బయలుదేరారు.",
+      "translated": true
+    },
+    {
+      "id": "f585c49ac5218df79a06d58b0a3558fb",
+      "title": "Delta Air Lines scraps priority services for Congress lawmakers citing shutdown strain, long TSA lines",
+      "summary": "The airline said lawmakers will no longer receive airport escorts, priority rebooking, or complimentary upgrades. However, they will retain access to a dedicated reservations phone line.",
+      "url": "https://www.livemint.com/news/us-news/delta-air-lines-scraps-priority-services-for-congress-lawmakers-citing-shutdown-strain-long-tsa-lines-11774373266591.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/FILES-US-AVIATION-TRANSPORT-DELTA-AIRBUS-1_1774373460516_1774373470378.jpg",
+      "published_at": "2026-03-24T17:38:01.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "డెల్టా ఎయిర్ లైన్స్ షట్డౌన్ స్ట్రెయిన్, పొడవైన TSA లైన్లను ఉటంకిస్తూ కాంగ్రెస్ చట్టసభ సభ్యులకు ప్రాధాన్యతా సేవలను రద్దు చేసింది",
+      "summary_te": "చట్టసభ సభ్యులు ఇకపై విమానాశ్రయ ఎస్కార్ట్‌లు, ప్రాధాన్యత రీబుకింగ్ లేదా కాంప్లిమెంటరీ అప్‌గ్రేడ్‌లను స్వీకరించరని ఎయిర్‌లైన్ తెలిపింది. అయినప్పటికీ, వారు ప్రత్యేక రిజర్వేషన్ల ఫోన్ లైన్‌కు యాక్సెస్‌ను కలిగి ఉంటారు.",
+      "translated": true
+    },
+    {
+      "id": "f71412be773e458c9df70f4cbec3be96",
+      "title": "India may see nearly 50% drop in LPG imports in March amid Iran war: Report",
+      "summary": "Traders and ship-tracking data from LSEG reportedly suggest that India is set to import 1.190 million metric tons of LPG this month, down 46 percent from February on a daily basis.",
+      "url": "https://www.livemint.com/news/india/india-may-see-nearly-50-drop-in-lpg-imports-in-march-amid-iran-war-report-11774372464287.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/PTI03-24-2026-000070B-0_1774372487348_1774372664092.jpg",
+      "published_at": "2026-03-24T17:35:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్ యుద్ధం మధ్య మార్చిలో భారతదేశం LPG దిగుమతుల్లో దాదాపు 50% తగ్గుదలని చూడవచ్చు: నివేదిక",
+      "summary_te": "ఎల్‌ఎస్‌ఇజి నుండి వర్తకులు మరియు షిప్-ట్రాకింగ్ డేటా ఈ నెలలో భారతదేశం 1.190 మిలియన్ మెట్రిక్ టన్నుల ఎల్‌పిజిని దిగుమతి చేసుకోవడానికి సిద్ధంగా ఉందని సూచిస్తున్నాయి, ఫిబ్రవరి నుండి రోజువారీ ప్రాతిపదికన 46 శాతం తగ్గింది.",
+      "translated": true
+    },
+    {
+      "id": "271a0727bc777b087964eaf04ed10cbb",
+      "title": "Ranveer Singh to apologise, visit Chamundi Hill in ‘Kantara’ mimicry row",
+      "summary": "Ranveer Singh, previously caught in a ‘Kantara’ mimicry controversy, is now expected to apologise and visit Chamundi Hill temple as a gesture to address past backlash and mend sentiments.",
+      "url": "https://www.livemint.com/news/india/ranveer-singh-to-apologise-visit-chamundi-hill-in-kantara-mimicry-row-11774372420485.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/ranveer_singh_1774372413145_1774372413307.jpg",
+      "published_at": "2026-03-24T17:34:55.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "రణ్‌వీర్ సింగ్ క్షమాపణ చెప్పడానికి, ‘కాంతారా’ మిమిక్రీ వరుసలో చాముండి కొండను సందర్శించారు",
+      "summary_te": "గతంలో 'కాంతారా' మిమిక్రీ వివాదంలో చిక్కుకున్న రణ్‌వీర్ సింగ్ ఇప్పుడు క్షమాపణలు చెప్పి, గత ఎదురుదెబ్బలను పరిష్కరించడానికి మరియు మనోభావాలను చక్కదిద్దడానికి సంజ్ఞగా చాముండి కొండ ఆలయాన్ని సందర్శించాలని భావిస్తున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "6ff31f27dcbf2ca57b28ca1eb0473572",
+      "title": "OnlyFans CEO Leonid Radvinsky was dead for a few days before news became public, says close friend Bachman: Report",
+      "summary": "Leonid Radvinsky, the former CEO of OnlyFans, died a few days before the news of his death became public on Monday, one of his close friends said. Radvinsky was fighting a secret battle with cancer and passed away at the age of 43.",
+      "url": "https://www.livemint.com/news/us-news/onlyfans-ceo-leonid-radvinsky-was-dead-for-a-few-days-before-news-became-public-says-close-friend-bachman-report-11774370393887.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/Radvinsky_OnlyFans_CEO_1774370785099_1774370785232.jpg",
+      "published_at": "2026-03-24T17:19:36.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "కేవలం ఫ్యాన్స్ సీఈఓ లియోనిడ్ రాడ్విన్‌స్కీ చనిపోయి కొన్ని రోజుల పాటు వార్తలు పబ్లిక్‌గా మారిందని సన్నిహిత మిత్రుడు బాచ్‌మన్ చెప్పారు: నివేదిక",
+      "summary_te": "ఓన్లీ ఫ్యాన్స్ మాజీ సీఈఓ లియోనిడ్ రాడ్‌విన్స్‌కీ మరణ వార్త తెలియడానికి కొన్ని రోజుల ముందు మరణించారని అతని సన్నిహితులలో ఒకరు తెలిపారు. రాడ్విన్స్కీ క్యాన్సర్‌తో రహస్య పోరాటం చేస్తూ 43 ఏళ్ల వయసులో కన్నుమూశారు.",
+      "translated": true
+    },
+    {
+      "id": "793afc9f64aada016de4b9d003944323",
+      "title": "NIA court sentences Kashmiri separatist Aasiya Andrabi to life, two associates get 30 years in terror case",
+      "summary": "A NIA court in New Delhi on Tuesday awarded a life sentence to Kashmiri separatist Aasiya Andrabi and a 30-year jail term to her two associates, Sofi Fehmida and Nahida Nasreen in a terror case lodged by the National Investigation Agency.",
+      "url": "https://www.livemint.com/news/india/nia-court-sentences-kashmiri-separatist-aasiya-andrabi-to-life-two-associates-get-30-years-in-terror-case-11774372505218.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/NIA-Security-4_1747456269598_1774372605098.JPG",
+      "published_at": "2026-03-24T17:19:12.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఉగ్రదాడి కేసులో కాశ్మీరీ వేర్పాటువాది ఆసియా ఆంద్రాబీకి జీవిత ఖైదు, ఇద్దరు సహచరులకు NIA కోర్టు 30 ఏళ్ల జైలు శిక్ష విధించింది.",
+      "summary_te": "నేషనల్ ఇన్వెస్టిగేషన్ ఏజెన్సీ నమోదు చేసిన ఉగ్రవాద కేసులో కాశ్మీరీ వేర్పాటువాది ఆసియా ఆంద్రాబీకి జీవిత ఖైదు, ఆమె ఇద్దరు సహచరులు సోఫీ ఫెహ్మిదా, నహిదా నస్రీన్‌లకు 30 ఏళ్ల జైలుశిక్ష విధిస్తూ న్యూఢిల్లీలోని ఎన్‌ఐఏ కోర్టు మంగళవారం తీర్పునిచ్చింది.",
+      "translated": true
+    },
+    {
+      "id": "c7966047e0632fbf1598aa913d52744b",
+      "title": "CoinDCX fraud: What unfolded during 96 hours from founders' arrest to bail",
+      "summary": "After a scam, FIR, arrest, and court proceedings, the founders were found to have been wrongly arrested.",
+      "url": "https://www.livemint.com/news/india/coindcx-founders-wrong-arrest-bail-impersonation-scam-financial-fraud-india-11774365403072.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/GST-state-inspector-Jaspal-Singh-filed-a-complaint_1739367664542_1774370259635.jpg",
+      "published_at": "2026-03-24T16:44:24.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "CoinDCX మోసం: వ్యవస్థాపకుల అరెస్టు నుండి బెయిల్ వరకు 96 గంటలలో ఏమి జరిగింది",
+      "summary_te": "స్కామ్, ఎఫ్‌ఐఆర్, అరెస్టు మరియు కోర్టు విచారణల తర్వాత, వ్యవస్థాపకులను తప్పుగా అరెస్టు చేసినట్లు కనుగొనబడింది.",
+      "translated": true
+    },
+    {
       "id": "1dd0e09054c3ce3242fd335ad01d19d6",
       "title": "Did PM Modi really mention ‘lockdown’ in his address to the Parliament over Middle East crisis?",
-      "summary": "Prime Minister Modi was, in his Parliament speeches, was referring to severe conditions that have emerged globally as a result of this war and the fear of a lasting impact. That is what he said towards the end of his speech in Rajya Sabha on Wednesday.",
+      "summary": "PM Modi, in his Parliament speeches, referred to severe conditions that have emerged globally as a result of this war and the fear of a lasting impact. That's precisely why he said, 'we must remain prepared and united and how India faced similar challenges during the COVID crisis with unity.’",
       "url": "https://www.livemint.com/news/world/did-pm-modi-really-mention-lockdown-in-his-address-to-the-parliament-over-middle-east-crisis-donald-trump-covid19-11774368094062.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/ANI-20260324128-0_1774369694669_1774369704790.jpg",
       "published_at": "2026-03-24T16:35:56.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ సంక్షోభంపై పార్లమెంట్‌లో చేసిన ప్రసంగంలో ప్రధాని మోదీ నిజంగా ‘లాక్‌డౌన్’ గురించి ప్రస్తావించారా?",
-      "summary_te": "ప్రధాని మోదీ తన పార్లమెంటు ప్రసంగాలలో, ఈ యుద్ధం ఫలితంగా ప్రపంచవ్యాప్తంగా ఉద్భవించిన తీవ్రమైన పరిస్థితులను మరియు శాశ్వత ప్రభావం గురించి భయం గురించి ప్రస్తావించారు. బుధవారం రాజ్యసభలో తన ప్రసంగం ముగిశాక ఆయన ఇలా అన్నారు.",
+      "title_te": "మిడిల్ ఈస్ట్ సంక్షోభంపై పార్లమెంటులో చేసిన ప్రసంగంలో ప్రధాని మోదీ నిజంగా 'లాక్‌డౌన్' గురించి ప్రస్తావించారా?",
+      "summary_te": "ప్రధాని మోదీ తన పార్లమెంటు ప్రసంగాలలో, ఈ యుద్ధం ఫలితంగా ప్రపంచవ్యాప్తంగా ఉద్భవించిన తీవ్రమైన పరిస్థితులను మరియు శాశ్వత ప్రభావం గురించి భయం గురించి ప్రస్తావించారు. అందుకే ఖచ్చితంగా, 'మనం సిద్ధంగా మరియు ఐక్యంగా ఉండాలి మరియు కోవిడ్ సంక్షోభ సమయంలో భారతదేశం ఐక్యతతో ఇలాంటి సవాళ్లను ఎలా ఎదుర్కొంది' అని ఆయన అన్నారు.",
       "translated": true
     },
     {
@@ -29,7 +127,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మెక్సికోలో ఆగిపోయిన వలసదారులు యుఎస్‌లో ఆశ్రయం పొందవచ్చా లేదా అనే దానిపై యుఎస్ సుప్రీంకోర్టు కేసును విచారించింది",
-      "summary_te": "సరిహద్దు యొక్క మెక్సికన్ వైపున ఆగిపోయిన వలసదారులు ఫెడరల్ చట్టం ప్రకారం యునైటెడ్ స్టేట్స్‌కు \"వచ్చారు\" అని పరిగణించవచ్చా అనేది కేసు మధ్యలో ఉంది.",
+      "summary_te": "సరిహద్దు యొక్క మెక్సికన్ వైపు వలస వచ్చినవారిని ఫెడరల్ చట్టం ప్రకారం యునైటెడ్ స్టేట్స్‌కు \"వచ్చినట్లు\" పరిగణించవచ్చా అనేది కేసు మధ్యలో ఉంది.",
       "translated": true
     },
     {
@@ -43,7 +141,7 @@
       "category": "business",
       "language": "en",
       "title_te": "శాన్ ఫ్రాన్సిస్కో విమానాశ్రయంలో మహిళను అరెస్టు చేయడానికి అధిక బలాన్ని ఉపయోగించినందుకు డెమొక్రాట్లు ICEని నిందించారు; 'చట్టవిరుద్ధమైన విదేశీయులు' అని DHS చెప్పింది",
-      "summary_te": "శాన్ ఫ్రాన్సిస్కో విమానాశ్రయంలో ఏడుస్తున్న మహిళను నిర్బంధించినట్లు వైరల్ వీడియో చూపించిన తర్వాత కాలిఫోర్నియా డెమొక్రాట్లు ICEని విమర్శించారు. అరెస్టయిన ఇద్దరు మహిళలకు 2019 నుండి తుది తొలగింపు ఉత్తర్వులు ఉన్నాయని మరియు చట్టవిరుద్ధంగా USలో ఉన్నారని DHS తెలిపింది, ఈ చర్య విస్తరించిన విమానాశ్రయ అమలు ప్రణాళికలకు సంబంధం లేదని పేర్కొంది.",
+      "summary_te": "శాన్ ఫ్రాన్సిస్కో విమానాశ్రయంలో ఏడుస్తున్న మహిళను నిర్బంధించినట్లు వైరల్ వీడియో చూపించిన తర్వాత కాలిఫోర్నియా డెమొక్రాట్లు ICEని విమర్శించారు. అరెస్టయిన ఇద్దరు మహిళలకు 2019 నుండి తుది తొలగింపు ఉత్తర్వులు ఉన్నాయని మరియు చట్టవిరుద్ధంగా యుఎస్‌లో ఉన్నారని DHS తెలిపింది, ఈ చర్య విస్తరించిన విమానాశ్రయ అమలు ప్రణాళికలకు సంబంధం లేదని పేర్కొంది.",
       "translated": true
     },
     {
@@ -57,7 +155,21 @@
       "category": "business",
       "language": "en",
       "title_te": "భారతీయ సంతతికి చెందిన డ్రైవర్ జాత్యహంకార దుర్వినియోగాన్ని ఎదుర్కొన్నాడు, మెల్‌బోర్న్‌లో 2 కార్జాకర్లను పట్టుకున్నాడు: ‘అసలు ధురంధర్’ | వీడియో",
-      "summary_te": "పంచ్‌లు మరియు కిక్‌లు ఇచ్చిపుచ్చుకోవడంతో పరిస్థితి శారీరక వాగ్వాదానికి దారితీసినప్పుడు అతను పురుషులతో తలపడడాన్ని వీడియో క్యాప్చర్ చేస్తుంది.",
+      "summary_te": "పంచ్‌లు మరియు కిక్‌లు ఇచ్చిపుచ్చుకోవడంతో పరిస్థితి భౌతిక వాగ్వాదానికి దారితీసినప్పుడు అతను పురుషులతో తలపడడాన్ని వీడియో క్యాప్చర్ చేస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "fe924830d1f50c02d9baff303b8f721c",
+      "title": "Adani Green block deal: BNP Paribas buys 6.9 lakh shares worth Rs 56 crore",
+      "summary": "Adani Green Energy saw block deals with BNP Paribas buying and Morgan Stanley selling shares. Despite a December-quarter net loss, the company’s power supply revenue and EBITDA grew over 20%, driven by 5.6 GW new capacity, keeping 50 GW target on track.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/adani-green-block-deal-bnp-paribas-buys-6-9-lakh-shares-worth-rs-56-crore/articleshow/129780932.cms",
+      "image": null,
+      "published_at": "2026-03-24T15:47:06.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "అదానీ గ్రీన్ బ్లాక్ డీల్: రూ.56 కోట్ల విలువైన 6.9 లక్షల షేర్లను బిఎన్‌పి పారిబాస్ కొనుగోలు చేసింది",
+      "summary_te": "అదానీ గ్రీన్ ఎనర్జీ BNP పారిబాస్ కొనుగోలు మరియు మోర్గాన్ స్టాన్లీ షేర్లను విక్రయించడంతో బ్లాక్ డీల్స్ చూసింది. డిసెంబర్-త్రైమాసిక నికర నష్టం ఉన్నప్పటికీ, కంపెనీ విద్యుత్ సరఫరా ఆదాయం మరియు EBITDA 5.6 GW కొత్త సామర్థ్యంతో 20% పైగా వృద్ధి చెందాయి, 50 GW లక్ష్యాన్ని ట్రాక్‌లో ఉంచాయి.",
       "translated": true
     },
     {
@@ -98,22 +210,22 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "మిడ్ ఈస్ట్‌లో మంటలను విడిచిపెట్టిన US ఎయిర్‌క్రాఫ్ట్ క్యారియర్ ఇతర సమస్యలను కలిగి ఉంది",
+      "title_te": "మిడ్ ఈస్ట్‌ను మంటల్లో వదిలిన US ఎయిర్‌క్రాఫ్ట్ క్యారియర్‌కు ఇతర సమస్యలు ఉన్నాయి",
       "summary_te": "USS గెరాల్డ్ R. ఫోర్డ్ ఎయిర్‌క్రాఫ్ట్ క్యారియర్ సోమవారం క్రీట్‌లోని ఓడరేవుకు చేరుకుంది, అది మధ్యప్రాచ్యం నుండి బయలుదేరవలసి వచ్చింది - మరియు ఇరాన్‌పై యుద్ధం - దాని లాండ్రీ ప్రాంతంలో మంటలు చెలరేగాయి. కానీ భారీ ఓడ యొక్క సమస్యలు దాని కంటే చాలా లోతుగా ఉన్నాయి.",
       "translated": true
     },
     {
       "id": "adc1b8db9033dc388ab0bdcd8d39e461",
       "title": "Why is ‘India lockdown again’ trending amid Middle East conflict and after six years of COVID-19?",
-      "summary": "Amid ongoing Middle East conflict and six years after COVID-19, people searched for ‘India lockdown again’, ‘lockdown news’. Despite a previous nationwide lockdown in 2020, the government has not announced any new lockdowns as COVID-19 is largely under control.",
+      "summary": "Amid the ongoing Middle East conflict and six years after COVID-19, people searched the internet for ‘India lockdown again’ and ‘lockdown news’. Despite a nationwide lockdown in 2020, the government has not announced any new lockdowns as COVID-19 is largely under control.",
       "url": "https://www.livemint.com/news/india/why-is-india-lockdown-again-trending-amid-middle-east-conflict-and-after-six-years-of-covid19-11774364409290.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/Pune--India---March-26--2020--Deserted-Swatantryav_1774365980795_1774365987133.jpg",
       "published_at": "2026-03-24T15:27:19.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ వివాదం మరియు ఆరేళ్ల కోవిడ్-19 తర్వాత ‘ఇండియా మళ్లీ లాక్‌డౌన్’ ఎందుకు ట్రెండ్ అవుతోంది?",
-      "summary_te": "కొనసాగుతున్న మధ్యప్రాచ్య సంఘర్షణల మధ్య మరియు COVID-19 తర్వాత ఆరు సంవత్సరాల తర్వాత, ప్రజలు 'ఇండియా లాక్‌డౌన్ మళ్లీ', 'లాక్‌డౌన్ వార్తలు' కోసం శోధించారు. గతంలో 2020లో దేశవ్యాప్తంగా లాక్‌డౌన్ ఉన్నప్పటికీ, COVID-19 ఎక్కువగా నియంత్రణలో ఉన్నందున ప్రభుత్వం కొత్త లాక్‌డౌన్‌లను ప్రకటించలేదు.",
+      "title_te": "మధ్యప్రాచ్య సంఘర్షణల మధ్య మరియు ఆరేళ్ల కోవిడ్-19 తర్వాత ‘ఇండియా మళ్లీ లాక్‌డౌన్’ ఎందుకు ట్రెండ్ అవుతోంది?",
+      "summary_te": "కొనసాగుతున్న మధ్యప్రాచ్య సంఘర్షణ మరియు COVID-19 తర్వాత ఆరు సంవత్సరాల తర్వాత, ప్రజలు 'ఇండియా లాక్‌డౌన్ మళ్లీ' మరియు 'లాక్‌డౌన్ వార్తలు' కోసం ఇంటర్నెట్‌లో శోధించారు. 2020లో దేశవ్యాప్తంగా లాక్‌డౌన్ ఉన్నప్పటికీ, COVID-19 ఎక్కువగా నియంత్రణలో ఉన్నందున ప్రభుత్వం కొత్త లాక్‌డౌన్‌లను ప్రకటించలేదు.",
       "translated": true
     },
     {
@@ -140,8 +252,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కొత్త పత్రాలు కాష్ పటేల్‌పై ఎఫ్‌బిఐ దర్యాప్తు వివరాలను వెల్లడిస్తున్నాయి: ‘ఆర్కిటిక్ ఫ్రాస్ట్’, సబ్‌పోనా, కాల్ రికార్డులు",
-      "summary_te": "రాయిటర్స్ వీక్షించిన రెండు గ్రాండ్ జ్యూరీ సబ్‌పోనాలు మరియు నాన్‌డిస్క్లోజర్ ఆర్డర్‌ల ప్రకారం, రెండు సంవత్సరాల కంటే ఎక్కువ ఫోన్ రికార్డులు, వచన సందేశాలు మరియు ఆర్థిక సమాచారం కోసం ఈ విచారణలో డిమాండ్‌లు ఉన్నాయి.",
+      "title_te": "కొత్త పత్రాలు కాష్ పటేల్‌పై FBI దర్యాప్తు వివరాలను వెల్లడిస్తున్నాయి: 'ఆర్కిటిక్ ఫ్రాస్ట్', సబ్‌పోనా, కాల్ రికార్డ్‌లు",
+      "summary_te": "రాయిటర్స్ వీక్షించిన రెండు గ్రాండ్ జ్యూరీ సబ్‌పోనాలు మరియు నాన్‌డిస్‌క్లోజర్ ఆర్డర్‌ల ప్రకారం రెండు సంవత్సరాల కంటే ఎక్కువ ఫోన్ రికార్డులు, టెక్స్ట్ సందేశాలు మరియు ఆర్థిక సమాచారం కోసం ఈ విచారణలో డిమాండ్‌లు ఉన్నాయి.",
       "translated": true
     },
     {
@@ -155,7 +267,7 @@
       "category": "business",
       "language": "en",
       "title_te": "వెనిజులా లాబీయింగ్ ఆరోపణలపై మాజీ కాంగ్రెస్ సభ్యుడు డేవిడ్ రివెరా విచారణలో మార్కో రూబియో సాక్ష్యమిచ్చాడు",
-      "summary_te": "విదేశీ ఏజెంట్ల రిజిస్ట్రేషన్ చట్టాన్ని ఉల్లంఘిస్తూ వెనిజులా రాష్ట్ర చమురు కంపెనీ అనుబంధ సంస్థ ద్వారా నికోలస్ మదురోకు $20 మిలియన్లు చెల్లించినట్లు వెల్లడించకుండా నికోలస్ మదురోపై ఒత్తిడి తగ్గించేందుకు రివెరా 2017లో US అధికారులకు లాబీయింగ్ చేశారని ప్రాసిక్యూటర్లు ఆరోపించారు.",
+      "summary_te": "విదేశీ ఏజెంట్ల నమోదు చట్టాన్ని ఉల్లంఘిస్తూ వెనిజులా రాష్ట్ర చమురు కంపెనీ అనుబంధ సంస్థ ద్వారా నికోలస్ మదురోకు $20 మిలియన్లు చెల్లించినట్లు వెల్లడించకుండా నికోలస్ మదురోపై ఒత్తిడి తగ్గించేందుకు రివెరా 2017లో US అధికారులను లాబీయింగ్ చేశారని ప్రాసిక్యూటర్లు ఆరోపించారు.",
       "translated": true
     },
     {
@@ -168,7 +280,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "లెబనాన్ ఇరానియన్ రాయబారి పర్సన నాన్ గ్రేటా అని ప్రకటించి, అతన్ని విడిచిపెట్టమని ఆదేశించింది; 'జస్టిఫైడ్ స్టెప్' అని ఇజ్రాయెల్ చెప్పింది",
+      "title_te": "లెబనాన్ ఇరానియన్ అంబాసిడర్ పర్సన నాన్ గ్రేటా అని ప్రకటించింది, అతన్ని విడిచిపెట్టమని ఆదేశించింది; 'జస్టిఫైడ్ స్టెప్' అని ఇజ్రాయెల్ చెప్పింది",
       "summary_te": "లెబనాన్ మంగళవారం ఇరాన్ అంబాసిడర్ పర్సన నాన్ గ్రేటాని ప్రకటించింది మరియు మార్చి 29 లోగా దేశం విడిచి వెళ్లాలని ఆదేశించింది. ఈ నిర్ణయాన్ని స్వాగతిస్తూ, ఇజ్రాయెల్ విదేశాంగ మంత్రి గిడియాన్ సార్ దీనిని సమర్థనీయమైన మరియు అవసరమైన చర్యగా పేర్కొన్నారు.",
       "translated": true
     },
@@ -183,7 +295,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆరోపించిన చీటింగ్ కేసులో CoinDCX ప్రమోటర్లకు బెయిల్ లభిస్తుంది",
-      "summary_te": "కాయిన్‌డిసిఎక్స్ సహ వ్యవస్థాపకులపై న్యాయస్థానం ఎటువంటి ప్రాథమిక కేసును కనుగొనకపోవడంతో వారికి బెయిల్ మంజూరు చేయబడింది. తెలియని నటీనటులు ఫిర్యాదుదారుని మోసగించడంతో CoinDCX వలె మోసగించే ఒక మోసపూరిత వెబ్‌సైట్ నుండి అరెస్టులు జరిగినట్లు కంపెనీ పేర్కొంది. CoinDCX దాని అధికారిక ప్లాట్‌ఫారమ్ .pro అని నొక్కిచెప్పింది మరియు ఇది కూడా ఈ వంచన స్కామ్‌లో బాధితురాలిగా ఉంది.",
+      "summary_te": "కాయిన్‌డిసిఎక్స్ సహ వ్యవస్థాపకులపై న్యాయస్థానం ఎటువంటి ప్రాథమిక కేసును కనుగొనకపోవడంతో వారికి బెయిల్ మంజూరు చేయబడింది. తెలియని నటులు ఫిర్యాదుదారుని మోసగించడంతో, CoinDCX వలె మోసగించే ఒక మోసపూరిత వెబ్‌సైట్ నుండి అరెస్టులు జరిగినట్లు కంపెనీ పేర్కొంది. CoinDCX దాని అధికారిక ప్లాట్‌ఫారమ్ .pro అని నొక్కి చెప్పింది మరియు ఇది కూడా ఈ వంచన స్కామ్‌లో బాధితురాలిగా ఉంది.",
       "translated": true
     },
     {
@@ -197,7 +309,7 @@
       "category": "business",
       "language": "en",
       "title_te": "జెస్సికా చస్టెయిన్ యొక్క కోట్ ఆఫ్ ది డే: 'స్త్రీత్వం బలహీనత కాదని మనం అర్థం చేసుకోవాలి'",
-      "summary_te": "జెస్సికా చస్టెయిన్ ఒకప్పుడు స్త్రీత్వం తరచుగా బలహీనతగా భావించబడుతుందని చెప్పింది. ఆమె ప్రసిద్ధ కోట్‌లలో ఒకటి మూస పద్ధతులను సవాలు చేయాల్సిన అవసరాన్ని కూడా హైలైట్ చేసింది మరియు బలం అనేక రూపాలను తీసుకుంటుందని గుర్తించి, లింగం మరియు సమానత్వంపై విస్తృత సంభాషణలకు దారితీసింది.",
+      "summary_te": "జెస్సికా చస్టెయిన్ ఒకసారి స్త్రీత్వం తరచుగా బలహీనతగా తప్పుగా చూడబడుతుందని చెప్పింది. ఆమె ప్రసిద్ధ కోట్‌లలో ఒకటి మూస పద్ధతులను సవాలు చేయవలసిన అవసరాన్ని కూడా హైలైట్ చేసింది మరియు బలం అనేక రూపాలను తీసుకుంటుందని గుర్తించి, లింగం మరియు సమానత్వంపై విస్తృత సంభాషణలకు దారితీసింది.",
       "translated": true
     },
     {
@@ -225,7 +337,7 @@
       "category": "business",
       "language": "en",
       "title_te": "అంతర్జాతీయ చలనచిత్రోత్సవానికి ముందు ఢిల్లీలో ట్రాఫిక్ సలహా జారీ; విక్కీ కౌశల్, హేమమాలిని హాజరవుతారు",
-      "summary_te": "సలహాలో రోడ్డు మళ్లింపులు, ట్రాఫిక్ పరిమితులు మరియు ట్రాఫిక్ పోలీసులు జారీ చేసే సాధారణ సూచనలు ఉంటాయి. ప్రయాణికులు కూడా తమ ప్రయాణాలను ముందుగానే ప్లాన్ చేసుకోవాలని సూచించారు.",
+      "summary_te": "ఈ సలహాలో రోడ్డు మళ్లింపులు, ట్రాఫిక్ పరిమితులు మరియు ట్రాఫిక్ పోలీసులు జారీ చేసే సాధారణ సూచనలు ఉంటాయి. ప్రయాణికులు కూడా తమ ప్రయాణాలను ముందుగానే ప్లాన్ చేసుకోవాలని సూచించారు.",
       "translated": true
     },
     {
@@ -271,104 +383,6 @@
       "translated": true
     },
     {
-      "id": "10c57fe8f7e553eb74de3be7113d4194",
-      "title": "Quote of the Day by Maya Angelou: ‘People will forget what you said…’",
-      "summary": "The quote teaches that people should be careful with their conduct. Positive memories for others can be created if individuals are careful about their conduct and show kindness, respect, and understanding to others.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-maya-angelou-people-will-forget-what-you-said-11774356705725.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/maya_angelou_1772900926535_1772900926682_1774357008186.png",
-      "published_at": "2026-03-24T13:21:09.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మాయా ఏంజెలో యొక్క కోట్ ఆఫ్ ది డే: 'మీరు చెప్పినది ప్రజలు మర్చిపోతారు...'",
-      "summary_te": "ప్రజలు తమ ప్రవర్తనతో జాగ్రత్తగా ఉండాలని కోట్ బోధిస్తుంది. వ్యక్తులు తమ ప్రవర్తన పట్ల జాగ్రత్తగా ఉండి, ఇతరుల పట్ల దయ, గౌరవం మరియు అవగాహనను ప్రదర్శిస్తే ఇతరులకు సానుకూల జ్ఞాపకాలు సృష్టించబడతాయి.",
-      "translated": true
-    },
-    {
-      "id": "60fe1b5e233420b60efa2c085aa3dd12",
-      "title": "Quadruple amputee cornhole player Dayton James Webber faces murder charges in Maryland shooting",
-      "summary": "Webber, who lost all four limbs as an infant due to a severe blood infection and became a pro cornhole player, is accused of killing a passenger during a car argument in Maryland.",
-      "url": "https://www.livemint.com/news/us-news/quadruple-amputee-cornhole-player-dayton-james-webber-faces-murder-charges-in-maryland-shooting-11774356457747.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/webber_1774357265134_1774357292357.jpg",
-      "published_at": "2026-03-24T13:05:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మేరీల్యాండ్‌లో జరిగిన కాల్పుల్లో నాలుగు రెట్లు ఆంప్యూటీ కార్న్‌హోల్ ప్లేయర్ డేటన్ జేమ్స్ వెబర్ హత్య ఆరోపణలను ఎదుర్కొంటున్నాడు",
-      "summary_te": "తీవ్రమైన బ్లడ్ ఇన్‌ఫెక్షన్ కారణంగా పసితనంలో నాలుగు అవయవాలను కోల్పోయిన వెబ్బర్, మేరీల్యాండ్‌లో కారు వాదనలో ఒక ప్రయాణికుడిని చంపినట్లు ఆరోపణలు ఎదుర్కొన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "50300f0cd75db77f5cfef2cf1c1de0cb",
-      "title": "PM Modi, Trump discuss ‘importance of keeping Strait of Hormuz open’",
-      "summary": "Prime Minister Narendra Modi confirmed that he received a call from President Trump and “had a useful exchange of views on the situation in West Asia”.",
-      "url": "https://www.livemint.com/news/india/trump-pm-modi-discuss-middle-east-crisis-importance-of-keeping-strait-of-hormuz-open-us-envoy-sergio-gor-11774356679424.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/INDIA-TRADE-USA-1_1751818040314_1751818064846_1774357166524.JPG",
-      "published_at": "2026-03-24T12:51:43.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "హార్ముజ్ జలసంధిని తెరిచి ఉంచడం యొక్క ప్రాముఖ్యతపై ప్రధాని మోదీ, ట్రంప్ చర్చించారు",
-      "summary_te": "అధ్యక్షుడు ట్రంప్ నుండి తనకు కాల్ వచ్చిందని మరియు \"పశ్చిమ ఆసియాలో పరిస్థితిపై ఉపయోగకరమైన అభిప్రాయాల మార్పిడి ఉందని\" ప్రధానమంత్రి నరేంద్ర మోడీ ధృవీకరించారు.",
-      "translated": true
-    },
-    {
-      "id": "d747647ccfeb8eee31b34a76e5d77d91",
-      "title": "Who is Mohammad Bagher Zolghadr? Iran picks powerful IRGC veteran to replace Ali Larijani",
-      "summary": "Iran has appointed Mohammad Bagher Zolghadr as the new head of the Supreme National Security Council, following the assassination of his predecessor, Ali Larijani. Zolghadr, a former Revolutionary Guards commander, is set to influence Iran's defence and foreign policy strategies in war times.",
-      "url": "https://www.livemint.com/news/world/who-is-mohammad-bagher-zolghadr-iran-names-security-council-chief-ali-larijani-s-replacement-us-iran-war-trump-11774354961523.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/image_1774355049542_1774355057437.jpg",
-      "published_at": "2026-03-24T12:48:02.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "మహమ్మద్ బఘేర్ జోల్‌ఘదర్ ఎవరు? అలీ లారిజాని స్థానంలో ఇరాన్ శక్తివంతమైన IRGC అనుభవజ్ఞుడిని ఎంపిక చేసింది",
-      "summary_te": "ఇరాన్ తన పూర్వీకుడు అలీ లారిజానీ హత్య తర్వాత, మొహమ్మద్ బఘేర్ జోల్‌ఘదర్‌ను సుప్రీం నేషనల్ సెక్యూరిటీ కౌన్సిల్‌కి కొత్త అధిపతిగా నియమించింది. మాజీ రివల్యూషనరీ గార్డ్స్ కమాండర్ అయిన జోల్‌ఘదర్ యుద్ధ సమయాల్లో ఇరాన్ రక్షణ మరియు విదేశాంగ విధాన వ్యూహాలను ప్రభావితం చేయడానికి సిద్ధంగా ఉన్నాడు.",
-      "translated": true
-    },
-    {
-      "id": "8b7534e5baf9b615f660c10cbb00fb15",
-      "title": "‘Instead of making classless society…’: CJI questions PIL seeking denotified tribes as distinct category in Census",
-      "summary": "The PIL sought a mandate for the census commissioner to ensure that members of denotified nomadic tribes are specifically identified during the population enumeration of the Census.",
-      "url": "https://www.livemint.com/news/india/instead-of-making-classless-society-cji-questions-pil-seeking-denotified-tribes-as-distinct-category-in-census-11774354139552.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/Supreme-Court-of-India---PTI-_1774355376194_1774355381384.jpg",
-      "published_at": "2026-03-24T12:43:13.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘వర్గరహిత సమాజాన్ని రూపొందించే బదులు…’: జనాభా గణనలో డినోటిఫైడ్ తెగలను ప్రత్యేక వర్గంగా కోరుతూ పిఐఎల్‌ను CJI ప్రశ్నించారు",
-      "summary_te": "జనాభా గణన యొక్క జనాభా గణన సమయంలో డీనోటిఫైడ్ సంచార తెగల సభ్యులను ప్రత్యేకంగా గుర్తించేలా జనాభా గణన కమీషనర్‌కు ఆదేశాన్ని అందించాలని PIL కోరింది.",
-      "translated": true
-    },
-    {
-      "id": "089bc37d106b2c38b94f8a301934206b",
-      "title": "India cracks down on misuse of weight-loss drugs across supply chain",
-      "summary": "In response to the rise of generic GLP-1 weight-loss drugs in India, the drug regulator is stepping up audits and enforcement actions against unauthorized sales and improper prescriptions, ensuring patient safety as the market expands amid an obesity crisis.",
-      "url": "https://www.livemint.com/news/india/india-crackdown-on-weight-loss-drugs-misuse-regulator-glp1-11774343724351.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/INDIA-PHARMACEUTICAL-OBESITY-2_1774354901647_1774354915099.jpg",
-      "published_at": "2026-03-24T12:27:18.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సరఫరా గొలుసు అంతటా బరువు తగ్గించే ఔషధాల దుర్వినియోగంపై భారతదేశం కఠినంగా వ్యవహరిస్తుంది",
-      "summary_te": "భారతదేశంలో జనరిక్ GLP-1 బరువు తగ్గించే ఔషధాల పెరుగుదలకు ప్రతిస్పందనగా, ఔషధ నియంత్రణ సంస్థ అనధికారిక విక్రయాలు మరియు సరికాని ప్రిస్క్రిప్షన్‌లకు వ్యతిరేకంగా ఆడిట్‌లు మరియు అమలు చర్యలను వేగవంతం చేస్తోంది, ఊబకాయం సంక్షోభం మధ్య మార్కెట్ విస్తరిస్తున్నందున రోగుల భద్రతకు భరోసా ఇస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "06304824fcfabcd1f7cfec47bceae30d",
-      "title": "‘Gothagalla avarge’: Kannada banter steals show in Nikhil Kamath’s podcast with Rishi Sunak, Akshata Murty",
-      "summary": "A light-hearted Kannada exchange between Nikhil Kamath and Akshata Murty in the trailer of his upcoming podcast featuring Rishi Sunak has caught the internet’s attention, even as the episode promises deeper conversations on marriage, identity and life after power.",
-      "url": "https://www.livemint.com/news/trends/gothagalla-avarge-kannada-banter-steals-show-in-nikhil-kamath-s-podcast-with-rishi-sunak-akshata-murty-11774353267425.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/MixCollage-24-Mar-2026-05-32-PM-1747_1774353742158_1774353758456.jpg",
-      "published_at": "2026-03-24T12:21:55.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "‘గోతగల్ల అవర్గే’: రిషి సునక్, అక్షతా మూర్తితో కలిసి నిఖిల్ కామత్ పోడ్‌కాస్ట్‌లో కన్నడ బ్యాంటర్ స్టెల్స్ షో",
-      "summary_te": "వివాహం, గుర్తింపు మరియు అధికారం తర్వాత జీవితంపై లోతైన సంభాషణలను ఎపిసోడ్ వాగ్దానం చేసినప్పటికీ, రిషి సునక్‌ని కలిగి ఉన్న అతని రాబోయే పోడ్‌కాస్ట్ యొక్క ట్రైలర్‌లో నిఖిల్ కామత్ మరియు అక్షతా మూర్తి మధ్య తేలికైన కన్నడ మార్పిడి ఇంటర్నెట్ దృష్టిని ఆకర్షించింది.",
-      "translated": true
-    },
-    {
       "id": "f06ed51993fc956f353f28255b28447e",
       "title": "Mystery Bet: Traders move $2 billion just 5 minutes before Trump's comment on US-Iran talks. What did they buy?",
       "summary": "Suspicious trades worth billions in S&P 500 and oil futures placed minutes before Trump’s Iran talks announcement have sparked insider trading concerns. While markets rallied post the news, analysts flagged unusual activity. The White House denied allegations, even as similar past incidents continue to raise questions around market transparency.",
@@ -397,6 +411,20 @@
       "translated": true
     },
     {
+      "id": "8deec4b7380c7726718ee6918dcf1da7",
+      "title": "Nippon India ETF Gold BeES ranks 6th globally in gold ETF inflows, draws $1.08 bn inflows",
+      "summary": "Nippon India ETF Gold BeES ranked 6th globally among top gold ETFs with USD 1,085.2 million in fund flows as of February 28, 2026. This marks the only Indian gold ETF in the global top 10, reflecting growing investor interest in regulated gold investments and India's expanding ETF ecosystem.",
+      "url": "https://economictimes.indiatimes.com/mf/mf-news/nippon-india-etf-gold-bees-ranks-6th-globally-in-gold-etf-inflows-draws-1-08-bn-inflows/articleshow/129769383.cms",
+      "image": null,
+      "published_at": "2026-03-24T06:53:03.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "నిప్పాన్ ఇండియా ఇటిఎఫ్ గోల్డ్ బీఈఎస్ గోల్డ్ ఇటిఎఫ్ ఇన్‌ఫ్లోస్‌లో ప్రపంచవ్యాప్తంగా 6వ స్థానంలో ఉంది, $1.08 బిలియన్ల ఇన్‌ఫ్లోలను పొందింది",
+      "summary_te": "ఫిబ్రవరి 28, 2026 నాటికి USD 1,085.2 మిలియన్ల నిధుల ప్రవాహాలతో నిప్పాన్ ఇండియా ETF గోల్డ్ బీస్ ప్రపంచవ్యాప్తంగా 6వ స్థానంలో ఉంది. ఇది నియంత్రిత బంగారం పెట్టుబడులపై పెరుగుతున్న పెట్టుబడిదారుల ఆసక్తిని ప్రతిబింబిస్తూ, ప్రపంచవ్యాప్తంగా టాప్ 10లో ఉన్న ఏకైక భారతీయ గోల్డ్ ఇటిఎఫ్‌గా గుర్తించబడింది.",
+      "translated": true
+    },
+    {
       "id": "626cb4a5d91e61ddb3c1fcf5d6fe3ff6",
       "title": "Vedanta shares jump 3% after company announces Rs 11 interim dividend",
       "summary": "Vedanta shares saw a nearly 3% surge after the board approved a third interim dividend of Rs 11 per equity share, amounting to Rs 4,300 crore. This move comes despite recent stock declines due to a Supreme Court ruling on diesel procurement and a challenge to Adani Group's acquisition bid. The company remains a popular choice for dividend investors.",
@@ -408,34 +436,6 @@
       "language": "en",
       "title_te": "కంపెనీ రూ.11 మధ్యంతర డివిడెండ్‌ను ప్రకటించిన తర్వాత వేదాంత షేర్లు 3% పెరిగాయి",
       "summary_te": "ఈక్విటీ షేర్‌కు రూ. 11 చొప్పున మూడవ మధ్యంతర డివిడెండ్‌ను రూ. 4,300 కోట్లకు బోర్డు ఆమోదించిన తర్వాత వేదాంత షేర్లు దాదాపు 3% పెరిగాయి. డీజిల్ సేకరణపై సుప్రీం కోర్టు తీర్పు మరియు అదానీ గ్రూప్ కొనుగోలు బిడ్‌కు సవాలు కారణంగా ఇటీవల స్టాక్ క్షీణించినప్పటికీ ఈ చర్య తీసుకోబడింది. డివిడెండ్ పెట్టుబడిదారులకు కంపెనీ ఒక ప్రముఖ ఎంపికగా మిగిలిపోయింది.",
-      "translated": true
-    },
-    {
-      "id": "5e134487bd2925037d5de039330527db",
-      "title": "No quick end to conflict, global markets to stay on edge: Adrian Mowat",
-      "summary": "Global markets are experiencing volatility due to shifting geopolitical developments, particularly concerning the US and Iran. Oil prices have surged, reflecting supply disruption fears, while India faces risks from oil costs and AI's impact on its IT sector. Bond markets are also adjusting to potential US rate hikes.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-quick-end-to-conflict-global-markets-to-stay-on-edge-adrian-mowat/articleshow/129767610.cms",
-      "image": null,
-      "published_at": "2026-03-24T05:11:14.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "సంఘర్షణకు శీఘ్ర ముగింపు లేదు, ప్రపంచ మార్కెట్లు అంచున ఉంటాయి: అడ్రియన్ మోవాట్",
-      "summary_te": "మారుతున్న భౌగోళిక రాజకీయ పరిణామాల కారణంగా గ్లోబల్ మార్కెట్లు అస్థిరతను ఎదుర్కొంటున్నాయి, ముఖ్యంగా US మరియు ఇరాన్‌లకు సంబంధించినవి. చమురు ధరలు పెరిగాయి, సరఫరా అంతరాయం భయాలను ప్రతిబింబిస్తుంది, అయితే భారతదేశం చమురు ఖర్చులు మరియు దాని IT రంగంపై AI ప్రభావం నుండి నష్టాలను ఎదుర్కొంటుంది. బాండ్ మార్కెట్లు కూడా సంభావ్య US రేట్ల పెంపుదలకు సర్దుబాటు చేస్తున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "4a575c803ebad78e6645a20f7450356a",
-      "title": "IndiGo shares jump 4% after appointing former Air India Express CEO Aloke Singh as chief strategy head",
-      "summary": "IndiGo share price surged 4% after appointing Aloke Singh, former Air India Express CEO, as Chief Strategy Officer to guide long-term plans, including the significant Airbus A350 fleet induction for long-haul operations. This move follows CEO Pieter Elbers' resignation and comes amidst leadership changes and operational challenges.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indigo-shares-in-focus-after-appointing-former-air-india-express-ceo-aloke-singh-as-chief-strategy-head/articleshow/129766195.cms",
-      "image": null,
-      "published_at": "2026-03-24T03:09:48.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ మాజీ సీఈఓ అలోక్ సింగ్‌ను చీఫ్ స్ట్రాటజీ హెడ్‌గా నియమించిన తర్వాత ఇండిగో షేర్లు 4% పెరిగాయి.",
-      "summary_te": "దీర్ఘ-కాల కార్యకలాపాల కోసం ముఖ్యమైన ఎయిర్‌బస్ A350 ఫ్లీట్ ఇండక్షన్‌తో సహా దీర్ఘకాలిక ప్రణాళికలకు మార్గనిర్దేశం చేయడానికి మాజీ ఎయిర్ ఇండియా ఎక్స్‌ప్రెస్ CEO అలోక్ సింగ్‌ను చీఫ్ స్ట్రాటజీ ఆఫీసర్‌గా నియమించిన తర్వాత ఇండిగో షేర్ ధర 4% పెరిగింది. ఈ చర్య CEO పీటర్ ఎల్బర్స్ రాజీనామాను అనుసరిస్తుంది మరియు నాయకత్వ మార్పులు మరియు కార్యాచరణ సవాళ్ల మధ్య వస్తుంది.",
       "translated": true
     },
     {
