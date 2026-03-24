@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-23T23:32:51.244Z",
-  "updated_at_IST": "24/3/2026, 5:02:51 am",
+  "updated_at": "2026-03-24T01:07:40.054Z",
+  "updated_at_IST": "24/3/2026, 6:37:40 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "17a4db3d3effd72555ff97b2f4b2cda4",
+      "title": "No change is all change as ECB opt for the rinse-and-repeat cycle",
+      "summary": "Management back the incumbents to turn the Test team's fortunes, but proof will be in the pudding",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528916.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409942.jpg",
+      "published_at": "2026-03-23T23:37:16.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ECB శుభ్రం చేయు మరియు పునరావృత చక్రాన్ని ఎంచుకున్నందున ఎటువంటి మార్పు లేదు",
+      "summary_te": "టెస్ట్ జట్టు అదృష్టాన్ని మార్చడానికి మేనేజ్‌మెంట్ బాధ్యతలను తిరిగి ఇస్తుంది, కానీ రుజువు పుడ్డింగ్‌లో ఉంటుంది",
+      "translated": true
+    },
     {
       "id": "649c8c265b27a63da57356926d49898d",
       "title": "Stokes: Ashes aftermath has been 'hardest period' of captaincy",
@@ -16,20 +30,6 @@
       "language": "en",
       "title_te": "స్టోక్స్: యాషెస్ తర్వాత కెప్టెన్సీకి 'కష్టతరమైన కాలం'",
       "summary_te": "కఠినమైన శీతాకాలం ఉన్నప్పటికీ, మెకల్లమ్ మరియు కీలతో కలిసి పనిచేయడం కొనసాగించినందుకు ఇంగ్లండ్ కెప్టెన్ 'చాలా సంతోషంగా' ఉన్నాడు",
-      "translated": true
-    },
-    {
-      "id": "17a4db3d3effd72555ff97b2f4b2cda4",
-      "title": "No change is all change as ECB opt for the rinse-and-repeat cycle",
-      "summary": "Management back the incumbents to turn the Test team's fortunes, but proof will be in the pudding",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528916.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409942.jpg",
-      "published_at": "2026-03-23T19:36:05.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ECB శుభ్రం చేయు మరియు పునరావృత చక్రాన్ని ఎంచుకున్నందున ఎటువంటి మార్పు లేదు",
-      "summary_te": "టెస్ట్ జట్టు అదృష్టాన్ని మార్చడానికి మేనేజ్‌మెంట్ బాధ్యతలను తిరిగి ఇస్తుంది, కానీ రుజువు పుడ్డింగ్‌లో ఉంటుంది",
       "translated": true
     },
     {
@@ -71,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "IPL 2026 కోసం గాయపడిన మరియు అందుబాటులో లేని ఆటగాళ్లు ఎవరు",
-      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయపడటంతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
+      "summary_te": "ఆకాష్ దీప్, హర్షిత్ రాణా మరియు పతిరానా గాయాలతో ఇప్పటివరకు KKR అత్యంత ఘోరంగా దెబ్బతిన్నది.",
       "translated": true
     },
     {
@@ -85,7 +85,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -196,7 +196,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'అనూహ్యమైనది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
       "translated": true
     },
