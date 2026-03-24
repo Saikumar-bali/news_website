@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T05:31:47.037Z",
-  "updated_at_IST": "24/3/2026, 11:01:47 am",
+  "updated_at": "2026-03-24T07:00:21.835Z",
+  "updated_at_IST": "24/3/2026, 12:30:21 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ce2e20c2027c6396b1ab1acdf0753ded",
+      "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
+      "summary": "The series is locked 2-2 heading into the decider in Christchurch",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528942.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414832.jpg",
+      "published_at": "2026-03-24T06:17:58.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "NZ, SA తక్కువ-సందర్భం సిరీస్ అధిక-స్టేక్స్ ముగింపుకు చేరుకున్నందున అందరూ ఆడవలసి ఉంటుంది",
+      "summary_te": "క్రైస్ట్‌చర్చ్‌లో నిర్ణయాత్మకంగా సిరీస్ 2-2తో లాక్ చేయబడింది",
+      "translated": true
+    },
     {
       "id": "39a40e99d143d60bd00dc835f3001804",
       "title": "India pick Kashvee Gautam for SA T20I tour",
@@ -127,7 +141,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -238,7 +252,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "title_te": "'అనూహ్యమైనది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "రెండు జట్లూ మార్పులు చేర్పులు చేయడంతో దక్షిణాఫ్రికా న్యూజిలాండ్‌ను ఫీల్డింగ్ చేయమని కోరింది",
       "summary_te": "కాటేన్ క్లార్క్ తన అంతర్జాతీయ అరంగేట్రంలో చాలా మంది సీనియర్‌లతో న్యూజిలాండ్‌లో విశ్రాంతి తీసుకున్నాడు; దక్షిణాఫ్రికా కోసం స్పిన్ దాడిలో కేశవ్ మహారాజ్ మరియు జార్జ్ లిండేతో కలిసి ప్రేనెలన్ సుబ్రాయెన్ వచ్చాడు",
-      "translated": true
-    },
-    {
-      "id": "8355b39c829b3f7a7cd91a9ccf687c5e",
-      "title": "Devine, Jess Kerr power New Zealand to a series win with a game to spare",
-      "summary": "Dercksen also put on a powerful display for South Africa but it ended in vain",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528674.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414826.jpg",
-      "published_at": "2026-03-22T05:45:48.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డివైన్, జెస్ కెర్ న్యూజిలాండ్‌కు ఇంకా ఒక గేమ్ మిగిలి ఉండగానే సిరీస్ విజయం సాధించారు",
-      "summary_te": "డెర్క్‌సెన్ కూడా దక్షిణాఫ్రికా కోసం శక్తివంతమైన ప్రదర్శనను ప్రదర్శించాడు, కానీ అది ఫలించలేదు",
       "translated": true
     }
   ]
