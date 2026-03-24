@@ -1,27 +1,41 @@
 {
-  "updated_at": "2026-03-24T08:49:54.705Z",
-  "updated_at_IST": "24/3/2026, 2:19:54 pm",
+  "updated_at": "2026-03-24T09:56:35.236Z",
+  "updated_at_IST": "24/3/2026, 3:26:35 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "5b7ab1b25f242ad5b0b91d0872c26b04",
+      "title": "IPL 2026: Royal Challengers Bengaluru's Yash Dayal to miss tournament due to ‘personal situation’ amid rape allegation",
+      "summary": "Yash Dayal has come under controversies involving alleged sexual exploitation of women. He was part of RCB's IPL title-winning squad last year.",
+      "url": "https://www.livemint.com/news/ipl-2026-royal-challengers-bengalurus-yash-dayal-to-miss-tournament-due-to-personal-situation-amid-rape-allegation-11774341734760.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/Yash_Dayal_1751171592283_1751171592533_1774342281748.jpg",
+      "published_at": "2026-03-24T09:15:59.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "IPL 2026: అత్యాచార ఆరోపణల మధ్య ‘వ్యక్తిగత పరిస్థితి’ కారణంగా రాయల్ ఛాలెంజర్స్ బెంగళూరు ఆటగాడు యశ్ దయాల్ టోర్నమెంట్‌కు దూరమయ్యాడు.",
+      "summary_te": "యశ్ దయాళ్ మహిళలపై లైంగిక వేధింపులకు పాల్పడుతున్నారనే ఆరోపణలతో వివాదాస్పదమైంది. అతను గత సంవత్సరం RCB యొక్క IPL టైటిల్ విజేత జట్టులో భాగంగా ఉన్నాడు.",
+      "translated": true
+    },
+    {
       "id": "4199c649462f02f0e9a3bb034be92f4f",
-      "title": "PM Modi's Speech in Rajya Sabha Live Updates: PM briefs Upper House on Middle East",
-      "summary": "PM Modi's Speech in Rajya Sabha Live Updates: Today's address in the Upper House during the ongoing Budget Session of Parliament, comes a day after the Prime Minister apprised the Lok Sabha over the situation and the steps taken by the government for the safety of the citizens of the country",
+      "title": "PM Modi Rajya Sabha Speech LIVE: India is in touch with Iran, Israel and the US, says PM Modi on Middle East War",
+      "summary": "PM Modi Rajya Sabha Speech LIVE: PM Narendra Modi addresses the Upper House today on the Middle East crisis, India's energy security, and the safety of Indians in Gulf nations. Follow for real-time highlights.",
       "url": "https://www.livemint.com/news/world/pm-modis-speech-in-rajya-sabha-live-updates-today-us-iran-war-middle-east-donald-trump-israel-netanyahu-11774338975575.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/ANI-20260323124-0_1774338952198_1774338972683.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/PTI03-24-2026-000128B-0_1774344744998_1774344752362.jpg",
       "published_at": "2026-03-24T08:11:34.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "రాజ్యసభలో ప్రధాని మోదీ ప్రసంగం లైవ్ అప్‌డేట్‌లు: మిడిల్ ఈస్ట్‌పై ఎగువ సభకు వివరించిన పీఎం",
-      "summary_te": "రాజ్యసభలో ప్రధాని మోదీ ప్రసంగం లైవ్ అప్‌డేట్‌లు: కొనసాగుతున్న పార్లమెంట్ బడ్జెట్ సమావేశాల సందర్భంగా ఎగువ సభలో నేటి ప్రసంగం, దేశ పౌరుల భద్రత కోసం ప్రభుత్వం తీసుకున్న చర్యల గురించి, పరిస్థితిపై లోక్‌సభకు ప్రధాని వివరించిన ఒక రోజు తర్వాత వచ్చింది.",
+      "title_te": "ప్రధానమంత్రి మోడీ రాజ్యసభ ప్రసంగం ప్రత్యక్ష ప్రసారం: ఇరాన్, ఇజ్రాయెల్ మరియు యుఎస్‌లతో భారతదేశం టచ్‌లో ఉంది, మిడిల్ ఈస్ట్ వార్‌పై ప్రధాని మోడీ చెప్పారు",
+      "summary_te": "PM మోడీ రాజ్యసభ ప్రసంగం ప్రత్యక్ష ప్రసారం: మధ్యప్రాచ్య సంక్షోభం, భారతదేశ ఇంధన భద్రత మరియు గల్ఫ్ దేశాలలో భారతీయుల భద్రతపై ప్రధానమంత్రి నరేంద్ర మోడీ ఈరోజు ఎగువ సభలో ప్రసంగించారు. నిజ-సమయ హైలైట్‌ల కోసం అనుసరించండి.",
       "translated": true
     },
     {
       "id": "b5c13b00173247d1dc9f2ce1d60e7b00",
       "title": "Private sector output growth weak in March: PMI survey",
-      "summary": "India’s private sector growth cooled to a multi-year low in March as the West Asia war triggered an energy shock and dampened domestic demand.",
+      "summary": "India’s private sector growth cooled to a multi-year low in March as the West Asia war triggered an energy shock and dampened domestic demand. Despite record export orders, surging input costs and currency volatility are squeezing margins and clouding the outlook for the new fiscal year.",
       "url": "https://www.livemint.com/news/private-sector-output-growth-weak-in-march-pmi-survey-11774338771977.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/Computer1_1698170126910_1774340581260.jpg",
       "published_at": "2026-03-24T08:09:32.000Z",
@@ -29,7 +43,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మార్చిలో ప్రైవేట్ రంగ ఉత్పత్తి వృద్ధి బలహీనం: PMI సర్వే",
-      "summary_te": "పశ్చిమాసియా యుద్ధం ఎనర్జీ షాక్‌ని ప్రేరేపించి దేశీయ డిమాండ్‌ను తగ్గించడంతో భారతదేశ ప్రైవేట్ రంగ వృద్ధి మార్చిలో బహుళ సంవత్సరాల కనిష్టానికి పడిపోయింది.",
+      "summary_te": "పశ్చిమాసియా యుద్ధం ఎనర్జీ షాక్‌ని ప్రేరేపించి దేశీయ డిమాండ్‌ను తగ్గించడంతో భారతదేశ ప్రైవేట్ రంగ వృద్ధి మార్చిలో బహుళ సంవత్సరాల కనిష్టానికి పడిపోయింది. రికార్డు స్థాయిలో ఎగుమతి ఆర్డర్‌లు ఉన్నప్పటికీ, పెరుగుతున్న ఇన్‌పుట్ ఖర్చులు మరియు కరెన్సీ అస్థిరత మార్జిన్‌లను తగ్గించడం మరియు కొత్త ఆర్థిక సంవత్సరపు ఔట్‌లుక్‌ను మబ్బుగా మారుస్తున్నాయి.",
       "translated": true
     },
     {
@@ -408,20 +422,6 @@
       "language": "en",
       "title_te": "శీతలీకరణ యుద్ధ ప్రమాదాల మధ్య దలాల్ స్ట్రీట్ 3–4% రిలీఫ్ ర్యాలీకి సిద్ధమైంది",
       "summary_te": "భారతీయ స్టాక్ మార్కెట్లు సోమవారం గణనీయమైన తిరోగమనాన్ని చవిచూశాయి, ప్రధాన సూచీలు బాగా పడిపోయాయి మరియు గణనీయమైన మార్కెట్ విలువను తొలగించాయి. ఈ క్షీణతకు పశ్చిమాసియా శత్రుత్వాలు మరియు ప్రపంచ అనిశ్చితి కారణంగా చెప్పబడింది. ఏది ఏమైనప్పటికీ, ఇరాన్‌కు సంబంధించి US అధ్యక్షుడి నుండి సామరస్యపూర్వక వ్యాఖ్యలను అనుసరించి మంగళవారం ఒక సంభావ్య సహాయక ర్యాలీని అంచనా వేయబడింది.",
-      "translated": true
-    },
-    {
-      "id": "f6e27d39f2ce40c93850e1b79d0eb22c",
-      "title": "Senate approves Trump loyalist Markwayne Mullin as next DHS secretary",
-      "summary": "Markwayne Mullin was confirmed Department of Homeland Security secretary, placing the Oklahoma senator in charge of a Trump administration immigration crackdown that has triggered a 37-day funding shutdown of the cabinet agency.",
-      "url": "https://www.livemint.com/news/us-news/senate-approves-donald-trump-loyalist-markwayne-mullin-as-next-dhs-secretary-to-replace-kristi-noem-11774313428118.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/hqdefault_live_1774315672881_1774315677292.jpg",
-      "published_at": "2026-03-24T00:57:22.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ట్రంప్ విధేయుడు మార్క్‌వేన్ ముల్లిన్‌ను తదుపరి DHS కార్యదర్శిగా సెనేట్ ఆమోదించింది",
-      "summary_te": "మార్క్‌వేన్ ముల్లిన్ డిపార్ట్‌మెంట్ ఆఫ్ హోమ్‌ల్యాండ్ సెక్యూరిటీ సెక్రటరీగా ధృవీకరించబడ్డారు, ట్రంప్ పరిపాలన ఇమ్మిగ్రేషన్ అణిచివేతకు ఓక్లహోమా సెనేటర్‌ను ఇన్‌ఛార్జ్‌గా ఉంచారు, ఇది క్యాబినెట్ ఏజెన్సీకి 37 రోజుల నిధుల షట్‌డౌన్‌కు కారణమైంది.",
       "translated": true
     },
     {

@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T08:49:54.705Z",
-  "updated_at_IST": "24/3/2026, 2:19:54 pm",
+  "updated_at": "2026-03-24T09:56:35.236Z",
+  "updated_at_IST": "24/3/2026, 3:26:35 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "685efd053ea37a7ba42cd1d46269fd26",
+      "title": "Three youths, radicalised by ISIS, AQIS terror groups, arrested in Vijayawada",
+      "summary": "West Zone Assistant Commissioner of Police (ACP) N.S.V.K. Durga Rao is investigating the case",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-youths-radicalised-by-isis-aqis-terror-groups-arrested-in-vijayawada/article70778497.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8oclqq/article70778738.ece/alternates/LANDSCAPE_1200/iStock-1447145892.jpg",
+      "published_at": "2026-03-24T07:39:31.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "విజయవాడలో ISIS, AQIS తీవ్రవాద గ్రూపులకు చెందిన ముగ్గురు యువకులను అరెస్టు చేశారు",
+      "summary_te": "వెస్ట్ జోన్ అసిస్టెంట్ కమిషనర్ ఆఫ్ పోలీస్ (ఎసిపి) ఎన్.ఎస్.వి.కె. దుర్గారావు కేసు దర్యాప్తు చేస్తున్నారు",
+      "translated": true
+    },
     {
       "id": "90f12e709dce767a34039b619119f0e1",
       "title": "A.P. govt. tracking 760 projects, bunch of them to be grounded in April, says Nara Lokesh",

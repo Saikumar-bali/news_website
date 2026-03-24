@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-03-24T08:49:54.705Z",
-  "updated_at_IST": "24/3/2026, 2:19:54 pm",
+  "updated_at": "2026-03-24T09:56:35.236Z",
+  "updated_at_IST": "24/3/2026, 3:26:35 pm",
   "category": "sports",
   "count": 25,
   "articles": [
     {
-      "id": "dd20135e10841180db0d3c4f59650d2b",
-      "title": "RCB quick Yash Dayal to sit out IPL 2026",
-      "summary": "Director of cricket Mo Bobat confirmed the seamer was out for the entire season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528947.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/378800/378877.jpg",
-      "published_at": "2026-03-24T08:31:25.000Z",
+      "id": "7314069ce13667a3ffbccb42fc16325e",
+      "title": "Payne replaces Edwards at Sunrisers Hyderabad for IPL 2026",
+      "summary": "The 35-year-old England left-arm quick has recent success behind him having won this year's ILT20 and the BBL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528946.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/412400/412425.jpg",
+      "published_at": "2026-03-24T09:12:58.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "RCB త్వరితగతిన యశ్ దయాల్ IPL 2026 నుండి సిట్ అవుట్ అయ్యింది",
-      "summary_te": "సీమర్ మొత్తం సీజన్‌కు దూరంగా ఉన్నట్లు క్రికెట్ డైరెక్టర్ మో బోబాట్ ధృవీకరించారు",
+      "title_te": "IPL 2026 కోసం సన్‌రైజర్స్ హైదరాబాద్‌లో ఎడ్వర్డ్స్ స్థానంలో పేన్ వచ్చాడు",
+      "summary_te": "35 ఏళ్ల ఇంగ్లండ్ లెఫ్ట్ ఆర్మ్ శీఘ్ర ఈ సంవత్సరం ILT20 మరియు BBL గెలుచుకోవడం వెనుక ఇటీవల విజయం సాధించాడు.",
       "translated": true
     },
     {
@@ -24,12 +24,26 @@
       "summary": "Amanjot Kaur, G Kamalini and Vaishnavi Sharma have been left out",
       "url": "https://www.espncricinfo.com/ci/content/story/1528936.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414019.jpg",
-      "published_at": "2026-03-24T07:48:19.000Z",
+      "published_at": "2026-03-24T08:46:14.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "SA T20I పర్యటన కోసం కాష్వీ గౌతమ్, అనుష్క శర్మలను భారత్ ఎంపిక చేసింది",
       "summary_te": "అమన్‌జోత్ కౌర్, జి కమలిని, వైష్ణవి శర్మలకు చోటు దక్కలేదు",
+      "translated": true
+    },
+    {
+      "id": "dd20135e10841180db0d3c4f59650d2b",
+      "title": "RCB quick Yash Dayal to sit out IPL 2026",
+      "summary": "Director of cricket Mo Bobat confirmed the seamer was out for the entire season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528947.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/378800/378877.jpg",
+      "published_at": "2026-03-24T08:37:03.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "RCB త్వరితగతిన యశ్ దయాల్ IPL 2026 నుండి సిట్ అవుట్ అయ్యింది",
+      "summary_te": "సీమర్ మొత్తం సీజన్‌కు దూరంగా ఉన్నట్లు క్రికెట్ డైరెక్టర్ మో బోబాట్ ధృవీకరించారు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "Esterhuizen యొక్క 57 మరియు ఆల్-స్టార్ బౌలింగ్ ప్రదర్శన దక్షిణాఫ్రికాను సిరీస్-స్థాయి విజయానికి తీసుకువెళ్లింది",
       "summary_te": "దక్షిణాఫ్రికా 164 పరుగుల వద్ద ఆగిపోయినట్లు కనిపించింది, కానీ వారి బౌలర్లు తక్కువ బలం న్యూజిలాండ్‌పై స్ఫూర్తిదాయకమైన ప్రదర్శనను ప్రదర్శించారు.",
-      "translated": true
-    },
-    {
-      "id": "031649449bb6f997bdf43484dbfa1073",
-      "title": "Four Tests in four weeks to challenge Australia, New Zealand quicks",
-      "summary": "Australia's men will also host England for white-ball cricket while the women will face Bangladesh and New Zealand",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528605.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/376900/376910.jpg",
-      "published_at": "2026-03-22T08:54:47.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆస్ట్రేలియా, న్యూజిలాండ్ త్వరితగతిన సవాల్ చేసేందుకు నాలుగు వారాల్లో నాలుగు టెస్టులు",
-      "summary_te": "ఆస్ట్రేలియా పురుషులు కూడా వైట్-బాల్ క్రికెట్ కోసం ఇంగ్లాండ్‌కు ఆతిథ్యం ఇవ్వగా, మహిళలు బంగ్లాదేశ్ మరియు న్యూజిలాండ్‌లతో తలపడతారు",
       "translated": true
     }
   ]

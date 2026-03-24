@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T08:49:54.705Z",
-  "updated_at_IST": "24/3/2026, 2:19:54 pm",
+  "updated_at": "2026-03-24T09:56:35.236Z",
+  "updated_at_IST": "24/3/2026, 3:26:35 pm",
   "category": "telangana",
-  "count": 23,
+  "count": 24,
   "articles": [
+    {
+      "id": "de8a6609cf3dad934dfb9b1cd2c953b0",
+      "title": "Telangana DCA cautions against unsupervised semaglutide use amid rising drug demand for weight loss",
+      "summary": "The DCA warned against procuring the drug through unregulated online platforms or unauthorised sellers, noting that such products could be spurious, substandard or unsafe",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-dca-cautions-against-unsupervised-semaglutide-use-amid-rising-drug-demand-for-weight-loss/article70778664.ece",
+      "image": "https://th-i.thgim.com/public/incoming/gyr8cf/article70778679.ece/alternates/LANDSCAPE_1200/iStock-1743274641.jpg",
+      "published_at": "2026-03-24T07:29:33.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "బరువు తగ్గడానికి డ్రగ్ డిమాండ్ పెరుగుతున్న నేపథ్యంలో పర్యవేక్షించబడని సెమాగ్లుటైడ్ వాడకంపై తెలంగాణ DCA హెచ్చరించింది",
+      "summary_te": "క్రమబద్ధీకరించబడని ఆన్‌లైన్ ప్లాట్‌ఫారమ్‌లు లేదా అనధికారిక అమ్మకందారుల ద్వారా డ్రగ్‌ను సేకరించకుండా DCA హెచ్చరించింది, అటువంటి ఉత్పత్తులు నకిలీవి, నాసిరకం లేదా సురక్షితం కాదని పేర్కొంది.",
+      "translated": true
+    },
     {
       "id": "9b11eba8a141d4921b6ea8d5c734405e",
       "title": "Release benefits of all retired employees by April 9: HC to Telangana Govt",
