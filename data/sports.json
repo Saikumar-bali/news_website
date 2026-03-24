@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-24T18:00:16.516Z",
-  "updated_at_IST": "24/3/2026, 11:30:16 pm",
+  "updated_at": "2026-03-24T18:56:37.379Z",
+  "updated_at_IST": "25/3/2026, 12:26:37 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "617d15c837bdbe96729690331a82a18a",
+      "title": "RCB sold for USD 1.78 billion to consortium comprising Aditya Birla Group, Times of India",
+      "summary": "Both men's and women's teams will now be \"owned and operated\" by the consortium",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529082.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401694.jpg",
+      "published_at": "2026-03-24T18:40:15.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
+      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియం ద్వారా \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
+      "translated": true
+    },
+    {
+      "id": "c7af2005bca267bdbcbc03ae26556446",
+      "title": "IPL 2026: Spencer Johnson replaces injured Nathan Ellis at CSK",
+      "summary": "Johnson however hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
+      "published_at": "2026-03-24T18:16:17.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026: CSKలో గాయపడిన నాథన్ ఎల్లిస్ స్థానంలో స్పెన్సర్ జాన్సన్ వచ్చాడు",
+      "summary_te": "జాన్సన్ అయితే గత సంవత్సరం IPL నుండి, అతను వెన్ను గాయంతో బాధపడ్డప్పటి నుండి టాప్-ఫ్లైట్ క్రికెట్ ఆడలేదు",
+      "translated": true
+    },
     {
       "id": "d00b7cb15cfad1d54f753301895602f1",
       "title": "Duckett pulls out of IPL 2026 to focus on Test revival",
@@ -16,20 +44,6 @@
       "language": "en",
       "title_te": "టెస్ట్ పునరుద్ధరణపై దృష్టి పెట్టడానికి డకెట్ IPL 2026 నుండి వైదొలిగాడు",
       "summary_te": "డకెట్ ఇంతకు ముందు IPLలో ఆడలేదు మరియు ఢిల్లీ క్యాపిటల్స్ ద్వారా INR 2 కోట్లకు సంతకం చేశాడు.",
-      "translated": true
-    },
-    {
-      "id": "c7af2005bca267bdbcbc03ae26556446",
-      "title": "IPL 2026: Spencer Johnson replaces injured Nathan Ellis at CSK",
-      "summary": "Johnson however hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
-      "published_at": "2026-03-24T13:36:42.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026: CSKలో గాయపడిన నాథన్ ఎల్లిస్ స్థానంలో స్పెన్సర్ జాన్సన్ వచ్చాడు",
-      "summary_te": "జాన్సన్ అయితే గత సంవత్సరం IPL నుండి, అతను వెన్ను గాయంతో బాధపడ్డప్పటి నుండి టాప్-ఫ్లైట్ క్రికెట్ ఆడలేదు",
       "translated": true
     },
     {
@@ -225,7 +239,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -336,22 +350,8 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'అనూహ్యమైనది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "1e640cd496b6bac3ee50abef79fc74c3",
-      "title": "Lahore and Karachi to host all PSL 2026 games",
-      "summary": "While the PCB has reduced the venues from six to two, the schedule for the games remains unchanged",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528753.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397070.jpg",
-      "published_at": "2026-03-22T16:06:00.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "లాహోర్ మరియు కరాచీ అన్ని PSL 2026 గేమ్‌లకు ఆతిథ్యం ఇస్తాయి",
-      "summary_te": "పిసిబి వేదికలను ఆరు నుండి రెండుకి తగ్గించినప్పటికీ, ఆటల షెడ్యూల్ మారలేదు",
       "translated": true
     }
   ]
