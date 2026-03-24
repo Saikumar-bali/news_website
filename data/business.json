@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T19:58:13.341Z",
-  "updated_at_IST": "25/3/2026, 1:28:13 am",
+  "updated_at": "2026-03-24T20:41:33.076Z",
+  "updated_at_IST": "25/3/2026, 2:11:33 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "b8a859d962b27ce02e5563e426296679",
+      "title": "Safety System Failed to Alert LaGuardia Tower Before Fatal Crash",
+      "summary": "A system designed to help air-traffic controllers monitor vehicles and airplanes on the ground failed to alert personnel at LaGuardia Airport before an Air Canada Express jet collided with a fire truck late Sunday evening, killing the two pilots.",
+      "url": "https://www.livemint.com/news/safety-system-failed-to-alert-laguardia-tower-before-fatal-crash-11774383163176.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
+      "published_at": "2026-03-24T20:12:42.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఫాటల్ క్రాష్‌కు ముందు లాగ్వార్డియా టవర్‌ని హెచ్చరించడంలో భద్రతా వ్యవస్థ విఫలమైంది",
+      "summary_te": "ఆదివారం సాయంత్రం ఎయిర్ కెనడా ఎక్స్‌ప్రెస్ జెట్ అగ్నిమాపక ట్రక్కును ఢీకొనడానికి ముందు లాగార్డియా విమానాశ్రయంలో సిబ్బందిని అప్రమత్తం చేయడంలో ఎయిర్-ట్రాఫిక్ కంట్రోలర్‌లకు సహాయం చేయడానికి రూపొందించిన వ్యవస్థ, ఇద్దరు పైలట్‌లు మరణించారు.",
+      "translated": true
+    },
     {
       "id": "6cc76a807e907f9568dc1064f5049499",
       "title": "US-Iran backchannel contacts underway, Tehran open to ‘sustainable’ deal: Report",
@@ -48,7 +62,7 @@
     },
     {
       "id": "b9a64a702588346412be8b567d466f50",
-      "title": "Sonia Gandhi hospitalised in Delhi after feeling unwell due to weather change, kept under observation",
+      "title": "Sonia Gandhi hospitalised in Delhi after feeling unwell, kept under observation",
       "summary": "Gandhi was admitted to hospital late Tuesday evening after feeling unwell, news agency PTI reported citing sources.",
       "url": "https://www.livemint.com/news/india/sonia-gandhi-admitted-to-hospital-in-delhi-amid-respiratory-concerns-reports-11774375906301.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/ANI-20251205456-0_1765261530274_1765261635729_1774376050111.jpg",
@@ -56,7 +70,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "వాతావరణ మార్పుల కారణంగా అస్వస్థతకు గురైన సోనియా గాంధీ ఢిల్లీలో ఆసుపత్రిలో చేరారు, పరిశీలనలో ఉంచారు",
+      "title_te": "సోనియా గాంధీ అస్వస్థతకు గురికావడంతో ఢిల్లీలోని ఆసుపత్రిలో చేరారు, పరిశీలనలో ఉంచారు",
       "summary_te": "మంగళవారం సాయంత్రం అస్వస్థతకు గురై గాంధీ ఆసుపత్రిలో చేరినట్లు వార్తా సంస్థ పిటిఐ వర్గాలు ఉటంకిస్తూ నివేదించాయి.",
       "translated": true
     },
@@ -380,20 +394,6 @@
       "language": "en",
       "title_te": "జెస్సికా చస్టెయిన్ యొక్క కోట్ ఆఫ్ ది డే: 'స్త్రీత్వం బలహీనత కాదని మనం అర్థం చేసుకోవాలి'",
       "summary_te": "జెస్సికా చస్టెయిన్ ఒకసారి స్త్రీత్వం తరచుగా బలహీనతగా తప్పుగా చూడబడుతుందని చెప్పింది. ఆమె ప్రసిద్ధ కోట్‌లలో ఒకటి మూస పద్ధతులను సవాలు చేయవలసిన అవసరాన్ని కూడా హైలైట్ చేసింది మరియు బలం అనేక రూపాలను తీసుకుంటుందని గుర్తించి, లింగం మరియు సమానత్వంపై విస్తృత సంభాషణలకు దారితీసింది.",
-      "translated": true
-    },
-    {
-      "id": "4f6b69133bda4cc13767153efbcd935c",
-      "title": "Quote of the Day by Albert Einstein: ‘Imagination is more important than knowledge’",
-      "summary": "Albert Einstein articulated his most enduring philosophy during a pivotal 1929 interview with poet and journalist George Sylvester Viereck for The Saturday Evening Post.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-albert-einstein-imagination-is-more-important-than-knowledge-11774361446721.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/im-973085_1719317834658_1774362406591.jpg",
-      "published_at": "2026-03-24T14:28:07.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆల్బర్ట్ ఐన్‌స్టీన్ రాసిన కోట్ ఆఫ్ ది డే: 'జ్ఞానం కంటే ఊహ చాలా ముఖ్యం'",
-      "summary_te": "ది సాటర్డే ఈవినింగ్ పోస్ట్ కోసం కవి మరియు పాత్రికేయుడు జార్జ్ సిల్వెస్టర్ వియెరెక్‌తో 1929లో కీలకమైన ఇంటర్వ్యూలో ఆల్బర్ట్ ఐన్‌స్టీన్ తన అత్యంత శాశ్వతమైన తత్వశాస్త్రాన్ని వివరించాడు.",
       "translated": true
     },
     {
