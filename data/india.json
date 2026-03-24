@@ -1,9 +1,121 @@
 {
-  "updated_at": "2026-03-24T22:33:00.917Z",
-  "updated_at_IST": "25/3/2026, 4:03:00 am",
+  "updated_at": "2026-03-24T23:33:29.608Z",
+  "updated_at_IST": "25/3/2026, 5:03:29 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "c92c86ecc7761cea42ada61fe9ac6ce4",
+      "title": "In Rajya Sabha, PM Modi warns of prolonged disruption",
+      "summary": "Prime Minister Modi has cautioned about a prolonged disruption stemming from the West Asia conflict. He stated this crisis will be a major test for India, potentially leading to an energy crisis and serious global economic consequences.",
+      "url": "https://timesofindia.indiatimes.com/india/in-rajya-sabha-pm-warns-of-prolonged-disruption/articleshow/129788964.cms",
+      "image": "https://static.toiimg.com/photo/msid-129788976,imgsize-831801.cms",
+      "published_at": "2026-03-24T22:59:06.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాజ్యసభలో, ప్రధాని మోదీ సుదీర్ఘ అంతరాయం గురించి హెచ్చరించారు",
+      "summary_te": "పశ్చిమాసియా వివాదాల కారణంగా ఏర్పడిన సుదీర్ఘ అంతరాయం గురించి ప్రధాని మోదీ హెచ్చరించారు. ఈ సంక్షోభం భారతదేశానికి ప్రధాన పరీక్ష అని, ఇది శక్తి సంక్షోభానికి మరియు తీవ్రమైన ప్రపంచ ఆర్థిక పరిణామాలకు దారితీసే అవకాశం ఉందని ఆయన పేర్కొన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "b1eb2a157ddac98a9fd4b22bca1ea687",
+      "title": "SC grants full pension to women denied permanent commission",
+      "summary": "The Supreme Court has ordered the armed forces to pay full pension to hundreds of women short service commission officers whose permanent commission was unfairly denied due to arbitrary ACR assessments.",
+      "url": "https://timesofindia.indiatimes.com/india/sc-grants-full-pension-to-women-denied-permanent-commission/articleshow/129788945.cms",
+      "image": "https://static.toiimg.com/photo/msid-129788948,imgsize-1304329.cms",
+      "published_at": "2026-03-24T22:52:34.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఎస్సీ మహిళలకు పూర్తి పెన్షన్ మంజూరు చేసింది శాశ్వత కమిషన్ నిరాకరించబడింది",
+      "summary_te": "ఏకపక్ష ACR అంచనాల కారణంగా శాశ్వత కమిషన్‌ను అన్యాయంగా తిరస్కరించిన వందలాది మంది మహిళా షార్ట్ సర్వీస్ కమిషన్ అధికారులకు పూర్తి పెన్షన్ చెల్లించాలని సాయుధ బలగాలను సుప్రీంకోర్టు ఆదేశించింది.",
+      "translated": true
+    },
+    {
+      "id": "0bffcfb62b798f9b9fd7ca815fe630bd",
+      "title": "Meta Ordered To Pay $375 Million Over Child Exploitation, User Safety Claims",
+      "summary": "A New Mexico jury on Tuesday found social media giant Meta liable for endangering children by making them vulnerable to predators on its platforms and other dangers.",
+      "url": "https://www.ndtv.com/world-news/meta-ordered-to-pay-375-million-over-child-exploitation-user-safety-claims-11262371#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-04/fvnvpaig_mark-zuckerberg-_625x300_17_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-24T22:43:48.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "చైల్డ్ ఎక్స్‌ప్లోటేషన్, యూజర్ సేఫ్టీ క్లెయిమ్‌లపై $375 మిలియన్ చెల్లించాలని మెటా ఆదేశించింది",
+      "summary_te": "న్యూ మెక్సికో జ్యూరీ మంగళవారం సోషల్ మీడియా దిగ్గజం మెటా తన ప్లాట్‌ఫారమ్‌లపై వేటాడే జంతువులకు మరియు ఇతర ప్రమాదాల బారిన పడేలా చేయడం ద్వారా పిల్లలను అపాయంలోకి తీసుకువెళుతుందని నిర్ధారించింది.",
+      "translated": true
+    },
+    {
+      "id": "cf763cd384132e572d9d7b8683ff92e3",
+      "title": "SC: Trials in UAPA cases must be completed in 1 year",
+      "summary": "The Supreme Court mandated that UAPA cases investigated by the NIA must conclude within a year through exclusive special courts. States must identify court needs and appoint dedicated prosecutors. The Centre offers funding for these courts, aiming to expedite trials and address bail concerns. Delhi leads in pending NIA cases.",
+      "url": "https://timesofindia.indiatimes.com/india/sc-trials-in-uapa-cases-must-be-completed-in-1-year/articleshow/129788792.cms",
+      "image": "https://static.toiimg.com/photo/msid-129788859,imgsize-703965.cms",
+      "published_at": "2026-03-24T22:42:29.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "SC: UAPA కేసుల్లో విచారణలు తప్పనిసరిగా 1 సంవత్సరంలో పూర్తి కావాలి",
+      "summary_te": "ఎన్‌ఐఏ దర్యాప్తు చేస్తున్న యూఏపీఏ కేసులను ప్రత్యేక కోర్టుల ద్వారా ఏడాదిలోగా ముగించాలని సుప్రీంకోర్టు ఆదేశించింది. రాష్ట్రాలు కోర్టు అవసరాలను గుర్తించి, ప్రత్యేక ప్రాసిక్యూటర్లను నియమించాలి. విచారణలను వేగవంతం చేయడం మరియు బెయిల్ సమస్యలను పరిష్కరించడం లక్ష్యంగా కేంద్రం ఈ కోర్టులకు నిధులను అందిస్తుంది. పెండింగ్‌లో ఉన్న ఎన్‌ఐఏ కేసుల్లో ఢిల్లీ ముందుంది.",
+      "translated": true
+    },
+    {
+      "id": "711c5764cda87f4dc2bc8a49b19f48fb",
+      "title": "US Sends Iran A 15-Point Plan To End War: Report",
+      "summary": "The New York Times, quoting two anonymous officials, said that the proposal was sent to Iran via Pakistan, which has offered to mediate.",
+      "url": "https://www.ndtv.com/world-news/iran-war-us-sends-iran-a-15-point-plan-to-end-war-report-11262346#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/h12qe4ac_donald-trump-photo-appti_625x300_10_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-24T22:25:49.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "యుద్ధాన్ని ముగించేందుకు ఇరాన్‌కు 15 పాయింట్ల ప్రణాళికను అమెరికా పంపింది: నివేదిక",
+      "summary_te": "న్యూయార్క్ టైమ్స్, ఇద్దరు అనామక అధికారులను ఉటంకిస్తూ, ఈ ప్రతిపాదనను పాకిస్తాన్ ద్వారా ఇరాన్‌కు పంపిందని, అది మధ్యవర్తిత్వం వహించడానికి ముందుకొచ్చింది.",
+      "translated": true
+    },
+    {
+      "id": "7df9a423c94068fa62bffac4ee0b7176",
+      "title": "Civils '25: OBCs pip EWS despite interview drag",
+      "summary": "In a shift from previous trends, Other Backward Classes (OBC) candidates outperformed Economically Weaker Sections (EWS) in the 2025 Civil Service Examinations final merit list. Despite lower interview scores, OBCs' strong performance in written exams secured them a higher overall cut-off than EWS, reversing a recent pattern.",
+      "url": "https://timesofindia.indiatimes.com/india/civils-25-obcs-pip-ews-despite-interview-drag/articleshow/129788343.cms",
+      "image": "https://static.toiimg.com/photo/msid-129788598,imgsize-2664860.cms",
+      "published_at": "2026-03-24T22:25:27.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "సివిల్స్ '25: ఇంటర్వ్యూ డ్రాగ్ అయినప్పటికీ OBCలు EWSని పిప్ చేస్తారు",
+      "summary_te": "మునుపటి ట్రెండ్‌ల నుండి మార్పులో, ఇతర వెనుకబడిన తరగతుల (OBC) అభ్యర్థులు 2025 సివిల్ సర్వీస్ పరీక్షల తుది మెరిట్ జాబితాలో ఆర్థికంగా వెనుకబడిన విభాగాల (EWS) కంటే మెరుగైన పనితీరు కనబరిచారు. తక్కువ ఇంటర్వ్యూ స్కోర్లు ఉన్నప్పటికీ, వ్రాత పరీక్షలలో OBCల యొక్క బలమైన పనితీరు వారికి EWS కంటే ఎక్కువ మొత్తం కట్-ఆఫ్‌ను అందించింది, ఇది ఇటీవలి నమూనాను తిప్పికొట్టింది.",
+      "translated": true
+    },
+    {
+      "id": "dd4174c9c48e8bb6c9c6b9b60f51e6d4",
+      "title": "SC: SIR in many states, but Bengal alone has so many issues with it",
+      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/sc-sir-in-many-states-but-bengal-alone-has-so-many-issues-with-it/articleshow/129787773.cms",
+      "image": "https://static.toiimg.com/photo/msid-129787993,imgsize-1696390.cms",
+      "published_at": "2026-03-24T22:17:22.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఎస్సీ: అనేక రాష్ట్రాల్లో SIR, కానీ బెంగాల్‌లో మాత్రమే చాలా సమస్యలు ఉన్నాయి",
+      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
+    {
+      "id": "64dca6933a42d07a6ff1ad941e413b02",
+      "title": "Who is Frances Tiafoe's girlfriend Ayan Broomfield? Tennis star who stayed through his rise",
+      "summary": "Frances Tiafoe and Ayan Broomfield have been together since 2015, growing through every stage of life and tennis. While Tiafoe rises in global rankings, Broomfield has her own strong background in college and professional tennis. From big wins to personal moments, their relationship shows steady support, long-term commitment, and a journey built on trust and shared dreams.",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/who-is-frances-tiafoes-girlfriend-ayan-broomfield-tennis-star-who-stayed-through-his-rise-since-2015/articleshow/129786959.cms",
+      "image": "https://static.toiimg.com/photo/msid-129786953,imgsize-990074.cms",
+      "published_at": "2026-03-24T22:01:24.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఫ్రాన్సిస్ టియాఫో స్నేహితురాలు అయాన్ బ్రూమ్‌ఫీల్డ్ ఎవరు? తన ఎదుగుదలను నిలబెట్టుకున్న టెన్నిస్ స్టార్",
+      "summary_te": "ఫ్రాన్సెస్ టియాఫో మరియు అయాన్ బ్రూమ్‌ఫీల్డ్ 2015 నుండి కలిసి ఉన్నారు, జీవితంలో మరియు టెన్నిస్‌లోని ప్రతి దశలోనూ అభివృద్ధి చెందుతున్నారు. Tiafoe గ్లోబల్ ర్యాంకింగ్స్‌లో ఎదుగుతుండగా, బ్రూమ్‌ఫీల్డ్ కాలేజీ మరియు ప్రొఫెషనల్ టెన్నిస్‌లో తన స్వంత బలమైన నేపథ్యాన్ని కలిగి ఉంది. పెద్ద విజయాల నుండి వ్యక్తిగత క్షణాల వరకు, వారి సంబంధం స్థిరమైన మద్దతు, దీర్ఘకాలిక నిబద్ధత మరియు నమ్మకం మరియు భాగస్వామ్య కలలపై నిర్మించిన ప్రయాణాన్ని చూపుతుంది.",
+      "translated": true
+    },
     {
       "id": "a5151399809a736c4aab0ef07310cc01",
       "title": "Tamil Nadu Assembly election 2026: TMC(M) gets five seats in NDA, to contest on BJP's 'Lotus' symbol",
@@ -127,7 +239,7 @@
       "category": "india",
       "language": "en",
       "title_te": "అమెరికా, ఇజ్రాయెల్ తమ అణు కేంద్రంపై మళ్లీ దాడి చేశాయని ఇరాన్ పేర్కొంది",
-      "summary_te": "ఇరాన్ యుద్ధం: ఇరాన్ యొక్క అణు శక్తి సంస్థ మంగళవారం అమెరికా మరియు ఇజ్రాయెల్ తమ బుషెహర్ అణు విద్యుత్ కేంద్రంపై దాడి చేశాయని ఆరోపించింది.",
+      "summary_te": "ఇరాన్ యుద్ధం: ఇరాన్ అణు శక్తి సంస్థ మంగళవారం అమెరికా మరియు ఇజ్రాయెల్ తమ బుషెహర్ అణు విద్యుత్ ప్లాంట్‌పై దాడి చేశాయని ఆరోపించింది.",
       "translated": true
     },
     {
@@ -168,7 +280,7 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "చినూక్ వెస్ట్రన్ సెక్టార్‌లో ఆర్మీ యొక్క హెవీ-డ్యూటీ అసాల్ట్ బ్రిడ్జిని మోహరించాడు",
+      "title_te": "చినూక్ పశ్చిమ సెక్టార్‌లో ఆర్మీ యొక్క హెవీ-డ్యూటీ అసాల్ట్ బ్రిడ్జిని మోహరించాడు",
       "summary_te": "భారత సైన్యం మరియు వైమానిక దళం చినూక్ హెలికాప్టర్‌ను ఉపయోగించి పాంటూన్ అసాల్ట్ బ్రిడ్జిని విజయవంతంగా మోహరించింది. ఈ ఉమ్మడి వ్యాయామం అతుకులు లేని సమన్వయం మరియు మెరుగైన యుద్ధభూమి చలనశీలతను ప్రదర్శించింది. ప్రమాదకర కార్యకలాపాలకు మరియు విపత్తు ఉపశమనానికి కీలకమైన వేగవంతమైన నదిని దాటడానికి సామర్థ్యం అనుమతిస్తుంది. ఈ వేగవంతమైన విస్తరణలో బహుముఖ చినూక్ హెలికాప్టర్ కీలక పాత్ర పోషించింది.",
       "translated": true
     },
@@ -211,7 +323,7 @@
       "category": "india",
       "language": "en",
       "title_te": "టి.ఎన్. ఎన్నికలు 2026: కురింజిపాడి నియోజకవర్గ ఓటర్లు కాలుష్యరహిత, వ్యవసాయ ఆధారిత పారిశ్రామిక ప్రోత్సాహాన్ని కోరుకుంటున్నారు",
-      "summary_te": "కురింజిపాడులో హ్యాట్రిక్‌ సాధించాలనే లక్ష్యంతో మంత్రి ఎంఆర్‌కే పన్నీర్‌సెల్వం పోటీలో ఉన్నారు. టి.వెల్మురుగన్ నేతృత్వంలోని తమిళగ వాజ్వురిమై కట్చి, ఇప్పుడు డిఎంకె నేతృత్వంలోని కూటమి నుండి వైదొలిగి, కురింజిపాడి, కుల్లంచవాడి వంటి ప్రాంతాల్లో డిఎంకె ఓట్లను చీల్చగలదని డిఎంకె నేతృత్వంలోని ప్రజాస్వామ్య ప్రగతిశీల కూటమి తెలుసుకోవాలి.",
+      "summary_te": "కురింజిపాడులో హ్యాట్రిక్‌ సాధించాలనే లక్ష్యంతో మంత్రి ఎంఆర్‌కే పన్నీర్‌సెల్వం పోటీలో ఉన్నారు. టి.వెల్మురుగన్ నేతృత్వంలోని తమిళగ వాజ్వురిమై కట్చి, ఇప్పుడు డిఎంకె నేతృత్వంలోని కూటమి నుండి వైదొలిగి, కురింజిపాడి మరియు కుల్లంచవాడి వంటి ప్రాంతాలలో డిఎంకె ఓట్లను చీల్చగలదని డిఎంకె నేతృత్వంలోని డెమోక్రటిక్ ప్రోగ్రెసివ్ అలయన్స్ తెలుసుకోవాలి.",
       "translated": true
     },
     {
@@ -267,7 +379,7 @@
       "category": "india",
       "language": "en",
       "title_te": "అసెంబ్లీలో యుసిసి బిల్లును ప్రవేశపెట్టినందున గుజరాత్ సిఎం సనాతన్ విలువలు, ఋగ్వేదాన్ని ప్రయోగించారు",
-      "summary_te": "UCC అమలుపై రాష్ట్రం నియమించిన ప్యానెల్ తన తుది నివేదికను సమర్పించిన వారం తర్వాత బిల్లును ముఖ్యమంత్రి భూపేంద్ర పటేల్ ప్రవేశపెట్టారు; వివాహం, వారసత్వం మరియు లివ్-ఇన్ సంబంధాల కోసం ఒక సాధారణ ఫ్రేమ్‌వర్క్‌ను బిల్లు ప్రతిపాదిస్తుంది",
+      "summary_te": "UCC అమలుపై రాష్ట్రం నియమించిన ప్యానెల్ తన తుది నివేదికను సమర్పించిన వారం తర్వాత ఈ బిల్లును ముఖ్యమంత్రి భూపేంద్ర పటేల్ ప్రవేశపెట్టారు; బిల్లు వివాహం, వారసత్వం మరియు లివ్-ఇన్ సంబంధాల కోసం ఒక సాధారణ ఫ్రేమ్‌వర్క్‌ను ప్రతిపాదిస్తుంది",
       "translated": true
     },
     {
@@ -364,8 +476,8 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "U.P.లో కాకోరి అమరవీరుల విగ్రహాలు ధ్వంసం; ఎదురుగా స్వాతంత్య్ర సమరయోధులను అవమానించడమే",
-      "summary_te": "షాజహాన్‌పూర్‌లో రోడ్డు నిర్మాణ పనుల్లో భాగంగా బుల్‌డోజర్‌తో కకోరి రైలు పోరాట అమరవీరుల విగ్రహాలను కూల్చివేశారు, దీనికి బాధ్యులైన వారిపై చర్యలు తీసుకోవాలని డిమాండ్ చేస్తూ మంగళవారం సమాజ్‌వాదీ పార్టీ (ఎస్పీ)తో సహా ప్రతిపక్ష పార్టీలు ఆగ్రహం వ్యక్తం చేశాయి. సందర్శించిన ప్రజాప్రతినిధులు పూలమాలలు వేసి నివాళులర్పించారు. వాటిని ఆదివారం రాత్రి కూల్చివేశారని ఆరోపించారు. విగ్రహాలను ధ్వంసం చేసి, చెత్తాచెదారంలో చెత్తాచెదారం పారేసినట్లు చూపుతున్న వీడియో సోషల్ మీడియాలో పోస్ట్ చేయడంతో తీవ్ర స్పందన వ్యక్తమైంది. స్వాతంత్య్ర సమరయోధులు రామ్ ప్రసాద్ బిస్మిల్, అష్ఫాఖుల్లా ఖాన్, రోషన్ సింగ్‌లను బ్రిటీష్ వారు డిసెంబర్ 19, 1927లో రైలులో దోపిడి చేస్తున్న క్రమంలో ఉరితీశారు. కకోరి, లక్నో.ఎస్పీ జిల్లా అధ్యక్షుడు తన్వీర్ ఖాన్ మున్సిపల్ చైర్మన్‌గా ఉన్న సమయంలో ఏర్పాటు చేసిన తన పేరుతో ఉన్న శిలాఫలకాన్ని తొలగించేందుకే విగ్రహాలను కూల్చివేశారని ఆరోపించారు. అతను ఈ సంఘటనను \"అమరవీరులకు అవమానంగా\" అభివర్ణించాడు మరియు పరిపాలన ఏకపక్షంగా వ్యవహరిస్తోందని ఆరోపించారు.'అంతరాయం కలిగించే మనస్తత్వం' అదే సమయంలో, SP చీఫ్ అఖిలేష్ యాదవ్ మాట్లాడుతూ, అమరవీరులకు గౌరవం కంటే సుందరీకరణ ఎన్నటికీ ప్రాధాన్యత ఇవ్వదు. X పై ఒక వార్తా నివేదికను పంచుకుంటూ, SP చీఫ్ కూల్చివేతను ఖండించారు, ఇది \"అంతరాయం కలిగించే మనస్తత్వం\" యొక్క ప్రతిబింబం అని పేర్కొన్నారు.U.P. కూల్చివేతకు బాధ్యులైన వారిపై కఠిన చర్యలు తీసుకోవాలని కాంగ్రెస్ చీఫ్ అజయ్ రాయ్ డిమాండ్ చేశారు. \"అమరవీరులను అవమానిస్తే భారతదేశం సహించదు. చాలా సిగ్గుచేటు. షాజహాన్‌పూర్‌లోని అమరవీరుల భూమిలో, అమరవీరుల దినోత్సవం రోజున, బిజెపి ప్రభుత్వ మున్సిపల్ కార్పొరేషన్ ఈ బుల్డోజర్‌ను పండిత్ ఖాన్‌లా రాంప్రస్ద్క్, పండిత్ ఖన్‌ఖాన్‌రాంప్రస్ద్క్ వంటి గొప్ప అమరవీరుల విగ్రహాలపై బుల్డోజర్ నడిపింది. ఇది కేవలం విగ్రహాలను అవమానించడమే కాకుండా దేశ స్వాతంత్య్రం కోసం ప్రాణత్యాగం చేసిన 145 కోట్ల మంది భారతీయుల మనోభావాలను అవమానించడమే కాకుండా బాధ్యులైన అధికారులపై తక్షణమే కఠిన చర్యలు తీసుకోవాలని ప్రతి కాంగ్రెస్ కార్యకర్త ఈ నియంతృత్వానికి వ్యతిరేకంగా ఉద్యమిస్తారని అన్నారు.",
+      "title_te": "U.P.లో కాకోరి అమరవీరుల విగ్రహాలు ధ్వంసం; ఎదురుగా స్వాతంత్య్ర సమరయోధులను అవమానించినట్లు పేర్కొంది",
+      "summary_te": "షాజహాన్‌పూర్‌లో రోడ్డు నిర్మాణ పనుల్లో భాగంగా బుల్‌డోజర్‌తో కకోరి రైలు పోరాట అమరవీరుల విగ్రహాలను కూల్చివేశారు, దీనికి బాధ్యులైన వారిపై చర్యలు తీసుకోవాలని డిమాండ్ చేస్తూ మంగళవారం సమాజ్‌వాదీ పార్టీ (ఎస్పీ)తో సహా ప్రతిపక్ష పార్టీలు ఆగ్రహం వ్యక్తం చేశాయి. సందర్శించిన ప్రజాప్రతినిధులు పూలమాలలు వేసి నివాళులర్పించారు. వాటిని ఆదివారం రాత్రి కూల్చివేశారని ఆరోపించారు. విగ్రహాలను ధ్వంసం చేసి, చెత్తాచెదారంలో చెత్తాచెదారం పారేసినట్లు చూపుతున్న వీడియో సోషల్ మీడియాలో పోస్ట్ చేయడంతో తీవ్ర స్పందన వ్యక్తమైంది. స్వాతంత్య్ర సమరయోధులు రామ్ ప్రసాద్ బిస్మిల్, అష్ఫాఖుల్లా ఖాన్, రోషన్ సింగ్‌లను బ్రిటీష్ వారు డిసెంబర్ 19, 1927లో రైలులో దోపిడి చేస్తున్న క్రమంలో ఉరితీశారు. కకోరి, లక్నో.ఎస్పీ జిల్లా అధ్యక్షుడు తన్వీర్ ఖాన్ మున్సిపల్ చైర్మన్‌గా ఉన్న సమయంలో ఏర్పాటు చేసిన తన పేరుతో ఉన్న శిలాఫలకాన్ని తొలగించేందుకే విగ్రహాలను కూల్చివేశారని ఆరోపించారు. అతను ఈ సంఘటనను \"అమరవీరులకు అవమానంగా\" అభివర్ణించాడు మరియు పరిపాలన ఏకపక్షంగా వ్యవహరిస్తోందని ఆరోపించారు.'అంతరాయం కలిగించే మనస్తత్వం' అదే సమయంలో, SP చీఫ్ అఖిలేష్ యాదవ్ మాట్లాడుతూ, అమరవీరులకు గౌరవం కంటే సుందరీకరణ ఎన్నటికీ ప్రాధాన్యత ఇవ్వదు. X పై ఒక వార్తా నివేదికను పంచుకుంటూ, SP చీఫ్ కూల్చివేతను ఖండించారు, ఇది \"అంతరాయం కలిగించే మనస్తత్వం\" యొక్క ప్రతిబింబం అని పేర్కొన్నారు.U.P. కూల్చివేతకు బాధ్యులైన వారిపై కఠిన చర్యలు తీసుకోవాలని కాంగ్రెస్ చీఫ్ అజయ్ రాయ్ డిమాండ్ చేశారు. \"అమరవీరులను అవమానిస్తే భారతదేశం సహించదు. చాలా సిగ్గుచేటు. షాజహాన్‌పూర్‌లోని అమరవీరుల భూమిలో, అమరవీరుల దినోత్సవం రోజున, బిజెపి ప్రభుత్వ మున్సిపల్ కార్పొరేషన్ ఈ బుల్డోజర్‌ను పండిత్ ఖాన్‌లా రాంప్రస్ద్క్, పండిత్ ఖన్‌ఖాన్‌రాంప్రస్ద్క్ వంటి గొప్ప అమరవీరుల విగ్రహాలపై బుల్డోజర్ నడిపింది. ఇది కేవలం విగ్రహాలను అవమానించడమే కాకుండా దేశ స్వాతంత్య్రం కోసం ప్రాణత్యాగం చేసిన ప్రతి యోధుని మనోభావాలను అవమానించడమే కాకుండా బాధ్యులైన అధికారులపై యోగి ప్రభుత్వం తక్షణమే కఠిన చర్యలు తీసుకోవాలని కోరారు.",
       "translated": true
     },
     {
@@ -379,7 +491,7 @@
       "category": "india",
       "language": "en",
       "title_te": "మోనాలిసా భోంస్లే మైనర్ బాలికలతో దర్శకుడు 'అసభ్యంగా' ప్రవర్తించాడని ఆరోపించింది",
-      "summary_te": "గత ఏడాది ప్రయాగ్‌రాజ్‌ కుంభమేళా సందర్భంగా మైనర్‌ బాలికలతో తనకు తెలిసిన సినీ దర్శకుడొకరు అసభ్యంగా ప్రవర్తించారని ఆరోపించిన యువతి మోనాలిసా భోంస్లే.. కేంద్ర, కేరళ, మధ్యప్రదేశ్‌ ప్రభుత్వాలను కూడా ఆశ్రయించిన ఆమె ఇక్కడ విలేకరుల సమావేశంలో ఆరోపించింది. దహనం చేయబడిందని మరియు ఆ జంటకు ప్రజల నుండి మరణ బెదిరింపులు వస్తున్నాయి. మహా కుంభంలో వైరల్ అయిన మహిళ కేరళలో మతాంతర వివాహం చేసుకుంది",
+      "summary_te": "గత ఏడాది ప్రయాగ్‌రాజ్ కుంభమేళా సందర్భంగా తనకు తెలిసిన సినీ దర్శకుడొకరు మైనర్ బాలికలతో సినిమాల పేరుతో అసభ్యంగా ప్రవర్తించారని ఆరోపించిన యువతి మోనాలిసా భోంస్లే.. కేంద్ర, కేరళ, మధ్యప్రదేశ్‌ ప్రభుత్వాలను కూడా ఆశ్రయించిన ఆమె ఇక్కడ విలేకరుల సమావేశంలో ఆరోపించింది. దహనం చేయబడిందని మరియు ఆ జంటకు ప్రజల నుండి మరణ బెదిరింపులు వస్తున్నాయని. మహా కుంభంలో వైరల్ అయిన మహిళ కేరళలో మతాంతర వివాహం చేసుకుంది",
       "translated": true
     },
     {
@@ -393,7 +505,7 @@
       "category": "india",
       "language": "en",
       "title_te": "MSME జాబ్ పోర్టల్ పరిశీలనలో ఉందని కర్ణాటక మంత్రి చెప్పారు",
-      "summary_te": "నిరుద్యోగ యువత వివరాలను పంచుకునేందుకు, సూక్ష్మ, చిన్న, మధ్యతరహా పరిశ్రమల్లో (ఎంఎస్‌ఎంఈ) ఉద్యోగావకాశాలు పొందేందుకు వీలుగా పోర్టల్‌ను రూపొందించే అవకాశాలపై కర్ణాటక ప్రభుత్వం అధికారులతో చర్చిస్తుందని చిన్న పరిశ్రమలు, ప్రభుత్వ రంగ సంస్థల శాఖ మంత్రి శరణబసప్ప దర్శనపూర్ మంగళవారం శాసన మండలిలో తెలిపారు. అయితే ఈ అంశంపై చర్చించి ప్రతిపాదనను పరిశీలించేందుకు అధికారులు, సభ్యుడితో కూడిన సమావేశం ఏర్పాటు చేయనున్నట్లు ఆయన తెలిపారు.",
+      "summary_te": "నిరుద్యోగ యువత వివరాలను పంచుకునేందుకు, సూక్ష్మ, చిన్న, మధ్యతరహా పరిశ్రమల్లో (ఎంఎస్‌ఎంఈ) ఉద్యోగావకాశాలు పొందేందుకు వీలుగా పోర్టల్‌ను రూపొందించే అవకాశాలపై కర్ణాటక ప్రభుత్వం అధికారులతో చర్చిస్తుందని చిన్న పరిశ్రమలు, ప్రభుత్వ రంగ సంస్థల శాఖ మంత్రి శరణబసప్ప దర్శనపూర్ మంగళవారం శాసన మండలిలో తెలిపారు. అయితే, ఈ అంశంపై చర్చించడానికి మరియు ప్రతిపాదనను పరిశీలించడానికి అధికారులు మరియు సభ్యుడితో కూడిన సమావేశాన్ని ఏర్పాటు చేస్తామని ఆయన చెప్పారు.",
       "translated": true
     },
     {
@@ -407,7 +519,7 @@
       "category": "india",
       "language": "en",
       "title_te": "కేరళ అసెంబ్లీ ఎన్నికలు 2026: అన్వర్, ఫిరోస్‌లకు వ్యతిరేకంగా నలుగురు పేరు ప్రత్యర్థులు ఉన్నారు",
-      "summary_te": "పి.వి. అన్వర్, యునైటెడ్ డెమోక్రటిక్ ఫ్రంట్ (UDF)-బేపూర్ అసెంబ్లీ నియోజకవర్గం నుండి స్వతంత్ర అభ్యర్థిగా మద్దతిచ్చిన మరియు P.K. కొడువల్లి నుంచి యూడీఎఫ్‌ అభ్యర్థి ఫిరోస్‌పై నలుగురు నేమ్‌సేక్‌లు ఉన్నారు. కొడువల్లి అసెంబ్లీ నియోజకవర్గంలో అత్యధికంగా 17 మంది అభ్యర్థులు బరిలో ఉన్నారు. మంగళవారం అసెంబ్లీ ఎన్నికల నామినేషన్ పత్రాల పరిశీలన ప్రక్రియ పూర్తయిన తర్వాత ఈ విషయం వెల్లడైంది. అయితే, నామినేషన్ల ఉపసంహరణకు చివరి తేదీ గురువారం కావడంతో అభ్యర్థుల సంఖ్య మరింత తగ్గే అవకాశం ఉంది. బేపూర్‌లో మిస్టర్ అన్వర్ కాకుండా ఒక అన్వర్ అలీ హసన్, మరో ముగ్గురు అన్వర్లు, అందరూ స్వతంత్రులు. ఆయన ప్రత్యర్థి, ప్రజాపనుల శాఖ మంత్రి పి.ఎ. మహమ్మద్ రియాస్‌కు ఒక మహ్మద్ రియాస్ పి.సి. అతనికి వ్యతిరేకంగా. మిస్టర్ ఫిరోస్ ప్రత్యర్థుల్లో ఒక ఫిరోజ్ మహమ్మద్, ఒక ఫిరోజ్ మరియు ఇద్దరు ఫిరోస్ ఉన్నారు. అయితే కోజికోడ్ సౌత్‌లో నామమాత్రపు అభ్యర్థులు లేరు మరియు మొత్తం అభ్యర్థుల సంఖ్య కేవలం నలుగురు మాత్రమే: టి. రనీష్, అహమ్మద్ దేవర్కోవిల్, ఫైసల్ బాబు మరియు హమీద్. జిల్లాలో మొత్తం 141 మంది అభ్యర్థులు 223 నామినేషన్ పత్రాలు దాఖలు చేశారు.",
+      "summary_te": "పి.వి. అన్వర్, యునైటెడ్ డెమోక్రటిక్ ఫ్రంట్ (యుడిఎఫ్)-బేపూర్ అసెంబ్లీ నియోజకవర్గం నుండి స్వతంత్ర అభ్యర్థిగా మద్దతిచ్చిన పి.కె. కొడువల్లి నుంచి యూడీఎఫ్‌ అభ్యర్థి ఫిరోస్‌పై నలుగురు పేర్లు ఉన్నాయి. కొడువల్లి అసెంబ్లీ నియోజకవర్గంలో అత్యధికంగా 17 మంది అభ్యర్థులు బరిలో ఉన్నారు. మంగళవారం అసెంబ్లీ ఎన్నికల నామినేషన్ పత్రాల పరిశీలన ప్రక్రియ పూర్తయిన తర్వాత ఈ విషయం వెల్లడైంది. అయితే, నామినేషన్ల ఉపసంహరణకు చివరి తేదీ గురువారం కావడంతో అభ్యర్థుల సంఖ్య మరింత తగ్గే అవకాశం ఉంది. బేపూర్‌లో మిస్టర్ అన్వర్ కాకుండా ఒక అన్వర్ అలీ హసన్, మరో ముగ్గురు అన్వర్లు, అందరూ స్వతంత్రులు. తన ప్రత్యర్థి, పబ్లిక్ వర్క్స్ మంత్రి పి.ఎ. మహమ్మద్ రియాస్‌కు ఒక మహ్మద్ రియాస్ పి.సి. అతనికి వ్యతిరేకంగా. మిస్టర్ ఫిరోస్ ప్రత్యర్థుల్లో ఒక ఫిరోజ్ మహమ్మద్, ఒక ఫిరోజ్ మరియు ఇద్దరు ఫిరోస్ ఉన్నారు. అయితే కోజికోడ్ సౌత్‌లో నామమాత్రపు అభ్యర్థులు లేరు మరియు మొత్తం అభ్యర్థుల సంఖ్య కేవలం నలుగురు మాత్రమే: టి. రనీష్, అహమ్మద్ దేవర్కోవిల్, ఫైసల్ బాబు మరియు హమీద్. జిల్లాలో మొత్తం 141 మంది అభ్యర్థులు 223 నామినేషన్ పత్రాలు దాఖలు చేశారు.",
       "translated": true
     },
     {
@@ -421,7 +533,7 @@
       "category": "india",
       "language": "en",
       "title_te": "సోనియా గాంధీ ఆసుపత్రి పాలయ్యారు",
-      "summary_te": "వాతావరణంలో మార్పుల కారణంగా ఆమె అస్వస్థతకు గురైందని, పరిశీలనలో ఉన్నామని వైద్యులు తెలిపారు",
+      "summary_te": "వాతావరణంలో మార్పు కారణంగా ఆమె అస్వస్థతకు గురైందని, అబ్జర్వేషన్‌లో ఉన్నామని వైద్యులు తెలిపారు",
       "translated": true
     },
     {
@@ -435,7 +547,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఒడిశాలో మిగిలిన చివరి మావోయిస్టు అగ్రనేత లొంగిపోయాడు",
-      "summary_te": "ఈ లొంగుబాటుతో, ఒడిశాలో చురుకైన వామపక్ష తీవ్రవాదుల సంఖ్య సింగిల్ డిజిట్‌కు పడిపోయిందని రాష్ట్రంలోని మావోయిస్టు వ్యతిరేక ఆపరేషన్ చీఫ్ సంజీబ్ పాండా చెప్పారు.",
+      "summary_te": "ఈ లొంగుబాటుతో ఒడిశాలో చురుకైన వామపక్ష తీవ్రవాదుల సంఖ్య సింగిల్ డిజిట్‌కు పడిపోయిందని రాష్ట్రంలోని మావోయిస్టు వ్యతిరేక ఆపరేషన్ చీఫ్ సంజీబ్ పాండా చెప్పారు.",
       "translated": true
     },
     {
@@ -448,8 +560,8 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "టి.ఎన్. అసెంబ్లీ ఎన్నికలు: తిరుత్తణి నియోజకవర్గ నివాసితులు తమ జీవనోపాధిని మెరుగుపరచుకోవడానికి మరింత మద్దతును కోరుతున్నారు",
-      "summary_te": "ఇటీవల ఉత్పాదక సంస్థను ఏర్పాటు చేసి మినుములను సాగు చేయడం ప్రారంభించిన రైతులు, ఇప్పటికీ తమ వద్ద పంటను ప్రాసెస్ చేయడానికి అవసరమైన యంత్రాలు లేవని వాపోతున్నారు. సుబ్రమణ్యస్వామి ఆలయానికి రెండో రోడ్డు మార్గం ఇంకా పూర్తి కాలేదని, భూసేకరణ ఇంకా కొనసాగుతూనే ఉందని నిర్వాసితులు చెబుతున్నారు.",
+      "title_te": "టి.ఎన్. అసెంబ్లీ ఎన్నికలు: తిరుత్తణి నియోజకవర్గ వాసులు తమ జీవనోపాధిని మెరుగుపర్చుకోవడానికి మరింత మద్దతును కోరుతున్నారు",
+      "summary_te": "ఇటీవల ఉత్పాదక సంస్థను ఏర్పాటు చేసి మినుములను సాగు చేయడం ప్రారంభించిన రైతులు, ఇప్పటికీ తమ వద్ద పంటను ప్రాసెస్ చేయడానికి అవసరమైన యంత్రాలు లేవని వాపోతున్నారు. సుబ్రమణ్యస్వామి ఆలయానికి రెండో రోడ్డు మార్గం వేయాల్సిన పని ఇంకా పూర్తి కాలేదని, భూసేకరణ ఇంకా కొనసాగుతుందని నిర్వాసితులు చెబుతున్నారు.",
       "translated": true
     },
     {
@@ -476,7 +588,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "కుక్కను కొట్టి చంపిన వ్యక్తి, దానిని కాపాడేందుకు ప్రయత్నించిన ఎన్జీవో కార్యకర్తలపై స్థానికులు దాడి చేశారు",
+      "title_te": "కుక్కను కొట్టి చంపిన వ్యక్తి, దానిని రక్షించడానికి ప్రయత్నించినందుకు స్థానికులు NGO కార్యకర్తలపై దాడి చేశారు",
       "summary_te": "NGO సభ్యులు తెలిపిన వివరాల ప్రకారం, ఒక వ్యక్తి కుక్కను కొట్టి చంపిన తర్వాత వారు ఆ ప్రాంతాన్ని సందర్శించినప్పుడు ఈ సంఘటన జరిగింది.",
       "translated": true
     },
@@ -491,7 +603,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'ఇరాన్ US దళాలను స్వాగతిస్తుంది, నేలపై సైనికులను కొట్టడం సులభం': స్కాలర్",
-      "summary_te": "ఇరాన్ పండితుడు ఫోడ్ ఇజాది టెహ్రాన్ నష్టాలను పూడ్చుకోవడానికి హార్ముజ్ జలసంధి గుండా ప్రయాణించే నౌకలకు రవాణా రుసుమును అమలు చేయవచ్చని సూచించారు. \"ట్రాన్సిట్ ఫీజును ఇష్టపడని వ్యక్తులు, వారు US ప్రభుత్వం ద్వారా తిరిగి చెల్లించవచ్చు,\" అని అతను చెప్పాడు.",
+      "summary_te": "ఇరాన్ పండితుడు ఫోడ్ ఇజాది టెహ్రాన్ నష్టాలను పూడ్చుకోవడానికి హోర్ముజ్ జలసంధి గుండా ప్రయాణించే నౌకలకు రవాణా రుసుమును అమలు చేయవచ్చని సూచించారు. \"ట్రాన్సిట్ ఫీజును ఇష్టపడని వ్యక్తులు, వారు US ప్రభుత్వం ద్వారా రీయింబర్స్‌మెంట్ పొందవచ్చు\" అని అతను చెప్పాడు.",
       "translated": true
     },
     {
@@ -505,7 +617,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పైప్డ్ నేచురల్ గ్యాస్ ఇన్‌ఫ్రాస్ట్రక్చర్‌ను బలోపేతం చేయడానికి కేంద్రం ఆర్డర్‌ను తెలియజేస్తుంది",
-      "summary_te": "ఈ ఆర్డర్ దేశవ్యాప్తంగా పైప్‌లైన్‌లు వేయడానికి మరియు విస్తరించడానికి, ఆమోదాలు మరియు భూమికి ప్రాప్యతలో జాప్యాలను పరిష్కరించడానికి మరియు నివాస ప్రాంతాలతో సహా సహజ వాయువు మౌలిక సదుపాయాలను వేగంగా అభివృద్ధి చేయడానికి క్రమబద్ధీకరించబడిన మరియు సమయ-బౌండ్ ఫ్రేమ్‌వర్క్‌ను అందిస్తుంది.",
+      "summary_te": "ఈ ఆర్డర్ దేశవ్యాప్తంగా పైప్‌లైన్‌లను వేయడానికి మరియు విస్తరించడానికి, ఆమోదాలు మరియు భూమికి ప్రాప్యతలో జాప్యాలను పరిష్కరించడానికి మరియు నివాస ప్రాంతాలతో సహా సహజ వాయువు మౌలిక సదుపాయాలను వేగంగా అభివృద్ధి చేయడానికి క్రమబద్ధీకరించబడిన మరియు సమయ-బౌండ్ ఫ్రేమ్‌వర్క్‌ను అందిస్తుంది.",
       "translated": true
     },
     {
@@ -547,7 +659,7 @@
       "category": "india",
       "language": "en",
       "title_te": "సోనియా గాంధీ ఆసుపత్రిలో చేరారు, \"నథింగ్ సీరియస్\" అని వైద్యులు చెప్పారు: నివేదిక",
-      "summary_te": "వాతావరణంలో మార్పుల కారణంగా సోనియా గాంధీ అస్వస్థతకు గురయ్యారని, పరిశీలనలో ఉన్నారని సంబంధిత వర్గాలు తెలిపాయి.",
+      "summary_te": "వాతావరణంలో మార్పు కారణంగా సోనియా గాంధీ అస్వస్థతకు గురయ్యారని, పరిశీలనలో ఉన్నారని సంబంధిత వర్గాలు తెలిపాయి.",
       "translated": true
     },
     {
@@ -603,7 +715,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇరాన్‌తో శాంతి చర్చల గురించి అమెరికా ఆలోచిస్తున్న సమయంలో ట్రంప్ ప్రధాని మోదీకి ఫోన్ చేశారు",
-      "summary_te": "అధ్యక్షుడు ట్రంప్ మరియు ప్రధాని మోదీ పశ్చిమాసియా పరిస్థితిపై చర్చించారు, హోర్ముజ్ జలసంధిని తెరిచి, సురక్షితంగా ఉంచాల్సిన అవసరం ఉందని నొక్కి చెప్పారు. ప్రపంచ స్థిరత్వం మరియు ఆర్థిక శ్రేయస్సు కోసం సురక్షితమైన మార్గం యొక్క ప్రాముఖ్యతను ఎత్తిచూపుతూ, తీవ్రతరం మరియు శాంతికి భారతదేశం యొక్క మద్దతును మోదీ పునరుద్ఘాటించారు.",
+      "summary_te": "అధ్యక్షుడు ట్రంప్ మరియు ప్రధాని మోదీ పశ్చిమాసియా పరిస్థితిపై చర్చించారు, హోర్ముజ్ జలసంధిని తెరిచి మరియు సురక్షితంగా ఉంచాల్సిన అవసరం ఉందని నొక్కి చెప్పారు. ప్రపంచ స్థిరత్వం మరియు ఆర్థిక శ్రేయస్సు కోసం సురక్షితమైన మార్గం యొక్క ప్రాముఖ్యతను ఎత్తిచూపుతూ, తీవ్రతరం మరియు శాంతికి భారతదేశం యొక్క మద్దతును మోదీ పునరుద్ఘాటించారు.",
       "translated": true
     },
     {
@@ -837,7 +949,7 @@
       "url": "https://www.ndtv.com/india-news/israel-iran-war-s-jaishankar-meets-iranian-ambassador-discusses-middle-east-conflict-11261619#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-03/g62nclss_jaishankar_625x300_24_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-24T17:14:23.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "ఎస్ జైశంకర్ ఇరాన్ రాయబారిని కలిశారు, మధ్యప్రాచ్యం సంఘర్షణ గురించి చర్చిస్తున్నారు",
@@ -851,7 +963,7 @@
       "url": "https://www.ndtv.com/india-news/assam-chief-minister-himanta-biswa-sarma-links-election-to-survival-of-indigenous-people-11261620#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2024-01/u743q1go_himanta-biswa-sarma_625x300_11_January_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-24T17:14:04.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "అస్సాం ముఖ్యమంత్రి ఎన్నికలను ఆదివాసీల మనుగడతో ముడిపెట్టారు",
@@ -887,20 +999,6 @@
       "translated": true
     },
     {
-      "id": "1944b219712dc0e160bb981980379a55",
-      "title": "KKR retire Andre Russell's No. 12 jersey - Here is why",
-      "summary": "At a preseason event in Kolkata, KKR retired Andre Russell’s No. 12 jersey, honouring his impact and loyalty. Despite past exit rumours, he stayed committed and now takes on a Power Coach role. Russell reflected emotionally on his career, saying he “left everything on the field.” Meanwhile, Rinku Singh was named vice-captain under Ajinkya Rahane for the new season.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-kkr-retire-andre-russells-no-12-jersey-here-is-why/articleshow/129781939.cms",
-      "image": "https://static.toiimg.com/photo/msid-129782031,imgsize-123554.cms",
-      "published_at": "2026-03-24T16:58:37.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "KKR రిటైర్ ఆండ్రీ రస్సెల్ యొక్క నంబర్ 12 జెర్సీ - ఇక్కడ ఎందుకు ఉంది",
-      "summary_te": "కోల్‌కతాలో జరిగిన ప్రీ సీజన్ ఈవెంట్‌లో, KKR ఆండ్రీ రస్సెల్ యొక్క నంబర్ 12 జెర్సీని రిటైర్ చేసింది, అతని ప్రభావం మరియు విధేయతను గౌరవించింది. గత నిష్క్రమణ పుకార్లు ఉన్నప్పటికీ, అతను కట్టుబడి ఉన్నాడు మరియు ఇప్పుడు పవర్ కోచ్ పాత్రలో ఉన్నాడు. రస్సెల్ తన కెరీర్‌ను మానసికంగా ప్రతిబింబిస్తూ, \"మైదానంలో అన్నీ వదిలేశాను\" అని చెప్పాడు. అదే సమయంలో, కొత్త సీజన్‌కు అజింక్యా రహానే నేతృత్వంలో రింకూ సింగ్ వైస్ కెప్టెన్‌గా ఎంపికయ్యాడు.",
-      "translated": true
-    },
-    {
       "id": "ae79f9cc249b090526b8ed8be4fb7566",
       "title": "UP man offers lift to 3 sisters, rapes 19-year old after locking minors in car",
       "summary": "UP man offers lift to 3 sisters, rapes 19-year old after locking minors in car",
@@ -924,7 +1022,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "పశ్చిమాసియా సంక్షోభం మధ్య 'టీమ్ ఇండియా'గా పనిచేయాలని రాష్ట్రాలకు పిఎం మోడీ పిలుపునిచ్చారు, పౌరులు 'సిద్ధంగా ఉండండి'",
+      "title_te": "పశ్చిమాసియా సంక్షోభం మధ్య ‘టీమ్ ఇండియా’గా పని చేయాలని రాష్ట్రాలకు పిఎం మోడీ పిలుపునిచ్చారు, పౌరులు 'సిద్ధంగా ఉండండి'",
       "summary_te": "రాజ్యసభలో ఒక ప్రకటనలో, పశ్చిమాసియాలో శాంతి పునరుద్ధరణకు భారతదేశం యొక్క సంభాషణ మరియు దౌత్యం మాత్రమే పరిష్కారమని పునరుద్ఘాటించారు.",
       "translated": true
     },
@@ -952,8 +1050,8 @@
       "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "'తలకు కన్ను': ఇరాన్ అమెరికాను బెదిరించింది, యుద్ధాన్ని ముగించడానికి కఠినమైన షరతులు విధించింది",
-      "summary_te": "ఇరాన్ డొనాల్డ్ ట్రంప్‌కు తీవ్ర హెచ్చరిక జారీ చేసింది, దాని మౌలిక సదుపాయాలపై ఏదైనా దాడి \"తల కోసం కన్ను\" ప్రతిస్పందనకు దారితీస్తుందని, అమెరికాను స్తంభింపజేసే అవకాశం ఉందని పేర్కొంది. టెహ్రాన్ తన చర్చల వైఖరిని కఠినతరం చేసింది, శాంతి చర్చలను పరిగణనలోకి తీసుకునే ముందు యుద్ధాన్ని ముగించాలని, భవిష్యత్తులో సైనిక చర్యకు వ్యతిరేకంగా హామీలు, నష్టపరిహారం మరియు హార్ముజ్ జలసంధిని నియంత్రించాలని డిమాండ్ చేసింది.",
+      "title_te": "'తల కోసం కన్ను': ఇరాన్ అమెరికాను బెదిరించింది, యుద్ధాన్ని ముగించడానికి కఠినమైన షరతులు విధించింది",
+      "summary_te": "ఇరాన్ డొనాల్డ్ ట్రంప్‌కు తీవ్ర హెచ్చరిక జారీ చేసింది, దాని మౌలిక సదుపాయాలపై ఏదైనా దాడి \"తల కోసం కన్ను\" ప్రతిస్పందనకు దారితీస్తుందని, అమెరికాను స్తంభింపజేసే అవకాశం ఉందని పేర్కొంది. టెహ్రాన్ తన చర్చల వైఖరిని కఠినతరం చేసింది, శాంతి చర్చలను పరిగణనలోకి తీసుకునే ముందు యుద్ధాన్ని ముగించాలని, భవిష్యత్తులో సైనిక చర్యకు వ్యతిరేకంగా హామీలు, పరిహారం మరియు హార్ముజ్ జలసంధిపై నియంత్రణను డిమాండ్ చేసింది.",
       "translated": true
     },
     {
@@ -1027,20 +1125,6 @@
       "translated": true
     },
     {
-      "id": "81c761884fda03980e9b84dd49199281",
-      "title": "Taliban frees American academic Dennis Coyle after more than a year in detention",
-      "summary": "American academic Dennis Coyle, detained for over a year in Afghanistan, has been released by Taliban authorities on humanitarian grounds coinciding with Eid al-Fitr. While Washington welcomes this positive step, it renews calls for the return of other Americans still believed to be held, emphasizing an end to 'hostage diplomacy'.",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-positive-step-taliban-frees-american-academic-dennis-coyle-after-more-than-a-year-in-detention/articleshow/129781321.cms",
-      "image": "https://static.toiimg.com/photo/msid-129781427,imgsize-109018.cms",
-      "published_at": "2026-03-24T16:17:58.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "తాలిబాన్ అమెరికన్ విద్యావేత్త డెన్నిస్ కోయిల్‌ను ఒక సంవత్సరం కంటే ఎక్కువ కాలం నిర్బంధంలో ఉంచిన తర్వాత విడిపించారు",
-      "summary_te": "ఆఫ్ఘనిస్తాన్‌లో ఒక సంవత్సరం పాటు నిర్బంధంలో ఉన్న అమెరికన్ విద్యావేత్త డెన్నిస్ కోయిల్‌ను ఈద్ అల్-ఫితర్ సందర్భంగా మానవతా కారణాలతో తాలిబాన్ అధికారులు విడుదల చేశారు. వాషింగ్టన్ ఈ సానుకూల దశను స్వాగతిస్తున్నప్పటికీ, 'బందీల దౌత్యం'కు ముగింపు పలుకుతున్నట్లు ఇప్పటికీ విశ్వసిస్తున్న ఇతర అమెరికన్లు తిరిగి రావాలని పిలుపునిచ్చారు.",
-      "translated": true
-    },
-    {
       "id": "9a7abb427220f9c61443c669988963c7",
       "title": "At Uddhav Thackeray's Farewell, Praise From D Fadnavis And An E Shinde Dig",
       "summary": "Uddhav Thackeray's tenure in the Maharashtra Legislative Council ended today along with eight other members",
@@ -1079,7 +1163,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పశ్చిమాసియా వివాదంపై మోదీ, ట్రంప్ చర్చలు; భారత్ శాంతి, సురక్షితమైన హార్ముజ్ జలసంధికి మద్దతు ఇస్తుంది",
-      "summary_te": "ఫిబ్రవరి 28న ఇరాన్‌పై ఇరాన్‌పై ఇజ్రాయెల్ మరియు అమెరికా జరిపిన సైనిక దాడులు ఘర్షణకు దారితీసిన తర్వాత మోడీ మరియు ట్రంప్ మధ్య జరిగిన మొదటి ఫోన్ సంభాషణ ఇది.",
+      "summary_te": "ఫిబ్రవరి 28న ఇరాన్‌పై ఇజ్రాయెల్ మరియు అమెరికా సైనిక దాడులు వివాదానికి దారితీసిన తర్వాత మోడీ మరియు ట్రంప్ మధ్య జరిగిన మొదటి ఫోన్ సంభాషణ ఇది.",
       "translated": true
     },
     {
@@ -1121,7 +1205,7 @@
       "category": "india",
       "language": "en",
       "title_te": "రైల్వే రిఫండ్ నిబంధనలను కఠినతరం చేసింది, టిక్కెట్లలో బ్లాక్ మార్కెట్ వృద్ధి చెందడమే లక్ష్యంగా ఉంది",
-      "summary_te": "ఒక ప్రయాణీకుడికి ఫ్లాట్ క్యాన్సిలేషన్ ఛార్జీ మినహా పూర్తి రీఫండ్, రైలు బయలుదేరడానికి 72 గంటల కంటే ముందు చేసిన రద్దులకు మాత్రమే ఇవ్వబడుతుంది.",
+      "summary_te": "ఒక ప్రయాణీకునికి ఫ్లాట్ క్యాన్సిలేషన్ ఛార్జీ మినహా పూర్తి వాపసు, రైలు బయలుదేరడానికి 72 గంటల కంటే ముందు చేసిన రద్దులకు మాత్రమే ఇవ్వబడుతుంది.",
       "translated": true
     },
     {
@@ -1150,20 +1234,6 @@
       "language": "en",
       "title_te": "మిడిల్ ఈస్ట్ సంక్షోభం యొక్క ఆర్థిక పతనాన్ని పరిష్కరించడానికి కేంద్రం 7 ఉన్నత-స్థాయి సమూహాలను ఏర్పరుస్తుంది",
       "summary_te": "న్యూఢిల్లీ, మార్చి 24 (IANS) చమురు, గ్యాస్, ఎరువులు, సరఫరా గొలుసులు మరియు ద్రవ్యోల్బణంతో సహా భారత ఆర్థిక వ్యవస్థలోని నిర్దిష్ట రంగాలపై ఇరాన్ యుద్ధం యొక్క పతనాన్ని నిర్వహించడానికి అధికారులు మరియు నిపుణులతో కూడిన ఏడు సాధికార బృందాలను కేంద్రం ఏర్పాటు చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "d657688f689c7efc9cfbb487e211536c",
-      "title": "What are Iran's terms for peace? Trump may not like the answer",
-      "summary": ". At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.Read More We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/what-are-irans-terms-for-peace-trump-may-not-like-the-answer/articleshow/129779998.cms",
-      "image": "https://static.toiimg.com/photo/msid-129780387,imgsize-118058.cms",
-      "published_at": "2026-03-24T15:18:43.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "శాంతి కోసం ఇరాన్ నిబంధనలు ఏమిటి? ట్రంప్‌కి సమాధానం నచ్చకపోవచ్చు",
-      "summary_te": ". TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -1251,20 +1321,6 @@
       "translated": true
     },
     {
-      "id": "e474ffdf52191920991d047175d938a6",
-      "title": "Is Saudi Arabia calling the shots? Crown Prince MBS urging Trump to keep Iran war alive - report",
-      "summary": "Saudi Crown Prince Mohammed bin Salman is reportedly urging US President Trump to escalate military action against Iran, viewing it as a chance to reshape the Middle East. He believes removing Iran's current government is key to addressing the threat to Gulf nations. However, Riyadh officially denies pushing for war, emphasizing a peaceful resolution and self-defense against Iranian attacks.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/is-saudi-arabia-calling-the-shots-crown-prince-mbs-urging-trump-to-keep-iran-war-alive-report/articleshow/129779129.cms",
-      "image": "https://static.toiimg.com/photo/msid-129779295,imgsize-748972.cms",
-      "published_at": "2026-03-24T14:21:16.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "సౌదీ అరేబియా పిలుస్తోందా? క్రౌన్ ప్రిన్స్ MBS ఇరాన్ యుద్ధాన్ని సజీవంగా ఉంచాలని ట్రంప్‌ను కోరారు - నివేదిక",
-      "summary_te": "సౌదీ క్రౌన్ ప్రిన్స్ మొహమ్మద్ బిన్ సల్మాన్ ఇరాన్‌పై మిడిల్ ఈస్ట్‌ను పునర్నిర్మించే అవకాశంగా భావించి, ఇరాన్‌పై సైనిక చర్యను పెంచాలని అమెరికా అధ్యక్షుడు ట్రంప్‌ను కోరినట్లు సమాచారం. గల్ఫ్ దేశాలకు ముప్పును ఎదుర్కోవడానికి ఇరాన్ ప్రస్తుత ప్రభుత్వాన్ని తొలగించడం కీలకమని ఆయన అభిప్రాయపడ్డారు. అయినప్పటికీ, రియాద్ అధికారికంగా యుద్ధం కోసం ముందుకు రావడాన్ని ఖండించింది, ఇరాన్ దాడులకు వ్యతిరేకంగా శాంతియుత తీర్మానం మరియు ఆత్మరక్షణను నొక్కి చెప్పింది.",
-      "translated": true
-    },
-    {
       "id": "394be3c0f3235fac5c6e5ff1028231ea",
       "title": "India “indispensable” for maintaining a free, open Indo-Pacific: Top US official",
       "summary": "Colby is the second senior Trump administration official to visit India this month, after US deputy secretary of state Christopher Landau,",
@@ -1275,7 +1331,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఉచిత, బహిరంగ ఇండో-పసిఫిక్‌ని నిర్వహించడానికి భారతదేశం \"అవసరం\": US అగ్ర అధికారి",
-      "summary_te": "అమెరికా డిప్యూటి సెక్రటరీ ఆఫ్ స్టేట్ క్రిస్టోఫర్ లాండౌ తర్వాత ఈ నెలలో భారత్‌కు వచ్చిన ట్రంప్ అడ్మినిస్ట్రేషన్ సీనియర్ అధికారి కోల్బీ.",
+      "summary_te": "అమెరికా విదేశాంగ శాఖ డిప్యూటీ సెక్రటరీ క్రిస్టోఫర్ లాండౌ తర్వాత ఈ నెలలో భారత్‌లో పర్యటించిన ట్రంప్ అడ్మినిస్ట్రేషన్ సీనియర్ అధికారి కోల్బీ.",
       "translated": true
     },
     {
@@ -1289,7 +1345,7 @@
       "category": "india",
       "language": "en",
       "title_te": "భారతదేశంలో మొదటిసారిగా పాసివ్ యుథనేషియాకు అనుమతించబడిన హరీష్ రాణా AIIMSలో మరణించారు",
-      "summary_te": "యుపిలోని ఘజియాబాద్‌కు చెందిన హరీష్ రాణా అనే వ్యక్తి 2013లో ఘోర పతనం నుండి కోమాలో ఉన్న వ్యక్తికి మరణించే హక్కును ఈ నెల ప్రారంభంలో సుప్రీంకోర్టు సమర్థించింది.",
+      "summary_te": "2013లో ఘోర పతనం నుంచి కోమాలో ఉన్న యూపీలోని ఘజియాబాద్‌కు చెందిన హరీష్ రాణాకు మరణించే హక్కును ఈ నెల ప్రారంభంలో సుప్రీంకోర్టు సమర్థించింది.",
       "translated": true
     },
     {
@@ -1346,62 +1402,6 @@
       "language": "en",
       "title_te": "TTAADC ఎన్నికల కోసం బీజేపీ అభ్యర్థుల జాబితాను విడుదల చేసింది, మిత్రపక్షమైన TPC నుండి 5 మంది నాయకులను చేర్చుకుంది",
       "summary_te": "టీటీఏడీసీలోని మొత్తం 28 స్థానాల్లో అభ్యర్థులను నిలబెట్టాలని నిర్ణయించామని, ఏడుగురు సిట్టింగ్‌ సభ్యులను మళ్లీ నామినేట్‌ చేయాలని నిర్ణయించినట్లు త్రిపుర బీజేపీ అధ్యక్షుడు రాజీబ్‌ భట్టాచార్జీ తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "808cc9381c0c903d40eba73145143237",
-      "title": "Trump speaks to PM Modi, discusses Middle East war, Strait of Hormuz",
-      "summary": "Trump speaks to PM Modi, discusses Middle East war, Strait of Hormuz",
-      "url": " https://www.indiatoday.in/india/video/trump-speaks-to-pm-modi-discusses-middle-east-war-strait-of-hormuz-2886517-2026-03-24?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202603/pm-244241676-16x9_0.jpg?VersionId=rBob6F6_jxhnIKmSlF4HJBSzvb79uSt2",
-      "published_at": "2026-03-24T13:44:00.000Z",
-      "source": "India Today",
-      "category": "india",
-      "language": "en",
-      "title_te": "ప్రధాని మోదీతో మాట్లాడిన ట్రంప్, మిడిల్ ఈస్ట్ వార్, హార్ముజ్ జలసంధి గురించి చర్చించారు",
-      "summary_te": "ప్రధాని మోదీతో మాట్లాడిన ట్రంప్, మిడిల్ ఈస్ట్ వార్, హార్ముజ్ జలసంధి గురించి చర్చించారు",
-      "translated": true
-    },
-    {
-      "id": "29527f21272bdeafeed7c6fab3486726",
-      "title": "Parliament divided over Transgender bill: Govt hails reform, opposition calls it 'draconian'",
-      "summary": "Moving the bill for passage in the Lok Sabha, Social justice minister Virendra Kumar said it aims to ensure safety and extend benefits to the community",
-      "url": "https://www.hindustantimes.com/india-news/parliament-divided-over-transgender-bill-govt-hails-reform-opposition-calls-it-draconian-101774357710773.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/24/1600x900/logo/ANI-20260317208-0_1774358639981_1774358653018.jpg",
-      "published_at": "2026-03-24T13:32:30.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ట్రాన్స్‌జెండర్ బిల్లుపై పార్లమెంటులో విభజన",
-      "summary_te": "లోక్‌సభలో ఆమోదం కోసం బిల్లును ప్రవేశపెడుతున్న సామాజిక న్యాయ శాఖ మంత్రి వీరేంద్ర కుమార్, భద్రతను నిర్ధారించడం మరియు సమాజానికి ప్రయోజనాలను అందించడం దీని లక్ష్యం అని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "aa66bfda51621f8194b4e7d15c0cd95f",
-      "title": "Indians ships, sailors in Gulf region safe amid US-Iran war says shipping ministry",
-      "summary": "Special Secretary in the Ministry of Shipping, Rajesh Sinha, said two Indian-flagged LPG carriers, Pine Gas and Jag Vasant, have already safely crossed Hormuz.",
-      "url": "https://www.hindustantimes.com/india-news/indians-ships-sailors-in-gulf-region-safe-amid-us-iran-war-says-shipping-ministry-101774357293651.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/24/1600x900/logo/ANI-20260324146-0_1774357569949_1774357585639.jpg",
-      "published_at": "2026-03-24T13:06:46.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "అమెరికా-ఇరాన్ యుద్ధం నేపథ్యంలో గల్ఫ్ ప్రాంతంలోని భారతీయుల ఓడలు, నావికులు సురక్షితంగా ఉన్నారని షిప్పింగ్ మంత్రిత్వ శాఖ తెలిపింది",
-      "summary_te": "షిప్పింగ్ మంత్రిత్వ శాఖ ప్రత్యేక కార్యదర్శి రాజేష్ సిన్హా మాట్లాడుతూ, భారత జెండాతో కూడిన రెండు ఎల్‌పిజి క్యారియర్‌లు, పైన్ గ్యాస్ మరియు జాగ్ వసంత్ ఇప్పటికే సురక్షితంగా హార్ముజ్ దాటాయని తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "c2d3c21301aa343d1428b25b1e452558",
-      "title": "Rahul Gandhi to skip govt's all-party meet on US-Iran war, here's why",
-      "summary": "Congress leader slammed PM's handling of the crisis, saying the situation could not be corrected due to what he described as a ‘structural blunder’",
-      "url": "https://www.hindustantimes.com/india-news/rahul-gandhi-will-skip-govt-all-party-meet-on-west-asia-war-heres-why-modi-middle-east-iran-war-usa-israel-101774355830664.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/24/1600x900/logo/Rahul_Gandhi_Sonipat_to_attend_wedding_177_1774356878218_1774356878410.jpg",
-      "published_at": "2026-03-24T13:05:20.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "యుఎస్-ఇరాన్ యుద్ధంపై ప్రభుత్వ అఖిలపక్ష సమావేశాన్ని రాహుల్ గాంధీ దాటవేయడానికి కారణం ఇక్కడ ఉంది",
-      "summary_te": "సంక్షోభంలో ప్రధాని వ్యవహరించిన తీరును కాంగ్రెస్ నాయకుడు తప్పుబట్టారు, ఆయన 'నిర్మాణ తప్పిదం'గా అభివర్ణించిన కారణంగా పరిస్థితిని సరిదిద్దలేకపోయారు.",
       "translated": true
     }
   ]
