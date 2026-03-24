@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-24T07:59:22.386Z",
-  "updated_at_IST": "24/3/2026, 1:29:22 pm",
+  "updated_at": "2026-03-24T08:49:54.705Z",
+  "updated_at_IST": "24/3/2026, 2:19:54 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "dd20135e10841180db0d3c4f59650d2b",
+      "title": "RCB quick Yash Dayal to sit out IPL 2026",
+      "summary": "Director of cricket Mo Bobat confirmed the seamer was out for the entire season",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528947.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/378800/378877.jpg",
+      "published_at": "2026-03-24T08:31:25.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "RCB త్వరితగతిన యశ్ దయాల్ IPL 2026 నుండి సిట్ అవుట్ అయ్యింది",
+      "summary_te": "సీమర్ మొత్తం సీజన్‌కు దూరంగా ఉన్నట్లు క్రికెట్ డైరెక్టర్ మో బోబాట్ ధృవీకరించారు",
+      "translated": true
+    },
     {
       "id": "39a40e99d143d60bd00dc835f3001804",
       "title": "India pick Kashvee Gautam, Anushka Sharma for SA T20I tour",
       "summary": "Amanjot Kaur, G Kamalini and Vaishnavi Sharma have been left out",
       "url": "https://www.espncricinfo.com/ci/content/story/1528936.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414019.jpg",
-      "published_at": "2026-03-24T07:38:04.000Z",
+      "published_at": "2026-03-24T07:48:19.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ఆస్ట్రేలియా, న్యూజిలాండ్ త్వరితగతిన సవాల్ చేసేందుకు నాలుగు వారాల్లో నాలుగు టెస్టులు",
       "summary_te": "ఆస్ట్రేలియా పురుషులు కూడా వైట్-బాల్ క్రికెట్ కోసం ఇంగ్లాండ్‌కు ఆతిథ్యం ఇవ్వగా, మహిళలు బంగ్లాదేశ్ మరియు న్యూజిలాండ్‌లతో తలపడతారు",
-      "translated": true
-    },
-    {
-      "id": "59b0914d9ebaf230bd4ea78fd88801d1",
-      "title": "South Africa ask New Zealand to field as both sides ring in the changes",
-      "summary": "Katene Clarke is on his international debut with many seniors rested for New Zealand; Prenelan Subrayen comes in to join Keshav Maharaj and George Linde in the spin attack for South Africa",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528685.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414500/414539.jpg",
-      "published_at": "2026-03-22T06:15:57.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రెండు జట్లూ మార్పులు చేర్పులు చేయడంతో దక్షిణాఫ్రికా న్యూజిలాండ్‌ను ఫీల్డింగ్ చేయమని కోరింది",
-      "summary_te": "కాటేన్ క్లార్క్ తన అంతర్జాతీయ అరంగేట్రంలో చాలా మంది సీనియర్‌లతో న్యూజిలాండ్‌లో విశ్రాంతి తీసుకున్నాడు; దక్షిణాఫ్రికా కోసం స్పిన్ దాడిలో కేశవ్ మహారాజ్ మరియు జార్జ్ లిండేతో కలిసి ప్రేనెలన్ సుబ్రాయెన్ వచ్చాడు",
       "translated": true
     }
   ]
