@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T10:53:10.287Z",
-  "updated_at_IST": "24/3/2026, 4:23:10 pm",
+  "updated_at": "2026-03-24T11:50:06.075Z",
+  "updated_at_IST": "24/3/2026, 5:20:06 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "372122185f73796767aa80dd402c6981",
+      "title": "Key: 'No way Livingstone is not up for selection'",
+      "summary": "Managing director lifts the lid on \"fairly tetchy\" call with allrounder, who remains in England's plans",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528955.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414600/414662.jpg",
+      "published_at": "2026-03-24T11:23:22.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కీ: 'లివింగ్‌స్టోన్ ఎంపికకు సిద్ధంగా లేదు'",
+      "summary_te": "మేనేజింగ్ డైరెక్టర్ ఆల్‌రౌండర్‌తో \"చాలా కష్టమైన\" కాల్‌పై మూత ఎత్తాడు, అతను ఇంగ్లాండ్ ప్రణాళికల్లోనే ఉన్నాడు",
+      "translated": true
+    },
     {
       "id": "042e861de1f803f20093ed9155c456bb",
       "title": "Conrad: Whether it is fully-fledged international cricket, I think the jury is out",
@@ -183,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -294,7 +308,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'అనూహ్యమైనది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "Esterhuizen కోసం కోవిడ్ 'క్రికెట్ పరంగా ఒక విధమైన పొదుపు దయ'",
       "summary_te": "దక్షిణాఫ్రికా కోసం తన తొలి పర్యటనలో ఉన్న ఎస్టర్‌హుజెన్, కొన్ని సంవత్సరాల క్రితం ప్రొఫెషనల్ క్రికెట్‌లో కెరీర్‌పై తనకు ఎలా సందేహాలు ఉన్నాయో ప్రతిబింబిస్తుంది",
-      "translated": true
-    },
-    {
-      "id": "c711904391c74037a78846a023e933e4",
-      "title": "Naqvi: PCB 'will take action' against players opting out of PSL for IPL",
-      "summary": "Shanaka became the second player in recent weeks to opt out of the PSL for an IPL deal",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528747.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/373600/373699.jpg",
-      "published_at": "2026-03-22T13:05:25.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "నఖ్వీ: IPL కోసం PSL నుండి వైదొలిగిన ఆటగాళ్లపై PCB 'చర్య తీసుకుంటుంది'",
-      "summary_te": "ఇటీవలి వారాల్లో IPL ఒప్పందం కోసం PSL నుండి వైదొలిగిన రెండవ ఆటగాడిగా షనక ​​నిలిచాడు",
       "translated": true
     }
   ]
