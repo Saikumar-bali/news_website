@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T09:56:35.236Z",
-  "updated_at_IST": "24/3/2026, 3:26:35 pm",
+  "updated_at": "2026-03-24T10:53:10.287Z",
+  "updated_at_IST": "24/3/2026, 4:23:10 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "042e861de1f803f20093ed9155c456bb",
+      "title": "Conrad: Whether it is fully-fledged international cricket, I think the jury is out",
+      "summary": "South Africa coach admits a series with understrength teams isn't ideal but highlighted the opportunities it has given fringe players",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528952.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401800/401888.jpg",
+      "published_at": "2026-03-24T10:28:43.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కాన్రాడ్: ఇది పూర్తి స్థాయి అంతర్జాతీయ క్రికెట్ అయినా, జ్యూరీ అవుట్ అయిందని నేను అనుకుంటున్నాను",
+      "summary_te": "దక్షిణాఫ్రికా కోచ్ తక్కువ బలం ఉన్న జట్లతో సిరీస్ అనువైనది కాదని అంగీకరించాడు, అయితే అది అంచు ఆటగాళ్లకు అందించిన అవకాశాలను హైలైట్ చేశాడు",
+      "translated": true
+    },
     {
       "id": "7314069ce13667a3ffbccb42fc16325e",
       "title": "Payne replaces Edwards at Sunrisers Hyderabad for IPL 2026",
@@ -169,7 +183,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -280,7 +294,7 @@
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
-      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
+      "title_te": "'అనూహ్యమైనది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
       "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
       "translated": true
     },
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "నఖ్వీ: IPL కోసం PSL నుండి వైదొలిగిన ఆటగాళ్లపై PCB 'చర్య తీసుకుంటుంది'",
       "summary_te": "ఇటీవలి వారాల్లో IPL ఒప్పందం కోసం PSL నుండి వైదొలిగిన రెండవ ఆటగాడిగా షనక ​​నిలిచాడు",
-      "translated": true
-    },
-    {
-      "id": "117b9aac157245040dff2996b007fe53",
-      "title": "Esterhuizen's 57 and all-star bowling show take South Africa to series-levelling win",
-      "summary": "South Africa appeared to have stopped below par when they put up 164, but their bowlers put on an inspired show against an under-strength New Zealand",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528735.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414833.jpg",
-      "published_at": "2026-03-22T10:29:55.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "Esterhuizen యొక్క 57 మరియు ఆల్-స్టార్ బౌలింగ్ ప్రదర్శన దక్షిణాఫ్రికాను సిరీస్-స్థాయి విజయానికి తీసుకువెళ్లింది",
-      "summary_te": "దక్షిణాఫ్రికా 164 పరుగుల వద్ద ఆగిపోయినట్లు కనిపించింది, కానీ వారి బౌలర్లు తక్కువ బలం న్యూజిలాండ్‌పై స్ఫూర్తిదాయకమైన ప్రదర్శనను ప్రదర్శించారు.",
       "translated": true
     }
   ]
