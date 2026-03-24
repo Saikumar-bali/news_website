@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-24T20:41:33.076Z",
-  "updated_at_IST": "25/3/2026, 2:11:33 am",
+  "updated_at": "2026-03-24T21:39:54.045Z",
+  "updated_at_IST": "25/3/2026, 3:09:54 am",
   "category": "telangana",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "73624792614af8d23b8797fc75a0f251",
+      "title": "Panic buying led to ‘no stock’ boards; no shortage of petrol, diesel or LPG in Telangana: Civil Supplies dept",
+      "summary": "Panic buying leading to ‘no stock’ boards; Hyderabad Police Commissioner too says there is no fuel shortage",
+      "url": "https://www.thehindu.com/news/national/telangana/no-shortage-of-petrol-diesel-or-lpg-telangana-govt/article70778739.ece",
+      "image": "https://th-i.thgim.com/public/incoming/qpdt5k/article70779707.ece/alternates/LANDSCAPE_1200/fuel%20shortage%2002.jpg",
+      "published_at": "2026-03-24T18:42:12.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "భయాందోళనల కొనుగోలు 'నో స్టాక్' బోర్డులకు దారితీసింది; తెలంగాణలో పెట్రోల్, డీజిల్ లేదా LPG కొరత లేదు: పౌర సరఫరాల శాఖ",
+      "summary_te": "'నో స్టాక్' బోర్డులకు దారితీసే భయాందోళన కొనుగోలు; హైదరాబాద్ పోలీస్ కమిషనర్ కూడా ఇంధన కొరత లేదని చెప్పారు",
+      "translated": true
+    },
     {
       "id": "15c40e36c70d1f00ece799a6b6551ab6",
       "title": "Fuel shortage fears grip Hyderabad; demand spills over into March 24 night",

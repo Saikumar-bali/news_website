@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-24T20:41:33.076Z",
-  "updated_at_IST": "25/3/2026, 2:11:33 am",
+  "updated_at": "2026-03-24T21:39:54.045Z",
+  "updated_at_IST": "25/3/2026, 3:09:54 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "5faf99dfdbedc3e93f8364a88735a1d7",
+      "title": "US Set to Deploy 2,000 Troops From 82nd Airborne to Middle East",
+      "summary": "The Trump administration has ordered the 82nd Airborne Division to deploy about 2,000 soldiers to the Middle East, a person familiar with the matter said, as the White House weighs options to ease Iran’s chokehold on the Strait of Hormuz.",
+      "url": "https://www.livemint.com/news/us-set-to-deploy-2-000-troops-from-82nd-airborne-to-middle-east-11774385633175.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news2_1733464197434_1733464227231.jpg",
+      "published_at": "2026-03-24T20:53:52.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "82వ ఎయిర్‌బోర్న్ నుండి మిడిల్ ఈస్ట్ వరకు 2,000 మంది సైనికులను మోహరించేందుకు యుఎస్ సిద్ధమైంది.",
+      "summary_te": "ట్రంప్ పరిపాలన 82వ వైమానిక విభాగాన్ని మిడిల్ ఈస్ట్‌కు సుమారు 2,000 మంది సైనికులను మోహరించాలని ఆదేశించింది, హార్ముజ్ జలసంధిపై ఇరాన్ ఉక్కిరిబిక్కిరి చేయడానికి వైట్ హౌస్ ఎంపికలను పరిశీలిస్తున్నందున, ఈ విషయం గురించి తెలిసిన వ్యక్తి చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "74e4e3da22ab054447b7b8ddfa847be9",
+      "title": "Donald Trump says Iran offered ‘energy-linked present’ amid ongoing US-Iran negotiations",
+      "summary": "“We’re in negotiations right now,” Trump told reporters at the White House on Tuesday (March 24), adding that multiple senior officials are involved in the talks.",
+      "url": "https://www.livemint.com/news/us-news/donald-trump-says-iran-offered-energy-linked-present-amid-ongoing-us-iran-negotiations-11774380832046.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/Trump-13_1774381070095_1774381078014.jpg",
+      "published_at": "2026-03-24T20:38:56.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అమెరికా-ఇరాన్ చర్చల మధ్య ఇరాన్ 'ఎనర్జీ-లింక్డ్ ప్రెజెంట్' అందించిందని డొనాల్డ్ ట్రంప్ చెప్పారు",
+      "summary_te": "\"మేము ప్రస్తుతం చర్చలు జరుపుతున్నాము\" అని ట్రంప్ మంగళవారం (మార్చి 24) వైట్ హౌస్‌లో విలేకరులతో మాట్లాడుతూ, చర్చలలో బహుళ సీనియర్ అధికారులు పాల్గొంటున్నారని అన్నారు.",
+      "translated": true
+    },
     {
       "id": "b8a859d962b27ce02e5563e426296679",
       "title": "Safety System Failed to Alert LaGuardia Tower Before Fatal Crash",
@@ -355,20 +383,6 @@
       "translated": true
     },
     {
-      "id": "4560a43bc6f439b1aaee9e92c194c23f",
-      "title": "Lebanon declares Iranian ambassador persona non grata, orders him to leave; ‘justified step’, says Israel",
-      "summary": "Lebanon on Tuesday declared the Iranian ambassador persona non grata and ordered him to leave the country by 29 March. Welcoming the decision, Israel's Foreign Affairs Minister Gideon Sa'ar called it a justified and necessary step.",
-      "url": "https://www.livemint.com/news/world/lebanon-declares-iranian-ambassador-persona-non-grata-orders-him-to-leave-justified-step-says-israel-11774361184374.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/MixCollage-24-Mar-2026-07-47-PM-3546_1774361866368_1774361890668.jpg",
-      "published_at": "2026-03-24T14:48:47.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "లెబనాన్ ఇరానియన్ అంబాసిడర్ పర్సన నాన్ గ్రేటా అని ప్రకటించింది, అతన్ని విడిచిపెట్టమని ఆదేశించింది; 'జస్టిఫైడ్ స్టెప్' అని ఇజ్రాయెల్ చెప్పింది",
-      "summary_te": "లెబనాన్ మంగళవారం ఇరాన్ అంబాసిడర్ పర్సన నాన్ గ్రేటాని ప్రకటించింది మరియు మార్చి 29 లోగా దేశం విడిచి వెళ్లాలని ఆదేశించింది. ఈ నిర్ణయాన్ని స్వాగతిస్తూ, ఇజ్రాయెల్ విదేశాంగ మంత్రి గిడియాన్ సార్ దీనిని సమర్థనీయమైన మరియు అవసరమైన చర్యగా పేర్కొన్నారు.",
-      "translated": true
-    },
-    {
       "id": "69b35d7d8e4bde9962c92f10f3c0baa9",
       "title": "CoinDCX promoters get bail in alleged cheating case",
       "summary": "CoinDCX's co-founders were granted bail after a court found no prima facie case against them. The company stated the arrests stemmed from a fraudulent website impersonating CoinDCX, with unknown actors deceiving a complainant. CoinDCX emphasized its official platform is .pro and that it was also a victim of this impersonation scam.",
@@ -380,20 +394,6 @@
       "language": "en",
       "title_te": "ఆరోపించిన చీటింగ్ కేసులో CoinDCX ప్రమోటర్లకు బెయిల్ లభిస్తుంది",
       "summary_te": "కాయిన్‌డిసిఎక్స్ సహ వ్యవస్థాపకులపై న్యాయస్థానం ఎటువంటి ప్రాథమిక కేసును కనుగొనకపోవడంతో వారికి బెయిల్ మంజూరు చేయబడింది. తెలియని నటులు ఫిర్యాదుదారుని మోసగించడంతో, CoinDCX వలె మోసగించే ఒక మోసపూరిత వెబ్‌సైట్ నుండి అరెస్టులు జరిగినట్లు కంపెనీ పేర్కొంది. CoinDCX దాని అధికారిక ప్లాట్‌ఫారమ్ .pro అని నొక్కి చెప్పింది మరియు ఇది కూడా ఈ వంచన స్కామ్‌లో బాధితురాలిగా ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "2300913eb27db6da40c30e33311e551e",
-      "title": "Quote of the day by Jessica Chastain: ‘We need to understand that femininity is not weakness’",
-      "summary": "Jessica Chastain had once said that femininity is often wrongly seen as weakness. One of her famous quotes even highlighted the need to challenge stereotypes and recognise that strength can take many forms, sparking wider conversations on gender and equality.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-jessica-chastain-we-need-to-understand-that-femininity-is-not-weakness-11774362340865.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/jessica_chastain_1774362658644_1774362658858.jpg",
-      "published_at": "2026-03-24T14:34:23.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జెస్సికా చస్టెయిన్ యొక్క కోట్ ఆఫ్ ది డే: 'స్త్రీత్వం బలహీనత కాదని మనం అర్థం చేసుకోవాలి'",
-      "summary_te": "జెస్సికా చస్టెయిన్ ఒకసారి స్త్రీత్వం తరచుగా బలహీనతగా తప్పుగా చూడబడుతుందని చెప్పింది. ఆమె ప్రసిద్ధ కోట్‌లలో ఒకటి మూస పద్ధతులను సవాలు చేయవలసిన అవసరాన్ని కూడా హైలైట్ చేసింది మరియు బలం అనేక రూపాలను తీసుకుంటుందని గుర్తించి, లింగం మరియు సమానత్వంపై విస్తృత సంభాషణలకు దారితీసింది.",
       "translated": true
     },
     {
