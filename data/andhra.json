@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T10:49:19.277Z",
-  "updated_at_IST": "25/3/2026, 4:19:19 pm",
+  "updated_at": "2026-03-25T11:45:45.927Z",
+  "updated_at_IST": "25/3/2026, 5:15:45 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "229fca25e45c448e6eab58f91168cc23",
+      "title": "AP power dues to Telangana raised in Parliament",
+      "summary": "Despite lodging protests, the Telangana Power Finance Corporation paid a total of ₹1,270 crore up to August 2024. Of this amount, ₹481.82 crore constituted the principal, while ₹788.18 crore was paid as interest.",
+      "url": "https://www.thehindu.com/news/national/telangana/ap-power-dues-to-telangana-raised-in-parliament/article70783381.ece",
+      "image": "https://th-i.thgim.com/public/incoming/2vn7ux/article70783472.ece/alternates/LANDSCAPE_1200/IMG_TH23_Telangana_map_2_1_8CFOGQSK.jpg",
+      "published_at": "2026-03-25T09:49:41.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "పార్లమెంటులో తెలంగాణకు ఏపీ విద్యుత్ బకాయిలు పెంచారు",
+      "summary_te": "నిరసనలు చేసినప్పటికీ, తెలంగాణ పవర్ ఫైనాన్స్ కార్పొరేషన్ ఆగస్టు 2024 వరకు మొత్తం ₹1,270 కోట్లను చెల్లించింది. ఈ మొత్తంలో ₹481.82 కోట్లు అసలు చెల్లించగా, ₹788.18 కోట్లు వడ్డీగా చెల్లించబడింది.",
+      "translated": true
+    },
     {
       "id": "c6310c412f9460fb12e21c3e45823f79",
       "title": "Hyderabad woman with alleged links to ISIS and AQIS terror groups arrested in Vijayawada",

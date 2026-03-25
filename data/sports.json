@@ -1,16 +1,30 @@
 {
-  "updated_at": "2026-03-25T10:49:19.277Z",
-  "updated_at_IST": "25/3/2026, 4:19:19 pm",
+  "updated_at": "2026-03-25T11:45:45.927Z",
+  "updated_at_IST": "25/3/2026, 5:15:45 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ce2e20c2027c6396b1ab1acdf0753ded",
+      "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
+      "summary": "The series is locked 2-2 heading into the decider in Christchurch",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528942.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414832.jpg",
+      "published_at": "2026-03-25T11:06:40.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "NZ, SA తక్కువ-సందర్భం సిరీస్ అధిక-స్టేక్స్ ముగింపుకు చేరుకున్నందున అందరూ ఆడవలసి ఉంటుంది",
+      "summary_te": "క్రైస్ట్‌చర్చ్‌లో నిర్ణయాత్మకంగా సిరీస్ 2-2తో లాక్ చేయబడింది",
+      "translated": true
+    },
     {
       "id": "275f4413baa4d04895b8a7cae33c2ea3",
       "title": "Esterhuizen, bowlers lead South Africa to 3-2 series win",
       "summary": "Esterhuizen hit his second consecutive fifty before South Africa's bowlers ensured New Zealand never threatened in the chase",
       "url": "https://www.espncricinfo.com/ci/content/story/1529132.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414883.jpg",
-      "published_at": "2026-03-25T10:18:52.000Z",
+      "published_at": "2026-03-25T10:33:25.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
@@ -184,20 +198,6 @@
       "language": "en",
       "title_te": "RCB త్వరితగతిన యశ్ దయాల్ IPL 2026 నుండి సిట్ అవుట్ అయ్యింది",
       "summary_te": "సీమర్ మొత్తం సీజన్‌కు దూరంగా ఉన్నట్లు క్రికెట్ డైరెక్టర్ మో బోబాట్ ధృవీకరించారు",
-      "translated": true
-    },
-    {
-      "id": "ce2e20c2027c6396b1ab1acdf0753ded",
-      "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
-      "summary": "The series is locked 2-2 heading into the decider in Christchurch",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528942.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414832.jpg",
-      "published_at": "2026-03-24T07:15:47.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "NZ, SA తక్కువ-సందర్భం సిరీస్ అధిక-స్టేక్స్ ముగింపుకు చేరుకున్నందున అందరూ ఆడవలసి ఉంటుంది",
-      "summary_te": "క్రైస్ట్‌చర్చ్‌లో నిర్ణయాత్మకంగా సిరీస్ 2-2తో లాక్ చేయబడింది",
       "translated": true
     },
     {
