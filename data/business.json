@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-25T20:38:16.805Z",
-  "updated_at_IST": "26/3/2026, 2:08:16 am",
+  "updated_at": "2026-03-25T21:38:22.346Z",
+  "updated_at_IST": "26/3/2026, 3:08:22 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "e98174f54ec9628f356a5bb4b37b020f",
+      "title": "Zelensky says US security guarantees for Ukraine conditional on Donbas withdrawal, warns move would compromise European",
+      "summary": "“With the Middle East definitely having an impact on President Trump, I think on his next steps… unfortunately, in my opinion, he still chooses a strategy to put more pressure on the Ukrainian side,” Zelensky said, highlighting the effect of the US focus on its conflict with Iran.",
+      "url": "https://www.livemint.com/news/world/zelensky-says-us-security-guarantees-for-ukraine-conditional-on-donbas-withdrawal-warns-move-would-compromise-european-11774471844953.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/UKRAINE-BELGIUM-EU-SUMMIT-DIPLOMACY-1_1774473236470_1774473247131.jpg",
+      "published_at": "2026-03-25T21:19:56.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "డాన్‌బాస్ ఉపసంహరణపై ఉక్రెయిన్ షరతులతో కూడిన US భద్రతా హామీలు, యూరోపియన్‌తో రాజీ పడుతుందని హెచ్చరించిన జెలెన్స్కీ చెప్పారు",
+      "summary_te": "\"అధ్యక్షుడు ట్రంప్‌పై మధ్యప్రాచ్యం ఖచ్చితంగా ప్రభావం చూపుతున్నందున, నేను అతని తదుపరి దశలపై ఆలోచిస్తున్నాను... దురదృష్టవశాత్తు, నా అభిప్రాయం ప్రకారం, అతను ఉక్రేనియన్ వైపు మరింత ఒత్తిడి తెచ్చే వ్యూహాన్ని ఎంచుకుంటాడు\" అని జెలెన్స్కీ చెప్పారు, ఇరాన్‌తో దాని వివాదంపై అమెరికా దృష్టి ప్రభావం చూపుతుంది.",
+      "translated": true
+    },
+    {
+      "id": "82956f76917b457dab49b02139238cc7",
+      "title": "Iran’s FM says ‘no negotiations have happened’ even as Tehran assesses US’ peace proposal",
+      "summary": "“No negotiations have happened with the enemy until now, and we do not plan on any negotiations,” Araghchi said.",
+      "url": "https://www.livemint.com/news/world/irans-fm-says-no-negotiations-have-happened-even-as-tehran-assesses-us-peace-proposal-11774470751470.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/IRAN-CRISIS--0_1774471057736_1774471069488.JPG",
+      "published_at": "2026-03-25T20:41:05.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "టెహ్రాన్ US శాంతి ప్రతిపాదనను అంచనా వేసినప్పటికీ, ఇరాన్ యొక్క FM 'చర్చలు జరగలేదు' అని చెప్పారు",
+      "summary_te": "\"ఇప్పటి వరకు శత్రువుతో ఎటువంటి చర్చలు జరగలేదు మరియు మేము ఎటువంటి చర్చలకు ప్లాన్ చేయము\" అని అరాఘి చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "aa1daee7be9d7663bccbff4e910bf78b",
       "title": "India gathers data to counter US claims of excess capacity",
@@ -28,7 +56,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ ఒప్పందాన్ని తిరస్కరిస్తే ట్రంప్ 'బ్లాఫ్ చేయడు... నరకాన్ని విప్పడానికి సిద్ధంగా ఉన్నాడు' అని వైట్ హౌస్ పేర్కొంది",
+      "title_te": "ఇరాన్ ఒప్పందాన్ని తిరస్కరిస్తే ట్రంప్ ‘బ్లాఫ్ చేయడు… నరకాన్ని విప్పడానికి సిద్ధంగా ఉన్నాడు’ అని వైట్ హౌస్ పేర్కొంది",
       "summary_te": "\"చర్చలు కొనసాగుతున్నాయి. అవి ఉత్పాదకంగా ఉన్నాయి,\" ప్రెస్ సెక్రటరీ కరోలిన్ లీవిట్ బ్రీఫింగ్ సందర్భంగా మాట్లాడుతూ, చర్చలు నిలిచిపోయాయని వాదనలకు వ్యతిరేకంగా వెనక్కి నెట్టారు.",
       "translated": true
     },
@@ -57,7 +85,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
@@ -252,7 +280,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: రిస్క్‌లు తీసుకోవడంపై సిమోన్ బైల్స్ - ‘నేను దాని కంటే పని చేయని రిస్క్‌లను తీసుకున్నందుకు చింతిస్తున్నాను…’",
+      "title_te": "కోట్ ఆఫ్ ది డే: రిస్క్‌లు తీసుకోవడంపై సిమోన్ బైల్స్ - ‘నేను ఫలించని రిస్క్‌లను తీసుకున్నందుకు చింతిస్తున్నాను…’",
       "summary_te": "ఒహియోలోని కొలంబస్‌లో జన్మించారు - 1997లో - సిమోన్ బైల్స్ ఆరేళ్ల వయసులో ఆమె జిమ్నాస్టిక్స్ ఒడిస్సీని ప్రారంభించింది. నేడు, ఆమె ఎప్పటికప్పుడు గొప్ప జిమ్నాస్ట్‌లలో ఒకరిగా పరిగణించబడుతుంది",
       "translated": true
     },
@@ -394,34 +422,6 @@
       "language": "en",
       "title_te": "మిడిల్ ఈస్ట్ వార్: యుఎస్-ఇరాన్ యుద్ధం నుండి చమురు సంక్షోభం ఇంధన ధరలు పెరగడంతో చైనా యొక్క EV తయారీదారులను పెంచుతుందని నివేదిక పేర్కొంది",
       "summary_te": "మధ్యప్రాచ్య యుద్ధం: పునరుత్పాదక శక్తి మరియు ఎలక్ట్రిక్ వాహనాలకు బీజింగ్ మారడం దాని చమురు వినియోగాన్ని కనీసం 10% తగ్గించింది. కొనసాగుతున్న మధ్యప్రాచ్య వివాదం చైనా యొక్క EV పరిశ్రమకు మరింత ప్రయోజనం చేకూర్చవచ్చు, ఎందుకంటే అధిక చమురు ధరలు ప్రపంచ విస్తరణకు, ముఖ్యంగా ఆసియాలో.",
-      "translated": true
-    },
-    {
-      "id": "f630a3f6e76f784c89fa34451e23582b",
-      "title": "Trump’s war briefings feature daily video clips of US military strikes on Iran: Report",
-      "summary": "Each montage typically runs for about two minutes, though some have been longer, according to the report.",
-      "url": "https://www.livemint.com/news/us-news/trumps-war-briefings-feature-daily-video-clips-of-us-military-strikes-on-iran-report-11774443182536.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/MULLIN-SWEAR-IN-23_1774444276256_1774444286717.jpg",
-      "published_at": "2026-03-25T13:12:35.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ట్రంప్ యొక్క వార్ బ్రీఫింగ్‌లలో ఇరాన్‌పై US సైనిక దాడులకు సంబంధించిన రోజువారీ వీడియో క్లిప్‌లు ఉన్నాయి: నివేదిక",
-      "summary_te": "నివేదిక ప్రకారం, ప్రతి మాంటేజ్ సాధారణంగా దాదాపు రెండు నిమిషాల పాటు నడుస్తుంది, అయితే కొన్ని ఎక్కువ సమయం తీసుకున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "60312b8c961208c33b298dc9b0a7d84c",
-      "title": "Cabinet clears ₹28,840 crore for regional connectivity scheme revamp, ₹1,800 crore to upgrade immigration system",
-      "summary": "The cabinet cleared a modified version of the Udan scheme to expand connectivity. It also cleared the upgrade of the country’s immigration system for better management of immigration system",
-      "url": "https://www.livemint.com/news/india/cabinet-meeting-india-udan-aviation-scheme-immigration-system-11774437473239.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/g20b0ba1fdf69bb614b96846f376b4eb6fb55ee95a14000273_1774440780566_1774440780695.jpg",
-      "published_at": "2026-03-25T12:14:54.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రాంతీయ కనెక్టివిటీ స్కీమ్ పునరుద్ధరణకు ₹28,840 కోట్లు, ఇమ్మిగ్రేషన్ సిస్టమ్‌ను అప్‌గ్రేడ్ చేయడానికి ₹1,800 కోట్లు మంజూరు చేసింది క్యాబినెట్",
-      "summary_te": "కనెక్టివిటీని విస్తరించేందుకు ఉడాన్ పథకం యొక్క సవరించిన సంస్కరణను మంత్రివర్గం ఆమోదించింది. ఇమ్మిగ్రేషన్ వ్యవస్థ యొక్క మెరుగైన నిర్వహణ కోసం దేశం యొక్క ఇమ్మిగ్రేషన్ వ్యవస్థ యొక్క అప్‌గ్రేడ్‌ను కూడా ఇది క్లియర్ చేసింది",
       "translated": true
     },
     {

@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T20:38:16.805Z",
-  "updated_at_IST": "26/3/2026, 2:08:16 am",
+  "updated_at": "2026-03-25T21:38:22.346Z",
+  "updated_at_IST": "26/3/2026, 3:08:22 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "485c6b7dccfa812d3da3d68ab794ff49",
+      "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
+      "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
+      "published_at": "2026-03-25T20:59:14.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రాజస్థాన్ రాయల్స్ US ఆధారిత పెట్టుబడిదారుల కన్సార్టియం US $ 1.635 బిలియన్లకు విక్రయించబడింది.",
+      "summary_te": "బిడ్‌లో అన్ని రాయల్స్ బ్రాండెడ్ జట్ల యాజమాన్యం ఉంది: SA20లో పార్ల్ రాయల్స్ మరియు CPLలో బార్బడోస్ రాయల్స్",
+      "translated": true
+    },
     {
       "id": "9c904da646f53f3f0764e918fe279e34",
       "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "ECB శుభ్రం చేయు మరియు పునరావృత చక్రాన్ని ఎంచుకున్నందున ఎటువంటి మార్పు లేదు",
       "summary_te": "టెస్ట్ జట్టు అదృష్టాన్ని మార్చడానికి మేనేజ్‌మెంట్ బాధ్యతలను తిరిగి ఇస్తుంది, కానీ రుజువు పుడ్డింగ్‌లో ఉంటుంది",
-      "translated": true
-    },
-    {
-      "id": "649c8c265b27a63da57356926d49898d",
-      "title": "Stokes: Ashes aftermath has been 'hardest period' of captaincy",
-      "summary": "England captain 'so happy' to continue to work with McCullum and Key, despite gruelling winter",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528920.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411600/411614.jpg",
-      "published_at": "2026-03-23T20:12:37.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "స్టోక్స్: యాషెస్ తర్వాత కెప్టెన్సీకి 'కష్టతరమైన కాలం'",
-      "summary_te": "కఠినమైన శీతాకాలం ఉన్నప్పటికీ, మెకల్లమ్ మరియు కీలతో కలిసి పనిచేయడం కొనసాగించినందుకు ఇంగ్లండ్ కెప్టెన్ 'చాలా సంతోషంగా' ఉన్నాడు",
       "translated": true
     }
   ]
