@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T12:48:39.690Z",
-  "updated_at_IST": "25/3/2026, 6:18:39 pm",
+  "updated_at": "2026-03-25T14:22:36.281Z",
+  "updated_at_IST": "25/3/2026, 7:52:36 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "45c4326ee78c97ebd19162b4eeac214d",
+      "title": "A bet, a bat, and a breakout: The making of Esterhuizen's dream debut series",
+      "summary": "Backed by his captain Maharaj, the 24-year old anchored SA's turnaround and emerged as the defining batter of the series",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529152.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414890.jpg",
+      "published_at": "2026-03-25T13:09:58.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఒక పందెం, ఒక బ్యాట్ మరియు బ్రేక్అవుట్: ఈస్టర్‌హుజెన్ కలల తొలి సిరీస్ మేకింగ్",
+      "summary_te": "అతని కెప్టెన్ మహారాజ్ మద్దతుతో, 24 ఏళ్ల యువకుడు SA యొక్క టర్న్‌అరౌండ్‌ను ఎంకరేజ్ చేసాడు మరియు సిరీస్ యొక్క నిర్వచించే బ్యాటర్‌గా ఉద్భవించాడు",
+      "translated": true
+    },
     {
       "id": "ce2e20c2027c6396b1ab1acdf0753ded",
       "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
@@ -29,7 +43,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "Esterhuize, బౌలర్లు దక్షిణాఫ్రికా 3-2 సిరీస్ విజయం సాధించారు",
-      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హ్యూజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
+      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హుజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
       "translated": true
     },
     {
@@ -85,7 +99,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
-      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియంచే \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
+      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియం ద్వారా \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
       "translated": true
     },
     {
@@ -309,7 +323,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బీసీబీ సెలక్షన్ కమిటీ చైర్మన్‌గా హబీబుల్ బషర్‌ను నియమించింది",
       "summary_te": "ఫిబ్రవరిలో పదవీకాలం ముగిసిన గాజీ అష్రఫ్ స్థానంలో బషర్ నియమితులయ్యారు",
-      "translated": true
-    },
-    {
-      "id": "5d8748bba7a4b4354df42aa95e511515",
-      "title": "Alex Davies steps down as Warwickshire captain",
-      "summary": "Ed Barnard takes over as captain across all three formats",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528892.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/379100/379127.jpg",
-      "published_at": "2026-03-23T10:23:39.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వార్విక్‌షైర్ కెప్టెన్సీ నుంచి అలెక్స్ డేవిస్ తప్పుకున్నాడు",
-      "summary_te": "ఎడ్ బర్నార్డ్ మూడు ఫార్మాట్లలో కెప్టెన్‌గా బాధ్యతలు చేపట్టాడు",
       "translated": true
     }
   ]
