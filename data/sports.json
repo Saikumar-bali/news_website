@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T07:57:19.503Z",
-  "updated_at_IST": "25/3/2026, 1:27:19 pm",
+  "updated_at": "2026-03-25T08:48:28.182Z",
+  "updated_at_IST": "25/3/2026, 2:18:28 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c7af2005bca267bdbcbc03ae26556446",
+      "title": "Spencer Johnson replaces Ellis at CSK, to join the squad around April 21-23",
+      "summary": "Johnson hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
+      "published_at": "2026-03-25T08:24:23.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "CSKలో ఎల్లిస్ స్థానంలో స్పెన్సర్ జాన్సన్ ఏప్రిల్ 21-23 మధ్య జట్టులో చేరాడు",
+      "summary_te": "గత ఏడాది ఐపీఎల్‌లో వెన్ను గాయంతో జాన్సన్ టాప్-ఫ్లైట్ క్రికెట్ ఆడలేదు",
+      "translated": true
+    },
     {
       "id": "ef4efd66a7f2027cafbaf409c4ec2abb",
       "title": "New Zealand bowl, both teams unchanged for decider",
@@ -44,20 +58,6 @@
       "language": "en",
       "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
       "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియంచే \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
-      "translated": true
-    },
-    {
-      "id": "c7af2005bca267bdbcbc03ae26556446",
-      "title": "Spencer Johnson replaces injured Nathan Ellis at CSK",
-      "summary": "Johnson however hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
-      "published_at": "2026-03-25T05:26:35.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "CSKలో గాయపడిన నాథన్ ఎల్లిస్ స్థానంలో స్పెన్సర్ జాన్సన్ వచ్చాడు",
-      "summary_te": "జాన్సన్ అయితే గత సంవత్సరం IPL నుండి, అతను వెన్ను గాయంతో బాధపడ్డప్పటి నుండి టాప్-ఫ్లైట్ క్రికెట్ ఆడలేదు",
       "translated": true
     },
     {
