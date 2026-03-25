@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-25T11:45:45.927Z",
-  "updated_at_IST": "25/3/2026, 5:15:45 pm",
+  "updated_at": "2026-03-25T12:48:39.690Z",
+  "updated_at_IST": "25/3/2026, 6:18:39 pm",
   "category": "telangana",
-  "count": 20,
+  "count": 19,
   "articles": [
+    {
+      "id": "6653676dbf0069c4fbbfaf12949b6fd2",
+      "title": "Telangana | Petroleum product stocks more than adequate for next 3 months, no shortage: Minister",
+      "summary": "Uttam says that carrying petrol and diesel in cans will not be allowed and the practice is hazardous",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-petroleum-product-stocks-more-than-adequate-for-next-3-months-no-shortage-minister/article70783677.ece",
+      "image": "https://th-i.thgim.com/public/incoming/mc4rb9/article70783692.ece/alternates/LANDSCAPE_1200/IMG_1000825271_2_1_B5DNPSGJ.jpg",
+      "published_at": "2026-03-25T11:16:46.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "తెలంగాణ | వచ్చే 3 నెలలకు సరిపడా పెట్రోలియం ఉత్పత్తి నిల్వలు, కొరత లేదు: మంత్రి",
+      "summary_te": "క్యాన్లలో పెట్రోలు, డీజిల్ తీసుకెళ్ళడాన్ని అనుమతించబోమని, ఈ పద్ధతి ప్రమాదకరమని ఉత్తమ్ చెప్పారు",
+      "translated": true
+    },
+    {
+      "id": "24fecf8b3f5637d57fd9535f9656f84f",
+      "title": "Telangana issued 16 notifications to fill 31,798 posts; recruitment for 67,763 direct posts completed since Congress formed Govt: Bhatti",
+      "summary": "67,763 recruitments comprises of completion of process for notifications issued by BRS Govt, he said",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-issued-16-notifications-to-fill-31798-posts-recruitment-for-67763-direct-posts-completed-since-congress-formed-govt-bhatti/article70783449.ece",
+      "image": "https://th-i.thgim.com/public/incoming/66nt56/article70783508.ece/alternates/LANDSCAPE_1200/IMG_10hyng__application__2_1_IPE0SRL5.jpg",
+      "published_at": "2026-03-25T11:06:08.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "తెలంగాణ 31,798 పోస్టుల భర్తీకి 16 నోటిఫికేషన్లు జారీ చేసింది; కాంగ్రెస్ ప్రభుత్వాన్ని ఏర్పాటు చేసినప్పటి నుండి 67,763 డైరెక్ట్ పోస్టులకు రిక్రూట్‌మెంట్ పూర్తయింది: భట్టి",
+      "summary_te": "67,763 రిక్రూట్‌మెంట్‌లు BRS ప్రభుత్వం జారీ చేసిన నోటిఫికేషన్‌ల ప్రక్రియను పూర్తి చేశాయని ఆయన చెప్పారు.",
+      "translated": true
+    },
     {
       "id": "ab3b217048696438f82f0df4bdbe838f",
       "title": "Delimitation exercise will make Southern States irrelevant in national politics: Telangana CM",
@@ -71,7 +99,7 @@
       "category": "telangana",
       "language": "en",
       "title_te": "హైదరాబాద్ మెట్రోపాలిటన్ రీజియన్‌లో మరో నాలుగు గ్రామాలు చేరాయి",
-      "summary_te": "వికారాబాద్‌ జిల్లాలోని నాలుగు గ్రామాలను హైదరాబాద్‌ మహానగరాభివృద్ధి సంస్థ అభివృద్ధి పరిధిలోకి తెస్తూ తెలంగాణ ప్రభుత్వం మంగళవారం ఉత్తర్వులు జారీ చేసింది. దాని ప్రకారం జిల్లాలోని మోమిన్‌పేట మండలం టేకులపల్లి, యెంకతల, నవాబుపేట మండలం చిట్టిగూడ, యావాపూర్‌ గ్రామాలను హైదరాబాద్‌ మహానగర పరిధిలోకి చేర్చారు.",
+      "summary_te": "హైదరాబాద్ మహానగరాభివృద్ధి సంస్థ ద్వారా వికారాబాద్ జిల్లాలోని నాలుగు గ్రామాలను అభివృద్ధి పధంలోకి తెస్తూ తెలంగాణ ప్రభుత్వం మంగళవారం ఉత్తర్వులు జారీ చేసింది.దాని ప్రకారం నవాబుపేట మండలంలోని చిట్టిగూడ, యావాపూర్, మోమిన్‌పేట మండలంలోని టేకులపల్లి, యెంకతల గ్రామాలను హైదరాబాద్ మహానగర పరిధిలోకి చేర్చారు.",
       "translated": true
     },
     {
@@ -128,20 +156,6 @@
       "language": "en",
       "title_te": "హైదరాబాద్‌లో ఇంధన కొరత లేదని కలెక్టర్‌ తెలిపారు",
       "summary_te": "హైదరాబాద్ జిల్లా కలెక్టర్ హరి చందన దాసరి బుధవారం (మార్చి 25, 2026) పుకార్లు వ్యాపించడంతో ఆందోళన చెందుతున్న నేపథ్యంలో జిల్లాలో ఇంధన కొరత లేదని స్పష్టం చేశారు.హైదరాబాద్ జిల్లాలోని మొత్తం 181 పెట్రోల్ పంపులు పూర్తిస్థాయిలో పని చేస్తున్నాయని, ఇంధనం అంతరాయం లేకుండా తగినంత నిల్వ ఉందని కలెక్టర్ ఒక ప్రకటనలో తెలిపారు. పెట్రోల్ లేదా డీజిల్‌కు ఎలాంటి కొరత లేదని, తప్పుడు సమాచారాన్ని నమ్మవద్దని, ప్రచారం చేయవద్దని వాహనదారులను ఆమె ఉద్ఘాటించారు.",
-      "translated": true
-    },
-    {
-      "id": "455ac02032b1d019d70cf6b991a08321",
-      "title": "Panic over fuel supply chokes Hyderabad roads on March 25, traffic grinds to a crawl during morning rush hour",
-      "summary": "Police enforce queues with joint traffic and law-and-order personnel deployment to ease congestion. Old Mumbai Highway, Gachibowli and Lakdikapul emerge as key pressure points as fuel lines spill onto carriageways",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/panic-over-fuel-supply-chokes-hyderabad-roads-traffic-grinds-to-a-crawl-during-rush-hour/article70782664.ece",
-      "image": "https://th-i.thgim.com/public/incoming/jd6f1k/article70782738.ece/alternates/LANDSCAPE_1200/DSC2121.jpg",
-      "published_at": "2026-03-25T05:41:58.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "ఇంధన సరఫరాపై భయాందోళనలు మార్చి 25 న హైదరాబాద్ రోడ్లను ఉక్కిరిబిక్కిరి చేస్తాయి, ఉదయం రద్దీ సమయంలో ట్రాఫిక్ క్రాల్ అవుతుంది",
-      "summary_te": "రద్దీని తగ్గించడానికి పోలీసులు ఉమ్మడి ట్రాఫిక్ మరియు శాంతిభద్రతల సిబ్బందిని మోహరించడంతో క్యూలను అమలు చేస్తారు. పాత ముంబయి హైవే, గచ్చిబౌలి మరియు లక్డికాపూల్ క్యారేజ్‌వేలపైకి ఇంధన లైన్లు స్పిరించడంతో కీలక పీడన కేంద్రాలుగా మారాయి.",
       "translated": true
     },
     {
@@ -254,34 +268,6 @@
       "language": "en",
       "title_te": "క్రీడలు వ్యక్తిత్వాన్ని, కెరీర్ పథాలను నిర్మిస్తాయని మాజీ అంతర్జాతీయ బ్యాడ్మింటన్ క్రీడాకారుడు చెప్పారు",
       "summary_te": "మంగళవారం వరంగల్‌లోని కాకతీయ ఇన్‌స్టిట్యూట్ ఆఫ్ టెక్నాలజీ అండ్ సైన్స్ (కిట్స్‌డబ్ల్యూ) 37వ వార్షిక క్రీడా దినోత్సవ వేడుకల్లో విద్యార్థులను ఉద్దేశించి ప్రసంగిస్తూ, వ్యక్తిత్వాన్ని, జీవన నైపుణ్యాలను బలోపేతం చేయడంలో క్రీడల పరివర్తన శక్తిని మాజీ అంతర్జాతీయ బ్యాడ్మింటన్ క్రీడాకారుడు పి.మనోజ్ కుమార్ నొక్కిచెప్పారు. వొడితల సతీష్ కుమార్ విద్యార్థులు భావోద్వేగ సమతుల్యత, ఆధ్యాత్మిక విలువలు, క్రమశిక్షణ మరియు మంచి ప్రవర్తనను కొనసాగించాలని ప్రోత్సహించారు.2025-2026 విద్యా సంవత్సరంలో 40కి పైగా క్రీడలు మరియు ఆటలు నిర్వహించబడ్డాయి. వివిధ విభాగాల్లో విజేతలకు మొత్తం 12 ట్రోఫీలు మరియు 500 పైగా పతకాలు, ప్రత్యేక క్రీడా కార్యక్రమాల కోసం అదనంగా 50 పతకాలు అందించబడ్డాయి.",
-      "translated": true
-    },
-    {
-      "id": "aac701bf10869b159cc32811384baf31",
-      "title": "Pelting hailstorm and squall of rain bring Hyderabad to a standstill",
-      "summary": "Heavy rain accompanied by a hailstorm lashed several parts of Hyderabad on the evening of Tuesday (March 24) leaving many areas waterlogged and triggering severe traffic congestion across the city. Commuters spent hours travelling from their workplaces to homes. Many people took to social media showing the size of the hail caught by them.The downpour coincided with peak evening hours, when office-goers were returning home, worsening the situation on major roads. Traffic came to a near standstill at several locations, with long queues of vehicles reported across key stretches. In the IT corridor around Gachibowli, Biodiversity Junction, commuters reported that only a stream of red tail lights was visible amid the gridlock.",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hailstorm-sudden-showers-across-hyderabad-send-commuters-scurrying-on-march-24-evening/article70780093.ece",
-      "image": "https://th-i.thgim.com/public/incoming/pp6v75/article70780416.ece/alternates/LANDSCAPE_1200/_DSC8902.JPG",
-      "published_at": "2026-03-24T16:55:15.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "వడగళ్ల వాన, కుండపోత వర్షంతో హైదరాబాద్‌ స్తంభించింది",
-      "summary_te": "మంగళవారం (మార్చి 24) సాయంత్రం హైదరాబాద్‌లోని పలు ప్రాంతాల్లో వడగళ్ల వానతో కూడిన భారీ వర్షం కురిసింది. ప్రయాణికులు తమ కార్యాలయాల నుంచి ఇళ్లకు గంటల తరబడి ప్రయాణించారు. చాలా మంది వ్యక్తులు తాము పట్టుకున్న వడగళ్ల పరిమాణాన్ని చూపుతూ సోషల్ మీడియాలోకి వచ్చారు. ఆఫీసులకు వెళ్లినవారు ఇంటికి తిరిగి వస్తున్న సమయంలో పీక్ సాయంత్రం సమయంలో కురిసిన వర్షం ప్రధాన రహదారులపై పరిస్థితిని మరింత దిగజార్చింది. చాలా చోట్ల వాహనాల రాకపోకలు స్తంభించాయి, కీలకమైన ప్రాంతాలలో వాహనాలు పెద్ద క్యూలో నిలిచాయి. గచ్చిబౌలి, బయోడైవర్సిటీ జంక్షన్ చుట్టూ ఉన్న ఐటీ కారిడార్‌లో గ్రిడ్‌లాక్ మధ్య ఎర్రటి టెయిల్ లైట్ల స్ట్రీమ్ మాత్రమే కనిపిస్తుందని ప్రయాణికులు నివేదించారు.",
-      "translated": true
-    },
-    {
-      "id": "c7943d25871cfb5a48c1be96b81ab350",
-      "title": "Bhadrakali temple works to be completed by year-end: Sridhar Babu",
-      "summary": "Minister for IT, Industries and Legislative Affairs D. Sridhar Babu on Tuesday said that all development works at the Bhadrakali temple in Warangal would be completed by the end of the year.Responding to a question raised by MLC Pochampalli Srinivas Reddy during Question Hour in the Legislative Council, the Minister said that Minister for Endowments Konda Surekha and Minister for Revenue Ponguleti Srinivas Reddy had conducted several review meetings, visited the temple, and provided guidance to officials on the works.Mr. Sridhar Babu said the State government was committed to restoring the historic and spiritual significance of the temple. He assured that all works, including mada streets, construction of a compound wall, gardening, and creation of public amenities, would be completed without shortcomings.“We will ensure that all works are taken up on a fast track and completed as promised,” he said.The Minister also pointed out that the previous government had issued Government Orders (GOs) allocating ₹30 crore under the Bhadrakali temple master plan, but the funds were not released, leaving the plan unimplemented.“Now, we have allocated the necessary funds and are committed to the temple’s development,” he added.",
-      "url": "https://www.thehindu.com/news/national/telangana/bhadrakali-temple-works-to-be-completed-by-year-end-sridhar-babu/article70781110.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-24T16:41:46.000Z",
-      "source": "The Hindu Telangana",
-      "category": "telangana",
-      "language": "en",
-      "title_te": "భద్రకాళి ఆలయ పనులు ఏడాది చివరి నాటికి పూర్తి: శ్రీధర్ బాబు",
-      "summary_te": "వరంగల్‌లోని భద్రకాళి ఆలయంలో అభివృద్ధి పనులన్నీ ఈ ఏడాది చివరికల్లా పూర్తి చేస్తామని ఐటీ, పరిశ్రమలు, శాసనసభా వ్యవహారాల శాఖ మంత్రి డి.శ్రీధర్‌బాబు తెలిపారు.శాసన మండలిలో ప్రశ్నోత్తరాల సమయంలో ఎమ్మెల్సీ పోచంపల్లి శ్రీనివాస్‌రెడ్డి అడిగిన ప్రశ్నకు మంత్రి దేవాదాయ శాఖ మంత్రి కొండా సురేఖతో కలిసి పలువురితో సమీక్ష నిర్వహించారు. దేవాలయం, పనులపై అధికారులకు మార్గనిర్దేశం చేశారు. ఆలయ చారిత్రక, ఆధ్యాత్మిక విశిష్టతను పునరుద్ధరించేందుకు రాష్ట్ర ప్రభుత్వం కట్టుబడి ఉందని శ్రీధర్‌బాబు తెలిపారు. మాడ వీధులు, కాంపౌండ్‌ వాల్‌ నిర్మాణం, గార్డెనింగ్‌, ప్రజావసరాల కల్పనతో పాటు అన్ని పనులు లోటుపాట్లు లేకుండా పూర్తి చేస్తామని హామీ ఇచ్చారు. అన్ని పనులు త్వరితగతిన చేపట్టి వాగ్దానం చేసినట్లుగా పూర్తిచేస్తాం.గత ప్రభుత్వం భద్రకాళి ఆలయ మాస్టర్‌ ప్లాన్‌ కింద రూ.30 కోట్లు కేటాయిస్తూ ఉత్తర్వులు జారీ చేసిందని మంత్రి దృష్టికి తెచ్చారు. అమలు కాలేదు. \"ఇప్పుడు, మేము అవసరమైన నిధులను కేటాయించాము మరియు ఆలయ అభివృద్ధికి కట్టుబడి ఉన్నాము,\" అన్నారాయన.",
       "translated": true
     }
   ]
