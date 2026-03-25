@@ -1,9 +1,51 @@
 {
-  "updated_at": "2026-03-25T07:00:28.877Z",
-  "updated_at_IST": "25/3/2026, 12:30:28 pm",
+  "updated_at": "2026-03-25T07:57:19.503Z",
+  "updated_at_IST": "25/3/2026, 1:27:19 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "51082460d3b4739cfcff2232614c7d1f",
+      "title": "OMCs assure Indians of ‘adequate’ fuel stocks amid panic buying — ‘Everything is operating smoothly’",
+      "summary": "Centre and oil companies have reassured consumers that there is no shortage of petrol, diesel, or LPG, and have encouraged normal consumption, dismissing panic buying as unnecessary.",
+      "url": "https://www.livemint.com/news/india/omcs-assure-indians-of-adequate-fuel-stocks-amid-panic-buying-everything-is-operating-smoothly-11774419147319.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/ANI-20260324410-0_1774422273592_1774422286104.jpg",
+      "published_at": "2026-03-25T06:59:57.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "భయాందోళనల మధ్య భారతీయులకు 'తగినంత' ఇంధన నిల్వలను OMCలు హామీ ఇస్తున్నాయి - 'అంతా సజావుగా పనిచేస్తోంది'",
+      "summary_te": "కేంద్రం మరియు చమురు కంపెనీలు పెట్రోల్, డీజిల్ లేదా ఎల్‌పిజికి కొరత లేదని వినియోగదారులకు భరోసా ఇచ్చాయి మరియు సాధారణ వినియోగాన్ని ప్రోత్సహించాయి, భయాందోళనలను అనవసరమని కొట్టిపారేసింది.",
+      "translated": true
+    },
+    {
+      "id": "d51137c248dd215ebb57551eb60ffafa",
+      "title": "LPG refill booking timeline: Centre advises against 'panic booking', issues clarification amid rumours of rule change",
+      "summary": "The government assured citizens of sufficient LPG supply and no changes to refill booking timelines on Wednesday. It advised the public against believing in false information circulating in the media and online and to avoid panic bookings.",
+      "url": "https://www.livemint.com/news/india/lpg-refill-booking-timeline-centre-advises-against-panic-booking-issues-clarification-amid-rumours-of-rule-change-11774420429379.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/PTI03-24-2026-000302B-0_1774421300512_1774421325074.jpg",
+      "published_at": "2026-03-25T06:52:04.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "LPG రీఫిల్ బుకింగ్ టైమ్‌లైన్: 'పానిక్ బుకింగ్'కి వ్యతిరేకంగా కేంద్రం సలహా ఇచ్చింది, రూల్ మార్పు పుకార్ల మధ్య వివరణ ఇచ్చింది",
+      "summary_te": "పౌరులకు తగినంత ఎల్‌పిజి సరఫరా ఉంటుందని మరియు బుకింగ్ టైమ్‌లైన్‌లను రీఫిల్ చేయడానికి ఎటువంటి మార్పులు చేయలేదని ప్రభుత్వం హామీ ఇచ్చింది. మీడియా మరియు ఆన్‌లైన్‌లో ప్రసారం అవుతున్న తప్పుడు సమాచారాన్ని నమ్మవద్దని మరియు భయాందోళన బుకింగ్‌లకు దూరంగా ఉండాలని ప్రజలకు సూచించింది.",
+      "translated": true
+    },
+    {
+      "id": "9366a49d6f3f4e5b0e6379085c14f080",
+      "title": "Delhi Assembly targeted in bomb threat email again, second threat in as many days — what we know so far",
+      "summary": "Wednesday's threat comes a day after a similar threat mail was sent to Speaker Vijender Gupta, threatening to blow up the assembly premises and the Vidhan Sabha Metro Station.",
+      "url": "https://www.livemint.com/news/india/delhi-assembly-targeted-in-bomb-threat-email-again-second-threat-in-as-many-days-what-we-know-so-far-11774421313392.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/PTI03-24-2026-000119B-0_1774424039385_1774424053412.jpg",
+      "published_at": "2026-03-25T06:50:56.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఢిల్లీ అసెంబ్లీ మళ్లీ బాంబు బెదిరింపు ఇమెయిల్‌ను లక్ష్యంగా చేసుకుంది, చాలా రోజులలో రెండవ బెదిరింపు - ఇప్పటివరకు మనకు తెలిసినది",
+      "summary_te": "అసెంబ్లీ ప్రాంగణాన్ని, విధానసభ మెట్రో స్టేషన్‌ను పేల్చివేస్తామని బెదిరిస్తూ స్పీకర్ విజయేందర్ గుప్తాకు ఇలాంటి బెదిరింపు మెయిల్ పంపిన ఒక రోజు తర్వాత బుధవారం బెదిరింపు వచ్చింది.",
+      "translated": true
+    },
     {
       "id": "5148a52ded86240a14e13fed83a5095e",
       "title": "Pakistan, Bangladesh-linked arms smuggling ring busted in Delhi; cops recover pistols, submachine guns, ammo",
@@ -43,7 +85,7 @@
       "category": "business",
       "language": "en",
       "title_te": "రోజు కోట్: టామ్ హాంక్స్ ఆన్ రెసిలెన్స్ — ‘ఇది కూడా గడిచిపోతుంది’",
-      "summary_te": "టామ్ హాంక్స్ హాలీవుడ్‌లో స్థిరమైన ఉనికిని కలిగి ఉన్నాడు, విజయం మరియు వైఫల్యం రెండింటి యొక్క తాత్కాలిక స్వభావాన్ని నొక్కి చెప్పాడు. అతని జ్ఞానం స్థితిస్థాపకత మరియు గ్రౌన్దేడ్ దృక్పథాన్ని ప్రోత్సహిస్తుంది, ఇది అధిక పీడన వాతావరణంలో చాలా ముఖ్యమైనది, భావోద్వేగ తీవ్రతలు దాటిపోతాయని మనకు గుర్తు చేస్తుంది.",
+      "summary_te": "టామ్ హాంక్స్ హాలీవుడ్‌లో స్థిరమైన ఉనికిని కలిగి ఉన్నాడు, విజయం మరియు వైఫల్యం రెండింటి యొక్క తాత్కాలిక స్వభావాన్ని నొక్కి చెప్పాడు. అతని జ్ఞానం స్థితిస్థాపకత మరియు గ్రౌన్దేడ్ దృక్పథాన్ని ప్రోత్సహిస్తుంది, ఇది అధిక పీడన వాతావరణంలో చాలా ముఖ్యమైనది, భావోద్వేగ తీవ్రతలు దాటిపోతాయని మనకు గుర్తుచేస్తుంది.",
       "translated": true
     },
     {
@@ -57,7 +99,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బుషెహర్ అణు కర్మాగారాన్ని అమెరికా, ఇజ్రాయెల్ ఢీకొన్నాయని ఇరాన్ పేర్కొంది- ఈ సౌకర్యం యొక్క వ్యూహాత్మక ప్రాముఖ్యత ఏమిటి? | వివరించారు",
-      "summary_te": "ఇరాన్ యుద్ధం: బుషెహర్ అణు కర్మాగారంలో ప్రక్షేపకాల దాడి వల్ల ఎటువంటి నష్టం జరగలేదని IAEA నివేదించింది, ఇది తక్కువ సామర్థ్యంతో పనిచేస్తుంది, అయితే ఇరాన్ యొక్క శక్తి సరఫరాకు ఇది చాలా కీలకం.",
+      "summary_te": "ఇరాన్ యుద్ధం: IAEA బుషెహర్ అణు కర్మాగారంలో ప్రక్షేపకాల సమ్మె నుండి ఎటువంటి నష్టం జరగలేదని నివేదించింది, ఇది తక్కువ సామర్థ్యంతో పనిచేస్తుంది, అయితే ఇరాన్ యొక్క శక్తి సరఫరాకు ఇది చాలా కీలకం.",
       "translated": true
     },
     {
@@ -141,7 +183,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హైదరాబాద్, ఇండోర్‌లోని పెట్రోల్ పంపులు ఇంధన సంక్షోభం మధ్య వాహనదారుల పొడవైన క్యూలను చూస్తాయి; ఇంటర్నెట్ ప్రతిచర్యలు: '500మీ వరకు లైన్లు'",
-      "summary_te": "పెట్రోల్, డీజిల్ మరియు LPG కొరత లేదని ప్రభుత్వం హామీ ఇచ్చినప్పటికీ, మధ్యప్రాచ్యంలో జరుగుతున్న ఘర్షణల మధ్య భారతదేశంలో ఇంధన కొనుగోలు భయాందోళనలు పెరుగుతోంది. వివిధ నగరాల్లో పెట్రోల్ పంపుల వద్ద పొడవైన క్యూలు కనిపించాయి",
+      "summary_te": "పెట్రోల్, డీజిల్ మరియు LPG కొరత లేదని ప్రభుత్వం హామీ ఇచ్చినప్పటికీ, మధ్యప్రాచ్యంలో కొనసాగుతున్న వివాదాల మధ్య భారతదేశంలో ఇంధన కొనుగోలు భయం పెరుగుతోంది. వివిధ నగరాల్లో పెట్రోల్ పంపుల వద్ద పొడవైన క్యూలు కనిపించాయి",
       "translated": true
     },
     {
@@ -365,7 +407,7 @@
       "category": "business",
       "language": "en",
       "title_te": "డి-డే ఫేమ్ యొక్క 82వ వైమానిక విభాగం ఇరాన్ యుద్ధం మధ్య మధ్యప్రాచ్యానికి పంపబడుతుంది- 2,000 మంది సైనికులను పంపాలనే ట్రంప్ ప్రణాళిక గురించి",
-      "summary_te": "US మెరైన్‌లు US రాయబార కార్యాలయాలకు సహాయం చేయడం మరియు పౌరులను తరలించడం మరియు విపత్తు సహాయాన్ని అందించడం వంటి వివిధ మిషన్ దృశ్యాలలో శిక్షణ పొందినప్పటికీ, 82వ వైమానిక విభాగం ప్రత్యేకించి వ్యూహాత్మక పాయింట్లు, కీలక భూభాగాలు మరియు ఎయిర్‌ఫీల్డ్‌లను సురక్షితంగా ఉంచడానికి శత్రు రేఖల వెనుక పారాచూట్ చేయడానికి శిక్షణ పొందింది.",
+      "summary_te": "US మెరైన్‌లు US రాయబార కార్యాలయాలకు సహాయం చేయడం మరియు పౌరులను తరలించడం మరియు విపత్తు సహాయాన్ని అందించడం వంటి వివిధ మిషన్ దృశ్యాలలో శిక్షణ పొందినప్పటికీ, 82వ వైమానిక విభాగం ప్రత్యేకంగా వ్యూహాత్మక పాయింట్లు, కీలక భూభాగాలు మరియు ఎయిర్‌ఫీల్డ్‌లను భద్రపరచడానికి శత్రు రేఖల వెనుక పారాచూట్ చేయడానికి శిక్షణ పొందింది.",
       "translated": true
     },
     {
@@ -394,48 +436,6 @@
       "language": "en",
       "title_te": "సౌదీ క్రౌన్ ప్రిన్స్ మహ్మద్ బిన్ సల్మాన్ ఇరాన్ యుద్ధాన్ని కొనసాగించడానికి ట్రంప్‌ను ముందుకు తెచ్చారు: నివేదిక",
       "summary_te": "ఇటీవలి సంభాషణలలో, ఇరాన్ యొక్క కఠినమైన ప్రభుత్వాన్ని కూల్చివేయడానికి వాషింగ్టన్ ముందుకు సాగాలని సౌదీ నాయకుడు తెలియజేసినట్లు నివేదిక పేర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "5faf99dfdbedc3e93f8364a88735a1d7",
-      "title": "US Set to Deploy 2,000 Troops From 82nd Airborne to Middle East",
-      "summary": "The Trump administration has ordered the 82nd Airborne Division to deploy about 2,000 soldiers to the Middle East, a person familiar with the matter said, as the White House weighs options to ease Iran’s chokehold on the Strait of Hormuz.",
-      "url": "https://www.livemint.com/news/us-set-to-deploy-2-000-troops-from-82nd-airborne-to-middle-east-11774385633175.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news2_1733464197434_1733464227231.jpg",
-      "published_at": "2026-03-24T20:53:52.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "82వ ఎయిర్‌బోర్న్ నుండి మిడిల్ ఈస్ట్ వరకు 2,000 మంది సైనికులను మోహరించేందుకు యుఎస్ సిద్ధమైంది.",
-      "summary_te": "ట్రంప్ పరిపాలన 82వ వైమానిక విభాగాన్ని మిడిల్ ఈస్ట్‌కు సుమారు 2,000 మంది సైనికులను మోహరించాలని ఆదేశించింది, హార్ముజ్ జలసంధిపై ఇరాన్ ఉక్కిరిబిక్కిరి చేయడానికి వైట్ హౌస్ ఎంపికలను పరిశీలిస్తున్నందున, ఈ విషయం గురించి తెలిసిన వ్యక్తి చెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "74e4e3da22ab054447b7b8ddfa847be9",
-      "title": "Donald Trump says Iran offered ‘energy-linked present’ amid ongoing US-Iran negotiations",
-      "summary": "“We’re in negotiations right now,” Trump told reporters at the White House on Tuesday (March 24), adding that multiple senior officials are involved in the talks.",
-      "url": "https://www.livemint.com/news/us-news/donald-trump-says-iran-offered-energy-linked-present-amid-ongoing-us-iran-negotiations-11774380832046.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/24/1600x900/logo/Trump-13_1774381070095_1774381078014.jpg",
-      "published_at": "2026-03-24T20:38:56.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "అమెరికా-ఇరాన్ చర్చల మధ్య ఇరాన్ 'ఎనర్జీ-లింక్డ్ ప్రెజెంట్' అందించిందని డొనాల్డ్ ట్రంప్ చెప్పారు",
-      "summary_te": "\"మేము ప్రస్తుతం చర్చలు జరుపుతున్నాము\" అని ట్రంప్ మంగళవారం (మార్చి 24) వైట్ హౌస్‌లో విలేకరులతో మాట్లాడుతూ, చర్చలలో బహుళ సీనియర్ అధికారులు పాల్గొంటున్నారని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "b8a859d962b27ce02e5563e426296679",
-      "title": "Safety System Failed to Alert LaGuardia Tower Before Fatal Crash",
-      "summary": "A system designed to help air-traffic controllers monitor vehicles and airplanes on the ground failed to alert personnel at LaGuardia Airport before an Air Canada Express jet collided with a fire truck late Sunday evening, killing the two pilots.",
-      "url": "https://www.livemint.com/news/safety-system-failed-to-alert-laguardia-tower-before-fatal-crash-11774383163176.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
-      "published_at": "2026-03-24T20:12:42.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఫాటల్ క్రాష్‌కు ముందు లాగ్వార్డియా టవర్‌ని హెచ్చరించడంలో భద్రతా వ్యవస్థ విఫలమైంది",
-      "summary_te": "ఆదివారం సాయంత్రం ఎయిర్ కెనడా ఎక్స్‌ప్రెస్ జెట్ అగ్నిమాపక ట్రక్కును ఢీకొనడానికి ముందు లాగార్డియా విమానాశ్రయంలో సిబ్బందిని అప్రమత్తం చేయడంలో ఎయిర్-ట్రాఫిక్ కంట్రోలర్‌లకు సహాయం చేయడానికి రూపొందించిన వ్యవస్థ, ఇద్దరు పైలట్‌లు మరణించారు.",
       "translated": true
     },
     {
