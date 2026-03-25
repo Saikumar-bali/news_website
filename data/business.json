@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T19:50:21.882Z",
-  "updated_at_IST": "26/3/2026, 1:20:21 am",
+  "updated_at": "2026-03-25T20:38:16.805Z",
+  "updated_at_IST": "26/3/2026, 2:08:16 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "aa1daee7be9d7663bccbff4e910bf78b",
+      "title": "India gathers data to counter US claims of excess capacity",
+      "summary": "India is compiling detailed industry data following a US Section 301 probe into alleged excess capacity in sectors like petrochemicals and steel. The commerce ministry is gathering information on production, employment, and policy support to address US concerns about practices potentially burdening American commerce.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-gathers-data-to-counter-us-claims-of-excess-capacity/articleshow/129810831.cms",
+      "image": null,
+      "published_at": "2026-03-25T19:30:45.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "అదనపు సామర్థ్యం గురించి US వాదనలను ఎదుర్కోవడానికి భారతదేశం డేటాను సేకరిస్తుంది",
+      "summary_te": "పెట్రోకెమికల్స్ మరియు స్టీల్ వంటి రంగాలలో ఆరోపించిన అదనపు సామర్థ్యంపై US సెక్షన్ 301 విచారణ తర్వాత భారతదేశం వివరణాత్మక పరిశ్రమ డేటాను సంకలనం చేస్తోంది. వాణిజ్య మంత్రిత్వ శాఖ ఉత్పత్తి, ఉపాధి మరియు విధాన మద్దతుపై సమాచారాన్ని సేకరిస్తోంది, అమెరికన్ వాణిజ్యంపై భారం పడే పద్ధతుల గురించి US ఆందోళనలను పరిష్కరించడానికి.",
+      "translated": true
+    },
     {
       "id": "2e1df2e485e25ccb8dea021987f0bda7",
       "title": "White House says Trump ‘does not bluff… prepared to unleash hell’ if Iran rejects deal",
@@ -14,8 +28,22 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ ఒప్పందాన్ని తిరస్కరిస్తే ట్రంప్ ‘బ్లాఫ్ చేయడు… నరకాన్ని విప్పడానికి సిద్ధంగా ఉన్నాడు’ అని వైట్ హౌస్ పేర్కొంది",
+      "title_te": "ఇరాన్ ఒప్పందాన్ని తిరస్కరిస్తే ట్రంప్ 'బ్లాఫ్ చేయడు... నరకాన్ని విప్పడానికి సిద్ధంగా ఉన్నాడు' అని వైట్ హౌస్ పేర్కొంది",
       "summary_te": "\"చర్చలు కొనసాగుతున్నాయి. అవి ఉత్పాదకంగా ఉన్నాయి,\" ప్రెస్ సెక్రటరీ కరోలిన్ లీవిట్ బ్రీఫింగ్ సందర్భంగా మాట్లాడుతూ, చర్చలు నిలిచిపోయాయని వాదనలకు వ్యతిరేకంగా వెనక్కి నెట్టారు.",
+      "translated": true
+    },
+    {
+      "id": "4afd1e0e3b5488d838db448fc13242d3",
+      "title": "Inflation target held at 4% for next five years",
+      "summary": "India has maintained its retail inflation target at 4 percent for the Reserve Bank of India. This decision ensures continuity and price stability amidst global economic uncertainties. The framework, set for another five years until March 2031, obligates the RBI to manage monetary policy for price control. This move influences government fiscal measures, aiming for overall economic stability.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/inflation-target-held-at-4-for-next-five-years/articleshow/129810690.cms",
+      "image": null,
+      "published_at": "2026-03-25T19:22:23.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "వచ్చే ఐదేళ్లలో ద్రవ్యోల్బణం లక్ష్యం 4% వద్ద ఉంది",
+      "summary_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా కోసం భారతదేశం తన రిటైల్ ద్రవ్యోల్బణ లక్ష్యాన్ని 4 శాతం వద్ద కొనసాగించింది. ఈ నిర్ణయం ప్రపంచ ఆర్థిక అనిశ్చితి మధ్య కొనసాగింపు మరియు ధర స్థిరత్వాన్ని నిర్ధారిస్తుంది. మార్చి 2031 వరకు మరో ఐదేళ్లపాటు సెట్ చేయబడిన ఫ్రేమ్‌వర్క్, ధరల నియంత్రణ కోసం ద్రవ్య విధానాన్ని నిర్వహించడానికి RBIని నిర్బంధిస్తుంది. ఈ చర్య మొత్తం ఆర్థిక స్థిరత్వాన్ని లక్ష్యంగా చేసుకుని ప్రభుత్వ ఆర్థిక చర్యలను ప్రభావితం చేస్తుంది.",
       "translated": true
     },
     {
@@ -29,7 +57,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
@@ -98,7 +126,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "రోజు యొక్క కోట్: నెల్సన్ మండేలా యొక్క స్థితిస్థాపకతపై పాఠం - 'నా విజయాన్ని బట్టి నన్ను అంచనా వేయవద్దు, నన్ను ఎన్నిసార్లు అంచనా వేయండి...'",
+      "title_te": "రోజు కోట్: నెల్సన్ మండేలా యొక్క స్థితిస్థాపకతపై పాఠం - 'నా విజయాన్ని బట్టి నన్ను అంచనా వేయవద్దు, ఎన్నిసార్లు నన్ను అంచనా వేయండి...'",
       "summary_te": "మండేలా యొక్క కోట్ విజయంపై స్థితిస్థాపకతను హైలైట్ చేస్తుంది, వైఫల్యం తర్వాత పట్టుదలకు విలువ ఇవ్వాలని ప్రజలను ప్రోత్సహిస్తుంది. అతని జీవితం ఈ సందేశాన్ని ప్రతిబింబిస్తుంది, బలం, ధైర్యం మరియు ఎదురుదెబ్బల నుండి నేర్చుకోవడం నిజమైన పాత్రను ఎలా రూపొందిస్తుంది మరియు అర్థవంతమైన విజయానికి దారితీస్తుందని చూపిస్తుంది.",
       "translated": true
     },
@@ -112,7 +140,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "‘రిషి సునక్ భార్య కాదు, నారాయణ మూర్తి కూతురు కాదు’: అక్షతా మూర్తి తన గుర్తింపు",
+      "title_te": "‘రిషి సునక్ భార్య కాదు, నారాయణ మూర్తి కూతురు కాదు’: అక్షతా మూర్తి తన సొంత గుర్తింపు",
       "summary_te": "అక్షతా మూర్తి మాట్లాడుతూ, \"రిషి సునక్ భార్య\" లేదా \"నారాయణ మూర్తి కుమార్తె\" గా పెట్టడానికి తాను నిరాకరిస్తున్నాను, బదులుగా విలువలు, ప్రభావం మరియు రెండు ప్రపంచాల మధ్య \"జీవన వంతెన\" అని పిలిచే వాటి ద్వారా తనను తాను నిర్వచించుకుంటానని చెప్పింది.",
       "translated": true
     },
@@ -224,7 +252,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: రిస్క్‌లు తీసుకోవడంపై సిమోన్ బైల్స్ - ‘నేను ఫలించని రిస్క్‌లను తీసుకున్నందుకు చింతిస్తున్నాను…’",
+      "title_te": "కోట్ ఆఫ్ ది డే: రిస్క్‌లు తీసుకోవడంపై సిమోన్ బైల్స్ - ‘నేను దాని కంటే పని చేయని రిస్క్‌లను తీసుకున్నందుకు చింతిస్తున్నాను…’",
       "summary_te": "ఒహియోలోని కొలంబస్‌లో జన్మించారు - 1997లో - సిమోన్ బైల్స్ ఆరేళ్ల వయసులో ఆమె జిమ్నాస్టిక్స్ ఒడిస్సీని ప్రారంభించింది. నేడు, ఆమె ఎప్పటికప్పుడు గొప్ప జిమ్నాస్ట్‌లలో ఒకరిగా పరిగణించబడుతుంది",
       "translated": true
     },
@@ -520,34 +548,6 @@
       "language": "en",
       "title_te": "ధర, లభ్యత... ఐరోపాలో కొత్త గ్యాస్ సంక్షోభం ఎదురుచూస్తుందా?",
       "summary_te": "ఖతార్ యొక్క రాస్ లఫాన్ ఎల్‌ఎన్‌జి హబ్‌పై ఇరాన్ దాడులు సహజ వాయువు ధరలు పెరగడానికి కారణమయ్యాయి, అయితే ఖతారీ ఎల్‌ఎన్‌జిపై ఆధారపడటం తగ్గినందున ఐరోపా ప్రభావం తక్కువగా ఉంటుందని భావిస్తున్నారు. హోల్‌సేల్ ధరలు పెరిగినప్పటికీ, అవి ఉక్రెయిన్ సంఘర్షణ సమయంలో కంటే చాలా తక్కువగా ఉన్నాయి, రాబోయే శీతాకాలంలో నిల్వ స్థాయిలు సగటు కంటే తక్కువగా ఉంటాయి.",
-      "translated": true
-    },
-    {
-      "id": "45bacd28cc11d478b3ac1e34ed0aa8d6",
-      "title": "Oil shock, inflation pressures dampen RBI rate-cut hopes",
-      "summary": "Economists believe India's policy interest rate cuts are unlikely to continue due to West Asia crisis-driven inflation risks and the fading of a favorable base effect. Sustained foreign outflows and a weakening rupee could also force the Reserve Bank of India to reconsider further easing, potentially even a hike.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/oil-shock-inflation-pressures-dampen-rbi-rate-cut-hopes/articleshow/129478050.cms",
-      "image": null,
-      "published_at": "2026-03-11T19:31:43.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "చమురు షాక్, ద్రవ్యోల్బణం ఒత్తిళ్లు ఆర్‌బీఐ రేట్ల కోత ఆశలను తగ్గించాయి",
-      "summary_te": "పశ్చిమాసియా సంక్షోభం-ఆధారిత ద్రవ్యోల్బణం ప్రమాదాలు మరియు అనుకూలమైన బేస్ ఎఫెక్ట్ క్షీణించడం వల్ల భారతదేశం యొక్క పాలసీ వడ్డీ రేటు తగ్గింపులు కొనసాగే అవకాశం లేదని ఆర్థిక నిపుణులు భావిస్తున్నారు. నిరంతర విదేశీ ప్రవాహాలు మరియు క్షీణిస్తున్న రూపాయి కూడా రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియాను మరింత సడలింపుపై పునరాలోచించవలసి ఉంటుంది, సంభావ్య పెంపుదల కూడా.",
-      "translated": true
-    },
-    {
-      "id": "46db84dc6fa52de4fabc6fa9caa3aa85",
-      "title": "West Asia conflict could hurt agri input availability: UPL Executive",
-      "summary": "Geopolitical tensions and disruptions in the Strait of Hormuz are driving up agricultural input costs, with fertilizer prices already surging 50-80%. While shipping, insurance, and energy costs have climbed, immediate agrochemical availability for the upcoming kharif season remains stable due to pre-built inventories.",
-      "url": "https://economictimes.indiatimes.com/news/economy/agriculture/west-asia-conflict-could-hurt-agri-input-availability-upl-executive/articleshow/129477522.cms",
-      "image": null,
-      "published_at": "2026-03-11T19:14:49.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా వివాదం వ్యవసాయ ఇన్‌పుట్ లభ్యతను దెబ్బతీస్తుంది: UPL ఎగ్జిక్యూటివ్",
-      "summary_te": "హార్ముజ్ జలసంధిలో భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు అంతరాయాలు వ్యవసాయ ఇన్‌పుట్ ఖర్చులను పెంచుతున్నాయి, ఎరువుల ధరలు ఇప్పటికే 50-80% పెరిగాయి. షిప్పింగ్, బీమా మరియు ఇంధన ఖర్చులు పెరిగినప్పటికీ, ముందుగా నిర్మించిన ఇన్వెంటరీల కారణంగా రాబోయే ఖరీఫ్ సీజన్‌లో తక్షణ వ్యవసాయ రసాయన లభ్యత స్థిరంగా ఉంది.",
       "translated": true
     },
     {
