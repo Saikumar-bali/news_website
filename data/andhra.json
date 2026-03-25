@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T05:32:47.265Z",
-  "updated_at_IST": "25/3/2026, 11:02:47 am",
+  "updated_at": "2026-03-25T07:00:28.877Z",
+  "updated_at_IST": "25/3/2026, 12:30:28 pm",
   "category": "andhra",
-  "count": 24,
+  "count": 25,
   "articles": [
+    {
+      "id": "043c00e44d4d81ee12b93f777fd52db5",
+      "title": "Three killed in a road accident in Kurnool",
+      "summary": "Kummari Sekhar was first hit by a speeding lorry and was left critically injured on the road; as locals rushed to rescue him, another lorry rammed into the group, killing two of the rescuers on the spot",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-kurnool-road-accident-deaths-march-25-2026/article70782592.ece",
+      "image": null,
+      "published_at": "2026-03-25T04:05:32.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "కర్నూలులో జరిగిన రోడ్డు ప్రమాదంలో ముగ్గురు మృతి చెందారు",
+      "summary_te": "కుమ్మరి శేఖర్‌ను మొదట వేగంగా వస్తున్న లారీ ఢీకొట్టింది మరియు తీవ్రంగా గాయపడి రోడ్డుపై వదిలేశాడు; అతడిని రక్షించేందుకు స్థానికులు పరుగులు తీస్తుండగా, మరో లారీ గుంపుపైకి దూసుకెళ్లడంతో ఇద్దరు రక్షకులు అక్కడికక్కడే మృతి చెందారు.",
+      "translated": true
+    },
     {
       "id": "e67e2c2f0ed61968803cab7d06a96422",
       "title": "IndiGo flight grounded after tyre burst at Vijayawada airport",
