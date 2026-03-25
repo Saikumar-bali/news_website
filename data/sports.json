@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-25T03:51:51.421Z",
-  "updated_at_IST": "25/3/2026, 9:21:51 am",
+  "updated_at": "2026-03-25T05:32:47.265Z",
+  "updated_at_IST": "25/3/2026, 11:02:47 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "c7af2005bca267bdbcbc03ae26556446",
+      "title": "IPL 2026: Spencer Johnson replaces injured Nathan Ellis at CSK",
+      "summary": "Johnson however hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
+      "published_at": "2026-03-25T05:13:47.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL 2026: CSKలో గాయపడిన నాథన్ ఎల్లిస్ స్థానంలో స్పెన్సర్ జాన్సన్ వచ్చాడు",
+      "summary_te": "జాన్సన్ అయితే గత సంవత్సరం IPL నుండి, అతను వెన్ను గాయంతో బాధపడ్డప్పటి నుండి టాప్-ఫ్లైట్ క్రికెట్ ఆడలేదు",
+      "translated": true
+    },
+    {
+      "id": "28fde7cda09074e71012ee145b67cf19",
+      "title": "Coney and Tiffen inducted into NZC Hall of Fame",
+      "summary": "They will be formally inducted into the HoF during the New Zealand Cricket Awards on Thursday",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529105.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/236900/236945.jpg",
+      "published_at": "2026-03-25T04:40:54.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "కోనీ మరియు టిఫెన్ NZC హాల్ ఆఫ్ ఫేమ్‌లోకి ప్రవేశించారు",
+      "summary_te": "గురువారం న్యూజిలాండ్ క్రికెట్ అవార్డుల సందర్భంగా వారు అధికారికంగా HoFలో చేరతారు",
+      "translated": true
+    },
     {
       "id": "0e9a11589b9d12b63f1bebc2a6dcde29",
       "title": "Elliott beats Perry to Shield final berth while eyes on Melbourne weather",
@@ -29,21 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
-      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియం ద్వారా \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
-      "translated": true
-    },
-    {
-      "id": "c7af2005bca267bdbcbc03ae26556446",
-      "title": "IPL 2026: Spencer Johnson replaces injured Nathan Ellis at CSK",
-      "summary": "Johnson however hasn't played top-flight cricket since the IPL last year, when he suffered a back injury",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528963.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/397000/397015.jpg",
-      "published_at": "2026-03-24T18:16:17.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL 2026: CSKలో గాయపడిన నాథన్ ఎల్లిస్ స్థానంలో స్పెన్సర్ జాన్సన్ వచ్చాడు",
-      "summary_te": "జాన్సన్ అయితే గత సంవత్సరం IPL నుండి, అతను వెన్ను గాయంతో బాధపడ్డప్పటి నుండి టాప్-ఫ్లైట్ క్రికెట్ ఆడలేదు",
+      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియంచే \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
       "translated": true
     },
     {
@@ -253,7 +267,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గౌల్డ్: ఆస్ట్రేలియా, భారత్‌తో ఇంగ్లాండ్ టెస్టులు 'ముఖ్యమైన ప్రాధాన్యతలు'",
-      "summary_te": "ఇసిబి చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
+      "summary_te": "ECB చీఫ్ ఎగ్జిక్యూటివ్ మాట్లాడుతూ, నాయకత్వంపై విశ్వాసం ఉంచడానికి గత నాలుగు సంవత్సరాలుగా ఆసక్తి పెరగడం కారణం",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "షెఫీల్డ్ షీల్డ్ ఫైనల్ కోసం డాగెట్ ఫిట్‌నెస్ రేసులో ఓడిపోయాడు",
       "summary_te": "శీఘ్ర గత నెలలో అతని స్నాయువుకు గాయమైంది, కానీ నిర్ణయం తీసుకున్న వ్యక్తి కోసం కోలుకోవడానికి బలమైన పుష్ చేసాడు",
-      "translated": true
-    },
-    {
-      "id": "b782559d0b8dfc6659c0dc5ad6af13a5",
-      "title": "'Inconceivable': CA won't seek more Test pitch control",
-      "summary": "There is confidence that the balance between bat and ball can be addressed after the pair of two-day Tests this season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528767.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411122.png",
-      "published_at": "2026-03-23T03:55:56.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "'ఊహించలేనిది': CA మరింత టెస్ట్ పిచ్ నియంత్రణను కోరదు",
-      "summary_te": "ఈ సీజన్‌లో రెండు రోజుల టెస్టు మ్యాచ్‌ల తర్వాత బ్యాట్‌, బాల్‌ మధ్య సమతూకం ఏర్పడుతుందన్న విశ్వాసం ఉంది.",
       "translated": true
     }
   ]
