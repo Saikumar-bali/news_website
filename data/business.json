@@ -1,21 +1,91 @@
 {
-  "updated_at": "2026-03-25T08:48:28.182Z",
-  "updated_at_IST": "25/3/2026, 2:18:28 pm",
+  "updated_at": "2026-03-25T09:53:46.413Z",
+  "updated_at_IST": "25/3/2026, 3:23:46 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "eb6f273ee2b47c4414fd7807beb4e9ae",
+      "title": "Looking for a home in Delhi? DDA to open booking for 1,900+ flats soon — location, area, steps to book, more details",
+      "summary": "Delhi Development Authority is offering 1,944 ready-to-move flats with a 25% discount under the Nagrik Awaas Yojana 2026. Booking starts on 27 March 2026, check more details here.",
+      "url": "https://www.livemint.com/news/india/looking-for-a-home-in-delhi-dda-to-open-booking-for-1-900-flats-27-march-location-area-steps-to-book-11774426487755.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/lllllllllllll_1774428301202_1774428301357.jpg",
+      "published_at": "2026-03-25T09:31:49.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఢిల్లీలో ఇల్లు కోసం చూస్తున్నారా? DDA త్వరలో 1,900+ ఫ్లాట్‌ల కోసం బుకింగ్‌ను ప్రారంభించనుంది — లొకేషన్, ఏరియా, బుక్ చేయడానికి దశలు, మరిన్ని వివరాలు",
+      "summary_te": "ఢిల్లీ డెవలప్‌మెంట్ అథారిటీ నాగ్రిక్ ఆవాస్ యోజన 2026 కింద 25% తగ్గింపుతో 1,944 రెడీ-టు-మూవ్ ఫ్లాట్‌లను అందిస్తోంది. బుకింగ్ 27 మార్చి 2026న ప్రారంభమవుతుంది, మరిన్ని వివరాలను ఇక్కడ చూడండి.",
+      "translated": true
+    },
+    {
+      "id": "880b90afc0c3004b887730d773bfa217",
+      "title": "‘...bunch of animals’: Mark Waugh's wife Kim's shocking label for Muslims who confronted Anthony Albanese goes viral",
+      "summary": "Anthony Albanese and Tony Burke were heckled at the Lakemba Mosque in Sydney's west on March 20 for Eid al-Fitr prayers.",
+      "url": "https://www.livemint.com/news/world/bunch-of-animals-mark-waughs-wife-kims-shocking-label-for-muslims-who-confronted-anthony-albanese-goes-viral-11774424795297.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/ETCoxy5U0AADeg3_1774425511787_1774425555145.jpeg",
+      "published_at": "2026-03-25T09:05:12.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "‘...జంతువుల సమూహం’: ఆంథోనీ అల్బనీస్‌ను ఎదుర్కొన్న ముస్లింలకు మార్క్ వా భార్య కిమ్ షాకింగ్ లేబుల్ వైరల్ అవుతుంది",
+      "summary_te": "ఆంథోనీ అల్బనీస్ మరియు టోనీ బుర్క్ ఈద్ అల్-ఫితర్ ప్రార్థనల కోసం మార్చి 20న సిడ్నీ పశ్చిమ ప్రాంతంలోని లకెంబా మసీదు వద్ద హల్ చల్ చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "f6daf7fe3b20678ba9c8848cd20498cf",
+      "title": "IPL 2026: Why is Yash Dayal not playing for Bengaluru? RCB pacer faces POCSO; check what he's accused of",
+      "summary": "Yash Dayal will not participate in IPL 2026 due to serious ongoing legal issues, including accusations of sexual assault and exploitation.&nbsp;",
+      "url": "https://www.livemint.com/news/trends/ipl-2026-why-is-yash-dayal-not-playing-for-bengaluru-rcb-pacer-faces-pocso-check-what-hes-accused-of-11774428223503.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/Yash_Dayal_1774428657400_1774428669868.jpg",
+      "published_at": "2026-03-25T09:02:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఐపీఎల్ 2026: యశ్ దయాల్ బెంగళూరు తరఫున ఎందుకు ఆడడం లేదు? RCB పేసర్ POCSOని ఎదుర్కొంటాడు; అతను ఏమి ఆరోపించాడో తనిఖీ చేయండి",
+      "summary_te": "లైంగిక వేధింపులు మరియు దోపిడీ ఆరోపణలతో సహా తీవ్రమైన చట్టపరమైన సమస్యల కారణంగా యశ్ దయాల్ IPL 2026లో పాల్గొనడం లేదు. ",
+      "translated": true
+    },
+    {
+      "id": "f5b09fdb4230c41345544d8069d746ec",
+      "title": "Attractive valuations emerging, but oil prices hold the key: Aman Chowhan",
+      "summary": "Indian equities are experiencing a sharp correction due to geopolitical tensions, with valuations becoming attractive. However, elevated oil prices and conflict duration pose significant risks, potentially impacting trade deficits and currencies. Investors are advised to focus on reasonably valued stocks, with engineering, EPC, and IT midcaps showing promise.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/attractive-valuations-emerging-but-oil-prices-hold-the-key-aman-chowhan/articleshow/129796065.cms",
+      "image": null,
+      "published_at": "2026-03-25T08:54:21.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఆకర్షణీయమైన వాల్యుయేషన్‌లు వెలువడుతున్నాయి, అయితే చమురు ధరలు కీలకం: అమన్ చౌహాన్",
+      "summary_te": "భౌగోళిక రాజకీయ ఉద్రిక్తతల కారణంగా భారతీయ ఈక్విటీలు పదునైన కరెక్షన్‌ను ఎదుర్కొంటున్నాయి, విలువలు ఆకర్షణీయంగా మారాయి. అయినప్పటికీ, పెరిగిన చమురు ధరలు మరియు సంఘర్షణ వ్యవధి గణనీయమైన నష్టాలను కలిగిస్తాయి, ఇది వాణిజ్య లోటులు మరియు కరెన్సీలపై ప్రభావం చూపుతుంది. ఇంజినీరింగ్, EPC మరియు IT మిడ్‌క్యాప్‌లు వాగ్దానాన్ని చూపడంతో పాటు సహేతుక విలువ కలిగిన స్టాక్‌లపై దృష్టి పెట్టాలని పెట్టుబడిదారులకు సూచించబడింది.",
+      "translated": true
+    },
     {
       "id": "8cd7d8fb49b6742380a018bd07c8cdf1",
       "title": "S&P Global raises India’s FY27 growth forecast to 7.1%, signals strong medium-term economic momentum",
       "summary": "S&P Global has raised India’s FY27 GDP growth forecast; however, it cautioned that renewed geopolitical tensions and high energy prices could strain fiscal positions and widen the trade deficit.",
       "url": "https://www.livemint.com/news/sp-global-raises-india-s-fy27-growth-forecast-to-7-1-signals-strong-medium-term-economic-momentum-11774424843122.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news_3_1733464427658_1733464446564.jpg",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/2-0-670316451-underconstruction-0_1680248314381_1774431225393.JPG",
       "published_at": "2026-03-25T08:22:14.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
       "title_te": "S&P గ్లోబల్ భారతదేశం యొక్క FY27 వృద్ధి అంచనాను 7.1%కి పెంచింది, బలమైన మధ్య-కాల ఆర్థిక ఊపందుకుంది",
       "summary_te": "S&P గ్లోబల్ భారతదేశ FY27 GDP వృద్ధి అంచనాను పెంచింది; ఏది ఏమైనప్పటికీ, పునరుద్ధరించబడిన భౌగోళిక రాజకీయ ఉద్రిక్తతలు మరియు అధిక ఇంధన ధరలు ఆర్థిక స్థానాలను దెబ్బతీస్తాయని మరియు వాణిజ్య లోటును విస్తృతం చేయగలవని హెచ్చరించింది.",
+      "translated": true
+    },
+    {
+      "id": "6fa86f41d2c91e50ec06de14596c5c3a",
+      "title": "“Bottom likely in place”: Rohit Srivastava bets on near-term market upside",
+      "summary": "Indian markets are experiencing a strong rally, sparking optimism. Technical indicators suggest a possible shift in momentum. Experts believe a short-term bottom may have formed, creating favorable risk-reward for buyers. Banking stocks are also showing strength. While real estate has seen gains, its long-term outlook remains uncertain. The market appears poised for further upside in the near term.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/bottom-likely-in-place-rohit-srivastava-bets-on-near-term-market-upside/articleshow/129795542.cms",
+      "image": null,
+      "published_at": "2026-03-25T08:22:13.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "“బాటమ్ ప్లేస్ ఇన్ ప్లేస్”: రోహిత్ శ్రీవాస్తవ సమీప-కాల మార్కెట్ పైకి పందెం వేస్తున్నారు",
+      "summary_te": "భారతీయ మార్కెట్లు ఆశావాదాన్ని రేకెత్తిస్తూ బలమైన ర్యాలీని ఎదుర్కొంటున్నాయి. సాంకేతిక సూచికలు ఊపందుకున్న మార్పును సూచిస్తున్నాయి. కొనుగోలుదారులకు అనుకూలమైన రిస్క్-రివార్డ్‌ను సృష్టించి, స్వల్పకాలిక దిగువన ఏర్పడి ఉండవచ్చని నిపుణులు భావిస్తున్నారు. బ్యాంకింగ్ స్టాక్స్ కూడా బలాన్ని ప్రదర్శిస్తున్నాయి. రియల్ ఎస్టేట్ లాభాలను చూసినప్పటికీ, దాని దీర్ఘకాలిక దృక్పథం అనిశ్చితంగానే ఉంది. సమీప కాలంలో మార్కెట్ మరింత పైకి ఎగబాకేందుకు సిద్ధంగా ఉన్నట్లు కనిపిస్తోంది.",
       "translated": true
     },
     {
@@ -56,8 +126,8 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "పశ్చిమాసియా యుద్ధం: యుఎస్-ఇరాన్ చర్చలకు మధ్యవర్తిత్వం వహించడానికి పాకిస్తాన్ ముందుకు రావడంతో షరీఫ్ సౌదీ క్రౌన్ ప్రిన్స్ MBS గురించి వివరించాడు",
-      "summary_te": "మధ్యప్రాచ్యంలో పెరుగుతున్న ఉద్రిక్తతలకు మధ్యవర్తిత్వం వహించే ప్రయత్నంలో, పాకిస్తాన్ ప్రధాన మంత్రి షెహబాజ్ షరీఫ్ సౌదీ క్రౌన్ ప్రిన్స్ మొహమ్మద్ బిన్ సల్మాన్‌కు US మరియు ఇరాన్ మధ్య సంభాషణలను ప్రోత్సహించే లక్ష్యంతో దౌత్యపరమైన ప్రయత్నాలను వివరించారు. వివాదాలు తీవ్రమవుతున్నందున, శాంతిని పునరుద్ధరించడంలో పాకిస్తాన్ కీలక పాత్ర పోషిస్తుందా?",
+      "title_te": "పశ్చిమాసియా యుద్ధం: యుఎస్-ఇరాన్ చర్చలకు మధ్యవర్తిత్వం వహించడానికి పాకిస్తాన్ ముందుకు రావడంతో షరీఫ్ సౌదీ క్రౌన్ ప్రిన్స్ MBS గురించి వివరించారు",
+      "summary_te": "మధ్యప్రాచ్యంలో పెరుగుతున్న ఉద్రిక్తతలకు మధ్యవర్తిత్వం వహించే ప్రయత్నంలో, పాకిస్తాన్ ప్రధాన మంత్రి షెహబాజ్ షరీఫ్ సౌదీ క్రౌన్ ప్రిన్స్ మొహమ్మద్ బిన్ సల్మాన్‌కు యుఎస్ మరియు ఇరాన్ మధ్య సంభాషణలను ప్రోత్సహించే లక్ష్యంతో దౌత్యపరమైన ప్రయత్నాలను వివరించారు. వివాదాలు తీవ్రమవుతున్నందున, శాంతిని పునరుద్ధరించడంలో పాకిస్తాన్ కీలక పాత్ర పోషిస్తుందా?",
       "translated": true
     },
     {
@@ -77,7 +147,7 @@
     {
       "id": "51082460d3b4739cfcff2232614c7d1f",
       "title": "OMCs assure Indians of ‘adequate’ fuel stocks amid panic buying — ‘Everything is operating smoothly’",
-      "summary": "Centre and oil companies have reassured consumers that there is no shortage of petrol, diesel, or LPG, and have encouraged normal consumption, dismissing panic buying as unnecessary.",
+      "summary": "Centre and oil companies have reassured consumers that there is no shortage of petrol, diesel or LPG, and have encouraged normal consumption, dismissing panic buying as unnecessary.",
       "url": "https://www.livemint.com/news/india/omcs-assure-indians-of-adequate-fuel-stocks-amid-panic-buying-everything-is-operating-smoothly-11774419147319.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/ANI-20260324410-0_1774422273592_1774422286104.jpg",
       "published_at": "2026-03-25T06:59:57.000Z",
@@ -85,7 +155,7 @@
       "category": "business",
       "language": "en",
       "title_te": "భయాందోళనల మధ్య భారతీయులకు 'తగినంత' ఇంధన నిల్వలను OMCలు హామీ ఇస్తున్నాయి - 'అంతా సజావుగా పనిచేస్తోంది'",
-      "summary_te": "కేంద్రం మరియు చమురు కంపెనీలు పెట్రోల్, డీజిల్ లేదా ఎల్‌పిజికి కొరత లేదని వినియోగదారులకు భరోసా ఇచ్చాయి మరియు సాధారణ వినియోగాన్ని ప్రోత్సహించాయి, భయాందోళనలను అనవసరమని కొట్టిపారేసింది.",
+      "summary_te": "కేంద్రం మరియు చమురు కంపెనీలు పెట్రోల్, డీజిల్ లేదా LPG కొరత లేదని వినియోగదారులకు భరోసా ఇచ్చాయి మరియు సాధారణ వినియోగాన్ని ప్రోత్సహించాయి, భయాందోళనలను అనవసరంగా కొట్టిపారేసింది.",
       "translated": true
     },
     {
@@ -155,7 +225,7 @@
       "category": "business",
       "language": "en",
       "title_te": "రోజు కోట్: టామ్ హాంక్స్ ఆన్ రెసిలెన్స్ — ‘ఇది కూడా గడిచిపోతుంది’",
-      "summary_te": "టామ్ హాంక్స్ హాలీవుడ్‌లో స్థిరమైన ఉనికిని కలిగి ఉన్నాడు, విజయం మరియు వైఫల్యం రెండింటి యొక్క తాత్కాలిక స్వభావాన్ని నొక్కి చెప్పాడు. అతని జ్ఞానం స్థితిస్థాపకత మరియు గ్రౌన్దేడ్ దృక్పథాన్ని ప్రోత్సహిస్తుంది, ఇది అధిక పీడన వాతావరణంలో చాలా ముఖ్యమైనది, భావోద్వేగ తీవ్రతలు దాటిపోతాయని మనకు గుర్తుచేస్తుంది.",
+      "summary_te": "టామ్ హాంక్స్ హాలీవుడ్‌లో స్థిరమైన ఉనికిని కలిగి ఉన్నాడు, విజయం మరియు వైఫల్యం రెండింటి యొక్క తాత్కాలిక స్వభావాన్ని నొక్కి చెప్పాడు. అతని జ్ఞానం స్థితిస్థాపకత మరియు గ్రౌన్దేడ్ దృక్పథాన్ని ప్రోత్సహిస్తుంది, ఇది అధిక పీడన వాతావరణంలో చాలా ముఖ్యమైనది, భావోద్వేగ తీవ్రతలు దాటిపోతాయని మనకు గుర్తు చేస్తుంది.",
       "translated": true
     },
     {
@@ -169,21 +239,7 @@
       "category": "business",
       "language": "en",
       "title_te": "బుషెహర్ అణు కర్మాగారాన్ని అమెరికా, ఇజ్రాయెల్ ఢీకొన్నాయని ఇరాన్ పేర్కొంది- ఈ సౌకర్యం యొక్క వ్యూహాత్మక ప్రాముఖ్యత ఏమిటి? | వివరించారు",
-      "summary_te": "ఇరాన్ యుద్ధం: IAEA బుషెహర్ అణు కర్మాగారంలో ప్రక్షేపకాల సమ్మె నుండి ఎటువంటి నష్టం జరగలేదని నివేదించింది, ఇది తక్కువ సామర్థ్యంతో పనిచేస్తుంది, అయితే ఇరాన్ యొక్క శక్తి సరఫరాకు ఇది చాలా కీలకం.",
-      "translated": true
-    },
-    {
-      "id": "72c5a703ee933d4ad134654b560540cd",
-      "title": "NFO Insight: Will JioBlackRock Large Cap Fund’s combination of human insight & AI help manage market risk?",
-      "summary": "JioBlackRock Mutual Fund has launched its Large Cap Fund, aiming to generate long-term capital appreciation by investing predominantly in large-cap companies. The fund employs an active strategy combining human insight with AI and machine learning for stock selection and risk management. Experts advise a cautious approach to NFOs, suggesting a wait-and-watch strategy to assess performance over time.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/nfo-insight-will-jioblackrock-large-cap-funds-combination-of-human-insight-ai-help-manage-market-risk/articleshow/129792664.cms",
-      "image": null,
-      "published_at": "2026-03-25T06:07:34.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "NFO అంతర్దృష్టి: JioBlackRock లార్జ్ క్యాప్ ఫండ్ యొక్క మానవ అంతర్దృష్టి & AI కలయిక మార్కెట్ ప్రమాదాన్ని నిర్వహించడంలో సహాయపడుతుందా?",
-      "summary_te": "JioBlackRock మ్యూచువల్ ఫండ్ తన లార్జ్ క్యాప్ ఫండ్‌ను లాంచ్ చేసింది, ఇది లార్జ్ క్యాప్ కంపెనీలలో ప్రధానంగా పెట్టుబడి పెట్టడం ద్వారా దీర్ఘకాలిక మూలధన ప్రశంసలను ఉత్పత్తి చేసే లక్ష్యంతో ఉంది. స్టాక్ ఎంపిక మరియు రిస్క్ మేనేజ్‌మెంట్ కోసం AI మరియు మెషిన్ లెర్నింగ్‌తో మానవ అంతర్దృష్టిని మిళితం చేసే క్రియాశీల వ్యూహాన్ని ఫండ్ ఉపయోగిస్తుంది. నిపుణులు NFO లకు ఒక హెచ్చరిక విధానాన్ని సూచిస్తారు, కాలక్రమేణా పనితీరును అంచనా వేయడానికి వేచి ఉండి-చూడండి వ్యూహాన్ని సూచిస్తారు.",
+      "summary_te": "ఇరాన్ యుద్ధం: బుషెహర్ అణు కర్మాగారంలో ప్రక్షేపకాల దాడి వల్ల ఎటువంటి నష్టం జరగలేదని IAEA నివేదించింది, ఇది తక్కువ సామర్థ్యంతో పనిచేస్తుంది, అయితే ఇరాన్ యొక్క శక్తి సరఫరాకు ఇది చాలా కీలకం.",
       "translated": true
     },
     {
@@ -215,20 +271,6 @@
       "translated": true
     },
     {
-      "id": "0e154d252e708b7539d9cbaae2f3d4ff",
-      "title": "Construction cost of realty projects may rise up to 5% in 2026 due to high labour rates: JLL",
-      "summary": "Construction costs in India are projected to climb 3-5% this year due to rising input prices, including labour. While some material costs saw minor dips, others surged. New labour codes and skilled worker shortages are significant drivers. Despite these pressures, underlying housing demand remains robust, with industry players focusing on cost optimization.",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/construction-cost-of-realty-projects-may-rise-up-to-5-in-2026-due-to-high-labour-rates-jll/articleshow/129792538.cms",
-      "image": null,
-      "published_at": "2026-03-25T05:59:21.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "అధిక లేబర్ రేట్ల కారణంగా రియల్టీ ప్రాజెక్టుల నిర్మాణ వ్యయం 2026లో 5% వరకు పెరగవచ్చు: JLL",
-      "summary_te": "కార్మికులతో సహా పెరుగుతున్న ఇన్‌పుట్ ధరల కారణంగా భారతదేశంలో నిర్మాణ ఖర్చులు ఈ సంవత్సరం 3-5% పెరుగుతాయని అంచనా వేయబడింది. కొన్ని మెటీరియల్ ఖర్చులు స్వల్పంగా తగ్గుముఖం పట్టగా, మరికొన్ని పెరిగాయి. కొత్త లేబర్ కోడ్‌లు మరియు నైపుణ్యం కలిగిన కార్మికుల కొరత ముఖ్యమైన డ్రైవర్లు. ఈ ఒత్తిళ్లు ఉన్నప్పటికీ, అంతర్లీన హౌసింగ్ డిమాండ్ పటిష్టంగా ఉంది, పరిశ్రమ ఆటగాళ్లు ఖర్చు ఆప్టిమైజేషన్‌పై దృష్టి సారిస్తున్నారు.",
-      "translated": true
-    },
-    {
       "id": "32cb7446e6f27d6cfee462d9ab4d2ed3",
       "title": "Mint Explainer: Why is India betting big on Trout, Mahseer and cold-water fisheries?",
       "summary": "India is ramping up cold-water fisheries to tap high-value species like Trout and Mahseer, boost hill livelihoods, and unlock a niche aquaculture segment with export potential.",
@@ -253,7 +295,7 @@
       "category": "business",
       "language": "en",
       "title_te": "హైదరాబాద్, ఇండోర్‌లోని పెట్రోల్ పంపులు ఇంధన సంక్షోభం మధ్య వాహనదారుల పొడవైన క్యూలను చూస్తాయి; ఇంటర్నెట్ ప్రతిచర్యలు: '500మీ వరకు లైన్లు'",
-      "summary_te": "పెట్రోల్, డీజిల్ మరియు LPG కొరత లేదని ప్రభుత్వం హామీ ఇచ్చినప్పటికీ, మధ్యప్రాచ్యంలో కొనసాగుతున్న వివాదాల మధ్య భారతదేశంలో ఇంధన కొనుగోలు భయం పెరుగుతోంది. వివిధ నగరాల్లో పెట్రోల్ పంపుల వద్ద పొడవైన క్యూలు కనిపించాయి",
+      "summary_te": "పెట్రోల్, డీజిల్ మరియు LPG కొరత లేదని ప్రభుత్వం హామీ ఇచ్చినప్పటికీ, మధ్యప్రాచ్యంలో జరుగుతున్న ఘర్షణల మధ్య భారతదేశంలో ఇంధన కొనుగోలు భయాందోళనలు పెరుగుతోంది. వివిధ నగరాల్లో పెట్రోల్ పంపుల వద్ద పొడవైన క్యూలు కనిపించాయి",
       "translated": true
     },
     {
@@ -394,48 +436,6 @@
       "language": "en",
       "title_te": "డొనాల్డ్ ట్రంప్ యొక్క ఫ్లోరిడా జిల్లాలో జరిగిన ప్రత్యేక ఎన్నికల్లో డెమొక్రాట్ ఎమిలీ గ్రెగొరీ విజయం సాధించారు",
       "summary_te": "రిపబ్లికన్ జాన్ మాపుల్స్‌పై ఆశ్చర్యకరమైన ప్రత్యేక ఎన్నికల విజయం తర్వాత ఫ్లోరిడా స్టేట్ హౌస్‌లో ట్రంప్ యొక్క మార్-ఎ-లాగోకు డెమొక్రాట్ ప్రాతినిధ్యం వహించనున్నారు. ఈ సింబాలిక్ విజయం రిపబ్లికన్‌లకు స్టేట్‌హౌస్‌లో మెజారిటీ ఉన్నప్పటికీ నవంబర్ మధ్యంతర కాలానికి ముందు సంభావ్య సవాళ్లను సూచిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "cb9b41339a75289b9351faac8a58bcad",
-      "title": "Modi Govt to hold all-party meet on West Asia conflict today. What's on agenda and who all are attending?",
-      "summary": "The government has called an all-party meeting to discuss the escalating West Asia crisis, but Rahul Gandhi will not attend due to prior commitments. With tensions rising and vital maritime routes disrupted, this meeting aims to unify India's response to the unfolding situation.",
-      "url": "https://www.livemint.com/news/india/modi-govt-to-hold-all-party-meet-on-west-asia-conflict-today-whats-on-agenda-and-who-all-are-attending-iran-us-war-ra-11774402702515.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/Prime-Minister-Narendra-Modi-chairs-a-high-level-m_1774403152241_1774403159782.jpg",
-      "published_at": "2026-03-25T01:52:59.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా వివాదంపై మోదీ ప్రభుత్వం నేడు అఖిలపక్ష సమావేశాన్ని నిర్వహించనుంది. ఎజెండాలో ఏమి ఉంది మరియు అందరూ హాజరవుతున్నారు?",
-      "summary_te": "తీవ్రమవుతున్న పశ్చిమాసియా సంక్షోభంపై చర్చించేందుకు ప్రభుత్వం అఖిలపక్ష సమావేశాన్ని పిలిచింది, అయితే ముందస్తు హామీల కారణంగా రాహుల్ గాంధీ హాజరుకాలేదు. ఉద్రిక్తతలు పెరగడం మరియు కీలకమైన సముద్ర మార్గాలకు అంతరాయం ఏర్పడడంతో, ఈ సమావేశం ముగుస్తున్న పరిస్థితికి భారతదేశ ప్రతిస్పందనను ఏకీకృతం చేయడం లక్ష్యంగా పెట్టుకుంది.",
-      "translated": true
-    },
-    {
-      "id": "be423f40d250f93c9b33e163d0e0ca2e",
-      "title": "Petrol, diesel prices in your city today: Check fuel rates on 25 March — Delhi, Mumbai, Bengaluru, others",
-      "summary": "Fuel prices remain stable despite global volatility. The ongoing conflict in the Middle East has significantly impacted oil prices globally, increasing volatility in the world market. Check fuel rates on 25 March in Delhi, Mumbai, Bengaluru and others cities.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-in-your-city-today-check-fuel-rates-on-25-march-delhi-mumbai-bengaluru-others-11774399362043.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/ANI-20260324410-0_1774401644756_1774401657310.jpg",
-      "published_at": "2026-03-25T01:39:28.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఈరోజు మీ నగరంలో పెట్రోల్, డీజిల్ ధరలు: మార్చి 25న ఇంధన ధరలను తనిఖీ చేయండి — ఢిల్లీ, ముంబై, బెంగళూరు, ఇతరాలు",
-      "summary_te": "అంతర్జాతీయంగా అస్థిరత ఉన్నప్పటికీ ఇంధన ధరలు స్థిరంగా ఉన్నాయి. మధ్యప్రాచ్యంలో కొనసాగుతున్న సంఘర్షణ ప్రపంచవ్యాప్తంగా చమురు ధరలను గణనీయంగా ప్రభావితం చేసింది, ప్రపంచ మార్కెట్‌లో అస్థిరతను పెంచుతుంది. మార్చి 25న ఢిల్లీ, ముంబై, బెంగళూరు మరియు ఇతర నగరాల్లో ఇంధన ధరలను తనిఖీ చేయండి.",
-      "translated": true
-    },
-    {
-      "id": "e9f398d8497887e1eb3a9b9ee0ab7723",
-      "title": "Is Saudi Crown Prince Mohammed bin Salman influencing Trump's Iran war strategy, and why would he? | Explained",
-      "summary": "As tensions escalate in the Middle East following US-Israeli strikes on Iran, Saudi Crown Prince Mohammed bin Salman appears to be exerting significant influence on US strategy. While publicly advocating for peace, his private discussions with Trump suggest a push for military action against Iran.&nbsp;",
-      "url": "https://www.livemint.com/news/world/saudi-crown-prince-mohammed-bin-salman-behind-trumps-iran-war-strategy-explainer-mbs-netanyahu-oil-prices-today-11774401041070.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/25/1600x900/logo/TRUMP-MBS-29_1763526231879_1763526239680_1774401335589.jpg",
-      "published_at": "2026-03-25T01:34:31.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సౌదీ క్రౌన్ ప్రిన్స్ మొహమ్మద్ బిన్ సల్మాన్ ట్రంప్ యొక్క ఇరాన్ యుద్ధ వ్యూహాన్ని ప్రభావితం చేస్తున్నారా మరియు అతను ఎందుకు ప్రభావితం చేస్తాడు? | వివరించారు",
-      "summary_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ దాడుల తర్వాత మధ్యప్రాచ్యంలో ఉద్రిక్తతలు పెరుగుతున్నందున, సౌదీ క్రౌన్ ప్రిన్స్ మహ్మద్ బిన్ సల్మాన్ యుఎస్ వ్యూహంపై గణనీయమైన ప్రభావాన్ని చూపుతున్నట్లు కనిపిస్తోంది. బహిరంగంగా శాంతి కోసం వాదిస్తున్నప్పుడు, ట్రంప్‌తో అతని ప్రైవేట్ చర్చలు ఇరాన్‌పై సైనిక చర్యకు ఒత్తిడిని సూచిస్తున్నాయి. ",
       "translated": true
     },
     {
