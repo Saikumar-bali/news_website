@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-26T21:32:53.426Z",
-  "updated_at_IST": "27/3/2026, 3:02:53 am",
+  "updated_at": "2026-03-26T22:28:11.518Z",
+  "updated_at_IST": "27/3/2026, 3:58:11 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "a93df32f72d782d68eebb65f26f7e33a",
+      "title": "Trump delays strikes on Iranian power plants by 10 days, says talks are ‘going very well’",
+      "summary": "“Talks aimed at ending the conflict are going very well,” Trump said, explaining his decision to delay potential military action. &nbsp;",
+      "url": "https://www.livemint.com/news/us-news/trump-delays-strikes-on-iranian-power-plants-by-10-days-says-talks-are-going-very-well-11774558253572.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/USA-TRUMP--4_1774487769477_1774487784294_1774559802228.JPG",
+      "published_at": "2026-03-26T21:18:09.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ట్రంప్ ఇరాన్ పవర్ ప్లాంట్లపై దాడులను 10 రోజులు ఆలస్యం చేశారు, చర్చలు 'చాలా బాగా జరుగుతున్నాయి'",
+      "summary_te": "\"వివాదాన్ని ముగించే లక్ష్యంతో చర్చలు చాలా బాగా జరుగుతున్నాయి\" అని ట్రంప్ అన్నారు, సంభావ్య సైనిక చర్యను ఆలస్యం చేయాలనే తన నిర్ణయాన్ని వివరించారు.  ",
+      "translated": true
+    },
     {
       "id": "7a99e9f00af58a5e2bd2eeadd1703cc1",
       "title": "Kash Patel's girlfriend sparks row, names Tucker Carlson in ‘foreign ops’ post; Candace Owens hits back - Who said what?",
@@ -43,7 +57,7 @@
       "category": "business",
       "language": "en",
       "title_te": "IRGC నేవీ చీఫ్ అలిరెజా తంగ్సిరి హత్యకు హార్ముజ్ దిగ్బంధనంతో సంబంధం ఉందని ఇజ్రాయెల్ పేర్కొంది",
-      "summary_te": "\"గత రాత్రి, ఖచ్చితమైన మరియు ప్రాణాంతకమైన ఆపరేషన్‌లో, ఐఆర్‌జిసి నేవీ కమాండర్ టాంగ్‌సిరిని, సీనియర్ నేవల్ కమాండ్ అధికారులతో పాటు ఐడిఎఫ్ తొలగించింది\" అని ఇజ్రాయెల్ రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ వీడియో ప్రకటనలో తెలిపారు.",
+      "summary_te": "\"గత రాత్రి, ఖచ్చితమైన మరియు ప్రాణాంతకమైన ఆపరేషన్‌లో, IDF IRGC నేవీ యొక్క కమాండర్ టాంగ్‌సిరిని మరియు సీనియర్ నావికా కమాండ్ అధికారులను తొలగించింది\" అని ఇజ్రాయెల్ రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ ఒక వీడియో ప్రకటనలో తెలిపారు.",
       "translated": true
     },
     {
@@ -355,20 +369,6 @@
       "translated": true
     },
     {
-      "id": "5f03febd8f5529f2b4ad34eff6ec8e37",
-      "title": "Trump to hold cabinet meeting today amid DHS shutdown pressure and Iran war",
-      "summary": "The Cabinet forum is scheduled to begin at 10 a.m. EDT, with Trump expected to discuss both domestic operational challenges and foreign policy priorities amid the continuing DHS funding deadlock.",
-      "url": "https://www.livemint.com/news/us-news/trump-to-hold-cabinet-meeting-today-amid-iran-war-dhs-shutdown-pressure-11774531799875.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/TRUMP-TAKAICHI-27_1773945613647_1773945620110_1774532010954.jpg",
-      "published_at": "2026-03-26T13:37:41.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "DHS షట్‌డౌన్ ఒత్తిడి మరియు ఇరాన్ యుద్ధం మధ్య ట్రంప్ ఈ రోజు క్యాబినెట్ సమావేశాన్ని నిర్వహించనున్నారు",
-      "summary_te": "క్యాబినెట్ ఫోరమ్ EDT ఉదయం 10 గంటలకు ప్రారంభం కానుంది, DHS నిధుల ప్రతిష్టంభన కొనసాగుతున్న నేపథ్యంలో ట్రంప్ దేశీయ కార్యాచరణ సవాళ్లు మరియు విదేశాంగ విధాన ప్రాధాన్యతలను రెండింటినీ చర్చిస్తారని భావిస్తున్నారు.",
-      "translated": true
-    },
-    {
       "id": "5584356c7fd54336d82af1ce5c816e1a",
       "title": "Top 5 mutual funds which are better than fixed deposits in 1 year. Check details",
       "summary": "Five debt mutual funds, primarily from the credit risk category, have delivered higher returns than traditional fixed deposits over the past year. However, these funds come with higher risk. Investors should assess risk appetite carefully before considering such short-term alternatives to conventional bank deposits.",
@@ -406,7 +406,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "ETMarkets స్మార్ట్ టాక్| ఇటీవలి మార్కెట్ పతనం తర్వాత హెల్త్‌కేర్, ఇన్‌ఫ్రా, ఫైనాన్షియల్‌లు ఆకర్షణీయంగా కనిపిస్తున్నాయి: సచిన్ బజాజ్, CIO, యాక్సిస్ మ్యాక్స్ లైఫ్ ఇన్సూరెన్స్",
+      "title_te": "ETMarkets స్మార్ట్ టాక్| ఇటీవలి మార్కెట్ పతనం తర్వాత హెల్త్‌కేర్, ఇన్‌ఫ్రా, ఫైనాన్షియల్స్ ఆకర్షణీయంగా కనిపిస్తున్నాయి: సచిన్ బజాజ్, CIO, యాక్సిస్ మ్యాక్స్ లైఫ్ ఇన్సూరెన్స్",
       "summary_te": "భౌగోళిక రాజకీయ పరిణామాలు, పెరుగుతున్న ముడి చమురు ధరల కారణంగా మార్కెట్లు ఒడిదుడుకులకు గురవుతున్నాయి. యాక్సిస్ మ్యాక్స్ లైఫ్ ఇన్సూరెన్స్‌లో CIO అయిన సచిన్ బజాజ్, హెల్త్‌కేర్, ఇన్‌ఫ్రాస్ట్రక్చర్ మరియు ఫైనాన్షియల్‌లలో అవకాశాలను చూస్తున్నారు. నాణ్యమైన ఆస్తులపై పెట్టుబడి పెట్టాలని ఆయన పెట్టుబడిదారులకు సలహా ఇస్తున్నారు. స్వల్పకాలిక అనిశ్చితి ఉన్నప్పటికీ భారతదేశ వృద్ధి కథ చెక్కుచెదరకుండా ఉంది. పెరిగిన వస్తువుల ధరలు కార్పొరేట్ ఆదాయాలు మరియు మార్జిన్‌లను ప్రభావితం చేయవచ్చు.",
       "translated": true
     },
@@ -420,7 +420,7 @@
       "source": "Economic Times",
       "category": "business",
       "language": "en",
-      "title_te": "శ్రీరామ నవమి 2026: కమోడిటీ మార్కెట్లు MCX మరియు NCDEX ఈరోజు తెరిచి ఉన్నాయా? 2026 సెలవు జాబితాను తనిఖీ చేయండి",
+      "title_te": "శ్రీరామ నవమి 2026: ఈరోజు కమోడిటీ మార్కెట్‌లు MCX మరియు NCDEX తెరిచి ఉన్నాయా? 2026 సెలవు జాబితాను తనిఖీ చేయండి",
       "summary_te": "భారతదేశపు అతిపెద్ద కమోడిటీ ఎక్స్ఛేంజ్, MCX, ఈరోజు శ్రీరామ నవమికి ​​పాక్షిక ట్రేడింగ్ సెలవుదినాన్ని పాటిస్తుంది, సాయంత్రం తిరిగి ప్రారంభమవుతుంది. ఈక్విటీ మార్కెట్లు ఎన్‌ఎస్‌ఈ, బీఎస్‌ఈ పూర్తిగా మూతపడ్డాయి. NCDEX రోజంతా మూసివేయబడుతుంది. ఇది బుధవారం భారతీయ ఈక్విటీ మార్కెట్లలో బలమైన పనితీరును అనుసరించింది.",
       "translated": true
     },
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "వంటశాలలు LPG కొరత వేడిని అనుభవిస్తున్నందున వినియోగం దెబ్బతింది",
-      "summary_te": "LPG సరఫరాల కొరత ఆహార పరిశ్రమకు అంతరాయం కలిగించినందున భారతదేశం యొక్క పాక ప్రకృతి దృశ్యం ఒత్తిడిని అనుభవిస్తోంది. హోటళ్లు మరియు సందడిగా ఉండే వీధి వ్యాపారులు వంటి సంస్థలు తమ వనరులను ట్రిమ్ చేస్తున్నాయి, ఇది తినదగిన నూనె మరియు పిండి వంటి ముఖ్యమైన పదార్థాల వినియోగానికి దారి తీస్తుంది. గోధుమ పిండి అమ్మకాలు క్షీణించడం వల్ల బ్రెడ్ మరియు బిస్కెట్లు వంటి ప్రధాన ఉత్పత్తుల ఉత్పత్తికి సవాళ్లు ఎదురవుతున్నాయి.",
+      "summary_te": "LPG సరఫరాల కొరత ఆహార పరిశ్రమకు అంతరాయం కలిగించినందున భారతదేశం యొక్క పాక ప్రకృతి దృశ్యం ఒత్తిడిని అనుభవిస్తోంది. హోటళ్లు మరియు సందడిగా ఉండే వీధి వ్యాపారులు వంటి సంస్థలు తమ వనరులను తగ్గించుకుంటున్నాయి, ఇది తినదగిన నూనె మరియు పిండి వంటి ముఖ్యమైన పదార్థాల వినియోగాన్ని తగ్గించడానికి దారితీస్తుంది. గోధుమ పిండి అమ్మకాలు క్షీణించడం వల్ల బ్రెడ్ మరియు బిస్కెట్లు వంటి ప్రధాన ఉత్పత్తుల ఉత్పత్తికి సవాళ్లు ఎదురవుతున్నాయి.",
       "translated": true
     },
     {
