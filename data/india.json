@@ -1,9 +1,93 @@
 {
-  "updated_at": "2026-03-26T22:28:11.518Z",
-  "updated_at_IST": "27/3/2026, 3:58:11 am",
+  "updated_at": "2026-03-26T23:31:26.660Z",
+  "updated_at_IST": "27/3/2026, 5:01:26 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "b01a0653f03e41e2f31d77746f3fa259",
+      "title": "No shortage of oil and gas, won't impose curbs: Govt",
+      "summary": "The government has ruled out restrictions on petrol and diesel sales, assuring citizens of ample oil and gas availability and robust import arrangements. Despite global fuel use curbs and misinformation-driven queues, India's petroleum and LPG supply remains secure and under control, with reserves and ongoing procurements ensuring uninterrupted dispensing at all retail outlets.",
+      "url": "https://timesofindia.indiatimes.com/india/no-shortage-of-oil-and-gas-wont-impose-curbs-govt/articleshow/129836249.cms",
+      "image": "https://static.toiimg.com/photo/msid-129836261,imgsize-1629812.cms",
+      "published_at": "2026-03-26T22:49:51.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "చమురు మరియు గ్యాస్ కొరత లేదు, అడ్డాలను విధించదు: ప్రభుత్వం",
+      "summary_te": "ప్రభుత్వం పెట్రోల్ మరియు డీజిల్ అమ్మకాలపై పరిమితులను తోసిపుచ్చింది, పౌరులకు పుష్కలంగా చమురు మరియు గ్యాస్ లభ్యత మరియు బలమైన దిగుమతి ఏర్పాట్లకు హామీ ఇచ్చింది. ప్రపంచ ఇంధన వినియోగానికి అడ్డంకులు మరియు తప్పుడు సమాచారంతో నడిచే క్యూలు ఉన్నప్పటికీ, భారతదేశం యొక్క పెట్రోలియం మరియు LPG సరఫరా సురక్షితంగా మరియు నియంత్రణలో ఉంది, నిల్వలు మరియు కొనసాగుతున్న కొనుగోళ్లు అన్ని రిటైల్ అవుట్‌లెట్‌లలో నిరంతరాయంగా పంపిణీకి భరోసా ఇస్తున్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "e2dee8ab89222dec28c44f5f3aafc7c7",
+      "title": "PM Modi to meet CMs today on West Asia conflict preparedness",
+      "summary": "Prime Minister Modi is set to convene a video conference with Chief Ministers, excluding those from poll-bound states, to assess national readiness for potential disruptions stemming from the West Asia conflict. The \"Team India\" spirit will guide discussions on energy supply concerns and preparedness, with the cabinet secretariat to engage excluded states separately.",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-meet-cms-today-on-west-asia-conflict-preparedness/articleshow/129836169.cms",
+      "image": "https://static.toiimg.com/photo/msid-129836228,imgsize-627134.cms",
+      "published_at": "2026-03-26T22:45:42.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా వివాదాల సన్నద్ధతపై ఇవాళ సీఎంలతో ప్రధాని మోదీ భేటీ కానున్నారు",
+      "summary_te": "పశ్చిమాసియా వివాదం నుంచి ఉత్పన్నమయ్యే సంభావ్య అంతరాయాలకు జాతీయ సంసిద్ధతను అంచనా వేయడానికి, ఎన్నికలకు వెళ్లే రాష్ట్రాలను మినహాయించి, ముఖ్యమంత్రులతో ప్రధాని మోదీ వీడియో కాన్ఫరెన్స్‌ను ఏర్పాటు చేయనున్నారు. మినహాయించబడిన రాష్ట్రాలను విడివిడిగా నిమగ్నం చేసేందుకు క్యాబినెట్ సెక్రటేరియట్‌తో \"టీమ్ ఇండియా\" స్ఫూర్తి ఇంధన సరఫరా ఆందోళనలు మరియు సంసిద్ధతపై చర్చలకు మార్గనిర్దేశం చేస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "4a81da840a24cfa17f93265dce40f684",
+      "title": "Dowry claims lives of thousands, do not give bail for such deaths mechanically: SC",
+      "summary": "The Supreme Court has cautioned high courts against granting bail in dowry death cases, deeming a Patna High Court order unsustainable. The bench emphasized the gravity of dowry deaths, a social evil causing thousands of women's unnatural deaths, and directed the accused husband to surrender.",
+      "url": "https://timesofindia.indiatimes.com/india/dowry-claims-lives-of-thousands-do-not-give-bail-for-such-deaths-mechanically-sc/articleshow/129835879.cms",
+      "image": "https://static.toiimg.com/photo/msid-129835909,imgsize-1046633.cms",
+      "published_at": "2026-03-26T22:32:40.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "వరకట్నం వేల మంది ప్రాణాలను బలిగొంటుంది, అలాంటి మరణాలకు యాంత్రికంగా బెయిల్ ఇవ్వవద్దు: ఎస్సీ",
+      "summary_te": "వరకట్న మరణ కేసుల్లో బెయిల్ మంజూరు చేయకుండా పాట్నా హైకోర్టు ఆదేశాలను సమర్థించలేమని భావించిన సుప్రీంకోర్టు హైకోర్టులను హెచ్చరించింది. వేలాది మంది మహిళల అసహజ మరణాలకు కారణమైన సామాజిక దురాచారమైన వరకట్న మరణాల తీవ్రతను బెంచ్ నొక్కి చెప్పింది మరియు నిందితుడైన భర్తను లొంగిపోవాలని ఆదేశించింది.",
+      "translated": true
+    },
+    {
+      "id": "9da0ae05d63cd301fc676718ea7f4bf7",
+      "title": "Second supplementary voter list in Bengal likely by March 27-28: EC official",
+      "summary": "Around 36 lakh voter entries from the pending list have been disposed of so far, the official in the Chief Electoral Officer's office said.",
+      "url": "https://www.hindustantimes.com/india-news/second-supplementary-voter-list-in-bengal-likely-by-march-27-28-ec-official-101774563658675.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/26/1600x900/logo/PTI03-16-2026-000363B-0_1774563703146_1774563716550.jpg",
+      "published_at": "2026-03-26T22:23:28.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "మార్చి 27-28 నాటికి బెంగాల్‌లో రెండవ అనుబంధ ఓటరు జాబితా: EC అధికారి",
+      "summary_te": "పెండింగ్‌లో ఉన్న 36 లక్షల ఓటరు నమోదులను ఇప్పటివరకు తొలగించినట్లు ప్రధాన ఎన్నికల అధికారి కార్యాలయంలోని అధికారి తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "62ac6f66041c72e49c9a5a6e0db86c83",
+      "title": "Fewer flights, no fare caps: Domestic airfares set to soar",
+      "summary": "Domestic air travel is poised for a significant price increase this summer, mirroring international flight costs. A 12% reduction in weekly domestic flights, coupled with the removal of fare caps and anticipated Aviation Turbine Fuel hikes, will drive up ticket prices. Only financially robust airlines are expected to maintain operations as demand and operating costs fluctuate.",
+      "url": "https://timesofindia.indiatimes.com/india/fewer-flights-no-fare-caps-domestic-airfares-set-to-soar/articleshow/129835239.cms",
+      "image": "https://static.toiimg.com/photo/msid-129835676,imgsize-210421.cms",
+      "published_at": "2026-03-26T22:19:31.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "తక్కువ విమానాలు, ఛార్జీల పరిమితులు లేవు: దేశీయ విమాన ఛార్జీలు పెరగనున్నాయి",
+      "summary_te": "దేశీయ విమాన ప్రయాణం ఈ వేసవిలో గణనీయమైన ధరల పెరుగుదలకు సిద్ధంగా ఉంది, ఇది అంతర్జాతీయ విమాన ఖర్చులను ప్రతిబింబిస్తుంది. వీక్లీ డొమెస్టిక్ ఫ్లైట్‌లలో 12% తగ్గింపు, ఛార్జీల పరిమితులను తొలగించడం మరియు ఊహించిన ఏవియేషన్ టర్బైన్ ఇంధన పెంపుదల వంటివి టిక్కెట్ ధరలను పెంచుతాయి. డిమాండ్ మరియు నిర్వహణ ఖర్చులు హెచ్చుతగ్గులకు లోనవుతున్నందున ఆర్థికంగా పటిష్టమైన ఎయిర్‌లైన్స్ మాత్రమే కార్యకలాపాలను నిర్వహించాలని భావిస్తున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "abdd909c851f766ccbb10a44c23fd24f",
+      "title": "President urged not to grant assent to transgender bill",
+      "summary": "Over 140 legal professionals and activists have urged President Murmu to reject the Transgender Persons (Protection of Rights) Amendment Bill, 2026. They argue the bill, passed hastily, violates constitutional rights by removing the right to self-perceived gender identity and introducing a medical board for identity certificates, potentially excluding marginalized transgender individuals from essential protections.",
+      "url": "https://timesofindia.indiatimes.com/india/president-urged-not-to-grant-assent-to-transgender-bill/articleshow/129834619.cms",
+      "image": "https://static.toiimg.com/photo/msid-129834570,imgsize-921863.cms",
+      "published_at": "2026-03-26T22:10:59.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ట్రాన్స్‌జెండర్ బిల్లుకు రాష్ట్రపతి ఆమోదం తెలపవద్దని కోరారు",
+      "summary_te": "లింగమార్పిడి వ్యక్తుల (హక్కుల పరిరక్షణ) సవరణ బిల్లు, 2026ను తిరస్కరించాలని 140 మందికి పైగా న్యాయ నిపుణులు మరియు కార్యకర్తలు అధ్యక్షుడు ముర్ముని కోరారు. వారు బిల్లును త్వరితగతిన ఆమోదించారు, రాజ్యాంగ హక్కులను ఉల్లంఘించారని వాదించారు. రక్షణలు.",
+      "translated": true
+    },
     {
       "id": "3b88ad4b0dc5940ab0738dcaeaca33dd",
       "title": "Delhi leads state-wise donations to national parties, shows ADR analysis",
@@ -19,6 +103,20 @@
       "translated": true
     },
     {
+      "id": "f337e97dd9ec9d404d54acd3777050d3",
+      "title": "Haryana’s cotton farms holding on by a thread",
+      "summary": "The Bt cotton revolution of the early 2000s had farmers in Haryana’s Hisar, Sirsa, Fatehabad, and Jind reaping rewards. Now, the pink bollworm is slashing yields and squeezing profits and the MSP is not enough. As farmers ditch cotton for paddy, the impact is soon likely to be felt by farm labourers, traders, and the economy as a whole, reports Ashok Kumar",
+      "url": "https://www.thehindu.com/news/national/haryana/haryanas-cotton-farms-holding-on-by-a-thread/article70784114.ece",
+      "image": "https://th-i.thgim.com/public/incoming/gm2rv5/article70784348.ece/alternates/LANDSCAPE_1200/COTTON%20FARMER%20HARYANA%20SPOTLIGHT%205.JPG",
+      "published_at": "2026-03-26T21:58:28.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "హర్యానా పత్తి పొలాలు దారంతో పట్టుకున్నాయి",
+      "summary_te": "2000వ దశకం ప్రారంభంలో బిటి పత్తి విప్లవం హర్యానాలోని హిసార్, సిర్సా, ఫతేహాబాద్ మరియు జింద్‌లలోని రైతులు ప్రతిఫలాన్ని పొందారు. ఇప్పుడు, గులాబీ రంగు కాయతొలుచు పురుగు దిగుబడిని తగ్గించి లాభాలను పిండుతోంది మరియు MSP సరిపోదు. రైతులు పత్తిని వరి సాగు చేయడంతో దీని ప్రభావం త్వరలో వ్యవసాయ కూలీలు, వ్యాపారులు, మొత్తం ఆర్థిక వ్యవస్థపై పడే అవకాశం ఉందని అశోక్ కుమార్ నివేదించారు.",
+      "translated": true
+    },
+    {
       "id": "6f66067fce4bb75289855e94eb2d75a7",
       "title": "India, China neighbours that can't be parted: Beijing envoy",
       "summary": "China's envoy to India, Xu Feihong, asserted that India and China's progress stems from their people's efforts, not external aid, subtly countering US remarks. He urged win-win cooperation and cautioned against those seeking to sow discord between the neighbours. Xu also highlighted the need for China and India to champion developing nations amidst rising global challenges.",
@@ -30,6 +128,20 @@
       "language": "en",
       "title_te": "విడిపోలేని భారత్, చైనా పొరుగు దేశాలు: బీజింగ్ రాయబారి",
       "summary_te": "భారతదేశానికి చైనా రాయబారి జు ఫీహాంగ్, భారతదేశం మరియు చైనాల పురోగతి వారి ప్రజల ప్రయత్నాల నుండి ఉద్భవించిందని, బాహ్య సహాయం కాదని, యుఎస్ వ్యాఖ్యలను సూక్ష్మంగా ఎదుర్కొంటుందని నొక్కి చెప్పారు. అతను విజయం-విజయం సహకారాన్ని కోరారు మరియు పొరుగువారి మధ్య వైషమ్యాలను నాటడానికి ప్రయత్నించే వారి పట్ల హెచ్చరించాడు. పెరుగుతున్న ప్రపంచ సవాళ్ల మధ్య చైనా మరియు భారతదేశం అభివృద్ధి చెందుతున్న దేశాలను చాంపియన్‌గా మార్చాల్సిన అవసరాన్ని కూడా జు హైలైట్ చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "415b3c26bc3dae7d2b1db13d74026b93",
+      "title": "Paul Skenes pulled early after Pittsburgh Pirates opening day collapse",
+      "summary": "Paul Skenes had a shocking start to the 2026 MLB season, lasting just two outs and giving up five runs. Fielding errors and control issues made things worse, leading to an early exit. Manager Don Kelly said it was a pitch count decision. Despite strong preseason confidence, Skenes now faces an early setback but no injury concerns.",
+      "url": "https://timesofindia.indiatimes.com/sports/mlb/news/paul-skenes-nightmare-in-new-york-as-livvy-dunnes-boyfriend-pulled-early-after-pittsburgh-pirates-opening-day-collapse/articleshow/129834078.cms",
+      "image": "https://static.toiimg.com/photo/msid-129833999,imgsize-659344.cms",
+      "published_at": "2026-03-26T21:42:35.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "పిట్స్‌బర్గ్ పైరేట్స్ ఓపెనింగ్ డే కుప్పకూలిన తర్వాత పాల్ స్కెనెస్ ప్రారంభంలోనే ఆగిపోయాడు",
+      "summary_te": "పాల్ స్కెనెస్ 2026 MLB సీజన్‌కు దిగ్భ్రాంతికరమైన ప్రారంభాన్ని కలిగి ఉన్నాడు, కేవలం రెండు అవుట్‌లు మరియు ఐదు పరుగులను ఇచ్చాడు. ఫీల్డింగ్ లోపాలు మరియు నియంత్రణ సమస్యలు పరిస్థితిని మరింత దిగజార్చాయి, ఇది ముందస్తు నిష్క్రమణకు దారితీసింది. ఇది పిచ్ కౌంట్ నిర్ణయమని మేనేజర్ డాన్ కెల్లీ తెలిపారు. బలమైన ప్రీ-సీజన్ విశ్వాసం ఉన్నప్పటికీ, స్కెనెస్ ఇప్పుడు ముందస్తు ఎదురుదెబ్బను ఎదుర్కొంటుంది కానీ గాయం ఆందోళనలు లేవు.",
       "translated": true
     },
     {
@@ -439,20 +551,6 @@
       "translated": true
     },
     {
-      "id": "25d5ac9cc88124d7e2c76ce80c07869c",
-      "title": "East, Central corporations to present their first annual budgets on March 27",
-      "summary": "The remaining three corporations in the Greater Bengaluru Authority area will present their budgets on March 28",
-      "url": "https://www.thehindu.com/news/cities/bangalore/east-central-corporations-to-present-their-first-annual-budgets-on-march-27/article70789217.ece",
-      "image": "https://th-i.thgim.com/public/incoming/x96ncx/article70789526.ece/alternates/LANDSCAPE_1200/_JAI2234.JPG",
-      "published_at": "2026-03-26T19:12:41.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "తూర్పు, సెంట్రల్ కార్పొరేషన్లు తమ మొదటి వార్షిక బడ్జెట్‌లను మార్చి 27న సమర్పించనున్నాయి",
-      "summary_te": "గ్రేటర్ బెంగళూరు అథారిటీ పరిధిలోని మిగిలిన మూడు కార్పొరేషన్లు మార్చి 28న తమ బడ్జెట్‌ను సమర్పించనున్నాయి",
-      "translated": true
-    },
-    {
       "id": "4bfa312cb898f297ea7bf8cf04a7f2e0",
       "title": "India And China's Growth Built On Hard Work, Not Generosity: Chinese Envoy",
       "summary": "India and China achieved \"remarkable\" development in the last few decades because of their \"hard work\" not due to the \"generosity\" of others, Chinese ambassador Xu Feihong said on Thursday.",
@@ -621,34 +719,6 @@
       "translated": true
     },
     {
-      "id": "548f131b121fd4836911230f23cdaeba",
-      "title": "Freebies over development? K'taka cuts programs to fund welfare schemes: CAG report",
-      "summary": "Karnataka's finances are strained by welfare schemes, forcing cuts in other programs. The CAG report reveals Rs 52,525 crore spent on five guarantee schemes, consuming a significant portion of revenue and necessitating increased borrowing. This fiscal pressure impacts capital expenditure and raises concerns about future growth and debt servicing obligations.",
-      "url": "https://timesofindia.indiatimes.com/india/freebies-first-development-later-karnataka-cuts-programs-to-fund-welfare-schemes-cag-flags-deficit-risks/articleshow/129831323.cms",
-      "image": "https://static.toiimg.com/photo/msid-129831431,imgsize-79384.cms",
-      "published_at": "2026-03-26T17:51:43.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "అభివృద్ధిపై ఉచితా? సంక్షేమ పథకాల నిధుల కోసం కటక కార్యక్రమాలను తగ్గించింది: కాగ్ నివేదిక",
-      "summary_te": "సంక్షేమ పథకాలు, ఇతర కార్యక్రమాల్లో బలవంతంగా కోత విధించడం వల్ల కర్నాటక ఆర్థిక పరిస్థితులు దెబ్బతిన్నాయి. 52,525 కోట్ల రూపాయలను ఐదు గ్యారంటీ స్కీమ్‌లకు ఖర్చు చేసినట్లు కాగ్ నివేదిక వెల్లడించింది, ఇది ఆదాయంలో గణనీయమైన భాగాన్ని వినియోగిస్తుంది మరియు పెరిగిన రుణాలు అవసరం. ఈ ఆర్థిక ఒత్తిడి మూలధన వ్యయాన్ని ప్రభావితం చేస్తుంది మరియు భవిష్యత్తు వృద్ధి మరియు రుణ సేవల బాధ్యతల గురించి ఆందోళనలను పెంచుతుంది.",
-      "translated": true
-    },
-    {
-      "id": "6630f46327781887a3da8fded13dc792",
-      "title": "What is ‘launching soon’? White House official page posts strange videos amid US‑Iran war",
-      "summary": "Amid escalating US‑Iran tensions, the White House posted two cryptic videos, one deleted within 90 minutes, that quickly fueled online speculation. Lacking context or narrative, the clips prompted theories ranging from apps and space missions to military strikes, with many users conjuring ominous conspiracies. Despite millions of views, the White House offered no clarification, leaving the posts mysterious and widely debated.",
-      "url": "https://timesofindia.indiatimes.com/world/us/what-is-launching-soon-white-house-official-page-posts-strange-unexplained-videos-amid-usiran-war/articleshow/129830061.cms",
-      "image": "https://static.toiimg.com/photo/msid-129831116,imgsize-312999.cms",
-      "published_at": "2026-03-26T17:38:45.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "‘త్వరలో ప్రారంభించడం’ అంటే ఏమిటి? US-ఇరాన్ యుద్ధం మధ్య వైట్ హౌస్ అధికారిక పేజీ వింత వీడియోలను పోస్ట్ చేసింది",
-      "summary_te": "US-ఇరాన్ ఉద్రిక్తతల మధ్య, వైట్ హౌస్ రెండు రహస్య వీడియోలను పోస్ట్ చేసింది, ఒకటి 90 నిమిషాల్లో తొలగించబడింది, ఇది ఆన్‌లైన్ ఊహాగానాలకు త్వరగా ఆజ్యం పోసింది. సందర్భం లేదా కథనం లేకపోవడంతో, క్లిప్‌లు యాప్‌లు మరియు స్పేస్ మిషన్‌ల నుండి సైనిక దాడుల వరకు సిద్ధాంతాలను ప్రేరేపించాయి, చాలా మంది వినియోగదారులు అరిష్ట కుట్రలను ఊహించారు. మిలియన్ల మంది వీక్షణలు ఉన్నప్పటికీ, వైట్ హౌస్ ఎటువంటి స్పష్టత ఇవ్వలేదు, పోస్ట్‌లను రహస్యంగా మరియు విస్తృతంగా చర్చించారు.",
-      "translated": true
-    },
-    {
       "id": "d7108e9f0b6835b489be06367e367f9d",
       "title": "A \"Lousy Fighters\" Jibe From Trump As Iran Calls US Proposal \"One-Sided\"",
       "summary": "Earlier in the day, in a post on Truth Social, Trump claimed that Iran had been \"begging\" for a deal but has publicly maintained that they are just \"looking at our proposal\".",
@@ -691,20 +761,6 @@
       "translated": true
     },
     {
-      "id": "ffd87c85a672eb3b127b61a6c1cf8cb2",
-      "title": "Kick streamer ShnaggyHose accuses Cheesur of harming girlfriend Kaelyn",
-      "summary": "ShnaggyHose has accused Cheesur of harming his girlfriend Kaelyn during a livestream, with the clip going viral online. The claims were made during a heated exchange, but no proof has been publicly confirmed. Cheesur has not responded so far. The situation remains unclear, and viewers are waiting for further updates or an official statement.",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-shnaggyhose-accuses-cheesur-of-harming-girlfriend-kaelyn-as-livestream-clip-goes-viral/articleshow/129830479.cms",
-      "image": "https://static.toiimg.com/photo/msid-129830457,imgsize-24818.cms",
-      "published_at": "2026-03-26T17:30:00.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "కిక్ స్ట్రీమర్ ష్నాగీహోస్ చీసూర్ గర్ల్‌ఫ్రెండ్ కైలిన్‌కు హాని కలిగించాడని ఆరోపించాడు",
-      "summary_te": "ఆన్‌లైన్‌లో వైరల్ అవుతున్న క్లిప్‌తో లైవ్ స్ట్రీమ్ సమయంలో చీసూర్ తన స్నేహితురాలు కైలిన్‌కు హాని కలిగించాడని ష్నాగీహోస్ ఆరోపించాడు. క్లెయిమ్‌లు తీవ్రమైన మార్పిడి సమయంలో చేయబడ్డాయి, కానీ ఎటువంటి రుజువు బహిరంగంగా ధృవీకరించబడలేదు. చీసూర్ ఇంతవరకు స్పందించలేదు. పరిస్థితి అస్పష్టంగానే ఉంది మరియు వీక్షకులు తదుపరి నవీకరణలు లేదా అధికారిక ప్రకటన కోసం ఎదురు చూస్తున్నారు.",
-      "translated": true
-    },
-    {
       "id": "ae97861c052afbe416e59df7b8e17b90",
       "title": "Where did 2,300 kg drugs go? Gujarat Police says this after CAG raises questions",
       "summary": "Where did 2,300 kg drugs go? Gujarat Police says this after CAG raises questions",
@@ -744,20 +800,6 @@
       "language": "en",
       "title_te": "ఇరాన్ 'చమురు బహుమతి'ని ట్రంప్ వెల్లడించారు: హార్ముజ్ జలసంధి ద్వారా పంపబడిన 10 పాకిస్తాన్ జెండా ట్యాంకర్లను",
       "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మా ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
-      "id": "72207147a86b0d67783ffac71f3bd6c7",
-      "title": "Pandya wins hearts with promise kept, rewards Wankhede groundstaff",
-      "summary": "Hardik Pandya fulfilled a promise to reward Wankhede groundstaff who supported his late-night World Cup training, earning praise for his humility. The two-time T20 World Cup winner acknowledged their behind-the-scenes efforts while continuing to shine on the field. Reflecting on life, he said, “Jab se Mahieka aayi hai, life mein bas jeet hi jeet hai.”",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/hardik-pandya-wins-hearts-with-promise-kept-rewards-wankhede-groundstaff/articleshow/129829833.cms",
-      "image": "https://static.toiimg.com/photo/msid-129830463,imgsize-60762.cms",
-      "published_at": "2026-03-26T17:10:19.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "వాంఖడే గ్రౌండ్‌స్టాఫ్‌కు రివార్డ్ చేసిన వాగ్దానంతో పాండ్యా హృదయాలను గెలుచుకున్నాడు",
-      "summary_te": "హార్దిక్ పాండ్యా తన అర్థరాత్రి ప్రపంచ కప్ శిక్షణకు మద్దతు ఇచ్చిన వాంఖడే గ్రౌండ్‌స్టాఫ్‌కు రివార్డ్ చేస్తానని వాగ్దానాన్ని నెరవేర్చాడు, అతని వినయానికి ప్రశంసలు అందుకున్నాడు. రెండుసార్లు T20 ప్రపంచ కప్ విజేత మైదానంలో ప్రకాశిస్తూనే వారి తెరవెనుక ప్రయత్నాలను అంగీకరించాడు. జీవితాన్ని ప్రతిబింబిస్తూ, \"జబ్ సే మహీకా ఆయీ హై, లైఫ్ మే బాస్ జీత్ హీ జీత్ హై\" అన్నాడు.",
       "translated": true
     },
     {
@@ -859,20 +901,6 @@
       "translated": true
     },
     {
-      "id": "c9e9867cd53186d76197ab9f475a7751",
-      "title": "Eid ceasefire ends: Pakistan resumes attack on Afghanistan; 2 civilians killed",
-      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/eid-pause-over-pakistan-afghanistan-trade-fire-again-2-killed-several-injured/articleshow/129829631.cms",
-      "image": "https://static.toiimg.com/photo/msid-129829626,imgsize-751758.cms",
-      "published_at": "2026-03-26T16:24:10.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఈద్ కాల్పుల విరమణ ముగిసింది: పాకిస్తాన్ ఆఫ్ఘనిస్తాన్‌పై దాడిని తిరిగి ప్రారంభించింది; 2 పౌరులు మరణించారు",
-      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
       "id": "59f09f3780fe88403e3a551566914c92",
       "title": "Watch: Shami's latest act triggers big reaction from Langer",
       "summary": "Mohammed Shami is training hard ahead of IPL 2026, aiming to return to India’s squad. The 35-year-old impressed LSG coach Justin Langer with his yorkers, who called them “breathtaking.” Langer also praised Shami’s leadership among younger players. With selectors overlooking him, the IPL offers Shami a crucial chance to prove himself and push for a comeback.",
@@ -926,20 +954,6 @@
       "language": "en",
       "title_te": "ఎంపీ చింద్వారాలో బస్సు-ట్రక్కు ఢీకొన్న ఘటనలో 9 మంది మృతి, 30 మందికి గాయాలు: పోలీసులు",
       "summary_te": "ఎంపీ చింద్వారాలో ట్రక్కు ఢీకొనడంతో 40+ మంది ప్రయాణికులతో వెళ్తున్న బస్సు బోల్తా పడింది; బాధితులు సీఎం మోహన్ యాదవ్ హాజరైన ప్రభుత్వ పథకం నుండి తిరిగి వస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "0cef53eb024753bb1248bb150f8b91f1",
-      "title": "Arjun Rampal's girlfriend hits back at the article criticising 'Dhurandhar 2' actor",
-      "summary": "Arjun Rampal's closing remark of 'Bharat Mata Ki Jai' at an awards show, following his role in 'Dhurandhar: The Revenge' and recalling the 26/11 attacks, sparked a debate. Shobhaa De criticized the statement as a display of loyalty and manipulation, while others defended Rampal's patriotism.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampals-girlfriend-gabriella-hits-back-at-shobhaa-des-aricle-criticising-the-dhurandhar-2-actor-for-saying-bharat-mata-ki-jai/articleshow/129829082.cms",
-      "image": "https://static.toiimg.com/photo/msid-129829122,imgsize-49160.cms",
-      "published_at": "2026-03-26T15:48:20.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'ధురంధర్ 2' నటుడిని విమర్శిస్తూ వచ్చిన కథనాన్ని అర్జున్ రాంపాల్ స్నేహితురాలు తిప్పికొట్టింది",
-      "summary_te": "'ధురంధర్: ది రివెంజ్'లో తన పాత్రను అనుసరించి, 26/11 దాడులను గుర్తుచేస్తూ ఒక అవార్డుల కార్యక్రమంలో అర్జున్ రాంపాల్ 'భారత్ మాతా కీ జై' ముగింపు వ్యాఖ్య చర్చకు దారితీసింది. ఈ ప్రకటన విధేయత మరియు అవకతవకల ప్రదర్శన అని శోభా దే విమర్శించగా, మరికొందరు రాంపాల్ దేశభక్తిని సమర్థించారు.",
       "translated": true
     },
     {
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "వాణిజ్య నిబంధనలు: భారతదేశంలో 'జాతీయ ఆసక్తి' యొక్క పొగమంచు",
       "summary_te": "భారతదేశం స్వతంత్ర దేశంగా అవతరించింది, అదే సమయంలో ప్రపంచం రెండు సైద్ధాంతిక వ్యతిరేక అగ్రరాజ్యాల మధ్య పోటీలోకి ప్రవేశించింది: US మరియు సోవియట్ యూనియన్",
-      "translated": true
-    },
-    {
-      "id": "af842c201905be7645d9f1937232e4b3",
-      "title": "LPG vessel Apollo Ocean arrives at New Mangalore Port amid West Asia conflict | Video",
-      "summary": "The vessel Apollo Ocean arrived at the port around 8 PM on Wednesday, with unloading operations beginning the same night.",
-      "url": "https://www.hindustantimes.com/india-news/lpg-vessel-apollo-ocean-arrives-at-new-mangalore-port-amid-west-asia-conflict-video-101774524716002.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/26/1600x900/logo/war_hj_1774525227220_1774525235443.jpg",
-      "published_at": "2026-03-26T11:55:24.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "పశ్చిమాసియా వివాదాల మధ్య న్యూ మంగళూరు నౌకాశ్రయానికి ఎల్‌పిజి నౌక అపోలో ఓషన్ చేరుకుంది | వీడియో",
-      "summary_te": "ఓడ అపోలో ఓషన్ బుధవారం రాత్రి 8 గంటల సమయంలో ఓడరేవుకు చేరుకుంది, అదే రాత్రి ప్రారంభించిన అన్‌లోడ్ కార్యకలాపాలతో.",
       "translated": true
     }
   ]
