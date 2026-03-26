@@ -1,21 +1,35 @@
 {
-  "updated_at": "2026-03-26T10:02:07.808Z",
-  "updated_at_IST": "26/3/2026, 3:32:07 pm",
+  "updated_at": "2026-03-26T10:53:08.227Z",
+  "updated_at_IST": "26/3/2026, 4:23:08 pm",
   "category": "andhra",
   "count": 22,
   "articles": [
     {
-      "id": "afcec8ffdf655071ade57a1c8d0c42ec",
-      "title": "PM Modi expresses condolences over Markapur road accident, announces ex-gratia",
-      "summary": "Authorities are continuing rescue and relief operations, and the injured have been shifted to nearby hospitals for treatment",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pm-modi-expresses-condolences-over-markapur-road-accident-announces-ex-gratia/article70787076.ece",
-      "image": "https://th-i.thgim.com/public/incoming/n2b7m6/article70787138.ece/alternates/LANDSCAPE_1200/10745_26_3_2026_12_15_20_3_IMG_20260326_WA0094.JPG",
-      "published_at": "2026-03-26T07:08:32.000Z",
+      "id": "d329f81700286bf1b395adafebeae44b",
+      "title": "Woman and infant feared dead in Markapuram bus accident",
+      "summary": "The construction workers from Andhra Pradesh mainly depend on the private bus services to commute to their native places from various towns in north Telangana",
+      "url": "https://www.thehindu.com/news/national/telangana/woman-and-infant-feared-dead-in-markapuram-bus-accident/article70787210.ece",
+      "image": "https://th-i.thgim.com/public/incoming/kkpgl4/article70787242.ece/alternates/LANDSCAPE_1200/PTI03_26_2026_000063B.jpg",
+      "published_at": "2026-03-26T09:17:19.000Z",
       "source": "The Hindu AP",
       "category": "andhra",
       "language": "en",
-      "title_te": "మార్కాపూర్ రోడ్డు ప్రమాదంపై ప్రధాని మోదీ సంతాపం వ్యక్తం చేశారు, ఎక్స్‌గ్రేషియా ప్రకటించారు",
-      "summary_te": "అధికారులు సహాయక చర్యలు కొనసాగిస్తున్నారు మరియు క్షతగాత్రులను చికిత్స కోసం సమీపంలోని ఆసుపత్రులకు తరలించారు",
+      "title_te": "మార్కాపురంలో జరిగిన బస్సు ప్రమాదంలో మహిళ, పసికందు మృతి చెందారు",
+      "summary_te": "ఆంధ్రప్రదేశ్‌లోని భవన నిర్మాణ కార్మికులు ఉత్తర తెలంగాణలోని వివిధ పట్టణాల నుండి తమ స్వస్థలాలకు వెళ్లేందుకు ప్రధానంగా ప్రైవేట్ బస్సు సర్వీసులపై ఆధారపడుతున్నారు.",
+      "translated": true
+    },
+    {
+      "id": "339f3eee78fc2dd34b83850f4afa55ee",
+      "title": "All private buses should adhere to safety norms: Deputy Transport Commissioner",
+      "summary": "The Vizianagaram Deputy Transport Commissioner said that the department had been conducting inspections in nearly 50 private buses plying to various destinations",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/all-private-buses-should-adhere-to-safety-norms-deputy-transport-commissioner/article70786748.ece",
+      "image": "https://th-i.thgim.com/public/incoming/f9dvvp/article70787439.ece/alternates/LANDSCAPE_1200/20260321305L.jpg",
+      "published_at": "2026-03-26T09:05:13.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ప్రైవేట్ బస్సులన్నీ భద్రతా నిబంధనలను పాటించాలి: డిప్యూటీ ట్రాన్స్‌పోర్ట్ కమిషనర్",
+      "summary_te": "వివిధ ప్రాంతాలకు వెళ్లే దాదాపు 50 ప్రైవేట్ బస్సుల్లో తనిఖీలు నిర్వహిస్తున్నట్లు విజయనగరం డిప్యూటీ ట్రాన్స్‌పోర్ట్ కమిషనర్ తెలిపారు.",
       "translated": true
     },
     {
@@ -296,20 +310,6 @@
       "language": "en",
       "title_te": "విజయవాడలో దోమల బెడదను ఎదుర్కోవడానికి కార్పొరేషన్ స్మార్ట్ పరికరాలను విడుదల చేసింది",
       "summary_te": "స్మార్ట్ మస్కిటో ఎలిమినేటర్ 50 నుండి 100 మీటర్ల పరిధిలో సుమారు 50,000 దోమలను ట్రాప్ చేసి వాటిని చంపగలదు, అయితే సెన్సార్ నగరంలో దోమల లింగం, జాతులు మరియు సాంద్రత గురించి మాత్రమే సమాచారాన్ని అందిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "5a8c0b61a79ba8543238dc40f0e8df01",
-      "title": "ArcelorMittal steel project first initiated by YSRCP government, claims Y.S. Jagan",
-      "summary": "He accuses Chief Minister Chandrababu Naidu of indulging in blatant ‘credit theft’ and misleading propaganda over the proposed project",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/arcelormittal-steel-project-first-initiated-by-ysrcp-government-claims-ys-jagan/article70784379.ece",
-      "image": "https://th-i.thgim.com/public/incoming/mrbcvg/article70784785.ece/alternates/LANDSCAPE_1200/BAG_2644.JPG",
-      "published_at": "2026-03-25T14:59:00.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఆర్సెలార్ మిట్టల్ ఉక్కు ప్రాజెక్టును తొలిసారిగా YSRCP ప్రభుత్వం ప్రారంభించిందని, Y.S. జగన్",
-      "summary_te": "ప్రతిపాదిత ప్రాజెక్టుపై ముఖ్యమంత్రి చంద్రబాబు నాయుడు కఠోరమైన ‘క్రెడిట్ చోరీ’కు పాల్పడుతున్నారని, తప్పుడు ప్రచారం చేస్తున్నారని ఆయన ఆరోపించారు.",
       "translated": true
     }
   ]

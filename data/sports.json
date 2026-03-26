@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-26T10:02:07.808Z",
-  "updated_at_IST": "26/3/2026, 3:32:07 pm",
+  "updated_at": "2026-03-26T10:53:08.227Z",
+  "updated_at_IST": "26/3/2026, 4:23:08 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "d776262c91245d4d34ba86b2b37f2739",
+      "title": "International cricket returns to Bengaluru in busy 2026-27 season",
+      "summary": "Zimbabwe are set to embark on their first bilateral tour of India since 2002",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529209.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/275600/275679.jpg",
+      "published_at": "2026-03-26T09:59:06.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "అంతర్జాతీయ క్రికెట్ బిజీ 2026-27 సీజన్‌లో బెంగళూరుకు తిరిగి వస్తుంది",
+      "summary_te": "జింబాబ్వే 2002 తర్వాత భారత్‌లో తమ మొదటి ద్వైపాక్షిక పర్యటనను ప్రారంభించనుంది",
+      "translated": true
+    },
     {
       "id": "485c6b7dccfa812d3da3d68ab794ff49",
       "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "బోలాండ్ బిగ్ సీజన్ యొక్క చివరి పుష్‌కు ప్రధానమైన భావన",
       "summary_te": "మొత్తం ఐదు యాషెస్ టెస్టులను కలిగి ఉన్న సీజన్‌లో పేస్ బౌలర్ తనను తాను నిర్వహించుకోగలిగాడు",
-      "translated": true
-    },
-    {
-      "id": "4582cbe85050d4862d0428ed9be2e898",
-      "title": "Kayley Knight called up to NZ squad for ODIs against SA",
-      "summary": "The seamer made her T20I debut in the recently concluded series against Zimbabwe",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528932.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414100/414166.jpg",
-      "published_at": "2026-03-24T03:49:40.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "SAకి వ్యతిరేకంగా ODIల కోసం కైలీ నైట్ NZ జట్టుకు పిలుపునిచ్చారు",
-      "summary_te": "జింబాబ్వేతో ఇటీవల ముగిసిన సిరీస్‌లో సీమర్ తన T20I అరంగేట్రం చేసింది",
       "translated": true
     }
   ]
