@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-26T08:52:14.980Z",
-  "updated_at_IST": "26/3/2026, 2:22:14 pm",
+  "updated_at": "2026-03-26T10:02:07.808Z",
+  "updated_at_IST": "26/3/2026, 3:32:07 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "485c6b7dccfa812d3da3d68ab794ff49",
+      "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
+      "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
+      "published_at": "2026-03-26T09:33:14.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రాజస్థాన్ రాయల్స్ US ఆధారిత పెట్టుబడిదారుల కన్సార్టియం US $ 1.635 బిలియన్లకు విక్రయించబడింది.",
+      "summary_te": "బిడ్‌లో అన్ని రాయల్స్ బ్రాండెడ్ జట్ల యాజమాన్యం ఉంది: SA20లో పార్ల్ రాయల్స్ మరియు CPLలో బార్బడోస్ రాయల్స్",
+      "translated": true
+    },
     {
       "id": "8ed09ab056a4356e51c07eaad7ebd13b",
       "title": "Rain ruins opening day after Victoria tear through SA top order",
@@ -72,20 +86,6 @@
       "language": "en",
       "title_te": "సెలెక్టర్‌ను ఎంచుకోవడం గమ్మత్తైనది, ఎందుకంటే ECB మైదానంలో ఎంపికలను సన్నగా గుర్తించింది",
       "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు చాలా ఉన్నాయి",
-      "translated": true
-    },
-    {
-      "id": "485c6b7dccfa812d3da3d68ab794ff49",
-      "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
-      "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
-      "published_at": "2026-03-25T20:59:14.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రాజస్థాన్ రాయల్స్ US ఆధారిత పెట్టుబడిదారుల కన్సార్టియం US $ 1.635 బిలియన్లకు విక్రయించబడింది.",
-      "summary_te": "బిడ్‌లో అన్ని రాయల్స్ బ్రాండెడ్ జట్ల యాజమాన్యం ఉంది: SA20లో పార్ల్ రాయల్స్ మరియు CPLలో బార్బడోస్ రాయల్స్",
       "translated": true
     },
     {
