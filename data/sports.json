@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-26T04:35:22.645Z",
-  "updated_at_IST": "26/3/2026, 10:05:22 am",
+  "updated_at": "2026-03-26T06:18:16.721Z",
+  "updated_at_IST": "26/3/2026, 11:48:16 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "ce2e20c2027c6396b1ab1acdf0753ded",
+      "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
+      "summary": "The series is locked 2-2 heading into the decider in Christchurch",
+      "url": "https://www.espncricinfo.com/ci/content/story/1528942.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414832.jpg",
+      "published_at": "2026-03-26T05:39:17.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "NZ, SA తక్కువ-సందర్భం సిరీస్ అధిక-స్టేక్స్ ముగింపుకు చేరుకున్నందున అందరూ ఆడవలసి ఉంటుంది",
+      "summary_te": "క్రైస్ట్‌చర్చ్‌లో నిర్ణయాత్మకంగా సిరీస్ 2-2తో లాక్ చేయబడింది",
+      "translated": true
+    },
+    {
+      "id": "617d15c837bdbe96729690331a82a18a",
+      "title": "RCB sold for USD 1.78 billion to consortium comprising Aditya Birla Group, Times of India",
+      "summary": "Both men's and women's teams will now be \"owned and operated\" by the consortium",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529082.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401694.jpg",
+      "published_at": "2026-03-26T05:19:13.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
+      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియంచే \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
+      "translated": true
+    },
     {
       "id": "b23aaec04d93ee63e7a7af8ff55a1c64",
       "title": "Australia coach sees huge value in Molineux's non-bowling series",
@@ -29,7 +57,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "సెలెక్టర్‌ను ఎంచుకోవడం గమ్మత్తైనది, ఎందుకంటే ECB మైదానంలో ఎంపికలను సన్నగా గుర్తించింది",
-      "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు ఉన్నాయి",
+      "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు చాలా ఉన్నాయి",
       "translated": true
     },
     {
@@ -57,7 +85,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పృథ్వీ షా: 'నేను మానసికంగా దృఢంగా ఉండేందుకు నాకు విరామం కావాలి'",
-      "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత తిరిగి ఢిల్లీ క్యాపిటల్స్‌తో షా రాహుల్‌తో కలిసి ఓపెనింగ్ చేయడానికి నిస్సాంకా మరియు పోరెల్‌లతో పోటీపడతాడు.",
+      "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత ఢిల్లీ క్యాపిటల్స్‌తో తిరిగి వచ్చిన షా రాహుల్‌తో పాటు ఓపెనింగ్ చేయడానికి నిస్సాంక మరియు పోరెల్‌తో పోటీపడతాడు.",
       "translated": true
     },
     {
@@ -117,20 +145,6 @@
       "translated": true
     },
     {
-      "id": "ce2e20c2027c6396b1ab1acdf0753ded",
-      "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
-      "summary": "The series is locked 2-2 heading into the decider in Christchurch",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528942.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414832.jpg",
-      "published_at": "2026-03-25T11:06:40.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "NZ, SA తక్కువ-సందర్భం సిరీస్ అధిక-స్టేక్స్ ముగింపుకు చేరుకున్నందున అందరూ ఆడవలసి ఉంటుంది",
-      "summary_te": "క్రైస్ట్‌చర్చ్‌లో నిర్ణయాత్మకంగా సిరీస్ 2-2తో లాక్ చేయబడింది",
-      "translated": true
-    },
-    {
       "id": "275f4413baa4d04895b8a7cae33c2ea3",
       "title": "Esterhuizen, bowlers lead South Africa to 3-2 series win",
       "summary": "Esterhuizen hit his second consecutive fifty before South Africa's bowlers ensured New Zealand never threatened in the chase",
@@ -141,7 +155,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "Esterhuize, బౌలర్లు దక్షిణాఫ్రికా 3-2 సిరీస్ విజయం సాధించారు",
-      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హుజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
+      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హ్యూజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
       "translated": true
     },
     {
@@ -184,20 +198,6 @@
       "language": "en",
       "title_te": "న్యూజిలాండ్ 4-1తో సిరీస్‌ను కైవసం చేసుకోవడంతో దక్షిణాఫ్రికా 102 వర్సెస్ కెర్ 105 పరుగులు చేసింది.",
       "summary_te": "కెర్ 6 పరుగులకు 2 పరుగులతో తన సెంచరీతో సంపూర్ణ ఆల్ రౌండ్ ప్రదర్శనతో సందర్శకులను మెప్పించింది.",
-      "translated": true
-    },
-    {
-      "id": "617d15c837bdbe96729690331a82a18a",
-      "title": "RCB sold for USD 1.78 billion to consortium comprising Aditya Birla Group, Times of India",
-      "summary": "Both men's and women's teams will now be \"owned and operated\" by the consortium",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529082.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/401600/401694.jpg",
-      "published_at": "2026-03-25T05:29:14.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
-      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియం ద్వారా \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
       "translated": true
     },
     {
