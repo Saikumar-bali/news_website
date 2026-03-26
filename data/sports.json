@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-26T10:53:08.227Z",
-  "updated_at_IST": "26/3/2026, 4:23:08 pm",
+  "updated_at": "2026-03-26T11:53:21.197Z",
+  "updated_at_IST": "26/3/2026, 5:23:21 pm",
   "category": "sports",
   "count": 25,
   "articles": [
@@ -10,12 +10,26 @@
       "summary": "Zimbabwe are set to embark on their first bilateral tour of India since 2002",
       "url": "https://www.espncricinfo.com/ci/content/story/1529209.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/275600/275679.jpg",
-      "published_at": "2026-03-26T09:59:06.000Z",
+      "published_at": "2026-03-26T11:06:00.000Z",
       "source": "ESPNCricinfo",
       "category": "sports",
       "language": "en",
       "title_te": "అంతర్జాతీయ క్రికెట్ బిజీ 2026-27 సీజన్‌లో బెంగళూరుకు తిరిగి వస్తుంది",
       "summary_te": "జింబాబ్వే 2002 తర్వాత భారత్‌లో తమ మొదటి ద్వైపాక్షిక పర్యటనను ప్రారంభించనుంది",
+      "translated": true
+    },
+    {
+      "id": "2fcb82399eed6e3f236cc0e3e532cb36",
+      "title": "Going where the money is - Cummins voices the danger facing Australian cricket",
+      "summary": "The Australia captain weighs in on concerns that more players might forego Cricket Australia contracts in the future if they can earn more in franchise cricket",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529207.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411169.png",
+      "published_at": "2026-03-26T10:53:10.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డబ్బు ఉన్న చోటికి వెళ్లడం - ఆస్ట్రేలియా క్రికెట్‌కు ఎదురయ్యే ప్రమాదం గురించి కమిన్స్ వాణిని వినిపించాడు",
+      "summary_te": "ఫ్రాంచైజీ క్రికెట్‌లో ఎక్కువ సంపాదించగలిగితే భవిష్యత్తులో ఎక్కువ మంది ఆటగాళ్ళు క్రికెట్ ఆస్ట్రేలియా కాంట్రాక్టులను వదులుకోవచ్చని ఆస్ట్రేలియా కెప్టెన్ ఆందోళన వ్యక్తం చేశాడు",
       "translated": true
     },
     {
@@ -71,7 +85,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
-      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియంచే \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
+      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియం ద్వారా \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
       "translated": true
     },
     {
@@ -99,7 +113,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "సెలెక్టర్‌ను ఎంచుకోవడం గమ్మత్తైనది, ఎందుకంటే ECB మైదానంలో ఎంపికలను సన్నగా గుర్తించింది",
-      "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు చాలా ఉన్నాయి",
+      "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు ఉన్నాయి",
       "translated": true
     },
     {
@@ -113,7 +127,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పృథ్వీ షా: 'నేను మానసికంగా దృఢంగా ఉండేందుకు నాకు విరామం కావాలి'",
-      "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత ఢిల్లీ క్యాపిటల్స్‌తో తిరిగి వచ్చిన షా రాహుల్‌తో పాటు ఓపెనింగ్ చేయడానికి నిస్సాంక మరియు పోరెల్‌తో పోటీపడతాడు.",
+      "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత తిరిగి ఢిల్లీ క్యాపిటల్స్‌తో షా రాహుల్‌తో కలిసి ఓపెనింగ్ చేయడానికి నిస్సాంకా మరియు పోరెల్‌లతో పోటీపడతాడు.",
       "translated": true
     },
     {
@@ -183,7 +197,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "Esterhuize, బౌలర్లు దక్షిణాఫ్రికా 3-2 సిరీస్ విజయం సాధించారు",
-      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హ్యూజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
+      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హుజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "RCB త్వరితగతిన యశ్ దయాల్ IPL 2026 నుండి సిట్ అవుట్ అయ్యింది",
       "summary_te": "సీమర్ మొత్తం సీజన్‌కు దూరంగా ఉన్నట్లు క్రికెట్ డైరెక్టర్ మో బోబాట్ ధృవీకరించారు",
-      "translated": true
-    },
-    {
-      "id": "e144a309f21ca922556796c4cd23bc44",
-      "title": "Boland feeling primed for final push of big season",
-      "summary": "The pace bowler has been able to manage himself through a season that included all five Ashes Tests",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528935.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/413800/413814.jpg",
-      "published_at": "2026-03-24T04:25:17.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "బోలాండ్ బిగ్ సీజన్ యొక్క చివరి పుష్‌కు ప్రధానమైన భావన",
-      "summary_te": "మొత్తం ఐదు యాషెస్ టెస్టులను కలిగి ఉన్న సీజన్‌లో పేస్ బౌలర్ తనను తాను నిర్వహించుకోగలిగాడు",
       "translated": true
     }
   ]

@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-26T10:53:08.227Z",
-  "updated_at_IST": "26/3/2026, 4:23:08 pm",
+  "updated_at": "2026-03-26T11:53:21.197Z",
+  "updated_at_IST": "26/3/2026, 5:23:21 pm",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "c3e2a71c8724339f5700e86c6d29de00",
+      "title": "New Icai course to build cadre for low-cost compliance support to small firms",
+      "summary": "New Icai president Prasanna Kumar D. said that a 21-member panel, including the self-regulator’s council members and external professionals, are designing the modular course in consultation with the ministry of corporate affairs and the ministry of micro, small and medium enterprises.",
+      "url": "https://www.livemint.com/news/icai-new-accounting-course-small-business-compliance-india-tier-towns-11774519716038.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/CA_Prasanna_Kumar_D_1774524253656_1774524260072.jpeg",
+      "published_at": "2026-03-26T11:22:16.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "చిన్న సంస్థలకు తక్కువ-ధర సమ్మతి మద్దతు కోసం క్యాడర్‌ను నిర్మించడానికి కొత్త Icai కోర్సు",
+      "summary_te": "సెల్ఫ్ రెగ్యులేటర్ కౌన్సిల్ సభ్యులు మరియు బాహ్య నిపుణులతో సహా 21 మంది సభ్యుల ప్యానెల్, కార్పొరేట్ వ్యవహారాల మంత్రిత్వ శాఖ మరియు సూక్ష్మ, చిన్న మరియు మధ్య తరహా పరిశ్రమల మంత్రిత్వ శాఖతో సంప్రదించి మాడ్యులర్ కోర్సును రూపొందిస్తున్నట్లు కొత్త ఐకాయ్ ప్రెసిడెంట్ ప్రసన్న కుమార్ డి.",
+      "translated": true
+    },
+    {
+      "id": "21a1896b738831a011bc409eeb53e1e0",
+      "title": "'Better get serious soon': Trump warns Iran, says 'negotiators are very different and strange'",
+      "summary": "US President Donald Trump on Thursday (local time) warned Iran to ‘get serious soon’ regarding a deal with Washington, adding that if it gets too late, 'there will be no turning back.'",
+      "url": "https://www.livemint.com/news/us-news/middle-east-conflict-president-donald-trump-us-iran-war-ceasefire-proposal-negotiations-11774523561331.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/Trump_1774522572170_1774522572415_1774524372939.jpg",
+      "published_at": "2026-03-26T11:17:00.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'త్వరలో సీరియస్‌గా ఉండటం మంచిది': ఇరాన్‌ను హెచ్చరించిన ట్రంప్, 'సంధానకర్తలు చాలా భిన్నంగా ఉంటారు మరియు వింతగా ఉన్నారు'",
+      "summary_te": "అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ గురువారం (స్థానిక కాలమానం ప్రకారం) వాషింగ్టన్‌తో ఒప్పందానికి సంబంధించి ఇరాన్‌ను 'త్వరలో తీవ్రంగా పరిగణించండి' అని హెచ్చరించింది, ఇది చాలా ఆలస్యం అయితే, 'తిరుగుబాటు ఉండదు' అని అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "fbcc6769a533befa7740698bc4a51185",
+      "title": "US prepares for massive 'final blow' against Iran, report says Trump ready to escalate if...",
+      "summary": "The US is reportedly planning a “final blow” against Iran. A report claimed that there are four major “final blow” options Trump could choose from.",
+      "url": "https://www.livemint.com/news/us-news/us-prepares-for-massive-final-blow-against-iran-report-says-trump-ready-to-escalate-if-11774522389407.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/Trump_1774522572170_1774522572415.jpg",
+      "published_at": "2026-03-26T11:01:14.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఇరాన్‌పై భారీ 'చివరి దెబ్బ'కు అమెరికా సిద్ధమైంది, నివేదిక ప్రకారం ట్రంప్ మరింత ఉధృతం చేస్తే...",
+      "summary_te": "ఇరాన్‌పై అమెరికా \"చివరి దెబ్బ\"ని ప్లాన్ చేస్తున్నట్టు తెలిసింది. ట్రంప్ ఎంచుకోగల నాలుగు ప్రధాన \"చివరి దెబ్బ\" ఎంపికలు ఉన్నాయని ఒక నివేదిక పేర్కొంది.",
+      "translated": true
+    },
+    {
+      "id": "02e50cfba2e8ba18f3891c2a29594781",
+      "title": "Nayara Energy hikes petrol, diesel prices; here are the latest city-wise fuel rates",
+      "summary": "Petrol prices have surged in Hyderabad to ₹107.46, with major cities like Mumbai and Kolkata also surpassing ₹100. Nayara Energy raised prices to manage increased procurement costs due to international oil volatility, while state-run retailers keep prices static.",
+      "url": "https://www.livemint.com/news/india/nayara-energy-hikes-petrol-diesel-prices-here-are-the-latest-city-wise-fuel-rates-11774516624752.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1774518456771.jpg",
+      "published_at": "2026-03-26T10:51:13.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "నయారా ఎనర్జీ పెట్రోల్, డీజిల్ ధరలను పెంచింది; తాజా నగరాల వారీగా ఇంధన ధరలు ఇక్కడ ఉన్నాయి",
+      "summary_te": "హైదరాబాద్‌లో పెట్రోల్ ధరలు ₹107.46కి పెరిగాయి, ముంబై మరియు కోల్‌కతా వంటి ప్రధాన నగరాలు కూడా ₹100 దాటాయి. అంతర్జాతీయ చమురు అస్థిరత కారణంగా పెరిగిన సేకరణ ఖర్చులను నిర్వహించడానికి నయారా ఎనర్జీ ధరలను పెంచింది, అయితే ప్రభుత్వ రంగ రిటైలర్లు ధరలను స్థిరంగా ఉంచారు.",
+      "translated": true
+    },
+    {
+      "id": "1afe57d8a6b61a84d8d355354cabbd1e",
+      "title": "‘Harbinger of doom’? Viral videos show thousands of crows swarming Tel Aviv sky",
+      "summary": "Videos showing thousands of crows circling above Tel Aviv’s skyline have gone viral, with many linking the dramatic visuals to religious prophecy and geopolitical tensions. Experts, however, say the phenomenon has a scientific explanation.",
+      "url": "https://www.livemint.com/news/trends/harbinger-of-doom-viral-videos-show-thousands-of-crows-swarming-tel-aviv-sky-11774521297541.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/tel_aviv_1774521483978_1774521492939.png",
+      "published_at": "2026-03-26T10:45:49.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "'వినాశనానికి నాంది'? టెల్ అవీవ్ ఆకాశంలో వేలాది కాకులు గుంపులుగా తిరుగుతున్నట్లు వైరల్ వీడియోలు చూపిస్తున్నాయి",
+      "summary_te": "టెల్ అవీవ్ యొక్క స్కైలైన్ పైన వేలాది కాకులు తిరుగుతున్నట్లు చూపించే వీడియోలు వైరల్ అయ్యాయి, చాలా మంది నాటకీయ దృశ్యాలను మతపరమైన జోస్యం మరియు భౌగోళిక రాజకీయ ఉద్రిక్తతలతో ముడిపెట్టారు. అయితే, నిపుణులు ఈ దృగ్విషయానికి శాస్త్రీయ వివరణను కలిగి ఉన్నారు.",
+      "translated": true
+    },
     {
       "id": "be52c3ec3f7542226fa29f342e5a944c",
       "title": "‘Five Nights at Epstein’s’ Game Goes Viral at US School Campuses",
@@ -21,7 +91,7 @@
     {
       "id": "159259c050e227fc2fd3c827851bb10a",
       "title": "Middle East conflict: Gulf countries hint at readiness to act in ‘self-defence' as Iran attacks energy infrastructure",
-      "summary": "In a joint statement on Thursday (local time), Bahrain, Jordan, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates (UAE) signalled their intent to act in 'self-defense in the future'",
+      "summary": "In a joint statement on Thursday, Bahrain, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates signalled their intent to act in 'self-defence in the future'. This marks a shift in the stance of Gulf states, which previously called for de-escalation and remained neutral",
       "url": "https://www.livemint.com/news/world/middle-east-conflict-gulf-countries-joint-statement-saudi-qatar-kuwait-uae-iran-attacks-energy-infrastructure-war-news-11774519982149.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/AP03-03-2026-000009A-0_1772507636301_1772507664304_1774520315994.jpg",
       "published_at": "2026-03-26T10:16:45.000Z",
@@ -29,7 +99,7 @@
       "category": "business",
       "language": "en",
       "title_te": "మిడిల్ ఈస్ట్ వివాదం: ఇరాన్ ఇంధన మౌలిక సదుపాయాలపై దాడి చేస్తున్నందున గల్ఫ్ దేశాలు 'ఆత్మ రక్షణ'లో పనిచేయడానికి సంసిద్ధతను సూచిస్తున్నాయి",
-      "summary_te": "గురువారం (స్థానిక కాలమానం ప్రకారం), బహ్రెయిన్, జోర్డాన్, కువైట్, ఖతార్, సౌదీ అరేబియా మరియు యునైటెడ్ అరబ్ ఎమిరేట్స్ (యుఎఇ) సంయుక్త ప్రకటనలో 'భవిష్యత్తులో ఆత్మరక్షణ' కోసం తమ ఉద్దేశాన్ని సూచించాయి.",
+      "summary_te": "గురువారం ఒక సంయుక్త ప్రకటనలో, బహ్రెయిన్, కువైట్, ఖతార్, సౌదీ అరేబియా మరియు యునైటెడ్ అరబ్ ఎమిరేట్స్ 'భవిష్యత్తులో ఆత్మరక్షణ' కోసం తమ ఉద్దేశాన్ని సూచించాయి. ఇది గల్ఫ్ దేశాల వైఖరిలో మార్పును సూచిస్తుంది, ఇది గతంలో తీవ్రతను తగ్గించడానికి పిలుపునిచ్చింది మరియు తటస్థంగా ఉంది",
       "translated": true
     },
     {
@@ -299,34 +369,6 @@
       "translated": true
     },
     {
-      "id": "4e1b57a655e2a48565b8773d895086c1",
-      "title": "Quote of the Day: Wisdom from Game of Thrones' mastermind Varys — ‘Power resides where men believe it resides…’",
-      "summary": "Lord Varys discusses the nature of power, suggesting it is an illusion that resides in belief. He poses a riddle about a sellsword's choices, emphasising that true power may not lie with kings but rather in the perception of authority.",
-      "url": "https://www.livemint.com/news/trends/quote-of-the-day-timeless-wisdom-from-game-of-thrones-mastermind-varys-power-resides-where-men-believe-it-resides-11774498908343.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/a_1774499530018_1774499538717.jpg",
-      "published_at": "2026-03-26T05:04:13.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "కోట్ ఆఫ్ ది డే: విజ్డమ్ ఫ్రమ్ గేమ్ ఆఫ్ థ్రోన్స్ యొక్క సూత్రధారి వేరిస్ — ‘మనుష్యులు నమ్మే చోట శక్తి నివసిస్తుంది...’",
-      "summary_te": "లార్డ్ వేరిస్ శక్తి యొక్క స్వభావాన్ని చర్చిస్తాడు, ఇది నమ్మకంలో ఉండే భ్రమ అని సూచిస్తున్నాడు. అతను అమ్మకాల ఎంపికల గురించి ఒక చిక్కును విసిరాడు, నిజమైన శక్తి రాజుల వద్ద ఉండకపోవచ్చు కానీ అధికారం యొక్క అవగాహనలో ఉండవచ్చని నొక్కి చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "0da84a99e35211820c827a5dc68fb5f1",
-      "title": "Sonia Gandhi health update: Congress MP stable, on antibiotics; Rahul Gandhi visits Sir Ganga Ram Hospital",
-      "summary": "Sonia Gandhi admitted to Sir Ganga Ram Hospital with infection; doctors say she is stable and responding to antibiotics. Rahul Gandhi cancels Kerala visit to be by her side.",
-      "url": "https://www.livemint.com/news/india/sonia-gandhi-health-update-congress-mp-undergoing-treatment-with-antibiotics-rahul-reaches-sir-ganga-ram-hospital-11774500280174.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/PTI12-27-2025-000121B-0_1774500516238_1774500569697_1774500896100.jpg",
-      "published_at": "2026-03-26T04:55:34.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "సోనియా గాంధీ ఆరోగ్య నవీకరణ: యాంటీబయాటిక్స్‌పై కాంగ్రెస్ ఎంపీ స్థిరంగా ఉన్నారు; సర్ గంగారామ్ ఆసుపత్రిని సందర్శించిన రాహుల్ గాంధీ",
-      "summary_te": "సోనియా గాంధీ ఇన్ఫెక్షన్‌తో సర్ గంగా రామ్ ఆసుపత్రిలో చేరారు; ఆమె స్థిరంగా ఉందని మరియు యాంటీబయాటిక్స్‌కు ప్రతిస్పందిస్తుందని వైద్యులు చెప్పారు. ఆమె పక్కన ఉండేందుకు రాహుల్ గాంధీ కేరళ పర్యటనను రద్దు చేసుకున్నారు.",
-      "translated": true
-    },
-    {
       "id": "cee5f1b8f064fcb552ef975f8afbe544",
       "title": "Allocate 10–20% globally; stagger investments amid volatility: Alekh Yadav, Sanctum Wealth",
       "summary": "Amid escalating geopolitical tensions and a crude oil shock, global markets face heightened uncertainty. Investors are advised to diversify 10-20% of their portfolio globally, favoring emerging markets and Japan, with a staggered approach to fresh investments due to currency fluctuations and macro shifts.",
@@ -351,49 +393,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ETMarkets స్మార్ట్ టాక్| ఇటీవలి మార్కెట్ పతనం తర్వాత హెల్త్‌కేర్, ఇన్‌ఫ్రా, ఫైనాన్షియల్స్ ఆకర్షణీయంగా కనిపిస్తున్నాయి: సచిన్ బజాజ్, CIO, యాక్సిస్ మ్యాక్స్ లైఫ్ ఇన్సూరెన్స్",
-      "summary_te": "భౌగోళిక రాజకీయ పరిణామాలు మరియు పెరుగుతున్న ముడి చమురు ధరల కారణంగా మార్కెట్లు అస్థిరంగా ఉన్నాయి. యాక్సిస్ మ్యాక్స్ లైఫ్ ఇన్సూరెన్స్‌లో CIO అయిన సచిన్ బజాజ్, హెల్త్‌కేర్, ఇన్‌ఫ్రాస్ట్రక్చర్ మరియు ఫైనాన్షియల్‌లలో అవకాశాలను చూస్తున్నారు. నాణ్యమైన ఆస్తులపై పెట్టుబడి పెట్టాలని ఆయన పెట్టుబడిదారులకు సలహా ఇస్తున్నారు. స్వల్పకాలిక అనిశ్చితి ఉన్నప్పటికీ భారతదేశ వృద్ధి కథ చెక్కుచెదరకుండా ఉంది. పెరిగిన వస్తువుల ధరలు కార్పొరేట్ ఆదాయాలు మరియు మార్జిన్‌లను ప్రభావితం చేయవచ్చు.",
-      "translated": true
-    },
-    {
-      "id": "8326632f24e9a56c3a847ef1dade3ddd",
-      "title": "Quote of the Day by rapper Kanye West on winning in life: ‘Success is…’",
-      "summary": "Kanye West embodies the idea that success is the best revenge. His career reflects resilience against doubt and rejection, emphasizing that true success is defined on one's own terms, allowing critics to fade into irrelevance.",
-      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-26-march-2026-kanye-west-happiness-life-success-11774494425498.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/Kanye_West_1774495068412_1774495075548.jpg",
-      "published_at": "2026-03-26T03:21:37.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "జీవితంలో గెలుపొందడంపై రాపర్ కాన్యే వెస్ట్ రాసిన కోట్ ఆఫ్ ది డే: 'విజయం అంటే...'",
-      "summary_te": "కాన్యే వెస్ట్ విజయం ఉత్తమ ప్రతీకారం అనే ఆలోచనను కలిగి ఉంది. అతని కెరీర్ సందేహం మరియు తిరస్కరణకు వ్యతిరేకంగా స్థితిస్థాపకతను ప్రతిబింబిస్తుంది, నిజమైన విజయం ఒకరి స్వంత నిబంధనలపై నిర్వచించబడిందని నొక్కిచెప్పారు, విమర్శకులు అసంబద్ధంగా మారేలా చేస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "12f46e28b77574a6f93caa95d6152d0c",
-      "title": "Iran permits passage through Strait of Hormuz for India, China, Russia; Aragchi says, ‘not completely closed’",
-      "summary": "The Strait of Hormuz, a critical maritime chokepoint which accounts for nearly one-fifth of the global oil and gas trade, was effectively blocked by Tehran",
-      "url": "https://www.livemint.com/news/world/iran-permits-passage-through-strait-of-hormuz-for-india-china-russia-aragchi-says-not-completely-closed-11774494479976.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/IRAN-CRISIS-USA-NAVY-0_1774494706196_1774494714813.JPG",
-      "published_at": "2026-03-26T03:21:24.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ భారతదేశం, చైనా, రష్యా కోసం హార్ముజ్ జలసంధి గుండా వెళ్ళడానికి అనుమతినిస్తుంది; ఆరగ్చి మాట్లాడుతూ, 'పూర్తిగా మూసివేయబడలేదు'",
-      "summary_te": "గ్లోబల్ చమురు మరియు గ్యాస్ వాణిజ్యంలో దాదాపు ఐదవ వంతు వాటా కలిగిన కీలకమైన సముద్ర చోక్‌పాయింట్ అయిన హార్ముజ్ జలసంధిని టెహ్రాన్ సమర్థవంతంగా నిరోధించింది.",
-      "translated": true
-    },
-    {
-      "id": "616f4bf0bacd3ee8aaf440c14f9aff78",
-      "title": "‘Lion of Bengaluru’: Vijay Mallya takes credit for signing young Virat Kohli, former RCB owner comments on historic sale",
-      "summary": "Vijay Mallya congratulated the new owners of Royal Challengers Bengaluru after its sale for ₹16,660 crore. He highlighted his initial investment of ₹450 crore in 2008 and credited himself for signing Virat Kohli.",
-      "url": "https://www.livemint.com/news/trends/lion-of-bengaluru-vijay-mallya-takes-credit-for-signing-young-virat-kohli-former-rcb-owner-comments-on-historic-sale-11774492918384.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/Virat_Kohli_1774200564681_1774200564809_1774493174847.jpg",
-      "published_at": "2026-03-26T02:46:26.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "'లయన్ ఆఫ్ బెంగళూరు': చారిత్రాత్మక విక్రయాలపై RCB మాజీ యజమాని వ్యాఖ్యలు చేసిన యువ విరాట్ కోహ్లీకి సంతకం చేసినందుకు విజయ్ మాల్యా క్రెడిట్ తీసుకున్నాడు.",
-      "summary_te": "₹16,660 కోట్లకు విక్రయించిన రాయల్ ఛాలెంజర్స్ బెంగళూరు కొత్త యజమానులను విజయ్ మాల్యా అభినందించారు. అతను 2008లో తన ప్రారంభ పెట్టుబడి ₹450 కోట్లను హైలైట్ చేశాడు మరియు విరాట్ కోహ్లీపై సంతకం చేసినందుకు తనకు తానే ఘనత ఇచ్చాడు.",
+      "summary_te": "భౌగోళిక రాజకీయ పరిణామాలు, పెరుగుతున్న ముడి చమురు ధరల కారణంగా మార్కెట్లు ఒడిదుడుకులకు గురవుతున్నాయి. యాక్సిస్ మ్యాక్స్ లైఫ్ ఇన్సూరెన్స్‌లో CIO అయిన సచిన్ బజాజ్, హెల్త్‌కేర్, ఇన్‌ఫ్రాస్ట్రక్చర్ మరియు ఫైనాన్షియల్‌లలో అవకాశాలను చూస్తున్నారు. నాణ్యమైన ఆస్తులపై పెట్టుబడి పెట్టాలని ఆయన పెట్టుబడిదారులకు సలహా ఇస్తున్నారు. స్వల్పకాలిక అనిశ్చితి ఉన్నప్పటికీ భారతదేశ వృద్ధి కథ చెక్కుచెదరకుండా ఉంది. పెరిగిన వస్తువుల ధరలు కార్పొరేట్ ఆదాయాలు మరియు మార్జిన్‌లను ప్రభావితం చేయవచ్చు.",
       "translated": true
     },
     {
@@ -421,7 +421,7 @@
       "category": "business",
       "language": "en",
       "title_te": "స్టాక్ మార్కెట్ హాలిడే: రామ నవమి వేడుకల కోసం ఈరోజు మార్చి 26న NSE, BSE తెరిచి ఉన్నాయా లేదా మూసివేయబడ్డాయా? ఇప్పుడే తనిఖీ చేయండి",
-      "summary_te": "NSE సెలవులు 2026: ఈ రోజు స్టాక్ మార్కెట్ సెలవు ఉందా? శ్రీరామ నవమి సందర్భంగా భారతీయ స్టాక్ మార్కెట్ ఎక్స్ఛేంజీలు ఎన్‌ఎస్‌ఇ మరియు బిఎస్‌ఇలు గురువారం మూసివేయబడతాయి",
+      "summary_te": "NSE సెలవులు 2026: ఈరోజు స్టాక్ మార్కెట్ సెలవు ఉందా? శ్రీరామ నవమి సందర్భంగా భారతీయ స్టాక్ మార్కెట్ ఎక్స్ఛేంజీలు ఎన్‌ఎస్‌ఇ మరియు బిఎస్‌ఇలు గురువారం మూసివేయబడతాయి",
       "translated": true
     },
     {
@@ -477,7 +477,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
