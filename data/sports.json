@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-25T23:36:19.896Z",
-  "updated_at_IST": "26/3/2026, 5:06:19 am",
+  "updated_at": "2026-03-26T01:17:44.375Z",
+  "updated_at_IST": "26/3/2026, 6:47:44 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "b23aaec04d93ee63e7a7af8ff55a1c64",
+      "title": "Australia coach sees huge value in Molineux's non-bowling series",
+      "summary": "With the T20 World Cup closing in, the West Indies tour was viewed as vital captaincy experience",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529179.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
+      "published_at": "2026-03-25T23:47:29.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "మోలినెక్స్ నాన్-బౌలింగ్ సిరీస్‌లో ఆస్ట్రేలియా కోచ్ భారీ విలువను చూస్తాడు",
+      "summary_te": "T20 ప్రపంచ కప్ ముగియడంతో, వెస్టిండీస్ పర్యటన కీలకమైన కెప్టెన్సీ అనుభవంగా పరిగణించబడింది.",
+      "translated": true
+    },
     {
       "id": "9c904da646f53f3f0764e918fe279e34",
       "title": "Selecting the Selector proves tricky as ECB find options thin on the ground",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "వోల్ యొక్క శక్తివంతమైన తొలి T20I సెంచరీ ఆస్ట్రేలియాను 3-0 వైట్‌వాష్‌కు నడిపించింది",
       "summary_te": "ఓపెనర్ తన ఆధిపత్య ప్రదర్శనలో ఆరు సిక్సర్లను ప్రారంభించింది మరియు వర్షం రాకముందు ఇంటి వైపు ఎప్పుడూ వేటలో లేదు",
-      "translated": true
-    },
-    {
-      "id": "17a4db3d3effd72555ff97b2f4b2cda4",
-      "title": "No change is all change as ECB opt for the rinse-and-repeat cycle",
-      "summary": "Management back the incumbents to turn the Test team's fortunes, but proof will be in the pudding",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528916.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/409900/409942.jpg",
-      "published_at": "2026-03-23T23:37:16.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ECB శుభ్రం చేయు మరియు పునరావృత చక్రాన్ని ఎంచుకున్నందున ఎటువంటి మార్పు లేదు",
-      "summary_te": "టెస్ట్ జట్టు అదృష్టాన్ని మార్చడానికి మేనేజ్‌మెంట్ బాధ్యతలను తిరిగి ఇస్తుంది, కానీ రుజువు పుడ్డింగ్‌లో ఉంటుంది",
       "translated": true
     }
   ]
