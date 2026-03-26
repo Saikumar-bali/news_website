@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-26T11:53:21.197Z",
-  "updated_at_IST": "26/3/2026, 5:23:21 pm",
+  "updated_at": "2026-03-26T12:55:25.497Z",
+  "updated_at_IST": "26/3/2026, 6:25:25 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "29888f6d1db885ba2ab407e9ee438b9f",
+      "title": "IPL announces full league stage schedule",
+      "summary": "Dharamsala and Raipur among venues returning to the calendar",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529214.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
+      "published_at": "2026-03-26T12:40:58.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "ఐపీఎల్ పూర్తి లీగ్ దశ షెడ్యూల్‌ను ప్రకటించింది",
+      "summary_te": "క్యాలెండర్‌కు తిరిగి వచ్చే వేదికలలో ధర్మశాల మరియు రాయ్‌పూర్",
+      "translated": true
+    },
+    {
+      "id": "08939f38185f6755eab4ddf25e261468",
+      "title": "Amelia Kerr wins big at New Zealand Cricket awards",
+      "summary": "Jacob Duffy claims Sir Richard Hadlee medal while Martin Snedden wins Bert Sutcliffe Medal",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529208.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/389500/389529.jpg",
+      "published_at": "2026-03-26T12:07:46.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "న్యూజిలాండ్ క్రికెట్ అవార్డ్స్‌లో అమేలియా కెర్ భారీ విజయాన్ని సాధించింది",
+      "summary_te": "జాకబ్ డఫీ సర్ రిచర్డ్ హాడ్లీ పతకాన్ని క్లెయిమ్ చేయగా, మార్టిన్ స్నెడెన్ బెర్ట్ సట్‌క్లిఫ్ పతకాన్ని గెలుచుకున్నాడు",
+      "translated": true
+    },
     {
       "id": "d776262c91245d4d34ba86b2b37f2739",
       "title": "International cricket returns to Bengaluru in busy 2026-27 season",
@@ -85,7 +113,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "ఆదిత్య బిర్లా గ్రూప్, టైమ్స్ ఆఫ్ ఇండియాతో కూడిన కన్సార్టియంకు RCB USD 1.78 బిలియన్లకు విక్రయించబడింది",
-      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియం ద్వారా \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
+      "summary_te": "పురుషుల మరియు మహిళల జట్లు రెండూ ఇప్పుడు కన్సార్టియంచే \"యాజమాన్యం మరియు నిర్వహించబడతాయి\"",
       "translated": true
     },
     {
@@ -113,7 +141,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "సెలెక్టర్‌ను ఎంచుకోవడం గమ్మత్తైనది, ఎందుకంటే ECB మైదానంలో ఎంపికలను సన్నగా గుర్తించింది",
-      "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు ఉన్నాయి",
+      "summary_te": "రాబ్ కీ ల్యూక్ రైట్ యొక్క వారసుడు కోసం వేట ప్రారంభించాడు, కానీ పాత్ర యొక్క చెల్లింపుపై సవాళ్లు చాలా ఉన్నాయి",
       "translated": true
     },
     {
@@ -127,7 +155,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "పృథ్వీ షా: 'నేను మానసికంగా దృఢంగా ఉండేందుకు నాకు విరామం కావాలి'",
-      "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత తిరిగి ఢిల్లీ క్యాపిటల్స్‌తో షా రాహుల్‌తో కలిసి ఓపెనింగ్ చేయడానికి నిస్సాంకా మరియు పోరెల్‌లతో పోటీపడతాడు.",
+      "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత ఢిల్లీ క్యాపిటల్స్‌తో తిరిగి వచ్చిన షా రాహుల్‌తో పాటు ఓపెనింగ్ చేయడానికి నిస్సాంక మరియు పోరెల్‌తో పోటీపడతాడు.",
       "translated": true
     },
     {
@@ -197,7 +225,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "Esterhuize, బౌలర్లు దక్షిణాఫ్రికా 3-2 సిరీస్ విజయం సాధించారు",
-      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హుజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
+      "summary_te": "దక్షిణాఫ్రికా బౌలర్లు ఛేజింగ్‌లో న్యూజిలాండ్‌ను ఎప్పుడూ బెదిరించకుండా చూసేలోపు ఎస్టర్‌హ్యూజెన్ వరుసగా రెండో అర్ధ సెంచరీ కొట్టాడు.",
       "translated": true
     },
     {
@@ -324,34 +352,6 @@
       "language": "en",
       "title_te": "IPL 2026 కోసం సన్‌రైజర్స్ హైదరాబాద్‌లో ఎడ్వర్డ్స్ స్థానంలో పేన్ వచ్చాడు",
       "summary_te": "35 ఏళ్ల ఇంగ్లండ్ లెఫ్ట్ ఆర్మ్ శీఘ్ర ఈ సంవత్సరం ILT20 మరియు BBL గెలుచుకోవడం వెనుక ఇటీవల విజయం సాధించాడు.",
-      "translated": true
-    },
-    {
-      "id": "39a40e99d143d60bd00dc835f3001804",
-      "title": "India pick Kashvee Gautam, Anushka Sharma for SA T20I tour",
-      "summary": "Amanjot Kaur, G Kamalini and Vaishnavi Sharma have been left out",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528936.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414000/414019.jpg",
-      "published_at": "2026-03-24T08:46:14.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "SA T20I పర్యటన కోసం కాష్వీ గౌతమ్, అనుష్క శర్మలను భారత్ ఎంపిక చేసింది",
-      "summary_te": "అమన్‌జోత్ కౌర్, జి కమలిని, వైష్ణవి శర్మలకు చోటు దక్కలేదు",
-      "translated": true
-    },
-    {
-      "id": "dd20135e10841180db0d3c4f59650d2b",
-      "title": "RCB quick Yash Dayal to sit out IPL 2026",
-      "summary": "Director of cricket Mo Bobat confirmed the seamer was out for the entire season",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528947.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/378800/378877.jpg",
-      "published_at": "2026-03-24T08:37:03.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "RCB త్వరితగతిన యశ్ దయాల్ IPL 2026 నుండి సిట్ అవుట్ అయ్యింది",
-      "summary_te": "సీమర్ మొత్తం సీజన్‌కు దూరంగా ఉన్నట్లు క్రికెట్ డైరెక్టర్ మో బోబాట్ ధృవీకరించారు",
       "translated": true
     }
   ]
