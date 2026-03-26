@@ -1,16 +1,100 @@
 {
-  "updated_at": "2026-03-26T20:04:28.766Z",
-  "updated_at_IST": "27/3/2026, 1:34:28 am",
+  "updated_at": "2026-03-26T20:38:09.145Z",
+  "updated_at_IST": "27/3/2026, 2:08:09 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "711d459375f56025e764bb2b7c4a8607",
+      "title": "NHRC issues notice to Chhattisgarh government over death of 285 inmates in different jails of State in four years",
+      "summary": "State government in the Assembly cited suicide and chronic ailments as the reasons behind the inmates’ death",
+      "url": "https://www.thehindu.com/news/national/chhattisgarh/nhrc-issues-notice-to-chhattisgarh-government-over-death-of-285-inmates-in-different-jails-of-state-in-four-years/article70787879.ece",
+      "image": "https://th-i.thgim.com/public/news/national/w1u1dy/article70694156.ece/alternates/LANDSCAPE_1200/iStock-902369174.jpg",
+      "published_at": "2026-03-26T20:19:56.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "నాలుగు సంవత్సరాలలో రాష్ట్రంలోని వివిధ జైళ్లలో 285 మంది ఖైదీలు మరణించడంపై ఛత్తీస్‌గఢ్ ప్రభుత్వానికి NHRC నోటీసు జారీ చేసింది.",
+      "summary_te": "ఖైదీల మరణానికి ఆత్మహత్యలు, దీర్ఘకాలిక వ్యాధులే కారణమని రాష్ట్ర ప్రభుత్వం అసెంబ్లీలో పేర్కొంది",
+      "translated": true
+    },
+    {
+      "id": "b6086d6afc055939639cc241b93378dc",
+      "title": "Bihar will remain indebted to Nitish Kumar for building a ‘New Bihar’: Nitin Nabin",
+      "summary": "Mr. Nabin, who is also going to Rajya Sabha along with Mr. Kumar announced that it might be his final official government engagement as an MLA",
+      "url": "https://www.thehindu.com/news/national/bihar/bihar-will-remain-indebted-to-nitish-kumar-for-building-a-new-bihar-nitin-nabin/article70788368.ece",
+      "image": "https://th-i.thgim.com/public/incoming/p7dwxm/article70789902.ece/alternates/LANDSCAPE_1200/20260326268L.jpg",
+      "published_at": "2026-03-26T20:18:04.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "'న్యూ బీహార్'ని నిర్మించినందుకు బీహార్ నితీష్ కుమార్‌కు రుణపడి ఉంటుంది: నితిన్ నబిన్",
+      "summary_te": "శ్రీ కుమార్‌తో పాటు రాజ్యసభకు కూడా వెళ్తున్న శ్రీ నబిన్, ఎమ్మెల్యేగా ఇది తన చివరి అధికారిక ప్రభుత్వ నిశ్చితార్థం కావచ్చని ప్రకటించారు.",
+      "translated": true
+    },
+    {
+      "id": "57fc8807977c8064edce96480a9ef144",
+      "title": "Bihar’s youth now making their mark in technology field: IT Minister Shreyasi Singh",
+      "summary": "IIT Patna Incubation Centre signed two MOUs with AIIMS Patna & JHPIEGO. IT Minister addressed 10th Foundation Day celebration of IIT Patna Incubation Centre",
+      "url": "https://www.thehindu.com/news/national/bihar/bihars-youth-now-making-their-mark-in-technology-field-it-minister-shreyasi-singh/article70788586.ece",
+      "image": null,
+      "published_at": "2026-03-26T20:08:02.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బీహార్ యువత ఇప్పుడు టెక్నాలజీ రంగంలో తమదైన ముద్ర వేస్తోంది: ఐటీ మంత్రి శ్రేయాసి సింగ్",
+      "summary_te": "IIT పాట్నా ఇంక్యుబేషన్ సెంటర్ AIIMS పాట్నా & JHPIEGO తో రెండు MOU లపై సంతకం చేసింది. ఐఐటీ పాట్నా ఇంక్యుబేషన్ సెంటర్ 10వ వ్యవస్థాపక దినోత్సవ వేడుకల్లో ఐటీ మంత్రి ప్రసంగించారు",
+      "translated": true
+    },
+    {
+      "id": "7a7f8ee38b16cc2094923de51e7d8333",
+      "title": "About 150 fall ill after eating wedding feast in M.P.; authorities deploy late-night measures",
+      "summary": "According to officials, more than 1,000 guests had attended a wedding ceremony",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/about-150-fall-ill-after-eating-wedding-feast-in-mp-authorities-deploy-late-night-measures/article70788544.ece",
+      "image": null,
+      "published_at": "2026-03-26T20:08:01.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "M.P.లో వివాహ విందు తిన్న తర్వాత సుమారు 150 మంది అస్వస్థతకు గురయ్యారు; అధికారులు అర్థరాత్రి చర్యలు చేపట్టారు",
+      "summary_te": "అధికారుల ప్రకారం, ఒక వివాహ వేడుకకు 1,000 మందికి పైగా అతిథులు హాజరయ్యారు",
+      "translated": true
+    },
+    {
+      "id": "32b54f25250f72d754322fb1fda95963",
+      "title": "G. Sudhakaran’s disclosure on memorial ‘serious’, says Venugopal",
+      "summary": "All India Congress Committee (AICC) general secretary K.C. Venugopal on Thursday termed as “serious” the statement of former CPI(M) leader G. Sudhakaran that the memorial of P. Krishna Pillai was allegedly set ablaze by the CPI(M), while reiterating allegations of a long-standing understanding between the CPI(M) and the Bharatiya Janata Party (BJP) in Kerala.Addressing the media in Kannur, Mr. Venugopal said the CPI(M)’s role in the INDIA bloc should not be confused with its political stance in Kerala. He pointed out that while parties like the All India Trinamool Congress were part of the alliance, the CPI(M) continued to oppose them in West Bengal. The Congress, he said, was opposing what it saw as the misguided policies of the CPI(M) in Kerala.He alleged that the Assembly election reflected a continuation of a tacit CPI(M)-BJP understanding, claiming that several seats of the National Democratic Alliance (NDA) were allotted to weaker allies in the election.",
+      "url": "https://www.thehindu.com/news/national/kerala/g-sudhakarans-disclosure-on-memorial-serious-says-venugopal/article70788184.ece",
+      "image": "https://th-i.thgim.com/public/incoming/3cs0w3/article70789889.ece/alternates/LANDSCAPE_1200/80691_26_3_2026_13_3_32_1_KC3.JPG",
+      "published_at": "2026-03-26T19:58:01.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "స్మారక చిహ్నంపై జి. సుధాకరన్‌ బహిర్గతం ‘సీరియస్‌’ అని వేణుగోపాల్‌ చెప్పారు",
+      "summary_te": "అఖిల భారత కాంగ్రెస్ కమిటీ (ఏఐసీసీ) ప్రధాన కార్యదర్శి కె.సి. కేరళలో సీపీఐ(ఎం), భారతీయ జనతా పార్టీ (బీజేపీ) మధ్య దీర్ఘకాలిక అవగాహన ఉందన్న ఆరోపణలను పునరుద్ఘాటిస్తూ, పి.కృష్ణపిళ్లై స్మారక చిహ్నాన్ని సీపీఐ(ఎం) తగులబెట్టిందని సీపీఐ(ఎం) మాజీ నేత జి.సుధాకరన్‌ చేసిన ప్రకటనను వేణుగోపాల్‌ గురువారం సీరియస్‌గా పేర్కొన్నారు. భారత కూటమిలో పాత్రను కేరళలో దాని రాజకీయ వైఖరితో అయోమయం చేయకూడదు. ఆల్ ఇండియా తృణమూల్ కాంగ్రెస్ వంటి పార్టీలు కూటమిలో భాగంగా ఉండగా, పశ్చిమ బెంగాల్‌లో సీపీఐ(ఎం) వాటిని వ్యతిరేకిస్తూనే ఉందని ఆయన ఎత్తిచూపారు. కేరళలో సీపీఐ(ఎం) అనుసరిస్తున్న తప్పుడు విధానాలను కాంగ్రెస్ వ్యతిరేకిస్తోందని ఆయన అన్నారు.ఎన్నికల్లో బలహీన మిత్రపక్షాలకు నేషనల్ డెమోక్రటిక్ అలయెన్స్ (ఎన్‌డిఎ)కి చెందిన పలు సీట్లు కేటాయించారని పేర్కొంటూ సిపిఎం-బిజెపి మధ్య కుదిరిన అవగాహన కొనసాగింపును అసెంబ్లీ ఎన్నికలు ప్రతిబింబించాయని ఆరోపించారు.",
+      "translated": true
+    },
+    {
+      "id": "cd56e76d46047024f7dce41f7229b983",
+      "title": "Ro-ro ferries fitted with Automatic Identification System",
+      "summary": "The AIS system enables the ferry master to monitor the movement of nearby vessels and crafts, thereby enhancing navigational safety",
+      "url": "https://www.thehindu.com/news/national/kerala/ro-ro-ferries-fitted-with-automatic-identification-system/article70789424.ece",
+      "image": null,
+      "published_at": "2026-03-26T19:54:08.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "రో-రో ఫెర్రీలు ఆటోమేటిక్ ఐడెంటిఫికేషన్ సిస్టమ్‌తో అమర్చబడి ఉంటాయి",
+      "summary_te": "AIS వ్యవస్థ సమీపంలోని నౌకలు మరియు చేతిపనుల కదలికను పర్యవేక్షించడానికి ఫెర్రీ మాస్టర్‌ను అనుమతిస్తుంది, తద్వారా నావిగేషనల్ భద్రతను మెరుగుపరుస్తుంది",
+      "translated": true
+    },
     {
       "id": "06701630d15214607cf4d331fe8364e4",
       "title": "Liquor no more be served near Shree Jagannath Temple, Puri",
       "summary": "Odisha’s new excise policy imposes 0.5% de-addiction Cess and prohibits opening of new ‘ON’ shops in rural areas",
       "url": "https://www.thehindu.com/news/national/odisha/liquor-no-more-be-served-near-shree-jagannath-temple-puri/article70788660.ece",
       "image": "https://th-i.thgim.com/public/incoming/w2t17z/article69589841.ece/alternates/LANDSCAPE_1200/01puri.jpg",
-      "published_at": "2026-03-26T19:45:31.000Z",
+      "published_at": "2026-03-26T19:48:08.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
@@ -24,7 +108,7 @@
       "summary": "The inquiry against Ratan Lal Dangi was initiated last year",
       "url": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-ips-officer-suspended-following-harassment-allegations/article70788903.ece",
       "image": null,
-      "published_at": "2026-03-26T19:39:28.000Z",
+      "published_at": "2026-03-26T19:48:01.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
@@ -43,7 +127,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇంధన సరఫరా సులభతరం, లోపాలను బహిర్గతం చేస్తుంది",
-      "summary_te": "ప్రభుత్వ రంగ చమురు కంపెనీలు అదనపు స్టాక్‌లను పంపింగ్ చేయడంతో, హైదరాబాద్‌లో ఇంధనం కోసం గురువారం దాదాపు రెండు రోజుల తర్వాత తగ్గుదల సంకేతాలు కనిపించాయి, అయితే కొన్ని పద్ధతులు మరియు పరిమితులను తెరపైకి తీసుకురావడానికి ముందు కాదు. చమురు కంపెనీలు మరియు ప్రభుత్వం వినియోగదారులు కొనుగోలు చేసే భయాందోళనలకు కారణమని పేర్కొన్నప్పటికీ, తెలిసిన వారు కొనుగోలుదారులకు సరఫరా నిలిపివేసారు. ప్రధాన పాత్ర పోషించింది.కోవిడ్ మహమ్మారి కావచ్చు, రష్యా-ఉక్రెయిన్ యుద్ధం కావచ్చు లేదా పశ్చిమాసియాలో దాదాపు నెలరోజుల నాటి యుద్ధం కావచ్చు, ఇటీవలి సంవత్సరాలలో సంక్షోభాల సమయంలో చమురు కంపెనీలు డీలర్లకు రుణంపై ఉత్పత్తులను సరఫరా చేయడం మానేయడమే కాకుండా బకాయిలు తీర్చాలని పట్టుబట్టాయని తెలంగాణ పెట్రోలియం డీలర్స్ అసోసియేషన్ అధ్యక్షుడు ఎం. అమరేందర్ రెడ్డి వివరించారు. ట్రక్కర్లు, నిర్మాణ సంస్థలు మరియు క్యాబ్ సంస్థల వంటి భారీ వినియోగదారులకు డీజిల్ అమ్మకాలలో కొంత భాగం క్రెడిట్‌పై ఉంది. డీలర్‌ల కోసం, క్రెడిట్ అమ్మకాలు వాల్యూమ్‌ల అమ్మకాలను పెంచడానికి ఒక మార్గం, అయితే కస్టమర్‌లందరూ ప్రారంభంలో అంగీకరించిన అలిఖిత 15 రోజులలోపు బకాయిలను క్లియర్ చేయలేరు. మొత్తం డీజిల్ విక్రయాల్లో దాదాపు 40% క్రెడిట్‌పైనే ఉంటుందని, పెట్రోల్‌ను ఎల్లప్పుడూ నగదు మరియు క్యారీ ప్రాతిపదికన పంపిణీ చేయడం జరుగుతుందని ఆయన చెప్పారు. చమురు పరిశ్రమలోని ఒక సీనియర్ అధికారి మాట్లాడుతూ, IOC, BPCL మరియు HPCL అనే మూడు చమురు మార్కెటింగ్ కంపెనీలు తమ డీలర్‌లతో తమ స్వంత ఆర్థిక ఏర్పాట్లు కలిగి ఉన్నాయని, అవి ఎప్పటికప్పుడు మరియు పరిస్థితిని బట్టి భిన్నంగా ఉండవచ్చు. కాబట్టి దీనిని డీలర్లు కారణంగా చెప్పలేము.అంతేకాకుండా, సంక్షోభానికి ముందు (పశ్చిమాసియా యుద్ధం) సమయంలో మరియు ఇప్పుడు ఏమీ మారలేదు, అజ్ఞాతం అభ్యర్థించిన అధికారి, ఉత్పత్తి లభ్యతకు సంబంధించి పరిస్థితిని మెరుగుపరిచారు. వారాంతంలో, \"మేము ఔట్‌లెట్లలో ఈగలను పట్టుకుంటాము,\" పూర్తిగా కొరత ఉంది. ఆటోమొబైల్ ఇంధన నెట్‌వర్క్ ఎక్కువగా ఉంది మరియు ఆ మేరకు ఏదైనా అసాధారణమైనది వేగంగా పెరుగుతుంది. ఇంధన సరఫరా స్థితిపై నవీకరణలో, మార్చి 25 నాటికి, పౌరసరఫరాల శాఖ గురువారం సగటు రోజువారీ సరఫరా 5,883 కిలోలీటర్ల పెట్రోల్‌కు వ్యతిరేకంగా, రాష్ట్రంలో 10,799.5 కి.లీ. డీజిల్ కోసం, సగటు రోజువారీ సరఫరా 7,348 KL, అయితే సరఫరా మొత్తం 11,327.5 KL. సరఫరా చేయబడిన 22,127 KL ఇంధనం రోజువారీ సగటు 13,231 KL కంటే ఎక్కువగా ఉంది. రాష్ట్రం తన ఇంధన నిల్వలను పెంచుకుంది, సేవల్లో ఎటువంటి అంతరాయం కలగకుండా చూసేందుకు సగటు రోజువారీ అవసరాలకు దాదాపు రెట్టింపుగా పంపిణి చేసింది, రాష్ట్రం అంతటా పెట్రోల్, డీజిల్ మరియు గృహ LPG సిలిండర్ల సమృద్ధిగా మరియు సురక్షితమైన సరఫరా ఉందని డిపార్ట్‌మెంట్ హామీ ఇచ్చింది. రోజువారీ అవసరాలను తీర్చడానికి అన్ని అవుట్‌లెట్‌లలో పటిష్టమైన మరియు తగిన నిల్వలను నిర్ధారించడానికి సరఫరా గొలుసులను నిరంతరం పర్యవేక్షిస్తున్నట్లు తెలిపింది.",
+      "summary_te": "ప్రభుత్వ రంగ చమురు కంపెనీలు అదనపు స్టాక్‌లను పంపింగ్ చేయడంతో, హైదరాబాద్‌లో ఇంధనం కోసం గురువారం దాదాపు రెండు రోజుల తర్వాత తగ్గుదల సంకేతాలు కనిపించాయి, అయితే కొన్ని పద్ధతులు మరియు పరిమితులను తెరపైకి తీసుకురావడానికి ముందు కాదు. చమురు కంపెనీలు మరియు ప్రభుత్వం వినియోగదారులు కొనుగోలు చేసే భయాందోళనలకు కారణమని పేర్కొన్నప్పటికీ, తెలిసిన వారు కొనుగోలుదారులకు సరఫరా నిలిపివేసారు. ప్రధాన పాత్ర పోషించింది.కోవిడ్ మహమ్మారి కావచ్చు, రష్యా-ఉక్రెయిన్ యుద్ధం కావచ్చు లేదా పశ్చిమాసియాలో దాదాపు నెలరోజుల నాటి యుద్ధం కావచ్చు, ఇటీవలి సంవత్సరాలలో సంక్షోభాల సమయంలో చమురు కంపెనీలు డీలర్లకు రుణంపై ఉత్పత్తులను సరఫరా చేయడం మానేయడమే కాకుండా బకాయిలు తీర్చాలని పట్టుబట్టాయని తెలంగాణ పెట్రోలియం డీలర్స్ అసోసియేషన్ అధ్యక్షుడు ఎం. అమరేందర్ రెడ్డి వివరించారు. ట్రక్కర్లు, నిర్మాణ సంస్థలు మరియు క్యాబ్ సంస్థల వంటి భారీ వినియోగదారులకు డీజిల్ అమ్మకాలలో కొంత భాగం క్రెడిట్‌పై ఉంది. డీలర్‌ల కోసం, క్రెడిట్ అమ్మకాలు వాల్యూమ్‌ల అమ్మకాలను పెంచడానికి ఒక మార్గం, అయితే కస్టమర్‌లందరూ ప్రారంభంలో అంగీకరించిన అలిఖిత 15 రోజులలోపు బకాయిలను క్లియర్ చేయలేరు. మొత్తం డీజిల్ విక్రయాల్లో దాదాపు 40% క్రెడిట్‌పైనే ఉంటుందని, పెట్రోల్‌ను ఎల్లప్పుడూ నగదు మరియు క్యారీ ప్రాతిపదికన పంపిణీ చేయడం జరుగుతుందని ఆయన చెప్పారు. చమురు పరిశ్రమలోని ఒక సీనియర్ అధికారి మాట్లాడుతూ, IOC, BPCL మరియు HPCL అనే మూడు చమురు మార్కెటింగ్ కంపెనీలు తమ డీలర్‌లతో తమ స్వంత ఆర్థిక ఏర్పాట్లు కలిగి ఉన్నాయని, అవి ఎప్పటికప్పుడు మరియు పరిస్థితిని బట్టి భిన్నంగా ఉండవచ్చు. కాబట్టి దీనిని డీలర్లు కారణంగా చెప్పలేము.అంతేకాకుండా, సంక్షోభానికి ముందు (పశ్చిమాసియా యుద్ధం) సమయంలో మరియు ఇప్పుడు ఏమీ మారలేదు, అజ్ఞాతం అభ్యర్థించిన అధికారి, ఉత్పత్తి లభ్యతకు సంబంధించి పరిస్థితిని మెరుగుపరిచారు. వారాంతంలో, \"మేము ఔట్‌లెట్లలో ఈగలను పట్టుకుంటాము,\" పూర్తిగా కొరత ఉంది. ఆటోమొబైల్ ఇంధన నెట్‌వర్క్ ఎక్కువగా ఉంది మరియు ఆ మేరకు ఏదైనా అసాధారణమైనది వేగంగా విస్తరించబడుతుంది. ఇంధన సరఫరా స్థితిపై నవీకరణలో, మార్చి 25 నాటికి, పౌరసరఫరాల శాఖ గురువారం సగటు రోజువారీ సరఫరా 5,883 కిలోలీటర్ల పెట్రోల్‌కు వ్యతిరేకంగా, రాష్ట్రంలో 10,799.5 కి.లీ. డీజిల్ కోసం, సగటు రోజువారీ సరఫరా 7,348 KL, అయితే సరఫరా మొత్తం 11,327.5 KL. సరఫరా చేయబడిన 22,127 KL ఇంధనం రోజువారీ సగటు 13,231 KL కంటే ఎక్కువగా ఉంది. రాష్ట్రం తన ఇంధన నిల్వలను పెంచుకుంది, సేవల్లో ఎటువంటి అంతరాయం కలగకుండా చూసేందుకు సగటు రోజువారీ అవసరాలకు దాదాపు రెట్టింపుగా పంపిణి చేసింది, రాష్ట్రం అంతటా పెట్రోల్, డీజిల్ మరియు గృహ LPG సిలిండర్ల సమృద్ధిగా మరియు సురక్షితమైన సరఫరా ఉందని డిపార్ట్‌మెంట్ హామీ ఇచ్చింది. రోజువారీ అవసరాలను తీర్చడానికి అన్ని అవుట్‌లెట్‌లలో పటిష్టమైన మరియు తగిన నిల్వలను నిర్ధారించడానికి సరఫరా గొలుసులను నిరంతరం పర్యవేక్షిస్తున్నట్లు తెలిపింది.",
       "translated": true
     },
     {
@@ -75,6 +159,20 @@
       "translated": true
     },
     {
+      "id": "a3ba7728b3db8bfc73d58305f49391ee",
+      "title": "Tectone YouTube ban leads to Rumble switch, streamer quits Twitch and YouTube",
+      "summary": "Tectone has announced a significant move, leaving both YouTube and Twitch to become an exclusive streamer on Rumble. This decision follows a recent one-week ban from YouTube for \"excessive swearing,\" prompting him to seek a platform with more perceived freedom. His first Rumble stream is scheduled for March 28, though censored videos will still appear on YouTube.",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/tectone-youtube-ban-leads-to-rumble-switch-streamer-quits-twitch-and-youtube/articleshow/129833581.cms",
+      "image": "https://static.toiimg.com/photo/msid-129833578,imgsize-692756.cms",
+      "published_at": "2026-03-26T19:30:52.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "టెక్టోన్ యూట్యూబ్ నిషేధం రంబుల్ స్విచ్‌కి దారి తీస్తుంది, స్ట్రీమర్ ట్విచ్ మరియు యూట్యూబ్ నుండి నిష్క్రమించారు",
+      "summary_te": "టెక్టోన్ ఒక ముఖ్యమైన చర్యను ప్రకటించింది, YouTube మరియు Twitch రెండింటినీ రంబుల్‌లో ప్రత్యేకమైన స్ట్రీమర్‌గా మార్చింది. ఈ నిర్ణయం YouTube నుండి \"అతిగా తిట్టినందుకు\" ఇటీవల ఒక వారం నిషేధాన్ని అనుసరించి, మరింత స్వేచ్ఛగా భావించే ప్లాట్‌ఫారమ్‌ను కోరుకునేలా చేసింది. అతని మొదటి రంబుల్ స్ట్రీమ్ మార్చి 28న షెడ్యూల్ చేయబడింది, అయినప్పటికీ సెన్సార్ చేయబడిన వీడియోలు ఇప్పటికీ YouTubeలో కనిపిస్తాయి.",
+      "translated": true
+    },
+    {
       "id": "ffdeec621e2ae4ee7890733b96fe8835",
       "title": "A.R. Rahman performs in Rajalakshmi Engineering College cultural fest",
       "summary": "Music composer A.R. Rahman on Thursday performed at Recharge 2026, the annual cultural festival of Rajalakshmi Engineering College, making a rare appearance at a college cultural fest. He opened with the instrumental Jana gana mana, and took the audience on a journey from the Nineties, with Ennavale adi ennavale, and Humma humma, to the 2023 hit Nee singam dhan. Among other songs he performed are Munbe vaa,Yaakkai thiri, Enna solla pogirai, Thalli pogathey, Kun faya kun, Jai ho, and the audience favourite Mustafa mustafa.During the interludes to Mr. Rahman’s performances, various artistes, including Shweta Mohan, Rakshita Suresh, Amrutha Suresh, Nakul Abhyankar, Blaaze, Haricharan, Aditya R.K., Nitesh Aher, and A.R. Ameen, performed his compositions. Abhay Meganathan, Vice Chairman, Rajalakshmi Engineering College, and Tejshree Abhay Meganathan, Executive Director, were also present.",
@@ -84,7 +182,7 @@
       "source": "The Hindu",
       "category": "india",
       "language": "en",
-      "title_te": "ఎ.ఆర్. రాజలక్ష్మి ఇంజినీరింగ్ కాలేజీ కల్చరల్ ఫెస్ట్‌లో రెహమాన్ ప్రదర్శన ఇచ్చారు",
+      "title_te": "ఎ.ఆర్. రాజలక్ష్మి ఇంజినీరింగ్ కాలేజ్ కల్చరల్ ఫెస్ట్‌లో రెహమాన్ ప్రదర్శన ఇచ్చారు",
       "summary_te": "సంగీత స్వరకర్త ఎ.ఆర్. రాజలక్ష్మి ఇంజినీరింగ్ కళాశాల వార్షిక సాంస్కృతిక ఉత్సవం రీఛార్జ్ 2026లో రెహమాన్ గురువారం ప్రదర్శించారు, కళాశాల సాంస్కృతిక ఫెస్ట్‌లో అరుదైన ప్రదర్శన ఇచ్చారు. అతను వాయిద్య జన గణ మనతో ప్రారంభించాడు మరియు తొంభైల నుండి ఎన్నవలే అది ఎన్నవలే మరియు హమ్మా హమ్మాతో ప్రేక్షకులను 2023 హిట్ నీ సింగం ధన్ వరకు తీసుకెళ్లాడు. అతను ప్రదర్శించిన ఇతర పాటలలో ముంబే వా, యాక్కై తిరి, ఎన్నా సొల్ల పొగరై, తల్లి పొగతే, కున్ ఫాయ కున్, జై హో, మరియు ప్రేక్షకుల అభిమాన ముస్తఫా ముస్తఫా ఉన్నాయి. మిస్టర్ రెహమాన్ యొక్క ప్రదర్శనలకు ఇంటర్‌లూడ్‌ల సమయంలో, శ్వేతా మోహన్, రక్షిత సురేశ్, రక్షిత సురేశ్, అబ్చార్ అద్కర్, అమృతా సురేశ్, అమృత సురేశ్, అమృతాజ్, అమృతాజ్. R.K., నితేష్ అహెర్, మరియు A.R. అమీన్ తన కంపోజిషన్లను ప్రదర్శించారు. రాజలక్ష్మి ఇంజినీరింగ్ కళాశాల వైస్ చైర్మన్ అభయ్ మెగానాథన్, ఎగ్జిక్యూటివ్ డైరెక్టర్ తేజశ్రీ అభయ్ మెగానాథన్ తదితరులు పాల్గొన్నారు.",
       "translated": true
     },
@@ -127,7 +225,7 @@
       "category": "india",
       "language": "en",
       "title_te": "కర్ణాటక ప్రభుత్వం అని ఈశ్వర్ ఖండ్రే అన్నారు. పరిహారం కోసం BMRCLకి 58 ఎకరాల అటవీ భూమిని ఇచ్చినందుకు IAF నుండి డబ్బును రికవరీ చేస్తుంది",
-      "summary_te": "బెంగళూరు నార్త్ తాలూకాలోని జరక్‌బండే కవల్ గ్రామంలో భారత వైమానిక దళం (ఐఏఎఫ్) అధికారులు అక్రమంగా ఆధీనంలో ఉన్నారని అటవీ శాఖ మంత్రి బి. ఈశ్వర్ ఖండ్రే గురువారం శాసనసభకు తెలిపారు.",
+      "summary_te": "బెంగళూరు నార్త్ తాలూకాలోని జరక్‌బండే కవల్ గ్రామంలో భారత వైమానిక దళం (IAF) అధికారులు అక్రమంగా ఆధీనంలో ఉన్నారని అటవీ శాఖ మంత్రి బి. ఈశ్వర్ ఖండ్రే గురువారం శాసనసభకు తెలిపారు, ఎందుకంటే వారికి మంజూరు చేసిన భూమిని రద్దు చేశారు, కానీ ద్రవ్య పరిహారం కోసం BMRCL కు సుమారు 58 ఎకరాల అటవీ భూమిని కూడా ఇచ్చారు.",
       "translated": true
     },
     {
@@ -197,7 +295,7 @@
       "category": "india",
       "language": "en",
       "title_te": "తిరువణ్ణామలై కలెక్టరేట్ సమీపంలో మురుగునీరు పారడాన్ని నిరసిస్తూ స్థానికులు రోడ్డును దిగ్బంధించారు",
-      "summary_te": "తిరువణ్ణామలై కార్పొరేషన్‌ పరిధిలోకి వచ్చే కిల్‌నాథూర్‌లో గత కొద్దిరోజులుగా మురుగునీరు ఇళ్లలోకి చేరడంతో జిల్లా కలెక్టరేట్‌ సమీపంలోని వెట్టవలం ప్రధాన రహదారిని దిగ్బంధించారు. గతంలో స్తబ్దత కారణంగా మహిళలు, పిల్లలు మరియు సీనియర్ సిటిజన్లు తీవ్రంగా ప్రభావితమయ్యారు, ”అని నివాసి కె. పవిత్ర చెప్పారు. మురుగు నీరు కూడా స్ట్రెచ్‌లో కొంత భాగాన్ని ముంచెత్తిందని, వాహనదారులు మరియు పాదచారులకు ప్రజారోగ్యానికి ప్రమాదం ఉందని నివాసితులు తెలిపారు. రాత్రి సమయాల్లో ద్విచక్ర వాహనాలు ఎక్కడికక్కడే నిలిచిపోతున్నాయి.ఇళ్లపై, ఇండ్లపై మురుగునీరు నిరంతరం నిలిచిపోవడంతో దోమల బెడద ఎక్కువైందని స్థానికులు తెలిపారు. పరీక్షలు జరుగుతున్నందున, దోమల బెడద కారణంగా పాఠశాల విద్యార్థులు తమ చదువులపై దృష్టి సారించలేకపోయారు. ప్రస్తుతం, తిరువణ్ణామలై కార్పొరేషన్‌లో 39 వార్డులు ఉన్నాయి, సుమారు 1.6 లక్షల జనాభా ఉంది. అరుణాచలీశ్వర దేవాలయం చుట్టుపక్కల ప్రాంతాలు మరియు చుట్టుపక్కల ఆరు వ్యవసాయ గ్రామాలు పౌర సంఘంలో భాగంగా ఉన్నాయి. మూడు అడుగుల వెడల్పు మరియు నాలుగు అడుగుల లోతు ఉన్న ప్రస్తుత వర్షపు నీటి కాలువ పాత బస్ టెర్మినస్ సమీపంలోని పెరియార్ విగ్రహం నుండి ఎడపాళ్యం నీటిపారుదల ట్యాంక్ వరకు రెండు కిలోమీటర్ల దూరంలో ఉంది. DRDA ద్వారా నిర్వహించబడుతున్న ట్యాంక్ వర్షాకాలంలో వర్షపు నీటి కాలువలోకి అదనపు వర్షపు నీటిని విడుదల చేస్తుందని కార్పొరేషన్ అధికారులు తెలిపారు. ఈ డ్రెయిన్‌ను తిరువణ్ణామలై పట్టణంలోని చిన్న డ్రెయిన్‌లకు అనుసంధానం చేసి అదనపు వర్షపు నీటిని సేకరిస్తున్నారు.ఇప్పటికే ఉన్న కల్వర్ట్‌లో డ్రెయిన్‌ను కలిపే డ్రెయిన్ మూసుకుపోవడంతో కొద్దిరోజుల క్రితం డ్రెయిన్‌లోని మురుగునీరు ఇళ్లలోకి, రోడ్డుపైకి చేరడంతో స్థానికులు నిరసనకు దిగారు. peacefully after assurance from officials that action would be taken to prevent the seepage of sewage. తిరువణ్ణామలై-విల్లుపురం మార్గంలో గంటకు పైగా ట్రాఫిక్ నిలిచిపోయింది, పోలీసులు ఈ మార్గంలో వాహనాల రాకపోకలను పునరుద్ధరించారు.",
+      "summary_te": "తిరువణ్ణామలై కార్పొరేషన్‌ పరిధిలోకి వచ్చే కిల్‌నాథూర్‌లో గత కొద్దిరోజులుగా మురుగునీరు ఇళ్లలోకి చేరడంతో జిల్లా కలెక్టరేట్‌ సమీపంలోని వెట్టవలం ప్రధాన రహదారిని దిగ్బంధించారు. గతంలో స్తబ్దత కారణంగా మహిళలు, పిల్లలు మరియు సీనియర్ సిటిజన్లు తీవ్రంగా ప్రభావితమయ్యారు, ”అని నివాసి కె. పవిత్ర చెప్పారు. మురుగు నీరు కూడా స్ట్రెచ్‌లో కొంత భాగాన్ని ముంచెత్తిందని, వాహనదారులు మరియు పాదచారులకు ప్రజారోగ్యానికి ప్రమాదం ఉందని నివాసితులు తెలిపారు. రాత్రి సమయాల్లో ద్విచక్ర వాహనాలు ఎక్కడికక్కడే నిలిచిపోతున్నాయి.ఇళ్లపై, ఇండ్లపై మురుగునీరు నిరంతరం నిలిచిపోవడంతో దోమల బెడద ఎక్కువైందని స్థానికులు తెలిపారు. పరీక్షలు జరుగుతున్నందున, దోమల బెడద కారణంగా పాఠశాల విద్యార్థులు తమ చదువులపై దృష్టి సారించలేకపోయారు. ప్రస్తుతం, తిరువణ్ణామలై కార్పొరేషన్‌లో 39 వార్డులు ఉన్నాయి, సుమారు 1.6 లక్షల జనాభా ఉంది. అరుణాచలీశ్వర దేవాలయం చుట్టుపక్కల ప్రాంతాలు మరియు చుట్టుపక్కల ఆరు వ్యవసాయ గ్రామాలు పౌర సంఘంలో భాగంగా ఉన్నాయి. మూడు అడుగుల వెడల్పు మరియు నాలుగు అడుగుల లోతు ఉన్న ప్రస్తుత వర్షపు నీటి కాలువ పాత బస్ టెర్మినస్ సమీపంలోని పెరియార్ విగ్రహం నుండి ఎడపాళ్యం నీటిపారుదల ట్యాంక్ వరకు రెండు కిలోమీటర్ల దూరంలో ఉంది. DRDA ద్వారా నిర్వహించబడుతున్న ట్యాంక్ వర్షాకాలంలో వర్షపు నీటి కాలువలోకి అదనపు వర్షపు నీటిని విడుదల చేస్తుందని కార్పొరేషన్ అధికారులు తెలిపారు. ఈ డ్రెయిన్‌ను తిరువణ్ణామలై పట్టణంలోని చిన్న డ్రెయిన్‌లకు అనుసంధానం చేసి అదనపు వర్షపు నీటిని సేకరిస్తున్నారు.ఇప్పటికే ఉన్న కల్వర్ట్‌లో డ్రెయిన్‌ను కలిపే డ్రెయిన్ మూసుకుపోవడంతో కొద్దిరోజుల క్రితం డ్రెయిన్‌లోని మురుగునీరు ఇళ్లలోకి, రోడ్డుపైకి చేరడంతో స్థానికులు నిరసనకు దిగారు. మురుగునీరు పోకుండా చర్యలు తీసుకుంటామని అధికారులు హామీ ఇవ్వడంతో శాంతించారు. తిరువణ్ణామలై-విల్లుపురం మార్గంలో గంటకు పైగా ట్రాఫిక్ నిలిచిపోయింది, పోలీసులు ఈ మార్గంలో వాహనాల రాకపోకలను పునరుద్ధరించారు.",
       "translated": true
     },
     {
@@ -281,21 +379,7 @@
       "category": "india",
       "language": "en",
       "title_te": "టి.ఎన్. అసెంబ్లీ ఎన్నికలు: డీఎంకే అధికారికంగా నాలుగు సంస్థలతో సీట్ల పంపకాల ఒప్పందాలపై సంతకాలు చేసింది",
-      "summary_te": "సెక్యులర్ ప్రోగ్రెసివ్ అలయన్స్‌లో భాగంగా పోటీ చేసేందుకు ముందుగా ఒక్కో సీటును కేటాయించిన నాలుగు సంస్థలతో అధికార డీఎంకే గురువారం అధికారికంగా సీటు షేరింగ్ ఒప్పందాలపై సంతకాలు చేసింది.తమిమున్ అన్సారీ నేతృత్వంలోని మనిథనేయ జననాయక కత్తి, ముక్కులతోర్ పులి పాడై, నటుడు కరుణాస్ నేతృత్వంలోని సోషల్ డెమోక్రటిక్ పార్టీ వీ.ఎం.ఎస్. మహమ్మద్ ముబారక్, మరియు తమిళర్ దేశం కట్చి, కె.కె. సెల్వకుమార్, డీఎంకే 'రైజింగ్ సన్' గుర్తుపై ఒక్కో స్థానంలో పోటీ చేయనున్నారు. సీటు షేరింగ్ ఒప్పందాలపై డీఎంకే అధ్యక్షుడు, ముఖ్యమంత్రి ఎం.కె. చెన్నైలోని డీఎంకే ప్రధాన కార్యాలయం అన్నా అరివాలయంలో స్టాలిన్ మరియు ఆయా పార్టీల నేతలు డీఎంకేలో చేరారు.మాజీ ఎమ్మెల్యే డీఎంకేలో విడివిడిగా అమ్మ మక్కల్ మున్నేట్ర కజ్గం (ఏఎంఎంకే) ఉప ప్రధాన కార్యదర్శి ఎం. రెంగసామి గురువారం స్టాలిన్ సమక్షంలో డీఎంకేలో చేరారు. రెంగసామి 2011 మరియు 2016 అసెంబ్లీ ఎన్నికలలో తంజావూరు అసెంబ్లీ సెగ్మెంట్ నుండి ఏఐఏడీఎంకే అభ్యర్థిగా పోటీ చేసి గెలుపొందారు. టీటీవీకి మద్దతు ఇచ్చినందుకు అనర్హత వేటు పడిన 18 మంది అసమ్మతి అన్నాడీఎంకే ఎమ్మెల్యేల్లో ఆయన కూడా ఉన్నారు. 2017లో దినకరన్ వర్గం.",
-      "translated": true
-    },
-    {
-      "id": "b4157dea308f1b59e733328d9941ef50",
-      "title": "Kerala VHSE gets AB-Dual recognition",
-      "summary": "With this, the Vocational Higher Secondary Education wing of the General Education department will be able to design courses according to the National Skills Qualifications Framework (NSQF) and give them approval",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-vhse-gets-ab-dual-recognition/article70789393.ece",
-      "image": null,
-      "published_at": "2026-03-26T18:57:56.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేరళ VHSE AB-ద్వంద్వ గుర్తింపు పొందింది",
-      "summary_te": "దీనితో, జనరల్ ఎడ్యుకేషన్ డిపార్ట్‌మెంట్‌లోని ఒకేషనల్ హయ్యర్ సెకండరీ ఎడ్యుకేషన్ విభాగం నేషనల్ స్కిల్స్ క్వాలిఫికేషన్స్ ఫ్రేమ్‌వర్క్ (NSQF) ప్రకారం కోర్సులను రూపొందించగలదు మరియు వాటికి ఆమోదం ఇస్తుంది.",
+      "summary_te": "సెక్యులర్ ప్రోగ్రెసివ్ అలయన్స్‌లో భాగంగా పోటీ చేసేందుకు ముందుగా ఒక్కో సీటును కేటాయించిన నాలుగు సంస్థలతో అధికార డీఎంకే గురువారం అధికారికంగా సీటు షేరింగ్ ఒప్పందాలపై సంతకాలు చేసింది.తమిమున్ అన్సారీ నేతృత్వంలోని మనిథనేయ జననాయక కత్తి, ముక్కులతోర్ పులి పాడై, నటుడు కరుణాస్ నేతృత్వంలోని సోషల్ డెమోక్రటిక్ పార్టీ వీ.ఎం.ఎస్. మహ్మద్ ముబారక్, మరియు తమిళర్ దేశం కట్చి, కె.కె. సెల్వకుమార్, డీఎంకే 'రైజింగ్ సన్' గుర్తుపై ఒక్కో స్థానంలో పోటీ చేయనున్నారు. సీటు షేరింగ్ ఒప్పందాలపై డీఎంకే అధ్యక్షుడు, ముఖ్యమంత్రి ఎం.కె. చెన్నైలోని డీఎంకే ప్రధాన కార్యాలయం అన్నా అరివాలయంలో స్టాలిన్ మరియు ఆయా పార్టీల నేతలు డీఎంకేలో చేరారు.మాజీ ఎమ్మెల్యే డీఎంకేలో విడివిడిగా అమ్మ మక్కల్ మున్నేట్ర కజ్గం (ఏఎంఎంకే) ఉప ప్రధాన కార్యదర్శి ఎం. రెంగసామి గురువారం స్టాలిన్ సమక్షంలో డీఎంకేలో చేరారు. రెంగసామి 2011 మరియు 2016 అసెంబ్లీ ఎన్నికలలో తంజావూరు అసెంబ్లీ సెగ్మెంట్ నుండి ఏఐఏడీఎంకే అభ్యర్థిగా పోటీ చేసి గెలుపొందారు. టీటీవీకి మద్దతు ఇచ్చినందుకు అనర్హత వేటు పడిన 18 మంది అసమ్మతి అన్నాడీఎంకే ఎమ్మెల్యేల్లో ఆయన కూడా ఉన్నారు. 2017లో దినకరన్ వర్గం.",
       "translated": true
     },
     {
@@ -324,20 +408,6 @@
       "language": "en",
       "title_te": "క్లెయిమ్‌ల తర్వాత, పోల్ బాడీ మమతా బెనర్జీ సీటులో అధికారిక పేర్లను కోరింది",
       "summary_te": "భబానీపూర్ ముఖ్యమంత్రి మమతా బెనర్జీ నియోజకవర్గం, ఇక్కడ అధికారి రాబోయే ఎన్నికల్లో ఆమెను సవాలు చేయనున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "ac84b6d7ca17b25c83f79f00b1c7b491",
-      "title": "₹36.50 cr. authorised to clear victims’ compensation fund arrears, Kerala HC informed",
-      "summary": "This comes in the wake of the court observing recently that it would pass orders to attach the State government’s treasury accounts if the government failed to pay the amount within a week",
-      "url": "https://www.thehindu.com/news/national/kerala/3650-cr-authorised-to-clear-victims-compensation-fund-arrears-kerala-hc-informed/article70789509.ece",
-      "image": null,
-      "published_at": "2026-03-26T18:47:58.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "₹36.50 కోట్లు బాధితుల పరిహార నిధి బకాయిలను క్లియర్ చేయడానికి అధికారం ఉంది, కేరళ హెచ్‌సి తెలియజేసింది",
-      "summary_te": "ప్రభుత్వం వారంలోగా మొత్తాన్ని చెల్లించడంలో విఫలమైతే రాష్ట్ర ప్రభుత్వ ట్రెజరీ ఖాతాలను అటాచ్ చేయాలని ఇటీవల కోర్టు ఆదేశాలు జారీ చేసిన నేపథ్యంలో ఇది జరిగింది.",
       "translated": true
     },
     {
@@ -383,48 +453,6 @@
       "translated": true
     },
     {
-      "id": "1353a18b1af1208e87be92d7c38b00e5",
-      "title": "‘Job Habba Mysuru 2026’ for Persons with Disabilities on March 28",
-      "summary": "Adidvara, an initiative of AssisTech Foundation, will be holding an inclusive hiring event ‘Job Habba Mysuru 2026’ aimed at connecting Persons with Disabilities (PwD) with employment opportunities.A statement here said the event scheduled to be held at All India Institute of Speech and Hearing (AIISH) on March 28 from 9 a.m. to 4 p.m. will bring together leading employers, training institutions and job seekers under one roof.“The Adidvara Job Habba Mysuru 2026 is being conducted in collaboration with AIISH with Equibeign Foundation as the strategic partner, and the support of the Department of Welfare of Differently Abled and Senior Citizens,” the statement said.The Job Habba is designed to bridge the gap between talented candidates with disabilities and inclusive organisations that are committed to building diverse workforces. More than 500 PwD candidates from Mysuru and surrounding districts are expected to participate in the event.A statement from the organisers said 26.8 million people in India have some form of disabilities and two thirds of these people are not employed- a number that is only set to increase without proper skills training for employment.“Ignoring the potential of disabled people can cost any nation very high. For India, leaving persons with disabilities out of the economy translates into a loss of about 5%-7% of GDP,” the statement said.Candidates with disabilities are invited to register and take a step towards meaningful careers. They can register at https://lll.atfadidvara.org/public-event/3kAikTTMjT5xWDQ3pyAO/candidateThe contact persons for candidate registrations are Sunil- 9058090931, Sunita - 9353689808 and Chandan- 8867994757.For queries, contact: adidvara@atflabs.org or 9818005423",
-      "url": "https://www.thehindu.com/news/national/karnataka/job-habba-mysuru-2026-for-persons-with-disabilities-on-march-28/article70789246.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "published_at": "2026-03-26T18:37:57.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మార్చి 28న వికలాంగుల కోసం ‘జాబ్ హబ్బా మైసూరు 2026’",
-      "summary_te": "అసిస్‌టెక్ ఫౌండేషన్ యొక్క చొరవ అయిన ఆదిద్వార, వికలాంగులకు (పిడబ్ల్యుడి) ఉపాధి అవకాశాలతో అనుసంధానం చేసే లక్ష్యంతో ‘జాబ్ హబ్బా మైసూర్ 2026’ అనే సమగ్ర నియామక ఈవెంట్‌ను నిర్వహిస్తోంది. మార్చి 4 నుండి 28వ తేదీ వరకు ఆల్ ఇండియా ఇన్‌స్టిట్యూట్ ఆఫ్ స్పీచ్ అండ్ హియరింగ్ (AIISH)లో ఈ కార్యక్రమం జరగనుందని ఒక ప్రకటనలో తెలిపారు. ప్రముఖ యజమానులు, శిక్షణ సంస్థలు మరియు ఉద్యోగార్ధులను ఒకే తాటిపైకి తెస్తుంది. “ఆదిద్వార జాబ్ హబ్బా మైసూరు 2026 AIISH సహకారంతో Equibeign Foundation వ్యూహాత్మక భాగస్వామిగా నిర్వహించబడుతోంది మరియు డిపార్ట్‌మెంట్ ఆఫ్ డిపార్ట్‌మెంట్ ఆఫ్ డిఫరెంట్లీ ఎబిల్డ్ మరియు సీనియర్ సిటిజన్‌ల మధ్య వారధిగా రూపొందించబడింది” అని ప్రకటన పేర్కొంది. వైకల్యాలు మరియు విభిన్నమైన శ్రామికశక్తిని నిర్మించడానికి కట్టుబడి ఉన్న సంఘటిత సంస్థలు. మైసూరు మరియు చుట్టుపక్కల జిల్లాల నుండి 500 మందికి పైగా పిడబ్ల్యుడి అభ్యర్థులు ఈ కార్యక్రమంలో పాల్గొంటారని అంచనా. నిర్వాహకుల నుండి వచ్చిన ఒక ప్రకటనలో భారతదేశంలో 26.8 మిలియన్ల మందికి ఏదో ఒక రకమైన వైకల్యాలున్నాయి మరియు వీరిలో మూడింట రెండొంతుల మంది ఉపాధి పొందలేదు - ఉపాధి కోసం సరైన నైపుణ్య శిక్షణ లేకుండానే ఈ సంఖ్య పెరుగుతోంది. GDPలో దాదాపు 5%-7% నష్టానికి అనువదిస్తుంది,” అని ప్రకటన పేర్కొంది. వికలాంగ అభ్యర్థులు నమోదు చేసుకోవడానికి మరియు అర్ధవంతమైన కెరీర్‌ల వైపు అడుగులు వేయడానికి ఆహ్వానించబడ్డారు. వారు https://lll.atfadidvara.org/public-event/3kAikTTMjT5xWDQ3pyAO/candidateఅభ్యర్థుల రిజిస్ట్రేషన్‌ల కోసం సంప్రదించవలసిన వ్యక్తులు సునీల్- 9058090931, సునీత - 9353689808 మరియు చందన్- 886799 సంప్రదించండి adidvara@atflabs.org లేదా 9818005423",
-      "translated": true
-    },
-    {
-      "id": "b4a33213260d671df52d106e382a12de",
-      "title": "Kerala assembly polls 2026: Though not in the fray, they are in the poll arena as campaigners",
-      "summary": "Some former legislators and leaders who are not in the fray this time are still in the limelight as campigners",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-assembly-polls-2016-though-not-in-the-fray-they-are-in-the-poll-arena-as-campaigners/article70788750.ece",
-      "image": null,
-      "published_at": "2026-03-26T18:37:34.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "కేరళ అసెంబ్లీ ఎన్నికలు 2026: పోటీలో లేకపోయినా, ప్రచారకర్తలుగా ఎన్నికల రంగంలో ఉన్నారు",
-      "summary_te": "ఈసారి పోటీలో లేని కొందరు మాజీ శాసనసభ్యులు, నాయకులు ఇప్పటికీ ప్రచారకర్తలుగా వెలుగులో ఉన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "056c6e0f696a2fad4037c69cb753a3af",
-      "title": "Annamalai unhappy with constituencies allocated by AIADMK",
-      "summary": "The former BJP Tamil Nadu president is learnt to have requested the party leadership not to identify any seat for him as he has decided against contesting in the Assembly election. But he will continue to work “as a party karyakarta for all BJP and NDA candidates”",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/annamalaiunhappy-with-constituencies-allocated-by-aiadmk/article70789767.ece",
-      "image": "https://th-i.thgim.com/public/incoming/xpni8i/article70789811.ece/alternates/LANDSCAPE_1200/BJP-leader-AnnaG3EFJJ8AA.3.jpg.jpg",
-      "published_at": "2026-03-26T18:32:05.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "అన్నామలై ఏఐఏడీఎంకే కేటాయించిన నియోజకవర్గాలపై అసంతృప్తిగా ఉన్నారు",
-      "summary_te": "బీజేపీ తమిళనాడు మాజీ అధ్యక్షుడు అసెంబ్లీ ఎన్నికల్లో పోటీ చేయకూడదని నిర్ణయించుకున్నందున తనకు ఎలాంటి సీటును గుర్తించవద్దని పార్టీ నాయకత్వాన్ని అభ్యర్థించినట్లు తెలిసింది. కానీ అతను \"బిజెపి మరియు ఎన్డిఎ అభ్యర్థులందరికీ పార్టీ కార్యకర్తగా\" పని చేస్తూనే ఉంటాడు.",
-      "translated": true
-    },
-    {
       "id": "63bfaebabde7ed6c74db02c16bd2393b",
       "title": "PM Modi To Attend G7 Summit In France Frpm June 15 To 17",
       "summary": "and had participated in the AI Impact Summit 2026.",
@@ -450,20 +478,6 @@
       "language": "en",
       "title_te": "భారతదేశం, ఢాకా సున్నితమైన సమస్యలను చిత్తశుద్ధితో, నిజాయితీతో పరిష్కరించాలి: రాయబారి",
       "summary_te": "బంగ్లాదేశ్ హైకమిషనర్ రియాజ్ హమీదుల్లా భాగస్వామ్య ప్రజాస్వామ్య విశ్వాసాలపై నిర్మించబడిన సుసంపన్నమైన భవిష్యత్తు కోసం వాణిజ్యం, భద్రత మరియు వనరుల భాగస్వామ్యంపై నిజాయితీతో కూడిన సంభాషణను నొక్కి చెప్పారు. అతను 1971 బంగ్లాదేశ్ విముక్తి యుద్ధంలో భారతదేశం యొక్క కీలకమైన మద్దతును మరియు సమానత్వం మరియు న్యాయం యొక్క స్ఫూర్తిని గుర్తుచేసుకుంటూ పరస్పర గౌరవం మరియు పరస్పర ఆధారపడటం యొక్క అవసరాన్ని హైలైట్ చేశాడు.",
-      "translated": true
-    },
-    {
-      "id": "7a6646fe2911d66ebf5291799e6f52e3",
-      "title": "Slovak detained along Mizoram-Myanmar border, likely to be deported",
-      "summary": "The man, a resident of Thailand, was allegedly trying to cross into Myanmar to meet a friend; he did not have a protected area permit; detention comes after American, Ukrainians tried to cross border to train armed ethnic groups",
-      "url": "https://www.thehindu.com/news/national/slovak-detained-along-mizoram-myanmar-border-likely-to-be-deported/article70789552.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wtb82w/article70789802.ece/alternates/LANDSCAPE_1200/IMG_INDIA-MYANMAR-COUP-R_2_1_91CCOD10.jpg",
-      "published_at": "2026-03-26T18:21:45.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "మిజోరం-మయన్మార్ సరిహద్దులో నిర్బంధించబడిన స్లోవాక్, బహిష్కరణకు గురయ్యే అవకాశం ఉంది",
-      "summary_te": "థాయిలాండ్ నివాసి అయిన వ్యక్తి, ఒక స్నేహితుడిని కలవడానికి మయన్మార్‌లోకి ప్రవేశించడానికి ప్రయత్నిస్తున్నట్లు ఆరోపణలు ఉన్నాయి; అతనికి రక్షిత ప్రాంత అనుమతి లేదు; సాయుధ జాతి సమూహాలకు శిక్షణ ఇవ్వడానికి అమెరికన్, ఉక్రేనియన్లు సరిహద్దు దాటడానికి ప్రయత్నించిన తర్వాత నిర్బంధం జరిగింది",
       "translated": true
     },
     {
@@ -677,20 +691,6 @@
       "translated": true
     },
     {
-      "id": "ab12ad4e2980cc462de8c4c91bfee785",
-      "title": "US airports to shut down? TSA warns of 'dire situation' amid funding deadlock",
-      "summary": "Travelers wait in a TSA line at a US airport We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/world/us/dire-situation-tsa-chief-warns-of-us-airport-closures-amid-dhs-shutdown-says-assaults-on-officers-up-over-500/articleshow/129830045.cms",
-      "image": "https://static.toiimg.com/photo/msid-129830438,imgsize-218464.cms",
-      "published_at": "2026-03-26T17:10:19.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "యూఎస్‌ ఎయిర్‌పోర్టులు మూసివేయాలా? నిధుల ప్రతిష్టంభన మధ్య 'భయకరమైన పరిస్థితి' గురించి TSA హెచ్చరించింది",
-      "summary_te": "US విమానాశ్రయం వద్ద TSA లైన్‌లో ప్రయాణికులు వేచి ఉన్నారు, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
-      "translated": true
-    },
-    {
       "id": "c39daf75eca46b146b288167b0f70895",
       "title": "No LPG, gas surcharges on bills: Consumer protection body to hotels, restaurants",
       "summary": "No LPG, gas surcharges on bills: Consumer protection body to hotels, restaurants",
@@ -714,7 +714,7 @@
       "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "మైలాపూర్ బలంతో 'జయలలిత స్టైల్'తో చెన్నై ప్రచారాన్ని ప్రారంభించిన EPS",
+      "title_te": "మైలాపూర్ బలంతో 'జయలలిత స్టైల్' చెన్నై ప్రచారాన్ని ప్రారంభించిన EPS",
       "summary_te": "పార్టీ అధినేతగా తొలి అసెంబ్లీ ఎన్నికలకు వెళ్తున్న ఈపీఎస్‌కి ఇది మాకే ఆర్ బ్రేక్.",
       "translated": true
     },
@@ -785,7 +785,7 @@
       "category": "india",
       "language": "en",
       "title_te": "'ఆఖరి దెబ్బ'కి సిద్ధమవుతున్నారా? పారాట్రూపర్లు, మెరైన్లు & నావికులు - మధ్యప్రాచ్యానికి US దళాలను పరుగెత్తిస్తున్నారు",
-      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. ఖండాంతరాల ప్రయాణంలో మాతో చేరండి",
+      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ మీకు తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను 24 గంటల్లో అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. ఖండాంతరాల ప్రయాణంలో మాతో చేరండి",
       "translated": true
     },
     {
@@ -827,7 +827,7 @@
       "category": "india",
       "language": "en",
       "title_te": "చూడండి: షమీ యొక్క తాజా చర్య లాంగర్ నుండి పెద్ద స్పందనను ప్రేరేపిస్తుంది",
-      "summary_te": "మహ్మద్ షమీ IPL 2026కి ముందు భారత జట్టులోకి తిరిగి రావాలనే లక్ష్యంతో తీవ్రంగా శిక్షణ పొందుతున్నాడు. 35 ఏళ్ల ఎల్‌ఎస్‌జి కోచ్ జస్టిన్ లాంగర్ తన యార్కర్లతో ఆకట్టుకున్నాడు, అతను వాటిని \"బ్రీత్‌టేకింగ్\" అని పిలిచాడు. యువ ఆటగాళ్లలో షమీ నాయకత్వాన్ని లాంగర్ కూడా ప్రశంసించాడు. సెలెక్టర్లు అతనిని పట్టించుకోకపోవడంతో, IPL తనను తాను నిరూపించుకోవడానికి మరియు పునరాగమనం కోసం షమీకి కీలకమైన అవకాశాన్ని అందిస్తుంది.",
+      "summary_te": "మహ్మద్ షమీ IPL 2026కి ముందు భారత జట్టులోకి తిరిగి రావాలనే లక్ష్యంతో కఠోర శిక్షణ తీసుకుంటున్నాడు. 35 ఏళ్ల ఎల్‌ఎస్‌జి కోచ్ జస్టిన్ లాంగర్ తన యార్కర్లతో ఆకట్టుకున్నాడు, అతను వాటిని \"బ్రీత్‌టేకింగ్\" అని పిలిచాడు. యువ ఆటగాళ్లలో షమీ నాయకత్వాన్ని లాంగర్ కూడా ప్రశంసించాడు. సెలెక్టర్లు అతనిని పట్టించుకోకపోవడంతో, IPL తనను తాను నిరూపించుకోవడానికి మరియు పునరాగమనం కోసం షమీకి కీలకమైన అవకాశాన్ని అందిస్తుంది.",
       "translated": true
     },
     {
@@ -1064,7 +1064,7 @@
       "source": "Hindustan Times",
       "category": "india",
       "language": "en",
-      "title_te": "సెన్సస్ 2027: ఎన్యూమరేటర్లు మర్యాదపూర్వకంగా వ్యవహరించాలని కోరారు, విధి నిర్వహణలో లోపాలకు జైలు శిక్ష విధించవచ్చు",
+      "title_te": "సెన్సస్ 2027: ఎన్యూమరేటర్లు మర్యాదగా వ్యవహరించాలని కోరారు, విధి నిర్వహణలో లోపాలకు జైలు శిక్ష విధించవచ్చు",
       "summary_te": "RGI ఆదేశిక జనాభా గణన 2027 కోసం విధులను వివరిస్తుంది, జనాభా గణన అధికారుల తప్పులు లేదా దుష్ప్రవర్తనకు గరిష్టంగా 3 సంవత్సరాల జైలు శిక్ష మరియు ₹1,000 జరిమానా విధించబడుతుంది.",
       "translated": true
     },
@@ -1345,7 +1345,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ఇండియా LPG ‘సంక్షోభం’ ముఖ్యాంశాలు | పశ్చిమాసియా యుద్ధంపై సీఎంలతో భేటీ కానున్న ప్రధాని మోదీ; మేఘాలయ వాణిజ్య LPG క్రంచ్‌ను ఫ్లాగ్ చేసింది",
-      "summary_te": "భారతదేశంలో ఇంధన సంక్షోభానికి సంబంధించిన సమస్యలపై భయాలు పెరుగుతున్నందున PM నరేంద్ర మోడీ CMలతో ఆన్‌లైన్ సమావేశాన్ని నిర్వహించనున్నారు; భారతదేశంలో సాధ్యమయ్యే “లాక్‌డౌన్” గురించి ఆన్‌లైన్ శోధనలు కూడా పెరుగుతున్నాయి, నాలుగు వారాల క్రితం ఇజ్రాయెల్‌పై US మరియు ఇజ్రాయెల్ దాడి చేసిన తర్వాత పశ్చిమాసియాలో విస్తృతమైన సంఘర్షణ కారణంగా పుకారు వచ్చింది.",
+      "summary_te": "భారతదేశంలో ఇంధన సంక్షోభానికి సంబంధించిన సమస్యలపై భయాలు పెరుగుతున్నందున PM నరేంద్ర మోడీ CMలతో ఆన్‌లైన్ సమావేశాన్ని నిర్వహించనున్నారు; భారతదేశంలో సాధ్యమయ్యే “లాక్‌డౌన్” గురించి ఆన్‌లైన్ శోధనలు కూడా పెరుగుతున్నాయి, నాలుగు వారాల క్రితం ఇజ్రాయెల్‌పై US మరియు ఇజ్రాయెల్ దాడి చేసిన తర్వాత పశ్చిమాసియాలో విస్తృతమైన సంఘర్షణతో పుకారు వచ్చింది.",
       "translated": true
     },
     {
