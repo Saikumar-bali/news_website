@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-26T19:10:44.390Z",
-  "updated_at_IST": "27/3/2026, 12:40:44 am",
+  "updated_at": "2026-03-26T20:04:28.766Z",
+  "updated_at_IST": "27/3/2026, 1:34:28 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "0d2a5ec44078e44527d7c2cc5bfa9a00",
+      "title": "Iran claims mobilisation of over 1 million fighters amid fears of US ground conflict",
+      "summary": "The development comes amid escalating tensions in the region and growing speculation over a possible US military move on Iran’s southern front, particularly around the strategically critical Strait of Hormuz.",
+      "url": "https://www.livemint.com/news/world/iran-claims-mobilisation-of-over-1-million-fighters-amid-fears-of-us-ground-conflict-11774551403852.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/IRAN-CRISIS-RALLY-1_1774551969952_1774551982398.JPG",
+      "published_at": "2026-03-26T19:06:46.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US భూ సంఘర్షణ భయాల మధ్య 1 మిలియన్ ఫైటర్లను సమీకరించినట్లు ఇరాన్ పేర్కొంది",
+      "summary_te": "ఈ ప్రాంతంలో తీవ్ర ఉద్రిక్తతలు మరియు ఇరాన్ యొక్క దక్షిణ సరిహద్దులో, ముఖ్యంగా వ్యూహాత్మకంగా కీలకమైన హార్ముజ్ జలసంధి చుట్టూ US సైనిక చర్యపై పెరుగుతున్న ఊహాగానాల మధ్య ఈ అభివృద్ధి జరిగింది.",
+      "translated": true
+    },
     {
       "id": "8f7c6273d4235235c37d3186a76cc936",
       "title": "Air India to operate 22 flights to & from Gulf cities on Friday, destinations include Jeddah, Riyadh - details inside",
@@ -352,20 +366,6 @@
       "language": "en",
       "title_te": "హెలెన్ కెల్లర్ ద్వారా ఈ రోజు కోట్: 'నేను ఒక గొప్ప మరియు గొప్ప పనిని సాధించాలని కోరుకుంటున్నాను, కానీ అది నాది...'",
       "summary_te": "హెలెన్ కెల్లర్ మాటలు ఏ పనిని చిన్నవిగా లేదా అప్రధానమైనవిగా పరిగణించకూడదని గుర్తు చేస్తాయి. తరచుగా, గొప్ప మరియు గొప్ప పనులను సాధించే మార్గం ఈ ప్రాపంచిక, చిన్న బాధ్యతల సాధన ద్వారా వెళుతుందని ఆమె నొక్కి చెప్పింది.",
-      "translated": true
-    },
-    {
-      "id": "51aa1169ae2c0ce54d1504abfaf75c4e",
-      "title": "TSA wait times spike at major US airports as DHS funding stalemate continues",
-      "summary": "Acting TSA Administrator Ha Nguyen McNeill told Congress on Wednesday (March 25) that some airport wait times have exceeded 4.5 hours.",
-      "url": "https://www.livemint.com/news/us-news/tsa-wait-times-spike-at-major-us-airports-as-dhs-funding-stalemate-continues-11774530546585.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/US-TRUMP-SAYS-HE-LL-SEND-ICE-AGENTS-TO-AIRPORTS-IF_1774530992021_1774530992143.jpg",
-      "published_at": "2026-03-26T13:20:10.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "DHS నిధుల ప్రతిష్టంభన కొనసాగుతున్నందున ప్రధాన US విమానాశ్రయాలలో TSA నిరీక్షణ సమయం పెరిగింది",
-      "summary_te": "తాత్కాలిక TSA అడ్మినిస్ట్రేటర్ హా న్గుయెన్ మెక్‌నీల్ బుధవారం (మార్చి 25) కాంగ్రెస్‌తో మాట్లాడుతూ కొన్ని విమానాశ్రయాల నిరీక్షణ సమయం 4.5 గంటలు మించిపోయింది.",
       "translated": true
     },
     {
