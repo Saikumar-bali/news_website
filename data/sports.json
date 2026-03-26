@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-26T06:18:16.721Z",
-  "updated_at_IST": "26/3/2026, 11:48:16 am",
+  "updated_at": "2026-03-26T08:05:52.600Z",
+  "updated_at_IST": "26/3/2026, 1:35:52 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "8ed09ab056a4356e51c07eaad7ebd13b",
+      "title": "Rain ruins opening day after Victoria tear through SA top order",
+      "summary": "Only 28 overs were possible before rain ended play after Victoria's seamers ripped through South Australia's top order",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529180.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414905.jpg",
+      "published_at": "2026-03-26T06:32:38.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "SA టాప్ ఆర్డర్ ద్వారా విక్టోరియా కూల్చివేత తర్వాత రోజు వర్షం శిథిలాలు ప్రారంభమయ్యాయి",
+      "summary_te": "విక్టోరియా సీమర్లు సౌత్ ఆస్ట్రేలియా టాప్ ఆర్డర్‌ను చీల్చడంతో వర్షం ఆట ముగిసే ముందు 28 ఓవర్లు మాత్రమే సాధ్యమయ్యాయి.",
+      "translated": true
+    },
     {
       "id": "ce2e20c2027c6396b1ab1acdf0753ded",
       "title": "NZ, SA have all to play for as low-context series reaches high-stakes finale",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "SAకి వ్యతిరేకంగా ODIల కోసం కైలీ నైట్ NZ జట్టుకు పిలుపునిచ్చారు",
       "summary_te": "జింబాబ్వేతో ఇటీవల ముగిసిన సిరీస్‌లో సీమర్ తన T20I అరంగేట్రం చేసింది",
-      "translated": true
-    },
-    {
-      "id": "933300dcf60bb4c3666669eefffb8695",
-      "title": "Voll's powerful maiden T20I century leads Australia to 3-0 whitewash",
-      "summary": "The opener launched six sixes in her dominant display and the home side were never in the hunt before rain arrived",
-      "url": "https://www.espncricinfo.com/ci/content/story/1528924.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414857.jpg",
-      "published_at": "2026-03-24T02:47:35.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "వోల్ యొక్క శక్తివంతమైన తొలి T20I సెంచరీ ఆస్ట్రేలియాను 3-0 వైట్‌వాష్‌కు నడిపించింది",
-      "summary_te": "ఓపెనర్ తన ఆధిపత్య ప్రదర్శనలో ఆరు సిక్సర్లను ప్రారంభించింది మరియు వర్షం రాకముందు ఇంటి వైపు ఎప్పుడూ వేటలో లేదు",
       "translated": true
     }
   ]
