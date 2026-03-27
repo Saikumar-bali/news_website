@@ -1,21 +1,147 @@
 {
-  "updated_at": "2026-03-27T21:36:32.326Z",
-  "updated_at_IST": "28/3/2026, 3:06:32 am",
+  "updated_at": "2026-03-27T22:31:59.728Z",
+  "updated_at_IST": "28/3/2026, 4:01:59 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "ca2bbe27b770f6ef2526f21f9edae6da",
+      "title": "Indian ships face GPS jams, mine alerts in Hormuz",
+      "summary": "Ships in the region are reporting repeated radio broadcasts over maritime channels warning vessels against transit. “Attention all ships… This is the Sepah Navy… navigation through Strait of Hormuz is forbidden… no ship is allowed to pass until further notice,” the radio messages repeatedly blare. Crews attributed these announcements to Iran’s Islamic Revolutionary Guard Corps (IRGC) Navy.",
+      "url": "https://timesofindia.indiatimes.com/india/indian-ships-face-gps-jams-mine-alerts-in-hormuz/articleshow/129854681.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854678,imgsize-112986.cms",
+      "published_at": "2026-03-27T22:02:29.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారతీయ నౌకలు హార్ముజ్‌లో GPS జామ్‌లు, గని హెచ్చరికలను ఎదుర్కొంటాయి",
+      "summary_te": "ఈ ప్రాంతంలోని ఓడలు, రవాణాకు వ్యతిరేకంగా నౌకలను హెచ్చరిస్తూ సముద్ర ఛానెల్‌ల ద్వారా పదేపదే రేడియో ప్రసారాలను నివేదిస్తున్నాయి. \"అన్ని నౌకలపై దృష్టి పెట్టండి... ఇది సెపా నౌకాదళం... హార్ముజ్ జలసంధి గుండా నావిగేషన్ నిషేధించబడింది... తదుపరి నోటీసు వచ్చే వరకు ఏ ఓడను దాటడానికి అనుమతించబడదు\" అని రేడియో సందేశాలు పదే పదే వినిపిస్తున్నాయి. సిబ్బంది ఈ ప్రకటనలను ఇరాన్ యొక్క ఇస్లామిక్ రివల్యూషనరీ గార్డ్ కార్ప్స్ (IRGC) నేవీకి ఆపాదించారు.",
+      "translated": true
+    },
+    {
+      "id": "82ae7cddabc2f8582f6d59cc262cc4bc",
+      "title": "Commercial LPG allocation to states increased by 20%",
+      "summary": "In a letter to chief secretaries of states and UTs, petroleum secretary Neeraj Mittal said only those industrial units that have registered with oil marketing companies, declaring the end use of gas cylinders, and have also signed up for the piped gas network will be eligible for the additional quota of LPG. He added that if LPG is used by certain industrial units for special purposes that cannot be substituted by natural gas, such requirements would stand waived.",
+      "url": "https://timesofindia.indiatimes.com/india/commercial-lpg-allocation-to-states-increased-by-20/articleshow/129854679.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854675,imgsize-269102.cms",
+      "published_at": "2026-03-27T22:02:26.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "రాష్ట్రాలకు వాణిజ్య LPG కేటాయింపు 20% పెరిగింది",
+      "summary_te": "రాష్ట్రాలు మరియు కేంద్ర పాలిత ప్రాంతాల ప్రధాన కార్యదర్శులకు రాసిన లేఖలో పెట్రోలియం కార్యదర్శి నీరజ్ మిట్టల్ మాట్లాడుతూ, చమురు మార్కెటింగ్ కంపెనీలలో నమోదు చేసుకున్న, గ్యాస్ సిలిండర్ల తుది వినియోగాన్ని ప్రకటించి, పైప్డ్ గ్యాస్ నెట్‌వర్క్‌కు సైన్ అప్ చేసిన పారిశ్రామిక యూనిట్లు మాత్రమే అదనపు ఎల్‌పిజి కోటాకు అర్హులు. సహజ వాయువుతో ప్రత్యామ్నాయం చేయలేని ప్రత్యేక ప్రయోజనాల కోసం నిర్దిష్ట పారిశ్రామిక యూనిట్లు LPGని ఉపయోగిస్తే, అలాంటి అవసరాలు మినహాయించబడతాయని ఆయన అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "2d820372c63f0758384d244928ea1c75",
+      "title": "Clashes erupt during Ram Navami procession in Bengal's Murshidabad, security tightened",
+      "summary": "The situation turned volatile after an altercation during the procession escalated into violence, with both sides throwing stones at each other and vandalising property in the area",
+      "url": "https://www.thehindu.com/news/national/west-bengal/clashes-erupt-during-ram-navami-procession-in-bengals-murshidabad-security-tightened/article70794384.ece",
+      "image": null,
+      "published_at": "2026-03-27T22:01:52.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "బెంగాల్‌లోని ముర్షిదాబాద్‌లో రామనవమి ఊరేగింపు సందర్భంగా ఘర్షణలు చెలరేగడంతో భద్రతను కట్టుదిట్టం చేశారు",
+      "summary_te": "ఊరేగింపు సందర్భంగా జరిగిన వాగ్వాదం హింసాత్మకంగా మారడంతో పరిస్థితి అస్థిరంగా మారింది, ఇరువర్గాలు ఒకరిపై ఒకరు రాళ్లు రువ్వుకుని, ఆ ప్రాంతంలోని ఆస్తులను ధ్వంసం చేశారు.",
+      "translated": true
+    },
+    {
+      "id": "7caf61e387551da63c2289ec94c23220",
+      "title": "Lockdown reports‘harmful, baseless’, says govt, allays fear",
+      "summary": "Home minister Shah accused opposition parties of spreading panic over the West Asia crisis, including the claim that a lockdown may be imposed. “I want to assure everyone. Do not fear, nothing will happen. We have adequate reserves of petroleum products,” he said. While many countries had taken emergency measures, India was working to tide over the crisis without compromising the daily lives of people, he said, adding that it had ensured regular gas supply to homemakers.",
+      "url": "https://timesofindia.indiatimes.com/india/lockdown-reportsharmful-baseless-says-govt-allays-fear/articleshow/129854647.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854664,imgsize-66676.cms",
+      "published_at": "2026-03-27T21:55:10.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "లాక్‌డౌన్ నివేదికలు ‘హానికరమైనవి, నిరాధారమైనవి’ అని ప్రభుత్వం చెబుతోంది, భయాన్ని పోగొడుతుంది",
+      "summary_te": "లాక్‌డౌన్ విధించవచ్చనే వాదనతో సహా పశ్చిమాసియా సంక్షోభంపై ప్రతిపక్షాలు భయాందోళనలకు గురవుతున్నాయని హోం మంత్రి షా ఆరోపించారు. \"నేను ప్రతి ఒక్కరికీ భరోసా ఇవ్వాలనుకుంటున్నాను. భయపడవద్దు, ఏమీ జరగదు. మాకు తగినంత పెట్రోలియం ఉత్పత్తుల నిల్వలు ఉన్నాయి,\" అని అతను చెప్పాడు. అనేక దేశాలు అత్యవసర చర్యలు తీసుకున్నప్పటికీ, ప్రజల రోజువారీ జీవితాలతో రాజీ పడకుండా సంక్షోభాన్ని అధిగమించడానికి భారతదేశం కృషి చేస్తోందని, గృహనిర్మాతలకు సాధారణ గ్యాస్ సరఫరాను నిర్ధారించిందని ఆయన అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "5b8758ddb078df6e5ee28080a43d74ab",
+      "title": "NCERT reset, AI push: Pradhan spells out education roadmap",
+      "summary": "On the recent controversy involving UGC regulations aimed at maintaining standards, quality and equity in Indian higher education, Pradhan refrained from detailed comment, noting the matter is sub judice. “The govt’s responsibility is to ensure that no one faces injustice or discrimination. We will abide by whatever directions court issues,” he said. Outlining the ministry’s broader priorities, Pradhan said the education system currently serves around 30 crore students, placing significant responsibility on policymakers.",
+      "url": "https://timesofindia.indiatimes.com/india/ncert-reset-ai-push-pradhan-spells-out-education-roadmap/articleshow/129854464.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854462,imgsize-79834.cms",
+      "published_at": "2026-03-27T21:38:52.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "NCERT రీసెట్, AI పుష్: ప్రధాన్ ఎడ్యుకేషన్ రోడ్‌మ్యాప్‌ను వివరిస్తాడు",
+      "summary_te": "భారతీయ ఉన్నత విద్యలో ప్రమాణాలు, నాణ్యత మరియు ఈక్విటీని కాపాడేందుకు ఉద్దేశించిన UGC నిబంధనలకు సంబంధించిన ఇటీవలి వివాదంపై, ప్రధాన్ వివరణాత్మక వ్యాఖ్యను విరమించుకున్నారు, ఈ విషయం ఉపన్యాసమని పేర్కొన్నారు. \"ఎవరూ అన్యాయం లేదా వివక్షను ఎదుర్కోకుండా చూసుకోవడం ప్రభుత్వ బాధ్యత. కోర్టు సమస్యలు ఏవైనా ఆదేశాలు ఇచ్చినా మేము కట్టుబడి ఉంటాము\" అని ఆయన అన్నారు. మంత్రిత్వ శాఖ యొక్క విస్తృత ప్రాధాన్యతలను వివరిస్తూ, విద్యా వ్యవస్థ ప్రస్తుతం దాదాపు 30 కోట్ల మంది విద్యార్థులకు సేవలందిస్తోందని, విధాన నిర్ణేతలపై గణనీయమైన బాధ్యతను ఉంచుతుందని ప్రధాన్ అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "e08e59c7b744e7d5aa149ff055c7d090",
+      "title": "Defence, security at core of India-US ties: Sergio Gor",
+      "summary": "In an interview with the US embassy publication, Span magazine, the ambassador also spoke about the significance of Quad as he predicted further strengthening of defence ties. “India is a Major Defence Partner, and defence cooperation is one of the brightest spots in our bilateral relationship. We also strengthen US-India military interoperability through participation in military exercises such as Malabar, Tiger Triumph, and Cope India,” said Gor.",
+      "url": "https://timesofindia.indiatimes.com/india/defence-security-at-core-of-india-us-ties-sergio-gor/articleshow/129854442.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854447,imgsize-117208.cms",
+      "published_at": "2026-03-27T21:31:33.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "భారత్-అమెరికా సంబంధాలలో రక్షణ, భద్రత: సెర్గియో గోర్",
+      "summary_te": "యుఎస్ ఎంబసీ పబ్లికేషన్ స్పాన్ మ్యాగజైన్‌కి ఇచ్చిన ఇంటర్వ్యూలో, రాయబారి క్వాడ్ యొక్క ప్రాముఖ్యత గురించి కూడా మాట్లాడాడు, ఎందుకంటే అతను రక్షణ సంబంధాలను మరింత బలపరుస్తాడు. \"భారతదేశం ఒక ప్రధాన రక్షణ భాగస్వామి, మరియు రక్షణ సహకారం మా ద్వైపాక్షిక సంబంధాలలో ప్రకాశవంతమైన ప్రదేశాలలో ఒకటి. మలబార్, టైగర్ ట్రయంఫ్ మరియు కోప్ ఇండియా వంటి సైనిక విన్యాసాలలో పాల్గొనడం ద్వారా మేము US-భారత్ సైనిక పరస్పర చర్యను కూడా బలోపేతం చేస్తాము\" అని గోర్ అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "e583754549cb65accd417e18f995b244",
+      "title": "Fertilizer stock ample, working to ensure supply intact: Chouhan",
+      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
+      "url": "https://timesofindia.indiatimes.com/india/fertilizer-stock-ample-working-to-ensure-supply-intact-chouhan/articleshow/129854445.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854443,imgsize-75128.cms",
+      "published_at": "2026-03-27T21:27:33.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఎరువుల నిల్వ పుష్కలంగా ఉంది, సరఫరా చెక్కుచెదరకుండా పని చేస్తోంది: చౌహాన్",
+      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
+      "translated": true
+    },
     {
       "id": "d3661525486f18b03216fdec4eb6a3ba",
       "title": "5 India-bound LPG ships stay anchored near Hormuz Strait",
       "summary": "Appearing to bunch together so they can troop out of the strait, these ships carry more than 1.7 lakh tonnes of LPG",
       "url": "https://www.thehindu.com/news/national/5-india-bound-lpg-ships-stay-anchored-near-hormuz-strait/article70794162.ece",
       "image": "https://th-i.thgim.com/public/incoming/1x9pbr/article70794253.ece/alternates/LANDSCAPE_1200/2026-03-27T161753Z_1283682783_RC2B2KAL76JZ_RTRMADP_3_USA-ECONOMY.JPG",
-      "published_at": "2026-03-27T21:15:48.000Z",
+      "published_at": "2026-03-27T21:25:16.000Z",
       "source": "The Hindu",
       "category": "india",
       "language": "en",
       "title_te": "5 భారతదేశానికి వెళ్లే LPG నౌకలు హార్ముజ్ జలసంధి సమీపంలో లంగరు వేయబడి ఉన్నాయి",
       "summary_te": "జలసంధి నుండి బయటికి రావడానికి కలిసికట్టుగా కనిపిస్తున్న ఈ నౌకలు 1.7 లక్షల టన్నులకు పైగా ఎల్‌పిజిని తీసుకువెళతాయి.",
+      "translated": true
+    },
+    {
+      "id": "bd7ff26eff43b9b6ba4790d4ed958fb6",
+      "title": "Freedom of navigation important for global economic security: EAM Jaishankar",
+      "summary": "Jaishankar said on X he raised Global South’s concerns about energy challenges, fertiliser supplies and food security in the session on global governance. “The uncertainties arising from the conflict in West Asia only make a stronger case for more resilient trade corridors and supply chains,” he said. Jaishankar said on X India’s FTAs with the EU, EFTA members and the UK have enhanced the utility of IMEC.",
+      "url": "https://timesofindia.indiatimes.com/india/freedom-of-navigation-important-for-global-economic-security-eam-jaishankar/articleshow/129854298.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854373,imgsize-58550.cms",
+      "published_at": "2026-03-27T21:23:51.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రపంచ ఆర్థిక భద్రతకు నావిగేషన్ స్వేచ్ఛ ముఖ్యం: EAM జైశంకర్",
+      "summary_te": "గ్లోబల్ గవర్నెన్స్‌పై జరిగిన సెషన్‌లో ఇంధన సవాళ్లు, ఎరువుల సరఫరా మరియు ఆహార భద్రత గురించి గ్లోబల్ సౌత్ ఆందోళనలను తాను X లో లేవనెత్తినట్లు జైశంకర్ చెప్పారు. \"పశ్చిమాసియాలో వివాదం నుండి ఉత్పన్నమయ్యే అనిశ్చితులు మరింత స్థితిస్థాపకమైన వాణిజ్య కారిడార్లు మరియు సరఫరా గొలుసుల కోసం మాత్రమే బలమైన సందర్భాన్ని కలిగిస్తాయి\" అని ఆయన చెప్పారు. EU, EFTA సభ్యులు మరియు UKతో X భారతదేశం యొక్క FTAలు IMEC యొక్క ప్రయోజనాన్ని మెరుగుపరిచాయని జైశంకర్ చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "8cdaa1ff82ac7d1145b6ecda300709ce",
+      "title": "Diabetic drug metformin found to act on brain",
+      "summary": "A study published in Science Advances by Baylor College of Medicine has uncovered a hidden brain pathway that helps explain how metformin lowers blood sugar, offering fresh insight into a medicine used for over six decades. For years, metformin was believed to act mainly on the liver and gut. The new research shows it also works through the ventromedial hypothalamus — a small but crucial brain region that controls hunger, energy use and glucose balance.",
+      "url": "https://timesofindia.indiatimes.com/india/diabetic-drug-metformin-found-to-act-on-brain/articleshow/129854377.cms",
+      "image": "https://static.toiimg.com/photo/msid-129854379,imgsize-834720.cms",
+      "published_at": "2026-03-27T21:23:07.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "డయాబెటిక్ డ్రగ్ మెట్‌ఫార్మిన్ మెదడుపై పని చేస్తుందని కనుగొనబడింది",
+      "summary_te": "బేలర్ కాలేజ్ ఆఫ్ మెడిసిన్ సైన్స్ అడ్వాన్సెస్‌లో ప్రచురించిన ఒక అధ్యయనంలో మెట్‌ఫార్మిన్ బ్లడ్ షుగర్‌ను ఎలా తగ్గిస్తుంది, ఆరు దశాబ్దాలుగా ఉపయోగించిన ఔషధం గురించి తాజా అంతర్దృష్టిని అందించడంలో సహాయపడే రహస్య మెదడు మార్గాన్ని కనుగొంది. సంవత్సరాలుగా, మెట్‌ఫార్మిన్ ప్రధానంగా కాలేయం మరియు ప్రేగులపై పనిచేస్తుందని నమ్ముతారు. కొత్త పరిశోధన ఇది వెంట్రోమీడియల్ హైపోథాలమస్ ద్వారా కూడా పనిచేస్తుందని చూపిస్తుంది - ఇది ఆకలి, శక్తి వినియోగం మరియు గ్లూకోజ్ బ్యాలెన్స్‌ని నియంత్రించే చిన్న కానీ కీలకమైన మెదడు ప్రాంతం.",
       "translated": true
     },
     {
@@ -29,7 +155,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ప్రభుత్వ భూమిని లాక్కుంటే జన్ విశ్వాస్ బిల్లు జరిమానా, జైలు శిక్ష",
-      "summary_te": "శుక్రవారం లోక్‌సభలో ప్రవేశపెట్టిన బిల్లు - ప్రస్తుతం ఆరు నెలల జైలు శిక్ష లేదా రూ. 5,000 జరిమానా లేదా రెండూ విధించే పబ్లిక్ ప్రాంగణాల (అనధికారిక నిర్వాసితుల తొలగింపు) చట్టంలోని సెక్షన్-11ను సవరించాలని ప్రతిపాదించింది. ప్రతిపాదన ప్రకారం, ఆక్రమణ చేసిన ప్రతి సంవత్సరానికి భూమి విలువలో 5% జరిమానా లేదా రెండూ - జరిమానా మరియు జైలు. దీంతో ఆక్రమణలను అరికట్టవచ్చని, భూకబ్జాలను అరికట్టవచ్చని అధికారులు తెలిపారు.",
+      "summary_te": "శుక్రవారం లోక్‌సభలో ప్రవేశపెట్టిన బిల్లు - ప్రస్తుతం ఆరు నెలల జైలు శిక్ష లేదా రూ. 5,000 జరిమానా లేదా రెండూ విధించే పబ్లిక్ ప్రాంగణాల (అనధికారిక నిర్వాసితుల తొలగింపు) చట్టంలోని సెక్షన్-11ను సవరించాలని ప్రతిపాదించింది. ప్రతిపాదన ప్రకారం, ఆక్రమణకు గురైన ప్రతి సంవత్సరానికి భూమి విలువలో 5% జరిమానా లేదా రెండూ - పెనాల్టీ మరియు జైలు. దీంతో ఆక్రమణలను అరికట్టవచ్చని, భూకబ్జాలను అరికట్టవచ్చని అధికారులు తెలిపారు.",
       "translated": true
     },
     {
@@ -170,20 +296,6 @@
       "language": "en",
       "title_te": "ఈ వారం ప్రారంభంలో ఇరాన్ యుద్ధంపై ప్రధాని మోదీతో ట్రంప్ పిలుపులో ఎలోన్ మస్క్ చేరారు: నివేదిక",
       "summary_te": "హార్ముజ్ జలసంధిని తెరిచి, సురక్షితంగా మరియు అందుబాటులో ఉంచడం యొక్క ప్రాముఖ్యతను ఇరువురు నేతలు నొక్కిచెప్పడంతో, ఈ సంభాషణ పశ్చిమాసియాలో అభివృద్ధి చెందుతున్న పరిస్థితులపై దృష్టి సారించింది. కీలకమైన సముద్ర కారిడార్ ప్రపంచ చమురు రవాణాలో గణనీయమైన వాటాను నిర్వహిస్తుంది మరియు అంతర్జాతీయ ఇంధన మార్కెట్లకు కీలకంగా ఉంటుంది. అయితే, మస్క్‌ను కాల్‌లో ఎందుకు చేర్చారు లేదా అతను మాట్లాడాడా అనేది అస్పష్టంగా ఉంది.",
-      "translated": true
-    },
-    {
-      "id": "96e12dd4b362df0d9ee93960aaffb226",
-      "title": "Fans react as Ayesha Curry’s 'disrespectful' comment about Stephen Curry",
-      "summary": "Ayesha Curry's innocent childhood anecdote about not wanting to date athletes, shared on a podcast, was misconstrued online as a present-day insult to husband Stephen Curry. The internet's harsh reaction, fueled by a lack of context, transformed a lighthearted story about teenage misconceptions into a viral controversy, sparking debates about their marriage and Steph's choices.",
-      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/feel-sorry-for-him-fans-react-as-ayesha-currys-disrespectful-comment-about-stephen-curry-goes-viral/articleshow/129854225.cms",
-      "image": "https://static.toiimg.com/photo/msid-129854223,imgsize-33990.cms",
-      "published_at": "2026-03-27T20:14:39.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "స్టీఫెన్ కర్రీ గురించి అయేషా కర్రీ 'అగౌరవంగా' వ్యాఖ్యానించడంతో అభిమానులు ప్రతిస్పందించారు",
-      "summary_te": "పాడ్‌క్యాస్ట్‌లో భాగస్వామ్యం చేయబడిన క్రీడాకారులతో డేటింగ్ చేయకూడదని ఆయేషా కర్రీ యొక్క అమాయక చిన్ననాటి వృత్తాంతం, భర్త స్టీఫెన్ కర్రీకి ప్రస్తుత అవమానంగా ఆన్‌లైన్‌లో తప్పుగా భావించబడింది. ఇంటర్నెట్ యొక్క కఠినమైన ప్రతిస్పందన, సందర్భం లేకపోవడంతో ఆజ్యం పోసింది, టీనేజ్ అపోహల గురించి తేలికైన కథనాన్ని వైరల్ వివాదంగా మార్చింది, వారి వివాహం మరియు స్టెఫ్ యొక్క ఎంపికల గురించి చర్చలకు దారితీసింది.",
       "translated": true
     },
     {
@@ -351,7 +463,7 @@
       "category": "india",
       "language": "en",
       "title_te": "బలమైన వాణిజ్య కారిడార్లు మరియు సరఫరా గొలుసులు అవసరమని జైశంకర్ చెప్పారు",
-      "summary_te": "విదేశీ వ్యవహారాల మంత్రి IMEC వంటి స్థితిస్థాపక వాణిజ్య కారిడార్‌ల ప్రాముఖ్యతను నొక్కి చెప్పారు, ముఖ్యంగా పశ్చిమాసియా సంఘర్షణల అనిశ్చితుల మధ్య; ప్రపంచ ఆర్థిక భద్రతను నిర్ధారించడానికి నావిగేషన్ స్వేచ్ఛ కోసం పిలుపునిచ్చింది",
+      "summary_te": "విదేశీ వ్యవహారాల మంత్రి IMEC వంటి స్థితిస్థాపక వాణిజ్య కారిడార్‌ల ప్రాముఖ్యతను నొక్కిచెప్పారు, ముఖ్యంగా పశ్చిమాసియా సంఘర్షణల అనిశ్చితుల మధ్య; ప్రపంచ ఆర్థిక భద్రతను నిర్ధారించడానికి నావిగేషన్ స్వేచ్ఛ కోసం పిలుపునిచ్చింది",
       "translated": true
     },
     {
@@ -523,48 +635,6 @@
       "translated": true
     },
     {
-      "id": "331fc27a38b8f77cd5c799af66a9056d",
-      "title": "Sabrina Carpenter’s bold stance resurfaces as Shaquille O'Neal battles fake DM rumors",
-      "summary": "Shaquille O'Neal, the NBA legend, has found himself in a mess after he was accused of sending inappropriate texts to popular pop star Sabrina Carpenter.This news has sparked panic among fans as many troll Shaquille O'Neal for allegedly pursuing Sabrina Carpenter despite their massive age gap, with alleged inappropriate texts. Amid this, popstar Sabrina Carpenter’s powerful words have resurfaced on her moves in her concerts.",
-      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/my-message-has-always-been-clear-sabrina-carpenters-bold-stance-resurfaces-as-shaquille-oneal-battles-fake-dm-rumors/articleshow/129853769.cms",
-      "image": "https://static.toiimg.com/photo/msid-129853952,imgsize-976291.cms",
-      "published_at": "2026-03-27T19:30:40.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "షాకిల్ ఓ నీల్ నకిలీ DM పుకార్లతో పోరాడుతున్నప్పుడు సబ్రినా కార్పెంటర్ యొక్క ధైర్యమైన వైఖరి మళ్లీ తెరపైకి వచ్చింది",
-      "summary_te": "ప్రముఖ పాప్ స్టార్ సబ్రినా కార్పెంటర్‌కు తగని టెక్స్ట్‌లు పంపాడనే ఆరోపణలతో NBA లెజెండ్ షాకిల్ ఓ నీల్ గందరగోళంలో పడ్డాడు. ఈ వార్త చాలా మంది ట్రోల్ చేయడంతో షాకిల్ ఓ నీల్ చాలా మంది సబ్రినా కార్పెంటర్‌ను వెంబడించడంతో అభిమానులలో భయాందోళనలకు గురయ్యారు. దీని మధ్య, పాప్‌స్టార్ సబ్రినా కార్పెంటర్ యొక్క శక్తివంతమైన పదాలు ఆమె కచేరీలలో ఆమె కదలికలపై మళ్లీ తెరపైకి వచ్చాయి.",
-      "translated": true
-    },
-    {
-      "id": "254de8e3c408de0e90b91939f57e2801",
-      "title": "Spiritual ecstasy marks ‘Sri Rama Navami’ festivities in Tirupati",
-      "summary": "Special rituals and prayers marked the auspicious ‘Sri Rama Navami’ festival observed at various temples in Tirupati on Friday (March 27).The festivities began at the centuries-old Sri Kodandarama Swamy temple, belonging to the Tirumala Tirupati Devasthanams (TTD) and located in the heart of Tirupati, which is considered equivalent to those in Bhadrachalam and Vontimitta in terms of reverence.The temple recently witnessed the nine-day annual Brahmotsavam, while the Rama Navami festivities follow close on its heels.The three-day event includes Sri Rama Navami, Sita Rama Kalyanam and Srirama Pattabhishekam, viz., Lord Rama’s Jayanti, his divine wedding with Sita and coronation as the emperor, observed on March 27, 28 and 29 respectively.The event was also observed in various other temples in a grand manner. As is the practice observed for the last thirty years, devotees of Uttaradhi Mutt pulled a mini chariot carrying the idols of Rama, Sita, Lakshmana and Hanuman, from its Mitta Street premises around the Kodandarama temple precincts.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/spiritual-ecstasy-marks-sri-rama-navami-festivities-in-tirupati/article70791572.ece",
-      "image": "https://th-i.thgim.com/public/incoming/tn4v4p/article70793382.ece/alternates/LANDSCAPE_1200/9604_27_3_2026_15_24_31_2_WHATSAPPIMAGE2026_03_27AT103840.JPEG",
-      "published_at": "2026-03-27T19:28:12.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఆధ్యాత్మిక పారవశ్యం తిరుపతిలో ‘శ్రీరామ నవమి’ ఉత్సవాలను సూచిస్తుంది",
-      "summary_te": "శుక్రవారం (మార్చి 27) తిరుపతిలోని వివిధ ఆలయాల్లో ‘శ్రీరామ నవమి’ పండుగను పురస్కరించుకుని ప్రత్యేక పూజలు మరియు ప్రార్థనలు జరిగాయి. తిరుమల తిరుపతి దేవస్థానం (టిటిడి)కి చెందిన శతాబ్దాల నాటి శ్రీ కోదండరామ స్వామి ఆలయంలో ఉత్సవాలు ప్రారంభమయ్యాయి మరియు తిరుపతి నడిబొడ్డున ఉన్నాయి. తొమ్మిది రోజుల వార్షిక బ్రహ్మోత్సవాలకు సాక్ష్యమివ్వగా, రామ నవమి ఉత్సవాలు ముగిశాయి. మూడు రోజుల కార్యక్రమంలో శ్రీరామ నవమి, సీతా రామ కల్యాణం మరియు శ్రీరామ పట్టాభిషేకం, శ్రీరాముని జయంతి, సీతాతో అతని దివ్య వివాహం మరియు చక్రవర్తిగా పట్టాభిషేకం, మార్చి 27, 28 న వివిధ కార్యక్రమాలు జరిగాయి. గత ముప్పై సంవత్సరాలుగా ఆచరిస్తున్న ఆచారం ప్రకారం, ఉత్తరాది మఠం భక్తులు రాముడు, సీత, లక్ష్మణ మరియు హనుమంతుని విగ్రహాలను మోస్తున్న మినీ రథాన్ని దాని మిట్ట వీధి ప్రాంగణం నుండి కోదండరామ ఆలయ ప్రాంగణం చుట్టూ లాగారు.",
-      "translated": true
-    },
-    {
-      "id": "eea385e0dc99c96b1e8c58ba396b97b5",
-      "title": "UK MP says US report on rise in anti-Indian hate online ‘deeply concerning’",
-      "summary": "Blackman, who represents Harrow East, where Hindus were recently attacked celebrating Holi, said of the report: “This is a coordinated campaign driven by a small number of accounts deliberately targeting the Indian community, its culture, and its contribution to public life. It is racism, plain and simple. The Indian diaspora here in Harrow, across the UK, and the world, makes an extraordinary contribution to our societies. That contribution deserves celebration. I will always stand against any form of discrimination targeting our Indian community.\"",
-      "url": "https://timesofindia.indiatimes.com/world/uk/uk-mp-says-us-report-on-rise-in-anti-indian-hate-online-deeply-concerning/articleshow/129853225.cms",
-      "image": "https://static.toiimg.com/photo/msid-129853198,imgsize-1231208.cms",
-      "published_at": "2026-03-27T18:56:10.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఆన్‌లైన్‌లో భారతీయ వ్యతిరేక ద్వేషం పెరగడంపై అమెరికా నివేదిక 'తీవ్ర ఆందోళన కలిగిస్తోందని' UK ఎంపీ అన్నారు.",
-      "summary_te": "ఇటీవల హోలీ జరుపుకుంటున్న హిందువులపై దాడికి గురైన హారో ఈస్ట్‌కు ప్రాతినిధ్యం వహిస్తున్న బ్లాక్‌మ్యాన్ నివేదిక గురించి ఇలా అన్నాడు: “ఇది ఉద్దేశపూర్వకంగా భారతీయ సమాజం, దాని సంస్కృతి మరియు ప్రజా జీవితానికి దాని సహకారం లక్ష్యంగా తక్కువ సంఖ్యలో ఖాతాల ద్వారా నడిచే సమన్వయ ప్రచారం. ఇది జాత్యహంకారం, సాదాసీదా మరియు సరళమైనది. మన భారతీయ సమాజాన్ని లక్ష్యంగా చేసుకునే ఎలాంటి వివక్షకు వ్యతిరేకంగా నేను ఎల్లప్పుడూ నిలబడతాను.",
-      "translated": true
-    },
-    {
       "id": "ce43ec47581df58986642e195b354ae4",
       "title": "Man hangs daughters, 10 and 11, upside down overnight over theft suspicion; 1 dead",
       "summary": "Man hangs daughters, 10 and 11, upside down overnight over theft suspicion; 1 dead",
@@ -632,34 +702,6 @@
       "language": "en",
       "title_te": "బాలేంద్ర షా 15 మంది సభ్యుల కేబినెట్‌లో 5 మంది మహిళా మంత్రులు కీలక శాఖలు కలిగి ఉన్నారు.",
       "summary_te": "కొత్తగా నియమితులైన మంత్రులు శుక్రవారం పదవీ ప్రమాణం మరియు గోప్యత ప్రమాణం చేశారు, రాష్ట్రపతి రామ్ చంద్ర పాడెల్ చేత నిర్వహించబడింది.",
-      "translated": true
-    },
-    {
-      "id": "8427d722c0a2478a79f974462f7e3363",
-      "title": "Hydel power projects in J&K on fast track after Indus treaty abeyance: Omar",
-      "summary": "India last year placed the IWT in abeyance after the Pahalgam terror attack as part of a series of measures announced by PM Narendra Modi, including the suspension of the decades-old water-sharing pact. The treaty was signed between India and Pakistan in 1960 for sharing of Indus river system waters. According to the treaty, India got the full rights for utilization of waters of the three eastern rivers — Ravi, Beas and Satluj — while Pakistan got rights over the three western rivers, Indus, Chenab and Jhelum.",
-      "url": "https://timesofindia.indiatimes.com/india/hydel-power-projects-in-jk-on-fast-track-after-indus-treaty-abeyance-omar/articleshow/129852966.cms",
-      "image": "https://static.toiimg.com/photo/msid-129852959,imgsize-15956.cms",
-      "published_at": "2026-03-27T18:35:58.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "సింధు ఒప్పందం రద్దు తర్వాత J&Kలో హైడల్ పవర్ ప్రాజెక్ట్‌లు వేగంగా జరుగుతున్నాయి: ఒమర్",
-      "summary_te": "దశాబ్దాల నాటి నీటి భాగస్వామ్య ఒప్పందాన్ని సస్పెండ్ చేయడంతో సహా PM నరేంద్ర మోడీ ప్రకటించిన వరుస చర్యలలో భాగంగా పహల్గామ్ ఉగ్రదాడి తర్వాత భారతదేశం గత సంవత్సరం IWTని నిలిపివేసింది. 1960లో సింధు నదీ జలాలను పంచుకోవడం కోసం భారతదేశం మరియు పాకిస్తాన్ మధ్య ఒప్పందం కుదిరింది. ఈ ఒడంబడిక ప్రకారం మూడు తూర్పు నదులైన రావి, బియాస్ మరియు సట్లూజ్ జలాల వినియోగానికి భారతదేశానికి పూర్తి హక్కులు లభిస్తుండగా, పాక్‌కు మూడు పశ్చిమ నదులైన సింధు, చీనాబ్ మరియు జీలం మీద హక్కులు ఉన్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "7614cadcb2a761511977cd4e6266f56a",
-      "title": "High-altitude unit spawned by Pahalgam attack, trained by AP’s Greyhounds",
-      "summary": "Snow Leopards were raised to strengthen high-altitude operations, including mountain tops and ridges, the official said. The Markhor batches are trained for forests and rugged mountainous areas long used by terrorists as hideouts. Its name is derived from a Persian term meaning “snake eater,” symbolising agility and resilience. Both units are equipped with modern weapons and communication systems.",
-      "url": "https://timesofindia.indiatimes.com/india/high-altitude-unit-spawned-by-pahalgam-attack-trained-by-aps-greyhounds/articleshow/129852858.cms",
-      "image": "https://static.toiimg.com/photo/msid-129852885,imgsize-12090.cms",
-      "published_at": "2026-03-27T18:32:58.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "AP యొక్క గ్రేహౌండ్స్ ద్వారా శిక్షణ పొందిన పహల్గామ్ దాడి ద్వారా అధిక-ఎత్తులో ఉన్న యూనిట్",
-      "summary_te": "పర్వత శిఖరాలు మరియు శిఖరాలతో సహా అధిక ఎత్తులో కార్యకలాపాలను బలోపేతం చేయడానికి మంచు చిరుతలను పెంచినట్లు అధికారి తెలిపారు. మర్ఖోర్ బ్యాచ్‌లు అడవులు మరియు కఠినమైన పర్వత ప్రాంతాల కోసం చాలా కాలంగా ఉగ్రవాదులు రహస్య స్థావరాలుగా ఉపయోగిస్తున్నారు. దీని పేరు పెర్షియన్ పదం నుండి ఉద్భవించింది, దీని అర్థం \"పాము తినేవాడు\", చురుకుదనం మరియు స్థితిస్థాపకతను సూచిస్తుంది. రెండు యూనిట్లు ఆధునిక ఆయుధాలు మరియు కమ్యూనికేషన్ వ్యవస్థలతో అమర్చబడి ఉంటాయి.",
       "translated": true
     },
     {
@@ -981,7 +1023,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పశ్చిమాసియాలోని 12వ తరగతి విద్యార్థుల కోసం CBSE ప్రత్యామ్నాయ అసెస్‌మెంట్ పథకాన్ని ప్రకటించింది",
-      "summary_te": "CBSE బోర్డు పరీక్షలు 2026: పశ్చిమాసియా దేశాలలో మార్చి 16 నుండి ఏప్రిల్ 10 వరకు షెడ్యూల్ చేయబడిన అన్ని 12వ తరగతి పరీక్షలు, గతంలో వాయిదా వేసిన పరీక్షలతో సహా రద్దు చేయబడ్డాయి.",
+      "summary_te": "CBSE బోర్డ్ పరీక్షలు 2026: పశ్చిమాసియా దేశాలలో మార్చి 16 నుండి ఏప్రిల్ 10 వరకు షెడ్యూల్ చేయబడిన అన్ని 12వ తరగతి పరీక్షలు, గతంలో వాయిదా వేసిన పరీక్షలతో సహా రద్దు చేయబడ్డాయి.",
       "translated": true
     },
     {
@@ -1149,7 +1191,7 @@
       "category": "india",
       "language": "en",
       "title_te": "చెన్నైలోని అన్నా యూనివర్శిటీలో ప్రొఫెసర్ లైంగిక వేధింపులకు పాల్పడుతున్నాడని విద్యార్థిని ఆరోపించింది",
-      "summary_te": "ప్రొఫెసర్ తరచూ తనకు అసభ్యకరమైన సందేశాలు పంపేవాడని, అర్థరాత్రి తనకు ఫోన్ చేసి అనుచిత సంభాషణలు చేసేవాడని విద్యార్థిని ఆరోపించింది.",
+      "summary_te": "ప్రొఫెసర్ తనకు తరచూ అసభ్యకరమైన సందేశాలు పంపేవాడని, అర్థరాత్రి తనకు ఫోన్ చేసి అనుచిత సంభాషణలు చేసేవాడని విద్యార్థిని ఆరోపించింది.",
       "translated": true
     },
     {
@@ -1349,20 +1391,6 @@
       "translated": true
     },
     {
-      "id": "de56e22b35f36c533bf669037ceda06c",
-      "title": "‘Josh Hazlewood returns but…’: RCB coach gives key fitness update before SRH clash",
-      "summary": "RCB coach Andy Flower views the IPL's Impact Player rule as a positive tactical innovation, enhancing strategic decisions despite concerns about diluting team selection challenges. He also confirmed Josh Hazlewood's arrival but unavailability for the opener, expressing confidence in other Indian pacers like Mangesh, Abhinandan, and Rasik to fill the void.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/josh-hazlewood-returns-but-rcb-coach-gives-key-fitness-update-before-srh-clash/articleshow/129849363.cms",
-      "image": "https://static.toiimg.com/photo/msid-129849427,imgsize-193434.cms",
-      "published_at": "2026-03-27T14:11:26.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'జోష్ హేజిల్‌వుడ్ తిరిగి వస్తాడు కానీ...': SRH ఘర్షణకు ముందు RCB కోచ్ కీలకమైన ఫిట్‌నెస్ అప్‌డేట్ ఇచ్చాడు",
-      "summary_te": "RCB కోచ్ ఆండీ ఫ్లవర్ IPL యొక్క ఇంపాక్ట్ ప్లేయర్ నియమాన్ని సానుకూల వ్యూహాత్మక ఆవిష్కరణగా భావించారు, జట్టు ఎంపిక సవాళ్లను పలుచన చేయడం గురించి ఆందోళనలు ఉన్నప్పటికీ వ్యూహాత్మక నిర్ణయాలను మెరుగుపరుస్తారు. అతను జోష్ హేజిల్‌వుడ్ రాకను ధృవీకరించాడు, అయితే ఓపెనర్‌కు అందుబాటులో లేడని, శూన్యతను పూరించడానికి మంగేష్, అభినందన్ మరియు రసిక్ వంటి ఇతర భారత పేసర్లపై విశ్వాసం వ్యక్తం చేశాడు.",
-      "translated": true
-    },
-    {
       "id": "3ac8249a4bbc7bf84c57a508442de582",
       "title": "5 Haryana cops among 8 acquitted in gangster Sandeep Gadoli 'fake encounter' case",
       "summary": "5 Haryana cops among 8 acquitted in gangster Sandeep Gadoli 'fake encounter' case",
@@ -1374,34 +1402,6 @@
       "language": "en",
       "title_te": "గ్యాంగ్‌స్టర్ సందీప్ గడోలీ 'ఫేక్ ఎన్‌కౌంటర్' కేసులో ఐదుగురు హర్యానా పోలీసులతో పాటు 8 మందిని నిర్దోషులుగా విడుదల చేశారు.",
       "summary_te": "గ్యాంగ్‌స్టర్ సందీప్ గడోలీ 'ఫేక్ ఎన్‌కౌంటర్' కేసులో ఐదుగురు హర్యానా పోలీసులతో పాటు 8 మందిని నిర్దోషులుగా విడుదల చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "2774a9ce24fe026b7f8a7ee7b7e1196c",
-      "title": "Over 17,000 Sal trees to be felled in Uttarakhand’s Dehradun and Kalsi to contain beetle attack",
-      "summary": "Over 17,000 sal trees in Dehradun to be felled after borer infestation; officials say felling is key to contain spread and protect forests.",
-      "url": "https://www.hindustantimes.com/india-news/over-17000-sal-trees-to-be-felled-in-uttarakhand-s-dehradun-and-kalsi-to-contain-beetle-attack-101774620392881.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/1600x900/logo/Forest-officials-said-on-Friday-that-nearly-15-000_1774620866787.jpg",
-      "published_at": "2026-03-27T14:06:32.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "బీటిల్ దాడిని అరికట్టేందుకు ఉత్తరాఖండ్‌లోని డెహ్రాడూన్ మరియు కల్సిలో 17,000 పైగా సాల్ చెట్లను నరికివేయనున్నారు",
-      "summary_te": "డెహ్రాడూన్‌లో 17,000కు పైగా సాల్ చెట్లు బోర్ సోకిన తర్వాత నరికివేయబడతాయి; అడవులు వ్యాప్తి చెందడానికి మరియు రక్షించడానికి నరికివేత కీలకమని అధికారులు చెబుతున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "3ad5b7fd04729836b4ef08188d38c6b6",
-      "title": "Maharashtra's Fishing Industry Hits Rough Seas As Rising Diesel Costs Anchor Boats",
-      "summary": "The situation has sparked significant resentment among local communities, who allege a disparity in how regional grievances are addressed.",
-      "url": "https://www.ndtv.com/india-news/maharashtras-fishing-industry-hits-rough-seas-as-rising-diesel-costs-anchor-boats-11275370#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2021-06/1a45bbc8_fishing-boat-generic-unsplash_625x300_06_June_21.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-27T14:04:15.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "డీజిల్ ధరల యాంకర్ బోట్లు పెరగడంతో మహారాష్ట్రలోని ఫిషింగ్ పరిశ్రమ రఫ్ సీలను తాకింది",
-      "summary_te": "ఈ పరిస్థితి స్థానిక కమ్యూనిటీలలో గణనీయమైన ఆగ్రహాన్ని రేకెత్తించింది, వారు ప్రాంతీయ ఫిర్యాదులను ఎలా పరిష్కరించాలో అసమానతలను ఆరోపిస్తున్నారు.",
       "translated": true
     }
   ]
