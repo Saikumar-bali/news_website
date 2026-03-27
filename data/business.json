@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-27T22:31:59.728Z",
-  "updated_at_IST": "28/3/2026, 4:01:59 am",
+  "updated_at": "2026-03-27T23:34:33.759Z",
+  "updated_at_IST": "28/3/2026, 5:04:33 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "0e12b667972b68d83e4b51a84cb709f7",
+      "title": "Tiger Woods Arrested for DUI in Florida Rollover Car Crash",
+      "summary": "Tiger Woods was arrested Friday afternoon for driving under the influence after crashing his vehicle into another car in Jupiter Island, Florida, the Martin County Sheriff’s Office said.",
+      "url": "https://www.livemint.com/news/tiger-woods-arrested-for-dui-in-florida-rollover-car-crash-11774653459783.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/news4_1733464472752_1733464484649.jpg",
+      "published_at": "2026-03-27T23:17:39.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఫ్లోరిడా రోల్‌ఓవర్ కార్ క్రాష్‌లో DUI కోసం టైగర్ వుడ్స్ అరెస్టయ్యాడు",
+      "summary_te": "ఫ్లోరిడాలోని జూపిటర్ ఐలాండ్‌లో తన వాహనాన్ని మరో కారుతో ఢీకొట్టిన తర్వాత మద్యం మత్తులో డ్రైవింగ్ చేసినందుకు టైగర్ వుడ్స్‌ను శుక్రవారం మధ్యాహ్నం అరెస్టు చేసినట్లు మార్టిన్ కౌంటీ షెరీఫ్ కార్యాలయం తెలిపింది.",
+      "translated": true
+    },
     {
       "id": "6286a60d7f47af628fd1466823eee6de",
       "title": "Guest on call about US-Iran conflict? Elon Musk joined PM Modi-Donald Trump call, says Report",
@@ -267,7 +281,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'సర్, యే మీమ్స్ బ్యాండ్ నహీ హోనే చాహియే': రాఘవ్ చద్దా తన పార్లమెంటు ప్రసంగాలపై మెమ్ ఫెస్ట్‌లో చేరారు",
-      "summary_te": "పంజాబ్‌కు చెందిన 37 ఏళ్ల రాజ్యసభ ఎంపీ ప్రస్తుతం జరుగుతున్న బడ్జెట్ సెషన్‌లో రోజువారీ సమస్యలను లేవనెత్తుతున్నారు.",
+      "summary_te": "పంజాబ్‌కు చెందిన 37 ఏళ్ల రాజ్యసభ ఎంపీ కొనసాగుతున్న బడ్జెట్ సెషన్‌లో రోజువారీ సమస్యలను చురుకుగా లేవనెత్తారు.",
       "translated": true
     },
     {
@@ -422,20 +436,6 @@
       "language": "en",
       "title_te": "పితృత్వ సెలవు సమయంలో పని చేయమని అడిగారు: హైదరాబాద్ టెక్కీ పోస్ట్ ఆగ్రహాన్ని రేకెత్తిస్తుంది; 'హద్దులు సెట్ చేయండి' అని నెటిజన్లు సలహా ఇస్తున్నారు",
       "summary_te": "తన ప్రీమెచ్యూర్ బేబీ ఎన్‌ఐసియులో ఉన్నప్పటికీ, పితృత్వ సెలవు సమయంలో పని చేయమని ఒత్తిడి చేయబడిందని ఆరోపిస్తూ కొత్త తండ్రి చేసిన రెడ్డిట్ పోస్ట్ ఆన్‌లైన్‌లో విస్తృతమైన ఆగ్రహాన్ని రేకెత్తించింది, వినియోగదారులు విషపూరిత కార్యాలయ సంస్కృతిని పిలుస్తున్నారు.",
-      "translated": true
-    },
-    {
-      "id": "db96d2a0d5f3671244b044dd3944a81e",
-      "title": "Russian man, Barron Trump and ‘jealousy’: Matvei Rumiantsev assaulted woman on video call, get 4 years in jail",
-      "summary": "The case unexpectedly involved US President Donald Trump’s son Barron Trump, who told UK police he’d witnessed the attack during a video call last year.",
-      "url": "https://www.livemint.com/news/world/russian-man-barron-trump-and-jealousy-matvei-rumiantsev-assaulted-woman-on-video-call-get-4-years-in-jail-11774621654918.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/NEW-YORK-VEHICLE-CRASH-4_1723281283998_1774622117572.JPG",
-      "published_at": "2026-03-27T14:44:34.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "రష్యన్ వ్యక్తి, బారన్ ట్రంప్ మరియు 'అసూయ': వీడియో కాల్‌లో మహిళపై మాట్వీ రుమియాంట్సేవ్ దాడి చేశాడు, 4 సంవత్సరాల జైలు శిక్ష",
-      "summary_te": "ఈ కేసులో ఊహించని విధంగా US అధ్యక్షుడు డొనాల్డ్ ట్రంప్ కుమారుడు బారన్ ట్రంప్ పాల్గొన్నాడు, అతను UK పోలీసులకు గత సంవత్సరం వీడియో కాల్ సమయంలో దాడిని చూశానని చెప్పాడు.",
       "translated": true
     },
     {

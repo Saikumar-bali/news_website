@@ -1,9 +1,107 @@
 {
-  "updated_at": "2026-03-27T22:31:59.728Z",
-  "updated_at_IST": "28/3/2026, 4:01:59 am",
+  "updated_at": "2026-03-27T23:34:33.759Z",
+  "updated_at_IST": "28/3/2026, 5:04:33 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "317c4795ca6ef039c99fca3bf4c89980",
+      "title": "EC seeks report on Mamata’s ‘provocative’ remark from CEO",
+      "summary": "With her statement seen as a provocation to TMC women workers and supporters to launch attacks at polling stations in rural areas, posing a risk to the central armed police forces deployed there, of facing criminal charges were they to intervene and stop them, EC will examine if the statement amounts of provocation and interferes in discharge of duties by poll and security personnel.",
+      "url": "https://timesofindia.indiatimes.com/india/ec-seeks-report-on-mamatas-provocative-remark-from-ceo/articleshow/129856936.cms",
+      "image": "https://static.toiimg.com/photo/msid-129856934,imgsize-94004.cms",
+      "published_at": "2026-03-27T23:13:11.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మమత 'రెచ్చగొట్టే' వ్యాఖ్యలపై నివేదికను EC CEO నుండి కోరింది",
+      "summary_te": "టీఎంసీ మహిళా కార్యకర్తలు, మద్దతుదారులు గ్రామీణ ప్రాంతాల్లోని పోలింగ్‌ కేంద్రాల వద్ద దాడులకు దిగడం, అక్కడ మోహరించిన కేంద్ర సాయుధ పోలీసు బలగాలకు ప్రమాదం వాటిల్లడం, నేరారోపణలు ఎదుర్కోవాల్సి వస్తోందని, వారు జోక్యం చేసుకుని వారిని నిలువరిస్తే, ఎన్నికల సంఘం మహిళా కార్యకర్తలు, మద్దతుదారులను రెచ్చగొట్టేలా ఆమె చేసిన ప్రకటన, ఎన్నికల సిబ్బంది, భద్రతా సిబ్బంది విధుల నిర్వహణలో జోక్యం చేసుకుంటుందా అనే విషయాన్ని ఈసీ పరిశీలిస్తుంది.",
+      "translated": true
+    },
+    {
+      "id": "9859f32659825b2110ecc8eb71fe91ff",
+      "title": "Pilots of VIP charters can now refuse to fly in unsafe conditions",
+      "summary": "Noting that VVIPs “use air travel frequently for electioneering and other purposes in (small) aircraft” and choppers, DGCA said, “Analysis of earlier accidents/incidents associated with aircraft operations to/from airstrips/temporary helipads and during election flying has often revealed violation of instructions and safety was jeopardised. It is essential that adequate measures are taken by all concerned to ensure the highest standards of safety for operation of such flights.”",
+      "url": "https://timesofindia.indiatimes.com/india/pilots-of-vip-charters-can-now-refuse-to-fly-in-unsafe-conditions/articleshow/129856924.cms",
+      "image": "https://static.toiimg.com/photo/msid-129856923,imgsize-81756.cms",
+      "published_at": "2026-03-27T23:08:06.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "VIP చార్టర్‌ల పైలట్‌లు ఇప్పుడు అసురక్షిత పరిస్థితుల్లో ప్రయాణించడానికి నిరాకరించవచ్చు",
+      "summary_te": "వీవీఐపీలు ఎన్నికల ప్రచారం కోసం తరచుగా విమాన ప్రయాణాన్ని (చిన్న) విమానాల్లో మరియు చాపర్‌లలో ఉపయోగిస్తారని పేర్కొన్న DGCA, “విమానాల ఆపరేషన్‌లకు సంబంధించి గతంలో జరిగిన ప్రమాదాలు/సంఘటనలను విశ్లేషించి, విమానయాన స్ట్రిప్‌లు/తాత్కాలిక హెలిప్యాడ్‌లు మరియు ఎన్నికల సమయంలో అత్యంత ప్రమాణాలను ఉల్లంఘించినట్లు నిర్ధారిస్తుంది. అటువంటి విమానాల నిర్వహణ కోసం భద్రత.",
+      "translated": true
+    },
+    {
+      "id": "f4985b51b589d18d18bcbf4bff051cbd",
+      "title": "12 lakh on Bengal’s 2nd supplementary list, but no clarity on who made the cut",
+      "summary": "As was the case when Election Commission released the first supplementary rolls close to midnight last Monday, there were more questions than CEO Manoj Agarwal had answers for. “About 37 lakh of the 60 lakh pending cases have been disposed of till now. After receiving the list from Calcutta HC, EC will take 4-6 hours to process and upload it on our server,” he said in the afternoon.",
+      "url": "https://timesofindia.indiatimes.com/india/12l-on-bengals-2nd-supplementary-list-but-no-clarity-on-who-made-the-cut/articleshow/129856920.cms",
+      "image": "https://static.toiimg.com/photo/msid-129856912,imgsize-289794.cms",
+      "published_at": "2026-03-27T23:06:22.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "బెంగాల్ 2వ అనుబంధ జాబితాలో 12 లక్షలు, అయితే ఎవరు కట్ చేశారనే దానిపై స్పష్టత లేదు",
+      "summary_te": "గత సోమవారం అర్ధరాత్రికి దగ్గరగా ఎన్నికల సంఘం మొదటి అనుబంధ జాబితాలను విడుదల చేసినప్పుడు, CEO మనోజ్ అగర్వాల్ సమాధానాల కంటే ఎక్కువ ప్రశ్నలు ఉన్నాయి. \"60 లక్షల పెండింగ్‌లో ఉన్న కేసుల్లో ఇప్పటి వరకు 37 లక్షలు పరిష్కరించబడ్డాయి. కలకత్తా హెచ్‌సి నుండి జాబితాను స్వీకరించిన తర్వాత, EC దానిని ప్రాసెస్ చేసి మా సర్వర్‌లో అప్‌లోడ్ చేయడానికి 4-6 గంటలు పడుతుంది\" అని మధ్యాహ్నం చెప్పారు.",
+      "translated": true
+    },
+    {
+      "id": "0baeae885d5a6be6b557b9aa53a9a8a5",
+      "title": "Govt clears Rs 2.4 lakh crore proposals for procurement of more S-400 units",
+      "summary": "The approval for additional S-400 ‘Sudarshan’ systems, which had helped neutralise Pakistani missiles during last year’s conflict in May and had also to its credit the world’s longest-range kill of an enemy aircraft, has come at a time when IAF teams are in Russia to receive the fourth squadron under the earlier contract for five such systems. The fourth system is likely to arrive by May while the fifth squadron is expected by Dec.",
+      "url": "https://timesofindia.indiatimes.com/india/def-council-clears-rs-2-4l-cr-proposals-for-procurement-of-more-s-400-units-transport-aircraft-desi-bofors/articleshow/129856881.cms",
+      "image": "https://static.toiimg.com/photo/msid-129856897,imgsize-66728.cms",
+      "published_at": "2026-03-27T22:56:06.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మరిన్ని S-400 యూనిట్ల సేకరణ కోసం రూ. 2.4 లక్షల కోట్ల ప్రతిపాదనలను ప్రభుత్వం ఆమోదించింది",
+      "summary_te": "గత ఏడాది మేలో జరిగిన సంఘర్షణ సమయంలో పాకిస్థానీ క్షిపణులను తటస్థీకరించడంలో సహాయపడిన అదనపు S-400 ‘సుదర్శన్’ సిస్టమ్‌లకు ఆమోదం లభించింది మరియు ప్రపంచంలోనే అత్యంత సుదూర శ్రేణిలో శత్రు విమానాలను చంపిన ఘనత కూడా ఉంది, IAF బృందాలు రష్యాలో ఉన్న సమయంలో అటువంటి ఐదు సిస్టమ్‌ల కోసం మునుపటి ఒప్పందం ప్రకారం నాల్గవ స్క్వాడ్రన్‌ను స్వీకరించడానికి రష్యాకు వెళ్లింది. నాల్గవ వ్యవస్థ మే నాటికి వచ్చే అవకాశం ఉంది, ఐదవ స్క్వాడ్రన్ డిసెంబర్ నాటికి వచ్చే అవకాశం ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "2c9a9c976c6b5f1058298ce46f2a7b84",
+      "title": "Amit Shah's Kolkata flight delayed by two hours due to thunderstorm",
+      "summary": "According to airport sources, the special aircraft carrying the home minister from Delhi was scheduled to land at 11:46 pm.",
+      "url": "https://www.hindustantimes.com/india-news/amit-shahs-kolkata-flight-delayed-by-two-hours-due-to-thunderstorm-101774650271650.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/1600x900/logo/ANI-20260323083-0_1774650313275_1774650354529.jpg",
+      "published_at": "2026-03-27T22:28:13.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఉరుములతో కూడిన వర్షం కారణంగా అమిత్ షా కోల్‌కతా విమానం రెండు గంటలు ఆలస్యమైంది",
+      "summary_te": "విమానాశ్రయ వర్గాలు తెలిపిన వివరాల ప్రకారం, ఢిల్లీ నుంచి హోంమంత్రి ప్రయాణిస్తున్న ప్రత్యేక విమానం రాత్రి 11:46 గంటలకు ల్యాండ్ కావాల్సి ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "04992e1c0460e562d7c5dd318f0dc7dd",
+      "title": "Supreme Court rebukes courts for naming rape survivors",
+      "summary": "A bench of Justices Sanjay Karol and N K Singh expressed concern that despite statutory safeguards and repeated directions from SC, such lapses persist. The court made the observation while convicting a rape accused, noting that the name of the minor survivor was mentioned in lower court orders. ​The court rejected the argument of the woman’s family.",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-rebukes-courts-for-naming-rape-survivors/articleshow/129855844.cms",
+      "image": "https://static.toiimg.com/photo/msid-129855777,imgsize-365742.cms",
+      "published_at": "2026-03-27T22:26:31.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "అత్యాచార బాధితురాలి పేర్లు పెట్టడంపై కోర్టులను సుప్రీంకోర్టు మందలించింది",
+      "summary_te": "న్యాయమూర్తులు సంజయ్ కరోల్ మరియు ఎన్‌కె సింగ్‌లతో కూడిన ధర్మాసనం చట్టబద్ధమైన రక్షణలు మరియు ఎస్సీ నుండి పదేపదే ఆదేశాలు ఉన్నప్పటికీ, ఇటువంటి లోపాలు కొనసాగుతున్నాయని ఆందోళన వ్యక్తం చేసింది. అత్యాచార నిందితుడిని దోషిగా నిర్ధారిస్తూ, కింది కోర్టు ఉత్తర్వుల్లో ప్రాణాలతో బయటపడిన మైనర్ పేరును కోర్టు పేర్కొంది. మహిళ కుటుంబీకుల వాదనను కోర్టు తోసిపుచ్చింది.",
+      "translated": true
+    },
+    {
+      "id": "aa1fb1cc1848d942d20219059f90211e",
+      "title": "Jewar in the crown: PM to open NCR’s 2nd international airport today",
+      "summary": "The PM is scheduled to arrive at the airport at 11.30am on Saturday, go on a walkthrough of the terminal building, and formally inaugurate the airport around noon before addressing a public gathering. The event is expected to draw large crowds from Noida, Greater Noida, Ghaziabad, Bulandshahr and other parts of western UP. Three pandals have been set up to accommodate more than one lakh people.",
+      "url": "https://timesofindia.indiatimes.com/india/jewar-in-the-crown-pm-to-open-ncrs-2nd-international-airport-today/articleshow/129855508.cms",
+      "image": "https://static.toiimg.com/photo/msid-129855461,imgsize-58800.cms",
+      "published_at": "2026-03-27T22:17:13.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "కిరీటంలో జేవార్: ప్రధానమంత్రి ఈరోజు NCR యొక్క 2వ అంతర్జాతీయ విమానాశ్రయాన్ని ప్రారంభించనున్నారు",
+      "summary_te": "ప్రధానమంత్రి శనివారం ఉదయం 11.30 గంటలకు విమానాశ్రయానికి చేరుకుని, టెర్మినల్ బిల్డింగ్‌లో నడిచి వెళ్లి, బహిరంగ సభలో ప్రసంగించే ముందు మధ్యాహ్నం సమయంలో విమానాశ్రయాన్ని అధికారికంగా ప్రారంభించాల్సి ఉంది. ఈ కార్యక్రమానికి నోయిడా, గ్రేటర్ నోయిడా, ఘజియాబాద్, బులంద్‌షహర్ మరియు పశ్చిమ యుపిలోని ఇతర ప్రాంతాల నుండి పెద్ద ఎత్తున జనం వస్తారని భావిస్తున్నారు. లక్ష మందికి పైగా కూర్చునేలా మూడు పందేలు ఏర్పాటు చేశారు.",
+      "translated": true
+    },
     {
       "id": "ca2bbe27b770f6ef2526f21f9edae6da",
       "title": "Indian ships face GPS jams, mine alerts in Hormuz",
@@ -47,6 +145,20 @@
       "translated": true
     },
     {
+      "id": "94c97a474ca6641d66233db65d195e36",
+      "title": "Russia To Ban Gasoline Exports From April 1 To Prioritise Domestic Supply",
+      "summary": "The Government of Russia on Friday announced a ban on gasoline exports starting April 1, aiming to prioritise domestic supplies and stabilise fuel prices.",
+      "url": "https://www.ndtv.com/world-news/russia-to-ban-gasoline-exports-from-april-1-to-prioritise-domestic-supply-11276825#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-03/amkn1bhg_russia-flag-_625x300_05_March_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-27T21:56:50.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "దేశీయ సరఫరాకు ప్రాధాన్యత ఇవ్వడానికి రష్యా ఏప్రిల్ 1 నుండి గ్యాసోలిన్ ఎగుమతులను నిషేధిస్తుంది",
+      "summary_te": "దేశీయ సరఫరాలకు ప్రాధాన్యత ఇవ్వడం మరియు ఇంధన ధరలను స్థిరీకరించడం లక్ష్యంగా ఏప్రిల్ 1 నుండి గ్యాసోలిన్ ఎగుమతులపై నిషేధాన్ని రష్యా ప్రభుత్వం శుక్రవారం ప్రకటించింది.",
+      "translated": true
+    },
+    {
       "id": "7caf61e387551da63c2289ec94c23220",
       "title": "Lockdown reports‘harmful, baseless’, says govt, allays fear",
       "summary": "Home minister Shah accused opposition parties of spreading panic over the West Asia crisis, including the claim that a lockdown may be imposed. “I want to assure everyone. Do not fear, nothing will happen. We have adequate reserves of petroleum products,” he said. While many countries had taken emergency measures, India was working to tide over the crisis without compromising the daily lives of people, he said, adding that it had ensured regular gas supply to homemakers.",
@@ -75,6 +187,20 @@
       "translated": true
     },
     {
+      "id": "e113a51249c9a1525d56b0ac9729f205",
+      "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
+      "summary": "Elon Musk joined phone call between PM Modi and US President Donald Trump to discuss Iran War: news agency Reuters",
+      "url": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2019-09/lneugq4_pm-modi-trump-650_650x400_24_September_19.jpg",
+      "published_at": "2026-03-27T21:37:51.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోడీ-ట్రంప్ ఫోన్ కాల్‌తో మస్క్ చేరారు",
+      "summary_te": "ఇరాన్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోదీ మరియు అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ మధ్య ఫోన్ కాల్‌లో ఎలాన్ మస్క్ చేరారు: వార్తా సంస్థ రాయిటర్స్",
+      "translated": true
+    },
+    {
       "id": "e08e59c7b744e7d5aa149ff055c7d090",
       "title": "Defence, security at core of India-US ties: Sergio Gor",
       "summary": "In an interview with the US embassy publication, Span magazine, the ambassador also spoke about the significance of Quad as he predicted further strengthening of defence ties. “India is a Major Defence Partner, and defence cooperation is one of the brightest spots in our bilateral relationship. We also strengthen US-India military interoperability through participation in military exercises such as Malabar, Tiger Triumph, and Cope India,” said Gor.",
@@ -86,20 +212,6 @@
       "language": "en",
       "title_te": "భారత్-అమెరికా సంబంధాలలో రక్షణ, భద్రత: సెర్గియో గోర్",
       "summary_te": "యుఎస్ ఎంబసీ పబ్లికేషన్ స్పాన్ మ్యాగజైన్‌కి ఇచ్చిన ఇంటర్వ్యూలో, రాయబారి క్వాడ్ యొక్క ప్రాముఖ్యత గురించి కూడా మాట్లాడాడు, ఎందుకంటే అతను రక్షణ సంబంధాలను మరింత బలపరుస్తాడు. \"భారతదేశం ఒక ప్రధాన రక్షణ భాగస్వామి, మరియు రక్షణ సహకారం మా ద్వైపాక్షిక సంబంధాలలో ప్రకాశవంతమైన ప్రదేశాలలో ఒకటి. మలబార్, టైగర్ ట్రయంఫ్ మరియు కోప్ ఇండియా వంటి సైనిక విన్యాసాలలో పాల్గొనడం ద్వారా మేము US-భారత్ సైనిక పరస్పర చర్యను కూడా బలోపేతం చేస్తాము\" అని గోర్ అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "e583754549cb65accd417e18f995b244",
-      "title": "Fertilizer stock ample, working to ensure supply intact: Chouhan",
-      "summary": "We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/india/fertilizer-stock-ample-working-to-ensure-supply-intact-chouhan/articleshow/129854445.cms",
-      "image": "https://static.toiimg.com/photo/msid-129854443,imgsize-75128.cms",
-      "published_at": "2026-03-27T21:27:33.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఎరువుల నిల్వ పుష్కలంగా ఉంది, సరఫరా చెక్కుచెదరకుండా పని చేస్తోంది: చౌహాన్",
-      "summary_te": "వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి మేము వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -131,17 +243,17 @@
       "translated": true
     },
     {
-      "id": "8cdaa1ff82ac7d1145b6ecda300709ce",
-      "title": "Diabetic drug metformin found to act on brain",
-      "summary": "A study published in Science Advances by Baylor College of Medicine has uncovered a hidden brain pathway that helps explain how metformin lowers blood sugar, offering fresh insight into a medicine used for over six decades. For years, metformin was believed to act mainly on the liver and gut. The new research shows it also works through the ventromedial hypothalamus — a small but crucial brain region that controls hunger, energy use and glucose balance.",
-      "url": "https://timesofindia.indiatimes.com/india/diabetic-drug-metformin-found-to-act-on-brain/articleshow/129854377.cms",
-      "image": "https://static.toiimg.com/photo/msid-129854379,imgsize-834720.cms",
-      "published_at": "2026-03-27T21:23:07.000Z",
-      "source": "Times of India",
+      "id": "4382f94ff27f549615dd2c73af003733",
+      "title": "Tiger Woods Arrested For Driving Under Influence After Florida Crash",
+      "summary": "Golf legend Tiger Woods involved in car crash in Florida: news agency AFP",
+      "url": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/l5cun458_tiger-woods_625x300_28_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-27T21:20:51.000Z",
+      "source": "NDTV",
       "category": "india",
       "language": "en",
-      "title_te": "డయాబెటిక్ డ్రగ్ మెట్‌ఫార్మిన్ మెదడుపై పని చేస్తుందని కనుగొనబడింది",
-      "summary_te": "బేలర్ కాలేజ్ ఆఫ్ మెడిసిన్ సైన్స్ అడ్వాన్సెస్‌లో ప్రచురించిన ఒక అధ్యయనంలో మెట్‌ఫార్మిన్ బ్లడ్ షుగర్‌ను ఎలా తగ్గిస్తుంది, ఆరు దశాబ్దాలుగా ఉపయోగించిన ఔషధం గురించి తాజా అంతర్దృష్టిని అందించడంలో సహాయపడే రహస్య మెదడు మార్గాన్ని కనుగొంది. సంవత్సరాలుగా, మెట్‌ఫార్మిన్ ప్రధానంగా కాలేయం మరియు ప్రేగులపై పనిచేస్తుందని నమ్ముతారు. కొత్త పరిశోధన ఇది వెంట్రోమీడియల్ హైపోథాలమస్ ద్వారా కూడా పనిచేస్తుందని చూపిస్తుంది - ఇది ఆకలి, శక్తి వినియోగం మరియు గ్లూకోజ్ బ్యాలెన్స్‌ని నియంత్రించే చిన్న కానీ కీలకమైన మెదడు ప్రాంతం.",
+      "title_te": "ఫ్లోరిడా క్రాష్ తర్వాత ప్రభావంతో డ్రైవింగ్ చేసినందుకు టైగర్ వుడ్స్ అరెస్టయ్యాడు",
+      "summary_te": "గోల్ఫ్ లెజెండ్ టైగర్ వుడ్స్ ఫ్లోరిడాలో కారు ప్రమాదంలో చిక్కుకున్నాడు: వార్తా సంస్థ AFP",
       "translated": true
     },
     {
@@ -155,7 +267,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ప్రభుత్వ భూమిని లాక్కుంటే జన్ విశ్వాస్ బిల్లు జరిమానా, జైలు శిక్ష",
-      "summary_te": "శుక్రవారం లోక్‌సభలో ప్రవేశపెట్టిన బిల్లు - ప్రస్తుతం ఆరు నెలల జైలు శిక్ష లేదా రూ. 5,000 జరిమానా లేదా రెండూ విధించే పబ్లిక్ ప్రాంగణాల (అనధికారిక నిర్వాసితుల తొలగింపు) చట్టంలోని సెక్షన్-11ను సవరించాలని ప్రతిపాదించింది. ప్రతిపాదన ప్రకారం, ఆక్రమణకు గురైన ప్రతి సంవత్సరానికి భూమి విలువలో 5% జరిమానా లేదా రెండూ - పెనాల్టీ మరియు జైలు. దీంతో ఆక్రమణలను అరికట్టవచ్చని, భూకబ్జాలను అరికట్టవచ్చని అధికారులు తెలిపారు.",
+      "summary_te": "శుక్రవారం లోక్‌సభలో ప్రవేశపెట్టిన బిల్లు - ప్రస్తుతం ఆరు నెలల జైలు శిక్ష లేదా రూ. 5,000 జరిమానా లేదా రెండూ విధించే పబ్లిక్ ప్రాంగణాల (అనధికారిక నిర్వాసితుల తొలగింపు) చట్టంలోని సెక్షన్-11ను సవరించాలని ప్రతిపాదించింది. ప్రతిపాదన ప్రకారం, ఆక్రమణ చేసిన ప్రతి సంవత్సరానికి భూమి విలువలో 5% జరిమానా లేదా రెండూ - జరిమానా మరియు జైలు. దీంతో ఆక్రమణలను అరికట్టవచ్చని, భూకబ్జాలను అరికట్టవచ్చని అధికారులు తెలిపారు.",
       "translated": true
     },
     {
@@ -188,7 +300,7 @@
     },
     {
       "id": "eb0d6b81e704d10109de202c1c4da37b",
-      "title": "Unite to face West Asia crisis, PM tells CMs; urges to boost people’sconfidence",
+      "title": "Unite to face West Asia crisis, PM tells CMs; urges to boost people’s confidence",
       "summary": "While he focused on preparing for prolonged disruption of supply lines, Modi also conveyed assurance about the country being in good stead, saying “efforts...in recent years to strengthen India’s economic and supply systems have proved beneficial”. In his virtual meeting with CMs — except those of Assam, West Bengal, Tamil Nadu, Kerala and Puducherry where assembly polls are due next month — on Friday, PM Modi said while addressing a challenge is a shared responsibility.",
       "url": "https://timesofindia.indiatimes.com/india/unite-to-face-west-asia-crisis-pm-tells-cms-urges-to-boost-peoplesconfidence/articleshow/129854329.cms",
       "image": "https://static.toiimg.com/photo/msid-129854328,imgsize-66492.cms",
@@ -254,20 +366,6 @@
       "language": "en",
       "title_te": "పశ్చిమాసియా వివాదంపై చర్చించేందుకు ట్రంప్-మోడీ కాల్‌లో ఎలాన్ మస్క్ చేరారు: నివేదిక",
       "summary_te": "ప్రధాని మోదీ ఈ వారం ప్రారంభంలో ట్రంప్‌తో ఫోన్ కాల్ నిర్వహించారు, ఇందులో పశ్చిమాసియాలో శాంతి పునరుద్ధరణకు భారతదేశం మద్దతునిస్తుందని ప్రధాని నొక్కిచెప్పారు.",
-      "translated": true
-    },
-    {
-      "id": "4382f94ff27f549615dd2c73af003733",
-      "title": "Tiger Woods Involved In Car Crash In Florida: Report",
-      "summary": "Golf legend Tiger Woods involved in car crash in Florida: news agency AFP",
-      "url": "https://www.ndtv.com/world-news/golf-legend-tiger-woods-involved-in-car-crash-in-florida-news-agency-afp-11276699#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/l5cun458_tiger-woods_625x300_28_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-27T20:26:41.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఫ్లోరిడాలో కారు ప్రమాదంలో టైగర్ వుడ్స్ ప్రమేయం: నివేదిక",
-      "summary_te": "గోల్ఫ్ లెజెండ్ టైగర్ వుడ్స్ ఫ్లోరిడాలో కారు ప్రమాదంలో చిక్కుకున్నాడు: వార్తా సంస్థ AFP",
       "translated": true
     },
     {
@@ -338,20 +436,6 @@
       "language": "en",
       "title_te": "బెంగాల్‌లోని ఓటర్లతో కనెక్ట్ కావడానికి అభ్యర్థులు ఆఫ్‌బీట్ మార్గాన్ని అనుసరిస్తారు",
       "summary_te": "వంటగది సందర్శనల నుండి బార్బర్ షాప్ స్టంట్‌ల వరకు, పశ్చిమ బెంగాల్ శాసనసభ ఎన్నికలకు ముందు పార్టీల అతీతంగా అభ్యర్థులు సాంప్రదాయేతర ఓటరును కనెక్ట్ చేయడానికి ప్రయత్నిస్తారు.",
-      "translated": true
-    },
-    {
-      "id": "e113a51249c9a1525d56b0ac9729f205",
-      "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
-      "summary": "Elon Musk joined phone call between PM Modi and US President Donald Trump to discuss Iran War: news agency Reuters",
-      "url": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2019-09/lneugq4_pm-modi-trump-650_650x400_24_September_19.jpg",
-      "published_at": "2026-03-27T19:55:42.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోడీ-ట్రంప్ ఫోన్ కాల్‌తో మస్క్ చేరారు",
-      "summary_te": "ఇరాన్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోదీ మరియు అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ మధ్య ఫోన్ కాల్‌లో ఎలాన్ మస్క్ చేరారు: వార్తా సంస్థ రాయిటర్స్",
       "translated": true
     },
     {
@@ -463,7 +547,7 @@
       "category": "india",
       "language": "en",
       "title_te": "బలమైన వాణిజ్య కారిడార్లు మరియు సరఫరా గొలుసులు అవసరమని జైశంకర్ చెప్పారు",
-      "summary_te": "విదేశీ వ్యవహారాల మంత్రి IMEC వంటి స్థితిస్థాపక వాణిజ్య కారిడార్‌ల ప్రాముఖ్యతను నొక్కిచెప్పారు, ముఖ్యంగా పశ్చిమాసియా సంఘర్షణల అనిశ్చితుల మధ్య; ప్రపంచ ఆర్థిక భద్రతను నిర్ధారించడానికి నావిగేషన్ స్వేచ్ఛ కోసం పిలుపునిచ్చింది",
+      "summary_te": "విదేశీ వ్యవహారాల మంత్రి IMEC వంటి స్థితిస్థాపక వాణిజ్య కారిడార్‌ల ప్రాముఖ్యతను నొక్కి చెప్పారు, ముఖ్యంగా పశ్చిమాసియా సంఘర్షణల అనిశ్చితుల మధ్య; ప్రపంచ ఆర్థిక భద్రతను నిర్ధారించడానికి నావిగేషన్ స్వేచ్ఛ కోసం పిలుపునిచ్చింది",
       "translated": true
     },
     {
@@ -607,6 +691,20 @@
       "translated": true
     },
     {
+      "id": "288e09a5f4c818413dce1027f8fc61fa",
+      "title": "Govt. notifies TRP-2026; tightens audit norms, expands sample size",
+      "summary": "Under the new policy, the net-worth requirement for a company willing to register as TV rating agency has been reduced from existing ₹20 crore to ₹5 crore",
+      "url": "https://www.thehindu.com/news/national/govt-notifies-trp-2026-tightens-audit-norms-expands-sample-size/article70793195.ece",
+      "image": "https://th-i.thgim.com/public/incoming/73wmpb/article70542642.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U2H7E1NDF_R1589554809_2_2943b9f0-0206-489c-a78b-9dde6f712c0a.jpg",
+      "published_at": "2026-03-27T19:31:55.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "ప్రభుత్వ TRP-2026ని తెలియజేస్తుంది; ఆడిట్ నిబంధనలను కఠినతరం చేస్తుంది, నమూనా పరిమాణాన్ని విస్తరిస్తుంది",
+      "summary_te": "కొత్త పాలసీ ప్రకారం, టీవీ రేటింగ్ ఏజెన్సీగా నమోదు చేసుకోవడానికి సిద్ధంగా ఉన్న కంపెనీకి నికర-విలువ అవసరం ప్రస్తుతం ఉన్న ₹20 కోట్ల నుండి ₹5 కోట్లకు తగ్గించబడింది.",
+      "translated": true
+    },
+    {
       "id": "0646878cd729e752a7909e14208416ce",
       "title": "Electors pitch for business development, peace and harmony in Harbour Assembly constituency",
       "summary": "After the Special Intensive Revision (SIR), Mitha Lal, 65, was among those residents who checked the names on the electoral rolls in Sowcarpet in Harbour Assembly Constituency in the Central Business District of Chennai. “My name is on the rolls in Harbour Constituency. As I came to Chennai from Bakra Village in Jalore district of Rajasthan during my adolescent age, I never registered my name on the electoral rolls in my native village,” he said.Walking on the paved footpath of the Chennai Corporation park near Mint Street near the boundary of the constituency along with his neighbour, Kanti Lal from Mount Abu, whose name was removed during SIR, Mr. Lal said that he always desired to be an elector in Harbour Constituency because of the favourable conditions for business with peace and harmony among communities facilitated by the elected governments.“The DMK government has done well in the last five years. More than 500 people from my native village with their families are currently residents of Sowcarpet, doing business. Our MLA used to organise meetings every three months for safety and security of our businesses. Officials used to resolve all civic issues discussed at the meetings. We visit our native village during festivals. But I consider Chennai my home because I grew up in the city. Our native village is arid, and agriculture is a challenging job,” he said.",
@@ -621,20 +719,6 @@
       "translated": true
     },
     {
-      "id": "13cdbb5df377431f17b017d135fcdf37",
-      "title": "T.N. Assembly election: AIADMK releases second list of candidates, retains 30 sitting legislators",
-      "summary": "Prominent among those who did not figure in the list are former Ministers V. Saroja, V.M. Rajalakshmi, Vaigaichelvan, and ‘Mafoi’ K. Pandiarajan, all of whom lost in the 2021 election",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-assembly-election-aiadmk-releases-second-list-of-candidates-retains-30-sitting-legislators/article70793449.ece",
-      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/n6cn66/article70794205.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-03-27%20at%209.59.21%20PM.jpeg",
-      "published_at": "2026-03-27T19:31:46.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "టి.ఎన్. అసెంబ్లీ ఎన్నికలు: ఏఐఏడీఎంకే అభ్యర్థుల రెండో జాబితాను విడుదల చేసింది, 30 మంది సిట్టింగ్ శాసనసభ్యులను నిలబెట్టుకుంది",
-      "summary_te": "జాబితాలో చోటు దక్కని వారిలో ప్రముఖులు మాజీ మంత్రులు వి.సరోజ, వి.ఎం. 2021 ఎన్నికల్లో ఓడిపోయిన రాజలక్ష్మి, వైగైచెల్వన్ మరియు ‘మాఫోయ్’ కె. పాండియరాజన్.",
-      "translated": true
-    },
-    {
       "id": "ce43ec47581df58986642e195b354ae4",
       "title": "Man hangs daughters, 10 and 11, upside down overnight over theft suspicion; 1 dead",
       "summary": "Man hangs daughters, 10 and 11, upside down overnight over theft suspicion; 1 dead",
@@ -646,34 +730,6 @@
       "language": "en",
       "title_te": "దొంగతనం అనుమానంతో 10 మరియు 11 ఏళ్ల కుమార్తెలను ఓ వ్యక్తి రాత్రిపూట తలక్రిందులుగా ఉరితీశాడు; 1 చనిపోయారు",
       "summary_te": "దొంగతనం అనుమానంతో 10 మరియు 11 ఏళ్ల కుమార్తెలను ఓ వ్యక్తి రాత్రిపూట తలక్రిందులుగా ఉరితీశాడు; 1 చనిపోయారు",
-      "translated": true
-    },
-    {
-      "id": "4c58be24fe0f1653485b8ece55278b9a",
-      "title": "Mirwaiz meets Iranian envoy, calls Kashmir ‘little Iran’",
-      "summary": "The delegation condemned the war, which it said was “imposed” on Iran, and expressed hope that diplomatic efforts would prevail and peace and stability would be restored. Others who were part of the delegation included Mufti Nasir-ul-Islam, Aga Syed Hassan Al-Mosvi, and Aga Syed Hadi AlMosvi, Aga Syed Mujtaba. During the meeting, Mirwaiz also highlighted the “deep-rooted cultural, historical and religious ties between Kashmir and Iran”.",
-      "url": "https://timesofindia.indiatimes.com/india/mirwaiz-meets-iranian-envoy-calls-kashmir-little-iran/articleshow/129852899.cms",
-      "image": "https://static.toiimg.com/photo/msid-129853042,imgsize-180714.cms",
-      "published_at": "2026-03-27T18:39:41.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మిర్వాయిజ్ ఇరాన్ రాయబారిని కలిసి, కాశ్మీర్‌ను 'చిన్న ఇరాన్' అని పిలిచాడు",
-      "summary_te": "ప్రతినిధి బృందం యుద్ధాన్ని ఖండించింది, ఇది ఇరాన్‌పై \"విధించబడింది\" అని పేర్కొంది మరియు దౌత్యపరమైన ప్రయత్నాలు విజయవంతమవుతాయని మరియు శాంతి మరియు స్థిరత్వం పునరుద్ధరించబడతాయని ఆశాభావం వ్యక్తం చేసింది. ప్రతినిధి బృందంలో భాగమైన ఇతరులు ముఫ్తీ నాసిర్-ఉల్-ఇస్లాం, అగా సయ్యద్ హసన్ అల్-మోస్వీ, మరియు అగా సయ్యద్ హదీ అల్మోస్వీ, అగా సయ్యద్ ముజ్తబా. సమావేశంలో, మిర్వాయిజ్ \"కాశ్మీర్ మరియు ఇరాన్ మధ్య లోతైన పాతుకుపోయిన సాంస్కృతిక, చారిత్రక మరియు మతపరమైన సంబంధాలను\" కూడా హైలైట్ చేశారు.",
-      "translated": true
-    },
-    {
-      "id": "820eca746a00185e7bdf7fdb58e7ebd4",
-      "title": "7 killed as avalanche buries several vehicles at Zojila Pass",
-      "summary": "The Zojila pass would earlier remain closed for nearly five months during winter, cutting off Ladakh from the rest of the country. However, with improved technology, advanced snow-clearance equipment and better planning, the pass remained open throughout this winter, barring four days, which the Border Roads Organisation described as a significant strategic and logistical achievement.",
-      "url": "https://timesofindia.indiatimes.com/india/7-killed-as-avalanche-buries-several-vehicles-at-zojila-pass/articleshow/129853044.cms",
-      "image": "https://static.toiimg.com/photo/msid-129852999,imgsize-74682.cms",
-      "published_at": "2026-03-27T18:39:33.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "జోజిలా పాస్ వద్ద హిమపాతం అనేక వాహనాలను సమాధి చేయడంతో 7 మంది మరణించారు",
-      "summary_te": "జోజిలా పాస్ చలికాలంలో దాదాపు ఐదు నెలల పాటు మూసివేయబడుతుంది, దేశంలోని ఇతర ప్రాంతాల నుండి లడఖ్‌ను దూరం చేస్తుంది. అయినప్పటికీ, మెరుగైన సాంకేతికత, అధునాతన మంచు-క్లియరెన్స్ పరికరాలు మరియు మెరుగైన ప్రణాళికతో, నాలుగు రోజులు మినహా ఈ శీతాకాలమంతా పాస్ తెరిచి ఉంది, దీనిని బోర్డర్ రోడ్స్ ఆర్గనైజేషన్ ఒక ముఖ్యమైన వ్యూహాత్మక మరియు రవాణా సాధనగా అభివర్ణించింది.",
       "translated": true
     },
     {
@@ -859,20 +915,6 @@
       "translated": true
     },
     {
-      "id": "dcee0d341548b47504f63481421cfe37",
-      "title": "From Kharg to Qeshm: 6 Iranian Islands Trump may target amid Strait of Hormuz tensions",
-      "summary": "The US is reportedly considering military options against Iran, focusing on key Persian Gulf islands vital for oil exports and naval control. Plans reportedly include ground and bombing operations, with potential targets like Kharg Island, a major oil hub, and Larak Island, crucial for Strait of Hormuz monitoring. Seizing these locations presents significant risks.",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/from-kharg-to-qeshm-6-iranian-islands-trump-may-target-amid-strait-of-hormuz-tensions/articleshow/129851456.cms",
-      "image": "https://static.toiimg.com/photo/msid-129851497,imgsize-1899737.cms",
-      "published_at": "2026-03-27T17:23:33.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఖార్గ్ నుండి క్యూష్మ్ వరకు: హోర్ముజ్ ఉద్రిక్తతల మధ్య ట్రంప్ 6 ఇరానియన్ దీవులను లక్ష్యంగా చేసుకోవచ్చు",
-      "summary_te": "చమురు ఎగుమతులు మరియు నౌకాదళ నియంత్రణకు కీలకమైన పెర్షియన్ గల్ఫ్ దీవులపై దృష్టి సారించి, ఇరాన్‌కు వ్యతిరేకంగా సైనిక ఎంపికలను US పరిశీలిస్తున్నట్లు నివేదించబడింది. హార్ముజ్ జలసంధి పర్యవేక్షణకు కీలకమైన ఖర్గ్ ద్వీపం, ప్రధాన చమురు కేంద్రం మరియు లారాక్ ద్వీపం వంటి సంభావ్య లక్ష్యాలతో గ్రౌండ్ మరియు బాంబింగ్ కార్యకలాపాలను ప్లాన్‌లు కలిగి ఉన్నట్లు నివేదించబడింది. ఈ స్థానాలను స్వాధీనం చేసుకోవడం వలన గణనీయమైన ప్రమాదాలు ఉన్నాయి.",
-      "translated": true
-    },
-    {
       "id": "fe28cc364ed367ca0e493c0f68e6ae64",
       "title": "The not-so-hidden cost of a faraway war",
       "summary": "LPG prices surge amid West Asia crisis, forcing Mumbai eateries to cut menus, raise prices or shrink portions as supply disruptions hit small businesses hard.",
@@ -1023,7 +1065,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పశ్చిమాసియాలోని 12వ తరగతి విద్యార్థుల కోసం CBSE ప్రత్యామ్నాయ అసెస్‌మెంట్ పథకాన్ని ప్రకటించింది",
-      "summary_te": "CBSE బోర్డ్ పరీక్షలు 2026: పశ్చిమాసియా దేశాలలో మార్చి 16 నుండి ఏప్రిల్ 10 వరకు షెడ్యూల్ చేయబడిన అన్ని 12వ తరగతి పరీక్షలు, గతంలో వాయిదా వేసిన పరీక్షలతో సహా రద్దు చేయబడ్డాయి.",
+      "summary_te": "CBSE బోర్డు పరీక్షలు 2026: పశ్చిమాసియా దేశాలలో మార్చి 16 నుండి ఏప్రిల్ 10 వరకు షెడ్యూల్ చేయబడిన అన్ని 12వ తరగతి పరీక్షలు, గతంలో వాయిదా వేసిన పరీక్షలతో సహా రద్దు చేయబడ్డాయి.",
       "translated": true
     },
     {
@@ -1066,20 +1108,6 @@
       "language": "en",
       "title_te": "ఇంధన సంక్షోభం హాస్టల్‌ను తాకడంతో ఢిల్లీలోని ప్రభుత్వ సంస్థ 600 మంది విద్యార్థులను ఇంటికి పంపింది",
       "summary_te": "ఢిల్లీలోని ఇండియన్ అగ్రికల్చర్ రీసెర్చ్ ఇన్‌స్టిట్యూట్, పుసా ఇన్‌స్టిట్యూట్‌గా ప్రసిద్ధి చెందింది, కొన్ని బ్యాచ్‌ల విద్యార్థులను క్యాంపస్ వదిలి వెళ్లమని కోరింది; వారికి ఆన్‌లైన్‌లో తరగతులు",
-      "translated": true
-    },
-    {
-      "id": "0135eb820ab631f99c4691daa3830c88",
-      "title": "'Trump getting bored with Iran, wants to move on': Report",
-      "summary": "President Trump is publicly portraying the US military involvement in Iran as over, despite ongoing troop deployments and high tensions. This disconnect from battlefield reality has unsettled aides and allies, with some describing his messaging as detached and driven by a desire to declare victory and move on.",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-bored-with-iran-wants-to-move-on-white-house-officials-concerned-by-us-premature-claims-of-victory-in-iran/articleshow/129850832.cms",
-      "image": "https://static.toiimg.com/photo/msid-129850825,imgsize-632431.cms",
-      "published_at": "2026-03-27T15:55:24.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "'ట్రంప్‌కు ఇరాన్‌తో విసుగు, ముందుకు వెళ్లాలనుకుంటున్నారు': నివేదిక",
-      "summary_te": "కొనసాగుతున్న సైనిక విన్యాసాలు మరియు తీవ్ర ఉద్రిక్తతలు ఉన్నప్పటికీ, అధ్యక్షుడు ట్రంప్ ఇరాన్‌లో US సైనిక ప్రమేయం ముగిసినట్లు బహిరంగంగా చిత్రీకరిస్తున్నారు. యుద్దభూమి వాస్తవికత నుండి ఈ డిస్‌కనెక్ట్ అస్థిరమైన సహాయకులు మరియు మిత్రులను కలిగి ఉంది, కొందరు అతని సందేశాన్ని నిర్లిప్తంగా మరియు విజయాన్ని ప్రకటించి ముందుకు సాగాలనే కోరికతో వర్ణించారు.",
       "translated": true
     },
     {
@@ -1191,7 +1219,7 @@
       "category": "india",
       "language": "en",
       "title_te": "చెన్నైలోని అన్నా యూనివర్శిటీలో ప్రొఫెసర్ లైంగిక వేధింపులకు పాల్పడుతున్నాడని విద్యార్థిని ఆరోపించింది",
-      "summary_te": "ప్రొఫెసర్ తనకు తరచూ అసభ్యకరమైన సందేశాలు పంపేవాడని, అర్థరాత్రి తనకు ఫోన్ చేసి అనుచిత సంభాషణలు చేసేవాడని విద్యార్థిని ఆరోపించింది.",
+      "summary_te": "ప్రొఫెసర్ తరచూ తనకు అసభ్యకరమైన సందేశాలు పంపేవాడని, అర్థరాత్రి తనకు ఫోన్ చేసి అనుచిత సంభాషణలు చేసేవాడని విద్యార్థిని ఆరోపించింది.",
       "translated": true
     },
     {
@@ -1307,20 +1335,6 @@
       "translated": true
     },
     {
-      "id": "4b34e2a0ae58026f98a57488309c0dc0",
-      "title": "FBI Chief Kash Patel's Personal Email Breached, Claim Iran-Linked Hackers",
-      "summary": "Iran War Live News: FBI Chief Kash Patel's Personal Email Breached, Claim Iran-Linked Hackers",
-      "url": "https://www.ndtv.com/world-news/iran-war-live-news-fbi-chief-kash-patels-personal-email-breached-claim-iran-linked-hackers-11275556#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-11/tfa1u86s_fbi-director-kash-patel-_625x300_10_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-27T14:47:03.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "FBI చీఫ్ కాష్ పటేల్ యొక్క వ్యక్తిగత ఇమెయిల్ ఉల్లంఘించబడింది, ఇరాన్-లింక్డ్ హ్యాకర్లను క్లెయిమ్ చేయండి",
-      "summary_te": "ఇరాన్ వార్ లైవ్ న్యూస్: ఎఫ్‌బిఐ చీఫ్ కాష్ పటేల్ వ్యక్తిగత ఇమెయిల్ ఉల్లంఘించబడింది, ఇరాన్-లింక్డ్ హ్యాకర్లను క్లెయిమ్ చేయండి",
-      "translated": true
-    },
-    {
       "id": "f40c59a337f8943d3770a66b7c11e110",
       "title": "7 killed, several injured as avalanche hits Srinagar-Leh highway; vehicles trapped",
       "summary": "7 killed, several injured as avalanche hits Srinagar-Leh highway; vehicles trapped",
@@ -1388,20 +1402,6 @@
       "language": "en",
       "title_te": "మిడిల్ ఈస్ట్ సంఘర్షణ ప్రభావాన్ని పరిష్కరించడానికి కేంద్రం మంత్రుల బృందాన్ని ఏర్పాటు చేసింది",
       "summary_te": "పశ్చిమాసియా వివాదాల ప్రభావం వల్ల తలెత్తే సమస్యలను దృష్టిలో ఉంచుకుని ఈ \"ఏర్పాట్\" జరిగిందని సంబంధిత వర్గాలు తెలిపాయి.",
-      "translated": true
-    },
-    {
-      "id": "3ac8249a4bbc7bf84c57a508442de582",
-      "title": "5 Haryana cops among 8 acquitted in gangster Sandeep Gadoli 'fake encounter' case",
-      "summary": "5 Haryana cops among 8 acquitted in gangster Sandeep Gadoli 'fake encounter' case",
-      "url": " https://www.indiatoday.in/india/law-news/story/mumbai-sessions-court-acquits-haryana-policemen-fake-encounter-gangster-sandeep-gadoli-2016-2887988-2026-03-27?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/legal--law--court-27071819-16x9_0.jpeg?VersionId=WdOH2xjc5dGhQ.PvuG3JDe06nT32F8lr",
-      "published_at": "2026-03-27T14:09:21.000Z",
-      "source": "India Today",
-      "category": "india",
-      "language": "en",
-      "title_te": "గ్యాంగ్‌స్టర్ సందీప్ గడోలీ 'ఫేక్ ఎన్‌కౌంటర్' కేసులో ఐదుగురు హర్యానా పోలీసులతో పాటు 8 మందిని నిర్దోషులుగా విడుదల చేశారు.",
-      "summary_te": "గ్యాంగ్‌స్టర్ సందీప్ గడోలీ 'ఫేక్ ఎన్‌కౌంటర్' కేసులో ఐదుగురు హర్యానా పోలీసులతో పాటు 8 మందిని నిర్దోషులుగా విడుదల చేశారు.",
       "translated": true
     }
   ]
