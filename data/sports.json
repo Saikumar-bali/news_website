@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-27T15:55:45.182Z",
-  "updated_at_IST": "27/3/2026, 9:25:45 pm",
+  "updated_at": "2026-03-27T16:53:17.807Z",
+  "updated_at_IST": "27/3/2026, 10:23:17 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "8db1c0c932421ccf77a687786439dd01",
+      "title": "RCB, SRH and Chinnaswamy come together for IPL's opening night",
+      "summary": "This is the first time top-flight cricket is returning to the venue since May last year",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529435.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414912.jpg",
+      "published_at": "2026-03-27T16:24:17.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL ప్రారంభ రాత్రికి RCB, SRH మరియు చిన్నస్వామి కలిసి వచ్చారు",
+      "summary_te": "గతేడాది మే తర్వాత ఈ వేదికపై అగ్రశ్రేణి క్రికెట్ తిరిగి రావడం ఇదే తొలిసారి",
+      "translated": true
+    },
     {
       "id": "31174ca14ded3f7d9869fb7dccc671a4",
       "title": "Thushara fails fitness test, denied NOC to join RCB in IPL 2026",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "రావల్పిండి పిండిజ్ కోసం ఖవాజా లారీ ఎవాన్స్ స్థానంలో ఉన్నాడు",
       "summary_te": "ఇంతలో, క్రిస్ గ్రీన్ ఇస్లామాబాద్ యునైటెడ్‌లో మాక్స్ బ్రయంట్ స్థానంలో ఉన్నాడు",
-      "translated": true
-    },
-    {
-      "id": "45c4326ee78c97ebd19162b4eeac214d",
-      "title": "A bet, a bat, and a breakout: The making of Esterhuizen's dream debut series",
-      "summary": "Backed by his captain Maharaj, the 24-year old anchored SA's turnaround and emerged as the defining batter of the series",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529152.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414890.jpg",
-      "published_at": "2026-03-25T13:09:58.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "ఒక పందెం, ఒక బ్యాట్ మరియు బ్రేక్అవుట్: ఈస్టర్‌హుజెన్ కలల తొలి సిరీస్ మేకింగ్",
-      "summary_te": "అతని కెప్టెన్ మహారాజ్ మద్దతుతో, 24 ఏళ్ల యువకుడు SA యొక్క టర్న్‌అరౌండ్‌ను ఎంకరేజ్ చేసాడు మరియు సిరీస్ యొక్క నిర్వచించే బ్యాటర్‌గా ఉద్భవించాడు",
       "translated": true
     }
   ]
