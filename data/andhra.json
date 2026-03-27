@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-03-27T01:17:46.634Z",
-  "updated_at_IST": "27/3/2026, 6:47:46 am",
+  "updated_at": "2026-03-27T04:36:20.334Z",
+  "updated_at_IST": "27/3/2026, 10:06:20 am",
   "category": "andhra",
-  "count": 25,
+  "count": 24,
   "articles": [
     {
       "id": "901ed3b48ffd812a154bb65f3b228663",
@@ -338,20 +338,6 @@
       "language": "en",
       "title_te": "వీరాపురంలో వలస పక్షులను రక్షించేందుకు చర్యలు చేపడుతున్నట్లు కలెక్టర్ తెలిపారు",
       "summary_te": "శ్యామ్ ప్రసాద్ వాటర్ బాడీని తనిఖీ చేసే సమయంలో రక్షణ మరియు నివాస పరిస్థితులను మెరుగుపరిచే చర్యలను వివరించారు",
-      "translated": true
-    },
-    {
-      "id": "dc84c3c3a71417d02edb6fd52bccfed2",
-      "title": "Cabinet gives ₹775-crore push to irrigation projects in Andhra Pradesh",
-      "summary": "Aim is to fast-track critical water resource works, strengthen water management systems, and support farmers across the State, says I&PR Minister Kolusu Parthasarathi; legal team to be strengthened to effectively defend State’s interests in water disputes",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/cabinet-gives-775-crore-push-to-irrigation-projects-in-andhra-pradesh/article70788497.ece",
-      "image": "https://th-i.thgim.com/public/incoming/wooo7i/article70788820.ece/alternates/LANDSCAPE_1200/PTI03_26_2026_000140B.jpg",
-      "published_at": "2026-03-26T14:26:51.000Z",
-      "source": "The Hindu AP",
-      "category": "andhra",
-      "language": "en",
-      "title_te": "ఆంధ్రప్రదేశ్‌లోని నీటిపారుదల ప్రాజెక్టులకు క్యాబినెట్ ₹775 కోట్ల నిధులను మంజూరు చేసింది",
-      "summary_te": "కీలకమైన నీటి వనరుల పనులను వేగవంతం చేయడం, నీటి నిర్వహణ వ్యవస్థలను బలోపేతం చేయడం మరియు రాష్ట్రవ్యాప్తంగా రైతులను ఆదుకోవడం లక్ష్యం అని I&PR మంత్రి కొలుసు పార్థసారథి చెప్పారు; జల వివాదాల్లో రాష్ట్ర ప్రయోజనాలను సమర్థంగా పరిరక్షించేందుకు న్యాయ బృందాన్ని బలోపేతం చేయాలి",
       "translated": true
     }
   ]

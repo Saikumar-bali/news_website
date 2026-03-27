@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-27T01:17:46.634Z",
-  "updated_at_IST": "27/3/2026, 6:47:46 am",
+  "updated_at": "2026-03-27T04:36:20.334Z",
+  "updated_at_IST": "27/3/2026, 10:06:20 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "5681a8b4731985b79fa119cde89abaf7",
+      "title": "Hyderabad Kingsmen's maroon kit forces ball change in PSL opener",
+      "summary": "The ball was smeared with the colour from the Kingsmen's kit and was changed after 15 overs into their chase against Lahore Qalandars",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529346.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414931.jpg",
+      "published_at": "2026-03-27T03:27:38.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "PSL ఓపెనర్‌లో హైదరాబాద్ కింగ్స్‌మెన్ మెరూన్ కిట్ ఫోర్స్ బాల్ మార్పు",
+      "summary_te": "కింగ్స్‌మెన్ కిట్‌లోని రంగుతో బంతి పూసి లాహోర్ ఖలందర్స్‌తో జరిగిన ఛేజింగ్‌లో 15 ఓవర్ల తర్వాత మార్చబడింది.",
+      "translated": true
+    },
+    {
+      "id": "2fcb82399eed6e3f236cc0e3e532cb36",
+      "title": "Going where the money is - Cummins voices the danger facing Australian cricket",
+      "summary": "The Australia captain weighs in on concerns that more players might forego Cricket Australia contracts in the future if they can earn more in franchise cricket",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529207.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411169.png",
+      "published_at": "2026-03-27T03:04:45.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "డబ్బు ఉన్న చోటికి వెళ్లడం - ఆస్ట్రేలియా క్రికెట్‌కు ఎదురయ్యే ప్రమాదం గురించి కమిన్స్ వాణిని వినిపించాడు",
+      "summary_te": "ఫ్రాంచైజీ క్రికెట్‌లో ఎక్కువ సంపాదించగలిగితే భవిష్యత్తులో ఎక్కువ మంది ఆటగాళ్ళు క్రికెట్ ఆస్ట్రేలియా కాంట్రాక్టులను వదులుకోవచ్చని ఆస్ట్రేలియా కెప్టెన్ ఆందోళన వ్యక్తం చేశాడు",
+      "translated": true
+    },
+    {
+      "id": "9bee06cfdb100ac883ffe4464a51ee67",
+      "title": "Cummins on his IPL return: 'If nothing goes wrong, I will play the back half plus the finals'",
+      "summary": "He has arrived in India and did light sprints at warm-ups at the Chinnaswamy on Wednesday, before bowling casually into an empty net",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529162.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/381500/381543.jpg",
+      "published_at": "2026-03-27T03:02:38.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "తన IPL పునరాగమనంలో కమిన్స్: 'ఏమీ తప్పు జరగకపోతే, నేను బ్యాక్ హాఫ్ ప్లస్ ఫైనల్స్ ఆడతాను'",
+      "summary_te": "అతను భారతదేశానికి చేరుకున్నాడు మరియు బుధవారం చిన్నస్వామి వద్ద వార్మప్‌లో తేలికపాటి స్ప్రింట్‌లు చేశాడు, ఖాళీ నెట్‌లోకి క్యాజువల్‌గా బౌలింగ్ చేశాడు.",
+      "translated": true
+    },
+    {
+      "id": "a161a7315ad7eaea1c9bdb93b5678901",
+      "title": "IPL ने पूरे लीग चरण का शेड्यूल जारी किया",
+      "summary": "धर्मशाला और रायपुर में खेले जाएंगे कई मुक़ाबले",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529219.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
+      "published_at": "2026-03-27T02:53:08.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "IPL నే పూరే లీగ్ చరణ్ కా షెడ్యుల్ జారి కియా",
+      "summary_te": "ధర్మశాల మరియు రాయపూర్ మేం ఖేలే జాంగే కై ముఖాబలే",
+      "translated": true
+    },
+    {
+      "id": "485c6b7dccfa812d3da3d68ab794ff49",
+      "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
+      "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
+      "published_at": "2026-03-27T02:16:39.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "రాజస్థాన్ రాయల్స్ US ఆధారిత పెట్టుబడిదారుల కన్సార్టియం US $ 1.635 బిలియన్లకు విక్రయించబడింది.",
+      "summary_te": "బిడ్‌లో అన్ని రాయల్స్ బ్రాండెడ్ జట్ల యాజమాన్యం ఉంది: SA20లో పార్ల్ రాయల్స్ మరియు CPLలో బార్బడోస్ రాయల్స్",
+      "translated": true
+    },
     {
       "id": "4743455ea8ecd6ceb6607c698e398f98",
       "title": "All-round Qalandars take down Kingsmen with ease in PSL opener",
@@ -35,7 +105,7 @@
     {
       "id": "a4367009150b5a46aece347879bb17dd",
       "title": "PSL 2026: Teams allowed to submit two XIs and pick one after toss",
-      "summary": "NewsPSL 2026: Teams allowed to submit two XIs and pick one after tossThe new rule aims to neutralise dew advantageAhsan Iftikhar NagiPublished: Mar 26, 2026, 4:52 PM (8 hrs ago)Hyderabad Kingsmen captain Marnus Labuschagne warms up&nbsp;&nbsp;&bull;&nbsp;&nbsp;PSL{\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\",\"contentUrl\":\"https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/414900/414910.4.jpg\",\"caption\":\"Hyderabad Kingsmen captain Marnus Labuschagne warms up\"}Shaheen Shah Afridi and Marnus Labuschagne, captains of Lahore Qalandars and Hyderabad Kingsmen, walked out with two team sheets each for the toss ahead of the opening match of PSL 2026 and selected their final XIs based on which way the coin fell.This was in accordance with a new regulation in the PSL playing conditions, which permits the captains to submit two team sheets to the match referee before the toss and finalise one of the submitted line-ups after the toss.The clause 1.2.1 in the \"Nomination and Replacement of Players\" section reads: \"Before the toss, each captain may submit two (2) different XI lineups in writing to the PSL Match Referee. Each lineup must include 11 players and a maximum of 4 substitute fielders (subject to Clause 1.2.5). After the toss, each captain must finalise one of the two submitted lineups by signing the selected team sheet. Once the final lineup has been nominated, no player listed in the selected playing eleven may be changed before the start of the match without the consent of the opposing captain.\"Tosses can play a significant role in this part of the world in night matches as a result of dew. The ball often gets wet and difficult to grip for the spinners, making them ineffective in the second innings. This change in the playing conditions is expected to provide a level playing field - a team batting first can add a fast bowler instead of a spinner while a team batting second can look to add depth to their batting.There were no signs of dew in the first match of the season however because of the wind throughout the day and cloud cover.Hyderabad KingsmenLahore QalandarsQalandars vs KingsmenPakistan Super LeagueAhsan Iftikhar Nagi is a cricket journalist based in Lahore",
+      "summary": "NewsPSL 2026: Teams allowed to submit two XIs and pick one after tossThe new rule aims to neutralise dew advantageAhsan Iftikhar NagiPublished: Mar 26, 2026, 4:52 PM (11 hrs ago)Hyderabad Kingsmen captain Marnus Labuschagne warms up&nbsp;&nbsp;&bull;&nbsp;&nbsp;PSL{\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\",\"contentUrl\":\"https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/414900/414910.4.jpg\",\"caption\":\"Hyderabad Kingsmen captain Marnus Labuschagne warms up\"}Shaheen Shah Afridi and Marnus Labuschagne, captains of Lahore Qalandars and Hyderabad Kingsmen, walked out with two team sheets each for the toss ahead of the opening match of PSL 2026 and selected their final XIs based on which way the coin fell.This was in accordance with a new regulation in the PSL playing conditions, which permits the captains to submit two team sheets to the match referee before the toss and finalise one of the submitted line-ups after the toss.The clause 1.2.1 in the \"Nomination and Replacement of Players\" section reads: \"Before the toss, each captain may submit two (2) different XI lineups in writing to the PSL Match Referee. Each lineup must include 11 players and a maximum of 4 substitute fielders (subject to Clause 1.2.5). After the toss, each captain must finalise one of the two submitted lineups by signing the selected team sheet. Once the final lineup has been nominated, no player listed in the selected playing eleven may be changed before the start of the match without the consent of the opposing captain.\"Tosses can play a significant role in this part of the world in night matches as a result of dew. The ball often gets wet and difficult to grip for the spinners, making them ineffective in the second innings. This change in the playing conditions is expected to provide a level playing field - a team batting first can add a fast bowler instead of a spinner while a team batting second can look to add depth to their batting.There were no signs of dew in the first match of the season however because of the wind throughout the day and cloud cover.Hyderabad KingsmenLahore QalandarsQalandars vs KingsmenPakistan Super LeagueAhsan Iftikhar Nagi is a cricket journalist based in Lahore",
       "url": "https://www.espncricinfo.com/ci/content/story/1529317.html?ex_cid=OTC-RSS",
       "image": "http://p.imgci.com/db/PICTURES/CMS/414900/414910.jpg",
       "published_at": "2026-03-26T17:06:49.000Z",
@@ -43,7 +113,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "PSL 2026: రెండు XIలను సమర్పించడానికి మరియు టాస్ తర్వాత ఒకరిని ఎంచుకోవడానికి జట్లు అనుమతించబడతాయి",
-      "summary_te": "NewsPSL 2026: టీమ్‌లు ఇద్దరు XIలను సమర్పించడానికి మరియు టాస్ తర్వాత ఒకరిని ఎంచుకోవడానికి అనుమతించబడతాయి, కొత్త నియమం మంచు ప్రయోజనాన్ని తటస్థీకరించడం లక్ష్యంగా పెట్టుకుందిఅహ్సాన్ ఇఫ్తికార్ నాగిPublished: Mar 26, 2026, 4:52 PM (8 గంటల క్రితం)హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్ మార్నస్ లాబుస్‌చాగ్నే వార్మ్ పైకి  •  PSL{\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\",\"contentUrl\":\"https://img1.h scicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/414900/414910.4.jpg\",\"శీర్షిక\":\"హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్ మార్నస్ లాబుస్‌చాగ్నే వేడెక్కాడు\"}లాహోర్ ఖలందర్స్ మరియు హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్‌లు షహీన్ షా అఫ్రిది మరియు మార్నస్ లాబుస్‌చాగ్నే, PSL 2026 ప్రారంభ మ్యాచ్‌కు ముందు టాస్ కోసం రెండు టీమ్ షీట్‌లతో వాకౌట్ చేశారు మరియు వారి చివరి XIలను ఎంచుకున్నారు. టాస్‌కు ముందు మ్యాచ్ రిఫరీకి రెండు టీమ్ షీట్‌లను సమర్పించడానికి కెప్టెన్‌లను అనుమతిస్తుంది మరియు టాస్ తర్వాత సమర్పించిన లైనప్‌లలో ఒకదాన్ని ఖరారు చేస్తుంది. \"నామినేషన్ మరియు ప్లేయర్స్ రీప్లేస్‌మెంట్\" విభాగంలోని నిబంధన 1.2.1 ఇలా ఉంది: \"టాస్‌కు ముందు, ప్రతి కెప్టెన్ ఇద్దరు (2) వేర్వేరు XI లైనప్‌లను వ్రాతపూర్వకంగా సమర్పించవచ్చు మరియు గరిష్టంగా 1 PSL మ్యాచ్‌కి 1 లైనప్ 4ని కలిగి ఉండాలి. ప్రత్యామ్నాయ ఫీల్డర్లు (నిబంధన 1.2.5కు లోబడి) టాస్ తర్వాత, ప్రతి కెప్టెన్ ఎంపిక చేసిన జట్టు షీట్‌పై సంతకం చేయడం ద్వారా సమర్పించిన రెండు లైనప్‌లలో ఒకదానిని ఖరారు చేయాలి, ఎంపిక చేసిన ప్లేయింగ్ ఎలెవన్‌లో జాబితా చేయబడిన ఏ ఆటగాడు మ్యాచ్ ప్రారంభానికి ముందు ఈ మ్యాచ్‌లో ముఖ్యమైన పాత్ర పోషించే మ్యాచ్‌లో కెప్టెన్‌గా మారకూడదు. మంచు. బంతి తరచుగా తడిగా ఉంటుంది మరియు స్పిన్నర్లకు పట్టుకోవడం కష్టమవుతుంది, తద్వారా వారు రెండవ ఇన్నింగ్స్‌లో పనికిరాకుండా పోతారు. ఆట పరిస్థితులలో ఈ మార్పు ఒక స్థాయి ఆట మైదానాన్ని అందించగలదని భావిస్తున్నారు - మొదట బ్యాటింగ్ చేసే జట్టు స్పిన్నర్‌కు బదులుగా ఫాస్ట్ బౌలర్‌ను జోడించవచ్చు, రెండవ బ్యాటింగ్ చేసే జట్టు తమ బ్యాటింగ్‌లో లోతును పెంచుకోవచ్చు. అయితే రోజంతా గాలులు మరియు మేఘాల కవచం కారణంగా ఈ సీజన్‌లో మొదటి మ్యాచ్‌లో మంచు మంచు కనిపించలేదు. లాహోర్‌లో ఉంది",
+      "summary_te": "NewsPSL 2026: టీమ్‌లు ఇద్దరు XIలను సమర్పించడానికి మరియు టాస్ తర్వాత ఒకరిని ఎంచుకోవడానికి అనుమతించబడతాయి, కొత్త నియమం మంచు ప్రయోజనాన్ని తటస్థీకరించడం లక్ష్యంగా పెట్టుకుందిఅహ్సాన్ ఇఫ్తికార్ నాగిPublished: Mar 26, 2026, 4:52 PM (11 గంటల క్రితం)హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్ మార్నస్ లాబుషాగ్నే వార్మస్ పైకి  •  PSL{\"@context\":\"https://schema.org\",\"@type\":\"ImageObject\",\"contentUrl\":\"https://img1.h scicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/414900/414910.4.jpg\",\"శీర్షిక\":\"హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్ మార్నస్ లాబుస్‌చాగ్నే వేడెక్కాడు\"}లాహోర్ ఖలందర్స్ మరియు హైదరాబాద్ కింగ్స్‌మెన్ కెప్టెన్‌లు షహీన్ షా అఫ్రిది మరియు మార్నస్ లాబుస్‌చాగ్నే, PSL 2026 ప్రారంభ మ్యాచ్‌కు ముందు టాస్ కోసం రెండు టీమ్ షీట్‌లతో వాకౌట్ చేశారు మరియు వారి చివరి XIలను ఎంచుకున్నారు. టాస్‌కు ముందు మ్యాచ్ రిఫరీకి రెండు టీమ్ షీట్‌లను సమర్పించడానికి కెప్టెన్‌లను అనుమతిస్తుంది మరియు టాస్ తర్వాత సమర్పించిన లైనప్‌లలో ఒకదాన్ని ఖరారు చేస్తుంది. \"నామినేషన్ మరియు ప్లేయర్స్ రీప్లేస్‌మెంట్\" విభాగంలోని నిబంధన 1.2.1 ఇలా ఉంది: \"టాస్‌కు ముందు, ప్రతి కెప్టెన్ ఇద్దరు (2) వేర్వేరు XI లైనప్‌లను వ్రాతపూర్వకంగా సమర్పించవచ్చు మరియు గరిష్టంగా 1 PSL మ్యాచ్‌కి 1 లైనప్ 4ని కలిగి ఉండాలి. ప్రత్యామ్నాయ ఫీల్డర్లు (నిబంధన 1.2.5కు లోబడి) టాస్ తర్వాత, ప్రతి కెప్టెన్ ఎంపిక చేసిన జట్టు షీట్‌పై సంతకం చేయడం ద్వారా సమర్పించిన రెండు లైనప్‌లలో ఒకదానిని ఖరారు చేయాలి, ఎంపిక చేసిన ప్లేయింగ్ ఎలెవన్‌లో జాబితా చేయబడిన ఏ ఆటగాడు మ్యాచ్ ప్రారంభానికి ముందు ఈ మ్యాచ్‌లో ముఖ్యమైన పాత్ర పోషించే మ్యాచ్‌లో కెప్టెన్‌గా మారకూడదు. మంచు. బంతి తరచుగా తడిగా ఉంటుంది మరియు స్పిన్నర్లకు పట్టుకోవడం కష్టమవుతుంది, తద్వారా వారు రెండవ ఇన్నింగ్స్‌లో పనికిరాకుండా పోతారు. ఆట పరిస్థితులలో ఈ మార్పు ఒక స్థాయి ఆట మైదానాన్ని అందించగలదని భావిస్తున్నారు - మొదట బ్యాటింగ్ చేసే జట్టు స్పిన్నర్‌కు బదులుగా ఫాస్ట్ బౌలర్‌ను జోడించవచ్చు, రెండవ బ్యాటింగ్ చేసే జట్టు తమ బ్యాటింగ్‌లో లోతును పెంచుకోవచ్చు. అయితే రోజంతా గాలులు మరియు మేఘాల కవచం కారణంగా ఈ సీజన్‌లో మొదటి మ్యాచ్‌లో మంచు మంచు కనిపించలేదు. లాహోర్‌లో ఉంది",
       "translated": true
     },
     {
@@ -58,20 +128,6 @@
       "language": "en",
       "title_te": "IPL పూర్తి లీగ్ స్టేజ్ షెడ్యూల్‌ను విడుదల చేయడంతో ముంబై రెండుసార్లు CSK మరియు RCB తలపడనుంది",
       "summary_te": "ఈ హై-ప్రొఫైల్ ఘర్షణలను సులభతరం చేయడంలో సహాయపడటానికి BCCI నియమాన్ని మార్చింది",
-      "translated": true
-    },
-    {
-      "id": "485c6b7dccfa812d3da3d68ab794ff49",
-      "title": "Rajasthan Royals sold to consortium of US-based investors for US $1.635 billion",
-      "summary": "Bid included ownership of all of Royals' branded teams: Paarl Royals in SA20, and Barbados Royals in CPL",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529072.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/400700/400736.jpg",
-      "published_at": "2026-03-26T16:16:26.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రాజస్థాన్ రాయల్స్ US ఆధారిత పెట్టుబడిదారుల కన్సార్టియం US $ 1.635 బిలియన్లకు విక్రయించబడింది.",
-      "summary_te": "బిడ్‌లో అన్ని రాయల్స్ బ్రాండెడ్ జట్ల యాజమాన్యం ఉంది: SA20లో పార్ల్ రాయల్స్ మరియు CPLలో బార్బడోస్ రాయల్స్",
       "translated": true
     },
     {
@@ -159,20 +215,6 @@
       "translated": true
     },
     {
-      "id": "a161a7315ad7eaea1c9bdb93b5678901",
-      "title": "IPL ने पूरे लीग चरण का शेड्यूल जारी किया",
-      "summary": "धर्मशाला और रायपुर में खेले जाएंगे कई मुक़ाबले",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529219.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414891.jpg",
-      "published_at": "2026-03-26T13:13:35.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "IPL నే పూరే లీగ్ చరణ్ కా షెడ్యుల్ జారి కియా",
-      "summary_te": "ధర్మశాల మరియు రాయపూర్ మేం ఖేలే జాంగే కై ముఖాబలే",
-      "translated": true
-    },
-    {
       "id": "d776262c91245d4d34ba86b2b37f2739",
       "title": "International cricket returns to Bengaluru in busy 2026-27 season",
       "summary": "Zimbabwe are set to embark on their first bilateral tour of India since 2002",
@@ -184,20 +226,6 @@
       "language": "en",
       "title_te": "అంతర్జాతీయ క్రికెట్ బిజీ 2026-27 సీజన్‌లో బెంగళూరుకు తిరిగి వస్తుంది",
       "summary_te": "జింబాబ్వే 2002 తర్వాత భారత్‌లో తమ మొదటి ద్వైపాక్షిక పర్యటనను ప్రారంభించనుంది",
-      "translated": true
-    },
-    {
-      "id": "2fcb82399eed6e3f236cc0e3e532cb36",
-      "title": "Going where the money is - Cummins voices the danger facing Australian cricket",
-      "summary": "The Australia captain weighs in on concerns that more players might forego Cricket Australia contracts in the future if they can earn more in franchise cricket",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529207.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/411100/411169.png",
-      "published_at": "2026-03-26T10:53:10.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "డబ్బు ఉన్న చోటికి వెళ్లడం - ఆస్ట్రేలియా క్రికెట్‌కు ఎదురయ్యే ప్రమాదం గురించి కమిన్స్ వాణిని వినిపించాడు",
-      "summary_te": "ఫ్రాంచైజీ క్రికెట్‌లో ఎక్కువ సంపాదించగలిగితే భవిష్యత్తులో ఎక్కువ మంది ఆటగాళ్ళు క్రికెట్ ఆస్ట్రేలియా కాంట్రాక్టులను వదులుకోవచ్చని ఆస్ట్రేలియా కెప్టెన్ ఆందోళన వ్యక్తం చేశాడు",
       "translated": true
     },
     {
@@ -254,20 +282,6 @@
       "language": "en",
       "title_te": "పృథ్వీ షా: 'నేను మానసికంగా దృఢంగా ఉండేందుకు నాకు విరామం కావాలి'",
       "summary_te": "IPL 2025 వేలంలో అమ్ముడుపోని తర్వాత తిరిగి ఢిల్లీ క్యాపిటల్స్‌తో షా రాహుల్‌తో కలిసి ఓపెనింగ్ చేయడానికి నిస్సాంకా మరియు పోరెల్‌లతో పోటీపడతాడు.",
-      "translated": true
-    },
-    {
-      "id": "9bee06cfdb100ac883ffe4464a51ee67",
-      "title": "Cummins on his IPL return: 'If nothing goes wrong, I will play the back half plus the finals'",
-      "summary": "He has arrived in India and did light sprints at warm-ups at the Chinnaswamy on Wednesday, before bowling casually into an empty net",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529162.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/381500/381543.jpg",
-      "published_at": "2026-03-25T15:32:33.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "తన IPL పునరాగమనంలో కమిన్స్: 'ఏమీ తప్పు జరగకపోతే, నేను బ్యాక్ హాఫ్ ప్లస్ ఫైనల్స్ ఆడతాను'",
-      "summary_te": "అతను భారతదేశానికి చేరుకున్నాడు మరియు బుధవారం చిన్నస్వామి వద్ద వార్మప్‌లో తేలికపాటి స్ప్రింట్‌లు చేశాడు, ఖాళీ నెట్‌లోకి క్యాజువల్‌గా బౌలింగ్ చేశాడు.",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "న్యూజిలాండ్ బౌలింగ్, నిర్ణయాత్మకంగా రెండు జట్లూ మారలేదు",
       "summary_te": "దక్షిణాఫ్రికా ఒకటి మరియు నాలుగు గేమ్‌లను గెలుచుకోవడంతో సిరీస్ 2-2తో లాక్ చేయబడింది మరియు న్యూజిలాండ్ రెండు మరియు మూడు గేమ్‌లను గెలుచుకుంది",
-      "translated": true
-    },
-    {
-      "id": "fd5f960eb784e19f879962827e346c95",
-      "title": "South Africa make 102 vs Kerr's 105 as New Zealand take series 4-1",
-      "summary": "Kerr returned figures of 2 for 6 to go with her century in a perfect all-round display that floored the visitors",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529109.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414870.jpg",
-      "published_at": "2026-03-25T05:42:20.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "న్యూజిలాండ్ 4-1తో సిరీస్‌ను కైవసం చేసుకోవడంతో దక్షిణాఫ్రికా 102 వర్సెస్ కెర్ 105 పరుగులు చేసింది.",
-      "summary_te": "కెర్ 6 పరుగులకు 2 పరుగులతో తన సెంచరీతో సంపూర్ణ ఆల్ రౌండ్ ప్రదర్శనతో సందర్శకులను మెప్పించింది.",
       "translated": true
     }
   ]
