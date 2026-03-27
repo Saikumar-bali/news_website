@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-27T11:46:36.848Z",
-  "updated_at_IST": "27/3/2026, 5:16:36 pm",
+  "updated_at": "2026-03-27T12:48:03.891Z",
+  "updated_at_IST": "27/3/2026, 6:18:03 pm",
   "category": "andhra",
-  "count": 23,
+  "count": 25,
   "articles": [
+    {
+      "id": "26790028c87a48f10d225b7c2b147e4d",
+      "title": "Emergency landing of drone creates panic in tribal hamlet at G. Madugula in ASR district",
+      "summary": "The drone operated by Redwing was being tested as part of an initiative to deliver medicines to remote Agency areas. It had taken off from Paderu and was en route to G. Madugula when it reportedly went out of control mid-flight, says sources",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/emergency-landing-of-drone-creates-panic-in-tribal-hamlet-at-g-madugula-in-asr-district/article70791768.ece",
+      "image": null,
+      "published_at": "2026-03-27T10:45:07.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "డ్రోన్ ఎమర్జెన్సీ ల్యాండింగ్ ASR జిల్లాలోని జి. మాడుగుల వద్ద గిరిజన కుగ్రామంలో భయాందోళనలు సృష్టించింది",
+      "summary_te": "రెడ్‌వింగ్ ద్వారా నిర్వహించబడే డ్రోన్‌ను మారుమూల ఏజెన్సీ ప్రాంతాలకు మందులను పంపిణీ చేసే చొరవలో భాగంగా పరీక్షించబడుతోంది. ఇది పాడేరు నుంచి బయలుదేరి జి. మాడుగుల వైపు వెళుతుండగా, విమానం మధ్యలో అదుపు తప్పిందని సంబంధిత వర్గాలు తెలిపాయి.",
+      "translated": true
+    },
+    {
+      "id": "4964a28b50b6db27ed5e588137a4894f",
+      "title": "Robots, drones and sprayers available for farmers ready to switch to modern technology",
+      "summary": "Mechanisation, natural farming to help overcome farmer distress, says ICAR award winning progressive farmer",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/robots-drones-and-sprayers-available-for-farmers-ready-to-switch-to-modern-technology/article70791482.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vsf653/article70792108.ece/alternates/LANDSCAPE_1200/9604_27_3_2026_15_24_31_3_WHATSAPPIMAGE2026_03_27AT123556.JPEG",
+      "published_at": "2026-03-27T10:18:56.000Z",
+      "source": "The Hindu AP",
+      "category": "andhra",
+      "language": "en",
+      "title_te": "ఆధునిక సాంకేతికతకు మారేందుకు సిద్ధంగా ఉన్న రైతుల కోసం రోబోలు, డ్రోన్లు మరియు స్ప్రేయర్లు అందుబాటులో ఉన్నాయి",
+      "summary_te": "యాంత్రీకరణ, సహజ వ్యవసాయం రైతు కష్టాలను అధిగమించడానికి సహాయపడుతుందని ఐసిఎఆర్ అవార్డు గ్రహీత ప్రగతిశీల రైతు చెప్పారు",
+      "translated": true
+    },
     {
       "id": "64f367650df715f54991be76fa6f4e04",
       "title": "Accused shot at and injured during scene reconstruction of kidnap of 5-year-old in Anantapur",
