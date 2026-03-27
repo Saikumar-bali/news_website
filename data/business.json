@@ -1,12 +1,68 @@
 {
-  "updated_at": "2026-03-27T08:04:56.710Z",
-  "updated_at_IST": "27/3/2026, 1:34:56 pm",
+  "updated_at": "2026-03-27T08:50:57.897Z",
+  "updated_at_IST": "27/3/2026, 2:20:57 pm",
   "category": "business",
   "count": 65,
   "articles": [
     {
+      "id": "0e282e868e6e44ac2e376e5255732ed2",
+      "title": "Sonia Gandhi health Update: Congress leader showing improvement, will be discharged from hospital soon, say doctors",
+      "summary": "Senior Congress leader Sonia Gandhi is recovering well from a systemic infection, with doctors optimistic about her discharge in the next couple of days. Her condition improved significantly after treatment, despite complications from bronchial asthma aggravated by Delhi's weather conditions.",
+      "url": "https://www.livemint.com/news/india/sonia-gandhi-health-update-congress-leader-showing-improvement-will-be-discharged-from-hospital-soon-say-doctors-11774599984536.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/PTI02-26-2026-000567A-0_1774600044831_1774600059527.jpg",
+      "published_at": "2026-03-27T08:31:16.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "సోనియాగాంధీ హెల్త్‌ అప్‌డేట్‌: కాంగ్రెస్‌ నాయకురాలు మెరుగ్గా ఉందని, త్వరలో ఆసుపత్రి నుంచి డిశ్చార్జ్‌ అవుతారని వైద్యులు తెలిపారు",
+      "summary_te": "కాంగ్రెస్ సీనియర్ నాయకురాలు సోనియా గాంధీ దైహిక ఇన్ఫెక్షన్ నుండి బాగా కోలుకుంటున్నారు, రాబోయే రెండు రోజుల్లో ఆమె డిశ్చార్జ్ అవుతుందని వైద్యులు ఆశాభావం వ్యక్తం చేస్తున్నారు. ఢిల్లీ వాతావరణ పరిస్థితుల వల్ల బ్రోన్చియల్ ఆస్తమా తీవ్రతరం అయినప్పటికీ, చికిత్స తర్వాత ఆమె పరిస్థితి గణనీయంగా మెరుగుపడింది.",
+      "translated": true
+    },
+    {
+      "id": "7eeff0c8cefe5251b4531ccdad742bf6",
+      "title": "After Hardeep Puri, now FM Sitharaman fact-checks lockdown rumours, says 'want to reassure...'",
+      "summary": "After Petroleum Minister Hardeep Singh Puri rejected speculation of a nationwide lockdown, Finance Minister Nirmala Sitharaman on Friday moved to firmly dispel the rumours, assuring citizens",
+      "url": "https://www.livemint.com/news/india/after-hardeep-puri-now-fm-sitharaman-fact-checks-lockdown-rumours-says-want-to-reassure-11774596033753.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/ANI-20260325088-0_1774596680544_1774596811411.jpg",
+      "published_at": "2026-03-27T08:03:03.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "హర్‌దీప్ పూరి తర్వాత, ఇప్పుడు FM సీతారామన్ లాక్‌డౌన్ పుకార్లను వాస్తవం-తనిఖీలు చేస్తూ, 'అభయమివ్వాలనుకుంటున్నాను...'",
+      "summary_te": "పెట్రోలియం మంత్రి హర్దీప్ సింగ్ పూరి దేశవ్యాప్తంగా లాక్‌డౌన్ ఊహాగానాలను తిరస్కరించిన తరువాత, ఆర్థిక మంత్రి నిర్మలా సీతారామన్ శుక్రవారం పౌరులకు భరోసా ఇస్తూ పుకార్లను గట్టిగా తొలగించడానికి వెళ్లారు.",
+      "translated": true
+    },
+    {
+      "id": "89216fc5a4a91dede39c1485975b845f",
+      "title": "Rupee under pressure: Macro headwinds signal further weakness ahead, says Navneet Damani",
+      "summary": "The Indian rupee is experiencing a significant decline. Global economic shifts and domestic challenges are driving this depreciation. Analysts point to a stronger US dollar and rising US bond yields. Elevated crude oil prices also pose a risk. This situation complicates the Reserve Bank of India's policy outlook. The rupee may remain under pressure in the coming period.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/rupee-under-pressure-macro-headwinds-signal-further-weakness-ahead-says-navneet-damani/articleshow/129842005.cms",
+      "image": null,
+      "published_at": "2026-03-27T08:01:30.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఒత్తిడిలో రూపాయి: మాక్రో హెడ్‌విండ్‌లు మరింత బలహీనతను సూచిస్తాయని నవనీత్ దమానీ చెప్పారు",
+      "summary_te": "భారత రూపాయి గణనీయంగా క్షీణిస్తోంది. ప్రపంచ ఆర్థిక మార్పులు మరియు దేశీయ సవాళ్లు ఈ తరుగుదలను నడిపిస్తున్నాయి. విశ్లేషకులు బలమైన US డాలర్ మరియు పెరుగుతున్న US బాండ్ ఈల్డ్‌లను సూచిస్తున్నారు. పెరిగిన ముడి చమురు ధరలు కూడా ప్రమాదాన్ని కలిగిస్తాయి. ఈ పరిస్థితి రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా పాలసీ దృక్పథాన్ని క్లిష్టతరం చేస్తుంది. రానున్న కాలంలో రూపాయి ఒత్తిడిలో ఉండొచ్చు.",
+      "translated": true
+    },
+    {
+      "id": "95c93d7fe3ca083bbb5d23305944520d",
+      "title": "Quote of the Day by Azim Premji: ‘I would like to see a world where every human being has a chance to achieve…’",
+      "summary": "Quote of the day, 27 March: Azim Premji, founder of Wipro, transformed India's IT landscape and dedicated his wealth to philanthropy. His philosophy emphasizes importance of opportunities for all, highlighting that true success involves empowering individuals rather than solely focusing on wealth.",
+      "url": "https://www.livemint.com/news/us-news/quote-of-the-day-by-azim-premji-i-would-like-to-see-a-world-where-every-human-being-has-a-chance-to-achieve-11774596020895.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/2-0-105930346-Azim-Premji-3C-0_1681367546856_1774596290981.jpg",
+      "published_at": "2026-03-27T08:01:19.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "అజీమ్ ప్రేమ్‌జీ యొక్క కోట్ ఆఫ్ ది డే: 'ప్రతి మనిషి సాధించే అవకాశం ఉన్న ప్రపంచాన్ని నేను చూడాలనుకుంటున్నాను...'",
+      "summary_te": "రోజు కోట్, 27 మార్చి: విప్రో వ్యవస్థాపకుడు అజీమ్ ప్రేమ్‌జీ, భారతదేశ ఐటీ ల్యాండ్‌స్కేప్‌ను మార్చారు మరియు తన సంపదను దాతృత్వానికి అంకితం చేశారు. అతని తత్వశాస్త్రం అందరికీ అవకాశాల ప్రాముఖ్యతను నొక్కి చెబుతుంది, నిజమైన విజయం అనేది కేవలం సంపదపై దృష్టి పెట్టడం కంటే వ్యక్తులను శక్తివంతం చేయడం అని హైలైట్ చేస్తుంది.",
+      "translated": true
+    },
+    {
       "id": "6d8aa7c7e0010ab8cfe766d251aa207f",
-      "title": "Balen Shah, 35, sworn in as Nepal’s youngest Prime Minister after Gen Z uprising",
+      "title": "Balen Shah, 35, sworn in as Nepal’s youngest Prime Minister after Gen Z uprising; PM Modi extends ‘warm congratulations’",
       "summary": "Balen Shah, 35, takes oath as Nepal’s youngest prime minister after a Gen Z-led uprising toppled the previous government, reshaping the country’s political landscape.",
       "url": "https://www.livemint.com/news/world/balen-shah-35-sworn-in-as-nepal-s-youngest-prime-minister-after-gen-z-uprising-11774595034336.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/PTI03-08-2026-000352B-0_1774595098004_1774595133414.jpg",
@@ -14,7 +70,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "Gen Z తిరుగుబాటు తర్వాత నేపాల్ యొక్క అతి పిన్న వయస్కుడైన ప్రధానమంత్రిగా బాలెన్ షా, 35, ప్రమాణ స్వీకారం చేశారు",
+      "title_te": "బలెన్ షా, 35, Gen Z తిరుగుబాటు తర్వాత నేపాల్ యొక్క అతి పిన్న వయస్కుడైన ప్రధాన మంత్రిగా ప్రమాణ స్వీకారం చేశారు; ప్ర‌ధాన మంత్రి మోదీ ‘హార్మ్‌ కాంగ్రాట్స్‌’",
       "summary_te": "35 ఏళ్ల బాలేన్ షా నేపాల్ యొక్క అత్యంత పిన్న వయస్కుడైన ప్రధాన మంత్రిగా ప్రమాణ స్వీకారం చేశారు, Gen Z నేతృత్వంలోని తిరుగుబాటు గత ప్రభుత్వాన్ని పడగొట్టి, దేశ రాజకీయ దృశ్యాన్ని పునర్నిర్మించింది.",
       "translated": true
     },
@@ -72,20 +128,6 @@
       "language": "en",
       "title_te": "ఢిల్లీ-ఎన్‌సిఆర్‌లోని కొన్ని ప్రాంతాల్లో వర్షం కురుస్తుంది, మేఘావృతమైన ఆకాశం పాదరసంలో తగ్గుదలని సూచిస్తుంది - వారాంతంలో మరిన్ని వర్షాలు?",
       "summary_te": "ఢిల్లీ-ఎన్‌సిఆర్‌లో శుక్రవారం ఉదయం తేలికపాటి జల్లులు పడ్డాయి, మరింత వర్షం వచ్చే అవకాశం ఉంది. IMD ఢిల్లీ మరియు సమీప ప్రాంతాలలో కొనసాగుతున్న వర్షపాతం మరియు ఈదురు గాలుల కోసం నౌకాస్ట్ హెచ్చరికను జారీ చేసింది, ఒంటరిగా ఉరుములు మరియు ఆదివారం తాజా కురుస్తున్న వర్షాలకు పసుపు హెచ్చరికను అంచనా వేసింది. IMD సూచనను ఇక్కడ తనిఖీ చేయండి",
-      "translated": true
-    },
-    {
-      "id": "5d5703be655ae8c583881f38d4f731d1",
-      "title": "Govt’s fuel duty cut seen as timely cushion; markets may have passed peak panic: Deven Choksey",
-      "summary": "India's fuel excise duty cut is a timely move to curb inflation and bolster consumer demand amid global turmoil. Experts believe this proactive step, similar to COVID-19 responses, offers a cushion for consumers and oil companies.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/govts-fuel-duty-cut-seen-as-timely-cushion-markets-may-have-passed-peak-panic-deven-choksey/articleshow/129839762.cms",
-      "image": null,
-      "published_at": "2026-03-27T06:02:11.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రభుత్వ ఇంధన డ్యూటీ కోత సకాలంలో పరిపుష్టిగా కనిపిస్తుంది; మార్కెట్లు తీవ్ర భయాందోళనలను దాటి ఉండవచ్చు: దేవెన్ చోక్సీ",
-      "summary_te": "భారతదేశం యొక్క ఇంధన ఎక్సైజ్ సుంకం తగ్గింపు ద్రవ్యోల్బణాన్ని అరికట్టడానికి మరియు ప్రపంచ గందరగోళం మధ్య వినియోగదారుల డిమాండ్‌ను పెంచడానికి సకాలంలో తీసుకున్న చర్య. COVID-19 ప్రతిస్పందనల మాదిరిగానే ఈ చురుకైన దశ వినియోగదారులకు మరియు చమురు కంపెనీలకు పరిపుష్టిని అందిస్తుందని నిపుణులు భావిస్తున్నారు.",
       "translated": true
     },
     {
@@ -244,7 +286,7 @@
     },
     {
       "id": "cd68ee35145be0620ebcaa9960e9e452",
-      "title": "Iran US War News LIVE: Israel launches strikes ‘in heart of Tehran’; Bahrain, Qatar sound security alerts",
+      "title": "Iran US War News LIVE: Israel targets Iranian sites producing ballistic missiles, air defence systems in latest attack",
       "summary": "Iran US War News LIVE: Trump has extended pause on US strikes targeting Iran’s energy infra, pushing the deadline to April 6. Meanwhile, the Indian government reduced a special additional excise duty on petrol and diesel in a relief for OMCs",
       "url": "https://www.livemint.com/news/world/iran-us-war-live-updates-march-27-trump-netanyahu-strait-of-hormuz-oil-price-russia-china-israel-11774569117578.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/USA-TRUMP--23_1774575849600_1774576037642.JPG",
@@ -252,7 +294,7 @@
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ US వార్ న్యూస్ లైవ్: ఇజ్రాయెల్ 'టెహ్రాన్ నడిబొడ్డున' దాడులను ప్రారంభించింది; బహ్రెయిన్, ఖతార్ సౌండ్ సెక్యూరిటీ అలర్ట్‌లు",
+      "title_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: తాజా దాడిలో బాలిస్టిక్ క్షిపణులు, వాయు రక్షణ వ్యవస్థలను ఉత్పత్తి చేసే ఇరాన్ సైట్‌లను ఇజ్రాయెల్ లక్ష్యంగా చేసుకుంది",
       "summary_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: ఇరాన్ ఎనర్జీ ఇన్‌ఫ్రా లక్ష్యంగా యుఎస్ స్ట్రైక్స్‌పై ట్రంప్ పాజ్ పొడిగించారు, గడువును ఏప్రిల్ 6కి పెంచారు. ఇంతలో, ఒఎంసిలకు ఉపశమనంగా భారత ప్రభుత్వం పెట్రోల్ మరియు డీజిల్‌పై ప్రత్యేక అదనపు ఎక్సైజ్ సుంకాన్ని తగ్గించింది.",
       "translated": true
     },
@@ -365,7 +407,7 @@
       "category": "business",
       "language": "en",
       "title_te": "IRGC నేవీ చీఫ్ అలిరెజా తంగ్సిరి హత్యకు హార్ముజ్ దిగ్బంధనంతో సంబంధం ఉందని ఇజ్రాయెల్ పేర్కొంది",
-      "summary_te": "\"గత రాత్రి, ఖచ్చితమైన మరియు ప్రాణాంతకమైన ఆపరేషన్‌లో, ఐఆర్‌జిసి నేవీ కమాండర్ టాంగ్‌సిరిని, సీనియర్ నేవల్ కమాండ్ అధికారులతో పాటు ఐడిఎఫ్ తొలగించింది\" అని ఇజ్రాయెల్ రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ వీడియో ప్రకటనలో తెలిపారు.",
+      "summary_te": "\"గత రాత్రి, ఖచ్చితమైన మరియు ప్రాణాంతకమైన ఆపరేషన్‌లో, IDF IRGC నేవీ యొక్క కమాండర్ టాంగ్‌సిరిని మరియు సీనియర్ నావికా కమాండ్ అధికారులను తొలగించింది\" అని ఇజ్రాయెల్ రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ ఒక వీడియో ప్రకటనలో తెలిపారు.",
       "translated": true
     },
     {
@@ -394,48 +436,6 @@
       "language": "en",
       "title_te": "ఎయిర్ ఇండియా శుక్రవారం గల్ఫ్ నగరాలకు & బయటికి 22 విమానాలను నడపనుంది, గమ్యస్థానాలలో జెద్దా, రియాద్ ఉన్నాయి - లోపల వివరాలు",
       "summary_te": "ఎయిర్ ఇండియా సర్వీసులు తాత్కాలికంగా నిలిపివేయబడిన రూట్లలో బుక్ చేసుకున్న ప్రయాణికులు ఎటువంటి అదనపు ఖర్చు లేకుండా తదుపరి తేదీకి తమ ప్రయాణాన్ని రీబుక్ చేసుకోవచ్చు లేదా పూర్తి రీఫండ్‌ను ఎంచుకోవచ్చు అని ఎయిర్‌లైన్ పత్రికా ప్రకటనలో పేర్కొంది.",
-      "translated": true
-    },
-    {
-      "id": "bdb2bbdab095282e5cd202bbd2120245",
-      "title": "Nancy Guthrie missing case: Savannah Guthrie says her fame might have prompted someone to target her mother",
-      "summary": "In her first interview since her 84-year-old mother went missing, Savannah Guthrie said her mother, Nancy Guthrie, may have been targeted due to her public profile. Nancy Guthrie has been missing since 1 February.&nbsp;",
-      "url": "https://www.livemint.com/news/us-news/nancy-guthrie-missing-case-savannah-guthrie-says-her-fame-might-have-prompted-someone-to-target-her-mother-11774546287627.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/USA-CRIME-GUTHRIE-3_1771184654446_1771184660048_1774547734780.JPG",
-      "published_at": "2026-03-26T18:13:00.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "నాన్సీ గుత్రీ మిస్సింగ్ కేసు: సవన్నా గుత్రీ మాట్లాడుతూ, ఆమె కీర్తి ఎవరైనా తన తల్లిని లక్ష్యంగా చేసుకోవడానికి ప్రేరేపించి ఉండవచ్చు",
-      "summary_te": "తన 84 ఏళ్ల తల్లి తప్పిపోయిన తర్వాత తన మొదటి ఇంటర్వ్యూలో, సవన్నా గుత్రీ తన పబ్లిక్ ప్రొఫైల్ కారణంగా ఆమె తల్లి నాన్సీ గుత్రీని లక్ష్యంగా చేసుకుని ఉండవచ్చు. నాన్సీ గుత్రీ ఫిబ్రవరి 1 నుండి కనిపించకుండా పోయింది. ",
-      "translated": true
-    },
-    {
-      "id": "bcb48fa98b3f92685b74c038daad8b3d",
-      "title": "Flat 12% share buyback surcharge only on promoters: IT department",
-      "summary": "The Income Tax Department clears up confusion about the new buyback regime in a social media post.",
-      "url": "https://www.livemint.com/news/india/income-tax-department-clarifies-share-buyback-surcharge-applies-only-promoters-11774547249228.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/tabank_1753271777542_1753271787096_1774548442942.jpg",
-      "published_at": "2026-03-26T18:11:29.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రమోటర్లపై మాత్రమే ఫ్లాట్ 12% షేర్ బైబ్యాక్ సర్‌ఛార్జ్: IT విభాగం",
-      "summary_te": "ఆదాయపు పన్ను శాఖ సోషల్ మీడియా పోస్ట్‌లో కొత్త బైబ్యాక్ పాలన గురించి గందరగోళాన్ని క్లియర్ చేసింది.",
-      "translated": true
-    },
-    {
-      "id": "2c3c6fe0f550942550422d469a2ddaec",
-      "title": "LaGuardia airport runway reopens after fatal Air Canada plane–fire truck collision",
-      "summary": "While runway operations have resumed, authorities continue to investigate how the clearance procedures failed, raising questions about airport ground safety at one of the nation’s busiest aviation hubs.",
-      "url": "https://www.livemint.com/news/us-news/laguardia-airport-runway-reopens-after-fatal-air-canada-plane-fire-truck-collision-11774547210030.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/NY-LaGuardia-Crash-0_1774547414938_1774547434233.jpg",
-      "published_at": "2026-03-26T17:57:30.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రాణాంతకమైన ఎయిర్ కెనడా విమానం-ఫైర్ ట్రక్ ఢీకొన్న తర్వాత లాగార్డియా విమానాశ్రయం రన్‌వే తిరిగి తెరవబడింది",
-      "summary_te": "రన్‌వే కార్యకలాపాలు పునఃప్రారంభించబడినప్పటికీ, దేశంలోని అత్యంత రద్దీగా ఉండే విమానయాన కేంద్రాలలో ఒకటైన విమానాశ్రయం గ్రౌండ్ సేఫ్టీ గురించి ప్రశ్నలను లేవనెత్తుతూ, క్లియరెన్స్ విధానాలు ఎలా విఫలమయ్యాయనే దానిపై అధికారులు దర్యాప్తు కొనసాగిస్తున్నారు.",
       "translated": true
     },
     {
@@ -491,7 +491,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
