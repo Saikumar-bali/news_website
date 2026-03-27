@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-27T16:53:17.807Z",
-  "updated_at_IST": "27/3/2026, 10:23:17 pm",
+  "updated_at": "2026-03-27T17:55:06.489Z",
+  "updated_at_IST": "27/3/2026, 11:25:06 pm",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "bdd5147435f7e3498d64db7cb9c38521",
+      "title": "Glamorgan sign Fazalhaq Farooqi for T20 Blast",
+      "summary": "Becomes first Afghan to play for county, having already featured for Notts and Manchester Originals",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529440.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/395000/395009.jpg",
+      "published_at": "2026-03-27T17:03:05.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "గ్లామోర్గాన్ T20 బ్లాస్ట్‌కు ఫజల్‌హాక్ ఫారూకీని సంతకం చేసింది",
+      "summary_te": "ఇప్పటికే నాట్స్ మరియు మాంచెస్టర్ ఒరిజినల్స్ కోసం ఆడిన మొదటి ఆఫ్ఘన్ కౌంటీకి ఆడాడు",
+      "translated": true
+    },
     {
       "id": "8db1c0c932421ccf77a687786439dd01",
       "title": "RCB, SRH and Chinnaswamy come together for IPL's opening night",
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "KKRలో హర్షిత్ రానా స్థానంలో నవదీప్ సైనీ; GTలో పృథ్వీ రాజ్ యర్రా కోసం కుల్వంత్ ఖేజ్రోలియా",
       "summary_te": "\"నేను ఈ అవకాశాన్ని మరొక పేరు పెట్టవలసి వస్తే, నేను దానిని పునరుజ్జీవనం అని పిలుస్తాను\" అని 2023లో చివరిగా IPL మ్యాచ్ ఆడిన సైనీ చెప్పాడు.",
-      "translated": true
-    },
-    {
-      "id": "8fb33c62c6061502315c92e04243e7b0",
-      "title": "Khawaja replaces Laurie Evans for Rawalpindi Pindiz",
-      "summary": "Meanwhile, Chris Green replaces Max Bryant at Islamabad United",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529156.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/323300/323356.jpg",
-      "published_at": "2026-03-25T15:06:40.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "రావల్పిండి పిండిజ్ కోసం ఖవాజా లారీ ఎవాన్స్ స్థానంలో ఉన్నాడు",
-      "summary_te": "ఇంతలో, క్రిస్ గ్రీన్ ఇస్లామాబాద్ యునైటెడ్‌లో మాక్స్ బ్రయంట్ స్థానంలో ఉన్నాడు",
       "translated": true
     }
   ]
