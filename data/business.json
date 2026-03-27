@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-03-27T18:50:59.143Z",
-  "updated_at_IST": "28/3/2026, 12:20:59 am",
+  "updated_at": "2026-03-27T19:47:20.523Z",
+  "updated_at_IST": "28/3/2026, 1:17:20 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "57500165e7bdd8204631ff17d5e885bd",
+      "title": "Finance minister Nirmala Sitharaman assures fiscal vigil amid oil spike",
+      "summary": "India's Finance Minister Nirmala Sitharaman is boosting efforts to raise funds and control the fiscal deficit. The government is protecting citizens from rising crude oil prices. Lockdowns are not planned. She urged leaders to avoid spreading rumors. Excise duty on petrol and diesel has been cut to manage domestic inflation and volatility.",
+      "url": "https://economictimes.indiatimes.com/news/india/finance-minister-nirmala-sitharaman-assures-fiscal-vigil-amid-oil-spike/articleshow/129853830.cms",
+      "image": null,
+      "published_at": "2026-03-27T19:19:50.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "ఆయిల్ స్పైక్ నేపథ్యంలో ఆర్థిక నిఘాకు ఆర్థిక మంత్రి నిర్మలా సీతారామన్ హామీ ఇచ్చారు",
+      "summary_te": "భారత ఆర్థిక మంత్రి నిర్మలా సీతారామన్ నిధుల సమీకరణ మరియు ద్రవ్య లోటును నియంత్రించే ప్రయత్నాలను ప్రోత్సహిస్తున్నారు. పెరుగుతున్న ముడి చమురు ధరల నుండి పౌరులను ప్రభుత్వం కాపాడుతోంది. లాక్‌డౌన్‌లు ప్లాన్ చేయలేదు. పుకార్లు వ్యాప్తి చేయవద్దని ఆమె నేతలను కోరారు. దేశీయ ద్రవ్యోల్బణం మరియు అస్థిరతను నియంత్రించడానికి పెట్రోల్ మరియు డీజిల్‌పై ఎక్సైజ్ సుంకం తగ్గించబడింది.",
+      "translated": true
+    },
+    {
+      "id": "a54bcb39f7dcd847f028029fcf3f22c4",
+      "title": "India, US review next steps in trade pact talks",
+      "summary": "Commerce and Industry Minister Piyush Goyal met with US Trade Representative Jamieson Greer and Chinese counterpart Wang Wentao on the sidelines of the WTO Ministerial Conference. Discussions focused on the proposed India-US bilateral trade agreement and bilateral trade matters with China, amidst India's growing trade deficit with the latter.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-review-next-steps-in-trade-pact-talks/articleshow/129853750.cms",
+      "image": null,
+      "published_at": "2026-03-27T19:13:27.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "వాణిజ్య ఒప్పంద చర్చల తదుపరి చర్యలను భారత్, అమెరికా సమీక్షించాయి",
+      "summary_te": "WTO మంత్రివర్గ సమావేశం సందర్భంగా వాణిజ్యం మరియు పరిశ్రమల మంత్రి పీయూష్ గోయల్ US వాణిజ్య ప్రతినిధి జామీసన్ గ్రీర్ మరియు చైనా కౌంటర్ వాంగ్ వెంటావోతో సమావేశమయ్యారు. చైనాతో భారత్ వాణిజ్య లోటు పెరుగుతున్న నేపథ్యంలో, ప్రతిపాదిత భారత్-అమెరికా ద్వైపాక్షిక వాణిజ్య ఒప్పందం మరియు చైనాతో ద్వైపాక్షిక వాణిజ్య విషయాలపై చర్చలు దృష్టి సారించాయి.",
+      "translated": true
+    },
+    {
+      "id": "65245bbddcec5842ded1ced483a7e537",
+      "title": "Govt will take all steps to prevent West Asia conflict adding burden on its citizens: Nirmala Sitharaman",
+      "summary": "The government is working with the guidance to prevent the current West Asian conflict from becoming a burden on its citizens, finance minister Nirmala Sitaraman said on Friday.",
+      "url": "https://www.livemint.com/news/india/govt-will-take-all-steps-to-prevent-west-asia-conflict-adding-burden-on-its-citizens-nirmala-sitharaman-11774619253097.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/ANI-20260323112-0_1774637351354_1774637368723.jpg",
+      "published_at": "2026-03-27T19:04:25.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "పశ్చిమాసియా వివాదాలు తమ పౌరులపై భారం మోపకుండా నిరోధించేందుకు ప్రభుత్వం అన్ని చర్యలు తీసుకుంటుంది: నిర్మలా సీతారామన్",
+      "summary_te": "ప్రస్తుత పశ్చిమాసియా వివాదం తమ పౌరులపై భారంగా మారకుండా నిరోధించేందుకు ప్రభుత్వం మార్గదర్శకత్వంతో పనిచేస్తోందని ఆర్థిక మంత్రి నిర్మలా సీతారామన్ శుక్రవారం తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "f896c05cf3b44b0cd404be5c6fd01a4b",
+      "title": "India may face credit stress if Gulf conflict drags on: Moody's",
+      "summary": "A Moody's report warns that India and other Asia-Pacific economies face rising credit stress due to the ongoing Gulf conflict. Higher energy prices and supply disruptions, particularly for fuel, food, and industrial inputs, will impact import-dependent nations. Producers heavily reliant on Middle Eastern oil and naphtha are most exposed.",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-may-face-credit-stress-if-gulf-conflict-drags-on-moodys/articleshow/129853510.cms",
+      "image": null,
+      "published_at": "2026-03-27T18:56:43.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "గల్ఫ్ వివాదం కొనసాగితే భారతదేశం క్రెడిట్ ఒత్తిడిని ఎదుర్కొంటుంది: మూడీస్",
+      "summary_te": "కొనసాగుతున్న గల్ఫ్ వివాదం కారణంగా భారతదేశం మరియు ఇతర ఆసియా-పసిఫిక్ ఆర్థిక వ్యవస్థలు పెరుగుతున్న రుణ ఒత్తిడిని ఎదుర్కొంటున్నాయని మూడీస్ నివేదిక హెచ్చరించింది. అధిక శక్తి ధరలు మరియు సరఫరా అంతరాయాలు, ముఖ్యంగా ఇంధనం, ఆహారం మరియు పారిశ్రామిక ఇన్‌పుట్‌లు దిగుమతి-ఆధారిత దేశాలపై ప్రభావం చూపుతాయి. మధ్యప్రాచ్య చమురు మరియు నాఫ్తాపై ఎక్కువగా ఆధారపడే నిర్మాతలు ఎక్కువగా బహిర్గతమయ్యారు.",
+      "translated": true
+    },
+    {
+      "id": "bee105c52e7512f4a50e83014ca567e6",
+      "title": "Boots on ground may not be needed: Secretary of State Marco Rubio on Iran war",
+      "summary": "Secretary of State Marco Rubio stated the U.S. aims to dismantle Iran's missile, drone, naval, and air force capabilities without ground troops, expecting operations to conclude in weeks. He clarified recent troop deployments offer President Trump options for contingencies, not for direct engagement in the conflict.",
+      "url": "https://economictimes.indiatimes.com/news/defence/boots-on-ground-may-not-be-needed-secretary-of-state-marco-rubio-on-iran-war/articleshow/129853253.cms",
+      "image": null,
+      "published_at": "2026-03-27T18:45:03.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "నేలపై బూట్లు అవసరం ఉండకపోవచ్చు: ఇరాన్ యుద్ధంపై విదేశాంగ కార్యదర్శి మార్కో రూబియో",
+      "summary_te": "ఇరాన్ యొక్క క్షిపణి, డ్రోన్, నౌకాదళం మరియు వైమానిక దళ సామర్థ్యాలను నేల దళాలు లేకుండానే కూల్చివేయాలని U.S లక్ష్యంగా పెట్టుకుందని విదేశాంగ కార్యదర్శి మార్కో రూబియో పేర్కొన్నారు, వారాల్లో కార్యకలాపాలు ముగుస్తాయని ఆశిస్తున్నారు. ఇటీవలి సైనిక విన్యాసాలు అధ్యక్షుడు ట్రంప్‌కు ఆకస్మిక పరిస్థితులకు ఎంపికలను అందిస్తున్నాయని, సంఘర్షణలో ప్రత్యక్ష నిశ్చితార్థం కోసం కాదని ఆయన స్పష్టం చేశారు.",
+      "translated": true
+    },
     {
       "id": "8661551581e47f4338352914271b2a23",
       "title": "Alleged Bomb Plot Against NYC Pro-Palestinian Activist Thwarted",
@@ -169,7 +239,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'సర్, యే మీమ్స్ బ్యాండ్ నహీ హోనే చాహియే': రాఘవ్ చద్దా తన పార్లమెంటు ప్రసంగాలపై మెమ్ ఫెస్ట్‌లో చేరారు",
-      "summary_te": "పంజాబ్‌కు చెందిన 37 ఏళ్ల రాజ్యసభ ఎంపీ ప్రస్తుతం జరుగుతున్న బడ్జెట్ సెషన్‌లో రోజువారీ సమస్యలను లేవనెత్తుతున్నారు.",
+      "summary_te": "పంజాబ్‌కు చెందిన 37 ఏళ్ల రాజ్యసభ ఎంపీ కొనసాగుతున్న బడ్జెట్ సెషన్‌లో రోజువారీ సమస్యలను చురుకుగా లేవనెత్తారు.",
       "translated": true
     },
     {
@@ -323,7 +393,7 @@
       "category": "business",
       "language": "en",
       "title_te": "పితృత్వ సెలవు సమయంలో పని చేయమని అడిగారు: హైదరాబాద్ టెక్కీ పోస్ట్ ఆగ్రహాన్ని రేకెత్తిస్తుంది; 'హద్దులు సెట్ చేయండి' అని నెటిజన్లు సలహా ఇస్తున్నారు",
-      "summary_te": "తన అకాల శిశువు NICUలో ఉన్నందున పితృత్వ సెలవు సమయంలో పని చేయమని ఒత్తిడి చేయబడ్డాడని ఆరోపిస్తూ ఒక కొత్త తండ్రి చేసిన Reddit పోస్ట్ - ఆన్ ‌ లైన్ ‌ లో విస్తృతమైన ఆగ్రహాన్ని రేకెత్తించింది, వినియోగదారులు విషపూరిత కార్యాలయ సంస్కృతిని పిలిచారు.",
+      "summary_te": "తన ప్రీమెచ్యూర్ బేబీ ఎన్‌ఐసియులో ఉన్నప్పటికీ, పితృత్వ సెలవు సమయంలో పని చేయమని ఒత్తిడి చేయబడిందని ఆరోపిస్తూ కొత్త తండ్రి చేసిన రెడ్డిట్ పోస్ట్ ఆన్‌లైన్‌లో విస్తృతమైన ఆగ్రహాన్ని రేకెత్తించింది, వినియోగదారులు విషపూరిత కార్యాలయ సంస్కృతిని పిలుస్తున్నారు.",
       "translated": true
     },
     {
@@ -337,7 +407,7 @@
       "category": "business",
       "language": "en",
       "title_te": "రష్యన్ వ్యక్తి, బారన్ ట్రంప్ మరియు 'అసూయ': వీడియో కాల్‌లో మహిళపై మాట్వీ రుమియాంట్సేవ్ దాడి చేశాడు, 4 సంవత్సరాల జైలు శిక్ష",
-      "summary_te": "ఈ కేసులో అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ కుమారుడు బారన్ ట్రంప్ ఊహించని విధంగా పాల్గొన్నాడు, గత సంవత్సరం వీడియో కాల్ సమయంలో తాను ఈ దాడిని చూశానని యుకె పోలీసులకు చెప్పాడు.",
+      "summary_te": "ఈ కేసులో ఊహించని విధంగా US అధ్యక్షుడు డొనాల్డ్ ట్రంప్ కుమారుడు బారన్ ట్రంప్ పాల్గొన్నాడు, అతను UK పోలీసులకు గత సంవత్సరం వీడియో కాల్ సమయంలో దాడిని చూశానని చెప్పాడు.",
       "translated": true
     },
     {
@@ -352,20 +422,6 @@
       "language": "en",
       "title_te": "US విద్యార్థి స్కోర్లు 20 సంవత్సరాల కనిష్టానికి చేరుకున్నందున మెలానియా ట్రంప్ విద్యలో AI కోసం పిలుపునిచ్చారు: 35% 12వ తరగతి విద్యార్థులు చదవడంలో ప్రావీణ్యం కలిగి ఉన్నారు",
       "summary_te": "NAEP యొక్క 2024 జాతీయ నమూనాను ఉటంకిస్తూ, USA సగటు స్కోర్లు 20 సంవత్సరాలలో కనిష్ట స్థాయికి చేరుకున్నాయని మెలానియా ట్రంప్ అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "2bea83e56b9bc0f8a30a6037e8db7e1f",
-      "title": "Seven dead in massive avalanche in Ladakh; Srinagar-Leh highway blocked; rescue ops underway",
-      "summary": "A massive avalanche in Ladakh killed five people on Friday. Many remain stranded as the Srinagar-Leh highway is blocked. Rescue operations are ongoing, with the Lieutenant Governor monitoring the situation and directing local authorities to mobilise relief efforts.",
-      "url": "https://www.livemint.com/news/india/five-dead-in-massive-avalanche-in-ladakh-srinagar-leh-highway-blocked-rescue-ops-underway-11774620886796.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/Screenshot_2026-03-27_194921_1774621133544_1774621137194.png",
-      "published_at": "2026-03-27T14:28:05.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "లడఖ్‌లో భారీ హిమపాతంలో ఏడుగురు మృతి; శ్రీనగర్-లేహ్ హైవే దిగ్బంధం; రెస్క్యూ ఆపరేషన్స్ జరుగుతున్నాయి",
-      "summary_te": "లడఖ్‌లో శుక్రవారం భారీ హిమపాతం సంభవించి ఐదుగురు మరణించారు. శ్రీనగర్-లేహ్ హైవే మూసుకుపోవడంతో చాలా మంది చిక్కుకుపోయారు. రెస్క్యూ కార్యకలాపాలు కొనసాగుతున్నాయి, లెఫ్టినెంట్ గవర్నర్ పరిస్థితిని పర్యవేక్షిస్తున్నారు మరియు సహాయక చర్యలను సమీకరించాలని స్థానిక అధికారులను ఆదేశించారు.",
       "translated": true
     },
     {
@@ -491,21 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "0c5e2a92013bdb7111b521a2ea45ecae",
-      "title": "Lok Sabha approves Finance Bill, tax rules eased",
-      "summary": "The Lok Sabha approved the Finance Bill, introducing enhanced tax authority powers and changes to share buyback taxation, capping the surcharge at 12%. The bill also allows retrospective tax case reopening and revalidation of past orders. Finance Minister Nirmala Sitharaman stated the aim is to reduce litigation and compliance burdens for small taxpayers and businesses.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/lok-sabha-approves-finance-bill-tax-rules-eased/articleshow/129810524.cms",
-      "image": null,
-      "published_at": "2026-03-25T19:10:13.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఆర్థిక బిల్లుకు లోక్‌సభ ఆమోదం, పన్ను నిబంధనలు సడలించబడ్డాయి",
-      "summary_te": "లోక్‌సభ ఫైనాన్స్ బిల్లును ఆమోదించింది, మెరుగుపరచబడిన పన్ను అధికార అధికారాలను మరియు షేర్ బైబ్యాక్ టాక్సేషన్‌లో మార్పులను ప్రవేశపెడుతూ, సర్‌ఛార్జ్‌ను 12%కి పరిమితం చేసింది. ఈ బిల్లు రెట్రోస్పెక్టివ్ టాక్స్ కేసును తిరిగి తెరవడానికి మరియు గత ఆర్డర్‌ల రీవాలిడేషన్‌ను కూడా అనుమతిస్తుంది. చిన్న పన్ను చెల్లింపుదారులు మరియు వ్యాపారాల కోసం వ్యాజ్యం మరియు సమ్మతి భారాలను తగ్గించడమే లక్ష్యమని ఆర్థిక మంత్రి నిర్మలా సీతారామన్ చెప్పారు.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
@@ -520,34 +562,6 @@
       "language": "en",
       "title_te": "అసిమ్ మునీర్ శాంతిని నెలకొల్పడంతో, ఇరాన్ హార్ముజ్ జలసంధి వద్ద పాకిస్తాన్ కార్గో షిప్‌ను నిలిపివేసింది",
       "summary_te": "హార్ముజ్ జలసంధిలో పాకిస్తాన్ నౌకను ఇరాన్ నిలిపివేసింది: ప్రోటోకాల్ ఉల్లంఘనలు మరియు క్లియరెన్స్ లేమిని పేర్కొంటూ ఇరాన్ హార్ముజ్ జలసంధిలో కరాచీకి వెళ్లే ఓడకు మార్గాన్ని నిరాకరించింది. ఈ చర్య, సంభావ్య $2 మిలియన్ల రవాణా రుసుముతో కలిపి, ప్రాంతీయ ఉద్రిక్తతల మధ్య కీలకమైన చమురు మార్గంపై ఇరాన్ యొక్క కఠినమైన నియంత్రణను సూచిస్తుంది.",
-      "translated": true
-    },
-    {
-      "id": "3b9fc16d5cb106859bbdc3bdcce33e5c",
-      "title": "Private sector growth hits 3.5-year low in March",
-      "summary": "India's private sector growth slowed to its weakest pace in over three years in March, impacted by the West Asia conflict dampening demand and output. While international sales reached a record high, rising input costs, including oil and energy, intensified inflationary pressures.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/private-sector-growth-hits-3-5-year-low-in-march/articleshow/129785504.cms",
-      "image": null,
-      "published_at": "2026-03-24T18:58:04.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "ప్రైవేట్ రంగ వృద్ధి మార్చిలో 3.5 సంవత్సరాల కనిష్టానికి చేరుకుంది",
-      "summary_te": "భారతదేశం యొక్క ప్రైవేట్ రంగ వృద్ధి మార్చిలో మూడు సంవత్సరాలలో దాని బలహీనమైన వేగానికి మందగించింది, పశ్చిమాసియా వివాదం కారణంగా డిమాండ్ మరియు అవుట్‌పుట్ తగ్గిపోయింది. అంతర్జాతీయ విక్రయాలు రికార్డు స్థాయికి చేరుకున్నప్పటికీ, చమురు మరియు ఇంధనంతో సహా పెరుగుతున్న ఇన్‌పుట్ ఖర్చులు ద్రవ్యోల్బణ ఒత్తిడిని తీవ్రతరం చేశాయి.",
-      "translated": true
-    },
-    {
-      "id": "e19bea1d1530a85dc2203be10196bdf7",
-      "title": "Consumption hit as kitchens feel the heat of LPG shortage",
-      "summary": "India's culinary landscape is feeling the pressure as a lack of LPG supplies disrupts the food industry. Establishments like hotels and bustling street vendors are trimming their resources, leading to lower usage of essential ingredients like edible oil and flour. The decline in wheat flour sales poses challenges for the production of staples such as bread and biscuits.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/consumption-hit-as-kitchens-feel-the-heat-of-lpg-shortage/articleshow/129760797.cms",
-      "image": null,
-      "published_at": "2026-03-23T18:42:23.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "వంటశాలలు LPG కొరత వేడిని అనుభవిస్తున్నందున వినియోగం దెబ్బతింది",
-      "summary_te": "LPG సరఫరాల కొరత ఆహార పరిశ్రమకు అంతరాయం కలిగించినందున భారతదేశం యొక్క పాక ప్రకృతి దృశ్యం ఒత్తిడిని అనుభవిస్తోంది. హోటళ్లు మరియు సందడిగా ఉండే వీధి వ్యాపారులు వంటి సంస్థలు తమ వనరులను తగ్గించుకుంటున్నాయి, ఇది తినదగిన నూనె మరియు పిండి వంటి ముఖ్యమైన పదార్థాల వినియోగాన్ని తగ్గించడానికి దారితీస్తుంది. గోధుమ పిండి అమ్మకాలు క్షీణించడం వల్ల బ్రెడ్ మరియు బిస్కెట్లు వంటి ప్రధాన ఉత్పత్తుల ఉత్పత్తికి సవాళ్లు ఎదురవుతున్నాయి.",
       "translated": true
     },
     {
@@ -604,20 +618,6 @@
       "language": "en",
       "title_te": "'డీల్‌ పూర్తయింది': అస్సాం ఎన్నికలకు ఎన్‌డిఎ సీట్ల పంపకంపై సిఎం హిమంత బిస్వా శర్మ",
       "summary_te": "అసోం ముఖ్యమంత్రి హిమంత బిశ్వ శర్మ వచ్చే అసెంబ్లీ ఎన్నికలకు సంబంధించి సీట్ల పంపకాల ఒప్పందం పూర్తయిందని ప్రకటించారు. బిజెపి, ఎజిపి, యుపిపిఎల్ మరియు బిపిఎఫ్‌లతో సహా ఎన్‌డిఎ కూటమి తన పోటీ ప్రణాళికను ఖరారు చేసింది. రాష్ట్ర నాయకత్వం త్వరలో అభ్యర్థుల జాబితాను కేంద్ర హోంమంత్రి అమిత్ షాకు అందజేయనుంది. ఇటీవలి డీలిమిటేషన్ వ్యాయామం తర్వాత 126 మంది సభ్యుల అసెంబ్లీకి మార్చి-ఏప్రిల్‌లో ఎన్నికలు జరగనున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "5837cb57df72a37e2365cde95ae44119",
-      "title": "Bangladesh’s interests come first, says BNP chairman and PM-designate Tarique Rahman",
-      "summary": "Bangladesh's new leader Tarique Rahman states national interest and public welfare are paramount. His party, the BNP, is set to govern after a long absence. The BNP is seeking the extradition of former Prime Minister Sheikh Hasina from India. Rahman, son of former leaders, faces expectations for significant change. Relations with India are a key focus for the new administration.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/bangladeshs-interests-come-first-says-bnp-chairman-and-pm-designate-tarique-rahman/articleshow/128346277.cms",
-      "image": null,
-      "published_at": "2026-02-14T11:48:08.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "బంగ్లాదేశ్ ప్రయోజనాలకే మొదటి స్థానం అని బిఎన్‌పి చైర్మన్ మరియు పిఎంగా నియమితులైన తారిక్ రెహమాన్ అన్నారు",
-      "summary_te": "బంగ్లాదేశ్ కొత్త నాయకుడు తారిఖ్ రెహమాన్ జాతీయ ప్రయోజనం మరియు ప్రజా సంక్షేమం ప్రధానమని పేర్కొన్నాడు. ఆయన పార్టీ అయిన బిఎన్‌పి చాలా కాలం తర్వాత పాలించనుంది. భారతదేశం నుండి మాజీ ప్రధాని షేక్ హసీనాను రప్పించాలని BNP కోరుతోంది. మాజీ నాయకుల కుమారుడు రెహమాన్ గణనీయమైన మార్పు కోసం అంచనాలను ఎదుర్కొంటున్నారు. భారత్‌తో సంబంధాలు కొత్త పరిపాలనకు కీలకమైన అంశం.",
       "translated": true
     },
     {
