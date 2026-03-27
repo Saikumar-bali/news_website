@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-27T04:36:20.334Z",
-  "updated_at_IST": "27/3/2026, 10:06:20 am",
+  "updated_at": "2026-03-27T06:20:20.266Z",
+  "updated_at_IST": "27/3/2026, 11:50:20 am",
   "category": "business",
   "count": 65,
   "articles": [
+    {
+      "id": "1bfca449622a5daba3411b6f696d4828",
+      "title": "Rumours of lockdown in India completely false, Hardeep Puri fact-checks amid war in West Asia",
+      "summary": "In such times, it is important that we remain calm, responsible, and united. Attempts to spread rumours and create panic in such a situation are irresponsible and harmful, Puri said.",
+      "url": "https://www.livemint.com/news/india/rumours-of-a-lockdown-in-india-are-completely-false-says-hardeep-puri-amid-west-asia-war-modi-government-us-iran-war-11774589128923.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/ANI-20260317039-0_1774589303584_1774589312072.jpg",
+      "published_at": "2026-03-27T05:29:40.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "భారతదేశంలో లాక్డౌన్ పుకార్లు పూర్తిగా అబద్ధం, పశ్చిమాసియాలో యుద్ధం మధ్య హర్దీప్ పూరి వాస్తవాన్ని తనిఖీ చేసారు",
+      "summary_te": "అలాంటి సమయాల్లో మనం ప్రశాంతంగా, బాధ్యతగా, ఐక్యంగా ఉండడం చాలా ముఖ్యం. అటువంటి పరిస్థితిలో పుకార్లు వ్యాప్తి చేసి భయాందోళనలు సృష్టించే ప్రయత్నాలు బాధ్యతారాహిత్యం మరియు హానికరం అని పూరి అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "7ae900532a53f44b51ac75019161e816",
+      "title": "Petrol, Diesel, LPG Crisis Live Updates: People fear lockdown-like restrictions if war in Middle East continues",
+      "summary": "Energy Crisis LIVE Updates: People are concerned about lockdown-like restrictions if war in Middle East does not end anytime soon. Full updates here.",
+      "url": "https://www.livemint.com/news/world/petroldiesellpg-crisis-lockdown-live-updates-people-fear-lockdown-restrictions-if-war-in-middle-east-continue-11774583592011.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/Malaysia-Fuel-Subsidy-0_1719573296426_1774583808745.jpg",
+      "published_at": "2026-03-27T04:57:14.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "పెట్రోల్, డీజిల్, LPG క్రైసిస్ లైవ్ అప్‌డేట్‌లు: మిడిల్ ఈస్ట్‌లో యుద్ధం కొనసాగితే ప్రజలు లాక్‌డౌన్ లాంటి పరిమితులను భయపెడతారు",
+      "summary_te": "ఎనర్జీ క్రైసిస్ లైవ్ అప్‌డేట్‌లు: మధ్యప్రాచ్యంలో యుద్ధం ఎప్పుడైనా ముగియకపోతే లాక్‌డౌన్ లాంటి పరిమితుల గురించి ప్రజలు ఆందోళన చెందుతున్నారు. పూర్తి నవీకరణలు ఇక్కడ ఉన్నాయి.",
+      "translated": true
+    },
     {
       "id": "ba6ac9a8352c74ee7421b5b831b244f5",
       "title": "Petrol, diesel prices on 27 March after fuel excise cut — Check fuel rates today in Delhi, Mumbai, Bengaluru, others",
@@ -146,16 +174,16 @@
     },
     {
       "id": "cd68ee35145be0620ebcaa9960e9e452",
-      "title": "Iran US War News LIVE: India-flagged LPG vessel Jag Vasant docks in Gujarat; Reliance denies buying Iranian crude",
-      "summary": "Iran US War News LIVE: LPG vessel Jag Vasant docks in Gujarat amid Strait of Hormuz closure, with mid-sea transfer operations set to begin today. Trump has extended pause on US strikes targeting Iran’s energy infra, pushing the deadline to April 6.",
+      "title": "Iran US War News LIVE: Israel launches strikes ‘in heart of Tehran’ hours after Trump's pause on attacks",
+      "summary": "Iran US War News LIVE: Trump has extended pause on US strikes targeting Iran’s energy infra, pushing the deadline to April 6. Meanwhile, the Indian government reduced a special additional excise duty on petrol and diesel in a relief for OMCs",
       "url": "https://www.livemint.com/news/world/iran-us-war-live-updates-march-27-trump-netanyahu-strait-of-hormuz-oil-price-russia-china-israel-11774569117578.html",
       "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/USA-TRUMP--23_1774575849600_1774576037642.JPG",
       "published_at": "2026-03-27T00:17:40.000Z",
       "source": "LiveMint",
       "category": "business",
       "language": "en",
-      "title_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: భారతదేశం జెండాతో కూడిన ఎల్‌పిజి నౌక జాగ్ వసంత్ గుజరాత్‌లో రేవుకు చేరుకుంది; ఇరాన్ క్రూడ్ కొనుగోలును రిలయన్స్ ఖండించింది",
-      "summary_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: ఎల్‌పిజి ఓడ జాగ్ వసంత్ గుజరాత్‌లోని హార్ముజ్ జలసంధిలో మూసివేయబడింది, మధ్య సముద్ర బదిలీ కార్యకలాపాలు ఈరోజు ప్రారంభం కానున్నాయి. ఏప్రిల్ 6 వరకు గడువును పెంచుతూ, ఇరాన్ ఎనర్జీ ఇన్‌ఫ్రా లక్ష్యంగా అమెరికా దాడులకు ట్రంప్ విరామం ఇచ్చారు.",
+      "title_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: దాడులపై ట్రంప్ విరామం ఇచ్చిన గంటల తర్వాత ఇజ్రాయెల్ 'టెహ్రాన్ నడిబొడ్డున' దాడులను ప్రారంభించింది",
+      "summary_te": "ఇరాన్ యుఎస్ వార్ న్యూస్ లైవ్: ఇరాన్ ఎనర్జీ ఇన్‌ఫ్రా లక్ష్యంగా యుఎస్ స్ట్రైక్స్‌పై ట్రంప్ పాజ్ పొడిగించారు, గడువును ఏప్రిల్ 6కి పెంచారు. ఇంతలో, ఒఎంసిలకు ఉపశమనంగా భారత ప్రభుత్వం పెట్రోల్ మరియు డీజిల్‌పై ప్రత్యేక అదనపు ఎక్సైజ్ సుంకాన్ని తగ్గించింది.",
       "translated": true
     },
     {
@@ -267,7 +295,7 @@
       "category": "business",
       "language": "en",
       "title_te": "IRGC నేవీ చీఫ్ అలిరెజా తంగ్సిరి హత్యకు హార్ముజ్ దిగ్బంధనంతో సంబంధం ఉందని ఇజ్రాయెల్ పేర్కొంది",
-      "summary_te": "\"గత రాత్రి, ఖచ్చితమైన మరియు ప్రాణాంతకమైన ఆపరేషన్‌లో, ఐఆర్‌జిసి నేవీ కమాండర్ టాంగ్‌సిరిని, సీనియర్ నేవల్ కమాండ్ అధికారులతో పాటు ఐడిఎఫ్ తొలగించింది\" అని ఇజ్రాయెల్ రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ వీడియో ప్రకటనలో తెలిపారు.",
+      "summary_te": "\"గత రాత్రి, ఖచ్చితమైన మరియు ప్రాణాంతకమైన ఆపరేషన్‌లో, IDF IRGC నేవీ యొక్క కమాండర్ టాంగ్‌సిరిని మరియు సీనియర్ నావికా కమాండ్ అధికారులను తొలగించింది\" అని ఇజ్రాయెల్ రక్షణ మంత్రి ఇజ్రాయెల్ కాట్జ్ ఒక వీడియో ప్రకటనలో తెలిపారు.",
       "translated": true
     },
     {
@@ -411,34 +439,6 @@
       "translated": true
     },
     {
-      "id": "2278100241dab9da0c19342b809f1075",
-      "title": "Trump reveals Iran's ‘gift’, says Tehran let 10 oil tankers pass through Strait of Hormuz",
-      "summary": "Speaking during a Cabinet meeting at the White House, Trump said Tehran permitted 10 oil tankers to transit the critical shipping lane.",
-      "url": "https://www.livemint.com/news/us-news/trump-claims-iran-let-10-oil-tankers-pass-through-strait-of-hormuz-11774541943114.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/Trump-76_1774542177489_1774542187941.jpg",
-      "published_at": "2026-03-26T16:23:19.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "ఇరాన్ 'బహుమతి'ని ట్రంప్ వెల్లడించారు, టెహ్రాన్ హార్ముజ్ జలసంధి గుండా 10 చమురు ట్యాంకర్లను అనుమతించింది",
-      "summary_te": "వైట్‌హౌస్‌లో జరిగిన క్యాబినెట్ సమావేశంలో ట్రంప్ మాట్లాడుతూ, క్లిష్టమైన షిప్పింగ్ లేన్‌ను రవాణా చేయడానికి టెహ్రాన్ 10 ఆయిల్ ట్యాంకర్లను అనుమతించిందని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "520710c996365abf690a3320b7130505",
-      "title": "Venezuela's Nicolas Maduro, wife produced in New York court in drug trafficking case, months after capture by US",
-      "summary": "Nicolas Maduro, the former President of Venezuela, on Thursday (local time), headed into a New York courtroom as he seeks to have his drug trafficking indictment dismissed, AP reported.",
-      "url": "https://www.livemint.com/news/us-news/venezuelas-nicolas-maduro-wife-produced-in-new-york-court-in-drug-trafficking-case-months-after-capture-by-us-11774540936434.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/26/1600x900/logo/VENEZUELA-DRUGS-DIPLOMACY-7_1764680673_1774541537060_1774541537202.jpg",
-      "published_at": "2026-03-26T16:07:27.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "వెనిజులాకు చెందిన నికోలస్ మదురో, మాదకద్రవ్యాల అక్రమ రవాణా కేసులో న్యూయార్క్ కోర్టులో హాజరైన భార్య, US స్వాధీనం చేసుకున్న నెలల తర్వాత",
-      "summary_te": "వెనిజులా మాజీ అధ్యక్షుడు నికోలస్ మదురో గురువారం (స్థానిక కాలమానం ప్రకారం) న్యూయార్క్ కోర్టు గదిలోకి వెళ్లారు, ఎందుకంటే అతను తన మాదకద్రవ్యాల అక్రమ రవాణా నేరారోపణను కొట్టివేయాలని కోరుతున్నట్లు AP నివేదించింది.",
-      "translated": true
-    },
-    {
       "id": "853b2e2281dc2e7f35a4065bdc7a3002",
       "title": "What's happening with Iran-US 'talks'?",
       "summary": "Diplomatic efforts to end the war in Iran are accelerating. Proposals are being exchanged through Pakistan, though Iran denies direct talks with the US. Iran's demands include an end to aggression and financial compensation. The US seeks Iran's nuclear disarmament and missile program limits. Both sides need to claim victory for a deal. The conflict's outcome remains uncertain.",
@@ -491,7 +491,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
