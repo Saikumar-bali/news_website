@@ -1,21 +1,63 @@
 {
-  "updated_at": "2026-03-27T19:47:20.523Z",
-  "updated_at_IST": "28/3/2026, 1:17:20 am",
+  "updated_at": "2026-03-27T20:35:55.944Z",
+  "updated_at_IST": "28/3/2026, 2:05:55 am",
   "category": "telangana",
-  "count": 30,
+  "count": 24,
   "articles": [
     {
-      "id": "9bbf06a6ae9d23f265ff5f4fa49d3cff",
-      "title": "For NATO, EU information .. China Linkedin network?",
-      "summary": "For NATO, EU information .. China Linkedin network? dsudheer Fri, 03/27/2026 - 23:49",
-      "url": "https://www.sakshi.com/telugu-news/international/china-creates-fake-linkedin-accounts-targeting-nato-and-eu-2744397",
+      "id": "6030d08f4a0ce8dde0ab196690f710bd",
+      "title": "Service sector fuels Telangana’s explosive per capita income growth in 10 years",
+      "summary": "Though Telangana witnessed a sharp rise in per capita income led by districts like Mahabubnagar and Rangareddy, the gains remain uneven with most districts lagging behind the State average, highlighting persistent regional disparities despite strong service-led economic growth across the State",
+      "url": "https://www.thehindu.com/news/national/telangana/service-secto-fuels-telanganas-explosive-per-capita-income-growth-in-10-years/article70792714.ece",
       "image": null,
-      "published_at": "2026-03-27T18:19:38.000Z",
-      "source": "Sakshi",
+      "published_at": "2026-03-27T19:01:41.000Z",
+      "source": "The Hindu Telangana",
       "category": "telangana",
-      "language": "te",
-      "title_te": "నాటో, ఈయూ సమాచారం కోసం .. చైనా లింక్డిన్‌ వల ?",
-      "summary_te": "నాటో, ఈయూ సమాచారం కోసం .. చైనా లింక్డిన్‌ వల ? dsudheer Fri, 03/27/2026 - 23:49",
+      "language": "en",
+      "title_te": "10 ఏళ్లలో తెలంగాణ తలసరి ఆదాయ వృద్ధికి సేవా రంగం ఆజ్యం పోసింది",
+      "summary_te": "మహబూబ్‌నగర్ మరియు రంగారెడ్డి వంటి జిల్లాల నేతృత్వంలో తెలంగాణ తలసరి ఆదాయం గణనీయంగా పెరిగినప్పటికీ, రాష్ట్ర సగటు కంటే చాలా జిల్లాలు వెనుకబడి ఉండటంతో లాభాలు అసమానంగా ఉన్నాయి, రాష్ట్రవ్యాప్తంగా బలమైన సేవా-ఆధారిత ఆర్థిక వృద్ధి ఉన్నప్పటికీ నిరంతర ప్రాంతీయ అసమానతలను ఎత్తిచూపింది.",
+      "translated": true
+    },
+    {
+      "id": "9eb8659c43049374f9110e94189255d5",
+      "title": "Rain lashes parts of Hyderabad on Friday night",
+      "summary": "Rain lashed parts of the city including - Ameerpet, Begumpet and Nizampet - while people in some other parts of Hyderabad heard loud thunder on Friday night. The India Meteorological Department - Hyderabad Centre - in its bulletin issued in the afternoon had forecast light to moderate rain or thundershowers accompanied with gusty winds in the city towards evening or night over the next 48 hours.",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/rain-lashes-parts-of-hyderabad-on-friday-night/article70793915.ece",
+      "image": "https://th-i.thgim.com/public/news/cities/Hyderabad/cw1uuc/article70793911.ece/alternates/LANDSCAPE_1200/Hyderabad%20rain.jpg",
+      "published_at": "2026-03-27T18:41:47.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "హైదరాబాద్‌లోని పలు ప్రాంతాల్లో శుక్రవారం రాత్రి వర్షం కురిసింది",
+      "summary_te": "అమీర్‌పేట్, బేగంపేట, నిజాంపేట్ సహా నగరంలోని కొన్ని ప్రాంతాల్లో వర్షం కురుస్తుండగా, హైదరాబాద్‌లోని మరికొన్ని ప్రాంతాల్లో శుక్రవారం రాత్రి ప్రజలు పెద్ద ఎత్తున ఉరుములను వినిపించారు. భారత వాతావరణ శాఖ - హైదరాబాద్ కేంద్రం - మధ్యాహ్నం విడుదల చేసిన తన బులెటిన్‌లో రాబోయే 48 గంటల్లో నగరంలో సాయంత్రం లేదా రాత్రి సమయంలో ఈదురు గాలులతో కూడిన తేలికపాటి నుండి మోస్తరు వర్షాలు లేదా ఉరుములతో కూడిన జల్లులు కురిసే అవకాశం ఉందని అంచనా వేసింది.",
+      "translated": true
+    },
+    {
+      "id": "ec0ece230df8437523fbd27e0c005a71",
+      "title": "Youth held for bike stunts near Secretariat",
+      "summary": "HYDERABADA 23-year-old youth was arrested for allegedly performing dangerous motorcycle stunts near Lumbini Park and the Secretariat, creating panic among the public.The accused, Ibrahim Baig, a resident of Old Malakpet, was allegedly carrying out reckless stunts in high-security zones and filming them to post on social media platforms. Police said the acts posed a serious risk to public safety and disrupted movement in the area.Based on specific information and surveillance, the Saifabad police apprehended the accused. The motorcycle used for the stunts and the mobile phone used to record the videos were seized.Officials said strict action would be taken against those engaged in such activities that endanger public safety.",
+      "url": "https://www.thehindu.com/news/national/telangana/youth-held-for-bike-stunts-near-secretariat/article70792936.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "published_at": "2026-03-27T18:31:41.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "సచివాలయం దగ్గర యువకులు బైక్ స్టంట్లు చేశారు",
+      "summary_te": "హైదరాబాద్, లుంబినీ పార్క్ మరియు సచివాలయం దగ్గర ప్రమాదకరమైన మోటార్‌సైకిల్ స్టంట్లు చేస్తూ ప్రజలను భయాందోళనలకు గురిచేస్తున్నారనే ఆరోపణలపై 23 ఏళ్ల యువకుడిని అరెస్టు చేశారు. ఓల్డ్ మలక్‌పేటకు చెందిన ఇబ్రహీం బేగ్ అనే నిందితుడు హైసెక్యూరిటీ జోన్‌లలో నిర్లక్ష్యంగా విన్యాసాలు చేస్తూ సోషల్ మీడియాలో చిత్రీకరిస్తున్నాడు. ఈ చర్యలు ప్రజల భద్రతకు తీవ్రమైన ప్రమాదం కలిగిస్తాయని మరియు ఆ ప్రాంతంలో కదలికలకు అంతరాయం కలిగించిందని పోలీసులు తెలిపారు. నిర్దిష్ట సమాచారం మరియు నిఘా ఆధారంగా, సైఫాబాద్ పోలీసులు నిందితుడిని పట్టుకున్నారు. విన్యాసాలకు ఉపయోగించిన మోటార్‌సైకిల్‌ను, వీడియోలను రికార్డ్ చేయడానికి ఉపయోగించిన మొబైల్ ఫోన్‌ను స్వాధీనం చేసుకున్నారు.ప్రజా భద్రతకు హాని కలిగించే కార్యకలాపాలకు పాల్పడే వారిపై కఠిన చర్యలు తీసుకుంటామని అధికారులు తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "ce4dc7f1495a7b43ed71aa672fbfa26a",
+      "title": "Be ready for challenges, students told at Holy Mary Engineering College Silver Jubilee",
+      "summary": "HyderabadThe Silver Jubilee celebrations were held at Holy Mary Engineering College on Friday, where eminent academicians, industrialists and other guests took part.Registrar of Jawaharlal Nehru Technological University - Hyderabad (JNTU-H) K. Venkateswara Rao, and Murali Bukkapatnam, Global Chairman of The Indus Enterprises, were the chief guests and they guided students on the challenges that lay ahead due to the rapid changes in technology and how they should tackle them.G. Srinivasa Raju (MD, SR Infra Group), Satya Raju Vakkalanka (CEO, Janapriya), Krishna PSV (Chairman, All India Robotics Association), Bhanu Reddy Varla (Director – Growth Strategy, Single Point Solutions), Baburao Kuchipudi (Retd. ADGP, Madhya Pradesh), and Justice B. Chandra Kumar (Retired Judge, High Court of Telangana) also spoke.College Principal Paritala Chandrasekhar presented the annual report, while Director Preeti Reddy compared the institution’s 25-year journey to landmark years in history that remain unforgettable. Chairman Arimanda Siddhartha Reddy and Secretary Vijaya Sharada Reddy traced the institution’s evolution from a small school started in 1987 to a college in 1997.Medals were presented to outstanding professors in recognition of excellence, while top-performing students received merit certificates. Cultural performances, including songs, dances and skits, added vibrancy to the event.",
+      "url": "https://www.thehindu.com/news/national/telangana/be-ready-for-challenges-students-told-at-holy-mary-engineering-college-silver-jubilee/article70793833.ece",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/tto9t1/article70793832.ece/alternates/LANDSCAPE_1200/Silver%20jubilee%20.jpeg",
+      "published_at": "2026-03-27T18:21:38.000Z",
+      "source": "The Hindu Telangana",
+      "category": "telangana",
+      "language": "en",
+      "title_te": "సవాళ్లకు సిద్ధంగా ఉండండి అని హోలీ మేరీ ఇంజినీరింగ్ కళాశాల సిల్వర్ జూబ్లీలో విద్యార్థులు చెప్పారు",
+      "summary_te": "హైదరాబాద్‌లోని హోలీ మేరీ ఇంజినీరింగ్‌ కళాశాలలో శుక్రవారం జరిగిన రజతోత్సవ వేడుకల్లో ప్రముఖ విద్యావేత్తలు, పారిశ్రామికవేత్తలు, ఇతర అతిథులు పాల్గొన్నారు. జవహర్‌లాల్‌ నెహ్రూ టెక్నలాజికల్‌ యూనివర్సిటీ రిజిస్ట్రార్‌ - హైదరాబాద్‌ (జేఎన్‌టీయూ-హెచ్‌) కె. వెంకటేశ్వరరావు, మురళీ బుక్కపట్నం, ఇండస్‌ ఎంటర్‌ప్రైజెస్‌ గ్లోబల్‌ చైర్మన్‌ మురళీ బుక్కపట్నం సవాల్‌ చేశారు. సాంకేతికతలో వేగవంతమైన మార్పులు మరియు వాటిని ఎలా ఎదుర్కోవాలి.G. శ్రీనివాసరాజు (MD, SR ఇన్‌ఫ్రా గ్రూప్), సత్య రాజు వక్కలంక (CEO, జనప్రియ), కృష్ణ PSV (ఛైర్మన్, ఆల్ ఇండియా రోబోటిక్స్ అసోసియేషన్), భాను రెడ్డి వర్ల (డైరెక్టర్ - గ్రోత్ స్ట్రాటజీ, సింగిల్ పాయింట్ సొల్యూషన్స్), బాబూరావు కూచిపూడి (రిటైర్డ్. ADGP, మధ్యప్రదేశ్ తెలంగాణ న్యాయమూర్తి, రీటైర్ జడ్జి బి. చంద్ర కుమార్ కూడా). కళాశాల ప్రిన్సిపాల్ పరిటాల చంద్రశేఖర్ వార్షిక నివేదికను సమర్పించగా, డైరెక్టర్ ప్రీతిరెడ్డి సంస్థ యొక్క 25 సంవత్సరాల ప్రయాణాన్ని చరిత్రలో మరపురాని సంవత్సరాలతో పోల్చారు. ఛైర్మన్ అరిమండ సిద్ధార్థ రెడ్డి మరియు సెక్రటరీ విజయ శారద రెడ్డి 1987లో ప్రారంభమైన చిన్న పాఠశాల నుండి 1997లో కళాశాలగా సంస్థ యొక్క పరిణామాన్ని గుర్తించారు. అత్యుత్తమ ప్రతిభ కనబరిచిన విద్యార్థులకు మెరిట్ సర్టిఫికేట్‌లను అందజేయగా, అత్యుత్తమ ప్రతిభ కనబరిచిన ఆచార్యులకు పతకాలు అందించారు. పాటలు, నృత్యాలు మరియు స్కిట్‌లతో సహా సాంస్కృతిక ప్రదర్శనలు ఈవెంట్‌కు చైతన్యం నింపాయి.",
       "translated": true
     },
     {
@@ -103,20 +145,6 @@
       "translated": true
     },
     {
-      "id": "0175b4cf8a7362e04eb84ceff5e2eb27",
-      "title": "Iran shocked Pakistan with bomb attack on an oil ship",
-      "summary": "Iran shocked Pakistan with bomb attack on oil tanker dsudheer Fri, 03/27/2026 - 23:03",
-      "url": "https://www.sakshi.com/telugu-news/international/iran-attacks-pakistani-oil-tanker-2744396",
-      "image": null,
-      "published_at": "2026-03-27T17:33:28.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "పాక్‌కు షాకిచ్చిన ఇరాన్‌.. చమురు నౌకపై బాంబుల దాడి",
-      "summary_te": "పాక్‌కు షాకిచ్చిన ఇరాన్‌.. చమురు నౌకపై బాంబుల దాడి dsudheer Fri, 03/27/2026 - 23:03",
-      "translated": true
-    },
-    {
       "id": "fa09786b0e0ee1243cbcad07055d2ae8",
       "title": "Allocate 20% to education sector, give clarity on State Education Policy, civil society urges government",
       "summary": "The State government must allocate a 20% budget to the education sector and immediately provide clarity on a comprehensive education policy, the Telangana Save Education Committee along with teachers and student associations demanded the government on Thursday.The committee members met with Chairperson, Telangana High-Level Education Committee, K. Keshava Rao, to discuss various pressing issues concerning the State’s education sector.It expressed concern that the State government has not yet issued a clear and comprehensive education policy. Instead, it has introduced initiatives such as the National Education Policy 2020 proposals such as ‘Young India Integrated Schools’ and ‘Telangana Public Schools’ without offering any clarity. Coupled with a very low allocation of 8.2% of the total budget for education in the 2026-27 Budget, it has led to confusion among the public. And in this uncertain environment, the private education sector is expanding rapidly, and many families are struggling under the burden of high and unaffordable school fees, it pointed out.In addition to immediate clarity and allocating 20% budget to the education sector, the committee noted that pre-primary classes must be introduced in all government primary schools and ensure effective monitoring by filling all vacant supervisory posts.Relieving teachers from all non-academic duties, strictly regulating private and corporate schools, and avoiding contract-based employment practices must be given prirority for redressal.The committee also opposes the establishment of U.K.-modeled private schools in Telangana and objected to key aspects of the NEP 2020, such as the four-year degree and multiple entry-exit system.Instead, the State government must allocate substantial financial support of at least ₹100 crore to each university, grant Assistant Professor pay scales to contract lecturers, and fill up all vacant teaching and non-teaching positions.",
@@ -156,20 +184,6 @@
       "language": "en",
       "title_te": "హైదరాబాద్‌లోని ఓపెన్ డ్రెయిన్‌లు యాంటిబయోటిక్-రెసిస్టెంట్ బ్యాక్టీరియా ప్రమాదకర స్థాయిలను వెల్లడిస్తున్నాయి",
       "summary_te": "మానవులు, పశువులు మరియు జంతువులకు హాని కలిగించే యాంటీబయాటిక్-నిరోధక బ్యాక్టీరియా హైదరాబాద్ వాతావరణంలో విస్తృతంగా వ్యాపించింది, నగరంలో పెరుగుతున్న యాంటీ-మైక్రోబయల్ రెసిస్టెన్స్ (AMR) సమస్యను గుర్తించిన మురుగునీటి అధ్యయనం ప్రకారం, యాంటీబయాటిక్ దుర్వినియోగం ప్రబలంగా ఉంది. (TIGS), బెంగళూరు, మరియు అకాడమీ ఆఫ్ సైంటిఫిక్ అండ్ ఇన్నోవేటివ్ రీసెర్చ్ (AcSIR), ఘజియాబాద్, 10 ఓపెన్ డ్రైన్‌లు, నాలుగు నదులు మరియు మూడు సరస్సుల నుండి కొన్ని సంవత్సరాల క్రితం సేకరించిన నమూనాలను ఉపయోగించి ఈ అధ్యయనాన్ని నిర్వహించాయి. అన్ని మాదిరి సైట్‌లు గృహాలు, పరిశ్రమలు మరియు వ్యవసాయ కార్యకలాపాల నుండి శుద్ధి చేయని మురుగునీటిని అందుకుంటాయి. పరిశోధకులు 17 నమూనా ప్రదేశాలలో 13 ప్రత్యేక నిరోధక విధానాలను గుర్తించారు, పర్యావరణ బాక్టీరియా సంఘాలలో విస్తృతమైన యాంటీబయాటిక్ నిరోధకతను సూచిస్తున్నారు. అధికారిక అనుమతులు లేకపోవడం వల్ల మురుగునీటి శుద్ధి కర్మాగారాలకు (STPలు) ప్రాప్యతను పొందడం కష్టంగా మారింది, బృందం బహిరంగ కాలువలపై ఆధారపడేలా చేసింది. పెద్ద నగరాల్లోని ఓపెన్ డ్రైనేజీ వ్యవస్థలు పర్యావరణంలో తిరుగుతున్న AMR నమూనాల నిష్పాక్షికమైన స్నాప్‌షాట్‌ను అందజేస్తాయని వారు కనుగొన్నారు. ఈ బ్యాక్టీరియా సంఘాలు మానవులు, పశువులు, పక్షులు మరియు జంతువులతో సహా అనేక రకాల అతిధేయలను సంక్రమించే సామర్థ్యాన్ని కలిగి ఉంటాయి. సంస్కృతి-స్వతంత్ర మెటాజెనోమిక్స్ విధానాన్ని ఉపయోగించి, శాస్త్రవేత్తలు జంట నగరాల్లోని ఓపెన్ డ్రెయిన్ల నుండి నమూనాలను విశ్లేషించారు మరియు భారతదేశ ప్రాధాన్యత వ్యాధికారక జాబితాలో జాబితా చేయబడిన అన్ని వ్యాధికారక కారకాలు - బయోటెక్నాలజీ విభాగం సహకారంతో ప్రపంచ ఆరోగ్య సంస్థ (WHO) కంట్రీ ఆఫీస్ అభివృద్ధి చేసింది - నగరంలోని వ్యర్థజలాల్లో హీమోఫిలస్ మినహా, WHO-క్లాస్ హీమోఫిలస్ మినహా. రోగకారక క్రిములను అవి ఎదురయ్యే ముప్పు యొక్క తీవ్రత ఆధారంగా క్లిష్టమైన, అధిక మరియు మధ్యస్థ వర్గాలలోకి ప్రాధాన్యతనిస్తాయి. బహుళ యాంటీబయాటిక్ తరగతులు మరియు హోస్ట్‌లలో ఔషధాలను తప్పించుకోవడానికి అనేక ప్రధాన వ్యాధికారకాలు యాంటీబయాటిక్ రెసిస్టెన్స్ జన్యువులను అభివృద్ధి చేస్తున్నాయని లేదా పొందుతున్నాయని పరిశోధనలు చూపిస్తున్నాయి. AMR నమూనాలు నగరంలో భౌగోళిక ప్రదేశాలలో విస్తృతంగా సారూప్యంగా ఉన్నాయి, ఇది జనాభాలో సాధారణ యాంటీబయాటిక్స్ యొక్క విస్తృతమైన మరియు విచక్షణారహిత వినియోగాన్ని ప్రతిబింబిస్తుంది. 89 ప్రత్యేకమైన యాంటీబయాటిక్ రెసిస్టెన్స్ జన్యువుల (ARGలు) విశ్లేషణ మాక్రోలైడ్‌లకు అధిక నిరోధకతను వెల్లడించింది, తరువాత అమినోగ్లైకోసైడ్లు, టెట్రాసైక్లిన్‌లు మరియు బీటా-సైక్లిన్‌లు. అమినోగ్లైకోసైడ్, మాక్రోలైడ్, టెట్రాసైక్లిన్, ఫ్లూరోక్వినోలోన్, ఎల్ఫామైసిన్ మరియు లింకోసమైడ్ యాంటీబయాటిక్స్‌తో సహా 72 ఔషధ తరగతులలో ప్రతిఘటన కనుగొనబడింది. కనుగొనబడిన వ్యాధికారక క్రిములలో, హెలికోబాక్టర్ పైలోరీ అత్యధిక సాధారణీకరించిన రీడ్ కౌంట్‌ను నమోదు చేసింది, తర్వాత క్యాంపిలోగ్లైకోసైడ్, మాక్రోలైడ్, ఇష్చేయా కోరియా, నెస్చెర్రియా, నెస్చెరియా, మరియు నీసేరియా మెనింజైటిడిస్. ఒక సైట్‌లో తప్ప, అన్ని లొకేషన్‌లు ఈ ఐదు పాథోజెన్‌ల ఉనికిని చూపించాయి, ఇవి మొత్తం వ్యాధికారక రీడ్‌లలో 55.1% ఉన్నాయి. కాలానుగుణ వైవిధ్యాలను అధ్యయనం చేయడం AMR ల్యాండ్‌స్కేప్‌పై లోతైన అంతర్దృష్టులను అందించడంలో సహాయపడుతుందని పరిశోధకులు సూచించారు. వారు సమర్థవంతమైన నిఘా నమూనాగా ఓపెన్-డ్రెయిన్ నమూనా యొక్క సామర్థ్యాన్ని కూడా హైలైట్ చేశారు",
-      "translated": true
-    },
-    {
-      "id": "73bc00cc737609ddd9ca2de80eb956ee",
-      "title": "Heavy rain in Hyderabad",
-      "summary": "Heavy rain in Hyderabad dsudheer Fri, 03/27/2026 - 22:14",
-      "url": "https://www.sakshi.com/telugu-news/telangana/heavy-rain-hyderabad-2744395",
-      "image": null,
-      "published_at": "2026-03-27T16:44:26.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "హైదరాబాద్‌లో భారీ వర్షం",
-      "summary_te": "హైదరాబాద్‌లో భారీ వర్షం dsudheer Fri, 03/27/2026 - 22:14",
       "translated": true
     },
     {
@@ -257,34 +271,6 @@
       "translated": true
     },
     {
-      "id": "6963a94857201b47b78c9e6a1e85026a",
-      "title": "Bigg Boss Beauty Divi Sri Ramanavami Look.. Ariana Glory in Pattu Parikini..!",
-      "summary": "Bigg Boss Beauty Divi Sri Ramanavami Look.. Ariana Glory in Pattu Parikini..! madhusudhan Fri, 03/27/2026 - 21:15",
-      "url": "https://www.sakshi.com/telugu-news/movies/tollywood-actresses-social-media-updates-today-goes-viral-2744391",
-      "image": null,
-      "published_at": "2026-03-27T15:45:00.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "బిగ్‌బాస్ బ్యూటీ దివి శ్రీరామనవమి లుక్.. పట్టు పరికిణిలో అరియానా గ్లోరీ..!",
-      "summary_te": "బిగ్‌బాస్ బ్యూటీ దివి శ్రీరామనవమి లుక్.. పట్టు పరికిణిలో అరియానా గ్లోరీ..! madhusudhan Fri, 03/27/2026 - 21:15",
-      "translated": true
-    },
-    {
-      "id": "c7fbfb0548d8996f2c48e9f3bdc881fb",
-      "title": "'Not IPL.. My target is to play for Team India'",
-      "summary": "'Not IPL.. My target is to play for Team India' madhu Fri, 03/27/2026 - 21:14",
-      "url": "https://www.sakshi.com/telugu-news/sports/auqib-nabi-sets-sights-ultimate-goalof-playing-india-successful-ipl-2744394",
-      "image": null,
-      "published_at": "2026-03-27T15:44:23.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "'ఐపీఎల్‌ కాదు.. టీమిండియాకు ఆడడమే నా టార్గెట్‌'",
-      "summary_te": "'ఐపీఎల్‌ కాదు.. టీమిండియాకు ఆడడమే నా టార్గెట్‌' madhu Fri, 03/27/2026 - 21:14",
-      "translated": true
-    },
-    {
       "id": "2a2c3b27ed85bfe91c32dc87fb8dc90b",
       "title": "Man held for supplying rotten chicken to vendors in Sanathnagar",
       "summary": "A man was apprehended for allegedly storing and supplying rotten chicken to local vendors in Sanathnagar.Police seized around 352 kg of frozen spoiled chicken, including wings, breast portions and liver, which were deemed unfit for human consumption.The accused, Suraj Pal, 66, a resident of Kukatpally, was running a unit under the name M/s SPR Chicken near Moosapet.Acting on specific information, the H-FAST Team, along with a veterinary officer, inspected the premises.During the raid, officials found that large quantities of chicken were being stored in poor sanitary conditions and supplied for preparation of food items meant for public consumption. The establishment was also found to be operating with an expired food safety licence.The accused and the seized material were handed over to Sanathnagar police station staff for further action. Officials advised people to purchase food items only from authorised and hygienic sources and to report any unsafe practices.",
@@ -313,20 +299,6 @@
       "translated": true
     },
     {
-      "id": "4bbcb0c2c74bae3c43bce58219a301e9",
-      "title": "Sri Ramanavami: Minister's silk robes!",
-      "summary": "Sri Ramanavami: Minister's silk robes! naresh Fri, 03/27/2026 - 21:02",
-      "url": "https://www.sakshi.com/telugu-news/andhra-pradesh/minister-ram-prasad-reddy-disrespect-rayachoti-rama-temple-2744393",
-      "image": null,
-      "published_at": "2026-03-27T15:32:24.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "శ్రీరామనవమి: చెప్పులేసుకుని మంత్రి పట్టువస్త్రాలు!",
-      "summary_te": "శ్రీరామనవమి: చెప్పులేసుకుని మంత్రి పట్టువస్త్రాలు! naresh Fri, 03/27/2026 - 21:02",
-      "translated": true
-    },
-    {
       "id": "b8612c6efa022068a8bb3eeaf03088f1",
       "title": "Kavitha to launch her party on April 25 in Hyderabad",
       "summary": "Starting a new phase in Telangana politics, Kalvakuntla Kavitha, president of Telangana Jagruthi, announced that her new political party would be launched on April 25 in Hyderabad.Announcing this in Nizamabad on Friday, Ms. Kavitha said that after visiting Varanasi and performing rituals in Kashi, the formal party launch would be held. She sought the blessings of people, stating that it would be the first political party to be launched by a Telangana woman and serve as a ‘guiding light’ to change the future of Telangana.Stating that the party’s objective would be to build a ‘Sarvodaya Telangana’ (welfare of all), Ms. Kavitha said it will be Telangana’s own home-grown party. “Our entire focus will be on Telangana. We are not anyone’s B-team. We will emerge as the number one party in the State,” she asserted.Ms. Kavitha said her party would draw inspiration from Lord Sri Rama, who corrected his governance based on public feedback and such ideals. “A political party should not have an ego. Even those who criticised me in the past are welcome to join us if they are committed to Telangana’s progress,” she said.She also favoured lobbying in New Delhi and at the same time work at the grassroots level in the State. However, she was critical of the past and present rulers stating that Telangana had not achieved complete success in water, funds and employment even 12 years after State formation.She stated that minorities, including Christians and Sikhs, would find a voice in the new party. “Jagruthi has always stood for social Telangana and progressive Telangana,” she said. About 50 committees had already been constituted to draft the party agenda and consultations were ongoing with intellectuals and various sections of society.",
@@ -338,20 +310,6 @@
       "language": "en",
       "title_te": "ఏప్రిల్ 25న హైదరాబాద్‌లో కవిత తన పార్టీని ప్రారంభించనున్నారు",
       "summary_te": "తెలంగాణ రాజకీయాల్లో కొత్త దశకు శ్రీకారం చుట్టిన తెలంగాణ జాగృతి అధ్యక్షురాలు కల్వకుంట్ల కవిత తన కొత్త రాజకీయ పార్టీని ఏప్రిల్ 25న హైదరాబాద్‌లో ప్రారంభిస్తున్నట్లు ప్రకటించారు.ఈ విషయాన్ని శుక్రవారం నిజామాబాద్‌లో ప్రకటించిన శ్రీమతి కవిత వారణాసిని సందర్శించి కాశీలో పూజలు చేసి పార్టీని లాంఛనంగా ప్రారంభిస్తారని తెలిపారు. తెలంగాణ మహిళ ప్రారంభించిన తొలి రాజకీయ పార్టీ ఇదని, తెలంగాణ భవిష్యత్తును మార్చేందుకు ‘మార్గదర్శి వెలుగు’గా నిలుస్తుందని, ‘సర్వోదయ తెలంగాణ’ (అందరి సంక్షేమం) నిర్మాణమే తమ పార్టీ ధ్యేయమని పేర్కొంటూ ప్రజల ఆశీర్వాదం కోరింది కవిత. \"మా దృష్టి అంతా తెలంగాణపైనే ఉంటుంది. మేం ఎవరి బి-టీమ్ కాదు. రాష్ట్రంలో నంబర్ వన్ పార్టీగా ఎదుగుతాం\" అని ఆమె చెప్పారు. ప్రజాభిప్రాయం, ఆదర్శాల ఆధారంగా పాలనను సరిదిద్దిన శ్రీరాముడు నుంచి తమ పార్టీ స్ఫూర్తి పొందుతుందని కవిత అన్నారు. \"ఒక రాజకీయ పార్టీకి అహం ఉండకూడదు. గతంలో నన్ను విమర్శించిన వారు కూడా తెలంగాణా ప్రగతికి కట్టుబడి ఉంటే మాతో చేరడాన్ని స్వాగతిస్తాం\" అని ఆమె అన్నారు. ఆమె న్యూఢిల్లీలో లాబీయింగ్ మరియు అదే సమయంలో రాష్ట్రంలో అట్టడుగు స్థాయిలో పనిచేయడానికి కూడా ఇష్టపడింది. అయితే, రాష్ట్రం ఏర్పడి 12 ఏళ్లు గడుస్తున్నా నీళ్లు, నిధులు, ఉపాధి రంగాల్లో తెలంగాణ పూర్తి స్థాయిలో విజయం సాధించలేదని గత, ప్రస్తుత పాలకుల తీరుపై ఆమె విమర్శలు గుప్పించారు.క్రైస్తవులు, సిక్కులు సహా మైనార్టీలు కొత్త పార్టీలో తమ గొంతుకను కనుగొంటారని ఆమె పేర్కొన్నారు. సామాజిక తెలంగాణ, ప్రగతిశీల తెలంగాణ కోసం జాగృతి ఎప్పుడూ నిలుస్తుందని ఆమె అన్నారు. పార్టీ ఎజెండాను రూపొందించేందుకు ఇప్పటికే దాదాపు 50 కమిటీలను ఏర్పాటు చేయడంతోపాటు మేధావులు, సమాజంలోని వివిధ వర్గాలతో సంప్రదింపులు కొనసాగుతున్నాయి.",
-      "translated": true
-    },
-    {
-      "id": "6ae0f3fed93f39ac7fc4917b88d02d00",
-      "title": "352 kg of rotten chicken.",
-      "summary": "352 kg of rotten chicken. tvenkatesh Fri, 03/27/2026 - 20:53",
-      "url": "https://www.sakshi.com/telugu-news/telangana/hyderabad-task-force-seizes-352-kg-rotten-chicken-2744392",
-      "image": null,
-      "published_at": "2026-03-27T15:23:11.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "352 కిలోల కుళ్లిన చికెన్.. పట్టుకోకపోతే ఆదివారం తినేసేవాళ‍్లం!",
-      "summary_te": "352 కిలోల కుళ్లిన చికెన్.. పట్టుకోకపోతే ఆదివారం తినేసేవాళ‍్లం! tvenkatesh Fri, 03/27/2026 - 20:53",
       "translated": true
     },
     {
@@ -380,48 +338,6 @@
       "language": "en",
       "title_te": "దూలపల్లి యూనిట్‌లో క్రేన్‌ ఆపరేషన్‌లో విద్యుదాఘాతానికి గురై కార్మికుడు మృతి చెందాడు",
       "summary_te": "గురువారం సాయంత్రం దూలపల్లిలోని పారిశ్రామిక యూనిట్‌లో లోడింగ్ ఆపరేషన్ సమయంలో ఓవర్ హెడ్ హైటెన్షన్ విద్యుత్ లైన్లకు క్రేన్ బూమ్ తగలడంతో ఒక కార్మికుడు విద్యుదాఘాతానికి గురయ్యాడు. మృతుడు రామ్‌నగర్ నివాసి చరణ్ యాదవ్ (33)గా గుర్తించారు. ఈ సంఘటన సాయంత్రం 5.15 గంటలకు జరిగింది. రోచర్ ఫ్యాబ్రికేషన్ ప్రైవేట్ కంపెనీ ప్రాంగణంలో. అధికారులు తెలిపిన వివరాల ప్రకారం, ఇనుప చెత్త సేకరణ డబ్బాను క్రేన్ ఉపయోగించి లారీలో లోడ్ చేస్తుండగా ప్రమాదం జరిగింది.",
-      "translated": true
-    },
-    {
-      "id": "cebe7697782b0afe7eb9d081b8c84c52",
-      "title": "Match with SRH.. Big shock for RCB",
-      "summary": "Match with SRH.. Big shock for RCB madhu Fri, 03/27/2026 - 20:01",
-      "url": "https://www.sakshi.com/telugu-news/sports/rcb-coach-flower-confirms-hazlewood-will-miss-season-opener-against-srh-2744390",
-      "image": null,
-      "published_at": "2026-03-27T14:31:08.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "ఎస్‌ఆర్‌హెచ్‌తో మ్యాచ్‌.. ఆర్సీబీకి భారీ షాక్‌",
-      "summary_te": "ఎస్‌ఆర్‌హెచ్‌తో మ్యాచ్‌.. ఆర్సీబీకి భారీ షాక్‌ madhu Fri, 03/27/2026 - 20:01",
-      "translated": true
-    },
-    {
-      "id": "584e57cf54e8c2d1988582456e0e8362",
-      "title": "'Thank you India' written on the missiles.. at Israel..",
-      "summary": "'Thank you India' written on missiles.. at Israel.. tvenkatesh Fri, 03/27/2026 - 20:00",
-      "url": "https://www.sakshi.com/telugu-news/international/iran-writes-thank-you-india-fresh-wave-missiles-launched-israel-2744389",
-      "image": null,
-      "published_at": "2026-03-27T14:30:19.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "‘థ్యాంక్యూ ఇండియా’ అని మిసైళ్లపై రాసి.. ఇజ్రాయెల్‌పైకి..",
-      "summary_te": "‘థ్యాంక్యూ ఇండియా’ అని మిసైళ్లపై రాసి.. ఇజ్రాయెల్‌పైకి.. tvenkatesh Fri, 03/27/2026 - 20:00",
-      "translated": true
-    },
-    {
-      "id": "afcdfb87bfea27b9356c66409947babf",
-      "title": "Priyadarshi Suspense Thriller Suyodhana.. Did the audience like it?",
-      "summary": "Priyadarshi Suspense Thriller Suyodhana.. Did the audience like it? madhusudhan Fri, 03/27/2026 - 19:58",
-      "url": "https://www.sakshi.com/telugu-news/movies/priyadarshi-pulikonda-latest-movie-suyodhana-movie-review-telugu-2744388",
-      "image": null,
-      "published_at": "2026-03-27T14:28:12.000Z",
-      "source": "Sakshi",
-      "category": "telangana",
-      "language": "te",
-      "title_te": "ప్రియదర్శి సస్పెన్స్ థ్రిల్లర్‌ సుయోధన.. ఆడియన్స్‌ను మెప్పించిందా?",
-      "summary_te": "ప్రియదర్శి సస్పెన్స్ థ్రిల్లర్‌ సుయోధన.. ఆడియన్స్‌ను మెప్పించిందా? madhusudhan Fri, 03/27/2026 - 19:58",
       "translated": true
     }
   ]

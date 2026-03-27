@@ -1,9 +1,37 @@
 {
-  "updated_at": "2026-03-27T19:47:20.523Z",
-  "updated_at_IST": "28/3/2026, 1:17:20 am",
+  "updated_at": "2026-03-27T20:35:55.944Z",
+  "updated_at_IST": "28/3/2026, 2:05:55 am",
   "category": "business",
   "count": 50,
   "articles": [
+    {
+      "id": "6286a60d7f47af628fd1466823eee6de",
+      "title": "Guest on call about US-Iran conflict? Elon Musk joined PM Modi-Donald Trump call, says Report",
+      "summary": "It was unclear why Elon Musk was on the call or whether he spoke, mentioned the report",
+      "url": "https://www.livemint.com/news/guest-on-call-about-us-iran-conflict-elon-musk-joined-pm-modi-donald-trump-call-says-report-11774640648552.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/Elon_Musk_spacex_1773909597752_1773909597981_1774641336006.JPG",
+      "published_at": "2026-03-27T19:50:30.000Z",
+      "source": "LiveMint",
+      "category": "business",
+      "language": "en",
+      "title_te": "US-ఇరాన్ వివాదం గురించి కాల్ చేసిన అతిథి? ప్రధాని మోదీ-డొనాల్డ్ ట్రంప్ కాల్‌లో ఎలాన్ మస్క్ చేరారని నివేదిక పేర్కొంది",
+      "summary_te": "ఎలోన్ మస్క్ ఎందుకు కాల్‌లో ఉన్నాడో లేదా అతను మాట్లాడాడో అస్పష్టంగా ఉందని నివేదిక పేర్కొంది",
+      "translated": true
+    },
+    {
+      "id": "2a6c3e21a8538d4284aa9fea9cff2c18",
+      "title": "Accel-backed Rentomojo files for India IPO",
+      "summary": "Online ​furniture ​rental platform ​Rentomojo has filed for an initial ‌public ⁠offering ⁠in ​Mumbai, according to a ​draft prospectus dated Friday.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/accel-backed-rentomojo-files-for-india-ipo/articleshow/129853972.cms",
+      "image": null,
+      "published_at": "2026-03-27T19:31:08.000Z",
+      "source": "Economic Times",
+      "category": "business",
+      "language": "en",
+      "title_te": "భారతదేశ IPO కోసం యాక్సెల్-బ్యాక్డ్ రెంటోమోజో ఫైల్‌లు",
+      "summary_te": "శుక్రవారం నాటి డ్రాఫ్ట్ ప్రాస్పెక్టస్ ప్రకారం, ఆన్‌లైన్ ఫర్నిచర్ రెంటల్ ప్లాట్‌ఫారమ్ రెంటోమోజో ముంబైలో ప్రారంభ పబ్లిక్ ఆఫర్ కోసం దాఖలు చేసింది.",
+      "translated": true
+    },
     {
       "id": "57500165e7bdd8204631ff17d5e885bd",
       "title": "Finance minister Nirmala Sitharaman assures fiscal vigil amid oil spike",
@@ -239,7 +267,7 @@
       "category": "business",
       "language": "en",
       "title_te": "'సర్, యే మీమ్స్ బ్యాండ్ నహీ హోనే చాహియే': రాఘవ్ చద్దా తన పార్లమెంటు ప్రసంగాలపై మెమ్ ఫెస్ట్‌లో చేరారు",
-      "summary_te": "పంజాబ్‌కు చెందిన 37 ఏళ్ల రాజ్యసభ ఎంపీ కొనసాగుతున్న బడ్జెట్ సెషన్‌లో రోజువారీ సమస్యలను చురుకుగా లేవనెత్తారు.",
+      "summary_te": "పంజాబ్‌కు చెందిన 37 ఏళ్ల రాజ్యసభ ఎంపీ ప్రస్తుతం జరుగుతున్న బడ్జెట్ సెషన్‌లో రోజువారీ సమస్యలను లేవనెత్తుతున్నారు.",
       "translated": true
     },
     {
@@ -411,20 +439,6 @@
       "translated": true
     },
     {
-      "id": "d298805cd4a97768d185d83f14f24a15",
-      "title": "Melania Trump calls for AI in education as US' student scores hit 20-year low: 35% 12th graders proficient in reading",
-      "summary": "Citing NAEP's 2024 national sampling, Melania Trump said that USA's average scores have reached their lowest levels in 20 years",
-      "url": "https://www.livemint.com/news/us-news/melania-trump-calls-for-ai-in-education-as-us-student-scores-hit-20-year-low-35-12th-graders-proficient-in-reading-11774620034394.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/03/27/1600x900/logo/Trump-27_1774622586582_1774622609822.jpg",
-      "published_at": "2026-03-27T14:43:53.000Z",
-      "source": "LiveMint",
-      "category": "business",
-      "language": "en",
-      "title_te": "US విద్యార్థి స్కోర్లు 20 సంవత్సరాల కనిష్టానికి చేరుకున్నందున మెలానియా ట్రంప్ విద్యలో AI కోసం పిలుపునిచ్చారు: 35% 12వ తరగతి విద్యార్థులు చదవడంలో ప్రావీణ్యం కలిగి ఉన్నారు",
-      "summary_te": "NAEP యొక్క 2024 జాతీయ నమూనాను ఉటంకిస్తూ, USA సగటు స్కోర్లు 20 సంవత్సరాలలో కనిష్ట స్థాయికి చేరుకున్నాయని మెలానియా ట్రంప్ అన్నారు.",
-      "translated": true
-    },
-    {
       "id": "7b10b1570b9d3d2e8af1eddbf7e3c1d0",
       "title": "SAEL Industries, Vishvaraj Environment, Symbiotec Pharmalab and 3 others get Sebi nod to launch IPO",
       "summary": "Securities and Exchange Board of India approved IPOs of six companies, including Vishvaraj Environment and SAEL Industries. Firms span sectors like renewable energy, chemicals and SaaS, while Jindal Supreme withdrew its draft papers, reflecting active primary market momentum.",
@@ -450,20 +464,6 @@
       "language": "en",
       "title_te": "GLP-1 ప్రభావం: Ozempic, Wegovy జెనరిక్స్ రేసులో జెఫరీస్ ఈ 3 స్టాక్‌లను విజేతలుగా చూస్తారు",
       "summary_te": "భారతీయ ఔషధ తయారీదారులు సరసమైన జనరిక్ సెమాగ్లుటైడ్‌ను విడుదల చేస్తున్నారు, ఇది ప్రముఖ బరువు తగ్గించే ఔషధాలలో క్రియాశీల పదార్ధం. సన్ ఫార్మా, లుపిన్ మరియు టోరెంట్ ఫార్మా మార్కెట్‌లో సంభావ్య లీడర్‌లుగా గుర్తించబడ్డాయి. ఆన్‌లైన్‌లో ప్రారంభ స్టాక్‌అవుట్‌లు ఉన్నప్పటికీ, కంపెనీలు సరఫరాను సర్దుబాటు చేస్తున్నాయి. ఈ మధుమేహం మరియు ఊబకాయం మందుల మార్కెట్ భారతదేశంలో గణనీయంగా పెరుగుతుందని అంచనా.",
-      "translated": true
-    },
-    {
-      "id": "82b8484bffd9c9aa191a593367cfbf9b",
-      "title": "Amidst sell-off, Nifty Top 10 Equal Weight Index looks like a good bet",
-      "summary": "Investors with higher risk appetite are eyeing Nifty Top 10 Equal Weight Index schemes following a market sell-off. The index's recent underperformance, driven by foreign institutional selling, presents a potential buying opportunity with attractive valuations in large-cap stocks.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/amidst-sell-off-nifty-top-10-equal-weight-index-looks-like-a-good-bet/articleshow/129836537.cms",
-      "image": null,
-      "published_at": "2026-03-27T00:14:53.000Z",
-      "source": "Economic Times",
-      "category": "business",
-      "language": "en",
-      "title_te": "అమ్మకాల మధ్య, నిఫ్టీ టాప్ 10 ఈక్వల్ వెయిట్ ఇండెక్స్ మంచి పందెం లా కనిపిస్తోంది",
-      "summary_te": "అధిక రిస్క్ ఆకలితో ఉన్న పెట్టుబడిదారులు మార్కెట్ అమ్మకాల తర్వాత నిఫ్టీ టాప్ 10 ఈక్వల్ వెయిట్ ఇండెక్స్ పథకాలపై దృష్టి సారిస్తున్నారు. విదేశీ సంస్థాగత అమ్మకాలతో నడిచే ఇండెక్స్ యొక్క ఇటీవలి అండర్ పెర్ఫార్మెన్స్, లార్జ్ క్యాప్ స్టాక్‌లలో ఆకర్షణీయమైన వాల్యుయేషన్‌లతో సంభావ్య కొనుగోలు అవకాశాన్ని అందిస్తుంది.",
       "translated": true
     },
     {
@@ -547,7 +547,7 @@
       "category": "business",
       "language": "en",
       "title_te": "ఆర్థిక మంత్రి నిర్మలా సీతారామన్ IBC సవరణ బిల్లును ప్రవేశపెట్టారు, పరిష్కారాన్ని వేగవంతం చేశారు",
-      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది జాప్యాలను తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
+      "summary_te": "భారతదేశంలో దివాలా పరిష్కారాన్ని వేగవంతం చేయడానికి కొత్త బిల్లు ఉద్దేశించబడింది. ఆర్థిక మంత్రి నిర్మలా సీతారామన్ దివాలా మరియు దివాలా కోడ్‌కు సవరణలను ప్రవేశపెట్టారు. ప్రతిపాదిత మార్పులు రుణదాత నేతృత్వంలోని, కోర్టు వెలుపల సెటిల్‌మెంట్‌లపై దృష్టి పెడతాయి. ఇది ఆలస్యాన్ని తగ్గించడం మరియు దివాలా తీసిన కంపెనీల పరిష్కార ప్రక్రియను మెరుగుపరచడం లక్ష్యంగా పెట్టుకుంది. ఈ బిల్లు సరిహద్దు దాటి మరియు కార్పొరేట్ గ్రూప్ దివాలా కేసులను కూడా పరిష్కరిస్తుంది.",
       "translated": true
     },
     {
