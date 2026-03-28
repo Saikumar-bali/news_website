@@ -1,9 +1,121 @@
 {
-  "updated_at": "2026-03-27T23:34:33.759Z",
-  "updated_at_IST": "28/3/2026, 5:04:33 am",
+  "updated_at": "2026-03-28T01:11:59.300Z",
+  "updated_at_IST": "28/3/2026, 6:41:59 am",
   "category": "india",
   "count": 100,
   "articles": [
+    {
+      "id": "294db082e02412a0f5ec8fdb0abce42a",
+      "title": "Centre rolls out new TV ratings policy, brings OTT into measurement",
+      "summary": "The government notified the TV Ratings Policy 2026, replacing the over a decade old 2014 framework",
+      "url": "https://www.hindustantimes.com/india-news/centre-rolls-out-new-tv-ratings-policy-brings-ott-into-measurement-101774659144252.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/28/1600x900/logo/sssssssssssssss_1774659221272_1774659232341.jpg",
+      "published_at": "2026-03-28T00:54:25.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "కేంద్రం కొత్త టీవీ రేటింగ్‌ల విధానాన్ని విడుదల చేసింది, OTTని కొలతలోకి తీసుకువస్తుంది",
+      "summary_te": "ప్రభుత్వం ఒక దశాబ్దం నాటి 2014 ఫ్రేమ్‌వర్క్‌ను భర్తీ చేస్తూ TV రేటింగ్స్ పాలసీ 2026ని నోటిఫై చేసింది.",
+      "translated": true
+    },
+    {
+      "id": "7020c4acc15e6b8b7c1d3e48614615e7",
+      "title": "DGCA issues new rules for flights carrying VIPs",
+      "summary": "Two months after a Learjet 45 crashed near Baramati killing then Maharashtra deputy chief minister Ajit Pawar and fourothers, India’s aviation regulator on Friday issued sweeping new rules for flights carrying high-ranking constitutional and political functionaries",
+      "url": "https://www.hindustantimes.com/india-news/dgca-issues-new-rules-for-flights-carrying-vips-101774639298630.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2025/08/06/1600x900/logo/Untitled_design_1754465014585_1754465103581.png",
+      "published_at": "2026-03-28T00:52:04.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "వీఐపీలను తీసుకెళ్లే విమానాల కోసం డీజీసీఏ కొత్త నిబంధనలను జారీ చేసింది",
+      "summary_te": "బారామతి సమీపంలో లియర్‌జెట్ 45 విమానం కూలిపోయి అప్పటి మహారాష్ట్ర ఉప ముఖ్యమంత్రి అజిత్ పవార్ మరియు నలుగురిని చంపిన రెండు నెలల తర్వాత, భారత ఏవియేషన్ రెగ్యులేటర్ శుక్రవారం ఉన్నత స్థాయి రాజ్యాంగ మరియు రాజకీయ నాయకులను తీసుకువెళ్ళే విమానాలకు విస్తృతమైన కొత్త నిబంధనలను జారీ చేసింది.",
+      "translated": true
+    },
+    {
+      "id": "c891bf216f938bb1151b76ac1649cea9",
+      "title": "IPL Opener: KSCA offers complimentary passes, special seats to K’taka MLAs",
+      "summary": "Karnataka deputy chief minister said that the Karnataka State Cricket Association has agreed to provide two tickets per MLA for the IPL match on March 28",
+      "url": "https://www.hindustantimes.com/india-news/ipl-opener-ksca-offers-complimentary-passes-special-seats-to-k-taka-mlas-101774659010197.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/28/1600x900/logo/Deputy-CM-DK-Shivakumar-with-KSCA-president-Venkat_1774659014187_1774659057513.jpg",
+      "published_at": "2026-03-28T00:51:11.000Z",
+      "source": "Hindustan Times",
+      "category": "india",
+      "language": "en",
+      "title_te": "IPL ఓపెనర్: KSCA K'taka ఎమ్మెల్యేలకు కాంప్లిమెంటరీ పాస్‌లు, ప్రత్యేక సీట్లను అందిస్తుంది",
+      "summary_te": "మార్చి 28న జరిగే ఐపీఎల్ మ్యాచ్‌కు ఒక్కో ఎమ్మెల్యేకు రెండు టిక్కెట్లు ఇచ్చేందుకు కర్ణాటక రాష్ట్ర క్రికెట్ సంఘం అంగీకరించిందని కర్ణాటక డిప్యూటీ సీఎం తెలిపారు.",
+      "translated": true
+    },
+    {
+      "id": "35a9a5a508e4a375a1f5532c1ede1c98",
+      "title": "‘Dhurandhar: The Revenge’ collection: Movie surpasses Rs 1,100 cr worldwide",
+      "summary": "Ranveer Singh's 'Dhurandhar: The Revenge' has shattered box office records, achieving a staggering Rs 1100 crore worldwide. The spy thriller garnered a massive opening, surpassing Rs 800 crore gross in India within nine days. Despite a slight weekday dip, the film's impressive performance continues to captivate audiences, with expectations of a weekend surge.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-9-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampals-film-mints-over-rs-1100-crore-worldwide/articleshow/129857108.cms",
+      "image": "https://static.toiimg.com/photo/msid-129857110,imgsize-27752.cms",
+      "published_at": "2026-03-28T00:30:09.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "‘ధురంధర్: ది రివెంజ్’ కలెక్షన్: ప్రపంచవ్యాప్తంగా రూ. 1,100 కోట్లను అధిగమించిన చిత్రం",
+      "summary_te": "రణవీర్ సింగ్ 'ధురంధర్: ది రివెంజ్' ప్రపంచవ్యాప్తంగా 1100 కోట్ల రూపాయలను సాధించి బాక్సాఫీస్ రికార్డులను బద్దలు కొట్టింది. స్పై థ్రిల్లర్‌గా తెరకెక్కిన ఈ చిత్రం తొమ్మిది రోజుల్లోనే భారతదేశంలో రూ.800 కోట్ల గ్రాస్‌ను అధిగమించి భారీ ఓపెనింగ్‌ను సాధించింది. వారాంతపు రోజులలో కొంచెం తగ్గుదల ఉన్నప్పటికీ, సినిమా యొక్క ఆకట్టుకునే ప్రదర్శన ప్రేక్షకులను ఆకట్టుకుంటుంది, వారాంతంలో పెరుగుదల అంచనాలు ఉన్నాయి.",
+      "translated": true
+    },
+    {
+      "id": "e113a51249c9a1525d56b0ac9729f205",
+      "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
+      "summary": "Elon Musk joined phone call between PM Modi and US President Donald Trump to discuss Iran War: news agency Reuters",
+      "url": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2019-09/lneugq4_pm-modi-trump-650_650x400_24_September_19.jpg",
+      "published_at": "2026-03-28T00:24:46.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోడీ-ట్రంప్ ఫోన్ కాల్‌తో మస్క్ చేరారు",
+      "summary_te": "ఇరాన్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోదీ మరియు అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ మధ్య ఫోన్ కాల్‌లో ఎలాన్ మస్క్ చేరారు: వార్తా సంస్థ రాయిటర్స్",
+      "translated": true
+    },
+    {
+      "id": "47e465a20a135f3a777b521d0fc282a4",
+      "title": "\"We Don't Have To Be There For NATO\": Trump Slams Allies Over Iran War",
+      "summary": "Iran War: Trump said he was upset that European NATO countries had declined to provide material support to the US as it nears the fourth week of its ongoing war on Iran.",
+      "url": "https://www.ndtv.com/world-news/iran-war-donald-trump-slams-nato-allies-over-iran-war-support-11276981#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/v72pufqg_donald-trump-reuters_625x300_28_March_26.jpeg",
+      "published_at": "2026-03-28T00:11:55.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "\"మేము NATO కోసం అక్కడ ఉండవలసిన అవసరం లేదు\": ట్రంప్ ఇరాన్ యుద్ధంపై మిత్రదేశాలను దూషించారు",
+      "summary_te": "ఇరాన్ యుద్ధం: ఇరాన్‌పై కొనసాగుతున్న యుద్ధంలో అమెరికా నాలుగో వారానికి చేరువవుతున్న తరుణంలో ఐరోపా నాటో దేశాలు అమెరికాకు వస్తుపరమైన సహాయాన్ని అందించడానికి నిరాకరించినందుకు తాను కలత చెందానని ట్రంప్ అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "7c1d9d7f55dbf46ff6db07f49f7f4199",
+      "title": "Iran War LIVE: Rubio Says US Can Achieve Its Goals In Iran Without Ground Troops",
+      "summary": "The war in the Middle East began when the US and Israel conducted strikes on Iran, killing Supreme Leader Ali Khamenei and other senior leaders.",
+      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/k0gdqtro_beirut-attack_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-27T23:42:08.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "ఇరాన్ వార్ లైవ్: గ్రౌండ్ ట్రూప్స్ లేకుండా ఇరాన్‌లో యుఎస్ తన లక్ష్యాలను సాధించగలదని రూబియో చెప్పారు",
+      "summary_te": "యుఎస్ మరియు ఇజ్రాయెల్ ఇరాన్‌పై దాడులు నిర్వహించి, సుప్రీం లీడర్ అలీ ఖమేనీ మరియు ఇతర సీనియర్ నాయకులను చంపడంతో మధ్యప్రాచ్యంలో యుద్ధం ప్రారంభమైంది.",
+      "translated": true
+    },
+    {
+      "id": "9845a10fe54a4548daf1da2f2846db8c",
+      "title": "'Laanat hai zindagi par': Yograj Singh's sharp jibe at Rohit Sharma, Virat Kohli",
+      "summary": "Former cricketer Yograj Singh has ignited a debate on player longevity, criticizing Virat Kohli and Rohit Sharma for contemplating retirement. He believes performance should dictate selection, not age. Interestingly, Singh lauded MS Dhoni's continued fitness and dedication, strongly opposing calls for his retirement and advocating for his extended playing career.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/laanat-hai-zindagi-par-yograj-singhs-sharp-jibe-at-rohit-sharma-virat-kohli/articleshow/129845490.cms",
+      "image": "https://static.toiimg.com/photo/msid-129845439,imgsize-117840.cms",
+      "published_at": "2026-03-27T23:30:00.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'లానత్ హై జిందగీ పర్': రోహిత్ శర్మ, విరాట్ కోహ్లీపై యోగరాజ్ సింగ్ పదునైన పరిహాసం",
+      "summary_te": "మాజీ క్రికెటర్ యోగరాజ్ సింగ్ ఆటగాళ్ల దీర్ఘాయువుపై చర్చను రగిలించాడు, విరాట్ కోహ్లీ మరియు రోహిత్ శర్మ రిటైర్మెంట్ గురించి ఆలోచిస్తున్నారని విమర్శించారు. పనితీరు ఎంపికను నిర్దేశించాలని, వయస్సు కాదు అని ఆయన అభిప్రాయపడ్డారు. ఆసక్తికరంగా, MS ధోని యొక్క నిరంతర ఫిట్‌నెస్ మరియు అంకితభావాన్ని సింగ్ ప్రశంసించాడు, అతని రిటైర్మెంట్ కోసం చేసిన పిలుపులను తీవ్రంగా వ్యతిరేకించాడు మరియు అతని పొడిగించిన ఆట జీవితం కోసం వాదించాడు.",
+      "translated": true
+    },
     {
       "id": "317c4795ca6ef039c99fca3bf4c89980",
       "title": "EC seeks report on Mamata’s ‘provocative’ remark from CEO",
@@ -47,6 +159,34 @@
       "translated": true
     },
     {
+      "id": "479c7a4de3d091c557c45b30cc574784",
+      "title": "US, Ukraine citizens who went to Mizoram posed no threat to India: Shah",
+      "summary": "This is the first time a govt functionary has clarified on record that the group’s interest lay in Myanmar and India was merely a transit point. “No threat was posed to India’s security. It is our policy that any foreigner who visits India for any wrong act will not be spared,” he said.",
+      "url": "https://timesofindia.indiatimes.com/india/us-ukraine-citizens-who-went-to-mizoram-posed-no-threat-to-india-shah/articleshow/129856902.cms",
+      "image": "https://static.toiimg.com/photo/msid-129856905,imgsize-75372.cms",
+      "published_at": "2026-03-27T23:01:33.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "మిజోరం వెళ్లిన అమెరికా, ఉక్రెయిన్ పౌరుల వల్ల భారత్‌కు ఎలాంటి ముప్పు లేదు: షా",
+      "summary_te": "మయన్మార్ మరియు భారతదేశంలో సమూహం యొక్క ఆసక్తి కేవలం రవాణా కేంద్రంగా ఉందని ఒక ప్రభుత్వ కార్యనిర్వాహకుడు రికార్డులో స్పష్టం చేయడం ఇదే మొదటిసారి. \"భారత భద్రతకు ఎలాంటి ముప్పు ఏర్పడలేదు. ఏదైనా తప్పుడు చర్య కోసం భారతదేశాన్ని సందర్శించే విదేశీయులను విడిచిపెట్టేది లేదని మా విధానం\" అని ఆయన అన్నారు.",
+      "translated": true
+    },
+    {
+      "id": "f540e8c349849cd83ef78015357f2772",
+      "title": "\"We're Negotiating Now\": Trump Jokingly Calls Hormuz \"Strait Of Trump\"",
+      "summary": "US President Donald Trump on Friday insisted Iran must open up the Strait of Hormuz to oil traffic to make a peace deal -- and dubbed the crucial waterway the \"Strait of Trump.\"",
+      "url": "https://www.ndtv.com/world-news/donald-trump-jokingly-calls-hormuz-strait-of-trump-11276868#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-03/39r0n724_donald-trump_625x300_25_March_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+      "published_at": "2026-03-27T23:00:22.000Z",
+      "source": "NDTV",
+      "category": "india",
+      "language": "en",
+      "title_te": "\"మేము ఇప్పుడు చర్చలు జరుపుతున్నాము\": హర్ముజ్‌ని \"ట్రంప్ జలసంధి\" అని సరదాగా పిలిచిన ట్రంప్",
+      "summary_te": "శాంతి ఒప్పందాన్ని కుదుర్చుకోవడానికి ఇరాన్ హార్ముజ్ జలసంధిని చమురు రవాణాకు తెరవాలని అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ శుక్రవారం పట్టుబట్టారు - మరియు కీలకమైన జలమార్గాన్ని \"ట్రంప్ జలసంధి\" అని పిలిచారు.",
+      "translated": true
+    },
+    {
       "id": "0baeae885d5a6be6b557b9aa53a9a8a5",
       "title": "Govt clears Rs 2.4 lakh crore proposals for procurement of more S-400 units",
       "summary": "The approval for additional S-400 ‘Sudarshan’ systems, which had helped neutralise Pakistani missiles during last year’s conflict in May and had also to its credit the world’s longest-range kill of an enemy aircraft, has come at a time when IAF teams are in Russia to receive the fourth squadron under the earlier contract for five such systems. The fourth system is likely to arrive by May while the fifth squadron is expected by Dec.",
@@ -72,6 +212,20 @@
       "language": "en",
       "title_te": "ఉరుములతో కూడిన వర్షం కారణంగా అమిత్ షా కోల్‌కతా విమానం రెండు గంటలు ఆలస్యమైంది",
       "summary_te": "విమానాశ్రయ వర్గాలు తెలిపిన వివరాల ప్రకారం, ఢిల్లీ నుంచి హోంమంత్రి ప్రయాణిస్తున్న ప్రత్యేక విమానం రాత్రి 11:46 గంటలకు ల్యాండ్ కావాల్సి ఉంది.",
+      "translated": true
+    },
+    {
+      "id": "89d2fa80c850058566eed897b3d7f75e",
+      "title": "‘Evidence insufficient’: Spl Delhi court clears ex-MP Darda, son & others in coal ‘scam’ case",
+      "summary": "The case stemmed from the allocation in Maharashtra’s Bandar and led to the first CBI chargesheet in the larger coal block controversy dating back to the time Congress-led UPA was in office. The FIR was filed in 2012 and the chargesheet in 2014. Judge Sunena Sharma held that there was no proof of criminal conspiracy, noting the case was based on conjectures and lacked evidence of a “meeting of minds” or illegal agreement.",
+      "url": "https://timesofindia.indiatimes.com/india/evidence-insufficient-spl-delhi-court-clears-ex-mp-darda-son-others-in-coal-scam-case/articleshow/129856029.cms",
+      "image": "https://static.toiimg.com/photo/msid-129856099,imgsize-58473.cms",
+      "published_at": "2026-03-27T22:27:32.000Z",
+      "source": "Times of India",
+      "category": "india",
+      "language": "en",
+      "title_te": "'సాక్ష్యం సరిపోలేదు': బొగ్గు కుంభకోణం కేసులో మాజీ ఎంపీ దర్దా, కుమారుడు మరియు ఇతరులను క్లియర్ చేసిన Spl ఢిల్లీ కోర్టు",
+      "summary_te": "ఈ కేసు మహారాష్ట్రలోని బందర్‌లో కేటాయింపుల నుండి ఉద్భవించింది మరియు కాంగ్రెస్ నేతృత్వంలోని యుపిఎ అధికారంలో ఉన్నప్పటి నుండి పెద్ద బొగ్గు బ్లాక్ వివాదంలో మొదటి సిబిఐ ఛార్జిషీట్‌కు దారితీసింది. ఎఫ్‌ఐఆర్ 2012లో మరియు 2014లో ఛార్జిషీట్ దాఖలు చేయబడింది. నేరపూరిత కుట్రకు రుజువు లేదని న్యాయమూర్తి సునేనా శర్మ అభిప్రాయపడ్డారు, ఈ కేసు ఊహాగానాల ఆధారంగా ఉందని మరియు \"మనస్సుల సమావేశం\" లేదా చట్టవిరుద్ధమైన ఒప్పందానికి సంబంధించిన ఆధారాలు లేవని పేర్కొన్నారు.",
       "translated": true
     },
     {
@@ -131,6 +285,20 @@
       "translated": true
     },
     {
+      "id": "8363ae7e55b679675cd9a0a62f4a9fff",
+      "title": "Anger on the banks of the Musi",
+      "summary": "With the Telangana government ready to implement the Musi Riverfront Development Project in Hyderabad, residents along the river are facing possible displacement and uncertainty over compensation. The Moosa and Esi tributaries, once seasonal streams, now flow with sewage and industrial effluents, raising questions about ecological restoration. Swathi Vadlamudi speaks to citizens and environmentalists",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/anger-on-the-banks-of-the-musi/article70793826.ece",
+      "image": "https://th-i.thgim.com/public/incoming/lk3mkn/article70793830.ece/alternates/LANDSCAPE_1200/2248_26_3_2026_19_49_21_1_NGP8283.jpg",
+      "published_at": "2026-03-27T22:02:09.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "మూసీ ఒడ్డున ఆగ్రహం",
+      "summary_te": "హైదరాబాద్‌లో మూసీ రివర్‌ఫ్రంట్‌ డెవలప్‌మెంట్‌ ప్రాజెక్టును అమలు చేసేందుకు తెలంగాణ ప్రభుత్వం సిద్ధమవడంతో, నది వెంబడి ఉన్న నివాసితులు స్థానభ్రంశం మరియు పరిహారంపై అనిశ్చితిని ఎదుర్కొంటున్నారు. మూసా మరియు ఈసి ఉపనదులు, ఒకప్పుడు కాలానుగుణ ప్రవాహాలు, ఇప్పుడు మురుగునీరు మరియు పారిశ్రామిక వ్యర్థాలతో ప్రవహిస్తాయి, పర్యావరణ పునరుద్ధరణ గురించి ప్రశ్నలను లేవనెత్తుతున్నాయి. స్వాతి వడ్లమూడి పౌరులు మరియు పర్యావరణవేత్తలతో మాట్లాడారు",
+      "translated": true
+    },
+    {
       "id": "2d820372c63f0758384d244928ea1c75",
       "title": "Clashes erupt during Ram Navami procession in Bengal's Murshidabad, security tightened",
       "summary": "The situation turned volatile after an altercation during the procession escalated into violence, with both sides throwing stones at each other and vandalising property in the area",
@@ -184,20 +352,6 @@
       "language": "en",
       "title_te": "NCERT రీసెట్, AI పుష్: ప్రధాన్ ఎడ్యుకేషన్ రోడ్‌మ్యాప్‌ను వివరిస్తాడు",
       "summary_te": "భారతీయ ఉన్నత విద్యలో ప్రమాణాలు, నాణ్యత మరియు ఈక్విటీని కాపాడేందుకు ఉద్దేశించిన UGC నిబంధనలకు సంబంధించిన ఇటీవలి వివాదంపై, ప్రధాన్ వివరణాత్మక వ్యాఖ్యను విరమించుకున్నారు, ఈ విషయం ఉపన్యాసమని పేర్కొన్నారు. \"ఎవరూ అన్యాయం లేదా వివక్షను ఎదుర్కోకుండా చూసుకోవడం ప్రభుత్వ బాధ్యత. కోర్టు సమస్యలు ఏవైనా ఆదేశాలు ఇచ్చినా మేము కట్టుబడి ఉంటాము\" అని ఆయన అన్నారు. మంత్రిత్వ శాఖ యొక్క విస్తృత ప్రాధాన్యతలను వివరిస్తూ, విద్యా వ్యవస్థ ప్రస్తుతం దాదాపు 30 కోట్ల మంది విద్యార్థులకు సేవలందిస్తోందని, విధాన నిర్ణేతలపై గణనీయమైన బాధ్యతను ఉంచుతుందని ప్రధాన్ అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "e113a51249c9a1525d56b0ac9729f205",
-      "title": "Musk Joined PM Modi-Trump Phone Call To Discuss US-Israel War Against Iran",
-      "summary": "Elon Musk joined phone call between PM Modi and US President Donald Trump to discuss Iran War: news agency Reuters",
-      "url": "https://www.ndtv.com/world-news/elon-musk-joined-phone-call-between-pm-modi-and-us-president-donald-trump-to-discuss-iran-war-news-agency-reuters-11276659#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2019-09/lneugq4_pm-modi-trump-650_650x400_24_September_19.jpg",
-      "published_at": "2026-03-27T21:37:51.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఇరాన్‌పై యుఎస్-ఇజ్రాయెల్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోడీ-ట్రంప్ ఫోన్ కాల్‌తో మస్క్ చేరారు",
-      "summary_te": "ఇరాన్ యుద్ధం గురించి చర్చించడానికి ప్రధాని మోదీ మరియు అమెరికా అధ్యక్షుడు డొనాల్డ్ ట్రంప్ మధ్య ఫోన్ కాల్‌లో ఎలాన్ మస్క్ చేరారు: వార్తా సంస్థ రాయిటర్స్",
       "translated": true
     },
     {
@@ -267,7 +421,7 @@
       "category": "india",
       "language": "en",
       "title_te": "ప్రభుత్వ భూమిని లాక్కుంటే జన్ విశ్వాస్ బిల్లు జరిమానా, జైలు శిక్ష",
-      "summary_te": "శుక్రవారం లోక్‌సభలో ప్రవేశపెట్టిన బిల్లు - ప్రస్తుతం ఆరు నెలల జైలు శిక్ష లేదా రూ. 5,000 జరిమానా లేదా రెండూ విధించే పబ్లిక్ ప్రాంగణాల (అనధికారిక నిర్వాసితుల తొలగింపు) చట్టంలోని సెక్షన్-11ను సవరించాలని ప్రతిపాదించింది. ప్రతిపాదన ప్రకారం, ఆక్రమణ చేసిన ప్రతి సంవత్సరానికి భూమి విలువలో 5% జరిమానా లేదా రెండూ - జరిమానా మరియు జైలు. దీంతో ఆక్రమణలను అరికట్టవచ్చని, భూకబ్జాలను అరికట్టవచ్చని అధికారులు తెలిపారు.",
+      "summary_te": "శుక్రవారం లోక్‌సభలో ప్రవేశపెట్టిన బిల్లు - ప్రస్తుతం ఆరు నెలల జైలు శిక్ష లేదా రూ. 5,000 జరిమానా లేదా రెండూ విధించే పబ్లిక్ ప్రాంగణాల (అనధికారిక నిర్వాసితుల తొలగింపు) చట్టంలోని సెక్షన్-11ను సవరించాలని ప్రతిపాదించింది. ప్రతిపాదన ప్రకారం, ఆక్రమణకు గురైన ప్రతి సంవత్సరానికి భూమి విలువలో 5% జరిమానా లేదా రెండూ - పెనాల్టీ మరియు జైలు. దీంతో ఆక్రమణలను అరికట్టవచ్చని, భూకబ్జాలను అరికట్టవచ్చని అధికారులు తెలిపారు.",
       "translated": true
     },
     {
@@ -310,20 +464,6 @@
       "language": "en",
       "title_te": "పశ్చిమాసియా సంక్షోభాన్ని ఎదుర్కొనేందుకు ఏకం అవ్వండి, సీఎంలకు ప్రధాని చెప్పారు; ప్రజల విశ్వాసాన్ని పెంచాలని కోరారు",
       "summary_te": "సప్లయ్ లైన్ల సుదీర్ఘ అంతరాయం కోసం సిద్ధం చేయడంపై దృష్టి సారించినప్పుడు, మోడీ దేశం మంచి స్థితిలో ఉందని హామీ ఇచ్చారు, \"ఇటీవలి సంవత్సరాలలో భారతదేశ ఆర్థిక మరియు సరఫరా వ్యవస్థలను బలోపేతం చేయడానికి చేసిన ప్రయత్నాలు ప్రయోజనకరంగా ఉన్నాయి\" అని అన్నారు. వచ్చే నెలలో అసెంబ్లీ ఎన్నికలు జరగనున్న అస్సాం, పశ్చిమ బెంగాల్, తమిళనాడు, కేరళ మరియు పుదుచ్చేరి మినహా సీఎంలతో తన వర్చువల్ మీటింగ్‌లో శుక్రవారం, ప్రధానమంత్రి మోడీ ఒక సవాలును ఉద్దేశించి భాగస్వామ్య బాధ్యత అని అన్నారు.",
-      "translated": true
-    },
-    {
-      "id": "5241174a983429630096847301e52089",
-      "title": "Tiger Woods faces another scary car crash before Masters decision",
-      "summary": "Tiger Woods was involved in a rollover car crash in Jupiter Island, Florida, on Friday afternoon. Early reports from witnesses suggest he appeared fine, but officials have not confirmed his condition yet. The incident is under investigation. The timing is important as Woods is expected to decide soon on playing in the Masters.",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/tiger-woods-faces-another-scary-car-crash-before-masters-decision-as-vanessa-trump-and-kai-trumps-details-surface/articleshow/129854327.cms",
-      "image": "https://static.toiimg.com/photo/msid-129854323,imgsize-984777.cms",
-      "published_at": "2026-03-27T20:59:45.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మాస్టర్స్ నిర్ణయానికి ముందు టైగర్ వుడ్స్ మరో భయంకరమైన కారు ప్రమాదాన్ని ఎదుర్కొన్నాడు",
-      "summary_te": "శుక్రవారం మధ్యాహ్నం ఫ్లోరిడాలోని జూపిటర్ ఐలాండ్‌లో టైగర్ వుడ్స్ రోల్ ఓవర్ కారు ప్రమాదంలో చిక్కుకున్నాడు. సాక్షుల నుండి ప్రారంభ నివేదికలు అతను బాగానే ఉన్నట్లు సూచిస్తున్నాయి, కానీ అధికారులు అతని పరిస్థితిని ఇంకా ధృవీకరించలేదు. ఘటనపై విచారణ జరుగుతోంది. మాస్టర్స్‌లో ఆడటంపై వుడ్స్ త్వరలో నిర్ణయం తీసుకుంటారని భావిస్తున్నందున సమయం చాలా ముఖ్యం.",
       "translated": true
     },
     {
@@ -547,7 +687,7 @@
       "category": "india",
       "language": "en",
       "title_te": "బలమైన వాణిజ్య కారిడార్లు మరియు సరఫరా గొలుసులు అవసరమని జైశంకర్ చెప్పారు",
-      "summary_te": "విదేశీ వ్యవహారాల మంత్రి IMEC వంటి స్థితిస్థాపక వాణిజ్య కారిడార్‌ల ప్రాముఖ్యతను నొక్కి చెప్పారు, ముఖ్యంగా పశ్చిమాసియా సంఘర్షణల అనిశ్చితుల మధ్య; ప్రపంచ ఆర్థిక భద్రతను నిర్ధారించడానికి నావిగేషన్ స్వేచ్ఛ కోసం పిలుపునిచ్చింది",
+      "summary_te": "విదేశీ వ్యవహారాల మంత్రి IMEC వంటి స్థితిస్థాపక వాణిజ్య కారిడార్‌ల ప్రాముఖ్యతను నొక్కిచెప్పారు, ముఖ్యంగా పశ్చిమాసియా సంఘర్షణల అనిశ్చితుల మధ్య; ప్రపంచ ఆర్థిక భద్రతను నిర్ధారించడానికి నావిగేషన్ స్వేచ్ఛ కోసం పిలుపునిచ్చింది",
       "translated": true
     },
     {
@@ -621,6 +761,20 @@
       "translated": true
     },
     {
+      "id": "854c02cb9d6ae68b07ff0d7ec1ecb81c",
+      "title": "Farmer held on murder charges in Tirupattur",
+      "summary": "Police said the arrested farmer was a resident of Athur Kuppam village near Natrampalli town in the district",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/farmer-held-on-murder-charges-in-tirupattur/article70792506.ece",
+      "image": null,
+      "published_at": "2026-03-27T19:41:58.000Z",
+      "source": "The Hindu",
+      "category": "india",
+      "language": "en",
+      "title_te": "తిరుపత్తూరులో హత్య కేసులో రైతు అరెస్ట్",
+      "summary_te": "అరెస్టయిన రైతు జిల్లాలోని నాట్రంపల్లి పట్టణానికి సమీపంలోని ఏతుర్ కుప్పం గ్రామానికి చెందినవాడని పోలీసులు తెలిపారు",
+      "translated": true
+    },
+    {
       "id": "fa37c6253d4a3e379929e1d0386cf8f1",
       "title": "Karnataka bypolls: Congress rebel candidate retires from contest in Davangere South",
       "summary": "Rebel candidate Sadiq Pahilwan announced that he would extend full support to Congress candidate Samarth Mallikarjun, son of Minister S.S. Mallikarjun",
@@ -691,34 +845,6 @@
       "translated": true
     },
     {
-      "id": "288e09a5f4c818413dce1027f8fc61fa",
-      "title": "Govt. notifies TRP-2026; tightens audit norms, expands sample size",
-      "summary": "Under the new policy, the net-worth requirement for a company willing to register as TV rating agency has been reduced from existing ₹20 crore to ₹5 crore",
-      "url": "https://www.thehindu.com/news/national/govt-notifies-trp-2026-tightens-audit-norms-expands-sample-size/article70793195.ece",
-      "image": "https://th-i.thgim.com/public/incoming/73wmpb/article70542642.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U2H7E1NDF_R1589554809_2_2943b9f0-0206-489c-a78b-9dde6f712c0a.jpg",
-      "published_at": "2026-03-27T19:31:55.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "ప్రభుత్వ TRP-2026ని తెలియజేస్తుంది; ఆడిట్ నిబంధనలను కఠినతరం చేస్తుంది, నమూనా పరిమాణాన్ని విస్తరిస్తుంది",
-      "summary_te": "కొత్త పాలసీ ప్రకారం, టీవీ రేటింగ్ ఏజెన్సీగా నమోదు చేసుకోవడానికి సిద్ధంగా ఉన్న కంపెనీకి నికర-విలువ అవసరం ప్రస్తుతం ఉన్న ₹20 కోట్ల నుండి ₹5 కోట్లకు తగ్గించబడింది.",
-      "translated": true
-    },
-    {
-      "id": "0646878cd729e752a7909e14208416ce",
-      "title": "Electors pitch for business development, peace and harmony in Harbour Assembly constituency",
-      "summary": "After the Special Intensive Revision (SIR), Mitha Lal, 65, was among those residents who checked the names on the electoral rolls in Sowcarpet in Harbour Assembly Constituency in the Central Business District of Chennai. “My name is on the rolls in Harbour Constituency. As I came to Chennai from Bakra Village in Jalore district of Rajasthan during my adolescent age, I never registered my name on the electoral rolls in my native village,” he said.Walking on the paved footpath of the Chennai Corporation park near Mint Street near the boundary of the constituency along with his neighbour, Kanti Lal from Mount Abu, whose name was removed during SIR, Mr. Lal said that he always desired to be an elector in Harbour Constituency because of the favourable conditions for business with peace and harmony among communities facilitated by the elected governments.“The DMK government has done well in the last five years. More than 500 people from my native village with their families are currently residents of Sowcarpet, doing business. Our MLA used to organise meetings every three months for safety and security of our businesses. Officials used to resolve all civic issues discussed at the meetings. We visit our native village during festivals. But I consider Chennai my home because I grew up in the city. Our native village is arid, and agriculture is a challenging job,” he said.",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/electors-pitch-for-business-development-peace-and-harmony-in-harbour-assembly-constituency/article70791858.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ocyr74/article70794204.ece/alternates/LANDSCAPE_1200/2501_27_3_2026_9_13_58_2_IMG_4305.JPEG",
-      "published_at": "2026-03-27T19:31:48.000Z",
-      "source": "The Hindu",
-      "category": "india",
-      "language": "en",
-      "title_te": "హార్బర్ అసెంబ్లీ నియోజకవర్గంలో వ్యాపార అభివృద్ధి, శాంతి మరియు సామరస్యం కోసం ఎలక్టర్లు పిలుపునిచ్చారు",
-      "summary_te": "స్పెషల్ ఇంటెన్సివ్ రివిజన్ (SIR) తర్వాత, చెన్నైలోని సెంట్రల్ బిజినెస్ డిస్ట్రిక్ట్‌లోని హార్బర్ అసెంబ్లీ నియోజకవర్గంలోని సౌకార్‌పేట్‌లో ఓటర్ల జాబితాపై పేర్లను తనిఖీ చేసిన నివాసితులలో మితా లాల్, 65, ఉన్నారు. \"హార్బర్ నియోజకవర్గంలో నా పేరు జాబితాలో ఉంది. నేను నా యుక్తవయస్సులో రాజస్థాన్‌లోని జలోర్ జిల్లాలోని బక్రా గ్రామం నుండి చెన్నైకి వచ్చినందున, నేను నా స్వగ్రామంలో ఎన్నడూ ఓటర్ల జాబితాలో నా పేరు నమోదు చేసుకోలేదు,\" అని అతను చెప్పాడు. చెన్నై కార్పోరేషన్ పార్క్‌లోని సుగమం చేసిన ఫుట్‌పాత్‌పై నడుస్తున్నాడు. SIR సమయంలో తొలగించబడింది, ఎన్నుకోబడిన ప్రభుత్వాలు సులభతరం చేసిన వర్గాల మధ్య శాంతి మరియు సామరస్యంతో కూడిన వ్యాపారానికి అనుకూలమైన పరిస్థితులు ఉన్నందున తాను ఎల్లప్పుడూ హార్బర్ నియోజకవర్గంలో ఓటరుగా ఉండాలని కోరుకుంటున్నానని లాల్ చెప్పారు. \"గత ఐదేళ్లలో DMK ప్రభుత్వం బాగా పనిచేసింది. మా స్వగ్రామం నుండి 500 మందికి పైగా ప్రజలు వారి కుటుంబాలతో ప్రస్తుతం సౌకార్‌పేట్‌లో భద్రత కోసం వ్యాపారాలు నిర్వహిస్తున్నారు. మేము పండుగల సమయంలో మా ఊరు వెళ్లేటటువంటి పౌరసమస్యలన్నింటిని అధికారులు పరిష్కరిస్తారు, కానీ నేను మా ఊరు ఎండిపోయి, వ్యవసాయం ఒక సవాలుతో కూడుకున్న పని.",
-      "translated": true
-    },
-    {
       "id": "ce43ec47581df58986642e195b354ae4",
       "title": "Man hangs daughters, 10 and 11, upside down overnight over theft suspicion; 1 dead",
       "summary": "Man hangs daughters, 10 and 11, upside down overnight over theft suspicion; 1 dead",
@@ -733,17 +859,17 @@
       "translated": true
     },
     {
-      "id": "7c1d9d7f55dbf46ff6db07f49f7f4199",
-      "title": "Iran War LIVE: Israel Warns Attacks On Iran 'Will Escalate And Expand'",
-      "summary": "The war in the Middle East began when the US and Israel conducted strikes on Iran, killing Supreme Leader Ali Khamenei and other senior leaders.",
-      "url": "https://www.ndtv.com/world-news/us-israel-iran-war-live-updates-iran-rejects-15-point-us-president-donald-trump-proposal-issues-counterproposal-pakistan-mediation-strait-of-hormuz-11267700#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/k0gdqtro_beirut-attack_625x300_18_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-27T18:37:11.000Z",
-      "source": "NDTV",
+      "id": "8a9e9bcbf8c4b5f977e5dc5af9309383",
+      "title": "Maharashtra woman, ex-lover poison cop dad’s milkshake, arrested 3 years later",
+      "summary": "A Chandrapur head constable's death, initially ruled an accident, has been reclassified as premeditated murder. Investigators arrested his daughter, a police trainee, and three others, including her estranged partner who turned whistleblower. The daughter allegedly poisoned her father's milkshake, leading to his collapse on duty. The motive appears to stem from her father's opposition to her relationship.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/3-years-on-woman-estranged-lover-arrested-for-poisoning-police-dad/articleshow/129852872.cms",
+      "image": "https://static.toiimg.com/photo/msid-129857018,imgsize-934743.cms",
+      "published_at": "2026-03-27T18:47:00.000Z",
+      "source": "Times of India",
       "category": "india",
       "language": "en",
-      "title_te": "ఇరాన్ యుద్ధం లైవ్: ఇరాన్‌పై దాడులు 'పెరుగుతుంది మరియు విస్తరిస్తుంది' అని ఇజ్రాయెల్ హెచ్చరించింది",
-      "summary_te": "యుఎస్ మరియు ఇజ్రాయెల్ ఇరాన్‌పై దాడులు నిర్వహించి, సుప్రీం లీడర్ అలీ ఖమేనీ మరియు ఇతర సీనియర్ నాయకులను చంపడంతో మధ్యప్రాచ్యంలో యుద్ధం ప్రారంభమైంది.",
+      "title_te": "మహారాష్ట్ర మహిళ, మాజీ ప్రేమికుడు పాయిజన్ కాప్ తండ్రి మిల్క్ షేక్, 3 సంవత్సరాల తరువాత అరెస్ట్",
+      "summary_te": "చంద్రపూర్ హెడ్ కానిస్టేబుల్ మరణం, మొదట ప్రమాదంగా నిర్ధారించబడింది, ఇది ముందస్తు హత్యగా వర్గీకరించబడింది. విజిల్‌బ్లోయర్‌గా మారిన ఆమె విడిపోయిన భాగస్వామితో సహా అతని కుమార్తె, పోలీసు ట్రైనీ మరియు మరో ముగ్గురిని పరిశోధకులు అరెస్టు చేశారు. కూతురు తన తండ్రి మిల్క్‌షేక్‌లో విషం కలిపిందని, దీంతో అతను డ్యూటీలో కుప్పకూలిపోయాడు. ఆమె సంబంధాన్ని ఆమె తండ్రి వ్యతిరేకించడం నుండి ఉద్భవించినట్లు కనిపిస్తుంది.",
       "translated": true
     },
     {
@@ -814,20 +940,6 @@
       "language": "en",
       "title_te": "'భార్య, అత్తమామల వేధింపులు': పూణే వ్యక్తి, 20, విషం తాగడం, రికార్డ్స్ వీడియో",
       "summary_te": "మహ్మద్ సాద్ ఆసిఫ్ సయ్యద్ ఎలుకల మందు తాగే ముందు వీడియోను స్నేహితుడికి పంపాడు.",
-      "translated": true
-    },
-    {
-      "id": "bff51e70473af782c3e9162af61175fa",
-      "title": "Rubio says sanctions relief for Russian crude not permanent as war roils oil market",
-      "summary": "At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world.Read More Determine the monthly installment amount for a loan Estimate the returns on investments made through SIPs Find out maturity amount and interest earned on PPF Check maturity amount and interest earned on an FD Estimate the pension amount and corpus accumulated under NPS A Mutual Fund Calculator helps estimate the future value of investments We use cookies and other tracking technologies to provide services while browsing the Website to show personalise content and targeted ads, analyse site traffic and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to use our Website, you consent to the use of these cookies and accept our Privacy terms. If you wish to see more information about how we process your personal data, please read our Cookie Policy and Privacy Policy We use cookies and other tracking technologies to provide services in line with the preferences you reveal while browsing the Website to show personalize content and targeted ads, analyze site traffic..., and understand where our audience is coming from in order to improve your browsing experience on our Website. By continuing to browse this Website, you consent to the use of these cookies. If you wish to object such processing, please read the instructions described in our'; Q+=' Cookie Policy ';Q+=\" /\";Q+=' Privacy Policy';Q+='Read more';Q+=\" Our Privacy Policy has been revised. Please review updated ';P+='Privacy Policy Here';P+='",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/sanctions-relief-on-russian-crude-not-permanent-policy-rubio-amid-war-driven-market-turmoil/articleshow/129851883.cms",
-      "image": "https://static.toiimg.com/photo/msid-129851878,imgsize-800946.cms",
-      "published_at": "2026-03-27T17:56:56.000Z",
-      "source": "Times of India",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఆయిల్ మార్కెట్‌ను యుద్ధం చుట్టుముట్టడంతో రష్యా క్రూడ్‌కు ఆంక్షలు శాశ్వతం కాదని రూబియో చెప్పారు",
-      "summary_te": "TOI వరల్డ్ డెస్క్‌లో, అనుభవజ్ఞులైన జర్నలిస్టులు మరియు ఉద్వేగభరితమైన రచయితలతో కూడిన మా అంకితభావంతో కూడిన బృందం గ్లోబల్ ఈవెంట్‌ల యొక్క విస్తారమైన టేప్‌స్ట్రీని అలసిపోకుండా జల్లెడపడుతూ తాజా వార్తలు మరియు విభిన్న దృక్కోణాలను మీకు అందజేస్తుంది. ఖచ్చితత్వం, లోతు మరియు సమయానుకూలత పట్ల అచంచలమైన నిబద్ధతతో, మా పాఠకులకు అంతర్జాతీయ వ్యవహారాలపై సూక్ష్మ అవగాహనను అందజేస్తూ, నిరంతరం అభివృద్ధి చెందుతున్న ప్రపంచం గురించి మీకు తెలియజేయడానికి మేము ప్రయత్నిస్తాము. మన ఇంటర్‌కనెక్టడ్ ప్రపంచాన్ని రూపొందించే కథనాలను మేము విప్పుతున్నప్పుడు ఖండాంతరాల ప్రయాణంలో మాతో చేరండి. మరింత చదవండి రుణం కోసం నెలవారీ వాయిదా మొత్తాన్ని నిర్ణయించండి SIPల ద్వారా చేసిన పెట్టుబడులపై రాబడిని అంచనా వేయండి PPF మెచ్యూరిటీ మొత్తం మరియు వడ్డీపై సంపాదించిన మెచ్యూరిటీ మొత్తాన్ని కనుగొనండి మరియు ఒక FDపై సంపాదించిన వడ్డీని కనుగొనండి పెట్టుబడుల యొక్క భవిష్యత్తు విలువ వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపడానికి, సైట్ ట్రాఫిక్‌ను విశ్లేషించడానికి మరియు మా వెబ్‌సైట్‌లో మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ సాంకేతికతలను ఉపయోగిస్తాము. మా వెబ్‌సైట్‌ను ఉపయోగించడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు మరియు మా గోప్యతా నిబంధనలను అంగీకరిస్తారు. మీ వ్యక్తిగత డేటాను మేము ఎలా ప్రాసెస్ చేస్తాము అనే దాని గురించి మీరు మరింత సమాచారాన్ని చూడాలనుకుంటే, దయచేసి మా కుకీ పాలసీ మరియు గోప్యతా విధానాన్ని చదవండి, వ్యక్తిగతీకరించిన కంటెంట్ మరియు లక్ష్య ప్రకటనలను చూపించడానికి, సైట్ ట్రాఫిక్‌ని విశ్లేషించడానికి... మరియు మీ బ్రౌజింగ్ అనుభవాన్ని మెరుగుపరచడానికి మా ప్రేక్షకులు ఎక్కడి నుండి వస్తున్నారో అర్థం చేసుకోవడానికి వెబ్‌సైట్‌ను బ్రౌజ్ చేస్తున్నప్పుడు మీరు వెల్లడించే ప్రాధాన్యతలకు అనుగుణంగా సేవలను అందించడానికి మేము కుక్కీలు మరియు ఇతర ట్రాకింగ్ టెక్నాలజీలను ఉపయోగిస్తాము. ఈ వెబ్‌సైట్‌ను బ్రౌజ్ చేయడం కొనసాగించడం ద్వారా, మీరు ఈ కుక్కీల వినియోగానికి సమ్మతిస్తున్నారు. అటువంటి ప్రాసెసింగ్‌ను మీరు అభ్యంతరం చెప్పాలనుకుంటే, దయచేసి మా'లో వివరించిన సూచనలను చదవండి; Q+=' కుకీ పాలసీ ';Q+=\" /\";Q+=' గోప్యతా విధానం';Q+='మరింత చదవండి';Q+=\" మా గోప్యతా విధానం సవరించబడింది. దయచేసి నవీకరించబడిన ';P+='గోప్యతా విధానం ఇక్కడ';P+='",
       "translated": true
     },
     {
@@ -1065,7 +1177,7 @@
       "category": "india",
       "language": "en",
       "title_te": "పశ్చిమాసియాలోని 12వ తరగతి విద్యార్థుల కోసం CBSE ప్రత్యామ్నాయ అసెస్‌మెంట్ పథకాన్ని ప్రకటించింది",
-      "summary_te": "CBSE బోర్డు పరీక్షలు 2026: పశ్చిమాసియా దేశాలలో మార్చి 16 నుండి ఏప్రిల్ 10 వరకు షెడ్యూల్ చేయబడిన అన్ని 12వ తరగతి పరీక్షలు, గతంలో వాయిదా వేసిన పరీక్షలతో సహా రద్దు చేయబడ్డాయి.",
+      "summary_te": "CBSE బోర్డ్ పరీక్షలు 2026: పశ్చిమాసియా దేశాలలో మార్చి 16 నుండి ఏప్రిల్ 10 వరకు షెడ్యూల్ చేయబడిన అన్ని 12వ తరగతి పరీక్షలు, గతంలో వాయిదా వేసిన పరీక్షలతో సహా రద్దు చేయబడ్డాయి.",
       "translated": true
     },
     {
@@ -1219,7 +1331,7 @@
       "category": "india",
       "language": "en",
       "title_te": "చెన్నైలోని అన్నా యూనివర్శిటీలో ప్రొఫెసర్ లైంగిక వేధింపులకు పాల్పడుతున్నాడని విద్యార్థిని ఆరోపించింది",
-      "summary_te": "ప్రొఫెసర్ తరచూ తనకు అసభ్యకరమైన సందేశాలు పంపేవాడని, అర్థరాత్రి తనకు ఫోన్ చేసి అనుచిత సంభాషణలు చేసేవాడని విద్యార్థిని ఆరోపించింది.",
+      "summary_te": "ప్రొఫెసర్ తనకు తరచూ అసభ్యకరమైన సందేశాలు పంపేవాడని, అర్థరాత్రి తనకు ఫోన్ చేసి అనుచిత సంభాషణలు చేసేవాడని విద్యార్థిని ఆరోపించింది.",
       "translated": true
     },
     {
@@ -1243,7 +1355,7 @@
       "url": "https://www.ndtv.com/india-news/us-iran-war-pm-narendra-modi-reviews-states-preparedness-with-chief-ministers-amid-middle-east-crisis-11275576#publisher=newsstand",
       "image": "https://c.ndtvimg.com/2026-03/ef0b9eas_pm-modicms-meeting-_625x300_27_March_26.jpeg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
       "published_at": "2026-03-27T15:25:43.000Z",
-      "source": "NDTV",
+      "source": "NDTV India",
       "category": "india",
       "language": "en",
       "title_te": "మిడిల్ ఈస్ట్ సంక్షోభం మధ్య ముఖ్యమంత్రులతో రాష్ట్రాల సన్నద్ధతను ప్రధాని మోదీ సమీక్షించారు",
@@ -1279,20 +1391,6 @@
       "translated": true
     },
     {
-      "id": "719953d90e19df7c159ef2101dc9829a",
-      "title": "DK Shivakumar's Update On Karnataka MLAs' Demand For IPL Tickets",
-      "summary": "The statement came a day after members of the Karnataka Legislative Assembly, across party lines, raised the issue of ticket and seating arrangements for them during the matches.",
-      "url": "https://www.ndtv.com/karnataka-news/karnataka-mlas-vip-treatment-dk-shivakumars-update-on-karnataka-mlas-demand-for-ipl-tickets-11275638#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-11/5gevg6l4_dk-shivakumar_625x300_30_November_25.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-27T15:13:50.000Z",
-      "source": "NDTV",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఐపీఎల్ టిక్కెట్ల కోసం కర్ణాటక ఎమ్మెల్యేల డిమాండ్‌పై డీకే శివకుమార్ అప్‌డేట్",
-      "summary_te": "మ్యాచ్‌ల సమయంలో వారికి టిక్కెట్లు మరియు సీటింగ్ ఏర్పాట్ల గురించి పార్టీలకతీతంగా కర్ణాటక శాసనసభ సభ్యులు లేవనెత్తిన ఒక రోజు తర్వాత ఈ ప్రకటన వచ్చింది.",
-      "translated": true
-    },
-    {
       "id": "a58e337a1502dfca2e1608f993faf7e0",
       "title": "Pilots’ association flags ‘serious risk’ in Air India flights to West Asia, writes to DGCA: ‘Wilful endangerment’",
       "summary": "The Airline Pilots’ Association of India raised alarm over Air India's operations in conflict zones, urging government intervention to ensure passenger safety.",
@@ -1304,104 +1402,6 @@
       "language": "en",
       "title_te": "పశ్చిమాసియాకు వెళ్లే ఎయిర్ ఇండియా విమానాల్లో ‘తీవ్ర ప్రమాదం’ అని పైలట్ల సంఘం ఫ్లాగ్ చేసి, DGCAకి లేఖ రాసింది: ‘ఉద్దేశపూర్వక ప్రమాదం’",
       "summary_te": "ఎయిర్‌లైన్ పైలట్స్ అసోసియేషన్ ఆఫ్ ఇండియా సంఘర్షణ ప్రాంతాలలో ఎయిర్ ఇండియా కార్యకలాపాలపై అప్రమత్తం చేసింది, ప్రయాణీకుల భద్రతను నిర్ధారించడానికి ప్రభుత్వ జోక్యాన్ని కోరింది.",
-      "translated": true
-    },
-    {
-      "id": "34ff59edddf3614d68cef22576ac2598",
-      "title": "Athletes, legal experts challenge IOC’s gene testing policy for women",
-      "summary": "International Olympic Committee’s new policy mandating genetic testing for women athletes sparks global backlash over human rights, legality, and lack of scientific basis",
-      "url": "https://www.hindustantimes.com/india-news/athletes-legal-experts-challenge-ioc-s-gene-testing-policy-for-women-101774623694450.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/1600x900/logo/The-International-Olympic-Committee--IOC--policy-o_1774623687773.jpg",
-      "published_at": "2026-03-27T15:01:34.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "అథ్లెట్లు, న్యాయ నిపుణులు మహిళల కోసం IOC యొక్క జన్యు పరీక్ష విధానాన్ని సవాలు చేస్తున్నారు",
-      "summary_te": "అంతర్జాతీయ ఒలింపిక్ కమిటీ యొక్క కొత్త విధానం మహిళా అథ్లెట్లకు జన్యు పరీక్షను తప్పనిసరి చేయడం మానవ హక్కులు, చట్టబద్ధత మరియు శాస్త్రీయ ఆధారం లేకపోవడంపై ప్రపంచవ్యాప్తంగా ఎదురుదెబ్బ తగిలింది.",
-      "translated": true
-    },
-    {
-      "id": "626e337d47715092334eac17f1bb812d",
-      "title": "EAM Jaishankar flags Global South concerns at G7 meet in France",
-      "summary": "Jaishankar raises Global South concerns on energy, food and supply chains at G7 meet in France amid West Asia conflict and calls for UN reforms.",
-      "url": "https://www.hindustantimes.com/india-news/eam-jaishankar-flags-global-south-concerns-at-g7-meet-in-france-101774623454195.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/1600x900/logo/Jaishankar-highlights-Global-South-concerns-at-G7-_1774623508498.jpg",
-      "published_at": "2026-03-27T14:57:33.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "ఫ్రాన్స్‌లో జరిగిన G7 సమావేశంలో EAM జైశంకర్ గ్లోబల్ సౌత్ ఆందోళనలను ఫ్లాగ్ చేశారు",
-      "summary_te": "పశ్చిమాసియా వివాదం మరియు UN సంస్కరణల కోసం పిలుపుల మధ్య ఫ్రాన్స్‌లో జరిగిన G7 సమావేశంలో జైశంకర్ శక్తి, ఆహారం మరియు సరఫరా గొలుసులపై గ్లోబల్ సౌత్ ఆందోళనలను లేవనెత్తారు.",
-      "translated": true
-    },
-    {
-      "id": "f40c59a337f8943d3770a66b7c11e110",
-      "title": "7 killed, several injured as avalanche hits Srinagar-Leh highway; vehicles trapped",
-      "summary": "7 killed, several injured as avalanche hits Srinagar-Leh highway; vehicles trapped",
-      "url": " https://www.indiatoday.in/india/story/6-killed-5-injured-as-avalanche-hits-jks-sonmarg-highway-dozens-of-vehicles-buried-under-snow-2888093-2026-03-27?utm_source=rss ",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202603/avalanche-27202496-16x9_0.jpg?VersionId=nz.S2Wn3Kk2a11xuk85VgP8SY1Jjwq9x",
-      "published_at": "2026-03-27T14:47:01.000Z",
-      "source": "India Today",
-      "category": "india",
-      "language": "en",
-      "title_te": "శ్రీనగర్-లేహ్ హైవేను హిమపాతం తాకడంతో 7 మంది మరణించారు, పలువురు గాయపడ్డారు; చిక్కుకున్న వాహనాలు",
-      "summary_te": "శ్రీనగర్-లేహ్ హైవేను హిమపాతం తాకడంతో 7 మంది మరణించారు, పలువురు గాయపడ్డారు; చిక్కుకున్న వాహనాలు",
-      "translated": true
-    },
-    {
-      "id": "744382fd584947c1580aa2fa8bb7f968",
-      "title": "Chhattisgarh offers incentives up to 200% of investment to boost textile, garment manufacturing",
-      "summary": "The parks offer plots ranging from 0.3 to 10 acres and are equipped with reliable power and water supply and common effluent treatment facilities.",
-      "url": "https://www.hindustantimes.com/india-news/chhattisgarh-offers-incentives-up-to-200-of-investment-to-boost-textile-garment-manufacturing-101774620013481.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/1600x900/logo/Loans-taken-by-sugar-factories-were-not-utilised-f_1749236417724_1774622279367.jpg",
-      "published_at": "2026-03-27T14:38:42.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "చత్తీస్‌గఢ్ టెక్స్‌టైల్, గార్మెంట్ తయారీని పెంచడానికి పెట్టుబడిలో 200% వరకు ప్రోత్సాహకాలను అందిస్తుంది",
-      "summary_te": "ఉద్యానవనాలు 0.3 నుండి 10 ఎకరాల వరకు ప్లాట్‌లను అందిస్తాయి మరియు నమ్మదగిన విద్యుత్ మరియు నీటి సరఫరా మరియు సాధారణ ప్రసరించే శుద్ధి సౌకర్యాలను కలిగి ఉంటాయి.",
-      "translated": true
-    },
-    {
-      "id": "a47b5fec924664f7ff791256e0ad3504",
-      "title": "Ladakh avalanche highlights: 5 bodies recovered after massive avalanche, Srinagar-Leh highway blocked",
-      "summary": "Ladakh avalanche highlights: Multiple avalanches hit the stretch between Zero Point and Minimarg on Friday afternoon, leaving several vehicles trapped under the debris. While, union minister Jitendra Singh said seven people have died, a total of five bodies have been recovered.",
-      "url": "https://www.hindustantimes.com/india-news/ladakh-avalanche-live-updates-5-dead-7-injured-in-massive-avalanche-near-zoji-la-srinagar-leh-highway-blocked-101774620612808.html",
-      "image": "https://www.hindustantimes.com/images/default/default-621.jpg",
-      "published_at": "2026-03-27T14:26:29.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "లడఖ్ హిమపాతం ముఖ్యాంశాలు: భారీ హిమపాతం తర్వాత 5 మృతదేహాలను వెలికితీశారు, శ్రీనగర్-లేహ్ హైవే బ్లాక్ చేయబడింది",
-      "summary_te": "లడఖ్ హిమపాతం ముఖ్యాంశాలు: శుక్రవారం మధ్యాహ్నం జీరో పాయింట్ మరియు మినీమార్గ్ మధ్య సాగిన అనేక హిమపాతాలు శిధిలాల కింద చిక్కుకున్న అనేక వాహనాలను వదిలివేసాయి. కాగా, ఏడుగురు మరణించారని, మొత్తం ఐదు మృతదేహాలను వెలికితీసినట్లు కేంద్ర మంత్రి జితేంద్ర సింగ్ తెలిపారు.",
-      "translated": true
-    },
-    {
-      "id": "efe3346e511adfb938284de4f69b5d49",
-      "title": "‘Joining BJP was a historic mistake’: Subhas Chandra Bose’s grandnephew calls for 'unity to counter divisive politics'",
-      "summary": "The leader urged the INDIA alliance, party workers, and citizens to come together to safeguard the constitutional framework of the nation",
-      "url": "https://www.hindustantimes.com/india-news/joining-bjp-was-a-historic-mistake-subhas-chandra-bose-s-grandnephew-calls-for-unity-to-counter-divisive-politics-101774618078829.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/03/27/1600x900/logo/SpK2E6xt_400x400_1774618295755_1774618307054.jpg",
-      "published_at": "2026-03-27T14:16:01.000Z",
-      "source": "Hindustan Times",
-      "category": "india",
-      "language": "en",
-      "title_te": "‘బీజేపీలో చేరడం చారిత్రాత్మక తప్పిదం’: ‘విభజన రాజకీయాలను ఎదుర్కోవడానికి ఐక్యం కావాలి’ అని సుభాష్ చంద్రబోస్ మనవడు పిలుపునిచ్చారు.",
-      "summary_te": "భారతదేశ కూటమి, పార్టీ కార్యకర్తలు మరియు పౌరులు దేశం యొక్క రాజ్యాంగ చట్రాన్ని కాపాడటానికి కలిసి రావాలని నాయకుడు కోరారు.",
-      "translated": true
-    },
-    {
-      "id": "aa403ee2cdfc03f81b518a886edc3154",
-      "title": "Centre Forms Ministerial Group To Address Middle East Conflict Impact",
-      "summary": "The \"arrangement\" comes in view of the issues arising due to the impact of the West Asia conflict, the sources said.",
-      "url": "https://www.ndtv.com/india-news/centre-forms-ministerial-group-to-address-middle-east-conflict-impact-11275190#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/7pdm5bo_iran-war_625x300_25_March_26.png?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-      "published_at": "2026-03-27T14:13:13.000Z",
-      "source": "NDTV India",
-      "category": "india",
-      "language": "en",
-      "title_te": "మిడిల్ ఈస్ట్ సంఘర్షణ ప్రభావాన్ని పరిష్కరించడానికి కేంద్రం మంత్రుల బృందాన్ని ఏర్పాటు చేసింది",
-      "summary_te": "పశ్చిమాసియా వివాదాల ప్రభావం వల్ల తలెత్తే సమస్యలను దృష్టిలో ఉంచుకుని ఈ \"ఏర్పాట్\" జరిగిందని సంబంధిత వర్గాలు తెలిపాయి.",
       "translated": true
     }
   ]
