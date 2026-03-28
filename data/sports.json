@@ -1,9 +1,23 @@
 {
-  "updated_at": "2026-03-28T03:46:45.090Z",
-  "updated_at_IST": "28/3/2026, 9:16:45 am",
+  "updated_at": "2026-03-28T05:31:03.570Z",
+  "updated_at_IST": "28/3/2026, 11:01:03 am",
   "category": "sports",
   "count": 25,
   "articles": [
+    {
+      "id": "f88b0ac5ef988320552b5425b142f1b5",
+      "title": "Dhoni 'likely to miss first two weeks' of IPL 2026 because of calf strain",
+      "summary": "MS Dhoni is currently undergoing rehabilitation, CSK say in a statement on the opening day of IPL 2026",
+      "url": "https://www.espncricinfo.com/ci/content/story/1529493.html?ex_cid=OTC-RSS",
+      "image": "http://p.imgci.com/db/PICTURES/CMS/414800/414849.jpg",
+      "published_at": "2026-03-28T05:14:00.000Z",
+      "source": "ESPNCricinfo",
+      "category": "sports",
+      "language": "en",
+      "title_te": "దూడ ఒత్తిడి కారణంగా IPL 2026 మొదటి రెండు వారాలకు ధోని దూరమయ్యే అవకాశం ఉంది",
+      "summary_te": "MS ధోని ప్రస్తుతం పునరావాసం పొందుతున్నాడు, IPL 2026 ప్రారంభ రోజున CSK ఒక ప్రకటనలో తెలిపింది.",
+      "translated": true
+    },
     {
       "id": "98bf4c2d9043ab1f207ac8a2c83914c8",
       "title": "Taylor hits unbeaten century but Australia convincing winners",
@@ -15,7 +29,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "టేలర్ అజేయ సెంచరీ కొట్టాడు కానీ ఆస్ట్రేలియా విజేతలను ఒప్పించింది",
-      "summary_te": "ఫోబ్ లిచ్‌ఫీల్డ్ 77 పరుగులతో టాప్ స్కోర్ చేశాడు మరియు జార్జియా వేర్‌హామ్ ఆల్ రౌండ్ గేమ్‌ను ఆకట్టుకున్నాడు.",
+      "summary_te": "ఫోబ్ లిచ్‌ఫీల్డ్ 77 పరుగులతో అత్యధిక స్కోరు చేసింది మరియు జార్జియా వేర్‌హామ్ ఆల్ రౌండ్ గేమ్‌ను ఆకట్టుకుంది.",
       "translated": true
     },
     {
@@ -57,7 +71,7 @@
       "category": "sports",
       "language": "en",
       "title_te": "గ్లామోర్గాన్ T20 బ్లాస్ట్‌కు ఫజల్‌హాక్ ఫారూకీని సంతకం చేసింది",
-      "summary_te": "ఇప్పటికే నాట్స్ మరియు మాంచెస్టర్ ఒరిజినల్స్‌లో పాల్గొని కౌంటీకి ఆడిన మొదటి ఆఫ్ఘన్‌గా నిలిచాడు",
+      "summary_te": "ఇప్పటికే నాట్స్ మరియు మాంచెస్టర్ ఒరిజినల్స్ కోసం ఆడిన మొదటి ఆఫ్ఘన్ కౌంటీకి ఆడాడు",
       "translated": true
     },
     {
@@ -338,20 +352,6 @@
       "language": "en",
       "title_te": "SA టాప్ ఆర్డర్ ద్వారా విక్టోరియా కూల్చివేత తర్వాత రోజు వర్షం శిథిలాలు ప్రారంభమయ్యాయి",
       "summary_te": "విక్టోరియా సీమర్లు సౌత్ ఆస్ట్రేలియా టాప్ ఆర్డర్‌ను చీల్చడంతో వర్షం ఆట ముగిసే ముందు 28 ఓవర్లు మాత్రమే సాధ్యమయ్యాయి.",
-      "translated": true
-    },
-    {
-      "id": "b23aaec04d93ee63e7a7af8ff55a1c64",
-      "title": "Australia coach sees huge value in Molineux's non-bowling series",
-      "summary": "With the T20 World Cup closing in, the West Indies tour was viewed as vital captaincy experience",
-      "url": "https://www.espncricinfo.com/ci/content/story/1529179.html?ex_cid=OTC-RSS",
-      "image": "http://p.imgci.com/db/PICTURES/CMS/414700/414758.jpg",
-      "published_at": "2026-03-25T23:47:29.000Z",
-      "source": "ESPNCricinfo",
-      "category": "sports",
-      "language": "en",
-      "title_te": "మోలినెక్స్ నాన్-బౌలింగ్ సిరీస్‌లో ఆస్ట్రేలియా కోచ్ భారీ విలువను చూస్తాడు",
-      "summary_te": "T20 ప్రపంచ కప్ ముగియడంతో, వెస్టిండీస్ పర్యటన కీలకమైన కెప్టెన్సీ అనుభవంగా పరిగణించబడింది.",
       "translated": true
     }
   ]
