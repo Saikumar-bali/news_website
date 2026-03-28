@@ -2,7 +2,7 @@ name: 📰 Telugu News Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Every hour
+    # - cron: '0 * * * *'  # Every hour
   workflow_dispatch:       # Manual trigger
 
 jobs:
